@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/lock_settings_picker_title" android:key="lock_settings_picker"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.CheckMarkPreference android:persistent="false" android:title="@string/pwd_mode_none_title_abbr" android:key="unlock_set_none" />
+    <com.android.settings.CheckMarkPreference android:persistent="false" android:title="@string/pwd_mode_pattern_title" android:key="unlock_set_pattern" />
+    <com.android.settings.CheckMarkPreference android:persistent="false" android:title="@string/pwd_mode_numeric_title" android:key="unlock_set_pin" />
+    <com.android.settings.CheckMarkPreference android:persistent="false" android:title="@string/pwd_mode_complex_title" android:key="unlock_set_password" />
+    <PreferenceScreen android:persistent="false" android:enabled="false" android:layout="@layout/fap_category_divider_line" android:title="@null" android:selectable="false" />
+</PreferenceScreen>

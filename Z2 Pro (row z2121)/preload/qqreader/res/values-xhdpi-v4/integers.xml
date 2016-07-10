@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="feed_bookauthor_maxems">8</integer>
+    <integer name="read_gene_ratio">10</integer>
+</resources>

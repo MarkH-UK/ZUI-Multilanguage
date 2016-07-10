@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"Dette er generell informasjon om enheten samt bruk av den – for eksempel opplysninger om batterinivå, hvor ofte apper brukes, kvaliteten og varigheter på nettverkstilkoblinger (f.eks. mobilnett, Wi-Fi og Bluetooth) samt programstopprapporter når enheten ikke fungerer som den skal. Informasjonen blir brukt til å forbedre Google-produkter og -tjenester for alle, og blir ikke tilknyttet Google-kontoen til barnet ditt. Enkelte innsamlede opplysninger kan dessuten hjelpe partnere – for eksempel Android-utviklere – til å gjøre appene og produktene enda bedre.
+
+Du kan slå innstillingen av eller på når som helst i Innstillinger > Google. Dette påvirker ikke enhetens evne til å sende informasjonen den trenger for å kunne motta nødvendige tjenester, for eksempel system- og sikkerhetsoppdateringer."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Sikkerhetskopiér enhetsdata automatisk</b> (for eksempel Wi-Fi-passord og anropslogg) og appdata (for eksempel innstillinger og filer lagret av apper) i Google Disk. <annotation id="backup_details">Finn ut mer</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Når du slår av automatisk sikkerhetskopiering, lagres enhetsdataene og appdataene til en privat mappe i Google Disk.
+
+De sikkerhetskopierte dataene teller ikke mot Disk-lagringsgrensen. Store filer og filer som utviklere har valgt å ekskludere fra tjenesten, blir ikke sikkerhetskopiert."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Forbedre posisjonsnøyaktighet</b> ved å la apper og tjenester skanne etter Wi-Fi-nettverk og Bluetooth-enheter – selv når Wi-Fi og Bluetooth er slått av.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"Dette er generell informasjon om enheten samt bruk av den – for eksempel opplysninger om batterinivå, hvor ofte apper brukes, kvaliteten og varigheter på nettverkstilkoblinger (f.eks. mobilnett, Wi-Fi og Bluetooth) samt programstopprapporter når enheten ikke fungerer som den skal. Informasjonen blir brukt til å forbedre Google-produkter og -tjenester for alle, og blir ikke tilknyttet Google-kontoen din. Enkelte innsamlede opplysninger kan dessuten hjelpe partnere – for eksempel Android-utviklere – til å gjøre appene og produktene enda bedre.
+
+Du kan slå innstillingen av eller på når som helst i Innstillinger > Google. Dette påvirker ikke enhetens evne til å sende informasjonen den trenger for å kunne motta nødvendige tjenester, for eksempel system- og sikkerhetsoppdateringer."</string>
+</resources>

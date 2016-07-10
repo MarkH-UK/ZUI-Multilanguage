@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="QQMusicForAppStartTheme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:listViewStyle">@style/DefaultPlayListView</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="QQMusicLockScreenTheme" parent="@android:style/Theme.Translucent.NoTitleBar" />
+    <style name="QQMusicTheme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:listViewStyle">@style/DefaultPlayListView</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="TransAppStartTheme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:listViewStyle">@style/DefaultPlayListView</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="NotificationText" parent="@android:style/TextAppearance.StatusBar.EventContent" />
+    <style name="NotificationTitle" parent="@android:style/TextAppearance.StatusBar.EventContent.Title" />
+    <style name="ActionSheetStyle" parent="@style/QQMusicDialogStyle">
+        <item name="android:windowAnimationStyle">@style/BottomSlideAnimation</item>
+    </style>
+    <style name="AnimationQQMusicTheme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:listViewStyle">@style/DefaultPlayListView</item>
+    </style>
+    <style name="AnimationTransparentQQMusicTheme" parent="@style/AnimationQQMusicTheme">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="AutoCloseCustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@style/VoiceDialogAnimation</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="BottomSlideAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_up</item>
+        <item name="android:windowExitAnimation">@anim/slide_down2</item>
+    </style>
+    <style name="CommonDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/grow_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/shrink_fade_out</item>
+    </style>
+    <style name="CommonSubtitleTextStyle">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/common_subtitle_color</item>
+    </style>
+    <style name="CommonTitleTextStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/common_title_color</item>
+    </style>
+    <style name="DefaultPlayListView" parent="@android:style/Widget.ListView">
+        <item name="android:fadingEdge">none</item>
+        <item name="android:listSelector">#00000000</item>
+        <item name="android:drawSelectorOnTop">false</item>
+        <item name="android:cacheColorHint">#00000000</item>
+        <item name="android:divider">@drawable/color_b17</item>
+        <item name="android:dividerHeight">@dimen/common_divider_height</item>
+        <item name="android:fastScrollEnabled">false</item>
+    </style>
+    <style name="FloatDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@style/FloatDialogAnimation</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="FloatDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/floatdialog_in</item>
+        <item name="android:windowExitAnimation">@anim/floatdialog_out</item>
+    </style>
+    <style name="FollowButton">
+        <item name="arrow_width">12.0dip</item>
+        <item name="arrow_height">9.0dip</item>
+        <item name="text_color">@color/common_title_color</item>
+        <item name="text_size">15.0sp</item>
+        <item name="text_margin_left">5.0dip</item>
+    </style>
+    <style name="FontExLarge">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="FontExTiny">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="FontLarge">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="FontNormal">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="FontSmall">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="FontTiny">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="GreenLevelProgressBar">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/green_level_progress_bar</item>
+        <item name="android:minHeight">10.0dip</item>
+    </style>
+    <style name="HintWindowAnimation">
+        <item name="android:windowEnterAnimation">@anim/push_up_in</item>
+        <item name="android:windowExitAnimation">@anim/push_down_out</item>
+    </style>
+    <style name="ListItemNoColorSubtitle">
+        <item name="android:textSize">@dimen/music_list_item_subtitle_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/common_subtitle_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+    </style>
+    <style name="ListItemNoColorTitle">
+        <item name="android:textSize">@dimen/music_list_item_title_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/common_title_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+    </style>
+    <style name="ListItemSubtitle">
+        <item name="android:textSize">@dimen/music_list_item_subtitle_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/common_list_item_subtitle_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+    </style>
+    <style name="ListItemSubtitle2">
+        <item name="android:textSize">@dimen/music_list_item_subtitle_size2</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/common_list_item_subtitle_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+    </style>
+    <style name="ListItemTitle">
+        <item name="android:textSize">@dimen/music_list_item_title_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/color_t1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+    </style>
+    <style name="OptionMenuDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/BottomSlideAnimation</item>
+    </style>
+    <style name="ProfileCardViewDetailTextStyle">
+        <item name="android:textSize">@dimen/profile_card_detail_describe_text_size</item>
+        <item name="android:textColor">@color/profile_card_num</item>
+        <item name="android:layout_marginLeft">@dimen/profile_all_card_img_margin</item>
+    </style>
+    <style name="ProfileCardViewPeronLikeImgStyle">
+        <item name="android:layout_marginLeft">@dimen/profile_card_person_like_img_left_margin</item>
+        <item name="android:layout_marginTop">@dimen/profile_all_card_img_margin</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_alignParentTop">true</item>
+    </style>
+    <style name="ProfileCardViewPeronLikeTextStyle">
+        <item name="android:textSize">@dimen/profile_card_detail_describe_text_size</item>
+        <item name="android:textColor">@color/profile_card_num</item>
+        <item name="android:layout_marginLeft">18.0dip</item>
+    </style>
+    <style name="QQMusicActionSheetActivityTheme">
+        <item name="android:backgroundDimAmount">0.5</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/BottomSlideAnimation</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="QQMusicDialogStyle">
+        <item name="android:backgroundDimAmount">0.5</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/CommonDialogAnimation</item>
+        <item name="android:maxLines">10</item>
+        <item name="android:scrollHorizontally">false</item>
+    </style>
+    <style name="QQMusicInfoOverlayText">
+        <item name="android:shadowColor">#ff111111</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">2.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="QQMusicInputActivityTheme" parent="@android:style/Theme.Translucent">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="VoiceDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@style/VoiceDialogAnimation</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="VoiceDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/push_up_in</item>
+        <item name="android:windowExitAnimation">@anim/push_down_out</item>
+    </style>
+    <style name="advertisement_icon">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#80ffffff</item>
+        <item name="android:background">@null</item>
+        <item name="android:padding">4.0dip</item>
+        <item name="android:text">@string/ad_flag</item>
+        <item name="android:shadowColor">#ff000000</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="album_detail_pop">
+        <item name="android:windowEnterAnimation">@anim/scale_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/scale_fade_out</item>
+    </style>
+    <style name="button_text_color">
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="ctxDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="customDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@style/VoiceDialogAnimation</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="dialog_text_color">
+        <item name="android:textColor">#ff33b5e5</item>
+    </style>
+    <style name="download_new_color">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="import_button">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">285.0dip</item>
+        <item name="android:layout_height">40.0dip</item>
+    </style>
+    <style name="import_items">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffa2a8ad</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_marginBottom">8.0dip</item>
+        <item name="android:drawablePadding">8.0dip</item>
+    </style>
+    <style name="import_items.header" parent="@style/import_items">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">36.0dip</item>
+        <item name="android:drawablePadding">8.0dip</item>
+    </style>
+    <style name="import_items.line" parent="@style/import_items">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">1.0dip</item>
+        <item name="android:layout_marginRight">1.0dip</item>
+        <item name="android:text">........................................................</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="input_highlight_color">
+        <item name="android:textColor">#ff4e4e4e</item>
+        <item name="android:textColorHighlight">#ffbbb9b0</item>
+    </style>
+    <style name="login_qq_edit_color">
+        <item name="android:textColor">#ff404040</item>
+    </style>
+    <style name="login_qq_remember_password_color">
+        <item name="android:textColor">#ff404040</item>
+    </style>
+    <style name="login_vcode_input_highlight_color">
+        <item name="android:textColor">#ffb1b1b1</item>
+        <item name="android:textColorHighlight">#ff44464f</item>
+    </style>
+    <style name="myDialog" parent="@android:style/Theme.Dialog" />
+    <style name="my_music_entrance" />
+    <style name="my_music_entrance.normal" parent="@style/my_music_entrance">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="my_music_entrance_cell_ttt">
+        <item name="android:layout_width">100.0dip</item>
+        <item name="android:layout_height">100.0dip</item>
+        <item name="android:layout_marginTop">5.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+    </style>
+    <style name="my_music_entrance_container">
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">105.0dip</item>
+    </style>
+    <style name="my_music_entrance_count">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/color_t2</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="my_music_entrance_count.clean" parent="@style/my_music_entrance_count">
+        <item name="android:layout_marginRight">9.0dip</item>
+        <item name="android:maxWidth">150.0dip</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="my_music_entrance_count.normal" parent="@style/my_music_entrance_count">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">2.0dip</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="my_music_entrance_count.normal.with_title" parent="@style/my_music_entrance_count.normal" />
+    <style name="my_music_entrance_divider_clean">
+        <item name="android:background">@drawable/z_color_l1</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.5dip</item>
+    </style>
+    <style name="my_music_entrance_icon">
+        <item name="android:layout_width">@dimen/my_music_entrance_icon</item>
+        <item name="android:layout_height">@dimen/my_music_entrance_icon</item>
+    </style>
+    <style name="my_music_entrance_icon.clean" parent="@style/my_music_entrance_icon">
+        <item name="android:layout_width">@dimen/my_music_entrance_icon_clean_mode</item>
+        <item name="android:layout_height">@dimen/my_music_entrance_icon_clean_mode</item>
+        <item name="android:layout_marginLeft">12.0dip</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="my_music_entrance_icon.normal" parent="@style/my_music_entrance_icon">
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="my_music_entrance_icon.normal.no_title" parent="@style/my_music_entrance_icon.normal">
+        <item name="android:layout_width">@dimen/my_music_entrance_icon_no_title</item>
+        <item name="android:layout_height">@dimen/my_music_entrance_icon_no_title</item>
+        <item name="android:layout_marginTop">0.0dip</item>
+    </style>
+    <style name="my_music_entrance_icon.normal.with_title" parent="@style/my_music_entrance_icon.normal" />
+    <style name="my_music_entrance_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="my_music_entrance_title.clean" parent="@style/my_music_entrance_title">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="my_music_entrance_title.normal" parent="@style/my_music_entrance_title">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/color_t1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">2.0dip</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="my_music_entrance_title.normal.with_title" parent="@style/my_music_entrance_title.normal" />
+    <style name="online_grid_name">
+        <item name="android:textColor">#ff404040</item>
+        <item name="android:textColorLink">#ffff0000</item>
+    </style>
+    <style name="online_zt_text">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="option_menu_text_color">
+        <item name="android:textColor">#ff355167</item>
+    </style>
+    <style name="playInfo_singer_text">
+        <item name="android:textColor">#ff175f84</item>
+    </style>
+    <style name="playInfo_song_name_text">
+        <item name="android:textColor">#ff05486b</item>
+    </style>
+    <style name="player_duration_text">
+        <item name="android:textSize">@dimen/player_duration_text_size</item>
+        <item name="android:textColor">@color/player_duration_and_play_time</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">50.0dip</item>
+    </style>
+    <style name="playlist_item_name">
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="playlist_item_singer">
+        <item name="android:textColor">#ff848484</item>
+    </style>
+    <style name="playlist_item_title">
+        <item name="android:textColor">#ff404040</item>
+    </style>
+    <style name="playlist_title">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="pop_animation_alpha">
+        <item name="android:windowEnterAnimation">@anim/push_down_in</item>
+        <item name="android:windowExitAnimation">@anim/push_down_out</item>
+    </style>
+    <style name="popwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/slide_up</item>
+        <item name="android:windowExitAnimation">@anim/slide_down2</item>
+    </style>
+    <style name="progress_time_color">
+        <item name="android:textSize">9.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="search_hot_word">
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">30.0dip</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginRight">@dimen/search_hot_word_item_margin</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="textButton">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/color_t1</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="text_color">
+        <item name="android:textColor">#ff4e4e4e</item>
+    </style>
+    <style name="text_disable_color">
+        <item name="android:textColor">#ffabacaa</item>
+    </style>
+    <style name="unipay_text">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_toast">
+        <item name="android:background">@drawable/unipay_pic_tipsbg_thin</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="widgetProgressStyle" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/icn_loading_indicator</item>
+    </style>
+</resources>

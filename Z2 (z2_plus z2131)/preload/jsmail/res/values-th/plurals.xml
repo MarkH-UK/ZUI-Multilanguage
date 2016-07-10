@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d เมลที่ยังไม่ได้อ่าน</item>
+        <item quantity="zero">%1$d เมลที่ยังไม่ได้อ่าน</item>
+        <item quantity="one">%1$d เมลที่ยังไม่ได้อ่าน</item>
+        <item quantity="two">%1$d เมลที่ยังไม่ได้อ่าน</item>
+        <item quantity="few">%1$d เมลที่ยังไม่ได้อ่าน</item>
+        <item quantity="many">%1$d เมลที่ยังไม่ได้อ่าน</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">คุณต้องการเก็บ %1$d การสนทนาถาวรหรือไม่</item>
+        <item quantity="zero">คุณต้องการเก็บ %1$d การสนทนาถาวรหรือไม่</item>
+        <item quantity="one">คุณต้องการเก็บ %1$d การสนทนาถาวรหรือไม่</item>
+        <item quantity="two">คุณต้องการเก็บ %1$d การสนทนาถาวรหรือไม่</item>
+        <item quantity="few">คุณต้องการเก็บ %1$d การสนทนาถาวรหรือไม่</item>
+        <item quantity="many">คุณต้องการเก็บ %1$d การสนทนาถาวรหรือไม่</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">คุณต้องการลบ %1$d การสนทนาหรือไม่</item>
+        <item quantity="zero">คุณต้องการลบ %1$d การสนทนาหรือไม่</item>
+        <item quantity="one">คุณต้องการลบ %1$d การสนทนาหรือไม่</item>
+        <item quantity="two">คุณต้องการลบ %1$d การสนทนาหรือไม่</item>
+        <item quantity="few">คุณต้องการลบ %1$d การสนทนาหรือไม่</item>
+        <item quantity="many">คุณต้องการลบ %1$d การสนทนาหรือไม่</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">การสนทนาเหล่านี้รวมการสนทนาที่ถูกยุบด้วย คุณแน่ใจหรือไม่ว่าต้องการลบรายการที่ถูกยุบเหล่านี้</item>
+        <item quantity="zero">การสนทนาเหล่านี้รวมการสนทนาที่ถูกยุบด้วย คุณแน่ใจหรือไม่ว่าต้องการลบรายการที่ถูกยุบเหล่านี้</item>
+        <item quantity="one">การสนทนานี้รวมการสนทนาที่ถูกยุบด้วย คุณแน่ใจหรือไม่ว่าต้องการลบรายการที่ถูกยุบเหล่านี้</item>
+        <item quantity="two">การสนทนาเหล่านี้รวมการสนทนาที่ถูกยุบด้วย คุณแน่ใจหรือไม่ว่าต้องการลบรายการที่ถูกยุบเหล่านี้</item>
+        <item quantity="few">การสนทนาเหล่านี้รวมการสนทนาที่ถูกยุบด้วย คุณแน่ใจหรือไม่ว่าต้องการลบรายการที่ถูกยุบเหล่านี้</item>
+        <item quantity="many">การสนทนาเหล่านี้รวมการสนทนาที่ถูกยุบด้วย คุณแน่ใจหรือไม่ว่าต้องการลบรายการที่ถูกยุบเหล่านี้</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">คุณต้องการทิ้งฉบับร่างใน %1$d การสนทนาหรือไม่</item>
+        <item quantity="zero">คุณต้องการทิ้งฉบับร่างใน %1$d การสนทนาหรือไม่</item>
+        <item quantity="one">คุณต้องการทิ้งฉบับร่างใน %1$d การสนทนาหรือไม่</item>
+        <item quantity="two">คุณต้องการทิ้งฉบับร่างใน %1$d การสนทนาหรือไม่</item>
+        <item quantity="few">คุณต้องการทิ้งฉบับร่างใน %1$d การสนทนาหรือไม่</item>
+        <item quantity="many">คุณต้องการทิ้งฉบับร่างใน %1$d การสนทนาหรือไม่</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d รายการที่เลือก</item>
+        <item quantity="zero">%d รายการที่เลือก</item>
+        <item quantity="one">%d รายการที่เลือก</item>
+        <item quantity="two">%d รายการที่เลือก</item>
+        <item quantity="few">%d รายการที่เลือก</item>
+        <item quantity="many">%d รายการที่เลือก</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>เก็บ %1$d&lt;/b> การสนทนาถาวรแล้ว</item>
+        <item quantity="zero">&lt;b>เก็บ %1$d&lt;/b> การสนทนาถาวรแล้ว</item>
+        <item quantity="one">&lt;b>เก็บ %1$d&lt;/b> การสนทนาถาวรแล้ว</item>
+        <item quantity="two">&lt;b>เก็บ %1$d&lt;/b> การสนทนาถาวรแล้ว</item>
+        <item quantity="few">&lt;b>เก็บ %1$d&lt;/b> การสนทนาถาวรแล้ว</item>
+        <item quantity="many">&lt;b>เก็บ %1$d&lt;/b> การสนทนาถาวรแล้ว</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>ลบ %1$d&lt;/b> การสนทนาแล้ว</item>
+        <item quantity="zero">&lt;b>ลบ %1$d&lt;/b> การสนทนาแล้ว</item>
+        <item quantity="one">&lt;b>ลบ %1$d&lt;/b> การสนทนาแล้ว</item>
+        <item quantity="two">&lt;b>ลบ %1$d&lt;/b> การสนทนาแล้ว</item>
+        <item quantity="few">&lt;b>ลบ %1$d&lt;/b> การสนทนาแล้ว</item>
+        <item quantity="many">&lt;b>ลบ %1$d&lt;/b> การสนทนาแล้ว</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">เปลี่ยนโฟลเดอร์แล้ว</item>
+        <item quantity="zero">เปลี่ยนโฟลเดอร์แล้ว</item>
+        <item quantity="one">เปลี่ยนโฟลเดอร์แล้ว</item>
+        <item quantity="two">เปลี่ยนโฟลเดอร์แล้ว</item>
+        <item quantity="few">เปลี่ยนโฟลเดอร์แล้ว</item>
+        <item quantity="many">เปลี่ยนโฟลเดอร์แล้ว</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>ไม่สนใจ %1$d&lt;/b> การสนทนา</item>
+        <item quantity="zero">&lt;b>ไม่สนใจ %1$d&lt;/b> การสนทนา</item>
+        <item quantity="one">&lt;b>ไม่สนใจ %1$d&lt;/b> การสนทนา</item>
+        <item quantity="two">&lt;b>ไม่สนใจ %1$d&lt;/b> การสนทนา</item>
+        <item quantity="few">&lt;b>ไม่สนใจ %1$d&lt;/b> การสนทนา</item>
+        <item quantity="many">&lt;b>ไม่สนใจ %1$d&lt;/b> การสนทนา</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> การสนทนาถูกทำเครื่องหมายว่าไม่สำคัญ</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> การสนทนาถูกทำเครื่องหมายว่าไม่สำคัญ</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> การสนทนาถูกทำเครื่องหมายว่าไม่สำคัญ</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> การสนทนาถูกทำเครื่องหมายว่าไม่สำคัญ</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> การสนทนาถูกทำเครื่องหมายว่าไม่สำคัญ</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> การสนทนาถูกทำเครื่องหมายว่าไม่สำคัญ</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าไม่ใช่จดหมายขยะ</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าไม่ใช่จดหมายขยะ</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าไม่ใช่จดหมายขยะ</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าไม่ใช่จดหมายขยะ</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าไม่ใช่จดหมายขยะ</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าไม่ใช่จดหมายขยะ</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นฟิชชิ่ง</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นฟิชชิ่ง</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นฟิชชิ่ง</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นฟิชชิ่ง</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นฟิชชิ่ง</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นฟิชชิ่ง</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นสแปม</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นสแปม</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นสแปม</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นสแปม</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นสแปม</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> การสนทนาถูกรายงานว่าเป็นสแปม</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">ไม่ติดดาว %1$d การสนทนา</item>
+        <item quantity="zero">ไม่ติดดาว %1$d การสนทนา</item>
+        <item quantity="one">ไม่ติดดาว %1$d การสนทนา</item>
+        <item quantity="two">ไม่ติดดาว %1$d การสนทนา</item>
+        <item quantity="few">ไม่ติดดาว %1$d การสนทนา</item>
+        <item quantity="many">ไม่ติดดาว %1$d การสนทนา</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">ร่าง</item>
+        <item quantity="zero">ร่าง</item>
+        <item quantity="one">ร่าง</item>
+        <item quantity="two">ร่าง</item>
+        <item quantity="few">ร่าง</item>
+        <item quantity="many">ร่าง</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d เมลจะถูกลบอย่างถาวร</item>
+        <item quantity="zero">%1$d เมลจะถูกลบอย่างถาวร</item>
+        <item quantity="one">%1$d เมลจะถูกลบอย่างถาวร</item>
+        <item quantity="two">%1$d เมลจะถูกลบอย่างถาวร</item>
+        <item quantity="few">%1$d เมลจะถูกลบอย่างถาวร</item>
+        <item quantity="many">%1$d เมลจะถูกลบอย่างถาวร</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="zero">%d B</item>
+        <item quantity="one">%d B</item>
+        <item quantity="two">%d B</item>
+        <item quantity="few">%d B</item>
+        <item quantity="many">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="zero">%d GB</item>
+        <item quantity="one">%d GB</item>
+        <item quantity="two">%d GB</item>
+        <item quantity="few">%d GB</item>
+        <item quantity="many">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="zero">%d KB</item>
+        <item quantity="one">%d KB</item>
+        <item quantity="two">%d KB</item>
+        <item quantity="few">%d KB</item>
+        <item quantity="many">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="zero">%d MB</item>
+        <item quantity="one">%d MB</item>
+        <item quantity="two">%d MB</item>
+        <item quantity="few">%d MB</item>
+        <item quantity="many">%d MB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">ย้าย%1$dบทสนทนา</item>
+        <item quantity="zero">ย้าย %1$d การสนทนา</item>
+        <item quantity="one">ย้าย %1$d การสนทนา</item>
+        <item quantity="two">ย้าย%1$dบทสนทนา</item>
+        <item quantity="few">ย้าย%1$dบทสนทนา</item>
+        <item quantity="many">ย้าย%1$dบทสนทนา</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">ย้ายเมล</item>
+        <item quantity="zero">ย้ายเมล</item>
+        <item quantity="one">ย้ายเมล</item>
+        <item quantity="two">ย้ายเมล</item>
+        <item quantity="few">ย้ายเมล</item>
+        <item quantity="many">ย้ายเมล</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d เมลขาเข้าใหม่ แสดง</item>
+        <item quantity="zero">%1$d เมลขาเข้าใหม่ แสดง</item>
+        <item quantity="one">%1$d เมลขาเข้าใหม่ แสดง</item>
+        <item quantity="two">%1$d เมลขาเข้าใหม่ แสดง</item>
+        <item quantity="few">%1$d เมลขาเข้าใหม่ แสดง</item>
+        <item quantity="many">%1$d เมลขาเข้าใหม่ แสดง</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d รายการที่เลือก</item>
+        <item quantity="zero">%d รายการที่เลือก</item>
+        <item quantity="one">%d รายการที่เลือก</item>
+        <item quantity="two">%d รายการที่เลือก</item>
+        <item quantity="few">%d รายการที่เลือก</item>
+        <item quantity="many">%d รายการที่เลือก</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d เมลที่อ่านแล้ว</item>
+        <item quantity="zero">%1$d เมลที่อ่านแล้ว</item>
+        <item quantity="one">%1$d เมลที่อ่านแล้ว</item>
+        <item quantity="two">%1$d เมลที่อ่านแล้ว</item>
+        <item quantity="few">%1$d เมลที่อ่านแล้ว</item>
+        <item quantity="many">%1$d เมลที่อ่านแล้ว</item>
+    </plurals>
+</resources>

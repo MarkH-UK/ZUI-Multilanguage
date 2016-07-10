@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d caractères au-delà de la limite autorisée</item>
+        <item quantity="one">%1$d caractère au-delà de la limite autorisée</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d caractères restants</item>
+        <item quantity="one">%1$d caractère restant</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d comptes Google</item>
+        <item quantity="one">%d compte Google</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">"Cet appareil a été utilisé pour configurer un appareil ^1 à l'aide de votre compte Google et des données associées."</item>
+        <item quantity="one">"Cet appareil a été utilisé pour configurer un appareil ^1 à l'aide de votre compte Google et des données associées."</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d heures</item>
+        <item quantity="one">%d heure</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">"Ces invitations n'ont pas été envoyées à cause d'une erreur"</item>
+        <item quantity="one">"Cette invitation n'a pas été envoyée à cause d'une erreur"</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Ces invitations ne peuvent pas encore être envoyées. Vous pouvez le faire dans Google Play > Mon compte.</item>
+        <item quantity="one">Cette invitation ne peut pas encore être envoyée. Vous pouvez le faire dans Google Play > Mon compte.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d invitations restantes</item>
+        <item quantity="one">%d invitation restante</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d nouveaux messages</item>
+        <item quantity="one">%1$d nouveau message</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">Il y a %1$d personnes avant vous</item>
+        <item quantity="one">Il y a %1$d personne avant vous</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d cercles</item>
+        <item quantity="one">%d cercle</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d personnes</item>
+        <item quantity="one">%d personne</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Par %1$s et %2$d autres applications</item>
+        <item quantity="one">Par %1$s et %2$d autre application</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d heures</item>
+        <item quantity="one">%d heure</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s personnes</item>
+        <item quantity="one">%1$s personne</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d abonnés</item>
+        <item quantity="one">%1$,d abonné</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d visionnements</item>
+        <item quantity="one">%1$,d visionnement</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Copie de vos comptes Google et de vos données…</item>
+        <item quantity="one">Copie de votre compte Google et de vos données…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Cet appareil a été utilisé pour configurer un appareil ^1 avec vos comptes Google et les données qui y sont associées</item>
+        <item quantity="one">Cet appareil a été utilisé pour configurer un appareil ^1 avec votre compte Google et les données qui y sont associées</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">"Redémarrage dans %d secondes en vue de l'installation..."</item>
+        <item quantity="one">"Redémarrage dans 1 seconde en vue de l'installation…"</item>
+    </plurals>
+</resources>

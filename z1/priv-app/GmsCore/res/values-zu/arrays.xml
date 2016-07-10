@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Ibha</item>
+        <item>Ikhefi</item>
+        <item>Igalaji lophethilolu</item>
+        <item>Itiyetha ye-Movie</item>
+        <item>Indawo yokuhlala eqashwayo</item>
+        <item>Iklabhu yasebusuku</item>
+        <item>Imyuziyamu</item>
+        <item>Indawo yokudlela</item>
+        <item>Isikhungo sokuthenga</item>
+        <item>Isitolo</item>
+        <item>Isitolo segrosa noma isuphamakethe</item>
+        <item>Okunye</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>akukuhle</item>
+        <item>kulungile</item>
+        <item>kuhle</item>
+        <item>kunamandla</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>I-NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>I-Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Ukukhishwa</item>
+        <item>Unjiniyela</item>
+        <item>Isitolo</item>
+        <item>Idemo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Ifoni nemoto zisebenzisa isofthiwe engahambelani. Ngemininingwane, vakashela ku-&lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Imoto ikhangise isethi engalungile yomsindo kanye/noma izilungiso zevidiyo.</item>
+        <item>"Uxhumo le-USB alusebenzi kahle. Izinto ongazizama: 
+
+• Qinisekisa ukuthi ikhebuli ilingana kahle ekupheleleni kokubili. 
+•Qinisekisa ukuthi unekhebuli ye-USB yedatha. 
+•Qinisekisa ukuthi idethi nesikhathi zisethwe kahle kokubili kwimoto nefoni yakho."</item>
+        <item>Imoto iyeke ukuqalisa i-Android Auto.</item>
+        <item>Isikhathi se-Android Auto simile, njengesicelo.</item>
+        <item>Isofthiwe yemoto ingahle iphelelwe isikhathi. Ngemininingwane nosekelo, xhumana nomkhiqizi.</item>
+        <item>Isofthiwe yemoto yakho ayidlulisanga ukuhlola kokuphepha kwe-Android Auto. Ngemininingwane nosekelo, xhumana nomkhiqizi.</item>
+        <item>Isofthiwe yemoto yakho ayidlulisanga ukuhlola kokuphepha kwe-Android Auto. Qinisekisa ukuthi idethi nesikhathi semoto kusethwe kahle, nokuthi i-Android Auto ibuyekeziwe.</item>
+        <item>Isenzo siphelelwe yisikhathi. Kufanele uthole umbiko wesiphazamiso futhi ufayele impendulo.</item>
+        <item>Awubonakali ufake isiqalisi, ingabe ifoni yakho isetheke kahle?</item>
+        <item>Umugqa wezithombe usanda kuphela. Kufanele uthole umbiko wesiphazamiso futhi ufayele impendulo.</item>
+        <item>Imoto ayiphenduli kumilayezo evela efonini. Imoto kungenzeka isesimeni esingalungile.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Isikhumulo sezindiza</item>
+        <item>I-ATM</item>
+        <item>Ibhange</item>
+        <item>Ibha</item>
+        <item>Isiteshi sebhasi</item>
+        <item>Ikhefi</item>
+        <item>Indawo yekamu</item>
+        <item>Amathuna</item>
+        <item>Isonto</item>
+        <item>Ihholo ledolobha</item>
+        <item>Ukusungulwa</item>
+        <item>Igalaji lophethilolu</item>
+        <item>Isitolo segrosa noma isuphamakethe</item>
+        <item>Ithempeli le-Hindu</item>
+        <item>Isibhedlela</item>
+        <item>Umtapo wolwazi</item>
+        <item>Indawo yokuhlala eqashwayo</item>
+        <item>Indawo Yokukhonza</item>
+        <item>Itiyetha yama-Movie</item>
+        <item>Imyuziyamu</item>
+        <item>Ipaki</item>
+        <item>Indawo yokupaka</item>
+        <item>Indawo yokukhonzela</item>
+        <item>Isiteshi samaphoyisa</item>
+        <item>Iposi</item>
+        <item>Indawo yokudlela</item>
+        <item>Isikole</item>
+        <item>Isitolo</item>
+        <item>Isiteshi sendlela ehamba emgodini</item>
+        <item>Isinagogi</item>
+        <item>Isiteshi sesitimela</item>
+        <item>Isiteshi sokuba sendleleni</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Janawari</item>
+        <item>Februwari</item>
+        <item>Mashi</item>
+        <item>Ephreli</item>
+        <item>Meyi</item>
+        <item>Juni</item>
+        <item>Julayi</item>
+        <item>Agasti</item>
+        <item>Septhemba</item>
+        <item>Okthoba</item>
+        <item>Novemba</item>
+        <item>Disemba</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Misa ukwabelana</item>
+        <item>15 amaminithi</item>
+        <item>30 amaminithi</item>
+        <item>1 ihora</item>
+        <item>Ngokungaqondile</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Misa ukwabelana</item>
+        <item>15 amaminithi</item>
+        <item>30 amaminithi</item>
+        <item>1 ihora</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Khetha umbuzo wokuphepha</item>
+        <item>Inombolo yokuqala yefoni?</item>
+        <item>Igama lomngani wakho omkhulu wasebuntwaneni?</item>
+        <item>Igama lothisha wokuqala?</item>
+        <item>Igama lomphathi kumsebenzi wokuqala?</item>
+        <item>Inamapuleti yemoto?</item>
+    </string-array>
+</resources>

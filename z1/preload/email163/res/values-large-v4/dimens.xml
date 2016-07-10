@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alertwindow_max_width">500.0dip</dimen>
+    <dimen name="gallery_album_cover_height">150.0dip</dimen>
+    <dimen name="gallery_album_cover_width">150.0dip</dimen>
+    <dimen name="gallery_album_height">178.0dip</dimen>
+    <dimen name="gallery_album_item_width">178.0dip</dimen>
+    <dimen name="gallery_album_paddingTop">0.0dip</dimen>
+    <dimen name="gallery_album_paddingleft">15.0dip</dimen>
+    <dimen name="gallery_album_paddingright">15.0dip</dimen>
+    <dimen name="gallery_album_vspacing">12.0dip</dimen>
+    <dimen name="gallery_album_width">178.0dip</dimen>
+    <dimen name="gallery_thumbnail_height">150.0dip</dimen>
+    <dimen name="gallery_thumbnail_hspacing">7.0dip</dimen>
+    <dimen name="gallery_thumbnail_item_height">160.0dip</dimen>
+    <dimen name="gallery_thumbnail_paddingTop">0.0dip</dimen>
+    <dimen name="gallery_thumbnail_paddingleft">11.0dip</dimen>
+    <dimen name="gallery_thumbnail_paddingright">11.0dip</dimen>
+    <dimen name="gallery_thumbnail_vspacing">7.0dip</dimen>
+    <dimen name="gallery_thumbnail_width">150.0dip</dimen>
+    <dimen name="launch_logo_padding_top">145.0dip</dimen>
+    <dimen name="launch_logo_padding_top_landscape">165.0dip</dimen>
+    <dimen name="login_main_input_width_l">680.0dip</dimen>
+    <dimen name="login_main_login_padding_top">30.0dip</dimen>
+    <dimen name="login_main_login_width">500.0dip</dimen>
+    <dimen name="login_main_login_width_l">700.0dip</dimen>
+    <dimen name="mail_list_search_panel_min_height">50.0dip</dimen>
+    <dimen name="mail_read_attachlist_item_img_height">134.0dip</dimen>
+    <dimen name="mail_read_attachlist_item_img_width">173.0dip</dimen>
+    <dimen name="mail_read_attachlist_item_interval">4.0dip</dimen>
+    <dimen name="activity_dialog_content_max_height">550.0dip</dimen>
+    <dimen name="fake_dialog_content_width">420.0dip</dimen>
+    <dimen name="login_main_input_width">480.0dip</dimen>
+    <dimen name="tablet_land_max_content_width">587.0dip</dimen>
+</resources>

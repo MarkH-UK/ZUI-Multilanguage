@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="volume_stream_titles">
+        <item>குரலழைப்புகள்</item>
+        <item>சிஸ்டம்</item>
+        <item>அறிவிக்கைகள்</item>
+        <item>மீடியா</item>
+        <item>அலாரம்கள்</item>
+        <item></item>
+        <item>புளூடூத் அழைப்புகள்</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

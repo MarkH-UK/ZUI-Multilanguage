@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>由系統決定</item>
+        <item>裝置記憶體</item>
+        <item>可卸除的 SD 卡</item>
+    </string-array>
+    <string-array name="custom_perms_titel">
+        <item>我不懂，由系統自動處理</item>
+        <item>使用權限前詢問我</item>
+        <item>我信任“%1$s”，授予所有要求權限</item>
+        <item>高級權限設定</item>
+    </string-array>
+    <string-array name="app_permission_category">
+        <item>資費相關</item>
+        <item>隱私權相關</item>
+        <item>多媒體相關</item>
+        <item>設定相關</item>
+    </string-array>
+    <string-array name="app_permission_operate">
+        <item>允許</item>
+        <item>詢問</item>
+        <item>拒絕</item>
+    </string-array>
+    <string-array name="perms_mode">
+        <item>允許</item>
+        <item>拒絕</item>
+        <item>詢問</item>
+        <item>未知</item>
+    </string-array>
+    <string-array name="choose_mode_three_state">
+        <item>允許</item>
+        <item>詢問</item>
+        <item>拒絕</item>
+    </string-array>
+    <string-array name="choose_mode_two_state">
+        <item>允許</item>
+        <item>拒絕</item>
+    </string-array>
+    <string-array name="op_to_perms_name">
+        <item>定位</item>
+        <item>定位</item>
+        <item>定位</item>
+        <item>Vibrate</item>
+        <item>存取聯絡人</item>
+        <item>存取聯絡人</item>
+        <item>存取通話記錄</item>
+        <item>存取通話記錄</item>
+        <item>存取行事曆</item>
+        <item>存取行事曆</item>
+        <item>定位</item>
+        <item>Post notification</item>
+        <item>定位</item>
+        <item>撥打電話</item>
+        <item>存取簡訊記錄</item>
+        <item>存取簡訊記錄</item>
+        <item>Receive SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive MMS</item>
+        <item>Receive SMS</item>
+        <item>發送簡訊</item>
+        <item>存取簡訊記錄</item>
+        <item>存取簡訊記錄</item>
+        <item>修改系統設定</item>
+        <item>顯示懸浮視窗</item>
+        <item>Access notifications</item>
+        <item>開啟攝影機</item>
+        <item>開啟錄音</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>定位</item>
+        <item>定位</item>
+        <item>Get usage stats</item>
+        <item>Mute/unmute microphone</item>
+        <item>Toast window</item>
+        <item>Project media</item>
+        <item>Activate VPN</item>
+        <item>開啟 Wi-Fi</item>
+        <item>開啟藍牙</item>
+        <item>發送多媒體訊息</item>
+        <item>存取多媒體訊息記錄</item>
+        <item>存取多媒體訊息記錄</item>
+        <item>應用程式自動啟動</item>
+        <item>Nfc change</item>
+        <item>存取簡訊記錄</item>
+        <item>存取多媒體訊息記錄</item>
+        <item>存取聯絡人</item>
+        <item>存取通話記錄</item>
+        <item>開啟行動網路</item>
+        <item>取得裝置資訊</item>
+        <item>在桌面上建立捷徑</item>
+        <item>存取相簿</item>
+        <item>讀取手機號碼</item>
+        <item>Write WallPaper</item>
+        <item>Assist Structure</item>
+        <item>Assist ScreenShot</item>
+        <item>Read Phone State</item>
+        <item>Add Voice Mail</item>
+        <item>Use Sip</item>
+        <item>Process Outgoing Calls</item>
+        <item>Use FingerPrint</item>
+        <item>Body Sensors</item>
+        <item>Read Cell Broadcasts</item>
+        <item>Mock Location</item>
+        <item>Read External Storage</item>
+        <item>Write External Storage</item>
+        <item>Turn Screen On</item>
+        <item>Get Accounts</item>
+    </string-array>
+    <string-array name="perms_category">
+        <item>資費相關</item>
+        <item>隱私權相關</item>
+        <item>多媒體相關</item>
+        <item>設定相關</item>
+    </string-array>
+    <string-array name="install_location_choose">
+        <item>手機儲存</item>
+        <item>SD 卡</item>
+    </string-array>
+</resources>

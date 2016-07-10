@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>बार</item>
+        <item>कॅफे</item>
+        <item>गॅस स्‍टेशन</item>
+        <item>चित्रपटगृह</item>
+        <item>लॉजिंग</item>
+        <item>नाईट क्लब</item>
+        <item>वस्तुसंग्रहालय</item>
+        <item>रेस्टॉरन्ट</item>
+        <item>शॉपींग सेंटर</item>
+        <item>दुकान</item>
+        <item>किराणा दुकान किंवा सुपरमार्केट</item>
+        <item>अन्य</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>खराब</item>
+        <item>पुरेसा</item>
+        <item>चांगला</item>
+        <item>मजबूत</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>ब्लूटुथ</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>रिलीझ करा</item>
+        <item>विकासक</item>
+        <item>किरकोळ</item>
+        <item>डेमो</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>फोन आणि कार विसंगत सॉफ्‍टवेअर आवृत्त्या चालवित आहेत. तपशीलांसाठी &lt;a href="android.com/auto">android.com/auto&lt;/a> ला भेट द्या</item>
+        <item>कारने ऑडिओ आणि/किंवा व्‍हिडिओ कॉन्‍फिगरेशनच्या चुकीच्या सेटची जाहिरात केली आहे.</item>
+        <item>"USB कनेक्‍शन योग्यरित्या कार्य करीत नाही. हे करून पाहावे: 
+
+• केबल दोन्‍ही टोकांवर योग्यरित्या फिट केली आहे हे सुनिश्‍चित करा. 
+•आपल्‍याकडे डेटा USB केबल आहे हे सुनिश्चित करा. 
+• कार आणि आपला फोन दोन्हीसाठी तारीख आणि वेळ योग्यरित्या सेट केली आहे हे सुनिश्चित करा."</item>
+        <item>कारने Android Auto चालविणे थांबविले आहे.</item>
+        <item>विनंती केल्‍याप्रमाणे, Android Auto सत्र थांबविले आहे.</item>
+        <item>कारचे सॉफ्टवेअर कालबाह्य असू शकते. तपशील आणि समर्थनासाठी, विक्रेत्याशी संपर्क साधा.</item>
+        <item>आपल्‍या कारच्या सॉफ्‍टवेअरने Android Auto सुरक्षितता तपासण्या उत्तीर्ण केल्या नाहीत. तपशील आणि समर्थनासाठी, विक्रेत्याशी संपर्क साधा.</item>
+        <item>आपल्‍या कारच्या सॉफ्‍टवेअरने Android Auto सुरक्षितता तपासण्या उत्तीर्ण केल्या नाहीत. कारची तारीख आणि वेळ योग्यरित्या सेट केली आहे आणि Android Auto अद्यतनित केले गेले आहे हे सुनिश्चित करा.</item>
+        <item>क्रिया कालबाह्य झाली. आपण दोष अहवाल आणि फाईल अभिप्राय प्राप्त करा.</item>
+        <item>आपण लाँचर स्‍थापित केलेले नाही असे दिसते, आपला फोन योग्यरित्या सेट केला आहे?</item>
+        <item>ग्राफिक पाइपलाइन आत्ता निष्‍क्रिय झाली. आपण दोष अहवाल आणि फाईल अभिप्राय प्राप्त केला पाहिजे.</item>
+        <item>कार फोनवरून संदेशांना प्रतिसाद देत नाही. कार कदाचित चुकीच्या स्‍थितीमध्‍ये असू शकते.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>विमानतळ</item>
+        <item>ATM</item>
+        <item>बँक</item>
+        <item>बार</item>
+        <item>बस स्टेशन</item>
+        <item>कॅफे</item>
+        <item>कॅंपग्राऊंड</item>
+        <item>दफनभूमी</item>
+        <item>चर्च</item>
+        <item>सिटी हॉल</item>
+        <item>आस्थापना</item>
+        <item>गॅस स्‍टेशन</item>
+        <item>किराणा दुकान किंवा सुपरमार्केट</item>
+        <item>हिन्दू मंदीर</item>
+        <item>रुग्णालय</item>
+        <item>लायब्ररी</item>
+        <item>लॉजिंग</item>
+        <item>मशीद</item>
+        <item>चित्रपटगृह</item>
+        <item>वस्तुसंग्रहालय</item>
+        <item>उद्यान</item>
+        <item>पार्किंग</item>
+        <item>देऊळ</item>
+        <item>पोलिस स्टेशन</item>
+        <item>पोस्ट ऑफिस</item>
+        <item>उपाहारगृह</item>
+        <item>शाळा</item>
+        <item>दुकान</item>
+        <item>भुयारी रेल्वे स्टेशन</item>
+        <item>ज्यू लोकांचे उपासनास्थान</item>
+        <item>रेल्वे स्टेशन</item>
+        <item>परिवहन स्टेशन</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>जानेवारी</item>
+        <item>फेब्रुवारी</item>
+        <item>मार्च</item>
+        <item>एप्रिल</item>
+        <item>मे</item>
+        <item>जून</item>
+        <item>जुलै</item>
+        <item>ऑगस्ट</item>
+        <item>सप्टेंबर</item>
+        <item>ऑक्टोबर</item>
+        <item>नोव्हेंबर</item>
+        <item>डिसेंबर</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>शेअरिंग थांबवा</item>
+        <item>15 मिनिटे</item>
+        <item>30 मिनिटे</item>
+        <item>1 तास</item>
+        <item>अनिश्चित काळासाठी</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>शेअरिंग थांबवा</item>
+        <item>15 मिनिटे</item>
+        <item>30 मिनिटे</item>
+        <item>1 तास</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

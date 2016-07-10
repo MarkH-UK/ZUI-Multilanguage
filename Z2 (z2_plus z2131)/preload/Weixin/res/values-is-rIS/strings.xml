@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Villa í þjónustu Google Play</string>
+    <string name="z">Forrit krefst þess að þjónusta Google Play sé uppfærð.</string>
+    <string name="a0">%1$s krefst uppfærslu á Android Wear forritinu.</string>
+    <string name="a1">Forrit krefst þess að þjónusta Google Play sé virk.</string>
+    <string name="a2">%1$s bað um</string>
+    <string name="a3">Sækja þjónustu Google Play</string>
+    <string name="a4">%1$s getur ekki keyrt án þjónustu Google Play, sem vantar í símann þinn.</string>
+    <string name="a5">%1$s getur ekki keyrt án þjónustu Google Play, sem vantar í spjaldtölvuna þína.</string>
+    <string name="a6">Sækja þjónustu Google Play</string>
+    <string name="a7">Virkja þjónustu Google Play</string>
+    <string name="a8">%1$s virkar ekki nema þú gerir þjónustu Google Play virka.</string>
+    <string name="a9">Virkja þjónustu Google Play</string>
+    <string name="a_">Uppfæra þjónustu Google Play</string>
+    <string name="aa">Uppfærðu Android Wear</string>
+    <string name="ab">%1$s getur ekki keyrt nema þú uppfærir þjónustu Google Play.</string>
+    <string name="ac">%1$s getur ekki keyrt nema þú uppfærir Android Wear forritið.</string>
+    <string name="ad">Verið er að uppfæra þjónustu Google Play</string>
+    <string name="ae">%1$s getur ekki keyrt án þjónustu Google Play, sem verið er að uppfæra.</string>
+    <string name="af">Netvilla</string>
+    <string name="ag">Gagnatengingar er krafist til að tengjast þjónustu Google Play.</string>
+    <string name="ah">Ógildur reikningur</string>
+    <string name="ai">Tilgreindur reikningur er ekki til staðar í þessu tæki. Veldu annan reikning.</string>
+    <string name="aj">Óþekkt vandamál með þjónustu Google Play.</string>
+    <string name="ak">Þjónusta Google Play</string>
+    <string name="al">%1$s reiðir sig á þjónustu Google Play, sem er ekki studd í tækinu þínu. Hafðu samband við framleiðandann til að fá aðstoð.</string>
+    <string name="am">Uppfæra</string>
+    <string name="an">Skrá inn</string>
+    <string name="ao">Skrá inn með Google</string>
+    <string name="ap">Opna í símanum</string>
+    <string name="aq">%1$s krefst einhverrar Google Play þjónustu sem ekki er tiltæk sem stendur. Hafðu samband við þróunaraðilann til að fá aðstoð.</string>
+    <string name="ar">Innskráning mistókst</string>
+    <string name="as">Villa við að skrá tilgreindan reikning inn. Veldu annan reikning.</string>
+</resources>

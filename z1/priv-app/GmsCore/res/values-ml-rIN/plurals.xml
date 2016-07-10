@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">പരിധിയേക്കാൾ %1$d പ്രതീകങ്ങൾ കൂടുതൽ</item>
+        <item quantity="one">പരിധിയേക്കാൾ %1$d പ്രതീകം കൂടുതൽ</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d പ്രതീകങ്ങൾ ശേഷിക്കുന്നു</item>
+        <item quantity="one">%1$d പ്രതീകം ശേഷിക്കുന്നു</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google അക്കൗണ്ടുകൾ</item>
+        <item quantity="one">%d Google അക്കൗണ്ട്</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">നിങ്ങളുടെ Google അക്കൗണ്ടുകളും അവയുടെ വിവരങ്ങളും ഉപയോഗിച്ച് ഒരു ^1 സജ്ജമാക്കാൻ ഈ ഉപകരണം ഉപയോഗിച്ചു</item>
+        <item quantity="one">നിങ്ങളുടെ Google അക്കൗണ്ടും അതിന്റെ വിവരങ്ങളും ഉപയോഗിച്ച് ഒരു ^1 സജ്ജമാക്കാൻ ഈ ഉപകരണം ഉപയോഗിച്ചു</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d മണിക്കൂർ</item>
+        <item quantity="one">ഒരു മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d മിനിറ്റ്</item>
+        <item quantity="one">ഒരു മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">ഒരു പിശക് സംഭവിച്ചതിനാൽ ഈ ക്ഷണങ്ങൾ അയയ്‌ക്കാനായില്ല</item>
+        <item quantity="one">ഒരു പിശകുണ്ടായതിനാൽ ഈ ക്ഷണം അയച്ചില്ല</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">ഈ ക്ഷണങ്ങൾ ഇപ്പോൾ അയയ്‌ക്കാനാവുന്നില്ല. നിങ്ങൾക്കവ Google Play > എന്റെ അക്കൗണ്ട് എന്നിവയിൽ നിന്നും വീണ്ടും അയയ്‌ക്കാം.</item>
+        <item quantity="one">ഈ ക്ഷണം ഇപ്പോൾ അയയ്‌ക്കാനാവുന്നില്ല. നിങ്ങൾക്ക് ഇത് Google Play > എന്റെ അക്കൗണ്ട് എന്നിവയിൽ നിന്നും വീണ്ടും അയയ്‌ക്കാം.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d ക്ഷണങ്ങൾ ശേഷിക്കുന്നു</item>
+        <item quantity="one">%d ക്ഷണം ശേഷിക്കുന്നു</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d പുതിയ സന്ദേശങ്ങൾ</item>
+        <item quantity="one">ഒരു പുതിയ സന്ദേശം</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">നിങ്ങൾക്ക് മുമ്പിൽ %1$d ആളുകളുണ്ട്</item>
+        <item quantity="one">നിങ്ങൾക്ക് മുമ്പിൽ ഒരാളുണ്ട്</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d സർക്കിളുകൾ</item>
+        <item quantity="one">ഒരു സർക്കിൾ</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d ദിവസം</item>
+        <item quantity="one">ഒരു ദിവസം</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d മണിക്കൂർ</item>
+        <item quantity="one">ഒരു മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d മിനിറ്റ്</item>
+        <item quantity="one">ഒരു മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d ദിവസം</item>
+        <item quantity="one">ഒരു ദിവസം</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d മണിക്കൂർ</item>
+        <item quantity="one">ഒരു മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d മിനിറ്റ്</item>
+        <item quantity="one">ഒരു മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d പേർ</item>
+        <item quantity="one">ഒരാൾ</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">By %1$s, മറ്റ് %2$d ആപ്സ് എന്നിവ മുഖേനെ</item>
+        <item quantity="one">%1$s, മറ്റ് %2$d ആപ്പ് എന്നിവ മുഖേനെ</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d ദിവസം</item>
+        <item quantity="one">%d ദിവസം</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d മണിക്കൂർ</item>
+        <item quantity="one">%d മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d മിനിറ്റ്</item>
+        <item quantity="one">%d മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s പേർ</item>
+        <item quantity="one">%1$s വ്യക്തി</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d അനുഗാമികൾ</item>
+        <item quantity="one">ഒരു അനുഗാമി</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d കാഴ്ചകൾ</item>
+        <item quantity="one">ഒരു കാഴ്ച</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">നിങ്ങളുടെ Google അക്കൗണ്ടുകളും വിവരങ്ങളും പകർത്തുന്നു…</item>
+        <item quantity="one">നിങ്ങളുടെ Google അക്കൗണ്ടും വിവരങ്ങളും പകർത്തുന്നു…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">നിങ്ങളുടെ Google അക്കൗണ്ടുകളും വിവരങ്ങളും ഉപയോഗിച്ച് ഒരു ^1 സജ്ജമാക്കാൻ ഈ ഉപകരണം ഉപയോഗിച്ചു</item>
+        <item quantity="one">നിങ്ങളുടെ Google അക്കൗണ്ടും വിവരങ്ങളും ഉപയോഗിച്ച് ഒരു ^1 സജ്ജമാക്കാൻ ഈ ഉപകരണം ഉപയോഗിച്ചു</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">ഇൻസ്റ്റാളുചെയ്യുന്നതിനായി %d നിമിഷത്തിനകം റീബൂട്ടുചെയ്യുന്നു…</item>
+        <item quantity="one">ഇൻസ്റ്റാളുചെയ്യുന്നതിനായി ഒരു നിമിഷത്തിനകം റീബൂട്ടുചെയ്യുന്നു…</item>
+    </plurals>
+</resources>

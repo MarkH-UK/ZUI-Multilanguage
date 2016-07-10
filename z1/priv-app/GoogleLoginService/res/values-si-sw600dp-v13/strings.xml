@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">ඔබේ නම ඔබේ ටැබ්ලටය සහ Google සේවාවන් පෞද්ගලීකරණය කිරීමට යොදා ගනී.</string>
+    <string name="name_title_local">මෙම ටැබ්ලටය අයත් වන්නේ...</string>
+    <string name="name_text_local">ටැබ්ලටය ඇතැම් යෙදුම් පෞද්ගලීකරණය කිරීමට ඔබගේ නම භාවිතා කරයි.</string>
+    <string name="communicating_message">ඔබගේ ගිණුමට තොරතුරු සුරැකීමට ඔබගේ ටැබ්ලටය Google වෙත සම්බන්ධ වෙමින් පවතී. මෙය මිනිත්තු 5 ක් දක්වා ගැනීමට හැක.</string>
+    <string name="checking_username_message">"ඔබගේ අපේක්ෂිත පරිශීලක නාමය පවතී දැයි බැලීමට ඔබගේ ටැබ්ලටය Google හා සම්බන්ධ වේ.
+
+මේ සඳහා මිනිත්තු කිහිපයක් ගැනීමට හැක."</string>
+    <string name="wait_for_device_country_msg">ඔබගේ ටැබ්ලටය පිළිබඳ තොරතුරු රැස් කරමින් පවතී. මෙයට තත්පර 30 ක් දක්වා ගැනීමට පුළුවනි.</string>
+    <string name="backup_consent_message">"ඔබගේ යෙදුම්, පිටුසන් සහ Wi-Fi මුරපද වැනි සැකසීම් සහ වෙනත් දත්ත උපස්ථ කිරීමට ඔබගේ Google ගිණුම භාවිතා කරන්න. ඔබ ඔබගේ ගිණුම කලින් උපස්ථ කර ඇති නම්, එය දැන් මෙම ටැබ්ලටයට නැවත පිහිටුවීම කළ හැක.
+
+උපස්ථ කළ සැකසීම් ඔබගේ සැකසීම් තුළ ඕනෑම වෙලාවක වෙනස් කළ හැක."</string>
+    <string name="backup_consent_message_no_restore">"ඔබගේ යෙදුම් සැකසුම් (පිටුසන් සහ Wi-Fi රහස්පද වැනි) සහ අනෙකුත් දත්ත උපස්ථ කිරීමට ඔබගේ Google ගිණුම භාවිතා කරන්න.
+
+ උපස්ථ සැකසුම් ඔබගේ සැකසුම් තුළ ඕනෑම වෙලාවක වෙනස් කර ගත හැක."</string>
+    <string name="restoring_message">ඔබගේ ටැබ්ලටය ඔබගේ ගිණුම යළි පිහිටුවීමට Google වෙත අමතයි. මෙයට මිනිත්තු 5 ක් දක්වා ගත විය හැක.</string>
+    <string name="restore_consent_yes_agree">ඔබගේ Google ගිණුම වෙත ඔබ කලින් උපස්ථ කළ යෙදුම්, සැකසීම්, සහ වෙනත් දත්ත මෙම ටැබ්ලටය වෙත ගෙන එන්න.</string>
+</resources>

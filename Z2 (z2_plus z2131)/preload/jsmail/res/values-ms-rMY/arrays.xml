@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Balas</item>
+        <item>Balas kepada semua</item>
+        <item>Majukan</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Satu baris</item>
+        <item>Dua baris</item>
+        <item>Tiga baris</item>
+        <item>Empat baris</item>
+        <item>Lima baris</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Sangat kecil</item>
+        <item>Kecil</item>
+        <item>Biasa</item>
+        <item>Besar</item>
+        <item>Sangat besar</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Terbaru</item>
+        <item>Format</item>
+        <item>Nama</item>
+        <item>Daripada</item>
+        <item>Tarikh</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Mesej pantas</item>
+        <item>Semua folder</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Perbualan seterusnya</item>
+        <item>Perbualan sebelumnya</item>
+        <item>Senarai perbualan</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Tunjukkan item diarkib sahaja</item>
+        <item>Tunjukkan item dipadam sahaja</item>
+        <item>Tunjukkan kedua-dua item diarkib dan dipadam</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Tunjukkan perbualan seterusnya selepas anda memadam</item>
+        <item>Tunjukkan perbualan sebelumnya selepas anda memadam</item>
+        <item>Tunjukkan senarai perbualan selepas anda memadam</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Tunjukkan item diarkib sahaja</item>
+        <item>Tunjukkan item dipadam sahaja</item>
+        <item>Tunjukkan kedua-dua item diarkib dan dipadam</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Alamat:</item>
+        <item>Tel:</item>
+        <item>Nama:</item>
+        <item>E-mel:</item>
+        <item>Mudah alih:</item>
+        <item>WeChat:</item>
+        <item>Faks:</item>
+        <item>Poskod:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Terima kasih,</item>
+        <item>Salam Sejahtera</item>
+        <item>Dihantar daripada saya punya</item>
+        <item>E-mel asal</item>
+        <item>Dihantar daripada saya punya</item>
+        <item>Dihantar daripada</item>
+        <item>Daripada</item>
+        <item>E-mel ini</item>
+        <item>Penafian</item>
+        <item>Penafian E-mel</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Penyegerakan berjaya</item>
+        <item>Ralat dalam sambungan rangkaian</item>
+        <item>Gagal mendaftar masuk</item>
+        <item>Ralat dalam sambungan selamat</item>
+        <item>Gagal menyegerak</item>
+        <item>Ralat pelayan</item>
+    </string-array>
+</resources>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Café</item>
+        <item>"Station d'essence"</item>
+        <item>Cinéma</item>
+        <item>Hébergement</item>
+        <item>Boîte de nuit</item>
+        <item>Musée</item>
+        <item>Restaurant</item>
+        <item>Centre commercial</item>
+        <item>Magasin</item>
+        <item>Épicerie ou supermarché</item>
+        <item>Autre</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>médiocre</item>
+        <item>satisfaisant</item>
+        <item>bon</item>
+        <item>Fort</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Version</item>
+        <item>Développeur</item>
+        <item>Vente au détail</item>
+        <item>Démonstration</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Le téléphone et la voiture exécutent des versions logicielles incompatibles. Pour obtenir plus de détails, visitez la page &lt;a href="android.com/auto">android.com/auto&lt;/a>.</item>
+        <item>"L'ensemble de configurations audio ou vidéo annoncés par la voiture est incorrect."</item>
+        <item>"La connexion USB ne fonctionne pas correctement. Vérifiez les éléments suivants : 
+
+• Assurez-vous que le câble est bien ajusté aux deux extrémités. 
+• Assurez-vous que vous utilisez bien un câble de données USB. 
+• Assurez-vous que la date et l'heure sont correctes sur la voiture et votre téléphone."</item>
+        <item>"La voiture a cessé d'exécuter Android Auto."</item>
+        <item>La session Android Auto a arrêté, comme demandé.</item>
+        <item>"Il se peut que le logiciel de la voiture doive être mis à jour. Pour obtenir plus de détails et de l'assistance, communiquez avec son fabricant."</item>
+        <item>"Le logiciel de votre voiture n'a pas passé les vérifications de sécurité Android Auto. Pour obtenir plus de détails et de l'assistance, communiquez avec son fabricant."</item>
+        <item>"Le logiciel de votre voiture n'a pas passé les vérifications de sécurité Android Auto. Assurez-vous que la date et l'heure de la voiture sont correctement définies, et qu'Android Auto est bien à jour."</item>
+        <item>"Une action est arrivée à expiration. Veuillez obtenir un formulaire de rapport d'erreur afin de nous envoyer vos commentaires."</item>
+        <item>"Aucun lanceur d'applications ne semble être installé. Votre téléphone est-il configuré correctement?"</item>
+        <item>"Le pipeline des graphiques ne fonctionne plus. Veuillez obtenir un formulaire de rapport d'erreur afin de nous envoyer vos commentaires."</item>
+        <item>"Les messages envoyés par le téléphone ne font l'objet d'aucune réponse de la part de la voiture. L'état de cette dernière est peut-être incorrect."</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Aéroport</item>
+        <item>Guichet bancaire</item>
+        <item>Banque</item>
+        <item>Bar</item>
+        <item>"Arrêt d'autobus"</item>
+        <item>Café</item>
+        <item>Terrain de camping</item>
+        <item>Cimetière</item>
+        <item>Église</item>
+        <item>Hôtel de ville</item>
+        <item>Établissement</item>
+        <item>Station-service</item>
+        <item>Épicerie ou supermarché</item>
+        <item>Temple hindou</item>
+        <item>Hôpital</item>
+        <item>Bibliothèque</item>
+        <item>Hébergement</item>
+        <item>Mosquée</item>
+        <item>Cinéma</item>
+        <item>Musée</item>
+        <item>Parc</item>
+        <item>Stationnement</item>
+        <item>Lieu de culte</item>
+        <item>Poste de police</item>
+        <item>Bureau de poste</item>
+        <item>Restaurant</item>
+        <item>École</item>
+        <item>Magasin</item>
+        <item>Station de métro</item>
+        <item>Synagogue</item>
+        <item>Gare ferroviaire</item>
+        <item>Gare de transit</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Janvier</item>
+        <item>Février</item>
+        <item>Mars</item>
+        <item>Avril</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juillet</item>
+        <item>Août</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+        <item>Novembre</item>
+        <item>Décembre</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Arrêter le partage</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 heure</item>
+        <item>Indéfiniment</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Arrêter le partage</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 heure</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

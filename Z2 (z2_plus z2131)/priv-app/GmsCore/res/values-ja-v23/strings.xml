@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"これは、電池残量、アプリの使用頻度、ネットワーク接続（携帯通信、Wi-Fi、Bluetoothなど）の質と時間、正しく機能しない場合のクラッシュレポートなど、端末や使用方法に関する一般的な情報です。この情報はすべてのユーザーのためにGoogleのサービスを向上させる目的で使用され、お子様のGoogleアカウントに関連付けられることはありません。一部の統計情報はAndroidデベロッパーなどのパートナーのアプリやサービス向上にも役立てられます。
+
+[設定]>[Google]でいつでもこの機能のON/OFFを切り替えられます。これにより、端末がシステムアップデートやセキュリティなどの基本的なサービスを受けるために必要な情報を送信する機能に影響を与えることはありません。"</string>
+    <string name="auth_setup_wizard_services_backup">Googleドライブに、アプリで保存された設定やファイルなどのアプリのデータと、Wi-Fiパスワードや通話履歴などの<b>端末のデータを自動的にバックアップ</b>します。<annotation id="backup_details">詳細</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"自動バックアップをONにすると、端末とアプリのデータは定期的にGoogleドライブの非公開フォルダに保存されます。保存されるアプリのデータは、機密性が潜在的に高いデータ（連絡先、メッセージ、写真など）を含む、（デベロッパーの設定に基づいて）アプリで保存されたすべてのデータが対象となります。
+
+バックアップデータはドライブの保存容量にはカウントされません。サイズの大きなファイルやデベロッパーがサービスから除外したファイルはバックアップされません。"</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>位置情報の精度を上げる</b>ため、Wi-FiやBluetoothがOFFの場合でもアプリやサービスにWi‑FiネットワークやBluetoothデバイスのスキャンを許可します。</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"これは、電池残量、アプリの使用頻度、ネットワーク接続（携帯通信、Wi-Fi、Bluetoothなど）の質と時間、正しく機能しない場合のクラッシュレポートなど、端末や使用方法に関する一般的な情報です。この情報はすべてのユーザーのためにGoogleのサービスを向上させる目的で使用され、ユーザーのGoogleアカウントに関連付けられることはありません。一部の統計情報はAndroidデベロッパーなどのパートナーのアプリやサービス向上にも役立てられます。
+
+[設定]>[Google]でいつでもこの機能のON/OFFを切り替えられます。これにより、端末がシステムアップデートやセキュリティなどの基本的なサービスを受けるために必要な情報を送信する機能に影響を与えることはありません。"</string>
+</resources>

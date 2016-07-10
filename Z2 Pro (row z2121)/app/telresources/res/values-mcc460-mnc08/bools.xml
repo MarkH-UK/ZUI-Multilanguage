@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_enable_mms_with_mobile_data_off">true</bool>
+    <bool name="config_enable_callbarring_over_ims">true</bool>
+</resources>

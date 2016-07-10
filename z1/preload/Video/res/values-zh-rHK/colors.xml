@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="qiyi_green">#ff6fa703</color>
+    <color name="qiyi_grey">#ff9b9b9b</color>
+    <color name="qiyi_main">#ffdcdcdc</color>
+    <color name="qiyi_dark_grey">#ff3a3a3a</color>
+    <color name="qiyi_red">#ffd14b4b</color>
+    <color name="qiyi_index_txt_bg">#ffc1c9cf</color>
+    <color name="qiyi_ad_txt">#fffb9b13</color>
+    <color name="color_background">#ff181818</color>
+    <color name="color_white_background">#90ffffff</color>
+    <color name="color_orange">#ffff8705</color>
+    <color name="phone_download_delete_forbidden_color">#00cccccc</color>
+    <color name="red">#ffff0000</color>
+</resources>

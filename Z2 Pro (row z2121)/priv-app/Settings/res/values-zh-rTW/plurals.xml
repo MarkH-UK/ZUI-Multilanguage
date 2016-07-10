@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fap_applock_app_count">
+        <item quantity="other">%d 個</item>
+        <item quantity="one">1 個</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">只需 %1$d 步操作即可進入開發者模式。</item>
+        <item quantity="one">只需 %1$d 步操作即可進入開發者模式。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">密碼必須包含至少 %d 個字母。</item>
+        <item quantity="one">密碼必須包含至少 1 個字母。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">密碼必須包含至少 %d 個小寫字母。</item>
+        <item quantity="one">密碼必須包含至少 1 個小寫字母。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">密碼必須包含至少 %d 個大寫字母。</item>
+        <item quantity="one">密碼必須包含至少 1 個大寫字母。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">密碼必須包含至少 %d 個數字。</item>
+        <item quantity="one">密碼必須包含至少 1 個數字。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">密碼必須包含至少 %d 個特殊符號。</item>
+        <item quantity="one">密碼必須包含至少 1 個特殊符號。</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">密碼至少應包含 %d 個非字母字元。</item>
+        <item quantity="one">密碼至少應包含 1 個非字母字元。</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM 卡 PIN 碼不正確，您還有%d次嘗試機會。</item>
+        <item quantity="one">SIM 卡 PIN 碼不正確，您還有%d次嘗試機會。如果仍然失敗，則必須聯繫電信業者幫您解鎖裝置。</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">變更為僅限鬧鐘，持續 %1$d 分鐘 (到%2$s）</item>
+        <item quantity="one">變更為僅限鬧鐘，持續 1 分鐘 (到%2$s）</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">變更為僅限鬧鐘，持續 %1$d 小時 (到%2$s）</item>
+        <item quantity="one">變更為僅限鬧鐘，持續 1 小時 (到%2$s）</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d 個應用程式可以讀取通知</item>
+        <item quantity="one">%d 個應用程式可以讀取通知</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d 個應用程式可提供條件</item>
+        <item quantity="one">%d 個應用程式可提供條件</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">過去 %2$s內有 %1$d 個應用程式使用了記憶體</item>
+        <item quantity="one">過去 %2$s內有 1 個應用程式使用了記憶體</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">已設定 %1$d 個指紋</item>
+        <item quantity="one">已設定 %1$d 個指紋</item>
+    </plurals>
+</resources>

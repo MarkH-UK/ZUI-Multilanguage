@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="click_location_size">18.0sp</dimen>
+    <dimen name="orienname_size">55.0sp</dimen>
+    <dimen name="orienvalue_size">33.0sp</dimen>
+    <dimen name="confirm_margintop">55.0dip</dimen>
+    <dimen name="tip_margintop">30.0dip</dimen>
+</resources>

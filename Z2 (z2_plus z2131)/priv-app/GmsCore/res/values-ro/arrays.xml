@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Cafenea</item>
+        <item>Benzinărie</item>
+        <item>Cinematograf</item>
+        <item>Cazare</item>
+        <item>Club de noapte</item>
+        <item>Muzeu</item>
+        <item>Restaurant</item>
+        <item>Centru comercial</item>
+        <item>Magazin</item>
+        <item>Băcănie sau supermarket</item>
+        <item>Altele</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>slabă</item>
+        <item>acceptabilă</item>
+        <item>bună</item>
+        <item>puternică</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Lansare</item>
+        <item>Dezvoltator</item>
+        <item>Versiune comercială</item>
+        <item>Versiune demonstrativă</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Telefonul și mașina au software-uri incompatibile. Pentru detalii, accesați &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Mașina a indicat un set incorect de configurații audio și/sau video.</item>
+        <item>"Conexiunea USB nu funcționează corespunzător. Încercați: 
+
+• să asigurați conectarea corespunzătoare a cablului la ambele capete; 
+•să vă asigurați că folosiți un cablu USB pentru date; 
+•să vă asigurați că data și ora au fost setate corect atât în mașină, cât și pe telefon."</item>
+        <item>Mașina nu mai rulează Android Auto.</item>
+        <item>Sesiunea Android Auto a fost încheiată, conform solicitării.</item>
+        <item>Este posibil ca software-ul mașinii să fie învechit. Pentru detalii și asistență, contactați producătorul.</item>
+        <item>Software-ul mașinii dvs. nu a trecut verificările de securitate Android Auto. Pentru detalii și asistență, contactați producătorul.</item>
+        <item>Software-ul mașinii dvs. nu a trecut verificările de securitate Android Auto. Asigurați-vă că data și ora sunt setate corect pe mașină și că software-ul Android Auto a fost actualizat.</item>
+        <item>O acțiune a expirat. Generați un raport de erori și trimiteți feedback.</item>
+        <item>Se pare că nu aveți un lansator instalat. Telefonul este configurat corect?</item>
+        <item>Redarea grafică nu mai funcționează. Generați un raport de erori și trimiteți feedback.</item>
+        <item>Mașina nu răspunde la mesajele trimise prin telefon. Starea mașinii ar putea fi deteriorată.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Aeroport</item>
+        <item>Bancomat</item>
+        <item>Bancă</item>
+        <item>Bar</item>
+        <item>Stație de autobuz</item>
+        <item>Cafenea</item>
+        <item>Camping</item>
+        <item>Cimitir</item>
+        <item>Biserică</item>
+        <item>Primărie</item>
+        <item>Instituție</item>
+        <item>Benzinărie</item>
+        <item>Băcănie sau supermarket</item>
+        <item>Templu hindus</item>
+        <item>Spital</item>
+        <item>Bibliotecă</item>
+        <item>Cazare</item>
+        <item>Moschee</item>
+        <item>Cinema</item>
+        <item>Muzeu</item>
+        <item>Parc</item>
+        <item>Parcare</item>
+        <item>Loc de rugăciune</item>
+        <item>Secție de poliție</item>
+        <item>Oficiu poștal</item>
+        <item>Restaurant</item>
+        <item>Școală</item>
+        <item>Magazin</item>
+        <item>Stație de metrou</item>
+        <item>Sinagogă</item>
+        <item>Gară</item>
+        <item>Stație de transport public</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>ianuarie</item>
+        <item>februarie</item>
+        <item>martie</item>
+        <item>aprilie</item>
+        <item>mai</item>
+        <item>iunie</item>
+        <item>iulie</item>
+        <item>august</item>
+        <item>septembrie</item>
+        <item>octombrie</item>
+        <item>noiembrie</item>
+        <item>decembrie</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Nu mai afișa</item>
+        <item>15 minute</item>
+        <item>30 minute</item>
+        <item>O oră</item>
+        <item>Pe timp nedefinit</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Nu mai afișa</item>
+        <item>15 minute</item>
+        <item>30 minute</item>
+        <item>O oră</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Alegeți o întrebare de securitate</item>
+        <item>Primul număr de telefon?</item>
+        <item>Numele celui mai bun prieten din copilărie?</item>
+        <item>Numele primului profesor?</item>
+        <item>Numele directorului de la primul loc de muncă?</item>
+        <item>Numărul de înregistrare al vehiculului?</item>
+    </string-array>
+</resources>

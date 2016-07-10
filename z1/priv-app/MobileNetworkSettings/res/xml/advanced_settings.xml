@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/mobile_network_advanced_options_title_open"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.lenovo.leos.mobileNetworkSettings.ListTabletPreference android:title="@string/network_type" android:key="network_type" />
+    <com.lenovo.leos.mobileNetworkSettings.imagepreference.ImagePreference android:persistent="false" android:title="@string/network_operators_settings" android:key="network_operators_settings" />
+    <PreferenceScreen android:persistent="false" android:title="@string/apn_setting" android:key="apn_setting" android:widgetLayout="@layout/preference_widget_next" />
+</PreferenceScreen>

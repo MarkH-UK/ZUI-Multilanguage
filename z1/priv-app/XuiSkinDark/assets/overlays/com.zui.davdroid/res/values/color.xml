@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The color of status bar under white theme -->
+    <color name="background_status_bar">#ffffff</color>
+
+    <color name="color_option_menu_text">#006798</color>
+    <color name="color_option_menu_text_pressed">#99006798</color>
+
+    <color name="color_primary_button_text">#adc4d4</color>
+    <color name="color_primary_button_text_disable">#365b70</color>
+
+</resources>

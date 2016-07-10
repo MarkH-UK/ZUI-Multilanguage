@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>အကြောင်းအရာတပ်ထားခြင်းမရှိ</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>၁ စက္ကန့်</item>
+        <item>၂ စက္ကန့်</item>
+        <item>၃ စက္ကန့်</item>
+        <item>၄ စက္ကန့်</item>
+        <item>၅ စက္ကန့်</item>
+        <item>၆ စက္ကန့်</item>
+        <item>၇ စက္ကန့်</item>
+        <item>၈ စက္ကန့်</item>
+        <item>၉ စက္ကန့်</item>
+        <item>၁၀ စက္ကန့်</item>
+        <item>အခြား</item>
+    </string-array>
+</resources>

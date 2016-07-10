@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d Zeichen über dem Limit</item>
+        <item quantity="one">%1$d Zeichen über dem Limit</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">Noch %1$d Zeichen</item>
+        <item quantity="one">Noch %1$d Zeichen</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google-Konten</item>
+        <item quantity="one">%d Google-Konto</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Dieses Gerät wurde verwendet, um ein Gerät des folgenden Typs mit Ihren Google-Konten und den zugehörigen Daten einzurichten: ^1.</item>
+        <item quantity="one">Dieses Gerät wurde verwendet, um ein Gerät des folgenden Typs mit Ihrem Google-Konto und dessen Daten einzurichten: ^1.</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">1 Stunde</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d Minuten</item>
+        <item quantity="one">1 Minute</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Die Einladungen wurden aufgrund eines Fehlers nicht gesendet.</item>
+        <item quantity="one">Die Einladung wurde aufgrund eines Fehlers nicht gesendet.</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Die Einladungen können momentan nicht gesendet werden. Du kannst sie aber erneut senden. Rufe dazu \"Google Play\" > \"Mein Konto\" auf.</item>
+        <item quantity="one">Die Einladung kann momentan nicht gesendet werden. Du kannst sie aber erneut senden. Rufe dazu \"Google Play\" > \"Mein Konto\" auf.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d Einladungen übrig</item>
+        <item quantity="one">%d Einladung übrig</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d neue Nachrichten</item>
+        <item quantity="one">1 neue Nachricht</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d Personen warten vor Ihnen.</item>
+        <item quantity="one">1 Person wartet vor Ihnen.</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d Kreise</item>
+        <item quantity="one">1 Kreis</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d Tage</item>
+        <item quantity="one">1 Tag</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">1 Stunde</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d Minuten</item>
+        <item quantity="one">1 Minute</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d Tage</item>
+        <item quantity="one">1 Tag</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">1 Stunde</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d Minuten</item>
+        <item quantity="one">1 Minute</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d Personen</item>
+        <item quantity="one">1 Person</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Von %1$s und %2$d weiteren Apps</item>
+        <item quantity="one">Von %1$s und %2$d weiterer App</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d Tage</item>
+        <item quantity="one">%d Tag</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">%d Stunde</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d Min.</item>
+        <item quantity="one">%d Min.</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s Personen</item>
+        <item quantity="one">%1$s Person</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d Follower</item>
+        <item quantity="one">Ein Follower</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d Aufrufe</item>
+        <item quantity="one">Ein Aufruf</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Google-Konten und Daten werden kopiert…</item>
+        <item quantity="one">Google-Konto und Daten werden kopiert…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Dieses Gerät wurde verwendet, um ein ^1 mit Ihren Google-Konten und Ihren Daten einzurichten.</item>
+        <item quantity="one">Dieses Gerät wurde verwendet, um ein ^1 mit Ihrem Google-Konto und Ihren Daten einzurichten.</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Neustart für Installation in %d Sekunden...</item>
+        <item quantity="one">Neustart für Installation in 1 Sekunde...</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">Es wird eine Liste mit %1$d Adressen angezeigt.</item>
+        <item quantity="one">Es wird eine Liste mit einer Adresse angezeigt.</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">Es wird eine Liste mit %1$d Artikeln angezeigt.</item>
+        <item quantity="one">Es wird eine Liste mit einem Artikel angezeigt.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">Es wird eine Liste mit %1$d Zahlungsmethoden angezeigt.</item>
+        <item quantity="one">Es wird eine Liste mit einer Zahlungsmethode angezeigt.</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">Es wird eine Liste mit %1$d Treuepunkteprogrammen angezeigt.</item>
+        <item quantity="one">Es wird eine Liste mit einem Treuepunkteprogramm angezeigt.</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">Minuten</item>
+        <item quantity="one">Minute</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen alle &amp;lt;price>%2$d Tage automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen &amp;lt;price>täglich automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Tage&amp;lt;/duration> alle &amp;lt;price>%2$d Tage automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Tage&amp;lt;/duration> &amp;lt;price>täglich automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen alle &amp;lt;price>%2$d Tage automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen &amp;lt;price>täglich automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Tage&amp;lt;/duration> alle &amp;lt;price>%2$d Tage automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Tage&amp;lt;/duration> &amp;lt;price>täglich automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen alle &amp;lt;price>%2$d Monate automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen &amp;lt;price>monatlich automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Monate&amp;lt;/duration> alle &amp;lt;price>%2$d Monate automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Monate&amp;lt;/duration> &amp;lt;price>monatlich automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen alle &amp;lt;price>%2$d Monate automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen &amp;lt;price>monatlich automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Monate&amp;lt;/duration> alle &amp;lt;price>%2$d Monate automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Monate&amp;lt;/duration> &amp;lt;price>monatlich automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen alle &amp;lt;price>%2$d Jahre automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen &amp;lt;price>jährlich automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Jahre&amp;lt;/duration> alle &amp;lt;price>%2$d Jahre automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Jahre&amp;lt;/duration> &amp;lt;price>jährlich automatisch der Betrag in Höhe von %1$s&amp;lt;/price> in Rechnung gestellt.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen alle &amp;lt;price>%2$d Jahre automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%3$s&amp;lt;/start_time> wird Ihnen &amp;lt;price>jährlich automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt, bis Sie Ihr Abonnement kündigen.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Jahre&amp;lt;/duration> alle &amp;lt;price>%2$d Jahre automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt.</item>
+        <item quantity="one">Ab dem &amp;lt;start_time>%4$s&amp;lt;/start_time> wird Ihnen für die Dauer der darauffolgenden &amp;lt;duration>%3$d Jahre&amp;lt;/duration> &amp;lt;price>jährlich automatisch der Betrag in Höhe von %1$s zuzüglich Steuern&amp;lt;/price> in Rechnung gestellt.</item>
+    </plurals>
+</resources>

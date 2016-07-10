@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clone_clone_title_hint">把旧设备中的数据一键全迁移到新设备</string>
+    <string name="clone_clone_introduce">将旧设备中的应用、联系人、短信和图片等数据，一键零流量全迁移到新设备。</string>
+    <string name="clone_clone_host">我是旧设备</string>
+    <string name="clone_clone_client">我是新设备</string>
+    <string name="clone_clone_host_title">等待新设备连接</string>
+    <string name="clone_clone_client_title">正在搜索旧设备</string>
+    <string name="clone_clone_guide_mask_tip1">新设备点这里，从旧设备导入应用、联系人和图片等。</string>
+    <string name="clone_clone_guide_mask_tip2">旧设备点这里，将应用、联系人和图片导出至新设备。</string>
+    <string name="clone_clone_host_inited">正在等待新设备连接 …</string>
+    <string name="clone_discover_info1">另一设备需点击 \"%s\"</string>
+    <string name="clone_receive_info">另一设备需点击 \"%s\"</string>
+    <string name="clone_client_choice_host">找到%s个旧设备，请点击图标选择</string>
+    <string name="clone_client_choice_title">点击图标选择旧设备</string>
+    <string name="clone_client_searching_clone">旧设备寻找中 …</string>
+    <string name="clone_text_new_phone">新设备</string>
+    <string name="clone_host_client_finished_detail">提示：如需要清理此设备数据，防止隐私泄露，可选择[系统设置]，恢复出厂设置</string>
+    <string name="clone_content_title">选择旧设备的资料</string>
+    <string name="clone_content_category_file_info">多媒体文件会存放在与旧设备相同的路径</string>
+    <string name="clone_help_question1">问题1：如何把旧设备数据导入新设备里？</string>
+    <string name="clone_help_answer1">回答：请把两部设备都安装好“茄子换机”，旧设备点击“我是旧设备”，新设备请点击“我是新设备”。</string>
+    <string name="clone_help_answer2">"回答：新设备上已经存在的资料不会重复下载。
+超过设备存储上限，如联系人、短信等，会合并两个设备的数据，再存入最新的数据。"</string>
+    <string name="clone_help_answer3">"回答：1. 换机完成后，联系人、短信、个人设置等会自动存进新设备里。比如，联系人会存进通讯录。
+2. 照片、音乐、视频等文件会存在和旧设备相同的目录里，用播放软件扫描即可查看。"</string>
+    <string name="clone_help_answer4">回答：如果设备有ROOT权限，会尝试使用，实现应用自动安装和数据导入导出，请放心给于权限。</string>
+    <string name="clone_wizard_found_old_phone">找不到旧设备?</string>
+    <string name="clone_wizard_found_new_phone">找不到新设备?</string>
+    <string name="clone_intro_tip1_info">旧设备需要安装\"茄子换机\"哦~</string>
+    <string name="clone_intro_tip2_info1">用旧设备打开\"茄子换机\"</string>
+    <string name="clone_intro_tip2_info3">并选择\"我是旧设备\"</string>
+    <string name="clone_backup_intro_tip2_info3">并选择\"我是新设备\"</string>
+    <string name="clone_intro_tip3_info">等待旧设备被发现即可</string>
+    <string name="clone_wizard_tips">"请在旧设备上：
+打开\"茄子换机\"，选择\"我是旧设备\""</string>
+    <string name="clone_wizard_button_finished">确定，开始使用新设备</string>
+    <string name="clone_wizard_help_title">旧设备操作指南</string>
+    <string name="clone_wizard_help_qrcode_title">从旧设备迁移(0流量)</string>
+    <string name="clone_wizard_help_qrcode_intro1">旧设备仅支持安卓系统</string>
+    <string name="clone_wizard_help_qrcode_intro2">旧设备安装茄子换机</string>
+    <string name="clone_wizard_help_demo_title">旧设备打开茄子换机</string>
+    <string name="clone_wizard_help_demo_intro1">"在旧设备中打开茄子换机，选择'我是旧设备'"</string>
+    <string name="clone_wizard_later">稍后迁移，开始使用新设备</string>
+    <string name="clone_wizard_summary">和旧设备说拜拜，挥一挥手，联系人，短信，照片，应用%1$s</string>
+    <string name="clone_wizard_from_old_phone">迁移旧设备数据（0流量）</string>
+    <string name="clone_wizard_from_old_phone_summary">仅支持旧设备为Android系统</string>
+    <string name="clone_wizard_title">正在匹配旧设备 …</string>
+</resources>

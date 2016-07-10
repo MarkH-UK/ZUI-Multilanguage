@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>nincs tárgy</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 másodperc</item>
+        <item>2 másodperc</item>
+        <item>3 másodperc</item>
+        <item>4 másodperc</item>
+        <item>5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>7 másodperc</item>
+        <item>8 másodperc</item>
+        <item>9 másodperc</item>
+        <item>10 másodperc</item>
+        <item>Egyéb</item>
+    </string-array>
+</resources>

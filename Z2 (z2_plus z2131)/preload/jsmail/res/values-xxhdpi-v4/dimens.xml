@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionbar_unread_top">13.0dip</dimen>
+    <dimen name="folder_list_item_start_margin">23.0dip</dimen>
+    <dimen name="folder_list_item_sub_margin">20.0dip</dimen>
+    <dimen name="ic_menu_height_diff">1.5dip</dimen>
+    <dimen name="user_guide_page7_bottom">315.0dip</dimen>
+    <dimen name="account_pop_height">10.0dip</dimen>
+    <dimen name="account_pop_item_height">16.0dip</dimen>
+    <dimen name="folder_list_menu_start_margin">12.0dip</dimen>
+    <dimen name="contact_list_name_size">40.0sp</dimen>
+    <dimen name="quick_reply_btn_textSize">16.0sp</dimen>
+    <dimen name="quick_reply_btn_width">70.0dip</dimen>
+    <dimen name="quick_reply_padding">8.0dip</dimen>
+    <dimen name="quick_reply_textSize">15.0sp</dimen>
+</resources>

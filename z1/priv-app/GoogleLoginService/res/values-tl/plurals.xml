@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Hindi maaaring gamitin ang account na ito dahil wala rito ang mga app: ^1. Makipag-ugnayan sa administrator ng domain para sa "&lt;b>^2&lt;/b>" o mag-sign in gamit ang ibang account. "</item>
+        <item quantity="one">" Hindi maaaring gamitin ang account na ito dahil wala rito ang mga app: ^1. Makipag-ugnayan sa administrator ng domain para sa "&lt;b>^2&lt;/b>" o mag-sign in gamit ang ibang account. "</item>
+    </plurals>
+</resources>

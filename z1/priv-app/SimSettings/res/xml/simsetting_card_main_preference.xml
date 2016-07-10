@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/card_info_name_category" android:key="sim_info" />
+    <com.lenovo.leos.simsettings.imagepreference.ImagePreference android:persistent="false" android:key="carrier_slot0" />
+    <com.lenovo.leos.simsettings.imagepreference.ImagePreference android:persistent="false" android:key="carrier_slot1" />
+    <PreferenceCategory android:title="@string/card_default_name_category" android:key="set_default_card" />
+    <com.lenovo.leos.simsettings.imagepreference.ImagePreference android:persistent="false" android:title="@string/card_call_default" android:key="card_call_pre" />
+    <com.lenovo.leos.simsettings.imagepreference.ImagePreference android:persistent="false" android:title="@string/card_sms_default" android:key="card_sms_pre" />
+    <com.lenovo.leos.simsettings.imagepreference.ImagePreference android:persistent="false" android:title="@string/card_data_default" android:key="card_data_pre" />
+    <PreferenceCategory android:persistent="false" android:state_expanded="true" android:key="inter_roam_notice" android:summary="@string/inter_roaming_summary" />
+</PreferenceScreen>

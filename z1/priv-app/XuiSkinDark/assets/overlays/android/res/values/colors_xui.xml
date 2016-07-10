@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- Colors specific to XUI themes. -->
+<resources>
+    <color name="background_xui">#ff070707</color>
+    <color name="title_background_xui">#ff131419</color>
+    <color name="dialog_divider_xui">#ff212227</color>
+    <color name="dialog_background_xui">#ff131419</color>
+    <color name="dialog_button_background_normal_xui">#ff17191e</color>
+    <color name="list_item_background_xui">#ff070707</color>
+    <color name="list_item_background_focused_xui">#ff0d0d0d</color>
+    <color name="alert_dialog_list_item_background_xui">#ff131419</color>
+    <color name="alert_dialog_list_item_background_focused_xui">#ff1f2025</color>
+    <color name="listview_x_left_menu_background">#ffbb311a</color>
+    <color name="listview_x_left_menu_text">#8cffffff</color>
+    <color name="button_background_xui">#ff17191e</color>
+    <color name="button_background_pressed_xui">#ff111316</color>
+    <color name="button_background_disabled_xui">#ff121317</color>
+    <color name="button_rect_stroke_xui">#ff17191e</color>
+    <color name="button_rect_stroke_pressed_xui">#0d000000</color>
+    <color name="button_rect_stroke_disabled_xui">#ff121317</color>
+    <color name="edit_text_background_xui">#00070707</color>
+    <color name="edit_text_border_xui">#1affffff</color>
+    <color name="edit_text_border_disable_xui">#14ffffff</color>
+    <color name="text_cursor_xui">#ff006798</color>
+    <color name="bottom_tabbar_background">#ff131419</color>
+    <color name="bottom_toolbar_background">#ff131419</color>
+    <color name="preference_category_bg_xui">#ff070707</color>
+    <color name="preference_selected_background_xui">#ff0d0d0d</color>
+    <color name="settings_background_xui">#ff0b0c0f</color>
+    <color name="tabwidget_selected_text_color_xui">#ff006798</color>
+    <color name="tabwidget_unselected_text_color_xui">#ff8c8c8c</color>
+    <color name="actionbar_tabtext_selected_text_color_xui">#ff006798</color>
+    <color name="actionbar_tabtext_unselected_text_color_xui">#ff8c8c8c</color>
+    <color name="preference_category_x_space_background">#ff0b0c0f</color>
+    <color name="resolver_activity_background_xui">#ff131419</color>
+
+    <color name="text_title_xui">#ff8c8c8c</color>
+    <color name="text_subhead_xui">#ff5c5c5c</color>
+    <color name="list_item_text_normal_xui">#ff8c8c8c</color>
+    <color name="list_item_text_disabled_xui">#ff4a4a4a</color>
+    <color name="list_item_second_line_text_normal_xui">#ff5c5c5c</color>
+    <color name="listview_x_edit_title_text">#ff8c8c8c</color>
+    <color name="listview_x_edit_title_option_text">#ff006798</color>
+    <color name="dialog_button_text_normal_color_xui">#ff8c8c8c</color>
+    <color name="button_text_normal_xui">#ff8c8c8c</color>
+    <color name="button_text_disabled_xui">#ff2f3033</color>
+    <color name="edit_text_hint_xui">#ff404040</color>
+    <color name="bottom_tabbar_item_text_normal">#ff8c8c8c</color>
+    <color name="bottom_tabbar_item_text_focused">#ff006798</color>
+    <color name="bottom_tabbar_item_text_disabled">#668c8c8c</color>
+    <color name="bottom_toolbar_item_text_normal">#ff8c8c8c</color>
+    <color name="bottom_toolbar_item_text_focused">#668c8c8c</color>
+    <color name="bottom_toolbar_item_text_disabled">#668c8c8c</color>
+    <color name="preference_category_text_xui">#ff5c5c5c</color>
+    <color name="toast_text_xui">#ffffffff</color>
+    <color name="edit_floating_window_text_xui">#ff666666</color>
+    <color name="number_picker_x_level_0_text">#ff006798</color>
+    <color name="text_body_dialog_xui">#ff5c5c5c</color>
+    <color name="preference_category_x_upper_text">#ff454545</color>
+    <color name="preference_category_x_lower_text">#ff5c5c5c</color>
+    <color name="resolver_activity_title_text_xui">#ff8c8c8c</color>
+    <color name="resolver_activity_cancel_btn_text_xui">#ff8c8c8c</color>
+    <color name="resolver_activity_item_text_xui">#ff5c5c5c</color>
+    <color name="action_dialog_text_xui">#ff5c5c5c</color>
+    <color name="secondary_text_default_xui">#ff5c5c5c</color>
+</resources>

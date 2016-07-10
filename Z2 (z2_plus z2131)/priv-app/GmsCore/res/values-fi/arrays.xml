@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Baari</item>
+        <item>Kahvila</item>
+        <item>Huoltoasema</item>
+        <item>Elokuvateatteri</item>
+        <item>Majoitus</item>
+        <item>Yökerho</item>
+        <item>Museo</item>
+        <item>Ravintola</item>
+        <item>Ostoskeskus</item>
+        <item>Kauppa</item>
+        <item>Ruokakauppa tai marketti</item>
+        <item>Muut</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>huono</item>
+        <item>kohtalainen</item>
+        <item>hyvä</item>
+        <item>vahva</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Julkaisu</item>
+        <item>Kehittäjä</item>
+        <item>Vähittäiskauppa</item>
+        <item>Esittely</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Lentokenttä</item>
+        <item>Otto</item>
+        <item>Pankki</item>
+        <item>Baari</item>
+        <item>Linja-autoasema</item>
+        <item>Kahvila</item>
+        <item>Leirintäalue</item>
+        <item>Hautausmaa</item>
+        <item>Kirkko</item>
+        <item>Kaupungintalo</item>
+        <item>Yritys</item>
+        <item>Huoltoasema</item>
+        <item>Ruokakauppa tai marketti</item>
+        <item>Hindutemppeli</item>
+        <item>Sairaala</item>
+        <item>Kirjasto</item>
+        <item>Majoitus</item>
+        <item>Moskeija</item>
+        <item>Elokuvateatteri</item>
+        <item>Museo</item>
+        <item>Puisto</item>
+        <item>Pysäköinti</item>
+        <item>Temppeli</item>
+        <item>Poliisiasema</item>
+        <item>Postikonttori</item>
+        <item>Ravintola</item>
+        <item>Koulu</item>
+        <item>Myymälä</item>
+        <item>Metroasema</item>
+        <item>Synagoga</item>
+        <item>Rautatieasema</item>
+        <item>Liikenneasema</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>tammikuu</item>
+        <item>helmikuu</item>
+        <item>maaliskuu</item>
+        <item>huhtikuu</item>
+        <item>toukokuu</item>
+        <item>kesäkuu</item>
+        <item>heinäkuu</item>
+        <item>elokuu</item>
+        <item>syyskuu</item>
+        <item>lokakuu</item>
+        <item>marraskuu</item>
+        <item>joulukuu</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Lopeta jakaminen</item>
+        <item>15 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>1 tunti</item>
+        <item>Toistaiseksi</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Lopeta jakaminen</item>
+        <item>15 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>1 tunti</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Valitse turvakysymys</item>
+        <item>Ensimmäinen puhelinnumero?</item>
+        <item>Parhaan lapsuudenystävän nimi?</item>
+        <item>Ensimmäisen opettajan nimi?</item>
+        <item>Ensimmäisen työpaikan pomon nimi?</item>
+        <item>Ajoneuvon rekisterinumero?</item>
+    </string-array>
+</resources>

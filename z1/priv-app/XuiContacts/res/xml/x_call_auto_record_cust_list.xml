@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/background_primary" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/empty_view_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="111.0dip" android:layout_centerHorizontal="true">
+        <ImageView android:gravity="center" android:id="@id/empty_image" android:layout_width="126.0dip" android:layout_height="102.0dip" android:src="@drawable/empty_call_log" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="15.0sp" android:textColor="#ffb2b2b2" android:gravity="center" android:id="@id/text_empty" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="102.0dip" android:text="@string/auto_record_custom_list_empty" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <BottomToolBar android:id="@id/auto_record_add_custom_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <BottomBarItem android:id="@id/auto_record_add_custom_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_add_contact_holo_light" />
+    </BottomToolBar>
+    <ListViewX android:id="@id/auto_record_custom_lv" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_above="@id/auto_record_add_custom_layout" />
+</RelativeLayout>

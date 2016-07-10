@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"Ide o všeobecné informácie o danom zariadení a o tom, ako sa používa (napr. údaje o stave batérie), ako často sa používajú aplikácie, aká je kvalita a dĺžka trvania sieťových pripojení (napr. mobilného pripojenia, pripojenia Wi‑Fi a Bluetooth). Patria sem aj správy o zlyhaní generované vtedy, keď niečo správne nefunguje. Použijú sa na vylepšenie produktov a služieb Google pre všetkých a nebudú priradené k účtu Google vášho dieťaťa. Niektoré zhromaždené informácie pomôžu vylepšiť aplikácie a produkty aj partnerom, ako sú napríklad vývojári systému Android.
+
+Toto nastavenie môžete kedykoľvek zapnúť alebo vypnúť v časti Nastavenia > Google. Nemá vplyv na schopnosť zariadenia odosielať informácie potrebné na prijímanie základných služieb, ako sú aktualizácie systému a zabezpečenie."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Automaticky zálohovať dáta na zariadení</b> (napr. heslá do sietí Wi-Fi a históriu hovorov) a dáta aplikácií (napr. nastavenia a súbory uložené aplikáciami) na Disk Google. <annotation id="backup_details">Ďalšie informácie</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Keď zapnete automatické zálohovanie, údaje zariadenia a aplikácií sa pravidelne ukladajú do vášho súkromného priečinka na Disku Google. Údaje aplikácie môžu byť ľubovoľné údaje uložené aplikáciou (na základe nastavení vývojára) aj potenciálne citlivé údaje, ako sú kontakty, správy a fotky.
+
+Zálohované údaje nebudú znižovať kvótu vášho úložiska na Disku. Súbory, ktoré sú príliš veľké, alebo také, ktoré vývojári vylúčili z danej služby, nebudú zálohované."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Vylepšite presnosť určovania polohy</b> tým, že aplikáciám a službám umožníte vyhľadávať siete Wi-Fi a zariadenia Bluetooth aj vtedy, keď sú pripojenia Wi-Fi a Bluetooth vypnuté.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"Ide o všeobecné informácie o danom zariadení a o tom, ako sa používa (napr. údaje o stave batérie), ako často sa používajú aplikácie, aká je kvalita a dĺžka trvania sieťových pripojení (napr. mobilného pripojenia, pripojenia Wi‑Fi a Bluetooth). Patria sem aj správy o zlyhaní generované vtedy, keď niečo správne nefunguje. Použijú sa na vylepšenie produktov a služieb Google pre všetkých a nebudú priradené k vášmu účtu Google. Niektoré zhromaždené informácie pomôžu vylepšiť aplikácie a produkty aj partnerom, ako sú napríklad vývojári systému Android.
+
+Toto nastavenie môžete kedykoľvek zapnúť alebo vypnúť v časti Nastavenia > Google. Nemá vplyv na schopnosť zariadenia odosielať informácie potrebné na prijímanie základných služieb, ako sú aktualizácie systému a zabezpečenie."</string>
+</resources>

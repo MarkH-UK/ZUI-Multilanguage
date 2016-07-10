@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- For Test -->
+    <color name="app_title">#8c8c8c</color>
+    <color name="button_selected">#006798</color>
+    <color name="button_unselected">#8c8c8c</color>
+    <color name="title_bar_split_line">#1b1e24</color>
+    <color name="split_line_upper_part">#151515</color>
+    <color name="split_line_half_bottom">#191919</color>
+    <color name="item_split_line">#151515</color>
+    <color name="item_text">#8c8c8c</color>
+    <color name="item_lit_text">#5c5c5c</color>
+    <color name="list_item">#070707</color>
+    <color name="list_background">#070707</color>
+    <color name="dialog_button">#ffffff</color>
+    <color name="dialog_button_onclicked">#f3f3f3</color>
+    <color name="category_name">#5c5c5c</color>
+    <color name="app_background">#131419</color>
+    <color name="pager_sliding_tab_strip_textcolor_focused">#006798</color>
+    <color name="pager_sliding_tab_strip_textcolor_focusing">#006798</color>
+    <!--f fanwt4 Modify -->
+    <color name="horizon_line">#1b1e24</color>
+    <color name="vertical_line">#1b1e24</color>
+</resources>

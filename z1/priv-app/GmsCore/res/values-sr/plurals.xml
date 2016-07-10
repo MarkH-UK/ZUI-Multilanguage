@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">Ограничење је премашено за %1$d знакова</item>
+        <item quantity="one">Ограничење је премашено за %1$d знак</item>
+        <item quantity="few">Ограничење је премашено за %1$d знака</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">Још %1$d знакова</item>
+        <item quantity="one">Још %1$d знак</item>
+        <item quantity="few">Још %1$d знака</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google налога</item>
+        <item quantity="one">%d Google налог</item>
+        <item quantity="few">%d Google налога</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Овај уређај је коришћен за подешавање уређаја ^1 помоћу Google налога и њихових података</item>
+        <item quantity="one">Овај уређај је коришћен за подешавање уређаја ^1 помоћу Google налога и њихових података</item>
+        <item quantity="few">Овај уређај је коришћен за подешавање уређаја ^1 помоћу Google налога и њихових података</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d сати</item>
+        <item quantity="one">%d сат</item>
+        <item quantity="few">%d сата</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d минута</item>
+        <item quantity="one">%d минут</item>
+        <item quantity="few">%d минута</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Ови позиви нису послати због грешке</item>
+        <item quantity="one">Овај позив није послат због грешке</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Тренутно не можете да пошаљете ове позиве. Покушајте поново на Google Play > Мој налог.</item>
+        <item quantity="one">Тренутно не можете да пошаљете овај позив. Покушајте поново на Google Play > Мој налог.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">Преосталих позива: %d</item>
+        <item quantity="one">Преостао је %d позив</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d нових порука</item>
+        <item quantity="one">%1$d нова порука</item>
+        <item quantity="few">%1$d нове поруке</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d особа испред вас</item>
+        <item quantity="one">%1$d особа испред вас</item>
+        <item quantity="few">%1$d особе испред вас</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d кругова</item>
+        <item quantity="one">%d круг</item>
+        <item quantity="few">%d круга</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d дана</item>
+        <item quantity="one">%d дан</item>
+        <item quantity="few">%d дана</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d с</item>
+        <item quantity="one">%d с</item>
+        <item quantity="few">%d с</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+        <item quantity="few">%d мин</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d дана</item>
+        <item quantity="one">%d дан</item>
+        <item quantity="few">%d дана</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d с</item>
+        <item quantity="one">%d с</item>
+        <item quantity="few">%d с</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+        <item quantity="few">%d мин</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d особа</item>
+        <item quantity="one">%d особа</item>
+        <item quantity="few">%d особе</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Користи %1$s и још %2$d апликација</item>
+        <item quantity="one">Користи %1$s и још %2$d апликација</item>
+        <item quantity="few">Користи %1$s и још %2$d апликације</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d дана</item>
+        <item quantity="one">%d дан</item>
+        <item quantity="few">%d дана</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d сати</item>
+        <item quantity="one">%d сат</item>
+        <item quantity="few">%d сата</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d минута</item>
+        <item quantity="one">%d минут</item>
+        <item quantity="few">%d минута</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s особа</item>
+        <item quantity="one">%1$s особа</item>
+        <item quantity="few">%1$s особе</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d пратилаца</item>
+        <item quantity="one">%1$,d пратилац</item>
+        <item quantity="few">%1$,d пратиоца</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d приказа</item>
+        <item quantity="one">%1$,d приказ</item>
+        <item quantity="few">%1$,d приказа</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Копирају се Google налози и подаци…</item>
+        <item quantity="one">Копирају се Google налози и подаци…</item>
+        <item quantity="few">Копирају се Google налози и подаци…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Овај уређај смо користили да бисмо подесили ^1 помоћу Google налога и података са њих</item>
+        <item quantity="one">Овај уређај смо користили да бисмо подесили ^1 помоћу Google налога и података са њих</item>
+        <item quantity="few">Овај уређај смо користили да бисмо подесили ^1 помоћу Google налога и података са њих</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Поново се покреће ради инсталације за %d сек…</item>
+        <item quantity="one">Поново се покреће ради инсталације за 1 секунд...</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">Приказује листу са %1$d опција за адресу</item>
+        <item quantity="one">Приказује листу са %1$d опцијом за адресу</item>
+        <item quantity="few">Приказује листу са %1$d опције за адресу</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">Приказује листу са %1$d артикала.</item>
+        <item quantity="one">Приказује листу са %1$d артиклом.</item>
+        <item quantity="few">Приказује листу са %1$d артикла.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">Приказује листу са %1$d опција за начин плаћања</item>
+        <item quantity="one">Приказује листу са %1$d опцијом за начин плаћања</item>
+        <item quantity="few">Приказује листу са %1$d опције за начин плаћања</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">Приказује листу са %1$d опција програма за лојалне купце</item>
+        <item quantity="one">Приказује листу са %1$d опцијом програма за лојалне купце</item>
+        <item quantity="few">Приказује листу са %1$d опције програма за лојалне купце</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">минута</item>
+        <item quantity="one">минут</item>
+        <item quantity="few">минута</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваких %2$d дана&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="one">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваки %2$d дан&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="few">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на свака %2$d дана&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s сваких %2$d дана&amp;lt;/price> следећих &amp;lt;duration>%3$d дана&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваки %2$d дан&amp;lt;/price> следећи &amp;lt;duration>%3$d дан&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на свака %2$d дана&amp;lt;/price> следећих &amp;lt;duration>%3$d дана&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваких %2$d дана&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="one">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваки %2$d дан&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="few">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на свака %2$d дана&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез сваких %2$d дана&amp;lt;/price> следећих &amp;lt;duration>%3$d дана&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваки %2$d дан&amp;lt;/price> следећих &amp;lt;duration>%3$d дана&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез свака %2$d дана&amp;lt;/price> следећа &amp;lt;duration>%3$d дана&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваких %2$d месеци&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="one">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваки %2$d месец&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="few">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на свака %2$d месеца&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваких %2$d месеци&amp;lt;/price> следећих &amp;lt;duration>%3$d месеци&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваки %2$d месец&amp;lt;/price> следећи &amp;lt;duration>%3$d месец&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на свака %2$d месеца&amp;lt;/price> следећа &amp;lt;duration>%3$d месеца&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваких %2$d месеци &amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="one">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваки %2$d месец &amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="few">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на свака %2$d месеца &amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваких %2$d месеци&amp;lt;/price> следећих &amp;lt;duration>%3$d месеци&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваки %2$d месец&amp;lt;/price> следећи &amp;lt;duration>%3$d месец&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на свака %2$d месеца&amp;lt;/price> следећа &amp;lt;duration>%3$d месеца&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваких %2$d година&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="one">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваку %2$d годину&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="few">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваке %2$d године&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваких %2$d година&amp;lt;/price> следећих &amp;lt;duration>%3$d година&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваку %2$d годину&amp;lt;/price> следећу &amp;lt;duration>%3$d годину&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s на сваке %2$d године&amp;lt;/price> следеће &amp;lt;duration>%3$d године&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">s Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваких %2$d година&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="one">s Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваку %2$d годину&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+        <item quantity="few">s Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваке %2$d године&amp;lt;/price> почевши од &amp;lt;start_time>%3$s&amp;lt;/start_time> док не откажете претплату.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваких %2$d година&amp;lt;/price> следећих &amp;lt;duration>%3$d година&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваку %2$d годину&amp;lt;/price> следећу &amp;lt;duration>%3$d годину&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">Аутоматски ће вам се наплаћивати &amp;lt;price>%1$s плус припадајући порез на сваке %2$d године&amp;lt;/price> следеће &amp;lt;duration>%3$d године&amp;lt;/duration> почевши од &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+</resources>

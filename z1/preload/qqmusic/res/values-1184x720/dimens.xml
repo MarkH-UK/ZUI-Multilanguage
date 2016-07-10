@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lly_goto_login_marginTop">120.0dip</dimen>
+    <dimen name="my_music_view_account_bg_cover_hieght">-80.0dip</dimen>
+    <dimen name="my_music_view_username_margin_top">12.0dip</dimen>
+    <dimen name="player_album_height">720.0px</dimen>
+    <dimen name="send_song_detail_marginTop1">18.0dip</dimen>
+    <dimen name="send_song_detail_marginTop2">7.0dip</dimen>
+    <dimen name="send_song_detail_marginTop3">20.0dip</dimen>
+    <dimen name="send_song_detail_marginTop4">10.0dip</dimen>
+    <dimen name="send_song_detail_topview_margin_top">80.0dip</dimen>
+    <dimen name="launcher_cell_height">126.0dip</dimen>
+    <dimen name="launcher_cell_width">127.0dip</dimen>
+    <dimen name="launcher_long_axis_end_padding">30.0dip</dimen>
+    <dimen name="launcher_long_axis_start_padding">9.0dip</dimen>
+    <dimen name="launcher_short_axis_end_padding">21.0dip</dimen>
+    <dimen name="launcher_short_axis_start_padding">21.0dip</dimen>
+    <dimen name="page_item_bottom_font_size">15.0dip</dimen>
+    <dimen name="page_item_bottom_height">38.0dip</dimen>
+    <dimen name="widget_icon_height">43.0dip</dimen>
+    <dimen name="widget_icon_width">43.0dip</dimen>
+    <dimen name="widget_ctrl_panel_height">60.0dip</dimen>
+    <dimen name="widget_height">96.0dip</dimen>
+    <dimen name="widget_large_icon_height">46.0dip</dimen>
+    <dimen name="widget_large_icon_width">46.0dip</dimen>
+    <dimen name="widget_width">350.0dip</dimen>
+</resources>

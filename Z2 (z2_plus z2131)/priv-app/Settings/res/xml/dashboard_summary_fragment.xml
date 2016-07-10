@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/dashboard_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:icon="@drawable/xui_ic_settings_airplane_mode" android:layout="@layout/preference_label" android:title="@string/airplane_mode" android:key="toggle_airplane" />
+    <Preference android:icon="@drawable/xui_ic_settings_wlan" android:layout="@layout/preference_label" android:title="@string/wifi_settings_title" android:key="wifi_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.wifi.WifiSettings" />
+    <Preference android:icon="@drawable/xui_ic_settings_bluetooth" android:layout="@layout/preference_label" android:title="@string/bluetooth_settings_title" android:key="bluetooth_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.bluetooth.BluetoothSettings" />
+    <Preference android:icon="@drawable/xui_ic_settings_mobile_network" android:layout="@layout/preference_label" android:title="@string/network_settings_title" android:key="mobile_network_settings" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:targetPackage="com.lenovo.leos.mobileNetworkSettings" android:action="android.intent.action.MAIN" android:targetClass="com.lenovo.leos.mobileNetworkSettings.MobileNetworkSettings" />
+    </Preference>
+    <Preference android:icon="@drawable/xui_ic_settings_mult_card" android:layout="@layout/preference_label" android:title="@string/multi_card_management_title" android:key="sim_settings" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:targetPackage="com.lenovo.leos.simsettings" android:action="android.intent.action.MAIN" android:targetClass="com.lenovo.leos.simsettings.SimSettingsActivity" />
+    </Preference>
+    <Preference android:icon="@drawable/xui_ic_settings_vpn" android:layout="@layout/preference_label" android:title="@string/vpn_settings_title" android:key="default_vpn" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.vpn2.VpnSettings" />
+    <PreferenceCategory />
+    <Preference android:icon="@drawable/xui_ic_settings_utouch" android:layout="@layout/preference_label" android:title="@string/u_touch_settings" android:key="utouch_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.UTouchGuideFragment" />
+    <Preference android:icon="@drawable/xui_ic_settings_notification_statusbar" android:layout="@layout/preference_label" android:title="@string/notifications_status_bar_title" android:key="notification_status_bar_settings" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:targetPackage="com.zui.homesettings" android:action="android.intent.action.MAIN" android:targetClass="com.zui.notification.setting.NotificationManagerActivity" />
+    </Preference>
+    <Preference android:icon="@drawable/xui_ic_settings_control_center" android:layout="@layout/preference_label" android:title="@string/control_center_title" android:key="control_center_settings" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:targetPackage="com.android.systemui" android:action="android.intent.action.MAIN" android:targetClass="com.android.systemui.controlcenter.ui.CustomSwitchPositionActivity" />
+    </Preference>
+    <PreferenceCategory />
+    <Preference android:icon="@drawable/xui_ic_settings_wallpaper" android:layout="@layout/preference_label" android:title="@string/wallpaper_settings_title" android:key="wallpaper_settings" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:targetPackage="com.zui.homesettings" android:action="android.intent.action.MAIN" android:targetClass="com.zui.wallpaper.activity.WallpaperMainActivity" />
+    </Preference>
+    <Preference android:icon="@drawable/typeface_icn" android:layout="@layout/preference_label" android:title="@string/typeface_settings_title" android:key="typeface_settings" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:targetPackage="com.zui.homesettings" android:action="android.intent.action.MAIN" android:targetClass="com.zui.font.activity.FontActivity" />
+    </Preference>
+    <Preference android:icon="@drawable/xui_ic_settings_skin" android:layout="@layout/preference_label" android:title="@string/skin_settings_title" android:key="skin_settings" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:action="com.zui.intent.action.APPS_SKIN_CHANGE" />
+    </Preference>
+    <Preference android:icon="@drawable/xui_ic_settings_displaylight" android:layout="@layout/preference_label" android:title="@string/display_and_brightness_settings_title" android:key="display_brightness_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.DisplayBrightnessSettings" />
+    <Preference android:icon="@drawable/xui_ic_settings_sound_vibrate" android:layout="@layout/preference_label" android:title="@string/sound_vibrate_title" android:key="sound_vibrate_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.notification.NotificationSettings" />
+    <Preference android:icon="@drawable/xui_ic_settings_fingerprint_password" android:layout="@layout/preference_label" android:title="@string/finger_print_password_title" android:key="fingerprint_settings" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.fap.FapFpSettingsActivity">
+            <extra android:name="start_from_settings" android:value="true" />
+        </intent>
+    </Preference>
+    <Preference android:icon="@drawable/xui_ic_settings_security_privacy" android:layout="@layout/preference_label" android:title="@string/security_privacy_title" android:key="lockscreen_security_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.SecurityPrivacySettings" />
+    <Preference android:icon="@drawable/xui_ic_settings_advanced_settings" android:layout="@layout/preference_label" android:title="@string/advanced_settings_title" android:key="advanced_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.AdvancedSettings" />
+    <PreferenceCategory />
+    <Preference android:icon="@drawable/xui_ic_settings_cloud_service" android:layout="@layout/preference_label" android:title="@string/system_app_title_cloud_service" android:key="system_app_syncit" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:action="com.zui.cloudservice.intent.action.SYNC_SETTING" />
+    </Preference>
+    <Preference android:icon="@drawable/xui_ic_settings_phone" android:layout="@layout/preference_label" android:title="@string/system_app_title_phone" android:key="system_app_phone" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:targetPackage="com.zui.contacts" android:action="android.intent.action.MAIN" android:targetClass="com.android.newcontact.vl.activity.XContactsPreferenceActivity">
+            <extra android:name=":android:show_fragment" android:value="com.android.newcontact.vl.fragment.XDisplayOptionsPreferenceFragment" />
+        </intent>
+    </Preference>
+    <Preference android:icon="@drawable/xui_ic_settings_contacts" android:layout="@layout/preference_label" android:title="@string/system_app_title_contacts" android:key="system_app_contacts" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:action="xui.intent.action.SYS_APP_SETTINGS_CONTACTS" />
+    </Preference>
+    <Preference android:icon="@drawable/xui_ic_settings_sms" android:layout="@layout/preference_label" android:title="@string/system_app_title_sms" android:key="system_app_sms" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:action="android.intent.action.xui.mmssettings" />
+    </Preference>
+    <Preference android:icon="@drawable/xui_ic_settings_camera" android:layout="@layout/preference_label" android:title="@string/system_app_title_camera" android:key="system_app_camera" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:targetPackage="com.zui.camera" android:action="android.intent.action.MAIN" android:targetClass="com.zui.camera.settings.CameraSettingsActivity" />
+    </Preference>
+    <PreferenceCategory />
+    <Preference android:icon="@drawable/xui_ic_settings_ota" android:layout="@layout/preference_label" android:title="@string/system_update_settings_list_item_title" android:key="xui_ota" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:action="com.zui.intent.SystemUpgradeClient">
+            <extra android:name="start_pkg_name" android:value="com.android.settings" />
+        </intent>
+    </Preference>
+    <Preference android:icon="@drawable/xui_ic_settings_about" android:layout="@layout/preference_label" android:title="@string/about_settings_title" android:key="about_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.DeviceInfoSettings" />
+</PreferenceScreen>

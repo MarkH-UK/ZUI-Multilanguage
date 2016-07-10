@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="v2_font_roboto_light">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+</resources>

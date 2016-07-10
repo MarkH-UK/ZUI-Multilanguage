@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">Seu nome é usado para personalizar seu tablet e os serviços do Google.</string>
+    <string name="name_title_local">Este tablet pertence a...</string>
+    <string name="name_text_local">O tablet usa seu nome para personalizar alguns apps.</string>
+    <string name="communicating_message">Seu tablet está em contato com o Google para salvar informações em sua conta. Isso pode levar até cinco minutos.</string>
+    <string name="checking_username_message">"Seu tablet está em contato com o Google para verificar se o nome de usuário que você deseja está disponível.
+
+Isso pode levar alguns minutos."</string>
+    <string name="wait_for_device_country_msg">Reunindo info. sobre tablet. Essa ação pode levar até 30s.</string>
+    <string name="backup_consent_message">"Use sua Conta do Google para fazer backup de apps, configurações (como favoritos e senhas de Wi-Fi) e outros dados. Se já tiver feito backup de sua conta, você poderá restaurá-la neste tablet agora.
+
+Você pode alterar as configurações de backup a qualquer momento em \"Configurações\"."</string>
+    <string name="backup_consent_message_no_restore">"Use sua Conta do Google para fazer backup de apps, configurações (como favoritos e senhas de Wi-Fi) e outros dados.
+
+Você pode alterar as configurações de backup a qualquer momento em \"Configurações\"."</string>
+    <string name="restoring_message">Seu tablet está em contato com o Google para restaurar sua conta. Isso pode levar até cinco minutos.</string>
+    <string name="restore_consent_yes_agree">Transferir apps, configurações e outros dados dos quais você fez backup em sua Conta do Google para este tablet.</string>
+</resources>

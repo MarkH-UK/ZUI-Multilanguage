@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppDataSearch xmlns:search="http://schemas.android.com/apk/res-auto">
+    <Corpus search:corpusId="sms" search:corpusVersion="3" search:contentProviderUri="content://com.google.android.gms.icing.proxy.sms" search:trimmable="false" search:schemaOrgType="CreativeWork/ShortMessage" search:semanticallySearchable="true">
+        <Section search:sectionId="_id" search:noIndex="true" search:schemaOrgProperty="id" />
+        <Section search:sectionId="type" search:schemaOrgProperty="type" />
+        <Section search:sectionId="thread_id" search:schemaOrgProperty="threadId" />
+        <Section search:sectionId="address" search:indexPrefixes="true" search:subsectionSeparator="," search:schemaOrgProperty="otherPartyAddress" />
+        <Section search:sectionId="date" search:indexPrefixes="true" search:schemaOrgProperty="receivedTime" />
+        <Section search:sectionId="subject" search:indexPrefixes="true" search:schemaOrgProperty="subject" />
+        <Section search:sectionId="body" search:indexPrefixes="true" search:schemaOrgProperty="body">
+            <SectionFeature search:featureType="index_entity_types" />
+        </Section>
+        <Section search:sectionId="read" search:schemaOrgProperty="readStatus" />
+    </Corpus>
+    <Corpus search:corpusId="apps" search:corpusVersion="2" search:contentProviderUri="content://com.google.android.gms.icing.proxy.apps" search:trimmable="false" search:schemaOrgType="CreativeWork/SoftwareApplication" search:semanticallySearchable="true">
+        <Section search:sectionId="name" search:indexPrefixes="true" search:schemaOrgProperty="name" />
+        <Section search:sectionId="icon_uri" search:noIndex="true" />
+        <Section search:sectionId="package_name" search:noIndex="true" />
+        <Section search:sectionId="class_name" search:noIndex="true" />
+        <Section search:sectionId="last_update_millis" search:noIndex="true" />
+        <GlobalSearchCorpus search:allowShortcuts="true">
+            <GlobalSearchSection search:sectionType="text1" search:sectionContent="@string/icing_section_template_apps_text_1" />
+            <GlobalSearchSection search:sectionType="icon_uri" search:sectionContent="@string/icing_section_template_apps_icon_uri" />
+            <GlobalSearchSection search:sectionType="intent_action" search:sectionContent="@string/icing_section_template_apps_intent_action" />
+            <GlobalSearchSection search:sectionType="intent_data" search:sectionContent="@string/icing_section_template_apps_intent_data" />
+        </GlobalSearchCorpus>
+    </Corpus>
+    <Corpus search:corpusId="contacts_contact_id" search:corpusVersion="1" search:contentProviderUri="content://com.google.android.gms.icing.proxy/appdatasearch/contacts_contact_id" search:trimmable="false" search:schemaOrgType="Person" search:semanticallySearchable="true">
+        <Section search:sectionId="lookup_key" />
+        <Section search:sectionId="icon_uri" search:noIndex="true" />
+        <Section search:sectionId="name" search:sectionWeight="5" search:indexPrefixes="true" />
+        <Section search:sectionId="givennames" search:sectionWeight="20" search:indexPrefixes="true">
+            <SectionFeature search:featureType="match_global_nicknames" />
+        </Section>
+        <Section search:sectionId="email" search:sectionFormat="rfc822" search:noIndex="true" search:sectionWeight="2" search:subsectionSeparator="\u0085" />
+        <Section search:sectionId="nickname" search:sectionWeight="15" search:indexPrefixes="true" search:subsectionSeparator="\u0085">
+            <SectionFeature search:featureType="match_global_nicknames" />
+        </Section>
+        <Section search:sectionId="number" search:noIndex="true" search:subsectionSeparator="\u0085" />
+        <Section search:sectionId="address" search:noIndex="true" search:subsectionSeparator="\u0085" />
+        <Section search:sectionId="phoneticname" search:sectionWeight="10" search:indexPrefixes="true" />
+        <GlobalSearchCorpus search:allowShortcuts="true">
+            <GlobalSearchSection search:sectionType="text1" search:sectionContent="@string/icing_section_template_contacts_text_1" />
+            <GlobalSearchSection search:sectionType="text2" search:sectionContent="@string/icing_section_template_contacts_text_2" />
+            <GlobalSearchSection search:sectionType="icon_uri" search:sectionContent="@string/icing_section_template_contacts_icon_uri" />
+            <GlobalSearchSection search:sectionType="intent_action" search:sectionContent="@string/icing_section_template_contacts_intent_action" />
+            <GlobalSearchSection search:sectionType="intent_data" search:sectionContent="@string/icing_section_template_contacts_intent_data" />
+        </GlobalSearchCorpus>
+    </Corpus>
+    <Corpus search:corpusId="emails_data_id" search:corpusVersion="1" search:contentProviderUri="content://com.google.android.gms.icing.proxy/appdatasearch/emails_data_id" search:trimmable="false" search:schemaOrgType="ContactPoint" search:semanticallySearchable="true">
+        <Section search:sectionId="contact_id" />
+        <Section search:sectionId="type" />
+        <Section search:sectionId="label" />
+        <Section search:sectionId="data" />
+    </Corpus>
+    <Corpus search:corpusId="phones_data_id" search:corpusVersion="1" search:contentProviderUri="content://com.google.android.gms.icing.proxy/appdatasearch/phones_data_id" search:trimmable="false" search:schemaOrgType="ContactPoint" search:semanticallySearchable="true">
+        <Section search:sectionId="contact_id" />
+        <Section search:sectionId="type" />
+        <Section search:sectionId="label" />
+        <Section search:sectionId="data" />
+    </Corpus>
+    <Corpus search:corpusId="postals_data_id" search:corpusVersion="1" search:contentProviderUri="content://com.google.android.gms.icing.proxy/appdatasearch/postals_data_id" search:trimmable="false" search:schemaOrgType="ContactPoint" search:semanticallySearchable="true">
+        <Section search:sectionId="contact_id" />
+        <Section search:sectionId="type" />
+        <Section search:sectionId="label" />
+        <Section search:sectionId="data" />
+    </Corpus>
+</AppDataSearch>

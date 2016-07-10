@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kg_secure_padding_height">0.0dip</dimen>
+    <dimen name="kg_widget_pager_top_padding">0.0dip</dimen>
+    <dimen name="kg_widget_pager_bottom_padding">0.0dip</dimen>
+    <dimen name="kg_squashed_layout_threshold">400.0dip</dimen>
+    <dimen name="status_bar_recents_right_glow_margin">0.0dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_left_margin">0.0dip</dimen>
+    <dimen name="status_bar_recents_text_description_padding">8.0dip</dimen>
+    <dimen name="status_bar_recents_app_label_width">156.0dip</dimen>
+    <dimen name="status_bar_recents_app_label_left_margin">12.0dip</dimen>
+    <dimen name="status_bar_recents_item_padding">2.0dip</dimen>
+    <dimen name="status_bar_recents_app_icon_left_margin">8.0dip</dimen>
+    <dimen name="status_bar_recents_app_icon_top_margin">8.0dip</dimen>
+    <item type="dimen" name="navigation_bar_size">@android:dimen/navigation_bar_width</item>
+    <dimen name="navigation_bar_size_height">0.0dip</dimen>
+    <dimen name="navigation_bar_marginbottom">42.0dip</dimen>
+    <item type="dimen" name="notification_panel_width">@dimen/standard_notification_panel_width</item>
+    <item type="dimen" name="recents_stack_width_padding_percentage">0.26</item>
+    <dimen name="status_bar_swtich_all_padding_top">6.0dip</dimen>
+    <dimen name="status_bar_swtich_all_padding_bottom">24.0dip</dimen>
+    <dimen name="status_bar_swtich_padding_left">9.0dip</dimen>
+    <dimen name="status_bar_swtich_padding_right">9.0dip</dimen>
+    <dimen name="lenovo_statusbar_switch_music_control_paddingtop">11.0dip</dimen>
+    <dimen name="lenovo_statusbar_switch_music_control_paddingbottom">18.0dip</dimen>
+    <dimen name="lenovo_statusbar_switch_artist_textview_paddingbottom">8.0dip</dimen>
+    <dimen name="lenovo_statusbar_switch_brightness_margintop">24.0dip</dimen>
+    <dimen name="lenovo_recent_guide_padding_top">37.0dip</dimen>
+    <dimen name="lenovo_recent_guide_padding_left">307.0dip</dimen>
+    <dimen name="lenovo_use_guide_recents_height">350.0dip</dimen>
+    <dimen name="lenovo_recents_recentitem_width">320.0dip</dimen>
+    <dimen name="lenovo_recents_recentitem_height">155.0dip</dimen>
+    <dimen name="lenovo_recents_recentitem_margintop">47.0dip</dimen>
+    <dimen name="lenovo_recents_pin_button_margintop">173.0dip</dimen>
+    <dimen name="lenovo_recents_pin_button_marginleft">12.0dip</dimen>
+    <dimen name="lenovo_recents_thumimage_width">296.0dip</dimen>
+    <dimen name="lenovo_recents_thumimage_height">169.0dip</dimen>
+    <dimen name="lenovo_recents_iconscrollview_marginbottom">50.0dip</dimen>
+    <dimen name="lenovo_recents_recentiteminfo_width">160.0dip</dimen>
+    <dimen name="lenovo_recents_recentiteminfo_describeinfo_margintop">2.0dip</dimen>
+    <dimen name="lenovo_recents_clearbutton_marginbottom">10.0dip</dimen>
+    <dimen name="recents_lock_icon_margintop">15.0dip</dimen>
+    <dimen name="lenovo_recents_iconscrollview_margintop">229.0dip</dimen>
+    <dimen name="lenovo_recents_app_icon_height">50.0dip</dimen>
+    <dimen name="lenovo_recents_app_icon_width">50.0dip</dimen>
+    <dimen name="lenovo_recents_clearbutton_info_marginleft">47.0dip</dimen>
+    <dimen name="lenovo_status_bar_recents_down_move_max_distance">39.0dip</dimen>
+    <dimen name="lenovo_status_bar_recents_icon_down_move_max_distance">18.0dip</dimen>
+    <dimen name="lenovo_status_bar_recents_up_move_max_distance">400.0dip</dimen>
+    <dimen name="lenovo_recents_clearbutton_width">160.0dip</dimen>
+    <dimen name="kg_emergency_button_shift">30.0dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_top_margin">28.0dip</dimen>
+</resources>

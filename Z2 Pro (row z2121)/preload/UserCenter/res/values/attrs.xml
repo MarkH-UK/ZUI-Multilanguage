@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="itemName" format="string" />
+    <attr name="itemDes" format="string" />
+    <attr name="itemIcon" format="reference" />
+    <attr name="showArrow" format="boolean" />
+    <attr name="showIcon" format="boolean" />
+    <attr name="showDividingLine" format="boolean" />
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Nustatyti kaip numatytąjį miestą</item>
+        <item>Naikinti šį miestą</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Numatytoji animacija</item>
+        <item>Sukti</item>
+        <item>Buldozeris</item>
+        <item>Vėjo malūnas</item>
+        <item>Kubas</item>
+        <item>Sinusoidė</item>
+        <item>Cilindras</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Nėra</item>
+        <item>Atverti darbalaukio meniu</item>
+        <item>Rodyti neseniai naudotas programas</item>
+        <item>Atverti pranešimų juostą</item>
+        <item>Rasti piktogramą</item>
+        <item>Užrakinti ekraną</item>
+    </string-array>
+</resources>

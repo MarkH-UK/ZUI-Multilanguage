@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DisplayLayoutStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="PadLayoutStyle">
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/port_pad_layout_height</item>
+        <item name="android:paddingStart">0.0dip</item>
+        <item name="android:paddingEnd">0.0dip</item>
+    </style>
+    <style name="DisplayEditTextStyle.Result" parent="@style/DisplayEditTextStyle">
+        <item name="android:textSize">@dimen/display_formula_text_size</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">33.0dip</item>
+        <item name="android:layout_marginBottom">12.0dip</item>
+        <item name="android:paddingStart">27.0dip</item>
+        <item name="android:paddingEnd">14.0dip</item>
+        <item name="padTypeface">HYQiHei-40S</item>
+    </style>
+    <style name="DisplayEditTextStyle.Formula" parent="@style/DisplayEditTextStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">1.0dip</item>
+        <item name="android:layout_marginBottom">28.669983dip</item>
+        <item name="android:paddingStart">27.0dip</item>
+        <item name="android:paddingEnd">14.0dip</item>
+        <item name="minTextSize">36.0sp</item>
+        <item name="maxTextSize">64.0sp</item>
+        <item name="stepTextSize">8.0sp</item>
+        <item name="padTypeface">HYQiHei-35S</item>
+    </style>
+    <style name="PadButtonStyle.Numeric" parent="@style/PadButtonStyle">
+        <item name="android:textSize">33.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/pad_button_numeric_background_selector</item>
+        <item name="padTypeface">HYQiHei-40S</item>
+    </style>
+    <style name="PadButtonStyle.Numeric.Equals" parent="@style/PadButtonStyle.Numeric">
+        <item name="android:textSize">35.0sp</item>
+        <item name="android:textColor">@color/pad_button_equal_text_color_n</item>
+        <item name="android:background">@drawable/pad_button_equal_selector</item>
+        <item name="android:layout_margin">-0.33000004dip</item>
+    </style>
+    <style name="PadButtonStyle.Numeric.DecPoint" parent="@style/PadButtonStyle.Numeric">
+        <item name="android:textSize">50.0sp</item>
+    </style>
+    <style name="PadButtonStyle.Operator" parent="@style/PadButtonStyle">
+        <item name="android:textSize">32.0sp</item>
+        <item name="android:textColor">@color/pad_button_operator_text_color_n</item>
+        <item name="android:background">@drawable/pad_button_operator_background_selector</item>
+        <item name="padTypeface">HYQiHei-40S</item>
+    </style>
+    <style name="PadButtonStyle.Operator.Text" parent="@style/PadButtonStyle.Operator">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/pad_button_operator_text_color_n</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>

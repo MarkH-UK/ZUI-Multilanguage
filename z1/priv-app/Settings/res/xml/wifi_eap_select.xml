@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/wifi_eap_method"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.RadioPreference android:key="wifi_eap_peap" />
+    <com.android.settings.RadioPreference android:key="wifi_eap_tls" />
+    <com.android.settings.RadioPreference android:key="wifi_eap_ttls" />
+    <com.android.settings.RadioPreference android:key="wifi_eap_pwd" />
+    <PreferenceCategory android:title="" />
+</PreferenceScreen>

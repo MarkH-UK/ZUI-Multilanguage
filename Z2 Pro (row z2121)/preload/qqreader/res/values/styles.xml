@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="unipay_dialog">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/unipay_pic_loginbg</item>
+        <item name="android:paddingLeft">25.0dip</item>
+        <item name="android:paddingTop">20.0dip</item>
+        <item name="android:paddingRight">25.0dip</item>
+        <item name="android:paddingBottom">25.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="unipay_dialog.land" parent="@style/unipay_dialog">
+        <item name="android:layout_marginLeft">60.0dip</item>
+        <item name="android:layout_marginRight">60.0dip</item>
+    </style>
+    <style name="unipay_linear.tipframe" parent="@style/unipay_linear">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+    </style>
+    <style name="unipay_linear.tipframe.land" parent="@style/unipay_linear.tipframe">
+        <item name="android:layout_marginLeft">60.0dip</item>
+        <item name="android:layout_marginRight">60.0dip</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="Animation.alphaAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/alpha_in</item>
+        <item name="android:windowExitAnimation">@anim/alpha_out</item>
+    </style>
+    <style name="Animation.commentAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/comment_enter</item>
+        <item name="android:windowExitAnimation">@anim/comment_out</item>
+    </style>
+    <style name="Animation.commentAnimOnlyEnter" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/comment_enter</item>
+    </style>
+    <style name="Animation.commentAnimQuick" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/comment_enter_quick</item>
+        <item name="android:windowExitAnimation">@anim/comment_out</item>
+    </style>
+    <style name="Animation.dropdownAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/dropdown_enter</item>
+        <item name="android:windowExitAnimation">@anim/dropdown_out</item>
+    </style>
+    <style name="Animation.in_left_out_right" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_right</item>
+    </style>
+    <style name="Animation.in_out_left" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_left</item>
+    </style>
+    <style name="Animation.in_out_right" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_right</item>
+    </style>
+    <style name="Animation.in_out_top" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_top</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_top</item>
+    </style>
+    <style name="Animation.in_out_zoom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/zoom_enter</item>
+        <item name="android:windowExitAnimation">@anim/zoom_exit</item>
+    </style>
+    <style name="Animation.in_right_out_left" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_left</item>
+    </style>
+    <style name="Animation.lampcordAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/lampcord_enter</item>
+        <item name="android:windowExitAnimation">@anim/lampcord_out</item>
+    </style>
+    <style name="Animation.menuAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/options_panel_enter</item>
+        <item name="android:windowExitAnimation">@anim/options_panel_exit</item>
+    </style>
+    <style name="Animation.orientationLockAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/orientation_lock_enter</item>
+        <item name="android:windowExitAnimation">@anim/orientation_lock_out</item>
+    </style>
+    <style name="Animation.pagePopupWnd" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/pagepopupwindow_show</item>
+        <item name="android:windowExitAnimation">@anim/pagepopupwindow_hide</item>
+    </style>
+    <style name="Animation.scalepointAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/scale_point_enter</item>
+        <item name="android:windowExitAnimation">@anim/scale_point_out</item>
+    </style>
+    <style name="Animation.slidebottomAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_bottom</item>
+        <item name="android:windowExitAnimation">@anim/alpha_out</item>
+    </style>
+    <style name="Animation.topbarAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/topbar_enter</item>
+        <item name="android:windowExitAnimation">@anim/topbar_out</item>
+    </style>
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="BookCoinChargeDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="BookCoinChargeTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/noAnimation</item>
+    </style>
+    <style name="CommentListPicStyle">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">#ffe5e5e5</item>
+        <item name="android:padding">1.0px</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">105.0dip</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="LenovoSDKDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="NoWindowAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="NumberProgressBar_Default">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="progress">0</item>
+        <item name="maxlen">100</item>
+        <item name="progress_unreached_color">#ffcccccc</item>
+        <item name="progress_reached_color">#ff3498db</item>
+        <item name="progress_reached_bar_height">1.5dip</item>
+        <item name="progress_unreached_bar_height">0.75dip</item>
+        <item name="progress_text_size">10.0sp</item>
+        <item name="progress_text_color">#ff3498db</item>
+    </style>
+    <style name="NumberProgressBar_Relax_Blue">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="progress">0</item>
+        <item name="maxlen">100</item>
+        <item name="progress_unreached_color">#ffcccccc</item>
+        <item name="progress_reached_color">#ff6dbcdb</item>
+        <item name="progress_reached_bar_height">1.5dip</item>
+        <item name="progress_unreached_bar_height">0.75dip</item>
+        <item name="progress_text_size">10.0sp</item>
+        <item name="progress_text_color">#ff6dbcdb</item>
+    </style>
+    <style name="QZTransparent" parent="@android:style/Theme.Translucent">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowTitleBackgroundStyle">@null</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+    <style name="ReplyTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@color/translucent</item>
+    </style>
+    <style name="Theme.NoBackground" parent="@android:style/Theme">
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="TitleTheme" parent="@android:style/Theme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowTitleBackgroundStyle">@null</item>
+    </style>
+    <style name="Title_transparent_Theme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowTitleBackgroundStyle">@null</item>
+        <item name="android:windowAnimationStyle">@style/noAnimation</item>
+        <item name="android:windowEnterAnimation">@null</item>
+        <item name="android:windowExitAnimation">@null</item>
+    </style>
+    <style name="Unipay_AutoViewStyle" parent="@android:style/Widget.AutoCompleteTextView">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/unipay_btn_color</item>
+        <item name="android:textColorHint">@color/unipay_thin_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">3.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:popupBackground">@drawable/unipay_drawable_inputbg</item>
+        <item name="android:layout_weight">100.0</item>
+    </style>
+    <style name="WidgetFrameLayoutStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">0.0dip</item>
+        <item name="android:layout_marginRight">0.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="WidgetImageViewStyle">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/book_default_cover_bg</item>
+        <item name="android:paddingLeft">3.0dip</item>
+        <item name="android:paddingTop">1.0dip</item>
+        <item name="android:paddingRight">3.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">88.0dip</item>
+        <item name="android:layout_height">119.0dip</item>
+        <item name="android:src">@drawable/book_default_cover</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="WidgetTextStyle">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">top</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:layout_width">82.0dip</item>
+        <item name="android:layout_height">114.0dip</item>
+        <item name="android:maxLines">5</item>
+    </style>
+    <style name="anim.alpha" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+    </style>
+    <style name="basecardStyle">
+        <item name="android:background">@drawable/localstore_card_bg_selector</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+    </style>
+    <style name="basecover_style">
+        <item name="android:background">@drawable/localstore_cover_stroke</item>
+        <item name="android:padding">1.0px</item>
+    </style>
+    <style name="bigavatar_style">
+        <item name="android:layout_width">@dimen/localstore_imgsize_bigavatar_width</item>
+        <item name="android:layout_height">@dimen/localstore_imgsize_bigavatar_height</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:contentDescription">@null</item>
+    </style>
+    <style name="bigcover_style" parent="@style/basecover_style">
+        <item name="android:layout_width">@dimen/localstore_imgsize_bigcover_width</item>
+        <item name="android:layout_height">@dimen/localstore_imgsize_bigcover_height</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:contentDescription">@null</item>
+    </style>
+    <style name="bookbagcardstyle" parent="@style/basecardStyle">
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">12.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+    </style>
+    <style name="bookcollectlistcardstyle" parent="@style/basecardStyle">
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">14.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+    </style>
+    <style name="bookdata_style">
+        <item name="android:textSize">@dimen/localstore_textsize_13</item>
+        <item name="android:textColor">#ff99664c</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="bookinfo_simple_style" parent="@style/basecardStyle">
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+    </style>
+    <style name="bookname_style">
+        <item name="android:textSize">@dimen/localstore_textsize_16</item>
+        <item name="android:textColor">@color/localstore_textcolor_black</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="cardtitlestyle" parent="@style/basecardStyle">
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/localstore_div_bg</item>
+        <item name="android:paddingTop">14.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+    </style>
+    <style name="centerOutDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="circle_list_bottom">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff211300</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="circle_list_mid">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff211300</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="circle_list_top">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff211300</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="com_lenovo_lsf_button">
+        <item name="android:layout_height">32.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_button.commit" parent="@style/com_lenovo_lsf_text">
+        <item name="android:background">@drawable/com_lenovo_lsf_btn_inter_onekey_selector_up</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">36.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_button.commit.blue" parent="@style/com_lenovo_lsf_text.white">
+        <item name="android:background">@drawable/com_lenovo_lsf_btn_inter_onekey_selector_up</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">36.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_button.send" parent="@style/com_lenovo_lsf_button">
+        <item name="android:textAppearance">@style/com_lenovo_lsf_text.resend</item>
+        <item name="android:background">@drawable/com_lenovo_lsf_get_captcha_button_selector</item>
+        <item name="android:layout_width">106.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_content">
+        <item name="android:background">?android:windowBackground</item>
+        <item name="android:paddingLeft">@dimen/com_lenovo_lsf_content_padding_left_right</item>
+        <item name="android:paddingTop">@dimen/com_lenovo_lsf_content_margin_top</item>
+        <item name="android:paddingRight">@dimen/com_lenovo_lsf_content_padding_left_right</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="com_lenovo_lsf_content.left" parent="@style/com_lenovo_lsf_content">
+        <item name="android:background">?android:windowBackground</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="com_lenovo_lsf_divider_content">
+        <item name="android:background">#ffefefef</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+    </style>
+    <style name="com_lenovo_lsf_divider_title">
+        <item name="android:background">#ffd1d1d1</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+    </style>
+    <style name="com_lenovo_lsf_edit">
+        <item name="android:background">@drawable/com_lenovo_lsf_edittext_background_selector</item>
+        <item name="android:layout_height">@dimen/com_lenovo_lsf_content_edittext_height</item>
+    </style>
+    <style name="com_lenovo_lsf_head_text">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#ff2e2e2e</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="com_lenovo_lsf_regist_editext_hint_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColorHint">#ffd1d1d1</item>
+    </style>
+    <style name="com_lenovo_lsf_setting_icon">
+        <item name="android:id">@android:id/icon</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="com_lenovo_lsf_setting_item">
+        <item name="android:background">@drawable/com_lenovo_lsf_list_item_selector</item>
+        <item name="android:paddingLeft">18.0dip</item>
+        <item name="android:paddingRight">18.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">52.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_setting_item_feed">
+        <item name="android:paddingLeft">18.0dip</item>
+        <item name="android:paddingRight">18.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="com_lenovo_lsf_setting_item_title">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff757575</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">24.0dip</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_text">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff191919</item>
+    </style>
+    <style name="com_lenovo_lsf_text.edit" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColorHint">#ffd1d1d1</item>
+    </style>
+    <style name="com_lenovo_lsf_text.error" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffff0000</item>
+    </style>
+    <style name="com_lenovo_lsf_text.hint" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textColor">#ffa3a3a3</item>
+    </style>
+    <style name="com_lenovo_lsf_text.resend" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="com_lenovo_lsf_text.tip" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ff757575</item>
+    </style>
+    <style name="com_lenovo_lsf_text.white" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="com_lenovo_lsf_text_limit">
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxWidth">200.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="com_lenovo_lsf_theme_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="com_lenovo_lsf_ui" parent="@android:style/Theme.Light">
+        <item name="android:windowTitleSize">41.0dip</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+    <style name="com_lenovo_lsf_ui.dialog" parent="@style/com_lenovo_lsf_ui">
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="com_lenovo_lsf_ui.no_title" parent="@style/com_lenovo_lsf_ui">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="com_lenovo_lsf_ui.no_title_transparent" parent="@style/com_lenovo_lsf_ui">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="com_lenovo_lsf_ui_pslogin" parent="@android:style/Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="com_lenovo_lsf_uititlebackground">
+        <item name="android:background">#ffffffff</item>
+    </style>
+    <style name="com_lenovo_pay_theme_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="common_btn">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/magic_btn</item>
+        <item name="android:layout_width">60.0dip</item>
+        <item name="android:layout_height">32.0dip</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="common_btn_big">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/magic_btn</item>
+        <item name="android:layout_width">80.0dip</item>
+        <item name="android:layout_height">32.0dip</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="common_btn_new">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/new_button</item>
+        <item name="android:layout_width">78.0dip</item>
+        <item name="android:layout_height">38.0dip</item>
+    </style>
+    <style name="common_btn_style">
+        <item name="android:textSize">@dimen/localstore_textsize_16</item>
+        <item name="android:textColor">@drawable/localstore_common_btn_textcolor_selector</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/localstore_common_btn_bg_selector</item>
+    </style>
+    <style name="common_green_btn">
+        <item name="android:background">@drawable/dialog_green_btn_bg</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="common_white_btn">
+        <item name="android:background">@drawable/white_btn_bg</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="detail_booklist_bigcover_style" parent="@style/basecover_style">
+        <item name="android:layout_width">@dimen/localstore_detail_booklist_cover_width</item>
+        <item name="android:layout_height">@dimen/localstore_detail_booklist_cover_height</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:contentDescription">@null</item>
+    </style>
+    <style name="detail_download_progressbar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:maxWidth">24.0dip</item>
+        <item name="android:maxHeight">24.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_detail_download_style</item>
+        <item name="android:indeterminateDuration">500</item>
+        <item name="android:minWidth">24.0dip</item>
+        <item name="android:minHeight">24.0dip</item>
+    </style>
+    <style name="detail_header_bigcover_style">
+        <item name="android:layout_width">@dimen/localstore_detail_header_imgsize_bigcover_width</item>
+        <item name="android:layout_height">@dimen/localstore_detail_header_imgsize_bigcover_height</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:contentDescription">@null</item>
+    </style>
+    <style name="detail_read_progressbar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:maxWidth">24.0dip</item>
+        <item name="android:maxHeight">24.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_detail_read_style</item>
+        <item name="android:indeterminateDuration">500</item>
+        <item name="android:minWidth">24.0dip</item>
+        <item name="android:minHeight">24.0dip</item>
+    </style>
+    <style name="feed_content_style">
+        <item name="android:textSize">@dimen/feed_content_textSize</item>
+        <item name="android:textColor">@color/common_textcolor_secondary</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="feed_title_style">
+        <item name="android:textSize">@dimen/feed_title_textSize</item>
+        <item name="android:textColor">@color/feed_title_textcolor_selector</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="fullscreen_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="green_btn">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/green_btn_bg</item>
+        <item name="android:layout_width">66.0dip</item>
+        <item name="android:layout_height">32.0dip</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="importbook_tab_text">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/importbook_tab_select</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="line_divider_horizontal_style">
+        <item name="android:background">@color/localstore_linecolor_divider</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+    </style>
+    <style name="line_divider_vertical_style">
+        <item name="android:background">@color/localstore_linecolor_divider</item>
+        <item name="android:layout_width">1.0px</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="list_view_divider">
+        <item name="android:divider">@color/listview_divider</item>
+        <item name="android:dividerHeight">1.0px</item>
+    </style>
+    <style name="login_autocomplete_drop" parent="@android:style/Widget.AutoCompleteTextView">
+        <item name="android:focusable">true</item>
+        <item name="android:popupBackground">@drawable/com_lenovo_lsf_autolist</item>
+        <item name="android:dropDownVerticalOffset">3.0dip</item>
+    </style>
+    <style name="login_dialog_edit">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff211300</item>
+        <item name="android:textColorHint">@color/textcolor_gray</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="main_tab_text">
+        <item name="android:textSize">13.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingBottom">1.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="my_edittext_style" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/dialog_textfield_bg</item>
+    </style>
+    <style name="noAnimation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="no_ovelay" parent="@android:style/Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="normal_full_screen" parent="@android:style/Theme">
+        <item name="android:windowBackground">@drawable/qqappwall_backgroud</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="normal_green_btn">
+        <item name="android:background">@drawable/normal_button_green_bg</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="normal_white_btn">
+        <item name="android:background">@drawable/normal_button_white_bg</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="oppoTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="page_title">
+        <item name="android:layout_marginTop">44.0dip</item>
+    </style>
+    <style name="picture" parent="@android:style/Theme">
+        <item name="android:backgroundDimAmount">0.0</item>
+        <item name="android:windowBackground">@color/translucent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/NoWindowAnimation</item>
+    </style>
+    <style name="popBottomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@color/translucent</item>
+    </style>
+    <style name="popup_enter_exit">
+        <item name="android:windowEnterAnimation">@anim/popupmenu_enter</item>
+        <item name="android:windowExitAnimation">@anim/popupmenu_exit</item>
+    </style>
+    <style name="popwin_anim_style">
+        <item name="android:windowEnterAnimation">@anim/popupmenu_enter</item>
+        <item name="android:windowExitAnimation">@anim/popupmenu_exit</item>
+    </style>
+    <style name="primarytitle_style">
+        <item name="android:textSize">@dimen/localstore_textsize_18</item>
+        <item name="android:textColor">@color/localstore_textcolor_black</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="profile_text_13">
+        <item name="android:textSize">13.0dip</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="profile_text_16">
+        <item name="android:textSize">@dimen/common_textsize_primary</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="profile_text_18">
+        <item name="android:textSize">@dimen/localstore_textsize_18</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="qqappwall_prograssbar">
+        <item name="android:maxHeight">5.0dip</item>
+        <item name="android:minHeight">5.0dip</item>
+    </style>
+    <style name="qrProgressDlg" parent="@android:style/Widget.ProgressBar">
+        <item name="android:maxWidth">40.0dip</item>
+        <item name="android:maxHeight">40.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_new_style</item>
+        <item name="android:indeterminateDuration">1000</item>
+        <item name="android:minWidth">40.0dip</item>
+        <item name="android:minHeight">40.0dip</item>
+    </style>
+    <style name="readpage_topbar_btn">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="sign_pop_anim_style">
+        <item name="android:windowEnterAnimation">@anim/sign_popup_enter</item>
+        <item name="android:windowExitAnimation">@anim/sign_popup_exit</item>
+    </style>
+    <style name="smallavatar_style">
+        <item name="android:layout_width">@dimen/localstore_imgsize_smallavatar_width</item>
+        <item name="android:layout_height">@dimen/localstore_imgsize_smallavatar_height</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:contentDescription">@null</item>
+    </style>
+    <style name="smallcover_style" parent="@style/basecover_style">
+        <item name="android:layout_width">@dimen/localstore_imgsize_smallcover_width</item>
+        <item name="android:layout_height">@dimen/localstore_imgsize_smallcover_height</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:contentDescription">@null</item>
+    </style>
+    <style name="startTheme" parent="@android:style/Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="tab_btn">
+        <item name="android:background">@drawable/tab_category_btn</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="tab_btn_last">
+        <item name="android:background">@drawable/tab_category_btn_last</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="tabviewactivity_head_btn_color">
+        <item name="android:textColor">#ff555555</item>
+        <item name="android:textColorHighlight">#ffffffff</item>
+    </style>
+    <style name="text_12_gray_style">
+        <item name="android:textSize">@dimen/localstore_textsize_12</item>
+        <item name="android:textColor">@color/localstore_textcolor_gray</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="text_13_black_style">
+        <item name="android:textSize">@dimen/localstore_textsize_13</item>
+        <item name="android:textColor">@color/localstore_textcolor_black</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="text_13_gray_style">
+        <item name="android:textSize">@dimen/localstore_textsize_13</item>
+        <item name="android:textColor">@color/localstore_textcolor_gray</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="text_13_green_style">
+        <item name="android:textSize">@dimen/localstore_textsize_13</item>
+        <item name="android:textColor">@color/localstore_textcolor_green</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="text_19_green_style">
+        <item name="android:textSize">@dimen/localstore_textsize_19</item>
+        <item name="android:textColor">@color/localstore_textcolor_green</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="text_weight_1_19_green_style">
+        <item name="android:textSize">@dimen/localstore_textsize_19</item>
+        <item name="android:textColor">@color/localstore_textcolor_green</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="top_stack_tabs_style">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">@color/textcolor_white</item>
+    </style>
+    <style name="top_tabs_style">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">@color/top_tabs_textcolor_selector</item>
+    </style>
+    <style name="topbar_right_btn">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="transparent" parent="@android:style/Theme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/noAnimation</item>
+    </style>
+    <style name="unipay_actbg">
+        <item name="android:background">@drawable/unipay_pic_actbg</item>
+        <item name="android:paddingLeft">6.0dip</item>
+        <item name="android:paddingTop">3.0dip</item>
+        <item name="android:paddingRight">6.0dip</item>
+        <item name="android:paddingBottom">3.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">5.0dip</item>
+    </style>
+    <style name="unipay_agreecheck">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/unipay_thin2_color</item>
+        <item name="android:background">@drawable/unipay_drawable_check_btn</item>
+        <item name="android:paddingLeft">18.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">24.0dip</item>
+        <item name="android:checked">true</item>
+        <item name="android:button">@null</item>
+    </style>
+    <style name="unipay_bigview_head_land">
+        <item name="android:layout_width">160.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="unipay_bigviewbtn">
+        <item name="android:gravity">bottom|center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="unipay_bigviewbtn_land">
+        <item name="android:gravity">bottom|center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="unipay_btn">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/unipay_drawable_embtn</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_btn.sentbtn" parent="@style/unipay_btn">
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:background">@drawable/unipay_drawable_sentbtn</item>
+        <item name="android:layout_width">90.0dip</item>
+    </style>
+    <style name="unipay_btn.thinbtn" parent="@style/unipay_btn">
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:background">@drawable/unipay_drawable_thinbtn</item>
+    </style>
+    <style name="unipay_btnorder">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/unipay_thin4_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/unipay_btn_high1_color</item>
+        <item name="android:layout_width">70.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="unipay_btnorder.land" parent="@style/unipay_btnorder">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40.0dip</item>
+    </style>
+    <style name="unipay_btnround_land">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/unipay_drawable_btnthinround</item>
+        <item name="android:layout_width">74.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_cont">
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/unipay_bigbg_cont</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">100.0</item>
+    </style>
+    <style name="unipay_cont.tips" parent="@style/unipay_cont">
+        <item name="android:background">@drawable/unipay_tipsbg_cont</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_cont_land">
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/unipay_bigbg_cont_land</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">100.0</item>
+    </style>
+    <style name="unipay_customDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/unipay_pic_loginbg</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="unipay_dash">
+        <item name="android:background">@drawable/unipay_drawable_dashline</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">2.0dip</item>
+    </style>
+    <style name="unipay_edit">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/unipay_btn_color</item>
+        <item name="android:textColorHint">@color/unipay_thin_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">100.0</item>
+    </style>
+    <style name="unipay_fill">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="unipay_fill.bg" parent="@style/unipay_fill">
+        <item name="android:background">@color/unipay_trans_color</item>
+    </style>
+    <style name="unipay_fill.wrap" parent="@style/unipay_fill">
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/unipay_trans_color</item>
+        <item name="android:paddingTop">10.0dip</item>
+    </style>
+    <style name="unipay_fill.wrap_land" parent="@style/unipay_fill">
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/unipay_trans_color</item>
+        <item name="android:paddingTop">5.0dip</item>
+    </style>
+    <style name="unipay_head">
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/unipay_tips_head</item>
+        <item name="android:paddingLeft">25.0dip</item>
+        <item name="android:paddingTop">13.0dip</item>
+        <item name="android:paddingRight">25.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_head.tips" parent="@style/unipay_head">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingLeft">25.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_height">60.0dip</item>
+    </style>
+    <style name="unipay_head_land">
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/unipay_tips_head_land</item>
+        <item name="android:paddingLeft">22.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingRight">15.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">100.0</item>
+    </style>
+    <style name="unipay_horline">
+        <item name="android:background">@drawable/unipay_drawable_line</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+    </style>
+    <style name="unipay_iconarrow">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">12.0dip</item>
+        <item name="android:layout_height">20.0dip</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="unipay_iconarrowr">
+        <item name="android:background">@drawable/unipay_drawable_iconarrowr</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_iconchange2">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/unipay_em3_color</item>
+        <item name="android:gravity">center|right</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">30.0dip</item>
+        <item name="android:text">@string/unipay_str_more</item>
+    </style>
+    <style name="unipay_iconclose">
+        <item name="android:background">@null</item>
+        <item name="android:paddingBottom">30.0dip</item>
+        <item name="android:layout_width">10.0dip</item>
+        <item name="android:layout_height">40.0dip</item>
+    </style>
+    <style name="unipay_icondel">
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginRight">5.0dip</item>
+        <item name="android:src">@drawable/unipay_pic_del</item>
+    </style>
+    <style name="unipay_iconprop">
+        <item name="android:layout_width">32.0dip</item>
+        <item name="android:layout_height">32.0dip</item>
+        <item name="android:layout_margin">5.0dip</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="unipay_iconres">
+        <item name="android:layout_width">30.0dip</item>
+        <item name="android:layout_height">30.0dip</item>
+        <item name="android:layout_marginRight">5.0dip</item>
+    </style>
+    <style name="unipay_iconres.land" parent="@style/unipay_iconres">
+        <item name="android:layout_width">24.0dip</item>
+        <item name="android:layout_height">24.0dip</item>
+        <item name="android:layout_marginRight">1.0dip</item>
+    </style>
+    <style name="unipay_iconsend">
+        <item name="android:background">@drawable/unipay_iconsend</item>
+        <item name="android:layout_width">16.0dip</item>
+        <item name="android:layout_height">16.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <style name="unipay_iconwarn">
+        <item name="android:background">@drawable/unipay_pic_warn</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_iconwrite">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">5.0dip</item>
+        <item name="android:src">@drawable/unipay_pic_iconwrite</item>
+    </style>
+    <style name="unipay_inputbg">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/unipay_drawable_inputbg</item>
+        <item name="android:paddingRight">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">10.0dip</item>
+    </style>
+    <style name="unipay_inputbg_v2">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/unipay_drawable_itembg</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingRight">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">44.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+    </style>
+    <style name="unipay_itemchannel">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/unipay_drawable_itembtn</item>
+        <item name="android:padding">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_itemchannel.land" parent="@style/unipay_itemchannel">
+        <item name="android:layout_weight">100.0</item>
+    </style>
+    <style name="unipay_itemnumbg">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/unipay_drawable_item_land</item>
+        <item name="android:paddingLeft">2.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingRight">2.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">80.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_linear">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_linear.drop" parent="@style/unipay_linear">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+    </style>
+    <style name="unipay_linear.srcollcont" parent="@style/unipay_linear">
+        <item name="android:paddingLeft">15.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingRight">15.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+    </style>
+    <style name="unipay_linear.srcollcont_land" parent="@style/unipay_linear">
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+    </style>
+    <style name="unipay_linear.tipsrcollcont" parent="@style/unipay_linear">
+        <item name="android:paddingLeft">15.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingRight">15.0dip</item>
+        <item name="android:paddingBottom">15.0dip</item>
+    </style>
+    <style name="unipay_linear.tipswrap" parent="@style/unipay_linear">
+        <item name="android:layout_marginLeft">5.0dip</item>
+        <item name="android:layout_marginTop">15.0dip</item>
+        <item name="android:layout_marginRight">5.0dip</item>
+    </style>
+    <style name="unipay_linear_hor">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_linear_land">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="unipay_logovip">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_logovip.small" parent="@style/unipay_logovip">
+        <item name="android:layout_width">20.0dip</item>
+        <item name="android:layout_height">20.0dip</item>
+    </style>
+    <style name="unipay_otherbtn">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">@drawable/unipay_drawable_otherbtn</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_prop">
+        <item name="android:layout_width">20.0dip</item>
+        <item name="android:layout_height">20.0dip</item>
+        <item name="android:layout_marginRight">0.0dip</item>
+    </style>
+    <style name="unipay_sendprop">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/unipay_dashbox</item>
+        <item name="android:layout_width">90.0dip</item>
+        <item name="android:layout_height">36.0dip</item>
+        <item name="android:layout_margin">5.0dip</item>
+        <item name="android:minWidth">80.0dip</item>
+    </style>
+    <style name="unipay_tabitem">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">@drawable/unipay_drawable_radio_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/unipay_drawable_radio</item>
+        <item name="android:layout_width">48.0dip</item>
+        <item name="android:layout_height">40.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+        <item name="android:button">@null</item>
+    </style>
+    <style name="unipay_text">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/unipay_btn_color</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_text.big" parent="@style/unipay_text">
+        <item name="android:textSize">18.0sp</item>
+    </style>
+    <style name="unipay_text.fail" parent="@style/unipay_text">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/unipay_em4_color</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="unipay_text.headtitle" parent="@style/unipay_text">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/unipay_em1_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="unipay_text.middle" parent="@style/unipay_text">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="unipay_text.small" parent="@style/unipay_text">
+        <item name="android:textSize">12.0sp</item>
+    </style>
+    <style name="unipay_text.smallthin" parent="@style/unipay_text">
+        <item name="android:textSize">9.0sp</item>
+        <item name="android:textColor">@color/unipay_thin_color</item>
+    </style>
+    <style name="unipay_text.smallthin2" parent="@style/unipay_text">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/unipay_thin2_color</item>
+    </style>
+    <style name="unipay_text.suc" parent="@style/unipay_text">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/unipay_em2_color</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="unipay_text.wait" parent="@style/unipay_text">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/unipay_link_color</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="unipay_tipbtn">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_tips_btnround">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/unipay_drawable_btnthinround</item>
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:layout_width">90.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_tips_listitem">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/unipay_drawable_itembg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">15.0dip</item>
+    </style>
+    <style name="unipay_tips_listitem_land">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">120.0dip</item>
+        <item name="android:layout_height">180.0dip</item>
+        <item name="android:layout_marginRight">7.0dip</item>
+        <item name="android:layout_weight">100.0</item>
+    </style>
+    <style name="unipay_tiptitle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/unipay_em1_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_tiptitle.sub" parent="@style/unipay_tiptitle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/unipay_thin2_color</item>
+    </style>
+    <style name="unipay_toast">
+        <item name="android:background">@drawable/unipay_pic_tipsbg_thin</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_wavebg">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@color/unipay_wavebg_color</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">100.0</item>
+    </style>
+    <style name="unipay_wavebg_land">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/unipay_wavebg_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">100.0</item>
+    </style>
+    <style name="unipay_wrap">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="unipay_wrap.iconchannel" parent="@style/unipay_wrap">
+        <item name="android:layout_marginRight">10.0dip</item>
+    </style>
+    <style name="unipay_wrap.iconsuc" parent="@style/unipay_wrap">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:src">@drawable/unipay_pic_suc</item>
+    </style>
+    <style name="unipay_wrap.iconwait" parent="@style/unipay_wrap">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:src">@anim/unipay_anim_waiting</item>
+    </style>
+    <style name="unipay_wrap.iconwrong" parent="@style/unipay_wrap">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:src">@drawable/unipay_pic_wrong</item>
+    </style>
+    <style name="white_btn">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/white_btn</item>
+        <item name="android:layout_width">60.0dip</item>
+        <item name="android:layout_height">32.0dip</item>
+    </style>
+</resources>

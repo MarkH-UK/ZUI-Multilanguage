@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <Preference android:title="@string/settings_license_activity_title" android:key="license" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:action="android.settings.LICENSE" />
+    </Preference>
+    <Preference android:title="@string/user_agreement_title" android:key="user_agreement" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:action="android.settings.UserAgreement.WebView" />
+    </Preference>
+    <Preference android:title="@string/privacy_policy_title" android:key="privacy_policy" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:action="android.settings.PrivacyPolicy.WebView" />
+    </Preference>
+</PreferenceScreen>

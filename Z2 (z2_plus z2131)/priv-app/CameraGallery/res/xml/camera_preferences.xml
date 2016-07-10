@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="pref_root"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:layout="@layout/settings_listpreference_layout" android:title="@string/pref_category_resolution_quality" android:key="pref_category_resolution">
+        <PreferenceCategory android:title="@string/mode_camera">
+            <Preference android:layout="@layout/settings_listpreference_layout" android:title="@string/setting_back_camera_photo" android:key="pref_camera_picturesize_back_key_new" />
+            <Preference android:layout="@layout/settings_listpreference_layout" android:title="@string/setting_front_camera_photo" android:key="pref_camera_picturesize_front_key_new" />
+        </PreferenceCategory>
+        <PreferenceCategory android:title="@string/mode_video">
+            <Preference android:layout="@layout/settings_listpreference_layout" android:title="@string/setting_back_camera_video" android:key="pref_video_quality_back_key_new" android:defaultValue="@string/pref_video_quality_medium" />
+            <Preference android:layout="@layout/settings_listpreference_layout" android:title="@string/setting_front_camera_video" android:key="pref_video_quality_front_key_new" android:defaultValue="@string/pref_video_quality_medium" />
+        </PreferenceCategory>
+        <PreferenceCategory android:title="">
+            <ListPreference android:layout="@layout/settings_listpreference_layout" android:title="@string/setting_back_camera_photo" android:key="pref_camera_picturesize_back_key" android:defaultValue="@string/pref_camera_picturesize_default" android:shouldDisableView="false" android:entryValues="@array/pref_camera_picturesize_entryvalues" />
+            <ListPreference android:layout="@layout/settings_listpreference_layout" android:title="@string/setting_front_camera_photo" android:key="pref_camera_picturesize_front_key" android:defaultValue="@string/pref_camera_picturesize_default" android:shouldDisableView="true" android:entryValues="@array/pref_camera_picturesize_entryvalues" />
+        </PreferenceCategory>
+        <PreferenceCategory android:title="">
+            <ListPreference android:layout="@layout/settings_listpreference_layout" android:title="@string/setting_back_camera_video" android:key="pref_video_quality_back_key" android:defaultValue="@string/pref_video_quality_medium" android:entryValues="@array/pref_video_quality_entryvalues" />
+            <ListPreference android:layout="@layout/settings_listpreference_layout" android:title="@string/setting_front_camera_video" android:key="pref_video_quality_front_key" android:defaultValue="@string/pref_video_quality_medium" android:entryValues="@array/pref_video_quality_entryvalues" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <ListPreference android:entries="@array/pref_storage_select_entries" android:layout="@layout/settings_listpreference_layout" android:title="@string/pref_storage_select_title" android:key="pref_storage_select_key" android:defaultValue="@string/pref_storage_select_default" android:entryValues="@array/pref_storage_select_entryvalues" />
+    <ListPreference android:entries="@array/pref_volum_key_function_entries" android:layout="@layout/settings_listpreference_layout" android:title="@string/pref_volum_key_function_title" android:key="pref_volum_key_function_key" android:defaultValue="@string/pref_volum_key_function_default" android:entryValues="@array/pref_volum_key_function_entryvalues" />
+    <Preference android:layout="@layout/settings_listpreference_layout" android:title="@string/pref_volum_key_function_title" android:key="pref_volum_key_function_key_new" />
+    <Preference android:layout="@layout/settings_listpreference_layout" android:title="@string/pref_video_high_frame_rate_title" android:key="pref_video_high_frame_rate_key_new" />
+    <Preference android:layout="@layout/settings_listpreference_layout" android:title="@string/pref_storage_select_title" android:key="pref_storage_select_key_new" />
+    <SwitchPreference android:title="@string/setting_timer_text" android:key="pref_camera_timer_menu_show_key" android:defaultValue="false" />
+    <SwitchPreference android:title="@string/setting_camera_sound" android:key="pref_camera_sound_key" android:defaultValue="true" />
+    <SwitchPreference android:title="@string/setting_front_shooting_flip" android:key="pref_front_shooting_flip_key" android:defaultValue="true" />
+    <SwitchPreference android:title="@string/setting_grid_lines" android:key="pref_camera_grid_lines" android:defaultValue="false" />
+    <SwitchPreference android:title="@string/setting_location_text" android:key="pref_camera_recordlocation_key" android:defaultValue="false" />
+    <PreferenceCategory />
+</PreferenceScreen>

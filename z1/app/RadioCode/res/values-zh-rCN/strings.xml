@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">暗码</string>
+    <string name="switch_function">智能切卡：</string>
+    <string name="enable_switch">打开智能切卡功能?</string>
+    <string name="disable_switch">关闭智能切卡功能?</string>
+    <string name="global_function">全网功能:</string>
+    <string name="enable_ruim">打开全网功能?</string>
+    <string name="disable_ruim">关闭全网功能?</string>
+    <string name="ue_function">设置UE模式:</string>
+    <string name="sglte">SGLTE+G</string>
+    <string name="csfb">CSFB+G</string>
+    <string name="cdma">CDMA+G</string>
+    <string name="ok">确认</string>
+    <string name="cancel">取消</string>
+    <string name="enable_fdd">FDD-LTE 已打开</string>
+    <string name="disable_fdd">FDD-LTE 已关闭</string>
+    <string name="restart">重启modem?</string>
+    <string name="cmcc">工程模式</string>
+    <string name="wcdma">是否需要支持WCDMA?</string>
+    <string name="switch_feature">智能切卡功能</string>
+    <string name="global_feature">全网通功能</string>
+    <string name="fdd_feature">FDD-LTE 设置</string>
+    <string name="ue_feature">UE mode 设置</string>
+    <string name="wcdma_feature">打开支持WCDMA</string>
+    <string name="cmcc_test">工程模式</string>
+    <string name="network_feature">开机不设置网络模式</string>
+    <string name="hw_mode">设置HW Mode</string>
+    <string name="cpu">更改CPU设置</string>
+    <string name="fdd_tdd">FDD，TDD网络模式设置</string>
+    <string name="nv_efs">NV_EFS修改</string>
+    <string name="nv_para">NV参数配置</string>
+    <string name="nv_summary">如果NV需要多值,请使用|分割</string>
+    <string name="nv_mode_title">NV操作模式</string>
+    <string name="efs_mode_title">EFS操作模式</string>
+    <string name="efs_para">EFS配置</string>
+    <string name="efs_source">EFS 源路径</string>
+    <string name="efs_target">EFS 目标路径</string>
+    <string name="efs_value">EFS内容</string>
+    <string name="test_active">active test card mode</string>
+    <string name="test_deactive">deactive test card mode</string>
+</resources>

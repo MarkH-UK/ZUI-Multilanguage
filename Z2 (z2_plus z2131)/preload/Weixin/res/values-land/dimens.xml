@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ny">40.0dip</dimen>
+    <dimen name="nz">4.0dip</dimen>
+    <dimen name="o0">16.0dip</dimen>
+    <dimen name="o1">12.0dip</dimen>
+    <dimen name="o2">-2.0dip</dimen>
+    <dimen name="o3">4.0dip</dimen>
+</resources>

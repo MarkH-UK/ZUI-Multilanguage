@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafe</item>
+        <item>Benzin İstasyonu</item>
+        <item>Sinema Salonu</item>
+        <item>Konaklama</item>
+        <item>Gece Kulübü</item>
+        <item>Müze</item>
+        <item>Restoran</item>
+        <item>Alışveriş Merkezi</item>
+        <item>Mağaza</item>
+        <item>Bakkal veya Süpermarket</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>yetersiz</item>
+        <item>yeterli</item>
+        <item>iyi</item>
+        <item>güçlü</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Sürüm</item>
+        <item>Geliştirici</item>
+        <item>Mağaza</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Telefon ve araba, uyumsuz yazılımlar çalıştırıyor. Ayrıntılı bilgi için lütfen &lt;a href="android.com/auto">android.com/auto&lt;/a> adresini ziyaret edin.</item>
+        <item>Araba, yanlış bir ses ve/veya video yapılandırmaları grubu bildirdi.</item>
+        <item>"USB bağlantısı düzgün çalışmıyor. Deneyebileceğiniz işlemler: 
+
+•Kablonun her iki ucunun da doğru bir şekilde takıldığından emin olun. 
+•Bir veri USB kablosu kullandığınızdan emin olun. 
+•Tarih ve saatin hem arabada hem de telefonda doğru ayarlandığından emin olun."</item>
+        <item>"Araba Android Auto'yu çalıştırmayı durdurdu."</item>
+        <item>Android Auto oturumu istendiği gibi durduruldu.</item>
+        <item>Arabanın yazılımı eski olabilir. Ayrıntılar ve destek için üreticiyle bağlantı kurun.</item>
+        <item>Arabanızın yazılımı Android Auto güvenlik kontrollerini geçemedi. Ayrıntılar ve destek için üreticiyle bağlantı kurun.</item>
+        <item>"Arabanızın yazılımı Android Auto güvenlik kontrollerini geçemedi. Arabanın tarih ve saatinin doğru ayarlandığından ve Android Auto'nun güncellendiğinden emin olun."</item>
+        <item>Bir işlem zaman aşımına uğradı. Bir hata raporu almalı ve geri bildirimde bulunmalısınız.</item>
+        <item>Yüklü bir başlatıcınızın olmadığı anlaşılıyor. Telefonunuz doğru bir şekilde kuruldu mu?</item>
+        <item>Grafik güncelleme bileşeni bozuldu. Bir hata raporu alıp geri bildirimde bulunmalısınız.</item>
+        <item>Araba, telefonun iletilerine yanıt vermiyor. Araba, yanlış durumda olabilir.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Havaalanı</item>
+        <item>ATM</item>
+        <item>Banka</item>
+        <item>Bar</item>
+        <item>Otobüs Durağı</item>
+        <item>Kafe</item>
+        <item>Kamp Alanı</item>
+        <item>Mezarlık</item>
+        <item>Kilise</item>
+        <item>Belediye Binası</item>
+        <item>İşletme Tesisi</item>
+        <item>Benzin İstasyonu</item>
+        <item>Bakkal veya Süpermarket</item>
+        <item>Hint Tapınağı</item>
+        <item>Hastane</item>
+        <item>Kütüphane</item>
+        <item>Konaklama Yeri</item>
+        <item>Cami</item>
+        <item>Sinema</item>
+        <item>Müze</item>
+        <item>Park</item>
+        <item>Otopark</item>
+        <item>İbadethane</item>
+        <item>Karakol</item>
+        <item>Postane</item>
+        <item>Restoran</item>
+        <item>Okul</item>
+        <item>Mağaza</item>
+        <item>Metro İstasyonu</item>
+        <item>Sinagog</item>
+        <item>Tren İstasyonu</item>
+        <item>Toplu Taşıma Durağı</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haziran</item>
+        <item>Temmuz</item>
+        <item>Ağustos</item>
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kasım</item>
+        <item>Aralık</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Paylaşmayı durdur</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>Süresiz</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Paylaşmayı durdur</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Bir güvenlik sorusu seçin</item>
+        <item>İlk telefon numaranız?</item>
+        <item>En iyi çocukluk arkadaşınızın adı?</item>
+        <item>İlkokul öğretmeninizin adı?</item>
+        <item>İlk işinizdeki yöneticinin adı?</item>
+        <item>Araç ruhsat numarası?</item>
+    </string-array>
+</resources>

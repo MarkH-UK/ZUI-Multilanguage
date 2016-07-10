@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s perbualan akan dipadamkan.</item>
+        <item quantity="one">Satu perbualan akan dipadamkan.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">%s saat</item>
+        <item quantity="few">%s saat</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s hasil untuk \"%2$s\"</item>
+        <item quantity="one">%1$s hasil untuk \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s mesej lain</item>
+        <item quantity="one">+%1$s mesej lain</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s orang</item>
+    </plurals>
+</resources>

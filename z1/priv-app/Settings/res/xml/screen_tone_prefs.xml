@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/xui_screen_color_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:layout="@layout/preference_image_screen_tone" android:selectable="false" />
+    <PreferenceCategory android:title="@string/xui_screen_color_temperature" />
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/xui_screen_color_temperature_warm" android:key="color_temperature_warm" />
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/xui_screen_color_temperature_normal" android:key="color_temperature_normal" />
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/xui_screen_color_temperature_cold" android:key="color_temperature_cold" />
+</PreferenceScreen>

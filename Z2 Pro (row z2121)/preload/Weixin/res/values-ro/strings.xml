@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Eroare a serviciilor Google Play</string>
+    <string name="z">O aplicație necesită o actualizare pentru serviciile Google Play.</string>
+    <string name="a0">%1$s necesită o actualizare a aplicației Android Wear.</string>
+    <string name="a1">O aplicație necesită activarea serviciilor Google Play.</string>
+    <string name="a2">Solicitată de %1$s</string>
+    <string name="a3">Descărcaţi Servicii Google Play</string>
+    <string name="a4">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe telefon.</string>
+    <string name="a5">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe tabletă.</string>
+    <string name="a6">Obţineţi Servicii Google Play</string>
+    <string name="a7">Activaţi Servicii Google Play</string>
+    <string name="a8">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
+    <string name="a9">Activaţi Servicii Google Play</string>
+    <string name="a_">Actualizaţi Servicii Google Play</string>
+    <string name="aa">Actualizați Android Wear</string>
+    <string name="ab">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
+    <string name="ac">%1$s nu va rula decât dacă actualizați aplicația Android Wear.</string>
+    <string name="ad">Se actualizează serviciile Google Play</string>
+    <string name="ae">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="af">Eroare de reţea</string>
+    <string name="ag">Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play.</string>
+    <string name="ah">Cont nevalid</string>
+    <string name="ai">Contul menționat nu există pe acest dispozitiv. Alegeți alt cont.</string>
+    <string name="aj">Problemă necunoscută privind Servicii Google Play.</string>
+    <string name="ak">Servicii Google Play</string>
+    <string name="al">%1$s se bazează pe serviciile Google Play, care nu sunt acceptate de dispozitiv. Contactați producătorul pentru asistență.</string>
+    <string name="am">Actualizaţi</string>
+    <string name="an">Conectați</string>
+    <string name="ao">Conectați-vă cu Google</string>
+    <string name="ap">Deschideți pe telefon</string>
+    <string name="aq">%1$s necesită unul sau mai multe servicii Google Play, care momentan nu sunt disponibile. Contactați dezvoltatorul pentru asistență.</string>
+    <string name="ar">Conectarea nu a reușit</string>
+    <string name="as">Eroare la conectarea la contul specificat. Alegeți alt cont.</string>
+</resources>

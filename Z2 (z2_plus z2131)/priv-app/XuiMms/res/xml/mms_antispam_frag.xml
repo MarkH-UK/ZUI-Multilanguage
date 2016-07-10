@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="@string/antispam_harass_switch_title" android:key="anti_enable_switch" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/antispam_harass_mode_title" android:key="harass_mode_lin" android:summary="@string/antispam_rejectblack" android:widgetLayout="@layout/preference_widget_forward" />
+    <PreferenceCategory android:title="@string/antispam_man_category_title" android:key="mms_anti_list_lin_cate">
+        <Preference android:layout="@layout/preference_label" android:title="@string/antispam_black_list" android:key="black_list_lin" android:widgetLayout="@layout/preference_widget_forward" />
+        <Preference android:layout="@layout/preference_label" android:title="@string/antispam_white_list" android:key="white_list_lin" android:widgetLayout="@layout/preference_widget_forward" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/antispam_harass_switch_desc" android:key="mms_anti_settings_cate">
+        <Preference android:layout="@layout/preference_label" android:title="@string/antispam_sms_keyowrd" android:key="antispam_sms_keyword_intercept" android:widgetLayout="@layout/preference_widget_forward" />
+        <SwitchPreference android:title="@string/antispam_strange_btitle" android:key="xui_harass_unfamiliar" />
+        <Preference android:layout="@layout/preference_label" android:title="@string/antispam_classify" android:key="anti_call_classify_lin" android:widgetLayout="@layout/preference_widget_forward" />
+        <SwitchPreference android:title="@string/antispam_setting_notification_title" android:key="antispam_notify_switch" />
+        <SwitchPreference android:title="@string/antispam_folder_title" android:key="antispam_msg_folder_switch" />
+        <Preference android:layout="@layout/preference_label" android:title="@string/antispam_autoclean_lin" android:key="anti_autoclean_spam_lin" android:widgetLayout="@layout/preference_widget_forward" />
+        <SwitchPreference android:title="@string/antispam_sms_stitle" android:key="antisms_switch" />
+    </PreferenceCategory>
+    <PreferenceCategory android:key="antisms_switch_summary" android:summary="@string/antispam_sms_summary" />
+</PreferenceScreen>

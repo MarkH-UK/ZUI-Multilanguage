@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:layout="@layout/no_vpn_activity" android:title="@string/vpn_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:myapp="http://schemas.android.com/apk/res/com.android.settings.vpn2">
+    <PreferenceCategory android:key="vpn_no_preference" />
+</PreferenceScreen>

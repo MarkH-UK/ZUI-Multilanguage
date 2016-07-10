@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Cafe</item>
+        <item>Gasolinahan</item>
+        <item>Sinehan</item>
+        <item>Lodging</item>
+        <item>Night Club</item>
+        <item>Museo</item>
+        <item>Restaurant</item>
+        <item>Mall</item>
+        <item>Tindahan</item>
+        <item>Grocery o Supermarket</item>
+        <item>Iba pa</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>mahina</item>
+        <item>katamtaman</item>
+        <item>mahusay</item>
+        <item>malakas</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Release</item>
+        <item>Developer</item>
+        <item>Retail</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Nagpapagana ng hindi tumutugmang software ang telepono at ang sasakyan. Para sa mga detalye, bisitahin ang &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Nag-advertise ang sasakyan ng maling hanay ng mga configuration ng audio at/o video.</item>
+        <item>"Hindi gumagana nang maayos ang koneksyong USB. Mga bagay na dapat subukan: 
+
+• Tiyaking maayos na nakasaksak ang cable sa magkabilang dulo. 
+•Tiyaking mayroon kang data USB cable. 
+•Tiyaking nakatakda nang tama ang petsa at oras para sa sasakyan at iyong telepono."</item>
+        <item>Huminto sa pagpapagana ng Android Auto ang sasakyan.</item>
+        <item>Huminto ang Android Auto session, ayon sa hiniling.</item>
+        <item>Maaaring luma na ang software ng sasakyan. Para sa mga detalye at suporta, makipag-ugnayan sa manufacturer.</item>
+        <item>Hindi nakapasa sa mga pagsusuri sa seguridad ng Android Auto ang software ng iyong sasakyan. Para sa mga detalye at suporta. makipag-ugnayan sa manufacturer.</item>
+        <item>Hindi nakapasa sa mga pagsusuri sa seguridad ng Android Auto ang software ng iyong sasakyan. Tiyaking nakatakda nang tama ang petsa at oras ng sasakyan, at na-update na ang Android Auto.</item>
+        <item>Nag-time out na ang isang pagkilos. Dapat kang mag-ulat ng bug at maghain ng feedback.</item>
+        <item>Mukhang wala kang naka-install na launcher, naka-set up ba nang tama ang iyong telepono?</item>
+        <item>Nawala ang graphics pipeline. Dapat kang mag-ulat ng bug at maghain ng feedback.</item>
+        <item>Hindi tumutugon ang sasakyan sa mga mensahe mula sa telepono. Maaaring may mali sa sasakyan.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Paliparan</item>
+        <item>ATM</item>
+        <item>Bangko</item>
+        <item>Bar</item>
+        <item>Istasyon ng bus</item>
+        <item>Cafe</item>
+        <item>Campground</item>
+        <item>Sementeryo</item>
+        <item>Simbahan</item>
+        <item>City Hall</item>
+        <item>Gusali</item>
+        <item>Gasolinahan</item>
+        <item>Grocery o Supermarket</item>
+        <item>Templo ng Hindu</item>
+        <item>Ospital</item>
+        <item>Aklatan</item>
+        <item>Matutuluyan</item>
+        <item>Moske</item>
+        <item>Sinehan</item>
+        <item>Museo</item>
+        <item>Parke</item>
+        <item>Paradahan</item>
+        <item>Lugar ng Pagsamba</item>
+        <item>Istasyon ng Pulis</item>
+        <item>Post Office</item>
+        <item>Restaurant</item>
+        <item>Paaralan</item>
+        <item>Tindahan</item>
+        <item>Istasyon ng Subway</item>
+        <item>Synagogue</item>
+        <item>Istasyon ng Tren</item>
+        <item>Istasyon ng Transit</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Enero</item>
+        <item>Pebrero</item>
+        <item>Marso</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Hunyo</item>
+        <item>Hulyo</item>
+        <item>Agosto</item>
+        <item>Setyembre</item>
+        <item>Oktubre</item>
+        <item>Nobyembre</item>
+        <item>Disyembre</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Itigil ang pagbabahagi</item>
+        <item>15 minuto</item>
+        <item>30 minuto</item>
+        <item>1 oras</item>
+        <item>Walang katiyakan</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Ihinto ang pagbabahagi</item>
+        <item>15 minuto</item>
+        <item>30 minuto</item>
+        <item>1 oras</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Pumili ng panseguridad na tanong</item>
+        <item>Unang numero ng telepono?</item>
+        <item>Pangalan ng pinakamatalik na kaibigan sa pagkabata?</item>
+        <item>Pangalan ng unang guro?</item>
+        <item>Pangalan ng manager sa unang trabaho?</item>
+        <item>Numero ng pagpaparehistro ng sasakyan?</item>
+    </string-array>
+</resources>

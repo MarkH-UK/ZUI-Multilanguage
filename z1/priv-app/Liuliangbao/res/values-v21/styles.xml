@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="oupeng_notification_title" parent="@android:style/TextAppearance.Material.Notification.Title">
+        <item name="android:textSize">@dimen/oupeng_notification_title_text_size</item>
+    </style>
+    <style name="oupeng_notification_message" parent="@android:style/TextAppearance.Material.Notification">
+        <item name="android:textSize">@dimen/oupeng_notification_message_text_size</item>
+    </style>
+    <style name="oupeng_notification_others" parent="@android:style/TextAppearance.Material.Notification.Title">
+        <item name="android:textStyle">normal</item>
+    </style>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>회신</item>
+        <item>전체 회신</item>
+        <item>전달</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>한 줄</item>
+        <item>두 줄</item>
+        <item>세 줄</item>
+        <item>네 줄</item>
+        <item>다섯 줄</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>아주 작음</item>
+        <item>작음</item>
+        <item>표준</item>
+        <item>큼</item>
+        <item>아주 큼</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>최근 파일</item>
+        <item>서식</item>
+        <item>이름</item>
+        <item>보낸 사람</item>
+        <item>날짜</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>시스템</item>
+        <item>빠른 메시지</item>
+        <item>모든 폴더</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>다음 대화</item>
+        <item>이전 대화</item>
+        <item>대화 목록</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>보관된 항목만 표시</item>
+        <item>삭제된 항목만 표시</item>
+        <item>보관된 항목 및 삭제된 항목 모두 표시</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>삭제 후 다음 대화 표시</item>
+        <item>삭제 후 이전 대화 표시</item>
+        <item>삭제 후 대화 목록 표시</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>보관된 항목만 표시</item>
+        <item>삭제된 항목만 표시</item>
+        <item>보관된 항목 및 삭제된 항목 모두 표시</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>주소:</item>
+        <item>전화:</item>
+        <item>이름:</item>
+        <item>전자 메일:</item>
+        <item>모바일:</item>
+        <item>WeChat:</item>
+        <item>팩스:</item>
+        <item>우편 번호:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>감사합니다.</item>
+        <item>대단히 감사합니다.</item>
+        <item>보낸 사람</item>
+        <item>원본 전자 메일</item>
+        <item>보낸 사람</item>
+        <item>보낸 사람</item>
+        <item>보낸 사람</item>
+        <item>이 전자 메일</item>
+        <item>거부</item>
+        <item>전자 메일 거부</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>동기화 성공</item>
+        <item>네트워크 연결 중 오류가 발생했습니다.</item>
+        <item>로그인 실패</item>
+        <item>보안 연결 중 오류가 발생했습니다.</item>
+        <item>동기화 실패</item>
+        <item>서버 오류</item>
+    </string-array>
+</resources>

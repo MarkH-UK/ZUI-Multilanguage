@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Fejl i Google Play-tjenester</string>
+    <string name="z">En app kræver opdatering af Google Play-tjenester.</string>
+    <string name="a0">%1$s kræver en opdatering af appen Android Wear.</string>
+    <string name="a1">En app kræver aktivering af Google Play-tjenester.</string>
+    <string name="a2">Anmodning fra %1$s</string>
+    <string name="a3">Hent Google Play-tjenester</string>
+    <string name="a4">%1$s kan ikke køre uden Google Play-tjenester, som ikke findes på din telefon.</string>
+    <string name="a5">%1$s kan ikke køre uden Google Play-tjenester, som ikke findes på din tablet.</string>
+    <string name="a6">Hent Google Play-tjenester</string>
+    <string name="a7">Aktivér Google Play-tjenester</string>
+    <string name="a8">%1$s kan ikke fungere, medmindre du aktiverer Google Play-tjenester.</string>
+    <string name="a9">Aktivér Google Play-tjenester</string>
+    <string name="a_">Opdater Google Play-tjenester</string>
+    <string name="aa">Opdater Android Wear</string>
+    <string name="ab">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string name="ac">%1$s kan ikke køre, medmindre du opdaterer appen Android Wear.</string>
+    <string name="ad">Google Play-tjenester opdateres</string>
+    <string name="ae">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres:</string>
+    <string name="af">Netværksfejl</string>
+    <string name="ag">Der kræves en dataforbindelse for at oprette forbindelse til Google Play-tjenester.</string>
+    <string name="ah">Ugyldig konto</string>
+    <string name="ai">Den angivne konto findes ikke på denne enhed. Vælg en anden konto.</string>
+    <string name="aj">Ukendt problem med Google Play-tjenester.</string>
+    <string name="ak">Google Play-tjenester</string>
+    <string name="al">%1$s er afhængig af Google Play-tjenester, som ikke understøttes af din enhed. Kontakt producenten for at få hjælp.</string>
+    <string name="am">Opdater</string>
+    <string name="an">Log ind</string>
+    <string name="ao">Log ind med Google</string>
+    <string name="ap">Åbn på telefonen</string>
+    <string name="aq">%1$s kræver en eller flere Google Play-tjenester, der ikke tilgængelige i øjeblikket. Kontakt udvikleren for at få hjælp.</string>
+    <string name="ar">Login mislykkedes</string>
+    <string name="as">Der opstod en fejl under login på angivne konto. Vælg en anden konto.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Bu hisobdan foydalanib bo‘lmaydi, chunki unda quyidagi ilovalar yo‘q: ^1. "&lt;b>^2&lt;/b>" domeni administratoriga murojaat qiling yoki tizimga boshqa hisob bilan kiring. "</item>
+        <item quantity="one">" Bu hisobdan foydalanib bo‘lmaydi, chunki unda quyidagi ilova yo‘q: ^1. "&lt;b>^2&lt;/b>" domeni administratoriga murojaat qiling yoki tizimga boshqa hisob bilan kiring. "</item>
+    </plurals>
+</resources>

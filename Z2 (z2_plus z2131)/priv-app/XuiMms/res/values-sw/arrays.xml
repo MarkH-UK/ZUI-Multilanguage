@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>hakuna kichwa</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Sekunde 1</item>
+        <item>Sekunde 2</item>
+        <item>Sekunde 3</item>
+        <item>Sekunde 4</item>
+        <item>Sekunde 5</item>
+        <item>Sekunde 6</item>
+        <item>Sekunde 7</item>
+        <item>Sekunde 8</item>
+        <item>Sekunde 9</item>
+        <item>Sekunde 10</item>
+        <item>Nyingine</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"Haya ni maelezo ya jumla kuhusu kifaa hiki na jinsi kinavyotumika, kama vile kiwango cha betri, idadi ya matumizi ya programu, ubora na muda wa miunganisho ya mtandao (seli, Wi-Fi, na Bluetooth), na ripoti za kuacha kufanya kazi wakati kifaa hakifanyi kazi ipasavyo. Maelezo haya yatatumika kuboresha bidhaa na huduma za Google kwa kila mtu na hayatahusishwa na Akaunti ya Google ya mtoto wako. Baadhi ya maelezo yaliyokusanywa yatasaidia washirika, kama vile wasanidi programu wa Android ili pia waboreshe programu na bidhaa zao. 
+
+Unaweza kuwasha au kuzima hatua hii wakati wowote katika Mipangilio na Google. Hatua hii haitaathiri uwezo wa kifaa hiki kutuma maelezo yanayohitajika ili kupokea huduma muhimu kama vile usalama na masasisho ya mfumo."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Hifadhi nakala ya data ya kifaa kiotomatiki </b> (kama vile manenosiri ya Wi-Fi na rekodi ya simu zilizopigwa) na data ya programu (kama vile mipangilio na faili zilizohifadhiwa na programu) kwenye Hifadhi ya Google. <annotation id="backup_details">Pata maelezo zaidi</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Unapowasha kuhifadhi nakala rudufu kiotomatiki, data iliyo kwenye kifaa na programu huhifadhiwa mara kwa mara kwenye folda ya faragha katika Hifadhi ya Google. Data ya programu inaweza kuwa data yoyote ambayo programu imehifadhi (kulingana na mipangilio ya msanidi programu), pamoja na data inayoweza kuwa nyeti kama vile anwani, ujumbe na picha. 
+
+ Data ya nakala rudufu haitahesabiwa kwenye kiasi kamili unachopaswa kutumia katika Drive storage. Faili kubwa, au faili ambazo wasanidi programu wamechagua kutojumuisha katika huduma hazitahifadhiwa nakala rudufu."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Boresha usahihi wa huduma za mahali</b> kwa kuruhusu programu na huduma ziangalie mitandao ya Wi-Fi na vifaa vya Bluetooth, hata wakati Wi-Fi na Bluetooth zimezimwa.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"Haya ni maelezo ya jumla kuhusu kifaa hiki na jinsi kinavyotumika, kama vile kiwango cha betri, idadi ya matumizi ya programu, ubora na muda wa miunganisho ya mtandao (seli, Wi-Fi, na Bluetooth), na ripoti za kuacha kufanya kazi wakati kifa hakifanyi kazi ipasavyo. Maelezo haya yatatumika kuboresha bidhaa na huduma za Google kwa kila mtu, na hayatahusishwa na Akaunti yako ya Google. Baadhi ya maelezo yaliyokusanywa yatasaidia washirika, kama vile wasanidi programu wa Android waboreshe programu na bidhaa zao. 
+
+Unaweza kuwasha au kuzima hatua hii wakati wowote katika Mipangilio na Google. Hatua hii haitaathiri uwezo wa kifaa hiki wa kutuma maelezo yanayohitajika ili kipokee huduma muhimu kama vile usalama na masasisho ya mfumo."</string>
+</resources>

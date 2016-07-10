@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2012 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- all page background color black -->
+    <color name="default_background">#FF070707</color>
+    <!-- action bar title text color -->
+    <color name="tab_title_text_color">#8c8c8c</color>
+    <!-- other text normal color -->
+    <color name="text_button_normal_color">#8c8c8c</color>
+    <!-- action bar bg color -->
+    <color name="tab_background_color">#131419</color>
+    <!-- text pressed or disable color -->
+    <color name="top_bar_text_pressed_color">#668c8c8c</color>
+    <!-- title bar devider line -->
+    <color name="tab_devider_color">#1b1e24</color>
+    <!-- bottom_tab_bg_color -->
+    <color name="bottom_tab_background_color">#131419</color>
+    <!-- bottom_tab_divider_color -->
+	<color name="bottom_tab_devider_color">#1b1e24</color>
+    <!-- blue text pressed color -->
+    <color name="photo_text_color_hi">#FF006798</color>
+    <!-- action mode bottom bg -->
+    <color name="action_mode_bottom_bar_background_color">#131419</color>
+    <!-- blue text color normal -->
+    <color name="text_button_normal_color1">#FF006798</color>
+    <!-- localTimeAlbumPage label bg -->
+    <color name="localtime_label_bg">#FF070707</color>
+    <!-- photo page bg -->
+    <color name="photo_background">#FF070707</color>
+    <!-- photo page bottombar bg -->
+    <color name="photo_page_bottom_tab_color">#131419</color>
+    <!-- localtime label text color -->
+    <color name="localtime_time_lable_font_color">#FF5c5c5c</color>
+    <!-- albumSet category gb color -->
+    <color name="albumset_category_bg_color">#FF070707</color>
+    <!-- albumset item bg -->
+    <color name="albumset_slot_background">#FF070707</color>
+    <!-- albumset item unselectd bg -->
+    <color name="albumset_mark_color">#66070707</color>
+    <!-- albumSet category devider line color -->
+    <color name="albumset_category_devider_line_color">#1b1e24</color>
+    <!-- albumset_label_background dark -->
+    <color name="albumset_label_background">#FF070707</color>
+    <!-- photo page sub title  text color -->
+    <color name="tab_time_text_color">#FF5c5c5c</color>
+    <!-- normal text pressed or disalbe status color -->
+    <color name="normal_text_color_unable_color">#668c8c8c</color>
+    <!-- edit text pressed or disalbe status color dark blue -->
+    <color name="edit_text_color_disable_color">#66006798</color>
+    <!-- action model bottom bar text disable color -->
+	<color name="setting_actionbar_item_disabled_color">#668c8c8c</color>
+	<!-- albumSet label title color -->
+	<color name="albumset_label_title">#FF5c5c5c</color>
+	<!-- albumSet label count color -->
+    <color name="albumset_label_count">#FF5c5c5c</color>
+    <!-- share dialog bg color -->
+    <color name="share_dialog_gb_color">#131419</color>
+    <!-- photopage bottom bar divider color -->
+    <color name="photo_page_bottom_devider_color">#1b1e24</color>
+    <!-- photopage screenail_placholder -->
+    <color name="bitmap_screennail_placeholder">#ff000000</color>
+    <!-- tab bar text normal color -->
+    <color name="bottom_bar_text_normal_color">#8c8c8c</color>
+    <!-- tab bar text pressed color -->
+    <color name="bottom_bar_text_pressed_color">#668c8c8c</color>
+     <!-- empty folder text color -->
+    <color name="no_photos_text_color">#FF5c5c5c</color>
+    <!-- theme color -->
+    <color name="category_title">#8c8c8c</color>
+    <color name="category_summary">#5c5c5c</color>
+    <color name="list_item">#8c8c8c</color>
+    <color name="setting_selectableitem_pressed">#0cffffff</color>
+    <color name="setting_selectableitem_unpressed">#000000</color>
+    <color name="statusbar_icon_color">#ffffff</color>
+</resources>

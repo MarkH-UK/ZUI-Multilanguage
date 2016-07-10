@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_solid">#0b0c0f</color>
+
+    <!-- status bar background color -->
+    <color name="notification_bg_color">#ff131419</color>
+
+    <!-- ＃8c8c8c 70% no-transparent == 626262 -->
+    <color name="lock_pattern_view_regular_color">#ff626262</color>
+    <color name="lock_pattern_view_path_start_color">#14626262</color>
+    <color name="lock_pattern_view_path_end_color">#ff626262</color>
+    <!-- ＃2b772e -->
+    <color name="lock_pattern_view_success_color">#ff2b772e</color>
+    <!-- ＃772a1e -->
+    <color name="lock_pattern_view_error_color">#ff772a1e</color>
+    <color name="wifisettings_text_enable">#006798</color>
+    <color name="wifisettings_text_disable">#66006798</color>
+
+        <!-- WifiConfigSettings -->
+    <color name="wificonfig_background">#070707</color>
+    <color name="wifisecurity_completebtn">#006798</color>
+    <color name="wifisecurity_title">#8c8c8c</color>
+    <color name="device_info_edit_background">#070707</color>
+    <color name="wificonfig_white">#070707</color>
+    <color name="wificonfig_divider">#151515</color>
+    <color name="vpn_view_color">#070707</color>
+    <color name="wifisecurity_canelbtn">#66006798</color>
+    
+    
+        <!-- MasterClear top -->
+    <color name="master_clear_backgroud_color">#070707</color>
+    <color name="device_info_top_linear_background">#121418</color>
+    <color name="device_divider_view_background">#282828</color>
+    <color name="device_info_bottom_linear_background">#070707</color>
+    <drawable name="btn_sort_pressed">#070707</drawable>
+    <drawable name="btn_sort_normal">#070707</drawable>
+
+    <!-- battery app icon background color -->
+    <color name="battery_percentage_app_bg_color">#00000000</color>
+    <color name="battery_optimization_app_bg_color">#00000000</color>
+    <color name="battery_history_chart_text_color">#80ffffff</color>
+    <color name="battery_percentage_app_title_color">#8c8c8c</color>
+    <color name="battery_percentage_app_text1_color">#5c5c5c</color>
+    <color name="battery_optimization_app_title_color">#8c8c8c</color>
+	
+	<!--ActionBar text color -->
+    <color name="status_barIcon_color">#ffffffff</color>
+	
+		<!--Utouch-Toast-Title -->
+	<color name="utouch_toast_title">#070707</color>
+	
+	<!--Utouch-oppen-app-text -->
+    <color name="app_name_color">#8c8c8c</color>
+
+   <!--WLAN Settings -->
+    <color name="wifisettings_title">#8c8c8c</color>
+    <color name="wifisettings_ssid">#5c5c5c</color>
+    
+    <!-- Device Info -->
+    <color name="device_info_edit_top_text">#8c8c8c</color>
+    <color name="font_category_title">#5c5c5c</color>
+    <color name="font_category_description">#454545</color>
+    <color name="no_vpn">#5c5c5c</color>
+    <color name="device_info_edit_text_cancle_btn">#006798</color>
+
+    <!-- Bluetooth -->
+    <color name="bluetooth_label_aboutphone">#665c5c5c</color>
+    <color name="vpn_tv_cancel">#006798</color>
+    <color name="vpn_tv_save_pressed">#66006798</color>
+    <color name="vpn_save_color">#66006798</color>
+    <color name="head_phone_calibration">#006798</color>
+    
+       <!-- Storage -->
+    <color name="storage_system_usage">#006798</color>
+    <color name="storage_apps_usage">#266a29</color>
+    <color name="storage_media_usage">#9e6503</color>
+    <color name="storage_audio_usage">#9b400e</color>
+    <color name="storage_download_usage">#1e5e95</color>
+    <color name="storage_cache_usage">#393a78</color>
+    <color name="storage_other_usage">#62748c</color>
+    
+      <!-- Master clear Text  -->
+    <color name="master_clear_text_color">#5c5c5c</color>
+</resources>

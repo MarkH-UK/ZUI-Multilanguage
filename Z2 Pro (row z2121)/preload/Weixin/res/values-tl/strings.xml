@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Error sa Mga Serbisyo ng Google Play</string>
+    <string name="z">Kailangan ng application ng update sa Mga Serbisyo ng Google Play.</string>
+    <string name="a0">Ang %1$s ay nangangailangan ng update sa Android Wear app.</string>
+    <string name="a1">Kailangan ng application na na-enable ang Mga Serbisyo ng Google Play.</string>
+    <string name="a2">Hiniling ng %1$s</string>
+    <string name="a3">Kumuha ng mga serbisyo ng Google Play</string>
+    <string name="a4">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na wala sa iyong telepono.</string>
+    <string name="a5">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na wala sa iyong tablet.</string>
+    <string name="a6">Kumuha ng Google Play services</string>
+    <string name="a7">Paganahin ang Google Play services</string>
+    <string name="a8">Hindi gagana ang %1$s maliban kung i-e-enable mo ang mga serbisyo ng Google Play.</string>
+    <string name="a9">Enable Google Play services</string>
+    <string name="a_">I-update ang mga serbisyo ng Google Play</string>
+    <string name="aa">I-update ang Android Wear</string>
+    <string name="ab">Hindi gagana ang %1$s maliban kung i-a-update mo ang mga serbisyo ng Google Play.</string>
+    <string name="ac">Hindi gagana ang %1$s maliban kung i-a-update mo ang Android Wear app.</string>
+    <string name="ad">Ina-update mga serbisyo ng Google Play</string>
+    <string name="ae">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na kasalukuyang ina-update.</string>
+    <string name="af">May Error sa Network</string>
+    <string name="ag">Kailangan ng koneksyon ng data upang makakonekta sa mga serbisyo ng Google Play.</string>
+    <string name="ah">Di-wasto ang Account</string>
+    <string name="ai">Hindi umiiral ang tinukoy na account sa device na ito. Mangyaring pumili ng ibang account.</string>
+    <string name="aj">May hindi alam na isyu sa mga serbisyo ng Google Play.</string>
+    <string name="ak">Mga serbisyo ng Google Play</string>
+    <string name="al">Sumasalalay ang %1$s sa mga serbisyo ng Google Play na hindi sinusuportahan ng iyong device. Makipag-ugnayan sa manufacturer para sa tulong.</string>
+    <string name="am">I-update</string>
+    <string name="an">Sign in</string>
+    <string name="ao">Mag-sign in sa Google</string>
+    <string name="ap">Buksan sa telepono</string>
+    <string name="aq">Kailangan ng %1$s ng isa o higit pang mga serbisyo ng Google Play na kasalukuyang hindi available. Mangyaring makipag-ugnayan sa developer para sa tulong.</string>
+    <string name="ar">Hindi nakapag-sign in</string>
+    <string name="as">Error sa pagsa-sign in sa tinukoy na account. Pakipili ng ibang account.</string>
+</resources>

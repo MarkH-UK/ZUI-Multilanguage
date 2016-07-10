@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="camera_mode_photo">0</integer>
+    <integer name="camera_mode_panorama">1</integer>
+    <integer name="camera_mode_lfr_recording">2</integer>
+    <integer name="max_video_recording_length">0</integer>
+    <integer name="max_4k_video_recording_length">5000</integer>
+    <integer name="albumset_rows_land">2</integer>
+    <integer name="albumset_rows_port">3</integer>
+    <integer name="albumset_cols_land">2</integer>
+    <integer name="albumset_cols_port">2</integer>
+    <integer name="album_rows_land">2</integer>
+    <integer name="album_rows_port">4</integer>
+    <integer name="album_cols_land">4</integer>
+    <integer name="album_cols_port">4</integer>
+    <integer name="local_time_album_cols_land">4</integer>
+    <integer name="local_time_album_cols_port">4</integer>
+    <integer name="local_time_album_month_cols_land">10</integer>
+    <integer name="local_time_album_month_cols_port">10</integer>
+    <integer name="local_time_album_year_cols_land">16</integer>
+    <integer name="local_time_album_year_cols_port">16</integer>
+    <integer name="create_folder_dialog_edit_view_max_input_length">10</integer>
+    <integer name="SRI_pano_layout_weight">2</integer>
+    <integer name="bottom_bar_background_alpha_overlay">153</integer>
+    <integer name="bottom_bar_background_alpha">255</integer>
+    <integer name="camera_continuous_count_textsize">33</integer>
+    <integer name="circle_menu_item_text_font_size">10</integer>
+    <integer name="normal_ball_interval_width">2</integer>
+    <integer name="slow_ball_interval_width">4</integer>
+    <integer name="slow_bar_min_duation">1000</integer>
+    <integer name="play_bar_active_alpha">153</integer>
+    <integer name="camera_screen_hint_default_size">12</integer>
+    <integer name="camera_storage_hint_default_size">10</integer>
+    <integer name="sub_recording_time">17</integer>
+</resources>

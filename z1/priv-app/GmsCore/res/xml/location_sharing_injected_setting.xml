@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<injected-location-setting android:icon="@drawable/ic_google" android:title="@string/location_sharing_google_location_sharing" android:settingsActivity="com.google.android.gms.social.location.LocationSharingRedirectActivity"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

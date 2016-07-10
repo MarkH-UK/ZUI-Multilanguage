@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="v5_checkbox_padding">8.0dip</dimen>
+</resources>

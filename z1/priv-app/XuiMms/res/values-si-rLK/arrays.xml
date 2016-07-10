@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>කාරණාවක් නොමැත</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>තත්පර 1</item>
+        <item>තත්පර 2</item>
+        <item>තත්පර 3</item>
+        <item>තත්පර 4</item>
+        <item>තත්පර 5</item>
+        <item>තත්පර 6</item>
+        <item>තත්පර 7</item>
+        <item>තත්පර 8</item>
+        <item>තත්පර 9</item>
+        <item>තත්පර 10</item>
+        <item>වෙනත්</item>
+    </string-array>
+</resources>

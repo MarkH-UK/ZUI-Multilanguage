@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">Je naam wordt gebruikt om je tablet en Google-services te personaliseren.</string>
+    <string name="name_title_local">Deze tablet is van…</string>
+    <string name="name_text_local">De tablet gebruikt je naam om enkele apps te personaliseren.</string>
+    <string name="communicating_message">Je tablet maakt verbinding met Google om informatie op te slaan in je account. Dit kan maximaal vijf minuten duren.</string>
+    <string name="checking_username_message">"Je tablet neemt contact op met Google om te zien of de gewenste gebruikersnaam beschikbaar is.
+
+Dit kan enkele minuten duren."</string>
+    <string name="wait_for_device_country_msg">Informatie verzamelen over je tablet. Dit duurt maximaal 30 seconden.</string>
+    <string name="backup_consent_message">"Gebruik je Google-account om een back-up van je apps, instellingen (zoals bladwijzers en wifi-wachtwoorden) en andere gegevens te maken. Als je eerder een back-up van je account heeft gemaakt, kun je deze nu terugzetten op deze tablet.
+
+Je kunt je back-upinstellingen op elk gewenst moment wijzigen in Instellingen."</string>
+    <string name="backup_consent_message_no_restore">"Gebruik je Google-account om een back-up van je apps, instellingen (zoals bladwijzers en wifi-wachtwoorden) en andere gegevens te maken.
+
+Je kunt je back-upinstellingen op elk gewenst moment wijzigen in Instellingen."</string>
+    <string name="restoring_message">Je tablet maakt verbinding met Google om je account opnieuw in te stellen. Dit kan maximaal vijf minuten duren.</string>
+    <string name="restore_consent_yes_agree">Haal apps, instellingen en andere gegevens die je eerder hebt opgeslagen in je Google-account nu naar deze tablet.</string>
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>居酒屋</item>
+        <item>カフェ</item>
+        <item>ガソリンスタンド</item>
+        <item>映画館</item>
+        <item>宿泊施設</item>
+        <item>ナイトクラブ</item>
+        <item>美術館/博物館</item>
+        <item>レストラン</item>
+        <item>ショッピングセンター</item>
+        <item>小売店</item>
+        <item>食材店/スーパー</item>
+        <item>その他</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>危険</item>
+        <item>普通</item>
+        <item>ほぼ安全</item>
+        <item>安全</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>リリース</item>
+        <item>デベロッパー</item>
+        <item>小売</item>
+        <item>デモ</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>スマートフォンと自動車のソフトウェアに互換性がありません。詳しくは &lt;a href="android.com/auto">android.com/auto&lt;/a> をご覧ください。</item>
+        <item>自動車のオーディオまたは動画の設定が正しくないようです。</item>
+        <item>"USB接続が正しく機能していません。以下をお試しください。
+
+•ケーブルの両端が正しく接続されていることを確認します。
+•データ用のUSBケーブルを使用していることを確認します。
+•自動車とスマートフォンの日付と時刻が正しく設定されていることを確認します。"</item>
+        <item>自動車がAndroid Autoを停止しました。</item>
+        <item>リクエストによりAndroid Autoセッションを停止しました。</item>
+        <item>自動車のソフトウェアが最新でない可能性があります。メーカーにお問い合わせください。</item>
+        <item>自動車のソフトウェアがAndroid Autoのセキュリティチェックに通りませんでした。メーカーにお問い合わせください。</item>
+        <item>自動車のソフトウェアがAndroid Autoのセキュリティチェックに通りませんでした。自動車の日付と時刻が正しく設定されていること、最新のAndroid Autoに更新されていることを確認してください。</item>
+        <item>処理がタイムアウトしました。バグレポートを入手してフィードバックを送信してください。</item>
+        <item>ランチャーがインストールされていません。スマートフォンが正しくセットアップされていることを確認してください。</item>
+        <item>グラフィックスパイプラインが機能していません。バグレポートを入手してフィードバックを送信してください。</item>
+        <item>自動車がスマートフォンからのメッセージに応答しません。自動車の状態が正しくない可能性があります。</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>空港</item>
+        <item>ATM</item>
+        <item>銀行</item>
+        <item>居酒屋</item>
+        <item>バス停</item>
+        <item>カフェ</item>
+        <item>キャンプ場</item>
+        <item>墓地</item>
+        <item>教会</item>
+        <item>市役所・区役所</item>
+        <item>施設</item>
+        <item>ガソリンスタンド</item>
+        <item>食材店/スーパー</item>
+        <item>ヒンズー教寺院</item>
+        <item>病院</item>
+        <item>図書館</item>
+        <item>宿泊施設</item>
+        <item>モスク</item>
+        <item>映画館</item>
+        <item>美術館/博物館</item>
+        <item>公園</item>
+        <item>駐車場</item>
+        <item>寺院・礼拝所</item>
+        <item>交番</item>
+        <item>郵便局</item>
+        <item>レストラン</item>
+        <item>学校</item>
+        <item>小売店</item>
+        <item>地下鉄駅</item>
+        <item>シナゴーグ</item>
+        <item>鉄道駅</item>
+        <item>乗り継ぎ駅</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>共有を停止</item>
+        <item>15分</item>
+        <item>30分</item>
+        <item>1時間</item>
+        <item>期限なし</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>共有を停止</item>
+        <item>15分</item>
+        <item>30分</item>
+        <item>1時間</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>セキュリティ保護用の質問を選んでください</item>
+        <item>最初に使用した電話番号は？</item>
+        <item>子供の頃の親友の名前は？</item>
+        <item>小学校の先生の名前は？</item>
+        <item>最初の仕事の上司の名前は？</item>
+        <item>車両登録番号は？</item>
+    </string-array>
+</resources>

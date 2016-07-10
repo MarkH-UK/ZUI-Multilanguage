@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="com_lenovo_lsf_notification">ZUK account number, password, set a reminder</string>
+    <string name="com_lenovo_lsf_notification_msg">Initial password has not been amended, recommended immediate changes</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.RadioPreference android:title="@string/wifi_security_wpa" android:key="wifi_security_wpa" />
+    <com.android.settings.RadioPreference android:title="@string/wifi_security_wpa2" android:key="wifi_security_wpa2" />
+    <com.android.settings.RadioPreference android:title="@string/wifi_security_none" android:key="wifi_security_none" />
+</PreferenceScreen>

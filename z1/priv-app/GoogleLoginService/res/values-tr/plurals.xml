@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Bu hesap şu uygulamalar olmadığından kullanılamıyor: ^1. "&lt;b>^2&lt;/b>" için alan adı yöneticisine başvurun veya başka bir hesap kullanarak oturum açın. "</item>
+        <item quantity="one">" Bu hesap şu uygulama olmadığından kullanılamıyor: ^1. "&lt;b>^2&lt;/b>" için alan adı yöneticisine başvurun veya başka bir hesap kullanarak oturum açın. "</item>
+    </plurals>
+</resources>

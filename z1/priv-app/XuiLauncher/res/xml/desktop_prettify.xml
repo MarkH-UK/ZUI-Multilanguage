@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="pref_desktopprettify_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:layout="@layout/custom_preference" android:title="@string/wallpaper_slide_settings_title" android:key="pref_wallpaper_slide" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
+    <SwitchPreference android:layout="@layout/custom_preference" android:title="@string/auto_change_textcolor_title" android:key="pref_auto_change_textcolor" android:defaultValue="true" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
+    <ListPreference android:entries="@array/pref_slide_effect_choices" android:layout="@layout/custom_preference1" android:title="@string/workspace_slide_settings_title" android:key="pref_workspace_slide_effect" android:widgetLayout="@layout/sec_pref_widget_more1" android:defaultValue="@string/prefDefault_workspaceSlide" android:entryValues="@array/pref_slide_effect_values" />
+</PreferenceScreen>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_wizard_next_button_label">Növbəti</string>
+    <string name="setup_wizard_back_button_label">Geriyə</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Ötürün</string>
+    <string name="down_button_label">Ətraflı</string>
+    <string name="cancel_button_label">Ləğv et</string>
+    <string name="try_again_button_label">Bir daha cəhd edin</string>
+    <string name="close_button_label">Qapat</string>
+    <string name="url_load_unsuccessful_message">Sizin Android cihazınız data xidmətinə qoşulu deyil. İndi bu informasiyanı görüntüləmək üçün veb brauzer ilə %s linkinə daxil olun.</string>
+    <string name="sign_in_agreement">Giriş etməklə, Siz Google <annotation id="tos">Xidmət Şərtləri</annotation>, <annotation id="google_privacy">Məxfilik Siyasəti</annotation> və <annotation id="play_tos">Google Play Xidmət Şərtləri</annotation> ilə razılaşırsınız.</string>
+    <string name="android_privacy_policy_title">Əlavə Məxfilik Siyasəti</string>
+    <string name="google_terms_of_service_title">Google Xidmət Şərtləri</string>
+    <string name="google_privacy_policy_title">Google Məxfilik Siyasəti</string>
+    <string name="google_plus_privacy_policy_title">Google Plus Məxfilik Siyasəti</string>
+    <string name="google_play_tos_title">Google Play Xidmət Şərtləri</string>
+    <string name="chrome_tos_title">Chrome Xidmət Şərtləri</string>
+    <string name="chrome_privacy_title">Chrome Məxfilik Qeydi</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Sizin Android cihazınız Wi-Fi şəbəkəsinə qoşulu deyil. İndi bu informasiyanı görüntüləmək üçün, %s linkinə daxil olun.</string>
+    <string name="services_activity_title">Google Xidmətləri</string>
+    <string name="services_backup_heading">Yedəkləmə</string>
+    <string name="services_location_heading">Məkan</string>
+    <string name="services_security_heading">Təhlükəsizlik</string>
+    <string name="services_personalization_heading">Fərdiləşdirmə</string>
+    <string name="services_communication_heading">Rabitə</string>
+    <string name="security_verify_apps_summary">"Google'a bütün quraşdırılmış tətbiqləri cihazınızın və ya datanızın təhlükəsizliyinə təsir edə biləcək ziyanverici davranış testindən keçirməsinə icazə verin."</string>
+    <string name="name_title">Google+ adınız</string>
+    <string name="name_text">Adınız telefon və Google xidmətlərinizi fərdiləşdirmək üçün istifadə olunur.</string>
+    <string name="first_name">İlk</string>
+    <string name="last_name">Sonuncu</string>
+    <string name="cant_be_blank">Sahə boş ola bilməz</string>
+    <string name="sharedUserLabel">Google Xidmətləri</string>
+    <string name="app_label">Google Hesab Meneceri</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Daxil ol</string>
+    <string name="create_button_label">Hesab əldə edin</string>
+    <string name="not_now_button_label">İndi yox</string>
+    <string name="new_button_label">Yeni</string>
+    <string name="existing_button_label">Mövcud olan</string>
+    <string name="done">OK</string>
+    <string name="edit_text_help">Yazmağa başlamaq üçün istənilən mətn qutusuna basın</string>
+    <string name="add_a_google_account">Google Hesabı əlavə et</string>
+    <string name="captcha_title">CAPTCHA daxil etməlisiniz</string>
+    <string name="show_error_title">Xəta</string>
+    <string name="server_error">Google serverləri ilə əlaqə problemi yarandı.</string>
+    <string name="server_error_help">Daha sonra yenidən cəhd edin.</string>
+    <string name="network_unreliable">Server ilə güvənli əlaqə yaradıla bilmədi.</string>
+    <string name="network_unreliable_help">Bu müvəqqəti bir problem ola bilər və ya Android data xidmətləri üçün nəzərdə tutulmaya bilər. Bu davam edərsə, Müştəri Xidmətlərinə zəng edin.</string>
+    <string name="network_unreliable_help_wifi_only">Bu müvəqqəti bir problem ola bilər. Yenidən cəhd edin və ya digər Wi-Fi şəbəkəsinə qoşulun.</string>
+    <string name="invalid_login_character">Yanlış simvol. Yalnız 0-9, a-z, A-Z və periodlara icazə verilir.</string>
+    <string name="invalid_password_character">Yanlış parol simvolu.</string>
+    <string name="calendar">Google Təqvim</string>
+    <string name="talk">Google Söhbət</string>
+    <string name="email">Google Poçt</string>
+    <string name="field_cant_be_blank">Sahə boş ola bilməz</string>
+    <string name="plus_query_title">"Google+'a təkmilləşdirin"</string>
+    <string name="plus_query_text">Google+ veb üzərindən paylaşmanı real həyat paylaşması kimi edir.</string>
+    <string name="circles_subtitle">Daxilində olduğunuz material axını</string>
+    <string name="circles_text">Yaxın dostlar ilə əlaqə saxlayın və ümumi maraqları araşdırın.</string>
+    <string name="uploads_subtitle">Avtomatik şəkil backup-ı</string>
+    <string name="uploads_text">Pulsuz və konfidensial yaddaş ilə şəkilləri götürdüyünüz kimi yedəkləyin</string>
+    <string name="huddle_subtitle">Video zəng və mesaj</string>
+    <string name="huddle_text">Hangouts ilə mətn yazmaqdan, şəkillərdən və ödənişsiz qrup videodan həzz alın.</string>
+    <string name="plus_declined_button_label">İndi yox</string>
+    <string name="plus_accepted_button_label">Başla</string>
+    <string name="plus_name_check_title">Google+ ilə əlaqə yaradılır…</string>
+    <string name="plus_name_check_text">Bu, bir neçə dəqiqə vaxt ala bilər.</string>
+    <string name="plus_faq_title">Google+a xoş gəlmisiniz!</string>
+    <string name="plus_faq_text" formatted="false">"Google+da dostlarınızı onlayn tapmağa kömək etmək üçün ictimai profiliniz olacaq. E-poçt ünvanınızı bilən hər kəs profilinizi tapıb görüntüləyə bilər.
+
+Siz gördüklərinizi dünya üzrə tövsiyə etmək üçün vebdə +1 düymələrindən istifadə edə bilərsiniz. Sizin profiliz və +1 şərhləriniz ictimai olaraq axtarışda, elanlarda və vebdə görünəcək.
+
+İndilik, profiliniz yalnız adınızı göstərəcək (%s%s). Daha sonra Google+dan istifadəyə başlayanda foto, bio və digər detalları əlavə edə bilərsiniz."</string>
+    <string name="dasher_warning">%s administratoru Google+da olan bütün datanızın sahibidir və onları idarə edir və icazəniz olmadan istənilən vaxt profilinizi silə və ya dəyişə bilər.</string>
+    <string name="profile_info_title">Profiliniz</string>
+    <string name="profile_text">Profiliniz üçün bəzi təməl məlumatlar yazın. Daha sonra, Google+ istifadə etməyə başlayan zaman, fotoşəkil və digər detalları əlavə edə bilərsiniz.</string>
+    <string name="occupation">Fəaliyyət</string>
+    <string name="current_city">Cari şəhər</string>
+    <string name="picassa_info_title">Picasa və Google+</string>
+    <string name="picassa_info_text" formatted="false">"Picasa Web Albums üzərində fotolarınız Google+'da əlçatımlı olacaq və şərhləriniz %s əvəzinə %s %s adı ilə göstəriləcək. Google+ üzərindən fotolarınızı paylaşdığınız zaman alıcılar onları hər kəslə paylaşa biləcək. Albomlarınızın görünümlük ayarları dəyişməyəcək və onların azad şəkildə başqaları tərəfindən paylaşılmaması üçün onları məhdudlaşdıra bilərsiniz."</string>
+    <string name="name_title_plus">Google+ adınız</string>
+    <string name="name_title_local">Bu telefonun sahibi...</string>
+    <string name="name_text_local">Planşet bəzi tətbiqləri özəlləşdirmək üçün sizin adınızdan istifadə edir.</string>
+    <string name="name_progress_title">Bir saniyə...</string>
+    <string name="bad_name_title">Bu adı işlətmək istəyirsiniz?</string>
+    <string name="invalid_name_title">Bu adı işlədə bilməz</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Əgər bunu Google+ adı kimi istəyirsinizsə, gərək bizim komanda bunu nəzərdən keçirsin. Əgər bu bizim Adlar Siyasətimizə zidd olsa, Sizin profiliniz dayandırıla bilər. Bu, aktiv profil tələb edən Google məhsullarından istifadə imkanınızı məhdudlaşdıra bilər.
+
+"<annotation id="learn_more">Daha çox öyrənin</annotation></string>
+    <string name="invalid_name_text">Etibarsız simvollardan ibarət olduğu üçün bu ad Google+ ilə istifadə oluna bilməz.</string>
+    <string name="invalid_nickname_text">Yanlış simvollardan ibarət olduğuna görə bu adı Google+da istifadə edə bilməzsiniz. Nik, keçmiş ad və ya titul işlətməyə cəhd edirsiniz? Qoşulduqdan sonra onları profilinizə əlavə edə bilərsiniz.</string>
+    <string name="invalid_other_text">Bu ad Google+ ilə istifadə oluna bilməz.</string>
+    <string name="bad_name_agree_text">Mən başa düşürəm və bu adı istifadə etmək istəyirəm.</string>
+    <string name="bad_name_decline_button_label">Adı güncəlləşdirin</string>
+    <string name="bad_name_agree_button_label">Rəy üçün ad təqdim edin</string>
+    <string name="bad_name_skip_button_label">Google+u ötürün</string>
+    <string name="photo_title">Fotonuz</string>
+    <string name="photo_text">Bu foto kontakt qeydlərinizdə istifadə olunacaq. Siz onu daha sonra Adamlar tətbiqində dəyişə bilərsiniz.</string>
+    <string name="photo_text_es">Dostlarınızın Google+ üzərindən görəcəyi fotoşəkilləri çəkin. Yeni şəkli sonra seçə bilərsiniz.</string>
+    <string name="photo_button_label">Fotoşəkil çəkin</string>
+    <string name="retake_photo_button_label">Fotoşəkli geri al</string>
+    <string name="photo_failure">Kamera başladıla bilmədi.</string>
+    <string name="crop_failure">Fotonu kəsmək alınmadı</string>
+    <string name="photo_description">Fotonuz</string>
+    <string name="communicating_message">Məlumatları hesabınızda saxlamaq üçün telefonunuz Google ilə əlaqə yaradır. Bu 5 dəqiqə çəkə bilər.</string>
+    <string name="creating_account_title">Hesab yadda saxlanılır...</string>
+    <string name="checking_username_message">"Arzu etdiyiniz istifadəçi adının mövcudluğunu yoxlamaq üçün telefonunuz Google ilə əlaqə yaradır.
+
+Bu bir neçə dəqiqə çəkə bilər."</string>
+    <string name="plus_failure_title">"Google+'a sonra qoşulun"</string>
+    <string name="plus_failure_new_account_text">Google Hesabınız yaradıldı, lakin Google+a qoşulma sorğunuz alınmadı. İstənilən veb brauzerdə plus.google.com linki ilə yenidən cəhd edin.</string>
+    <string name="plus_failure_text">"Sizin Google+'a qoşulmaq sorğunuz alınmadı. plus.google.com saytında istənilən brauzerdən yenidən cəhd edin."</string>
+    <string name="provisioned_login_title">Parol daxil edin</string>
+    <string name="provisioned_welcome">Salam, %s!</string>
+    <string name="provisioned_welcome_2">"
+%s üçün parol daxil edin"</string>
+    <string name="provisioned_incorrect_login">%s deyil?</string>
+    <string name="login_title">E-poçt və Parol daxil edin</string>
+    <string name="login_task_title">Giriş edilir...</string>
+    <string name="password">Parol</string>
+    <string name="restore_wifi">Bərpa et və məlum Wi-Fi şəbəkəsinə qoşul.</string>
+    <string name="sign_in_agreement_multi_user">Giriş etməklə, Siz Google <annotation id="tos">Xidmət Şərtləri</annotation>, <annotation id="google_privacy">Məxfilik Siyasəti</annotation>, və <annotation id="play_tos">Google Play Xidmət Şərtləri</annotation>" ilə razılaşırsınız. 
+
+Unutmayın: İstənilən digər istifadəçi Sizin adınızdan güncəlləşdirilmiş tətbiq icazələrini qəbul edə bilər. Hər bir kompüterdən olduğu kimi, Siz bu planşeti yalnız inandığınız şəxslərlə paylaşmalısınız."</string>
+    <string name="sign_in_agreement_with_chrome">Giriş etməklə, Siz <annotation id="tos">Xidmət Şərtləri</annotation> və <annotation id="google_privacy">Məxfilik Siyasəti</annotation>, Chrome <annotation id="chrome_tos">Xidmət Şərtləri</annotation> və <annotation id="chrome_privacy">Məxfilik Qeydi</annotation> və Google Play <annotation id="play_tos">Xidmət Şərtləri</annotation> ilə razılaşırsınız.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Giriş etməklə, Siz Google <annotation id="tos">Xidmət Şərtləri</annotation> və <annotation id="google_privacy">Məxfilik Siyasəti</annotation>, Chrome <annotation id="chrome_tos">Xidmət Şərtləri</annotation> və <annotation id="chrome_privacy">Məxfilik Siyasəti</annotation>, və Google Play <annotation id="play_tos">Xidmət Şərtləri</annotation>" ilə razılaşırsınız. 
+
+Unutmayın: İstənilən digər istifadəçi Sizin adınızdan güncəlləşdirilmiş tətbiq icazələrini qəbul edə bilər. Hər bir kompüterdən olduğu kimi, Siz bu planşeti yalnız inandığınız şəxslərlə paylaşmalısınız."</string>
+    <string name="create_prompt">" Google hesabınız yoxdur? "<annotation id="create_account">Elə indi hesab yaradın</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Google Hesabınız ilə giriş edin:</string>
+    <string name="invalid_username">Daxil etdiyiniz mətn etibarlı istifadəçi adı deyil.</string>
+    <string name="captcha_instructions">Burada gördüyünüz mətni daxil edin:</string>
+    <string name="create_google_account">İstifadəçi adı seçin</string>
+    <string name="create_google_account_text">Google Hesabınız Google e-poçtu olan Gmail ilə gəlir. Gmail istənilən cihazda işləyir, spamları bloklayır və digər xüsusiyyətlərə malikdir.</string>
+    <string name="account_already_has_gmail">"Hesabın artıq Gmail'i var."</string>
+    <string name="error_account_disabled">"Bu hesab deaktiv edilib. 
+
+(Ətraflı məlumat üçün veb brazuer ilə https://google.com/accounts linkinə daxil edin.)"</string>
+    <string name="no_network">Şəbəkə bağlantınız yoxdur.</string>
+    <string name="no_network_help">Bu müvəqqəti bir problem ola bilər və ya Android cihazı data xidmətləri üçün nəzərdə tutulmaya bilər. Mobil şəbəkəyə qoşulan zaman yenidən cəhd edin və ya Wi-Fi şəbəkəsinə qoşulun.</string>
+    <string name="no_network_help_wifi_only">Bu müvəqqəti bir problem ola bilər. Yenidən cəhd edin və ya digər Wi-Fi şəbəkəsinə qoşulun.</string>
+    <string name="error_login_failed">"İstifadəçi adınız və parol uyğun gəlmir. Yenidən cəhd edin.
+
+Hesab məlumatınızı bərpa etmək üçün bura daxil olun: google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Bu hesab təsdiqlənməyib. E-poçtunuzu yoxlayın və hesabı təsdiq etmək üçün əlavə edilmiş linkə daxil olun.
+
+(Hesab məlumatınızı bərpa etmək üçün kompüterinizdən bura daxil olun: http://www.google.com/accounts/recovery)."</string>
+    <string name="exit_menu_item">Brauzer girişindən çıxın</string>
+    <string name="creating_profile">Profiliniz yaradılır...</string>
+    <string name="checking_account">Əlçatımlılıq yoxlanılır...</string>
+    <string name="is_not_available"><b>^1</b> istifadəçi adı əlçatımlı deyil.</string>
+    <string name="suggestions_hint">Təkliflər üçün toxunun</string>
+    <string name="suggest_username_next_button_label">İstifadəçi adını dəyişin</string>
+    <string name="hint_size">" "<b>^1</b> daxilində 6-dan az və ya 30-dan çox simvol var.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> daxilində hərf yoxdur.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" yalnız hərflərdən,
+ədədlər və periodlardan ibarət ola bilər."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> Gmail istifadə etmir.</string>
+    <string name="sign_in_browser">Brauzer girişi</string>
+    <string name="alternatives_list_title">Təklif edilən istifadəçi adları</string>
+    <string name="password_title">Parol yaradın</string>
+    <string name="choose_a_password">Parol</string>
+    <string name="confirm_password">Parolu yenidən yazın</string>
+    <string name="too_short">Çox qısa</string>
+    <string name="security_questions_title">Təhlükəsizlik sualları</string>
+    <string name="answer">" "<b>Cavab</b></string>
+    <string name="password_mismatch">Parollar uyğun gəlmədi. Yenidən cəhd edin.</string>
+    <string name="eight_chars_min">minimum 8 simvol</string>
+    <string name="verify_your_profile">Profilinizi doğrulayın</string>
+    <string name="error_not_logged_in">İstifadəçi giriş etməyib.</string>
+    <string name="error_username_unavailable">İstifadəçi adı mövcud deyil.</string>
+    <string name="error_bad_password">Parol çox zəifdir və ya etibarsız simvollardan ibarətdir. Yenidən cəhd edin.</string>
+    <string name="error_bad_username">Etibarsız istifadəçi adı:</string>
+    <string name="existing_account_error_title">Hesab artıq mövcuddur</string>
+    <string name="existing_account_error_text">Bu Android cihazında artıq ^1 hesabı var.</string>
+    <string name="submission_title">Üzr istəyirik...</string>
+    <string name="submission_error_text">Xəta baş verdi. Yenidən cəhd edin.</string>
+    <string name="sync_intro_title">Hesab Sinxronizasiyası</string>
+    <string name="account_tos_title">Hesabı bitirin</string>
+    <string name="account_tos_plus_title">"Google+'a qoşulmağı bitirin"</string>
+    <string name="i_accept">Qəbul edirəm</string>
+    <string name="i_decline">Hesab yaratma</string>
+    <string name="allow_personalized_content">"Qeyri Google veb səhifələrində kontent və elanları fərdiləşdirmək üçün Google'un məlumatlarınızı istifadə etməsinə icazə verin."</string>
+    <string name="enable_web_history">Veb tarixçəni yandırın</string>
+    <string name="learn_more"><annotation id="learn_more">Daha çox öyrənin</annotation></string>
+    <string name="account_creation_tos">Davam etməklə, Siz Google <annotation id="tos">Xidmət Şərtlərinə</annotation>, <annotation id="google_privacy">Məxfilik Siyasətinə</annotation> və <annotation id="play_tos">Google Play Xidmət Şərtlərinə</annotation> razılaşırsınız.</string>
+    <string name="account_creation_tos_with_chrome">Davam etməklə, Siz <annotation id="tos">Xidmət Şərtləri</annotation> və <annotation id="google_privacy">Məxfilik Siyasəti</annotation>, Chrome <annotation id="chrome_tos">Xidmət Şərtləri</annotation> və <annotation id="chrome_privacy">Məxfilik Qeydi</annotation> və Google Play <annotation id="play_tos">Xidmət Şərtləri</annotation> ilə razılaşırsınız.</string>
+    <string name="gender_prompt">Gender</string>
+    <string name="gender_hint">Gender</string>
+    <string name="account_pre_intro_title">Google varınızdır?</string>
+    <string name="account_pre_intro_default_message">"Google Hesabınız var?
+
+Gmail və ya Google Tətbiq istifadə edirsinizsə, Bəli cavabını seçin."</string>
+    <string name="account_pre_intro_yes">Bəli</string>
+    <string name="account_pre_intro_no">Xeyr</string>
+    <string name="account_intro_title">Google Hesabı</string>
+    <string name="account_intro_required_title">Google tərəfindən dəstəklənir</string>
+    <string name="account_intro_recommended_title">"Google'laşdır"</string>
+    <string name="account_intro_default_message">Məlumatlarınızı bir daha itirməyin. Google Hesabı hər şeyi təhlükəsiz saxlayır.</string>
+    <string name="account_intro_simple_message">Mövcud hesabı əlavə etmək və ya yeni birini yaratmaq istəyirsiniz?</string>
+    <string name="account_intro_learn_more">Daha çox öyrənin</string>
+    <string name="learn_more_title">Ətraflı öyrənin</string>
+    <string name="learn_more_account_intro">"Google Hesabı Sizə icazə verir:
+
+"<li><ul>Məlumatlarınızı istənilən yerdən görüntüləyin və nizamlayın.</ul></li>"
+
+"<li><ul>E-poçt, kontaklar, musiqi və şəkillərinizi avtomatik yedəkləyin.</ul></li>"
+
+"<li><ul>Kontaklar, Təqvim, Xəritələr və digərləri daxil olmaqla Google xidmətlərini istənilən yerdən asanlıqla idarə edin.</ul></li></string>
+    <string name="learn_more_account_intro_title">Google Hesabları haqqında</string>
+    <string name="learn_more_bad_name">Google+ ümumi adınızdan istifadə etməyinizi tələb edir. Sizin profiliniz biznes, təşkilat və ya ailə deyil, bir şəxsi təmsil etməlidir və peşəkar titullar və ya lazımsız punktuasiya olmadan bir dildə olan ad və soyadınızdan ibarət olmalıdır. Qeydiyyatdan sonra profilinizdə Digər Adlar bölməsində niklərinizi və ya əlaqədar adları yerləşdirə bilərsiniz.</string>
+    <string name="learn_more_bad_name_title">Adlar siyasəti haqqında</string>
+    <string name="wait_for_device_country_title">Hesab quraşdırma</string>
+    <string name="wait_for_device_country_msg">Telefonunuz haqqında məlumat toplanılır. Bu 30 saniyə çəkə bilər.</string>
+    <string name="recovery_title">Google parol bərpası</string>
+    <string name="recovery_wait_title">Google ilə əlaqə yaradılır…</string>
+    <string name="cannot_talk_to_server_msg">Cihaz Google ilə əlaqə yarada bilmədi.</string>
+    <string name="recovery_skip_label">Ötürün</string>
+    <string name="recovery_retry_label">Bir də cəhd edin</string>
+    <string name="recovery_message_set">"Parolunuzu unudtuğunuz zaman, onu bərpa etməyə yol axtarmayacaqsınız.
+
+Google parolunuzu SMS və ya alternativ e-poçt ünvanı vasitəsilə bərpa etmək seçimini təmin edir.
+
+Bu addım çox məsləhətlidir. "<annotation id="help_url">Daha çox öyrənin</annotation></string>
+    <string name="recovery_message_verify">"Parolları unutmaq asandır. 
+
+İndi telefon nömrənizi və ya yedek e-poçt ünvanınızı təsdiq edin. Bu Google və Google Play'də kontent girişini bərpa etməyə kömək edir. "<annotation id="help_url">Daha çox öyrənin</annotation></string>
+    <string name="recovery_yes_button_label">Bərpa seçimlərini ayarlayın</string>
+    <string name="recovery_yes_button_label_verify">Bərpa variantlarını təsdiq edin</string>
+    <string name="recovery_later_button_label">İndi yox</string>
+    <string name="recovery_input_screen_message">Bu bərpa məlumatı %s tətbiqinə aiddir..</string>
+    <string name="secondary_email_hint">Yedəkləmə e-poçtu</string>
+    <string name="secondary_email_invalid">Yanlış e-poçt ünvanı</string>
+    <string name="secondary_email_same_as_primary">Əsas e-poçt ilə eyni ola bilməz</string>
+    <string name="phone_number_hint">Telefon nömrəsi</string>
+    <string name="phone_number_invalid_character">Telefon nömrəsində yanlış simvollar</string>
+    <string name="phone_number_invalid">Yanlış telefon nömrəsi</string>
+    <string name="country_invalid">Bu ölkəyə icazə verilmir</string>
+    <string name="recovery_server_error">Server ilə danışıq xətası. Lütfən, bir müddət sonra yenidən cəhd edin.</string>
+    <string name="account_recovery_info">Əgər parolunuzu itirsəniz, təhlükəsizlik sualına cavab verə bilərsiniz və sıfırlama linki digər ünvana göndəriləcək.</string>
+    <string name="secondary_email_label">Bərpa e-poçt ünvanı</string>
+    <string name="invalid_email">"Yazdığınız e-poçt ünvanı etibarlı deyil. 
+ Misal üçün: joe@example.com"</string>
+    <string name="invalid_email_primary">Bərpa ünvanı yaratdığınız ünvan ilə eyni ola bilməz.</string>
+    <string name="backup_consent_message">"Tətbiqlərinizi, parametrlərinizi (əlfəcinlər və Wi-Fi parolları kimi) və digər datanı yedəkləmək üçün Google hesabınızı istifadə edin. Əgər əvvəllər hesabınızı yedəkləmisinizsə, Siz onu bu cihaza bərpa edə bilərsiniz.
+
+Yedəkləmə parametrlərinizi Parametrlər bölməsində istənilən zaman dəyişə bilərsiniz."</string>
+    <string name="backup_consent_message_no_restore">"Google hesabınızdan istifadə edərək tətbiqlərinizi, parametrlərinizi (əlfəcinlər və Wi-Fi parolları kimi) və digər məlumatlarınızı yedəkləyin.
+
+Siz yedəkləmə ayarlarınızı istənilən vaxt Ayarlar bölməsindən dəyişə bilərsiniz."</string>
+    <string name="restoring_title">Bərpa edilir...</string>
+    <string name="restoring_message">Telefonunuz hesabınızı bərpa etmək üçün Google ilə əlaqə yaradır. Bu bir müddət çəkə bilər.</string>
+    <string name="gls_notification_login_error">Hesabınıza giriş etmək üçün toxunun.</string>
+    <string name="gls_ui_add_account_title">Hesab quraşdırma</string>
+    <string name="gls_ui_activity_title">Giriş</string>
+    <string name="gls_ui_activity_title_browser_signin">Giriş</string>
+    <string name="gls_ui_activity_title_checking_in">Hazırlanır...</string>
+    <string name="gls_ui_activity_authenticating">Autentifikasiya edilir...</string>
+    <string name="gls_dmagent_activity_activate_message">" Sizin domeniniz mobil telefon idarəetməsi tələb edir. \"Google Apps Device Policy\" tətbiqini aktivləşdirərək,  "<b>^1</b> hesabı tərəfindən tələb olunan təhlükəsizlik siyasətlərini həyata keçirin.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Aktivləşdirin</string>
+    <string name="gls_dmagent_activity_download_message">" Sizin domeniniz mobil telefon idarəetməsi tələb edir. \"Google Apps Device Policy\" tətbiqini quraşdıraraq,  "<b>^1</b> hesabı tərəfindən tələb olunan təhlükəsizlik siyasətlərini həyata keçirin.</string>
+    <string name="gls_dmagent_activity_download_retry_button">Endir</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Yanlış parol daxil etmisiniz və ya hesabınız dəyişb. Parolunuzu yenidən daxil edin.</string>
+    <string name="permlab_googleAuthPassword">Google hesabları üçün parollara girin</string>
+    <string name="permdesc_googleAuthPassword">Tətbiqlərə təyin etdiyiniz Google hesabları parolları üçün birbaşa keçidə imkan verir.</string>
+    <string name="permlab_googleMailSwitch">Gmail və ya Google Mail brendini seçin</string>
+    <string name="permdesc_googleMailSwitch">Tətbiqlərə \"Gmail\" və \"Google Mail\" brendləri arasında görüntü adına keçid etməyə imkan verir.</string>
+    <string name="sync_item_title">%s sinxronizasiyası</string>
+    <string name="grant_credentials_permission_message_footer">Onlar icazə tələb edir:</string>
+    <string name="grant_credentials_permission_message_app">Bu tətbiqlər bundan sonra Sizin Google hesabınıza giriş əldə etmək istəyir:</string>
+    <string name="grant_permissions_header_text">İcazə sorğusu</string>
+    <string name="allow">Girişə icazə verin</string>
+    <string name="deny">Xeyr, təşəkkür edirəm</string>
+    <string name="permission_request_notification_with_subtitle">"
+ hesabı üçün%s icazə sorğusu göndərildi"</string>
+    <string name="notification_title">%1$s üçün giriş xətası</string>
+    <string name="account_setup_title">Google Hesab</string>
+    <string name="login_activity_title">Giriş</string>
+    <string name="relogin_activity_title">Parolu yenidən yazın</string>
+    <string name="show_error_activity_title">Daxil olmaq alınmadı</string>
+    <string name="login_activity_task_title">Giriş edilir...</string>
+    <string name="login_activity_task_msg">Bu, bir neçə dəqiqə vaxt ala bilər.</string>
+    <string name="prepare_account_setup_task_title">Hesab quraşdırılması hazırlanır...</string>
+    <string name="prepare_account_setup_task_msg">Bu, bir neçə dəqiqə vaxt ala bilər.</string>
+    <string name="sync_intro_activity_title">Hesabınızı sinxronlaşdırın</string>
+    <string name="username">E-poçt</string>
+    <string name="error_invalid_second_factor">Daimi hesab parolunuz əvəzinə xüsusi tətbiq parolu istifadə edin.</string>
+    <string name="error_needs_browser">Hesabınıza daxil olmaq üçün vebə daxil olun. Brauzerdən daxil olmaq üçün Növbəti seçiminə toxunun.</string>
+    <string name="google_play_opt_in">"Google Play'dən olan xəbər və təkliflər ilə məni məlumatlı edin."</string>
+    <string name="google_settings_header_title">Konfidensiallıq</string>
+    <string name="maps_settings_title">Xəritə və En dairəsi</string>
+    <string name="location_settings_title">Məkan</string>
+    <string name="search_settings_title">Axtar</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Reklamlar</string>
+    <string name="location_network_based">"Google'un məkan xidməti"</string>
+    <string name="location_neighborhood_level">"Anonim yerləşmə datasının Google'a göndərilməsinə icazə verin. Həmçinin, sizin təxmini yerləşmənizi müəyyən etmək üçün icazə verilən tətbiqlərə Wi-Fi və mobil şəbəkə datasından istifadəyə icazə verin."</string>
+    <string name="use_location_title">Məkan və Google axtarış</string>
+    <string name="use_location_summary">Google xidmətlərini inkişaf etdirmək üçün istifadə olunması üçün məkanınızı istifadə etməyə icazə verin</string>
+    <string name="backup_consent_yes_agree">Google hesabınızdan istifadə edərək tətbiqlərinizi, parametrlərinizi (əlfəcinlər və Wi-Fi parolları kimi) və digər məlumatlarınızı yedəkləyin.</string>
+    <string name="restore_consent_yes_agree">Tətbiqləri, ayarları və əvvəllər Google Hesabınıza yedəklədiyiniz digər datanı bu telefona gətirin.</string>
+    <string name="audit_logging_summary">"Məhsullarımızı təkmilləşdirməyə kömək etmək üçün və cihazınızı qorumaq üçün cihaz hadisələrini və diaqnostik məlumatları avtomatik Google'a göndərin."</string>
+    <string name="no_back_msg">Öncəki addıma qayıtmaq olmur.</string>
+    <string name="setup_wizard_title">Quraşdırma Sehrbazı</string>
+    <string name="setup_wizard_services_activity_title">Google xidmətləri</string>
+    <string name="setup_wizard_services_description">"Bu xidmətlər Google'un Sizin üçün işləməsinə yardım edir və onları istənilən vaxt aktiv və ya deaktiv edə bilərsiniz. Data Google'un "<annotation id="google_privacy">Məxfilik Siyasətinə</annotation> uyğun olaraq istifadə ediləcək.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Yedək və bərpa</string>
+    <string name="setup_wizard_services_location_heading">Məkan</string>
+    <string name="setup_wizard_services_communication_heading">Rabitə</string>
+    <string name="setup_wizard_services_backup"><b>Google Hesabınızdan istifadə edərək telefonunuzun proqramları, proqram məlumatı, şəxsi lüğətlər, parametrlər və Wi‑Fi parollarını</b> nüsxələyin və onları daha sonra asanlıqla bərpa edin. <annotation id="backup_details">Daha çox öyrən</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b> Google Hesabınızdan istifadə edərək proqramları, proqram məlumatı, şəxsi lüğətlər, parametrlər və Wi‑Fi parollarını</b> nüsxələyin və onları daha sonra asanlıqla bərpa edin.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Data tətbiqləri, tətbiq ayarlarını, sistem ayarlarını və Wi-Fi şifrələrini içərir.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Avtomatik yedəkləməni aktiv etdiyiniz halda, cihazınızın datası müntəzəm olaraq Google Hesabınızda saxlanır. Bunlar yedəklənə bilər: tətbiq data qovluqları, tərcihlər, ayarlar, mesajlar, fotolar və sair.</string>
+    <string name="setup_wizard_services_location_sharing"><b>"Google'un məkan xidmətini istifadə edin"</b>" ki, tətbiqlərə məkanı müəyyən etmək mümkün olsun. Bu o deməkdir ki, hətta tətbiqlər işləməyən zamanda Google'a məkan haqqında anonim məlumat göndəriləcək. "<annotation id="location_details">Ətraflı məlumat</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">"Google'un məkan xidməti cihazın yerini daha tez və dəqiq müəyyən etmək üçün Wi‑Fi və mobil şəbəkə kimi mənbələrdən istifadə edir. Google'un məkan xidmətlərini aktiv etdiyiniz zaman cihazınız yerləşdiyi yer haqqında məlumatı vermək üçün Wi‑Fi və mobil şəbəkə istifadə edən rejimə keçir. Bu rejimi məkan ayarlarında deaktiv edə bilərsiniz ki, məkan haqqında məlumat yalnız GPS vasitəsilə (buna Yalnız-Cihaz rejimi də deyilir) ötürülsün."</string>
+    <string name="setup_wizard_services_location_wifi_scan">Hətta Wi‑Fi deaktiv olan zaman tətbiqlərə və xidmətlərə Wi‑Fi şəbəkəsini axtarmağa icazə verməklə, <b>məkan xidmətlərinin</b> inkişaf etməsinə yardımçı olun.</string>
+    <string name="setup_wizard_services_location_footnote">Google məkan xidməti GPS-dən daha az enerji istifadəsi ilə məkanın daha dəqiq və sürətli müəyyən edilməsi üçün Wi-Fi və digər siqnallardan istifadə edir. Bəzi məlumatlar cihazınızda saxlanıla bilər. Heç bir tətbiq işləmədiyi zamanlarda belə data toplanıla bilər.</string>
+    <string name="setup_wizard_services_play">Google Play xəbərləri və təklifləri haqqında <b>məni güncəl saxla</b>.</string>
+    <string name="setup_wizard_services_usage_reporting">"Google'a diaqnostika və istifadə datasını avtomatik göndərməklə, "<b>Android təcrübənizi inkişaf etdirməyə yardım edin</b>. Bu məlumat kimliyinizin müəyyən edilməsi üçün istifadə edilməyəcək və enerji sərfiyyatı, tətbiq performansı, və yeni Google özəllikləri kimi texniki göstəricilər üzərində işləyən komandaya, gələcəkdə daha keyfiyyətli nəticələr əldə etmək üçün təqdim ediləcək. <annotation id="usage_reporting_details">Learn more</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Bu, cihazınız haqqında ümumi məlumatdır ki, bu məlumata batareya səviyyəsi, tətbiqlərdən istifadə tezliyi, şəbəkə bağlantılarının keyfiyyəti və müddəti, və işləməli olan halda, işləməyən tətbiqlərə dair qəza raportları kimi göstəricilər daxildir. Bu məlumat Google'un məhsullarının və xidmətlərinin inkişaf etdirilməsi üçün istifadə ediləcək və Google Hesabınızla əlaqəli olmayacaq. Bəzi ümumi məlumatlar Android developerləri kimi əməkdaşlara tətbiqlərin hazırlanması və keyfiyyətin artırılması üçün yardımçı ola bilər. 
+
+Bu funksiyanı Google Ayarları tətbiqində istənilən zaman aktiv və ya deaktiv edə bilərsiniz. Bu funksiyanın deaktiv edilməsi cihazınıza lazım olan zaman sistem güncəlləşmələri və güvənlik kimi xidmətlərin qəbul edilməsinə və bunun üçün gərəkli məlumatların göndərilməsinə heç bir təsir etməyəcək."</string>
+    <string name="setup_wizard_services_agreement">Bu telefon həmçinin Google, operator və cihaz istehsalçısından güncəlləşmələr və tətbiqlər qəbul edə və quraşdıra bilər. Davam etdiyiniz halda bəzi tətbiqlər endirilə və quraşdırıla bilər, sonra Siz onları silə bilərsiniz.</string>
+</resources>

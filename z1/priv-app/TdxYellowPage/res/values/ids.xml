@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="auto_focus" />
+    <item type="id" name="decode" />
+    <item type="id" name="decode_failed" />
+    <item type="id" name="decode_succeeded" />
+    <item type="id" name="encode_failed" />
+    <item type="id" name="encode_succeeded" />
+    <item type="id" name="launch_product_query" />
+    <item type="id" name="quit" />
+    <item type="id" name="restart_preview" />
+    <item type="id" name="return_scan_result" />
+    <item type="id" name="search_book_contents_failed" />
+    <item type="id" name="search_book_contents_succeeded" />
+    <item type="id" name="express_inquiry_titlebar">false</item>
+    <item type="id" name="et_input_at_activity_express_inquiry">false</item>
+    <item type="id" name="v_scan_at_activity_express_inquiry">false</item>
+    <item type="id" name="tv_query_at_activity_express_inquiry">false</item>
+    <item type="id" name="v_titlebar_at_activity_main">false</item>
+    <item type="id" name="loading">false</item>
+    <item type="id" name="loading_views">false</item>
+    <item type="id" name="yp_layout_container">false</item>
+    <item type="id" name="nearby_title">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="webview_titlebar">false</item>
+    <item type="id" name="webview_webview">false</item>
+    <item type="id" name="webview_loadbar">false</item>
+    <item type="id" name="dialog_title">false</item>
+    <item type="id" name="dialog_prompt">false</item>
+    <item type="id" name="dialog_ok_btn">false</item>
+    <item type="id" name="dialog_cancel_btn">false</item>
+    <item type="id" name="preview_view">false</item>
+    <item type="id" name="code_view">false</item>
+    <item type="id" name="viewfinder_view">false</item>
+    <item type="id" name="txtResult">false</item>
+    <item type="id" name="yellowpage_category_item_ll">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="yellowpage_category_item_name_tv">false</item>
+    <item type="id" name="yellowpage_category_item_children_gridview">false</item>
+    <item type="id" name="ll_left_at_titlebar">false</item>
+    <item type="id" name="iv_left_at_titlebar">false</item>
+    <item type="id" name="ll_right_at_titlebar">false</item>
+    <item type="id" name="tv_right_at_titlebar">false</item>
+    <item type="id" name="tv_title_at_titlebar">false</item>
+    <item type="id" name="layout_collect_item">false</item>
+    <item type="id" name="iv_collect_icon">false</item>
+    <item type="id" name="layout_collect_text">false</item>
+    <item type="id" name="iv_collect_arrow">false</item>
+    <item type="id" name="tv_collect_title">false</item>
+    <item type="id" name="account_collect_title">false</item>
+    <item type="id" name="no_content">false</item>
+    <item type="id" name="lv_account_collect">false</item>
+    <item type="id" name="yp_banner_pager">false</item>
+    <item type="id" name="yp_banner_indicator">false</item>
+    <item type="id" name="navigation_title_layout_id">false</item>
+    <item type="id" name="bottom_name">false</item>
+    <item type="id" name="bottom_icon">false</item>
+    <item type="id" name="iv_bottom_divider">false</item>
+    <item type="id" name="title_icon">false</item>
+    <item type="id" name="title_name">false</item>
+    <item type="id" name="title_promote">false</item>
+    <item type="id" name="layout_category_item">false</item>
+    <item type="id" name="iv_category_icon">false</item>
+    <item type="id" name="tv_category_title">false</item>
+    <item type="id" name="tv_category_sub">false</item>
+    <item type="id" name="layout_category_text">false</item>
+    <item type="id" name="iv_category_arrow">false</item>
+    <item type="id" name="category_list_title">false</item>
+    <item type="id" name="tv_category_loading">false</item>
+    <item type="id" name="category_list_view">false</item>
+    <item type="id" name="history_container">false</item>
+    <item type="id" name="layout_service_item">false</item>
+    <item type="id" name="iv_service_icon">false</item>
+    <item type="id" name="tv_service_title">false</item>
+    <item type="id" name="pesonal_account_title">false</item>
+    <item type="id" name="layout_history_item">false</item>
+    <item type="id" name="iv_history_arrow">false</item>
+    <item type="id" name="service_child_grid_item">false</item>
+    <item type="id" name="yp_card_title_layout">false</item>
+    <item type="id" name="iv_title_divider">false</item>
+    <item type="id" name="yp_service_grid">false</item>
+    <item type="id" name="yp_category_grid">false</item>
+    <item type="id" name="yp_card_bottom_layout">false</item>
+    <item type="id" name="tv_search">false</item>
+</resources>

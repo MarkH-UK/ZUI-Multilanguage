@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SwitchPreference android:persistent="true" android:title="@string/wifi_advance_display" android:key="wifi_display_on_preference" />
+    <PreferenceCategory android:state_expanded="true" android:key="wifi_display_switch_info_category" android:summary="@string/wifi_display_switch_info" />
+</PreferenceScreen>

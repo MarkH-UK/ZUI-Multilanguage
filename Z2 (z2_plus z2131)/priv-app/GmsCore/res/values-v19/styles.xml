@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="udc.Theme.Consent" parent="@style/udc.Theme.Base.Consent">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+    <style name="TpPinPad">
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    <style name="ClickableButton">
+        <item name="android:background">?selectableItemBackground</item>
+    </style>
+    <style name="TpActionButton">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">@color/tp_action</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="TpAndroidPayFailureLogoImage" parent="@style/TpTapActivityToBeFadedIn">
+        <item name="android:src">@drawable/tp_instore_bad</item>
+    </style>
+    <style name="TpAndroidPayLogoImage" parent="@style/TpTapActivityToBeFadedIn">
+        <item name="android:src">@drawable/tp_tap_android_pay_color_80dp</item>
+    </style>
+    <style name="TpBody">
+        <item name="android:textAppearance">@style/Tp_Text_Body</item>
+        <item name="android:textColor">@color/tp_medium_gray</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TpBody.Error" parent="@style/TpBody">
+        <item name="android:textColor">@color/tp_bad</item>
+    </style>
+    <style name="TpButton">
+        <item name="android:textSize">@dimen/tp_button_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/tp_dark_gray</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="TpCheckmarkImage" parent="@style/TpTapActivityToBeFadedIn">
+        <item name="android:src">@drawable/tp_tap_checkmark_color_80dp</item>
+    </style>
+    <style name="TpDialog">
+        <item name="uicDialogBodyStartEndMargin">24.0dip</item>
+        <item name="uicDialogBodyTopBottomMargin">24.0dip</item>
+    </style>
+    <style name="TpDividerHorizontal">
+        <item name="android:background">?android:colorForeground</item>
+        <item name="android:alpha">0.12</item>
+    </style>
+    <style name="TpFlatButton" parent="@style/TextAppearance.AppCompat.Button">
+        <item name="android:textColor">?colorAccent</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:minWidth">@dimen/tp_minimum_tappable_item_size</item>
+        <item name="android:minHeight">@dimen/tp_minimum_tappable_item_size</item>
+        <item name="android:paddingStart">@dimen/tp_default_spacing</item>
+        <item name="android:paddingEnd">@dimen/tp_default_spacing</item>
+    </style>
+    <style name="TpFlatNegativeButton" parent="@style/TpFlatButton">
+        <item name="android:textColor">@color/tp_light_gray</item>
+    </style>
+    <style name="TpLightText">
+        <item name="android:fontFamily">@string/tp_font_fontFamily_light</item>
+    </style>
+    <style name="TpNotificationSettingDescription">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/tp_quantum_black_secondary_text</item>
+    </style>
+    <style name="TpNotificationSettingLabel">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/tp_quantum_black_text</item>
+    </style>
+    <style name="TpPinButton" parent="@style/TpLightText">
+        <item name="android:textSize">36.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">@drawable/tp_roundlightripple</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">72.0dip</item>
+    </style>
+    <style name="TpPinField" parent="@style/TpLightText">
+        <item name="android:textSize">48.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:layout_width">48.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">0.0dip</item>
+        <item name="android:layout_marginBottom">0.0dip</item>
+        <item name="android:ems">10</item>
+        <item name="android:inputType">numberPassword</item>
+    </style>
+    <style name="TpPinTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">#ff28363b</item>
+    </style>
+    <style name="TpPromptSetup" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/tp_setup_cyan_background</item>
+        <item name="android:buttonBarStyle">@style/TpPromptSetupButtonBar</item>
+        <item name="android:buttonBarButtonStyle">@style/TpPromptSetupButton</item>
+        <item name="colorPrimaryDark">@color/tp_setup_primary_dark</item>
+    </style>
+    <style name="TpPromptSetupButton" parent="@style/TpButton">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/tp_bounded_rippleable</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TpPromptSetupButtonBar">
+        <item name="android:background">@color/tp_setup_cyan_dark_background</item>
+        <item name="android:paddingLeft">@dimen/tp_prompt_setup_button_horizontal_margin</item>
+        <item name="android:paddingTop">@dimen/tp_prompt_setup_button_vertical_margin</item>
+        <item name="android:paddingRight">@dimen/tp_prompt_setup_button_horizontal_margin</item>
+        <item name="android:paddingBottom">@dimen/tp_prompt_setup_button_vertical_margin</item>
+    </style>
+    <style name="TpPromptSetupTextBody" parent="@style/Tp_Text_Body">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="TpPromptSetupTextHeadline" parent="@style/Tp_Text_Title">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="TpSecurityInfoBody">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:paddingLeft">48.0dip</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingRight">48.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TpSecurityInfoHeader" parent="@style/tp_quantum_text_black_dark">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">48.0dip</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">48.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TpSettingsErrorItemSubLabelText">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">@color/tp_bad</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="TpSettingsItemClickableView">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:minHeight">?android:listPreferredItemHeight</item>
+    </style>
+    <style name="TpSettingsItemLabelText">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+    <style name="TpSettingsItemSubLabelText">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="TpSettingsLeftIconAndLabel" parent="@style/TpSettingsItemClickableView">
+        <item name="android:paddingStart">@dimen/common_setting_item_padding_side</item>
+    </style>
+    <style name="TpSettingsRightIcon" parent="@style/TpSettingsItemClickableView">
+        <item name="android:paddingEnd">?android:scrollbarSize</item>
+    </style>
+    <style name="TpSettingsSelectedItemSubLabelText">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">?colorAccent</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="TpTapActivityToBeFadedIn">
+        <item name="android:visibility">invisible</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:alpha">0.0</item>
+        <item name="android:scaleX">0.95</item>
+        <item name="android:scaleY">0.95</item>
+    </style>
+    <style name="TpTile" parent="@style/TpTileBase" />
+    <style name="TpTileAction" parent="@style/TpTile">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/tp_action</item>
+        <item name="android:minHeight">@dimen/tp_minimum_tappable_item_size</item>
+    </style>
+    <style name="TpTileBase">
+        <item name="android:background">@color/tp_inverted</item>
+        <item name="android:padding">@dimen/tp_padding_touchable</item>
+    </style>
+    <style name="TpUseFirstCardDialogTextBody" parent="@style/Tp_Text_Body">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="TpUseFirstCardDialogTextTitle" parent="@style/Tp_Text_Title">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="TpWarmWelcomeButton" parent="@style/TpButton">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:paddingLeft">48.0dip</item>
+        <item name="android:paddingTop">24.0dip</item>
+        <item name="android:paddingRight">48.0dip</item>
+        <item name="android:paddingBottom">24.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="TpWarmWelcomeText">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">48.0dip</item>
+        <item name="android:paddingRight">48.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TpWarmWelcomeTextBottom" parent="@style/TpWarmWelcomeText">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/tp_material_white_87</item>
+        <item name="android:textColorLink">@color/tp_material_white_87</item>
+    </style>
+    <style name="TpWarmWelcomeTextTop" parent="@style/TpWarmWelcomeText">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="TpYellowPathButton" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:background">@drawable/tp_bounded_rippleable</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TpYpSubmitButton" parent="@style/TextAppearance.AppCompat.Button">
+        <item name="android:textColor">?colorAccent</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:minHeight">0.0dip</item>
+    </style>
+    <style name="Tp_Text_Body">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:lineSpacingExtra">4.0dip</item>
+    </style>
+    <style name="Tp_Text_Body2">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Tp_Text_Button">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="Tp_Text_Display1">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Tp_Text_Display2">
+        <item name="android:textSize">32.0sp</item>
+    </style>
+    <style name="Tp_Text_Display3">
+        <item name="android:textSize">40.0sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Tp_Text_Display4">
+        <item name="android:textSize">50.0sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Tp_Text_Display5">
+        <item name="android:textSize">60.0sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Tp_Text_Headline">
+        <item name="android:textSize">18.0sp</item>
+    </style>
+    <style name="Tp_Text_Menu">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Tp_Text_Subhead">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:lineSpacingExtra">4.0dip</item>
+    </style>
+    <style name="Tp_Text_Subhead2">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:lineSpacingExtra">4.0dip</item>
+    </style>
+    <style name="Tp_Text_Subhead3">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:lineSpacingExtra">4.0dip</item>
+    </style>
+    <style name="Tp_Text_Subtext">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:lineSpacingExtra">4.0dip</item>
+    </style>
+    <style name="Tp_Text_Title">
+        <item name="android:textSize">20.0sp</item>
+    </style>
+    <style name="tp_quantum_text_black_dark">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/tp_quantum_black_text</item>
+    </style>
+    <style name="tp_quantum_text_black_medium">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/tp_quantum_black_secondary_text</item>
+    </style>
+    <style name="tp_quantum_text_body_1_black" parent="@style/tp_quantum_text_black_dark">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="tp_quantum_text_caption_black" parent="@style/tp_quantum_text_black_medium">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="tp_quantum_text_caption_hint_tile" parent="@style/TpTile">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/tp_quantum_black_hint_text</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="tp_quantum_text_headline_black" parent="@style/tp_quantum_text_black_dark">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="tp_quantum_text_subhead_black" parent="@style/tp_quantum_text_black_dark">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="tp_quantum_text_title_black" parent="@style/tp_quantum_text_black_dark">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="tp_text_caption_dark_black" parent="@style/tp_quantum_text_black_dark">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+</resources>

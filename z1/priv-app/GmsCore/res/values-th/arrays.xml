@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>บาร์</item>
+        <item>ร้านกาแฟ</item>
+        <item>ปั๊มน้ำมัน</item>
+        <item>โรงภาพยนตร์</item>
+        <item>ที่พัก</item>
+        <item>ไนท์คลับ</item>
+        <item>พิพิธภัณฑ์</item>
+        <item>ร้านอาหาร</item>
+        <item>ศูนย์การค้า</item>
+        <item>ร้านค้า</item>
+        <item>ร้านขายของชำหรือซูเปอร์มาร์เก็ต</item>
+        <item>อื่นๆ</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>แย่</item>
+        <item>พอใช้</item>
+        <item>ดี</item>
+        <item>รัดกุม</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>บลูทูธ</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>มาตรฐาน</item>
+        <item>นักพัฒนาซอฟต์แวร์</item>
+        <item>ค้าปลีก</item>
+        <item>สาธิต</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>โทรศัพท์และรถยนต์ใช้ซอฟต์แวร์เวอร์ชันที่ทำงานร่วมกันไม่ได้ โปรดดูรายละเอียดที่ &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>รถยนต์รายงานว่าชุดการกำหนดค่าเสียงและ/หรือวิดีโอไม่ถูกต้อง</item>
+        <item>"การเชื่อมต่อ USB ทำงานไม่ถูกต้อง โปรดตรวจสอบสิ่งต่อไปนี้ 
+
+• ตรวจสอบว่าต่อสายไฟดีแล้วทั้ง 2 ด้าน 
+• ตรวจสอบว่าคุณมีสายส่งข้อมูล USB 
+• ตรวจสอบว่าได้ตั้งเวลาและวันที่บนรถยนต์และโทรศัพท์ไว้อย่างถูกต้องแล้ว"</item>
+        <item>รถหยุดใช้งาน Android Auto</item>
+        <item>หยุดเซสชัน Android Auto ตามคำขอแล้ว</item>
+        <item>ซอฟต์แวร์ของรถอาจล้าสมัย โปรดติดต่อผู้ผลิตสำหรับรายละเอียดและการสนับสนุน</item>
+        <item>ซอฟต์แวร์ของรถไม่ผ่านการตรวจสอบความปลอดภัยของ Android Auto โปรดติดต่อผู้ผลิตสำหรับรายละเอียดและการสนับสนุน</item>
+        <item>ซอฟต์แวร์ของรถไม่ผ่านการตรวจสอบความปลอดภัยของ Android Auto โปรดตรวจสอบว่าได้ตั้งเวลาและวันที่ของรถไว้ถูกต้องแล้ว โปรดติดต่อผู้ผลิตสำหรับรายละเอียดและการสนับสนุน</item>
+        <item>หมดเวลาดำเนินการ คุณควรทำรายงานข้อบกพร่องและส่งความคิดเห็น</item>
+        <item>ดูเหมือนว่าคุณจะยังไม่ได้ติดตั้ง Launcher คุณตั้งค่าโทรศัพท์ถูกต้องแล้วใช่ไหม</item>
+        <item>กราฟิกไปป์ไลน์เพิ่งหยุดทำงานไป คุณควรทำรายงานข้อบกพร่องและส่งความคิดเห็น</item>
+        <item>รถยนต์ไม่ตอบสนองต่อข้อความจากโทรศัพท์ ซึ่งแสดงว่าอาจอยู่ในสถานะไม่ปกติ</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>สนามบิน</item>
+        <item>ATM</item>
+        <item>ธนาคาร</item>
+        <item>บาร์</item>
+        <item>ป้ายรถเมล์</item>
+        <item>ร้านกาแฟ</item>
+        <item>สถานที่กางเต็นท์พักแรม</item>
+        <item>สุสาน</item>
+        <item>โบสถ์</item>
+        <item>สถานที่ราชการส่วนท้องถิ่น</item>
+        <item>สถานประกอบการ</item>
+        <item>ปั๊มน้ำมัน</item>
+        <item>ร้านขายของชำหรือซูเปอร์มาร์เก็ต</item>
+        <item>โบสถ์ของศาสนาฮินดู</item>
+        <item>โรงพยาบาล</item>
+        <item>ห้องสมุด</item>
+        <item>ที่พัก</item>
+        <item>สุเหร่า</item>
+        <item>โรงภาพยนตร์</item>
+        <item>พิพิธภัณฑ์</item>
+        <item>สวนสาธารณะ</item>
+        <item>ที่จอดรถ</item>
+        <item>สถานที่ประกอบพิธีกรรมทางศาสนา</item>
+        <item>สถานีตำรวจ</item>
+        <item>ที่ทำการไปรษณีย์</item>
+        <item>ร้านอาหาร</item>
+        <item>โรงเรียน</item>
+        <item>ร้านค้า</item>
+        <item>สถานีรถไฟใต้ดิน</item>
+        <item>โบสถ์ของศาสนายิว</item>
+        <item>สถานีรถไฟ</item>
+        <item>สถานีขนส่ง</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>มกราคม</item>
+        <item>กุมภาพันธ์</item>
+        <item>มีนาคม</item>
+        <item>เมษายน</item>
+        <item>พฤษภาคม</item>
+        <item>มิถุนายน</item>
+        <item>กรกฎาคม</item>
+        <item>สิงหาคม</item>
+        <item>กันยายน</item>
+        <item>ตุลาคม</item>
+        <item>พฤศจิกายน</item>
+        <item>ธันวาคม</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>หยุดการแชร์</item>
+        <item>15 นาที</item>
+        <item>30 นาที</item>
+        <item>1 ชั่วโมง</item>
+        <item>ไม่จำกัด</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>หยุดการแชร์</item>
+        <item>15 นาที</item>
+        <item>30 นาที</item>
+        <item>1 ชั่วโมง</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>เลือกคำถามเพื่อความปลอดภัย</item>
+        <item>หมายเลขโทรศัพท์หมายเลขแรกคือ</item>
+        <item>ชื่อของเพื่อนรักในวัยเด็ก</item>
+        <item>ชื่อของครูคนแรก</item>
+        <item>ชื่อของผู้จัดการในงานแรก</item>
+        <item>เลขทะเบียนรถยนต์</item>
+    </string-array>
+</resources>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play සේවා දෝෂය</string>
+    <string name="common_google_play_services_notification_needs_installation_title">යෙදුමකට Google Play සේවා ස්ථාපනයක් අවශ්‍යය.</string>
+    <string name="common_google_play_services_notification_needs_update_title">යෙදුමකට Google Play සේවාවන් සඳහා යාවත්කාලීනයක් අවශ්‍යය.</string>
+    <string name="common_android_wear_notification_needs_update_text">Android Wear යෙදුම යාවත්කාලීන කිරීමට යෙදුමක් අවශ්‍යය.</string>
+    <string name="common_google_play_services_needs_enabling_title">යෙදුමකට Google Play සේවාවන් සබලව තිබීම අවශ්‍යය.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s විසින් ඉල්ලා ඇත</string>
+    <string name="common_google_play_services_install_title">Google Play සේවාවන් ලබා ගන්න</string>
+    <string name="common_google_play_services_install_text_phone">ඔබගේ දුරකථනයෙන් අස්ථානගත වී ඇති Google Play සේවාවන් රහිතව මෙම යෙදුම ධාවනය නොවනු ඇත.</string>
+    <string name="common_google_play_services_install_text_tablet">ඔබගේ ටැබ්ලටයෙන් අස්ථානගත වී ඇති Google Play සේවාවන් රහිතව මෙම යෙදුම ධාවනය නොවේ.</string>
+    <string name="common_google_play_services_install_button">Google Play සේවාවන් ලබා ගන්න</string>
+    <string name="common_google_play_services_enable_title">Google Play සේවාවන් සබල කරන්න</string>
+    <string name="common_google_play_services_enable_text">ඔබ Google Play සේවාවන් සබල කරන්නේ නම් මිස මෙම යෙදුම වැඩ නොකරනු ඇත.</string>
+    <string name="common_google_play_services_enable_button">Google Play සේවාවන් සබල කරන්න</string>
+    <string name="common_google_play_services_update_title">Google Play සේවාවන් යාවත්කාලීන කරන්න</string>
+    <string name="common_android_wear_update_title">Android Wear යාවත්කාලීන කරන්න</string>
+    <string name="common_google_play_services_update_text">ඔබ Google Play සේවා යාවත්කාලීන කරන්නේ නම් මිස මෙම යෙදුම ධාවනය නොවේ.</string>
+    <string name="common_android_wear_update_text">Android Wear යෙදුම ඔබ යාවත්කාලීන කළේ නැති නම් මෙම යෙදුම ධාවනය කළ නොහැක.</string>
+    <string name="common_google_play_services_network_error_title">ජාල දෝෂය</string>
+    <string name="common_google_play_services_network_error_text">Google Play සේවාවන් වෙත සබැඳීමට දත්ත සබැඳුමක් අවශ්‍යය.</string>
+    <string name="common_google_play_services_invalid_account_title">වලංගු නොවන ගිණුම</string>
+    <string name="common_google_play_services_invalid_account_text">නියම කර දැක්වූ ගිණුම මෙම උපාංගය මත නොපවතී. කරුණාකර වෙනත් ගිණුමක් තෝරන්න.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play සේවාවන් සමග නොදන්නා ගැටලුවක්.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play සේවා</string>
+    <string name="common_google_play_services_unsupported_text">ඔබගේ සමහර යෙදුම් විශ්වාසය තබන, Google Play සේවාවන්ට, ඔබගේ උපාංගය සහාය නොදක්වයි. කරුණාකර සහාය සඳහා නිෂ්පාදකයා අමතන්න.</string>
+    <string name="common_google_play_services_update_button">යාවත්කාලීන කරන්න</string>
+    <string name="common_signin_button_text">පිවිසෙන්න</string>
+    <string name="common_signin_button_text_long">Google සමගින් පුරනය වන්න</string>
+    <string name="common_open_on_phone">දුරකථනය තුළ විවෘත කරන්න</string>
+    <string name="setup_wizard_next_button_label">මීළඟ</string>
+    <string name="setup_wizard_back_button_label">ආපසු</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">මඟ හරින්න</string>
+    <string name="down_button_label">තව</string>
+    <string name="cancel_button_label">අවලංගු කරන්න</string>
+    <string name="try_again_button_label">නැවත උත්සාහ කරන්න</string>
+    <string name="close_button_label">වසන්න</string>
+    <string name="url_load_unsuccessful_message">ඔබගේ Android උපාංගය දත්ත සේවාවට සම්බන්ධ වී නැත. මෙම තොරතුරු දැන් බැලීමට, වෙබ් බ්‍රව්සරයෙන් %s වෙත යන්න.</string>
+    <string name="sign_in_agreement">පුරනය වීම මගින්, ඔබ <annotation id="tos">Google</annotation> සහ <annotation id="google_privacy">පෞද්ගලිකත්ව ප්‍රතිපත්ති වලට</annotation>, සහ <annotation id="play_tos">Google Play සේවා නියමයන්</annotation> වලට එකඟ වේ.</string>
+    <string name="android_privacy_policy_title">අමතර පෞද්ගලික ප්‍රතිපත්තිය</string>
+    <string name="google_terms_of_service_title">Google සේවා කොන්දේසි</string>
+    <string name="google_privacy_policy_title">Google පෞද්ගලිකත්ව ප්‍රතිපත්තිය</string>
+    <string name="google_plus_privacy_policy_title">Google Plus පෞද්ගලිකත්ව ප්‍රතිපත්තිය</string>
+    <string name="google_play_tos_title">Google Play සේවා කොන්දේසි</string>
+    <string name="chrome_tos_title">Chrome සේවා කොන්දේසි</string>
+    <string name="chrome_privacy_title">Chrome පෞද්ගලිකත්ව නිවේදනය</string>
+    <string name="url_load_unsuccessful_message_wifi_only">ඔබගේ Android උපාංගය Wi-Fi ජාලයක් වෙත සම්බන්ධ වී නැත. මෙම තොරතුරු දැන් බැලීමට, වෙබ් බ්‍රවුසරයෙන් %s වෙත යන්න.</string>
+    <string name="services_activity_title">Google සේවාවන්</string>
+    <string name="services_backup_heading">උපස්ථය</string>
+    <string name="services_location_heading">ස්ථානය</string>
+    <string name="services_security_heading">ආරක්ෂාව</string>
+    <string name="services_personalization_heading">පෞද්ගලීකරණය</string>
+    <string name="services_communication_heading">සන්නිවේදනය</string>
+    <string name="security_verify_apps_summary">ඔබගේ උපාංගයේ හෝ දත්තවල ආරක්ෂාවට බල පෑ හැකි විභවතාවයක් ඇති හානිකර හැසිරීමක් සඳහා Google හට සියලු ස්ථාපනය කළ යෙදුම් පරීක්ෂා කිරීමට ඉඩ හරින්න.</string>
+    <string name="name_title">ඔබගේ නම</string>
+    <string name="name_text">ඔබේ නම ඔබේ දුරකථනය සහ Google සේවාවන් පෞද්ගලීකරණය කිරීමට යොදා ගනී.</string>
+    <string name="first_name">පළමු</string>
+    <string name="last_name">අවසාන</string>
+    <string name="cant_be_blank">ක්ෂේත්‍රය හිස්විය නොහැක.</string>
+    <string name="sharedUserLabel">Google සේවාවන්</string>
+    <string name="app_label">Google ගිණුම් කළමනාකරු</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">පුරනය වීම</string>
+    <string name="create_button_label">ගිණුමක් ලබාගන්න</string>
+    <string name="not_now_button_label">දැන් නොවේ</string>
+    <string name="new_button_label">නව</string>
+    <string name="existing_button_label">පවතින</string>
+    <string name="done">හරි</string>
+    <string name="edit_text_help">ටයිප් කිරීම ඇරඹීමට ඕනෑම පෙළ කොටුවක් ස්පර්ශ කරන්න</string>
+    <string name="add_a_google_account">Google ගිණුමක් එක් කරන්න</string>
+    <string name="captcha_title">කැප්චා ඇතුල් කිරීමට අවශ්‍යයි</string>
+    <string name="show_error_title">දෝෂය</string>
+    <string name="server_error">Google සේවාදායකයන් සමඟ සන්නිවේදනයේදී ගැටළුවක් පැනනැගුණි.</string>
+    <string name="server_error_help">පසුව නැවත උත්සාහ කරන්න</string>
+    <string name="network_unreliable">සේවාදායකය වෙත විශ්වාසදායක දත්ත සම්බන්ධතාවක් පිහිවුවිය නොහැක.</string>
+    <string name="network_unreliable_help">මෙය තාවකාලික ප්‍රශ්නයක් විය හැක නැතහොත් ඔබගේ Android උපාංගය දත්ත සේවාවන් සඳහා ප්‍රතිපාදන සපයා නොතිබිය හැක. එය දිගටම පවතින්නේ නම්, පාරිභෝගික සහය අමතන්න.</string>
+    <string name="network_unreliable_help_wifi_only">මෙය තාවකාලික ප්‍රශ්නයක් විය හැක. නැවත උත්සහ කරන්න හෝ වෙනත් Wi-Fi ජාලයකට සම්බන්ධ වෙන්න.</string>
+    <string name="invalid_login_character">අවලංගු අකුරකි. 0-9, a-z, A-Z, සහ නැවතීමේ ලකුණු පමණක් ඉඩ දෙනු ලැබේ.</string>
+    <string name="invalid_password_character">අවලංගු මුරපද අකුරකි.</string>
+    <string name="calendar">Google දින දර්ශනය</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google තැපෑල</string>
+    <string name="field_cant_be_blank">ක්ෂේත්‍රය හිස්විය නොහැක.</string>
+    <string name="plus_query_title">Google+ වෙත යාවත්කාලීන කරන්න</string>
+    <string name="plus_query_text">Google+ වෙබ් හි හුවමාරු කිරීම සැබෑ ජීවිතයේ හුවමාරුකිරීමක් ලෙස සකස් කරයි.</string>
+    <string name="circles_subtitle">ඔබ කැමති දේවල් ප්‍රවාහයකට</string>
+    <string name="circles_text">ළඟ මිතුරන් සමඟ සම්බන්ධ වී පොදු රුචියන් ගවේෂණය කරන්න.</string>
+    <string name="uploads_subtitle">ස්වයංක්‍රිය ඡායාරූප උපස්ථ කිරීම</string>
+    <string name="uploads_text">නොමිලේ සහ පෞද්ගලික ආචයනය සමඟ ඔබ ඡායාරූප ගන්නා විටම උපස්ථ කරන්න.</string>
+    <string name="huddle_subtitle">වීඩියෝ ඇමතීම සහ පණිවිඩ යැවීම</string>
+    <string name="huddle_text">Hangouts සමඟ පණිවිඩ යැවීම, ඡායාරූප, සහ නොමිලේ කණ්ඩායම් වීඩියෝ ඇමතුම් රස විඳින්න.</string>
+    <string name="plus_declined_button_label">දැන් නොවේ</string>
+    <string name="plus_accepted_button_label">අරඹන්න</string>
+    <string name="plus_name_check_title">Google+ සමඟ සම්බන්ධ වෙමින්…</string>
+    <string name="plus_name_check_text">මෙය සඳහා මිනිත්තු කිහිපයක් ගත වනු ඇත.</string>
+    <string name="plus_faq_title">Google+ වෙත සාදරයෙන් පිළිගනිමු!</string>
+    <string name="plus_faq_text" formatted="false">"Google+ හි, ඔබගේ මිතුරන්ට ඔබ සබැඳිව සොයා ගැනීමට උදවු වීමට ඔබට පොදු පැතිකඩක් ලැබෙනු ඇත. ඔබගේ ඊ-තැපැල් ලිපිනය දන්නා ඕනෑම කෙනෙකුට සොයා ගැනීමටත් ඔබගේ පැතිකඩ බැලීමටත් පුළුවන.
+
+ වෙබයෙහි සැමතැනකම ලෝකයට දේවල් නිර්දේශ කිරීමට +1 බොත්තම ඔබට භාවිතා කළ හැක. සෙවීමේදී ඔබගේ පැතිකඩ සහ +1, දැන්වීම්වල, සහ වෙබ් හරහා පොදුවේ පෙනේවි.
+
+දැනට, ඔබගේ පැතිකඩ ඔබගේ නම (%s %s)  පමණක් පෙන්වයි. ඔබට ඔබගේ පින්තූරයක්, ජීව දත්ත, සහ අනෙකුත් විස්තර ඔබ Google+ භාවිතා කිරීම ඇරඹු පසු පසුව එක් කළ හැක."</string>
+    <string name="dasher_warning">%s හි පරිපාලකයා Google+ හි ඔබගේ සියලු දත්ත වලට හිමිකම් කියන අතර ඒවා කළමනාකරණය කරයි, ඊට අමතරව ඔබගේ අනුමැතියකින් තොරව ඕනෑම වේලාවක ඔබගේ පැතිකඩ වෙනස් කිරීමට සහ මකා දැමීමට හැකියාව ඇත.</string>
+    <string name="profile_info_title">ඔබගේ පැතිකඩ</string>
+    <string name="profile_text">ඔබගේ පැතිකඩ සඳහා මූලික තොරතුරු කිහිපයක් සපයන්න. ඔබට ඔබගේ ඡායාරූපයක් සහ අනෙකුත් විස්තර ඔබ Google+ භාවිතා කිරීමට ආරම්භ කළ පසුව එකතු කළ හැක.</string>
+    <string name="occupation">රැකියාව</string>
+    <string name="current_city">වත්මන් නගරය</string>
+    <string name="picassa_info_title">Picasa සහ Google+</string>
+    <string name="picassa_info_text" formatted="false">Picasa වෙබ් ඇල්බමයේ ඇති ඔබගේ ඡායාරූප සහ වීඩියෝ Google+ හි තිබෙනු ඇත. ඔබගේ අදහස් %s වෙනුවට %s %s මඟින් දක්වනු ඇත. ඔබ Google+ හි ඡායාරූප හුවමාරු කළවිට, ලබන්නන්ට එය නැවත ඕනෑම කෙනෙක් සමග හුවමාරු කරගත හැක. ඔබගේ ඇල්බම පෙනුම් සැකසුම් වෙනස් නොවනු ඇත, ඊට අමතරව ඔබට ඒවා ඕනෑම මොහොතක සීමා කල හැක, එවිට ඔවුන්ට නිදහසේ නැවත හුවමාරු කල නොහැකි වනු ඇත.</string>
+    <string name="name_title_plus">ඔබගේ Google+ නම</string>
+    <string name="name_title_local">මෙම දුරකථනය අයත් වන්නේ…</string>
+    <string name="name_text_local">දුරකථනය ඇතැම් යෙදුම් පෞද්ගලීකරණය කිරීමට ඔබගේ නම භාවිතා කරයි.</string>
+    <string name="name_progress_title">තත්පරයක් ඉන්න…</string>
+    <string name="bad_name_title">මෙම නම භාවිතා කරන්නද?</string>
+    <string name="invalid_name_title">මෙම නම භාවිතා කළ නොහැක</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"ඔබට Google+ නම ලෙස මෙය අවශ්‍ය නම්, අපගේ කණ්ඩායම එය සමාලෝචනය කිරීමට අවශ්‍ය වනු ඇත. එය අපගේ නම් ප්‍රතිපත්ති උල්ලංඝනය කළ හොත්, ඔබගේ පැතිකඩ අත්හිටුවීමට පුළුවන්ය. මෙය ඔබට ක්‍රියාකාරී පැතිකඩක් අවශ්‍ය වන Google නිපැයුම් භාවිතා කිරීම සීමා වනු ඇත.
+
+"<annotation id="learn_more">තවත් දැනගන්න</annotation></string>
+    <string name="invalid_name_text">වලංගු නොවන අක්ෂර අඩංගු බැවින් ඔබට මෙම නම Google+ සමඟ භාවිතා කළ නොහැක.</string>
+    <string name="invalid_nickname_text">මෙහි වලංගු නොවූ අකුරු අඩංගු නිසා ඔබට මෙම නම Google+ සමඟ භාවිතා කළ නොහැක. අපනාමයක්, කලින් නමක් හෝ පටබැඳි නමක් භාවිතා කිරීමට උත්සහ කරමින්ද? ඔබ එකතු වූ පසුව ඔබට ඒවා ඔබගේ පැතිකඩට එකතු කළ හැක.</string>
+    <string name="invalid_other_text">Google+ සමග මෙම නම භාවිතා කළ නොහැක.</string>
+    <string name="bad_name_agree_text">මට එය තේරුණා එම නිසා මෙම නම භාවිතා කිරීමට අවශ්‍යයි.</string>
+    <string name="bad_name_decline_button_label">නම යාවත්කාලීන කිරීම</string>
+    <string name="bad_name_agree_button_label">සමාලෝචනය සඳහා නම යොමු කරන්න</string>
+    <string name="bad_name_skip_button_label">Google+ මඟහරින්න</string>
+    <string name="photo_title">ඔබගේ ඡායාරූපය</string>
+    <string name="photo_text">මෙම ඡායාරූපය ඔබගේ සම්බන්ධතා වාර්තා වලදී භාවිතා වනු ඇත. ඔබට පසුව එය පුද්ගල යෙදුමේදී වෙනස් කල හැක.</string>
+    <string name="photo_text_es">ඔබගේ මිතුරන්ට Google+ හි දැකීමට ඡායාරූපයක් ගන්න. ඔබට නව පින්තූරයක් පසුව තෝරාගත හැක.</string>
+    <string name="photo_button_label">ඡායාරූපය ගන්න</string>
+    <string name="retake_photo_button_label">ඡායාරූපය නැවත ගන්න</string>
+    <string name="photo_failure">කැමරාව දියත් කළ නොහැකි විය.</string>
+    <string name="crop_failure">ඡායාරූපය කප්පාදු කිරීමට නොහැකි විය.</string>
+    <string name="photo_description">ඔබගේ ඡායාරූපය</string>
+    <string name="communicating_message">ඔබගේ ගිණුමට තොරතුරු සුරැකීමට ඔබගේ උපාංගය Google වෙත සම්බන්ධ වෙමින් පවතී. මෙය මිනිත්තු 5 ක් දක්වා ගැනීමට හැක.</string>
+    <string name="creating_account_title">ගිණුම සුරකිමින්…</string>
+    <string name="checking_username_message">"ඔබගේ දුරකථනය ඔබගේ අපේක්ෂිත පරිශීලක නාමය ඉතිරිව තිබේද බැලීමට Google සමග සම්බන්ධ වෙමින් පවතී.
+
+ මෙය සඳහා මිනිත්තු කිහිපයක් ගත විය හැක."</string>
+    <string name="plus_failure_title">Google+ වලට පසුව එකතු වන්න</string>
+    <string name="plus_failure_new_account_text">ඔබගේ Google ගිණුම සෑදුණි, එහෙත් Google+ වෙත එක් වීමේ ඉල්ලීම නොකෙරුණි. plus.google.com හි ඕනෑම වෙබ් බ්‍රව්සරයකින් පසුව යළි උත්සාහ කරන්න.</string>
+    <string name="plus_failure_text">ඔබගේ Google+ වෙත එක් වීමේ ඉල්ලීම නොකෙරුණි. ඕනෑම වෙබ් බ්‍රව්සරයකින් plus.google.com හි පසුව යළි උත්සාහ කරන්න.</string>
+    <string name="provisioned_login_title">මුරපදය ඇතුළු කරන්න</string>
+    <string name="provisioned_welcome">ආයුබෝවන්, %s!</string>
+    <string name="provisioned_welcome_2">"ඔබගේ මුරපදය ඇතුල් කරන්න:
+%s"</string>
+    <string name="login_title">ඊ-තැපෑල සහ මුරපදය ටයිප් කරන්න</string>
+    <string name="login_task_title">පුරනය වෙමින්</string>
+    <string name="password">මුරපදය</string>
+    <string name="restore_wifi">යළි ස්ථාපනය කර දන්නා Wi‑Fi ජාල වෙත සම්බන්ධ වන්න.</string>
+    <string name="sign_in_agreement_multi_user">පුරනය වීම මගින්, ඔබ Google <annotation id="tos">සේවා කොන්දේසි</annotation>, <annotation id="google_privacy">පෞද්ගලිකත්ව ප්‍රතිපත්ති</annotation>, සහ <annotation id="play_tos">Google Play සේවා කොන්දේසි</annotation>" වලට එකඟ තාවය පළ කරයි. 
+
+මතක තබා ගන්න: ඔබ වෙනුවට වෙනත් පරිශීලකයෙකුට, යාවත්කාලීන කරන ලද යෙදුමට අවසර දීමට පුළුවන. ඕනෑම පරිගණකයක් සමග, මෙම ටැබ්ලටය බෙදා ගැනීම කළ යුත්තේ ඔබට විශ්වාස පුද්ගලයන් සමග පමණි."</string>
+    <string name="sign_in_agreement_with_chrome">පුරනය වීම මඟින්, Google <annotation id="tos">සේවා කොන්දේසිය</annotation> සහ <annotation id="google_privacy">පෞද්ගලිකත්ව ප්‍රතිපත්තිය</annotation>, Chrome <annotation id="chrome_tos">සේවා කොන්දේසිය</annotation> සහ <annotation id="chrome_privacy">පෞද්ගලිකත්ව දැන්වීම්</annotation>, සහ Google Play <annotation id="play_tos">සේවා කොන්දේසිය</annotation> වලට ඔබ එකඟතාවක් දක්වයි.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">පුරනය වීම මඟින්, ඔබ Google <annotation id="tos">සේවා කොන්දේසි</annotation> සහ <annotation id="google_privacy">පෞද්ගලිකත්ව ප්‍රතිපත්ති </annotation>, Chrome <annotation id="chrome_tos">සේවා කොන්දේසි</annotation> සහ <annotation id="chrome_privacy">පෞද්ගලිකත්ව නිවේදන</annotation>, සහ Google Play <annotation id="play_tos">සේවා කොන්දේසි</annotation>". 
+
+වලට එකඟතාවය පළකරයි. සිහි තබාගන්න: ඔබ වෙනුවට වෙනත් පුද්ගලයෙකු, යාවත්කාලීන කරනලද උපාංග අවසර දීමට පුළුවන. ඕනෑම පරිගනකයක් සමග, මෙම ටැබ්ලටය හුවමාරු කිරීම කලයුත්තේ ඔබට විශ්වාස පුද්ගලයන් සමග පමනි."</string>
+    <string name="create_prompt">" Google ගිණුමක් නැද්ද? "<annotation id="create_account">දැන්ම ගිණුමක් සාදන්න</annotation> .</string>
+    <string name="sign_in_with_google_account_short">ඔබගේ Google ගිණුම සමඟින් පුරනය වන්න:</string>
+    <string name="invalid_username">ඔබ ටයිප් කළ පෙළ වලංගු පරිශීලක නාමයක් නොවේ.</string>
+    <string name="captcha_instructions">ඔබට මෙහි පෙනෙන පෙළ ටයිප් කරන්න:</string>
+    <string name="create_google_account">පරිශීලක නාමය තෝරන්න</string>
+    <string name="create_google_account_text">ඔබගේ Google ගිණුම පැමිණෙන්නේ Gmail, Google වෙතින් ලැබෙන ඊ-තැපැල්, සමඟිනි. එය ඕනෑම උපාංගයක ක්‍රියා කරයි, අයාචිත තැපැල් අහුරයි, සහ තවත් බොහෝ දේ.</string>
+    <string name="account_already_has_gmail">ගිණුමට දැනටමත් Gmail ඇත.</string>
+    <string name="error_account_disabled">"මෙම ගිණුම අබල කර ඇත. 
+
+(වැඩි විස්තර සඳහා, වෙබ් බ්‍රවුසරයක් සමඟ https://google.com/accounts වෙත පිවිසෙන්න.)"</string>
+    <string name="no_network">ඔබට ජාල සම්බන්ධතාවයක් නොමැත.</string>
+    <string name="no_network_help">මෙය තාවකාලික ප්‍රශ්නයක් විය හැක නැතහොත් ඔබගේ Android උපාංගය දත්ත සේවාවන් සඳහා ප්‍රතිපාදන සපයා නොතිබිය හැක. ජංගම ජාලයකට සම්බන්ධිත වූ විට යළි උත්සාහ කරන්න, නැතහොත් Wi-Fi ජාලයකට සම්බන්ධ කරන්න.</string>
+    <string name="no_network_help_wifi_only">මෙය තාවකාලික ප්‍රශ්නයක් විය හැක. නැවත උත්සහ කරන්න හෝ වෙනත් Wi-Fi ජාලයකට සම්බන්ධ වෙන්න.</string>
+    <string name="error_login_failed">"ඔබගේ පරිශීලක නාමය සහ මුරපදය නොගැළපේ, නැවත උත්සාහ කරන්න .
+
+ඔබගේ ගිණුමේ තොරතුරු ප්‍රතිසාධනය කිරීමට, google.com/accounts/recovery/ යන්න."</string>
+    <string name="error_account_not_verified">"මෙම ගිණුම සත්‍යාපනය කර නැත. ඊ-තැපෑල පරික්ෂාකර ගිණුම සත්‍යාපනය කිරීමට, ඇතුළත් සබැඳිය අනුගමනය කරන්න.
+
+(ගිණුමේ තොරතුරු ප්‍රතිසාධනය කිරීමට, ඔබගේ පරිගණකයේ http://www.google.com/accounts/recovery වෙත යන්න.)"</string>
+    <string name="exit_menu_item">බ්‍රව්සර් පුරනයෙන් ඉවත් වන්න</string>
+    <string name="creating_profile">ඔබගේ පැතිකඩ සාදමින්…</string>
+    <string name="checking_account">ලැබීමට ඇති හැකියාව පිරික්සමින්…</string>
+    <string name="is_not_available"><b>^1</b> පරිශීලක නාමය ලබා ගත නොහැක.</string>
+    <string name="suggestions_hint">යෝජනා සඳහා ස්පර්ශ කරන්න</string>
+    <string name="suggest_username_next_button_label">පරිශීලක නාමය වෙනස් කරන්න</string>
+    <string name="hint_size">" "<b>^1</b> හි අනුලකුණු 6 කට අඩුවෙන් හෝ 30 කට වැඩියෙන් අඩංගු වේ.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> හි කිනම් හෝ අකුරු අඩංගු නොවේ.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" හි අකුරු,
+අංක, සහ නැවතීමේ ලකුණු පමණක් අඩංගු විය හැක."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> Gmail භාවිතා නොකරයි.</string>
+    <string name="sign_in_browser">බ්‍රව්සර් පුරනය වීම</string>
+    <string name="alternatives_list_title">යෝජිත පරිශීලක නාමයන්</string>
+    <string name="password_title">මුරපදය සැදීම</string>
+    <string name="choose_a_password">මුරපදය</string>
+    <string name="confirm_password">මුරපදය නැවත ටයිප් කරන්න</string>
+    <string name="too_short">බොහෝ කෙටියි</string>
+    <string name="security_questions_title">ආරක්ෂක ප්‍රශ්න</string>
+    <string name="answer">" "<b>පිළිතුර</b></string>
+    <string name="password_mismatch">මුරපද නොගැළපේ. යළි උත්සාහ කරන්න.</string>
+    <string name="eight_chars_min">අවම අකුරු 8 ක්</string>
+    <string name="verify_your_profile">ඔබගේ පැතිකඩ සත්‍යාපනය කරන්න</string>
+    <string name="error_not_logged_in">පරිශීලකයා පුරනය වී නොමැත.</string>
+    <string name="error_username_unavailable">පරිශීලක නාමය ලබා ගත නොහැක.</string>
+    <string name="error_bad_password">මුරපදය වඩාත් දුර්වල හෝ අවලංගු අකුරු ඇතුළත්ය. නැවත උත්සාහ කරන්න.</string>
+    <string name="error_bad_username">අවලංගු පරිශීලක නාමය.</string>
+    <string name="existing_account_error_title">ගිණුම දැනටමත් ඇත</string>
+    <string name="existing_account_error_text">මේ වනවිටත් ^1 ගිණුමක් මෙම Android උපාංගයේ ඇත.</string>
+    <string name="submission_title">සමාවන්න...</string>
+    <string name="submission_error_text">දෝෂයක් ඇතිවිය. යළි උත්සාහ කරන්න.</string>
+    <string name="sync_intro_title">ගිණුම් සමමුහුර්තය</string>
+    <string name="account_tos_title">ගිණුම අවසන් කරන්න</string>
+    <string name="account_tos_plus_title">Google+ සමඟ එක් වීම අවසන් කරන්න</string>
+    <string name="i_accept">මම පිළිගනිමි</string>
+    <string name="i_decline">ගිණුම සාදන්න එපා</string>
+    <string name="allow_personalized_content">Google හට Google-නොවන වෙබ් අඩවි වල අන්තර්ගතය සහ වෙළඳ දැන්වීම් පෞද්ගලීකරණය කිරීමට ඔබගේ තොරතුරු භාවිතා කිරීමට ඉඩ දෙන්න.</string>
+    <string name="enable_web_history">වෙබ් ඉතිහාසය ක්‍රියාත්මක කරන්න</string>
+    <string name="learn_more"><annotation id="learn_more">තවත් දැනගන්න</annotation></string>
+    <string name="account_creation_tos">ඉදිරියට යාමෙන්, ඔබ <annotation id="tos">Google</annotation> සහ <annotation id="google_privacy">පෞද්ගලිකත්ව ප්‍රතිපත්ති වලට</annotation>, සහ <annotation id="play_tos">Google Play සේවා නියමයන්</annotation> වලට එකඟ වේ.</string>
+    <string name="account_creation_tos_with_chrome">දිගටම ඉදිරියට යාමෙන්, ඔබ Google <annotation id="tos">සේවා කොන්දේසි</annotation>" සහ  "<annotation id="google_privacy">පෞද්ගලිකත්ව ප්‍රතිපත්ති</annotation>", Chrome  "<annotation id="chrome_tos">සේවා කොන්දේසි</annotation> සහ <annotation id="chrome_privacy">පෞද්ගලිකත්ව නිවේදනය</annotation>, සහ Google Play <annotation id="play_tos">සේවා කොන්දේසි</annotation> සමග එකඟ වෙයි.</string>
+    <string name="gender_prompt">ස්ත්‍රී පුරුෂ භාවය</string>
+    <string name="gender_hint">ස්ත්‍රී පුරුෂ භාවය</string>
+    <string name="account_pre_intro_title">Google ලැබුනාද?</string>
+    <string name="account_pre_intro_default_message">"ඔබ සතුව Google ගිණුමක් තිබේද?
+
+ඔබ Gmail හෝ Google යෙදුම් භාවිතා කරන්නේ නම්, ඔව් පිළිතුර දෙන්න."</string>
+    <string name="account_pre_intro_yes">ඔව්</string>
+    <string name="account_pre_intro_no">නැත</string>
+    <string name="account_intro_title">Google ගිණුම</string>
+    <string name="account_intro_required_title">Google විසින් බලගැන්වූ</string>
+    <string name="account_intro_recommended_title">එය Google කරන්න</string>
+    <string name="account_intro_default_message">ඔබට අයත් දේවල් නැවත කිසිදා නැති නොවනු ඇත. Google ගිණුම සියල්ල සුරැකිව තබා ගනු ඇත.</string>
+    <string name="account_intro_simple_message">ඔබට දැනට පවතින ගිණුම එකතු කිරීමට හෝ නව ගිණුමක් සෑදීමට අවශ්‍යද?</string>
+    <string name="account_intro_learn_more">තව දැනගන්න</string>
+    <string name="learn_more_title">තව දැනගන්න</string>
+    <string name="learn_more_account_intro">"Google ගිණුමක් ඔබට:
+
+"<li><ul>ඔබගේ සෙවීම් ඉතිහාසය ඇතුළුව—ඕනෑම තැනක සිට ඔබගේ සියලුම තොරතුරු සංවිධානය කිරීම.</ul></li>"
+
+"<li><ul>ඊ-තැපැල්, සම්බන්ධතා, සංගීතය, පින්තූර වැනිදේ ස්වයංක්‍රීයව උපස්ථ කිරීම.</ul></li>"
+
+"<li><ul>සම්බන්ධතා, දින දර්ශනය, සිතියම්, සහ තවත් දේ ඇතුලත්ව—Google සේවා ඕනෑම තැනක සිට පහසුවෙන් භාවිතා කිරීමට ඉඩ සලසයි.</ul></li></string>
+    <string name="learn_more_account_intro_title">Google ගිණුම් පිළිබඳව</string>
+    <string name="learn_more_bad_name">Google+ සඳහා ඔබ ඔබගේ සාමාන්‍ය නම භාවිතා කිරීම අවශ්‍යයි. ඔබගේ පැතිකඩ ව්‍යාපාරයක්, ආයතනයක් හෝ පවුලක්—නොව එක් පුද්ගලයෙක් නියෝජනය කරයි—ඊට අමතරව ප්‍රථම සහ අවසන් නම එක් භාෂාවකින් ඇතුළත් කල යුතුය, එය වෘත්තීය නාමයන් සහ අනවශ්‍ය විරාම ලකුණු නොයෙදිය යුතුය. ලියාපදිංචියෙන් පසුව, ඔබට අපනාමයන් හෝ ඔබ ආශ්‍රිත අනෙකුත් නාමයන්, ඔබගේ පැතිකඩෙහි අනෙකුත් නම් ක්ෂේත්‍රයේ ඇතුලත් කරන්න.</string>
+    <string name="learn_more_bad_name_title">නම් ප්‍රතිපත්තිය පිලිබඳ</string>
+    <string name="wait_for_device_country_title">ගිණුම සැකසීම</string>
+    <string name="wait_for_device_country_msg">ඔබගේ දුරකථනය පිළිබඳ තොරතුරු එකතු කරමින්. මේ සඳහා තත්පර 30 දක්වා ගත හැක.</string>
+    <string name="recovery_title">Google මුරපද ප්‍රතිසාධනය</string>
+    <string name="recovery_wait_title">Google සම්බන්ධ වෙමින්…</string>
+    <string name="cannot_talk_to_server_msg">උපාංගයට Google වෙත ළඟා විය නොහැක.</string>
+    <string name="recovery_skip_label">මඟ හරින්න</string>
+    <string name="recovery_retry_label">නැවත උත්සාහ කරන්න</string>
+    <string name="recovery_message_set">"ඔබට කවදා හෝ මුරපදය අමතක වුවහොත්, ඔබට එය ප්‍රතිසාධනය කර ගැනීමට අවශ්‍ය වනු ඇත.
+
+SMS හෝ විකල්ප ඊ-තැපැල් ලිපිනයක් හරහා ඔබගේ මුරපදය ප්‍රතිසාධනය කර ගැනීමට Google අවස්ථා සලස්වයි.
+
+මෙම පියවර තදින්ම නිර්දේශ කරයි. "<annotation id="help_url">තව දැනගන්න</annotation></string>
+    <string name="recovery_message_verify">"මුරපද පහසුවෙන්ම අමතක විය හැක.
+
+දුරකථන අංකයක් හෝ ප්‍රතිසාධන ඊ-තැපැලක් දැන්මම සනාථ කරන්න. මෙය ඔබට Google සහ Google Play හි අන්තර්ගතයන් වෙත ප්‍රවේශය ප්‍රතිසාධනය කිරීමට සහාය වේ. "<annotation id="help_url">තවත් දැනගන්න</annotation></string>
+    <string name="recovery_yes_button_label">ප්‍රතිසාධන විකල්ප සකසන්න</string>
+    <string name="recovery_yes_button_label_verify">ප්‍රතිසාධන විකල්ප සනාථ කරන්න</string>
+    <string name="recovery_later_button_label">දැන් නොවේ</string>
+    <string name="recovery_input_screen_message">ප්‍රතිසාධන තොරතුරු %s වෙත යෙදවේ.</string>
+    <string name="secondary_email_hint">උපස්ථ ඊ-තැපෑල</string>
+    <string name="secondary_email_invalid">අවලංගු ඊ-තැපැල් ලිපිනය</string>
+    <string name="secondary_email_same_as_primary">මූලික ඊ-තැපෑලම විය නොහැක</string>
+    <string name="phone_number_hint">දුරකථන අංකය</string>
+    <string name="phone_number_invalid_character">දුරකථන අංකයේ වලංගු නොවන අක්ෂර ඇත</string>
+    <string name="phone_number_invalid">අවලංගු දුරකථන අංකයක්</string>
+    <string name="country_invalid">මෙම රට සඳහා අවසර නොදේ</string>
+    <string name="recovery_server_error">සේවාදායකයට කථා කිරීමේ දෝෂයකි. ස්වල්ප මොහොතකින් පසුව කරුණාකර යළි උත්සාහ කරන්න.</string>
+    <string name="account_recovery_info">ඔබට කෙදිනක හෝ මුරපදය අමතක වුවහොත්, ඔබට ආරක්ෂක පැණයට පිළිතුරු දී යළි සැකසුම් ඊ-තැපෑල වෙනත් ලිපිනයකට ගෙන්වා ගත හැකිය.</string>
+    <string name="secondary_email_label">ප්‍රතිසාධන ඊ-තැපැල් ලිපිනය</string>
+    <string name="invalid_email">"ඔබ ටයිප් කළ ඊ-තැපැල් ලිපිනය වලංගු නැත.
+ උදාහරණය: joe@example.com"</string>
+    <string name="invalid_email_primary">ප්‍රතිස්ථාපන ලිපිනය ඔබ සාදන එකම විය නොහැක.</string>
+    <string name="backup_consent_message">"ඔබගේ යෙදුම්, සැකසීම් (පිටුසන් සහ Wi-Fi මුරපද ආදී), සහ වෙනත් දත්ත උපස්ථ කිරීමට ඔබගේ Google ගිණුම භාවිතා කරන්න. ඔබ කලින් ඔබගේ ගිණුම උපස්ථ කර තිබේ නම්, ඔබට දැන් එය මෙම දුරකතනයට නැවත පිහිටුවීමට හැකිය.
+
+සැකසීම් වල ඇති උපස්ථ සැකසීම් ඕනෑම වෙලාවක වෙනස් කිරීමට ඔබට හැකිය."</string>
+    <string name="backup_consent_message_no_restore">"ඔබගේ යෙදුම් සැකසුම් (පිටුසන් සහ Wi-Fi මුරපද වැනි) සහ අනෙකුත් දත්ත උපස්ථ කිරීමට ඔබගේ Google ගිණුම භාවිතා කරන්න.
+
+ උපස්ථ සැකසුම් ඔබගේ සැකසුම් තුළ ඕනෑම වෙලාවක වෙනස් කරගත හැක."</string>
+    <string name="restoring_title">යළි පිහිටුවමින්…</string>
+    <string name="restoring_message">ඔබගේ දුරකථනය ඔබගේ ගිණුම යළි පිහිටුවීමට Google වෙත අමතයි. මෙයට ටික වේලාවක් ගත විය හැක.</string>
+    <string name="gls_notification_login_error">ඔබගේ ගිණුමට පුරනය වීමට ස්පර්ශ කරන්න.</string>
+    <string name="gls_ui_add_account_title">ගිණුම සැකසීම</string>
+    <string name="gls_ui_activity_title">පුරනය වන්න</string>
+    <string name="gls_ui_activity_title_browser_signin">පුරනය වන්න</string>
+    <string name="gls_ui_activity_title_checking_in">සූදානම් කරමින්…</string>
+    <string name="gls_ui_activity_authenticating">සත්‍යාපනය වෙමින්…</string>
+    <string name="gls_dmagent_activity_activate_message">" ඔබගේ වසමට ජංගම උපාංග කළමනාකරණයක් අවශ්‍යයි.  "<b>^1</b> ගිණුමට අවශ්‍යවන ආරක්‍ෂිත ප්‍රතිපත්ති උපාංගයට බලකිරීම සඳහා \"Google යෙදුම් උපාංග ප්‍රතිපත්තිය\" යෙදුම සක්‍රිය කරන්න.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">සක්‍රිය කරන්න</string>
+    <string name="gls_dmagent_activity_download_message">" ඔබගේ වසමට ජංගම උපාංග කළමනාකරණයක් අවශ්‍යයි.  "<b>^1</b> ගිණුමට අවශ්‍යවන ආරක්‍ෂිත ප්‍රතිපත්ති උපාංගයට බලකිරීම සඳහා \"Google යෙදුම් උපාංග ප්‍රතිපත්තිය\" යෙදුම පිහිටුවන්න.</string>
+    <string name="gls_dmagent_activity_download_retry_button">බාගන්න</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">ඔබ වැරදි මුරපදයක් ටයිප් කර හෝ ඔබගේ ගිණුම වෙනස්වී ඇත. ඔබගේ මුරපදය නැවත ටයිප් කරන්න.</string>
+    <string name="permlab_googleAuthPassword">Google ගිණුම් සඳහා මුරපද ප්‍රවේශ කිරීමට</string>
+    <string name="permdesc_googleAuthPassword">ඔබ විසින් සැකසූ, Google ගිණුම(ම්) වල මුරපද ඍජුව පරිශීලනය කිරීමට යෙදුම් වලට අවසර දෙන්න.</string>
+    <string name="permlab_googleMailSwitch">Gmail හෝ Google තැපැල් වෙළඳ නාමකරණය තේරීම</string>
+    <string name="permdesc_googleMailSwitch">\"Gmail\" සහ \"Google තැපැල්\" වෙළඳ නාම අතර දර්ශනය කරන නම මාරු කිරීමට යෙදුම් වලට ඉඩ දෙන්න.</string>
+    <string name="sync_item_title">%s සමමුහුර්ත කරන්න</string>
+    <string name="grant_credentials_permission_message_footer">පහත ඒවාට ඔවුන් අවසර ඉල්ලා සිටියි:</string>
+    <string name="grant_credentials_permission_message_app">මෙම යෙදුම්වලට මෙතැන් සිට ඔබගේ Google ගිණුමට ප්‍රවේශය අවශ්‍යය:</string>
+    <string name="grant_permissions_header_text">අවසර ඉල්ලීම</string>
+    <string name="allow">ප්‍රවේශයට අවසර දෙන්න</string>
+    <string name="deny">එපා ස්තූතියි</string>
+    <string name="permission_request_notification_with_subtitle">"%s ගිණුම සඳහා
+අවසරය ඉල්ලා ඇත"</string>
+    <string name="notification_title">%1$s සඳහා පුරනය වීමේ දෝෂයකි</string>
+    <string name="account_setup_title">Google ගිණුම</string>
+    <string name="login_activity_title">පුරනය වන්න</string>
+    <string name="relogin_activity_title">මුරපදය නැවත ටයිප් කරන්න</string>
+    <string name="show_error_activity_title">පුරනය වීමට නොහැකි විය</string>
+    <string name="login_activity_task_title">පුරනය වෙමින්...</string>
+    <string name="login_activity_task_msg">මෙය සඳහා මිනිත්තු කිහිපයක් ගත වනු ඇත.</string>
+    <string name="prepare_account_setup_task_title">ගිණුම් සැකසුම සකසමින්…</string>
+    <string name="prepare_account_setup_task_msg">මෙය සඳහා මිනිත්තු කිහිපයක් ගත වනු ඇත.</string>
+    <string name="sync_intro_activity_title">ඔබගේ ගිණුම සමමුහුර්ත කරන්න</string>
+    <string name="username">ඊ-තැපෑල</string>
+    <string name="error_invalid_second_factor">ඔබගේ සාමාන්‍ය ගිණුමේ මුරපදය වෙනුවට යෙදුම්-විශේෂිත මුරපදයක් භාවිතා කරන්න.</string>
+    <string name="error_needs_browser">ඔබගේ ගිණුමට ප්‍රවේශ වීමට, ඔබ වෙබයෙහි පුරනය විය යුතුය. බ්‍රව්සර් පුරනය සඳහා ඊළඟ ස්පර්ශ කරන්න.</string>
+    <string name="google_play_opt_in">Google Play වෙතින් වන පුවත් සහ පිරිනැමීම් සමග මාව යාවත්කාලීනව තබන්න.</string>
+    <string name="google_settings_header_title">පෞද්ගලිකත්වය</string>
+    <string name="maps_settings_title">සිතියම් සහ Latitude</string>
+    <string name="location_settings_title">ස්ථානය</string>
+    <string name="search_settings_title">සෙවීම</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">දැන්වීම්</string>
+    <string name="location_network_based">Google හි ස්ථාන සේවාව</string>
+    <string name="location_neighborhood_level">නිර්නාමික ස්ථාන දත්ත Google වෙත යැවීමට ඉඩ දෙන්න. ඔබගේ ස්ථානය දළ වශයෙන් තීරණය කිරීමට Wi-Fi සහ ජංගම ජාල වැනි මූලාශ්‍ර මඟින් දත්ත භාවිතා කිරීමට අවසරලත් යෙදුම් සඳහා ඉඩ දෙන්න.</string>
+    <string name="use_location_title">ස්ථානය සහ Google සෙවුම</string>
+    <string name="use_location_summary">සෙවීම් ප්‍රතිඵල සහ වෙනත් සේවා සඳහා වැඩිදියුණු කිරීමට Google වෙත ඔබගේ පිහිටීම භාවිතා කිරීමට ඉඩ දෙන්න</string>
+    <string name="backup_consent_yes_agree">ඔබගේ යෙදුම්, සැකසීම් (පිටුසන් සහ Wi-Fi මුරපද යනාදී), සහ වෙනත් දත්ත උපස්ථ කිරීමට ඔබගේ Google ගිණුම භාවිතා කරන්න.</string>
+    <string name="restore_consent_yes_agree">ඔබගේ Google ගිණුම වෙත ඔබ කලින් උපස්ථ කළ යෙදුම්, සැකසීම්, සහ වෙනත් දත්ත මෙම දුරකථනය වෙත ගෙන එන්න.</string>
+    <string name="audit_logging_summary">අපගේ නිෂ්පාදන වැඩිදියුණු කිරීමට උපකාර කිරීමට සහ ඔබගේ උපාංගය අරක්ෂා කිරීමට Google වෙත ස්වයංක්‍රියව උපාංග සිද්ධිය සහ දෝෂ විමර්ශන තොරතුරු යවන්න.</string>
+    <string name="no_back_msg">කලින් පියවරට නැවත යෑමට නොහැක.</string>
+    <string name="setup_wizard_title">සැකසීම් විසාඩය</string>
+    <string name="setup_wizard_services_activity_title">Google සේවාවන්</string>
+    <string name="setup_wizard_services_description">මෙම සේවාව ඔබට වැඩ කිරීමට Google ව දමයි, සහ ඔබට ඒවා සක්‍රිය කිරීම සහ අක්‍රිය කිරීම ඕනෑම වේලාවක කළ හැක. Google හි <annotation id="google_privacy">පෞද්ගලිකත්ව ප්‍රතිපත්තිය</annotation> සමඟ එකඟ වන ලෙස දත්ත භාවිතා කරවී</string>
+    <string name="setup_wizard_services_backup_restore_heading">උපස්ථය සහ නැවත පිහිටුවීම</string>
+    <string name="setup_wizard_services_location_heading">ස්ථානය</string>
+    <string name="setup_wizard_services_communication_heading">සන්නිවේදනය</string>
+    <string name="setup_wizard_services_backup">ඔබගේ Google ගිණුම භාවිතයෙන්, පසුව පහසුවෙන් ප්‍රතිස්ථාපනය කිරීමට හැකි වන පරිදි <b>ඔබගේ දුරකථනයේ යෙදුම්, යෙදුම් දත්ත, සැකසීම්, පෞද්ගලික ශබ්ද කෝෂ සහWi-Fi මුරපද උපස්ථ කරන්න</b>. <annotation id="backup_details">තව දැනගන්න</annotation></string>
+    <string name="setup_wizard_services_backup_restore">ඔබගේ Google ගිණුම භාවිතයෙන්, පසුව පහසුවෙන් ප්‍රතිස්ථාපනය කිරීමට හැකි වන පරිදි <b>ඔබගේ යෙදුම්, යෙදුම් දත්ත, සැකසීම්, පෞද්ගලික ශබ්ද කෝෂ සහWi-Fi මුරපද උපස්ථ කරන්න</b>.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">දත්ත වලට යෙදුම්, යෙදුම් සැකසුම්, පද්ධති සැකසුම්, සහ Wi-Fi මුරපද ඇතුලත්ය.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">ඔබ ස්වයංක්‍රිය උපස්ථය ක්‍රියාත්මක කර ඇති විට, ඔබගේ උපාංගයේ දත්ත කළින් කළ ඔබගේ Google ගිණුම වෙත උපස්ථ කරයි. උපස්ථ වල ඔබගේ යෙදුම් දත්ත ෆෝල්ඩර වල ඇති මනාපයන්, සැකසීම්, පණිවිඩ, ඡායාරූප, සහ වෙනත් ගොනු වැනි තොරතුරු ඇතුළත් වේ.</string>
+    <string name="setup_wizard_services_location_sharing">යෙදුම් වලට ස්ථානය නිර්ණය කිරීමට උදව් කිරීමට <b>Google හි ස්ථාන සේවාව භාවිතා කරන්න</b>. යෙදුම් ධාවනය නොවන විට දීද, Google වෙත නිර්නාමික ස්ථාන දත්ත යැවීම මෙයින් අදහස් වේ. <annotation id="location_details">තව දැනගන්න</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">ඔබගේ උපාංගයේ ස්ථනය වේගවත්ව සහ වඩාත් නිරවද්‍යව නිමානය කිරීමට උදව් කිරීමට Google හි ස්ථාන සේවාව Wi‑Fi සහ සෙලියුලර් ජාල වැනි මුලාශ්‍ර භාවිතා කරයි. Google හි ස්ථාන සේවාව ඔබ සක්‍රිය කරන විට, ස්ථාන තොරතුරු සැපයීමට Wi‑Fi සහ සෙලියුලර් ජාල භාවිතා කරන ආකාරයකට ඔබගේ උපාංගය ඇතුළු වේ. GPS පමණක් භාවිත කරන ආකාරය, ඇතැම් විට උපාංගය පමණයි ආකාරය තේරීම මඟින් ස්ථාන සේවා වල ඔබට මෙය අක්‍රිය කළ හැක.</string>
+    <string name="setup_wizard_services_location_wifi_scan">Wi‑Fi ක්‍රියාවිරහිත විටදීද යෙදුම් සහ සේවා වලට ජාල පරිලෝකනය කිරීමට ඉඩ දීමෙන් <b>ස්ථාන සේවා දියුණු කිරීමට උදව් කරන්න</b>.</string>
+    <string name="setup_wizard_services_location_footnote">Google ස්ථාන සේවාව ස්ථානය වඩා හොඳින් සහ ඉක්මනින් දැනගැනීමට Wi-Fi සහ වෙනත් සංඥා භාවිතා කරයි, නිතරම GPS වෙනුවට අඩු බලශක්තියක් වැයවන්නකි. සමහර දත්ත ඔබගේ උපාංගයේ ස්ථාපිතව තිබෙනු ඇත. යෙදුම් කිසිවක් ධාවනය නොවන විට පවා දත්ත එකතු කර ගැනීම සිදු වනු ඇත.</string>
+    <string name="setup_wizard_services_play">පුවත් සහ Google Play පිරිනැමීම් වෙතින් <b>මාව යාවත්කාලීනව තබන්න</b>.</string>
+    <string name="setup_wizard_services_usage_reporting">Google වෙත නිර්ණයාත්මකන් සහ භාවිත දත්ත යැවීම ස්වයංක්‍රීයව කිරීම මඟින් <b>ඔබගේ Android අත්දැකීම දියුණු කිරීමට උදව් කරන්න</b>. මෙම තොරතුරු ඔබව හඳුනා ගැනීමට භාවිත නොකරයි සහ බැටරියේ ජීව කාලය, යෙදුමේ ක්‍රියාකාරිත්වය, සහ අලුත් Google විශේෂාංග වැනි දේවල් වල වැඩ කරන කණ්ඩායම් වලට තාවකාලිකව ලබාදෙයි. <annotation id="usage_reporting_details">තව දැනගන්න</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"බැටරි මට්ටම, කොතරම් ඔබ යෙදුම් භාවිතා කරනවාද, ඔබගේ ජාල සම්බන්ධතා වල තත්වය සහ කාලය (සෙල්, Wi-Fi, සහ බ්ලුටූත් වැනි), සහ දේවල් වැඩ කරන ආකාරයට නොකරන විට විනාශ වීම් වාර්තා වැනි ඔබගේ උපාංගය පිලිබඳ විස්තර සහ ඔබ භාවිතා කරන ආකාරය පිලිබඳ සාමාන්‍ය තොරතුරු වේ.එය සැමදෙනාගේම Google නිෂ්පාදන සහ සේවා වැඩිදියුණු කිරීමට භාවිතා වන අතර ඔබගේ Google ගිණුම සමඟ සම්බන්ධ නොවේ. සමහර සමස්ත තොරතුරු Android සංවර්ධකයන් වැනි හවුල්කරුවන් හට ඔවුන්ගේ යෙදුම් සහ නිෂ්පාදන තවත් හොඳ කිරීමට උදව් වේ.
+
+ඔබට මෙය ඕනෑම වේලාවක සබල හෝ අබල කළ හැකි වේ. මෙමඟින් ඔබගේ උපාංගයේ පද්ධති යාවත්කාලින සහ ආරක්ෂාව වැනි අත්‍යවශ්‍ය සේවා ලැබීමට අවශ්‍ය තොරතුරු යැවීමේ හැකියාවට බල නොපායි."</string>
+    <string name="setup_wizard_services_agreement">ඇතැම් විට මෙම දුරකථනයට Google වෙතින් යාවත්කාලීන සහ යෙදුම් ලැබීම සහ ස්ථාපනය වේ. ඔබ ඉදිරියට ගියේ නම් ඇතැම් විට බාගන්නා ලද හෝ ස්ථාපනය කරන ලද යෙදුම් ඔබට ඕනෑම වේලාවක ඉවත් කළ හැක.</string>
+</resources>

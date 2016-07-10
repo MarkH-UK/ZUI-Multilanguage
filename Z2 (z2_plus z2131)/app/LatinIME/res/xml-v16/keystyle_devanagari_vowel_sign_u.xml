@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <switch>
+        <case latin:keyboardLayoutSet="hindi">
+            <key-style latin:moreKeys="ुं,ुँ" latin:styleName="moreKeysDevanagariVowelSignU" />
+        </case>
+        <case latin:keyboardLayoutSet="hindi_compact">
+            <key-style latin:moreKeys="ु" latin:styleName="moreKeysDevanagariVowelSignU" />
+        </case>
+        <case latin:keyboardLayoutSet="marathi">
+            <key-style latin:moreKeys="उ" latin:styleName="moreKeysDevanagariVowelSignU" />
+        </case>
+        <default>
+            <key-style latin:styleName="moreKeysDevanagariVowelSignU" />
+        </default>
+    </switch>
+    <key-style latin:keySpec="ु" latin:styleName="baseKeyDevanagariVowelSignU" latin:parentStyle="moreKeysDevanagariVowelSignU" />
+</merge>

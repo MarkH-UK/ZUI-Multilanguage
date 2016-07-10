@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="collapsedHeight" format="dimension" />
+    <attr name="shadowHeight" format="dimension" />
+    <attr name="fadeColor" format="color" />
+    <attr name="flingVelocity" format="integer" />
+    <attr name="dragView" format="reference" />
+    <attr name="startExpanded" format="boolean" />
+    <attr name="anchorPoint" format="float" />
+    <attr name="parallaxDistance" format="dimension" />
+    <attr name="chooserListPreferredItemHeightSmall" format="dimension" />
+    <attr name="id" format="reference" />
+    <attr name="title" format="string" />
+    <attr name="icon" format="reference" />
+    <attr name="fragmentName" format="string" />
+    <attr name="components" format="string" />
+    <attr name="vpiCirclePageIndicatorStyle" format="reference" />
+    <attr name="centered" format="boolean" />
+    <attr name="selectedColor" format="color" />
+    <attr name="strokeWidth" format="dimension" />
+    <attr name="unselectedColor" format="color" />
+    <attr name="fillColor" format="color" />
+    <attr name="pageColor" format="color" />
+    <attr name="radius" format="dimension" />
+    <attr name="snap" format="boolean" />
+    <attr name="strokeColor" format="color" />
+</resources>

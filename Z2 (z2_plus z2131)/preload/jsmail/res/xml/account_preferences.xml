@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="@string/account_settings_action" android:key="account_settings" android:summary="@string/account_settings_summary">
+        <intent android:action="@string/intent_account_manager_entry" />
+    </PreferenceScreen>
+</PreferenceScreen>

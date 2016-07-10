@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">Igama lakho lisetshenziselwa ukwenza ithebhulethi yakho namasevisi we-Google abe awakho siqu.</string>
+    <string name="name_title_local">Le thebhulethi eka...</string>
+    <string name="name_text_local">Le thebhulethi isebenzisa igama lakho ukwenza ezinye izinhlelo zokusebenza kube ezakho siqu.</string>
+    <string name="communicating_message">Ithebulethi yakho ixhumana ne-Google ukulondoloza ulwazi kwi-akhawunti yakho. Lokhu kungathatha amaminithi angu-5.</string>
+    <string name="checking_username_message">"Ithebhulethi yakho ixhumana ne-Google ukubona ukuthi igama lomsebenzisi olifisayo liyatholakala yini.
+
+Lokhu kungathatha amaminithi ambalwa.."</string>
+    <string name="wait_for_device_country_msg">"Iqoqa ulwazi mayelana nethebhulethi  yakho. Lokhu kungathatha amasekhondi angama-30."</string>
+    <string name="backup_consent_message">"Sebenzisa i-akhawunti yakho ye-Google ukulondoloza izinhlelo zokusebenza zakho, izilungiselelo (okufana namabhukumaki, namaphasiwedi we-Wi-Fi), nenye idatha. Uma ulondoloze ngaphambilini i-akhawunti yakho, ungayibuyisela kule thebhulethi manje.
+
+Ungashintsha izilungiselelo zakho zokulondoloza noma kunini Ezilungiselelweni."</string>
+    <string name="backup_consent_message_no_restore">"Sebenzisa i-akhawunti yakho ye-Google ukulondoloza izinhlelo zokusebenza zakho, izilungiselelo (ezifana namabhukumaki, namaphasiwedi e-Wi-Fi), nenye idatha.
+
+Ungashintsha izilungiselelo zakho zokulondoloza noma kunini Ezilungiselelweni."</string>
+    <string name="restoring_message">Ithebulethi yakho ithinta i-Google ukuze ungene kwi-akhawunti yakho. Lokhu kungathatha amaminithi angu-5.</string>
+    <string name="restore_consent_yes_agree">Letha izinhlelo zokusebenza, izilungiselelo, nenye idatha kule thebulethi oyenze isipele ngaphambilini kwi-akhawunti yakho ye-Google.</string>
+</resources>

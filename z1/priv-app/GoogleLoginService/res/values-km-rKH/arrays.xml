@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>ជ្រើស​សំណួរ​សុវត្ថិភាព</item>
+        <item>លេខទូរស័ព្ទ​ដំបូង?</item>
+        <item>ឈ្មោះ​មិត្ត​ល្អ​បំផុត​កាលពី​កុមារ?</item>
+        <item>ឈ្មោះ​គ្រូ​​​ទី​មួយ?</item>
+        <item>ឈ្មោះ​អ្នក​គ្រប់គ្រង​ពេល​មាន​ការងារ​ដំបូង?</item>
+        <item>លេខ​ប័ណ្ណ​បើកបរ?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>ខ្សោយ​</item>
+        <item>មធ្យម​</item>
+        <item>ល្អ​</item>
+        <item>ខ្លាំង​</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>ប្រុស</item>
+        <item>ស្រី</item>
+        <item>ផ្សេងៗ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d karakters oor limiet</item>
+        <item quantity="one">%1$d karakter oor limiet</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d karakters oor</item>
+        <item quantity="one">%1$d karakter oor</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google-rekeninge</item>
+        <item quantity="one">%d Google-rekening</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">"Hierdie toestel is gebruik om 'n ^1 met jou Google-rekeninge en hul data op te stel"</item>
+        <item quantity="one">"Hierdie toestel is gebruik om 'n ^1 met jou Google-rekening en sy data op te stel"</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">1 minuut</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">"Hierdie uitnodigings is nie gestuur nie weens 'n fout"</item>
+        <item quantity="one">"Hierdie uitnodiging is nie gestuur nie weens 'n fout"</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Hierdie uitnodigings kan nie nou gestuur word nie. Jy kan dit weer stuur in Google Play > My rekening.</item>
+        <item quantity="one">Hierdie uitnodiging kan nie nou gestuur word nie. Jy kan dit weer stuur in Google Play > My rekening.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d uitnodigings oor</item>
+        <item quantity="one">%d uitnodiging oor</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d nuwe boodskappe</item>
+        <item quantity="one">1 nuwe boodskap</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d mense voor jou</item>
+        <item quantity="one">1 persoon voor jou</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d kringe</item>
+        <item quantity="one">1 kring</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d dae</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">1 min.</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d dae</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">1 min.</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d mense</item>
+        <item quantity="one">1 persoon</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Deur %1$s en %2$d ander programme</item>
+        <item quantity="one">Deur %1$s en %2$d ander program</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dae</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s mense</item>
+        <item quantity="one">%1$s persoon</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d volgers</item>
+        <item quantity="one">Een volger</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d kyke</item>
+        <item quantity="one">Een kyk</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Kopieer tans jou Google-rekeninge en -data …</item>
+        <item quantity="one">Kopieer tans jou Google-rekening en -data …</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">"Hierdie toestel is gebruik om 'n ^1 met jou Google-rekeninge en -data op te stel"</item>
+        <item quantity="one">"Hierdie toestel is gebruik om 'n ^1 met jou Google-rekening en -data op te stel"</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Herselflaai om te installeer oor %d sekondes …</item>
+        <item quantity="one">Herselflaai om te installeer oor 1 sekonde …</item>
+    </plurals>
+</resources>

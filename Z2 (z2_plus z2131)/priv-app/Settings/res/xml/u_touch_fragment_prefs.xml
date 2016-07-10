@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/development_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.VideoPreference android:layout="@layout/u_touch_guide" android:key="video_preference" />
+    <SwitchPreference android:title="@string/vibrate_touch_title" android:key="vibrate_on_touch" />
+    <PreferenceCategory android:key="vibrate_on_touch_category" />
+    <SwitchPreference android:title="@string/long_pressed_back_home" android:key="long_pressed_back_home" />
+    <PreferenceCategory />
+    <SwitchPreference android:title="@string/toggle_recent_app_title" android:key="toggle_recent_app" />
+    <PreferenceCategory android:title="@string/toggle_recent_app_des" android:key="toggle_recent_app_category" />
+    <Preference android:title="@string/utouch_custom" android:key="utouch_custom" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.UTouchCustomSettings" />
+</PreferenceScreen>

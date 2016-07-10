@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Negalima naudoti šios paskyros, nes joje trūksta programų: ^1. Susisiekite su domeno "&lt;b>^2&lt;/b>" administratoriumi arba prisijunkite naudodami kitą paskyrą. "</item>
+        <item quantity="one">" Negalima naudoti šios paskyros, nes joje trūksta programų: ^1. Susisiekite su domeno "&lt;b>^2&lt;/b>" administratoriumi arba prisijunkite naudodami kitą paskyrą. "</item>
+        <item quantity="few">" Negalima naudoti šios paskyros, nes joje trūksta programų: ^1. Susisiekite su domeno "&lt;b>^2&lt;/b>" administratoriumi arba prisijunkite naudodami kitą paskyrą. "</item>
+        <item quantity="many">" Negalima naudoti šios paskyros, nes joje trūksta programų: ^1. Susisiekite su domeno "&lt;b>^2&lt;/b>" administratoriumi arba prisijunkite naudodami kitą paskyrą. "</item>
+    </plurals>
+</resources>

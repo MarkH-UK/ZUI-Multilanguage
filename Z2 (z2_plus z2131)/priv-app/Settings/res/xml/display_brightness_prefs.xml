@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/display_and_brightness_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/brightness_title" />
+    <com.android.settings.DisplayBrightnessSliderPreference android:persistent="false" android:layout="@layout/preference_seekbar_brightness" android:key="brightness" />
+    <SwitchPreference android:persistent="false" android:title="@string/auto_brightness_title" android:key="auto_brightness" />
+    <PreferenceCategory android:state_expanded="true" android:title="@string/display_settings_title" android:summary="@string/auto_brightness_title_category" />
+    <SwitchPreference android:persistent="false" android:title="@string/accelerometer_title" android:key="auto_rotate" />
+    <Preference android:persistent="false" android:title="@string/xui_screen_color_title" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.ScreenTonePrefs" />
+    <Preference android:persistent="false" android:layout="@layout/preference_label" android:title="@string/captioning_text_size" android:key="font_size" android:summary="" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.FontSizePrefs" />
+    <PreferenceCategory />
+    <Preference android:persistent="false" android:layout="@layout/preference_label" android:title="@string/xui_screen_timeout_title" android:key="screen_timeout" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.ScreenTimeoutPrefs" />
+    <SwitchPreference android:persistent="false" android:title="@string/sunshine_mode" android:key="sunshine_mode" />
+    <PreferenceCategory android:state_expanded="true" android:key="sunshine_category" android:summary="@string/sunshine_category_summary" />
+    <SwitchPreference android:persistent="false" android:title="@string/anti_mistouch_mode_title" android:key="anti_mistouch_mode" />
+    <PreferenceCategory android:state_expanded="true" android:summary="@string/anti_mistouch_mode_summary" />
+    <SwitchPreference android:persistent="false" android:title="@string/xui_double_click_screen_on" android:key="double_click_screen_on" />
+    <PreferenceCategory />
+    <SwitchPreference android:persistent="false" android:title="@string/content_adaptive_brightness_control" android:key="brightness_control" />
+    <PreferenceCategory android:state_expanded="true" android:key="brightness_control_category" android:summary="@string/content_adaptive_brightness_control_summary" />
+</PreferenceScreen>

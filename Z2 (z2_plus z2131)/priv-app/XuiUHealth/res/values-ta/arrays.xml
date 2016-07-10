@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXWeek">
+        <item>ஞாயிறு</item>
+        <item>திங்கள்</item>
+        <item>செவ்வாய்</item>
+        <item>புதன்</item>
+        <item>வியாழன்</item>
+        <item>வெள்ளி</item>
+        <item>சனி</item>
+    </string-array>
+    <string-array name="exercise_array">
+        <item>நடத்தல்</item>
+        <item>ஓடுதல்</item>
+        <item>இருசக்கர வாகனத்தில் செல்லுதல்</item>
+        <item>படி ஏறுதல்</item>
+        <item>உட்புறம் ஓடுதல்</item>
+        <item>ஸ்பின்னிங்</item>
+        <item>ரோப் ஸ்கிப்பிங்</item>
+        <item>பிளாங்க்</item>
+        <item>யோகா</item>
+        <item>நடனம்</item>
+        <item>ஏரோபிக்ஸ்</item>
+        <item>நீச்சல்</item>
+        <item>டேபிள் டென்னிஸ்</item>
+        <item>பூப்பந்து</item>
+        <item>கூடைப்பந்து</item>
+        <item>கால்பந்து</item>
+        <item>டென்னிஸ்</item>
+        <item>கைப்பந்து</item>
+        <item>ஸ்கேட்டிங்</item>
+        <item>பனிச்சறுக்கு</item>
+    </string-array>
+    <string-array name="exercise_array_healthy_list">
+        <item>நடத்தல்</item>
+        <item>ஓடுதல்</item>
+        <item>இருசக்கர வாகனத்தில் செல்லுதல்</item>
+        <item>படி ஏறுதல்</item>
+        <item>உட்புறம் ஓடுதல்</item>
+        <item>ஸ்பின்னிங்</item>
+        <item>ரோப் ஸ்கிப்பிங்</item>
+        <item>பிளாங்க்</item>
+        <item>யோகா</item>
+        <item>நடனம்</item>
+        <item>ஏரோபிக்ஸ்</item>
+        <item>நீச்சல்</item>
+        <item>டேபிள் டென்னிஸ்</item>
+        <item>பூப்பந்து</item>
+        <item>கூடைப்பந்து</item>
+        <item>கால்பந்து</item>
+        <item>டென்னிஸ்</item>
+        <item>கைப்பந்து</item>
+        <item>ஸ்கேட்டிங்</item>
+        <item>பனிச்சறுக்கு</item>
+        <item>வாகனம்</item>
+    </string-array>
+    <string-array name="gender_lables">
+        <item>பெண்</item>
+        <item>ஆண்</item>
+    </string-array>
+    <string-array name="guest_info_more_array">
+        <item>பார்வையாளர்கள் தரவை திருத்த</item>
+        <item>பார்வையாளர்களை நீக்கு</item>
+    </string-array>
+    <string-array name="health_array">
+        <item>இதயத்துடிப்பு</item>
+        <item>SpO2</item>
+        <item>எடை</item>
+        <item>இரத்த அழுத்தம்</item>
+    </string-array>
+    <string-array name="health_array_other">
+        <item>இதயத்துடிப்பு வீதம்</item>
+        <item>ஆக்சிஜன் செறிவுநிலை</item>
+        <item>எடை</item>
+        <item>இரத்த அழுத்தம்</item>
+        <item>இதயத்துடிப்பு வீதம் மற்றும் ஆக்சிஜன் செறிவுநிலை</item>
+    </string-array>
+    <string-array name="heart_rate_type">
+        <item>செயலற்ற நிலை</item>
+        <item>செயலில் உள்ளது</item>
+    </string-array>
+    <string-array name="pace_speed_5">
+        <item>அவசரமின்றி</item>
+        <item>சாவகாசமாக</item>
+        <item>பதற்றம் இல்லாமல்</item>
+    </string-array>
+    <string-array name="pace_speed_6">
+        <item>நத்தை வேக</item>
+        <item>மெதுவான வேகத்தில்</item>
+        <item>மெதுவான வேகத்தில்</item>
+    </string-array>
+    <string-array name="products">
+        <item>ZUK</item>
+        <item>ஜாப்ரா பல்ஸ்</item>
+    </string-array>
+    <string-array name="skin_lables">
+        <item>மஞ்சள்</item>
+        <item>வெள்ளை</item>
+        <item>கருப்பு</item>
+    </string-array>
+    <string-array name="step_count_to_food">
+        <item>≈ஒரு முட்டை</item>
+        <item>≈5 மிட்டாய்கள்</item>
+        <item>≈பால் ஒரு டம்ளர்</item>
+        <item>≈கோக் ஒரு கேன்</item>
+        <item>≈சாதம் ஒரு கிண்ணம்</item>
+        <item>≈கிரீம் கேக்கில் ஒரு பாதி</item>
+        <item>≈ஒரு ஐஸ்கிரீம்</item>
+        <item>≈ஹாம்பர்கர் பாதி</item>
+        <item>≈உருளைக்கிழங்கு சிப்ஸ் அரைப்பை</item>
+        <item>≈கோக் 2 கேன்</item>
+        <item>≈இரண்டு ரொட்டித் துண்டுகள்</item>
+        <item>≈சாதம் இரண்டு கிண்ணம்</item>
+        <item>≈நூடுல்ஸ் ஒரு கிண்ணம்</item>
+        <item>≈கிரீம் கேக் ஒரு துண்டு</item>
+        <item>≈3 ரோஸ்ட் சிக்கன் விங்க்ஸ்</item>
+        <item>≈2 ஐஸ்கிரீம்</item>
+        <item>≈பீட்சா ஒரு துண்டு</item>
+        <item>≈ஒரு ஹாம்பர்கர்</item>
+    </string-array>
+    <string-array name="trend_day_by_hour">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+</resources>

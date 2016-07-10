@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="display_button_radius">3.0dip</dimen>
+    <dimen name="cal_switch_btn_margin">16.0dip</dimen>
+    <dimen name="cal_switch_btn_port_margin_top">10.0dip</dimen>
+    <dimen name="port_pad_layout_height">433.32812dip</dimen>
+</resources>

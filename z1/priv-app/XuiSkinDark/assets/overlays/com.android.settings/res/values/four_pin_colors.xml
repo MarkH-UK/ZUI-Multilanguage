@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ＃8c8c8c 70% no-transparent == 626262 -->
+    <color name="four_pin_inner">#ff626262</color>
+    <color name="four_pin_outter">#ff626262</color>
+    <color name="four_pin_number">#ff626262</color>
+
+</resources>

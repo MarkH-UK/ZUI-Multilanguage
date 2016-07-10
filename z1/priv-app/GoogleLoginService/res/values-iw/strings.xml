@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">‏שגיאה בשירותי Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">‏קיימת אפליקציה המחייבת התקנה של שירותי Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">‏קיימת אפליקציה המחייבת עדכון עבור שירותי Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">‏אפליקציה מסוימת דורשת עדכון לאפליקציה Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">‏קיימת אפליקציה המחייבת הפעלה של שירותי Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">התבקשה על ידי %1$s</string>
+    <string name="common_google_play_services_install_title">‏קבל את שירותי Google Play</string>
+    <string name="common_google_play_services_install_text_phone">‏אפליקציה זו לא תפעל ללא שירותי Google Play, החסרים בטלפון שלך.</string>
+    <string name="common_google_play_services_install_text_tablet">‏אפליקציה זו לא תפעל ללא שירותי Google Play, החסרים בטאבלט שלך.</string>
+    <string name="common_google_play_services_install_button">‏קבל את שירותי Google Play</string>
+    <string name="common_google_play_services_enable_title">‏הפעלת שירותי Google Play</string>
+    <string name="common_google_play_services_enable_text">‏אפליקציה זו לא תעבוד אם לא תפעיל את שירותי Google Play.</string>
+    <string name="common_google_play_services_enable_button">‏הפעל את שירותי Google Play</string>
+    <string name="common_google_play_services_update_title">‏עדכון שירותי Google Play</string>
+    <string name="common_android_wear_update_title">‏עדכון Android Wear</string>
+    <string name="common_google_play_services_update_text">‏אפליקציה זו לא תפעל אם לא תעדכן את שירותי Google Play.</string>
+    <string name="common_android_wear_update_text">‏אפליקציה זו לא תפעל עד שתעדכן את האפליקציה Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">שגיאת רשת.</string>
+    <string name="common_google_play_services_network_error_text">‏דרוש חיבור נתונים כדי להתחבר לשירותי Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">חשבון לא חוקי</string>
+    <string name="common_google_play_services_invalid_account_text">החשבון שצוין לא קיים במכשיר זה. בחר חשבון אחר.</string>
+    <string name="common_google_play_services_unknown_issue">‏בעיה לא ידועה בשירותי Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">‏שירותי Google Play</string>
+    <string name="common_google_play_services_unsupported_text">‏שירותי Google Play, שחלק מהאפליקציות שלך מתבססות עליהם, אינם נתמכים על ידי המכשיר שברשותך. צור קשר עם היצרן לקבלת סיוע.</string>
+    <string name="common_google_play_services_update_button">עדכן</string>
+    <string name="common_signin_button_text">היכנס</string>
+    <string name="common_signin_button_text_long">‏היכנס באמצעות Google</string>
+    <string name="common_open_on_phone">פתח בטלפון</string>
+    <string name="setup_wizard_next_button_label">הבא</string>
+    <string name="setup_wizard_back_button_label">הקודם</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">דלג</string>
+    <string name="down_button_label">עוד</string>
+    <string name="cancel_button_label">ביטול</string>
+    <string name="try_again_button_label">נסה שוב</string>
+    <string name="close_button_label">סגור</string>
+    <string name="url_load_unsuccessful_message">‏מכשיר Android שלך אינו מחובר לשירות נתונים. כדי להציג מידע זה כעת, בקר בכתובת %s באמצעות דפדפן אינטרנט.</string>
+    <string name="sign_in_agreement">‏בכך שאתה נכנס, אתה מביע את הסכמתך ל<annotation id="tos">תנאים וההגבלות</annotation> של Google, ל<annotation id="google_privacy">מדיניות הפרטיות</annotation> ול<annotation id="play_tos">תנאים וההגבלות של Google Play‏</annotation>.</string>
+    <string name="android_privacy_policy_title">מדיניות פרטיות נוספת</string>
+    <string name="google_terms_of_service_title">‏תנאים והגבלות של Google</string>
+    <string name="google_privacy_policy_title">‏מדיניות הפרטיות של Google</string>
+    <string name="google_plus_privacy_policy_title">‏מדיניות הפרטיות של Google+‎</string>
+    <string name="google_play_tos_title">‏תנאים והגבלות של Google Play</string>
+    <string name="chrome_tos_title">‏תנאים והגבלות של Chrome</string>
+    <string name="chrome_privacy_title">‏הודעת פרטיות של Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">‏מכשיר ה-Android שלך לא מחובר לרשת Wi-Fi. כדי להציג את המידע הזה עכשיו, בקר ב-%s באמצעות דפדפן אינטרנט.</string>
+    <string name="services_activity_title">‏שירותי Google</string>
+    <string name="services_backup_heading">גיבוי</string>
+    <string name="services_location_heading">מיקום</string>
+    <string name="services_security_heading">אבטחה</string>
+    <string name="services_personalization_heading">התאמה אישית</string>
+    <string name="services_communication_heading">תקשורת</string>
+    <string name="security_verify_apps_summary">‏תן ל-Google לבדוק את כל האפליקציות המותקנות כדי לאתר פוטנציאל של התנהגות מזיקה שעשויה להשפיע על אבטחת המכשיר או הנתונים שלך.</string>
+    <string name="name_title">השם שלך</string>
+    <string name="name_text">‏השם שלך משמש להתאמה אישית של הטלפון ושירותי Google.</string>
+    <string name="first_name">שם פרטי</string>
+    <string name="last_name">שם משפחה</string>
+    <string name="cant_be_blank">השדה לא יכול להיות ריק.</string>
+    <string name="sharedUserLabel">Google Services</string>
+    <string name="app_label">‏מנהל חשבון Google</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">כניסה</string>
+    <string name="create_button_label">קבל חשבון</string>
+    <string name="not_now_button_label">לא עכשיו</string>
+    <string name="new_button_label">חדש</string>
+    <string name="existing_button_label">קיים</string>
+    <string name="done">אישור</string>
+    <string name="edit_text_help">גע בתיבת טקסט כלשהי כדי להתחיל להקליד</string>
+    <string name="add_a_google_account">‏הוסף חשבון Google</string>
+    <string name="captcha_title">‏יש להזין CAPTCHA</string>
+    <string name="show_error_title">שגיאה</string>
+    <string name="server_error">‏הייתה בעיה בניהול התקשורת עם שרתי Google.</string>
+    <string name="server_error_help">נסה שוב מאוחר יותר.</string>
+    <string name="network_unreliable">לא ניתן ליצור חיבור אמין לשרת.</string>
+    <string name="network_unreliable_help">‏ייתכן שמדובר בבעיה זמנית או שמכשיר ה-Android שלך לא הותאם לשירותי נתונים. אם הבעיה נמשכת, פנה לשירות הלקוחות.</string>
+    <string name="network_unreliable_help_wifi_only">‏ייתכן שזו בעיה זמנית. נסה שוב או התחבר לרשת Wi-Fi אחרת.</string>
+    <string name="invalid_login_character">‏תו לא חוקי. ניתן להשתמש רק בתווים 0-9, a-z, ‏A-Z ובנקודות.</string>
+    <string name="invalid_password_character">תו לא חוקי בסיסמה.</string>
+    <string name="calendar">‏יומן Google</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">השדה לא יכול להיות ריק.</string>
+    <string name="plus_query_title">‏שדרג ל-Google+‎</string>
+    <string name="plus_query_text">‏Google+‎ מאפשר לך לשתף דברים באינטרנט ממש כמו בחיים האמיתיים.</string>
+    <string name="circles_subtitle">זרם של דברים שמעניינים אותך</string>
+    <string name="circles_text">צור קשר עם חברים קרובים וגלה תחומי עניין משותפים.</string>
+    <string name="uploads_subtitle">גיבוי תמונות אוטומטי</string>
+    <string name="uploads_text">גיבוי תמונות מיד לאחר הצילום, באמצעות אחסון פרטי בחינם.</string>
+    <string name="huddle_subtitle">שיחות וידאו והעברת הודעות</string>
+    <string name="huddle_text">‏Hangouts מאפשר לכם ליהנות משליחת הודעות טקסט, תמונות ושיחות וידאו קבוצתיות.</string>
+    <string name="plus_declined_button_label">לא עכשיו</string>
+    <string name="plus_accepted_button_label">תחילת העבודה</string>
+    <string name="plus_name_check_title">‏יוצר קשר עם Google+‎...</string>
+    <string name="plus_name_check_text">זה יכול לקחת כמה דקות.</string>
+    <string name="plus_faq_title">‏ברוכים הבאים אל +Google!</string>
+    <string name="plus_faq_text" formatted="false">"‏ב-Google+‎ יהיה לך פרופיל ציבורי, כדי שהחברים שלך יוכלו למצוא אותך באינטרנט. כל מי שיודע מהי כתובת האימייל שלך יוכל למצוא את הפרופיל שלך ולצפות בו.
+ 
+ תוכל להשתמש בלחצני ‎+1 הפזורים ברחבי האינטרנט כדי להמליץ על דברים לכל העולם. הפרופיל שלך וסימוני ה-‎+1 שלך יופיעו באופן ציבורי בחיפוש, במודעות ובאינטרנט. 
+ 
+ בשלב זה, הפרופיל שלך יציג רק את שמך %s%s. תוכל להוסיף תמונה, פרטי ביוגרפיה ופרטים אחרים מאוחר יותר, כשתתחיל להשתמש ב-Google+‎."</string>
+    <string name="dasher_warning">‏כל הנתונים ב-Google+‎ שייכים למנהל המערכת ב-%s והוא מנהל אותם וכמו כן יכול למחוק או לשנות את הפרופיל שלך בכל עת ללא אישורך.</string>
+    <string name="profile_info_title">הפרופיל שלך</string>
+    <string name="profile_text">‏ספק מידע בסיסי עבור הפרופיל שלך. תוכל להוסיף תמונה ופרטים אחרים מאוחר יותר כשתתחיל להשתמש ב-Google+‎.</string>
+    <string name="occupation">מקצוע</string>
+    <string name="current_city">העיר הנוכחית</string>
+    <string name="picassa_info_title">‏Picasa ו-Google+‎</string>
+    <string name="picassa_info_text" formatted="false">"‏תמונות וסרטוני וידאו ב'אלבומי Google' יהיו זמינים ב-Google+‎&lt;LRM>‎ וההערות שלך יופיעו לפי %s%s במקום לפי %s. כאשר אתה משתף תמונות ב-Google+‎&lt;LRM>‎, הנמענים יכולים לשתף אותם מחדש עם כל אחד. הגדרות החשיפה של האלבומים שלך לא ישתנו, ותוכל להגביל אותן בכל עת, כך שלא יהיה ניתן לשתף אותם מחדש באופן חופשי."</string>
+    <string name="name_title_plus">‏השם שלך ב-Google+‎</string>
+    <string name="name_title_local">טלפון זה שייך ל...</string>
+    <string name="name_text_local">הטלפון משתמש בשם שלך כדי להתאים אישית כמה אפליקציות.</string>
+    <string name="name_progress_title">רק שנייה...</string>
+    <string name="bad_name_title">להשתמש בשם זה?</string>
+    <string name="invalid_name_title">לא ניתן להשתמש בשם זה</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"‏אם ברצונך להגדיר שם זה כשם שלך ב-Google+‎&lt;LRM>‎, הצוות שלנו צריך לבדוק אותו. אם השם מפר את מדיניות השמות שלנו, ייתכן שהפרופיל שלך יושעה. דבר זה יגביל את היכולת שלך להשתמש במוצרי Google הדורשים פרופיל פעיל.
+
+"<annotation id="learn_more">למידע נוסף</annotation></string>
+    <string name="invalid_name_text">‏אינך יכול להשתמש בשם זה עם Google+‎ משום שהוא מכיל תווים לא חוקיים.</string>
+    <string name="invalid_nickname_text">‏אינך יכול להשתמש בשם זה עם Google+‎ משום שהוא מכיל תווים לא חוקיים. מנסה להשתמש בכינוי, שם קודם או תואר? תוכל להוסיף אותם לפרופיל שלך לאחר שתצטרף.</string>
+    <string name="invalid_other_text">‏לא ניתן להשתמש בשם זה ב-Google+‎.</string>
+    <string name="bad_name_agree_text">אני מבין ורוצה להשתמש בשם זה.</string>
+    <string name="bad_name_decline_button_label">עדכן שם</string>
+    <string name="bad_name_agree_button_label">שלח שם לביקורת</string>
+    <string name="bad_name_skip_button_label">‏דלג על Google+‎</string>
+    <string name="photo_title">התמונה שלך</string>
+    <string name="photo_text">"תמונה זו תופיע ברשומת אנשי הקשר שלך. תוכל לשנות אותה מאוחר יותר באפליקציה 'אנשים'."</string>
+    <string name="photo_text_es">‏צלם תמונה שחבריך יראו ב-Google+‎. תוכל לבחור תמונה חדשה מאוחר יותר.</string>
+    <string name="photo_button_label">צלם תמונה</string>
+    <string name="retake_photo_button_label">צלם את התמונה מחדש</string>
+    <string name="photo_failure">לא ניתן להפעיל את המצלמה.</string>
+    <string name="crop_failure">לא ניתן לחתוך את התמונה.</string>
+    <string name="photo_description">התמונה שלך</string>
+    <string name="communicating_message">‏הטלפון שלך יוצר קשר עם Google כדי לשמור מידע בחשבון שלך. פעולה זו יכולה להימשך עד 5 דקות.</string>
+    <string name="creating_account_title">שומר את החשבון...</string>
+    <string name="checking_username_message">"‏הטלפון שלך יוצר קשר עם Google כדי לבדוק אם שם המשתמש שביקשת זמין.
+
+פעולה זו עשויה להימשך כמה דקות."</string>
+    <string name="plus_failure_title">‏הצטרף אל Google+‎ מאוחר יותר</string>
+    <string name="plus_failure_new_account_text">‏חשבון Google שלך נוצר, אך בקשת ההצטרפות שלך אל Google+‎&lt;LRM>‎ לא התקבלה. נסה שוב מאוחר יותר מכל דפדפן אינטרנט, בכתובת plus.google.com.</string>
+    <string name="plus_failure_text">‏בקשתך להצטרף אל Google+‎&lt;LRM>‎ לא התקבלה. נסה שוב מאוחר יותר מדפדפן אינטרנט אחר, בכתובת plus.google.com.</string>
+    <string name="provisioned_login_title">הזן סיסמה</string>
+    <string name="provisioned_welcome">‏שלום, %s!</string>
+    <string name="provisioned_welcome_2">"‏הזן את הסיסמה שלך ל:
+%s"</string>
+    <string name="provisioned_incorrect_login">‏לא %s?</string>
+    <string name="login_title">הקלד כתובת אימייל וסיסמה</string>
+    <string name="login_task_title">כניסה למערכת</string>
+    <string name="password">סיסמה</string>
+    <string name="restore_wifi">‏שחזר והתחבר לרשתות -Wi-Fi מוכרות.</string>
+    <string name="sign_in_agreement_multi_user">‏על ידי כניסה אתה מסכים ל<annotation id="tos">תנאים ולהגבלות</annotation> של Google‏, <annotation id="google_privacy">למדיניות הפרטיות</annotation> ול<annotation id="play_tos">תנאים ולהגבלות של Google Play</annotation>"‏. 
+
+זכור: כל המשתמשים האחרים יכולים לקבל אישורי אפליקציה מעודכנים בשמך. כמו בכל מחשב, עליך לשתף טאבלט זה רק עם אנשים שאתה סומך עליהם."</string>
+    <string name="sign_in_agreement_with_chrome">‏על ידי ביצוע כניסה אתה מסכים ל<annotation id="tos">תנאים ולהגבלות</annotation> ול<annotation id="google_privacy">מדיניות הפרטיות</annotation> של Google, ל<annotation id="chrome_tos">תנאים ולהגבלות</annotation> ול<annotation id="chrome_privacy">הודעת הפרטיות</annotation> של Chrome, ול<annotation id="play_tos">תנאים ולהגבלות</annotation> של Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">‏על ידי כניסה אתה מסכים ל<annotation id="tos">תנאים ולהגבלות</annotation> ול<annotation id="google_privacy">מדיניות הפרטיות</annotation> של Google, ל<annotation id="chrome_tos">תנאים ולהגבלות</annotation> ול<annotation id="chrome_privacy">הודעת הפרטיות</annotation> של Chrome ול<annotation id="play_tos">תנאים ולהגבלות</annotation>" של Google Play‏. 
+
+זכור: כל המשתמשים האחרים יכולים לקבל אישורי אפליקציה מעודכנים בשמך. כמו בכל מחשב, עליך לשתף טאבלט זה רק עם אנשים שאתה סומך עליהם."</string>
+    <string name="create_prompt">" ‏ אין לך חשבון Google‏? "<annotation id="create_account">צור חשבון כעת</annotation>.</string>
+    <string name="sign_in_with_google_account_short">‏היכנס עם חשבון Google:</string>
+    <string name="invalid_username">הטקסט שהקלדת אינו שם משתמש חוקי.</string>
+    <string name="captcha_instructions">הקלד את הטקסט שאתה רואה כאן:</string>
+    <string name="create_google_account">בחירת שם משתמש</string>
+    <string name="create_google_account_text">‏חשבון Google שלך מגיע עם Gmail, שירות האימייל של Google. הוא פועל בכל מכשיר, חוסם ספאם ועוד הרבה יותר.</string>
+    <string name="account_already_has_gmail">‏כבר יש בחשבון Gmail.</string>
+    <string name="error_account_disabled">"‏החשבון הזה הושבת. 
+
+(לפרטים, בקר בכתובת https://google.com/accounts באמצעות דפדפן אינטרנט.)"</string>
+    <string name="no_network">אין לך חיבור לרשת.</string>
+    <string name="no_network_help">‏ייתכן שזו בעיה זמנית או שמכשיר ה-Android שלך לא מותאם לשירותי נתונים. נסה שוב כשתהיה מחובר לרשת לנייד, או התחבר לרשת Wi-Fi.</string>
+    <string name="no_network_help_wifi_only">‏ייתכן שזו בעיה זמנית. נסה שוב או התחבר לרשת Wi-Fi אחרת.</string>
+    <string name="error_login_failed">"‏שם המשתמש והסיסמה שלך אינם תואמים. נסה שוב.
+
+ כדי לשחזר את פרטי החשבון שלך, עבור אל /‏google.com/accounts/recovery."</string>
+    <string name="error_account_not_verified">"‏חשבון זה לא אומת. בדוק את האימייל שלך והפעל את הקישור שמופיע בו כדי לאמת חשבון זה.
+
+(כדי לשחזר את פרטי החשבון, עבור אל http://www.google.com/accounts/recovery במחשב.)"</string>
+    <string name="exit_menu_item">צא מכניסה באמצעות דפדפן</string>
+    <string name="creating_profile">יוצר את הפרופיל שלך…</string>
+    <string name="checking_account">בודק זמינות...</string>
+    <string name="is_not_available">שם המשתמש <b>^1</b> אינו זמין.</string>
+    <string name="suggestions_hint">גע לקבלת הצעות</string>
+    <string name="suggest_username_next_button_label">שנה שם משתמש</string>
+    <string name="hint_size">" ‏ "<b>‎^1‏</b> מכיל פחות מ-6 תווים או יותר מ-30 תווים.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> לא מכיל אותיות.</string>
+    <string name="hint_illegal_chars">" ‏ "<b>‎^1‏</b>" יכול להכיל רק אותיות,
+מספרים ונקודות."</string>
+    <string name="doesnt_use_gmail">" ‏ "<b>^1</b> לא משתמש ב-Gmail.</string>
+    <string name="sign_in_browser">כניסה מדפדפן</string>
+    <string name="alternatives_list_title">הצעות לשמות משתמש</string>
+    <string name="password_title">יצירת סיסמה</string>
+    <string name="choose_a_password">סיסמה</string>
+    <string name="confirm_password">הקלד מחדש את הסיסמה</string>
+    <string name="too_short">קצר מדי</string>
+    <string name="security_questions_title">שאלות אבטחה</string>
+    <string name="answer">" "<b>תשובה</b></string>
+    <string name="password_mismatch">אין התאמה בין הסיסמאות. נסה שוב.</string>
+    <string name="eight_chars_min">8 תווים לפחות</string>
+    <string name="verify_your_profile">אמת את הפרופיל שלך</string>
+    <string name="error_not_logged_in">המשתמש לא נכנס למערכת.</string>
+    <string name="error_username_unavailable">שם המשתמש אינו זמין.</string>
+    <string name="error_bad_password">הסיסמה חלשה מדי או מכילה תווים לא חוקיים. נסה שוב.</string>
+    <string name="error_bad_username">שם משתמש לא חוקי.</string>
+    <string name="existing_account_error_title">החשבון כבר קיים</string>
+    <string name="existing_account_error_text">‏כבר יש חשבון בשם ^1 במכשיר Android זה.</string>
+    <string name="submission_title">מצטערים...</string>
+    <string name="submission_error_text">אירעה שגיאה. נסה שוב.</string>
+    <string name="sync_intro_title">סנכרון חשבון</string>
+    <string name="account_tos_title">סיום הגדרת חשבון</string>
+    <string name="account_tos_plus_title">‏סיום ההצטרפות אל Google+‎</string>
+    <string name="i_accept">אני מסכים</string>
+    <string name="i_decline">אל תיצור חשבון</string>
+    <string name="allow_personalized_content">‏תן ל-Google רשות להשתמש במידע שלך כדי להתאים אישית עבורך את התוכן ואת המודעות באתרים שאינם אתרי Google.</string>
+    <string name="enable_web_history">הפעל היסטוריית אתרים</string>
+    <string name="learn_more"><annotation id="learn_more">למידע נוסף</annotation></string>
+    <string name="account_creation_tos">‏בכך שאתה נכנס, אתה מביע את הסכמתך ל<annotation id="tos">תנאים וההגבלות</annotation> ול<annotation id="google_privacy">מדיניות הפרטיות</annotation> של Google ול<annotation id="play_tos">תנאים וההגבלות של Google Play‏</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">‏בכך שתמשיך, אתה מסכים ל<annotation id="tos">תנאים ולהגבלות</annotation> ול<annotation id="google_privacy">מדיניות הפרטיות</annotation> של Google, ל<annotation id="chrome_tos">תנאים ולהגבלות</annotation> ול<annotation id="chrome_privacy">הודעת הפרטיות</annotation> של Chrome ול<annotation id="play_tos">תנאים ולהגבלות</annotation> של Google Play.</string>
+    <string name="gender_prompt">מין</string>
+    <string name="gender_hint">מין</string>
+    <string name="account_pre_intro_title">‏יש לך חשבון Google?</string>
+    <string name="account_pre_intro_default_message">"‏יש לך חשבון Google‏?
+
+אם אתה משתמש ב-Gmail או ב-Google Apps, השב 'כן'."</string>
+    <string name="account_pre_intro_yes">כן</string>
+    <string name="account_pre_intro_no">לא</string>
+    <string name="account_intro_title">‏חשבון Google</string>
+    <string name="account_intro_required_title">‏מופעל על ידי Google</string>
+    <string name="account_intro_recommended_title">‏הגדר אותו כ-Google‎</string>
+    <string name="account_intro_default_message">‏לעולם לא תאבד שוב את הדברים שלך. חשבון Google שומר עבורך על הכל.</string>
+    <string name="account_intro_simple_message">האם ברצונך להוסיף חשבון קיים או ליצור חשבון חדש?</string>
+    <string name="account_intro_learn_more">למידע נוסף</string>
+    <string name="learn_more_title">למד עוד</string>
+    <string name="learn_more_account_intro">"‏חשבון Google מאפשר לך:
+
+"<li><ul>להציג ולארגן את כל המידע שלך—כולל היסטוריית החיפוש—מכל מקום.</ul></li>"
+
+"<li><ul>בצע גיבוי אוטומטי של הנתונים שלך, כגון אימייל, אנשי קשר, מוזיקה ותמונות.</ul></li>"
+
+"<li><ul>השתמש בשירותי Google בקלות מכל מקום—כולל אנשי קשר, יומן, מפות ועוד.</ul></li></string>
+    <string name="learn_more_account_intro_title">‏מידע על חשבונות Google</string>
+    <string name="learn_more_bad_name">"‏ב-Google+‎ עליך להשתמש בשם המוכר שלך. הפרופיל שלך אמור לייצג אדם אחד — לא עסק, ארגון או משפחה — ועליו לכלול את השם הפרטי ואת שם המשפחה שלך בשפה אחת, ללא תארים מקצועיים או פיסוק לא נחוץ. לאחר ההרשמה, תוכל לרשום כינויים או שמות אחרים שאתה מוכר בהם בשדה 'שמות אחרים' בפרופיל שלך."</string>
+    <string name="learn_more_bad_name_title">מידע על מדיניות השמות</string>
+    <string name="wait_for_device_country_title">הגדרת חשבון</string>
+    <string name="wait_for_device_country_msg">אוסף מידע על הטלפון שלך. פעולה זו עשויה להימשך עד 30 שניות.</string>
+    <string name="recovery_title">‏אחזור סיסמת Google</string>
+    <string name="recovery_wait_title">‏יוצר קשר עם Google‎…</string>
+    <string name="cannot_talk_to_server_msg">‏המכשיר לא הצליח להשיג את Google.</string>
+    <string name="recovery_skip_label">דלג</string>
+    <string name="recovery_retry_label">נסה שוב</string>
+    <string name="recovery_message_set">"‏במקרה שתשכח את הסיסמה שלך, כדאי שתהיה לך דרך לשחזר אותה.‏
+
+‏Google מספקת אפשרויות לשחזור הסיסמה שלך באמצעות SMS או כתובת אימייל חלופית.
+
+מומלץ מאוד לבצע פעולה זו. "<annotation id="help_url">למידע נוסף</annotation></string>
+    <string name="recovery_message_verify">"‏קל לשכוח סיסמאות.
+
+אשר עכשיו את מספר הטלפון או את כתובת האימייל לגיבוי. כך יהיה לך קל יותר לאחזר את הגישה לתוכן שלך ב-Google וב-Google Play‏. "<annotation id="help_url">למידע נוסף</annotation></string>
+    <string name="recovery_yes_button_label">הגדר אפשרויות אחזור</string>
+    <string name="recovery_yes_button_label_verify">אשר אפשרויות אחזור</string>
+    <string name="recovery_later_button_label">לא עכשיו</string>
+    <string name="recovery_input_screen_message">פרטי האחזור האלה חלים על %s.</string>
+    <string name="secondary_email_hint">כתובת אימייל לגיבוי</string>
+    <string name="secondary_email_invalid">כתובת אימייל שגויה</string>
+    <string name="secondary_email_same_as_primary">לא יכול להיות זהה לאימייל הראשי</string>
+    <string name="phone_number_hint">מספר טלפון</string>
+    <string name="phone_number_invalid_character">תווים לא חוקיים במספר הטלפון</string>
+    <string name="phone_number_invalid">מספר טלפון לא חוקי</string>
+    <string name="country_invalid">ארץ זו אסורה</string>
+    <string name="recovery_server_error">שגיאה בתקשורת עם השרת. נסה שוב מאוחר יותר.</string>
+    <string name="account_recovery_info">אם אי פעם תאבד את הסיסמה שלך, תוכל לענות על שאלת אבטחה ותקבל קישור איפוס שיישלח באימייל לכתובת אחרת.</string>
+    <string name="secondary_email_label">כתובת אימייל לאחזור</string>
+    <string name="invalid_email">"‏כתובת האימייל שהקלדת אינה חוקית.
+לדוגמה: joe@example.com"</string>
+    <string name="invalid_email_primary">הכתובת לשחזור לא יכולה להיות זהה לכתובת שאתה יוצר.</string>
+    <string name="backup_consent_message">"‏השתמש בחשבון Google ​​כדי לגבות אפליקציות, הגדרות (כמו סיסמאות Wi-Fi וסימניות), ונתונים אחרים. אם גיבית בעבר את החשבון שלך, תוכל לשחזר אותו כעת בטלפון זה.
+
+ ניתן לשנות את הגדרות הגיבוי בכל עת ב'הגדרות'."</string>
+    <string name="backup_consent_message_no_restore">"‏השתמש בחשבון Google ​​כדי לגבות אפליקציות, הגדרות (כמו סיסמאות Wi-Fi וסימניות), ונתונים אחרים.
+
+ ניתן לשנות את הגדרות הגיבוי בכל עת ב'הגדרות'."</string>
+    <string name="restoring_title">משחזר...</string>
+    <string name="restoring_message">‏הטלפון יוצר קשר עם Google כדי לשחזר את החשבון שלך. פעולה זו עשויה להימשך זמן מה.</string>
+    <string name="gls_notification_login_error">גע כדי להיכנס לחשבון שלך.</string>
+    <string name="gls_ui_add_account_title">הגדרת חשבון</string>
+    <string name="gls_ui_activity_title">היכנס</string>
+    <string name="gls_ui_activity_title_browser_signin">היכנס</string>
+    <string name="gls_ui_activity_title_checking_in">מכין...</string>
+    <string name="gls_ui_activity_authenticating">מאמת…</string>
+    <string name="gls_dmagent_activity_activate_message">" ‏ הדומיין שלך מחייב ניהול מכשירים ניידים. הפעל את האפליקציה ’מדיניות מכשיר של Google Apps‘ כדי לאכוף את מדיניות האבטחה הנדרשת על ידי חשבון  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">הפעל</string>
+    <string name="gls_dmagent_activity_download_message">" ‏ הדומיין שלך מחייב ניהול מכשירים ניידים. התקן את האפליקציה ’מדיניות מכשיר של Google Apps‘ כדי לאכוף את מדיניות האבטחה הנדרשת על ידי חשבון  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">הורד</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">הקלדת סיסמה שגויה או שהחשבון שלך השתנה. הקלד שוב את הסיסמה שלך.</string>
+    <string name="permlab_googleAuthPassword">‏גישה לסיסמאות של חשבונות Google</string>
+    <string name="permdesc_googleAuthPassword">‏מאפשר לאפליקציות לגשת באופן ישיר לסיסמאות של חשבונות Google שהגדרת.</string>
+    <string name="permlab_googleMailSwitch">‏בחר מיתוג של Gmail או Google Mail</string>
+    <string name="permdesc_googleMailSwitch">‏מאפשר לאפליקציות להעביר את השם המוצג בין מיתוג \"Gmail\" ומיתוג \"Google Mail\".</string>
+    <string name="sync_item_title">סנכרן %s</string>
+    <string name="grant_credentials_permission_message_footer">בקשת אישור עבור:</string>
+    <string name="grant_credentials_permission_message_app">‏אפליקציות אלו ירצו גישה לחשבון Google שלך מעכשיו:</string>
+    <string name="grant_permissions_header_text">בקשה לאישור</string>
+    <string name="allow">אפשר גישה</string>
+    <string name="deny">לא תודה</string>
+    <string name="permission_request_notification_with_subtitle">"דרושה הרשאה
+ לחשבון %s"</string>
+    <string name="notification_title">שגיאת כניסה עבור %1$s</string>
+    <string name="account_setup_title">‏חשבון Google</string>
+    <string name="login_activity_title">כניסה</string>
+    <string name="relogin_activity_title">הקלד שוב את הסיסמה</string>
+    <string name="show_error_activity_title">לא ניתן היה להיכנס</string>
+    <string name="login_activity_task_title">נכנס…</string>
+    <string name="login_activity_task_msg">הפעולה עשויה להימשך מספר דקות.</string>
+    <string name="prepare_account_setup_task_title">מכין את הגדרת החשבון…</string>
+    <string name="prepare_account_setup_task_msg">הפעולה עשויה להימשך מספר דקות.</string>
+    <string name="sync_intro_activity_title">סנכרון החשבון שלך</string>
+    <string name="username">אימייל</string>
+    <string name="error_invalid_second_factor">השתמש בסיסמה ספציפית-ליישום במקום בסיסמת החשבון הרגילה.</string>
+    <string name="error_needs_browser">"כדי לגשת לחשבון שלך, עליך להיכנס באמצעות האינטרנט. גע ב'הבא' כדי להיכנס דרך דפדפן."</string>
+    <string name="google_play_opt_in">‏עדכנו אותי בחדשות והצעות מ-Google Play.</string>
+    <string name="google_settings_header_title">פרטיות</string>
+    <string name="maps_settings_title">‏מפות ו-Latitude</string>
+    <string name="location_settings_title">מיקום</string>
+    <string name="search_settings_title">חיפוש</string>
+    <string name="plus_settings_title">+Google</string>
+    <string name="ads_settings_title">מודעות</string>
+    <string name="location_network_based">‏שירות המיקום של Google</string>
+    <string name="location_neighborhood_level">‏אפשר שליחה של נתוני מיקום אנונימיים אל Google. כמו כן, אפשר לאפליקציות מורשות להשתמש בנתונים ממקורות כגון רשתות Wi-Fi ורשתות לנייד כדי לקבוע את המיקום המשוער שלך.</string>
+    <string name="use_location_title">‏מיקום וחיפוש Google</string>
+    <string name="use_location_summary">‏אפשר ל-Google להשתמש במיקום שלך כדי לשפר את תוצאות החיפוש ושירותים נוספים</string>
+    <string name="backup_consent_yes_agree">‏השתמש בחשבון Google שלך כדי לגבות את האפליקציות, ההגדרות (כגון סימניות וסיסמאות Wi-Fi) ונתונים אחרים.</string>
+    <string name="restore_consent_yes_agree">‏הבא אפליקציות, הגדרות ונתונים אחרים אל הטלפון הזה שגיבית לאחרונה בחשבון Google שלך.</string>
+    <string name="audit_logging_summary">‏שלח באופן אוטומטי אירוע מכשיר ונתוני אבחון אל Google כדי לעזור בשיפור המוצרים שלנו ולהגן על המכשיר שלך.</string>
+    <string name="no_back_msg">לא ניתן לחזור לשלב הקודם.</string>
+    <string name="setup_wizard_title">אשף ההגדרה</string>
+    <string name="setup_wizard_services_activity_title">‏שירותי Google</string>
+    <string name="setup_wizard_services_description">‏בעזרת השירותים האלה Google עובדת עבורך, וניתן להפעיל או לכבות אותם בכל עת. השימוש בנתונים יעשה בהתאם ל<annotation id="google_privacy">מדיניות הפרטיות</annotation> של Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">גיבוי ושחזור</string>
+    <string name="setup_wizard_services_location_heading">מיקום</string>
+    <string name="setup_wizard_services_communication_heading">תקשורת</string>
+    <string name="setup_wizard_services_backup">‏<b>גבה את האפליקציות, נתוני האפליקציות, ההגדרות, המילונים האישיים וסיסמאות ה-Wi-Fi שבטלפון</b> באמצעות חשבון Google כדי שתוכל לשחזר אותם בקלות במועד מאוחר יותר. <annotation id="backup_details">למידע נוסף</annotation></string>
+    <string name="setup_wizard_services_backup_restore">‏<b>גבה את האפליקציות, נתוני האפליקציות, ההגדרות, המילונים האישיים וסיסמאות ה-Wi-Fi שלך</b> באמצעות חשבון Google כדי שתוכל לשחזר אותם בקלות במועד מאוחר יותר.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">‏הנתונים כוללים אפליקציות, הגדרות אפליקציה, הגדרות מערכת וסיסמאות Wi-Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">‏לאחר הפעלה של גיבוי אוטומטי, נתוני המכשיר נשמרים מדי פעם בחשבון Google שלך. הגיבוי עשוי לכלול מידע מתיקיות הנתונים של האפליקציות שלך, כמו העדפות, הגדרות, הודעות, תמונות וקבצים אחרים.</string>
+    <string name="setup_wizard_services_location_sharing">‏<b>השתמש בשירות המיקום של Google</b> כדי לעזור לאפליקציות לקבוע מיקום. משמעות הדבר היא שליחת נתוני מיקום אנונימיים ל-Google, גם כאשר לא פועלות אפליקציות. <annotation id="location_details">למידע נוסף</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">"‏שירות המיקום של Google נעזר במקורות כגון Wi‑Fi ורשתות סלולריות כדי להעריך את מיקום המכשיר שלך במהירות רבה יותר ובצורה מדויקת יותר. בעת הפעלת שירותי המיקום של Google, המכשיר שלך נכנס למצב שמשתמש ב-Wi‑Fi וברשתות סלולריות כדי לספק מידע על מיקום. תוכל לבטל זאת בהגדרות המיקום על ידי בחירת מצב שמשתמש ב-GPS בלבד, שנקרא לעתים מצב 'מכשיר בלבד'."</string>
+    <string name="setup_wizard_services_location_wifi_scan">‏<b>עזור לשפר את שירותי המיקום</b> על ידי שתאפשר לאפליקציות ולשירותים לבצע סריקה לאיתור רשתות Wi‑Fi גם כאשר ה-Wi‑Fi כבוי.</string>
+    <string name="setup_wizard_services_location_footnote">‏שירות המיקום של Google משתמש ב-Wi‑Fi ובאותות אחרים לקביעת המיקום בצורה מדויקת ומהירה יותר, בדרך כלל תוך צריכת חשמל נמוכה יותר בהשוואה ל-GPS. ייתכן שחלק מהנתונים יאוחסנו במכשיר שלך. ייתכן שנתונים ייאספו גם כאשר אף אפליקציה לא פועלת.</string>
+    <string name="setup_wizard_services_play">‏<b>עדכנו אותי</b> בחדשות ומבצעים מ-Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting">‏<b>עזור לשפר את החוויה שלך ב-Android</b> על ידי שליחה אוטומטית של נתוני אבחון ושימוש ל-Google. מידע זה לא ישמש כדי לזהות אותך, והוא יעזור לצוותים שעובדים על תחומים כגון חיי סוללה, ביצועי אפליקציות, ותכונות חדשות של Google‏‏. <annotation id="usage_reporting_details">למידע נוסף</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"‏זהו מידע כללי על המכשיר שלך ועל אופן השימוש שלך בו, כגון מצב סוללה, תדירות השימוש שלך באפליקציות, האיכות ומשך הזמן של חיבורי הרשתות שלך (כגון רשת סלולרית, Wi‑Fi ו-Bluetooth), ודוחות קריסה כאשר חלים שיבושים. מידע זה ישמש לשיפור המוצרים והשירותים של Google לכולם, והוא לא ישויך לחשבון Google שלך. מידע מצטבר מסוים יעזור גם לשותפים, כגון מפתחי Android, לשפר את האפליקציות והמוצרים שלהם.
+
+תוכל להפעיל או לבטל אפשרות זו בכל עת באפליקציית ההגדרות של Google. לא תהיה לכך השפעה על היכולת של המכשיר שלך לשלוח את המידע הדרוש לו לקבלת שירותים חיוניים כגון עדכוני מערכת ואבטחה."</string>
+    <string name="setup_wizard_services_agreement">‏טלפון זה עשוי לקבל ולהתקין עדכונים ואפליקציות גם מ-Google, מהספק שלך ומיצרן הטלפון. אם תמשיך, ייתכן שאפליקציות מסוימות יורדו ויותקנו, ותוכל להסיר אותן בכל עת.</string>
+</resources>

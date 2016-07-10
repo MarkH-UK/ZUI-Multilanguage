@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d అక్షరాలు పరిమితి మించిపోయాయి</item>
+        <item quantity="one">%1$d అక్షరం పరిమితి మించిపోయింది</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d అక్షరాలు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">%1$d అక్షరం మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google ఖాతాలు</item>
+        <item quantity="one">%d Google ఖాతా</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">ఈ పరికరం మీ Google ఖాతాలు మరియు వాటి డేటాతో ^1ని సెటప్ చేయడానికి ఉపయోగించబడ్డాయి</item>
+        <item quantity="one">ఈ పరికరం మీ Google ఖాతా మరియు దాని డేటాతో ^1ని సెటప్ చేయడానికి ఉపయోగించబడింది</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">1 గంట</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d నిమిషాలు</item>
+        <item quantity="one">1 నిమిషం</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">లోపం కారణంగా ఈ ఆహ్వానాలు పంపబడలేదు</item>
+        <item quantity="one">లోపం కారణంగా ఈ ఆహ్వానం పంపబడలేదు</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">ఈ ఆహ్వానాలను ప్రస్తుతం పంపడం సాధ్యపడదు. మీరు Google Play > నా ఖాతా నుండి వీటిని మళ్లీ పంపవచ్చు.</item>
+        <item quantity="one">ఈ ఆహ్వానాన్ని ప్రస్తుతం పంపడం సాధ్యపడదు. మీరు Google Play > నా ఖాతా నుండి దీన్ని మళ్లీ పంపవచ్చు.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d ఆహ్వానాలు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">%d ఆహ్వానం మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d కొత్త సందేశాలు</item>
+        <item quantity="one">1 కొత్త సందేశం</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">మీ కంటే ముందు %1$d మంది వ్యక్తులు ఉన్నారు</item>
+        <item quantity="one">మీ కంటే ముందు 1 వ్యక్తి ఉన్నారు</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d సర్కిల్‌లు</item>
+        <item quantity="one">1 సర్కిల్</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="one">1 రోజు</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d గం</item>
+        <item quantity="one">1 గం</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d నిమి</item>
+        <item quantity="one">1 నిమి</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="one">1 రోజు</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d గం</item>
+        <item quantity="one">1 గం</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d నిమి</item>
+        <item quantity="one">1 నిమి</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d మంది వ్యక్తులు</item>
+        <item quantity="one">1 వ్యక్తి</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s మరియు మరో %2$d అనువర్తనాల ద్వారా</item>
+        <item quantity="one">%1$s మరియు మరో %2$d అనువర్తనం ద్వారా</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="one">%d రోజు</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">%d గంట</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d నిమి</item>
+        <item quantity="one">%d నిమి</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s మంది వ్యక్తులు</item>
+        <item quantity="one">%1$s వ్యక్తి</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d మంది అనుచరులు</item>
+        <item quantity="one">ఒక అనుచరుడు</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d వీక్షణలు</item>
+        <item quantity="one">ఒక వీక్షణ</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">మీ Google ఖాతాలు మరియు డేటా కాపీ చేయబడుతున్నాయి…</item>
+        <item quantity="one">మీ Google ఖాతా మరియు డేటా కాపీ చేయబడుతున్నాయి…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">ఈ పరికరం మీ Google ఖాతాలు మరియు డేటాతో ^1ని సెటప్ చేయడానికి ఉపయోగించబడింది</item>
+        <item quantity="one">ఈ పరికరం మీ Google ఖాతా మరియు డేటాతో ^1ని సెటప్ చేయడానికి ఉపయోగించబడింది</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">ఇన్‌స్టాల్ చేయడానికి %d సెకన్లలో రీబూట్ చేస్తోంది…</item>
+        <item quantity="one">ఇన్‌స్టాల్ చేయడానికి 1 సెకనులో రీబూట్ చేస్తోంది…</item>
+    </plurals>
+</resources>

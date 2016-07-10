@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">Emri yt përdoret për të personalizuar tabletin tënd dhe shërbimet e Google.</string>
+    <string name="name_title_local">Ky tablet i përket…</string>
+    <string name="name_text_local">Tableti përdor emrin tënd për të personalizuar disa aplikacione.</string>
+    <string name="communicating_message">Tableti yt po kontakton me Google për të ruajtur informacionet në llogarinë tënde. Kjo mund të zgjasë deri në 5 minuta.</string>
+    <string name="checking_username_message">"Tableti yt po kontakton me Google për të parë nëse emri i përdoruesit që dëshiron është i vlefshëm për t'u përdorur.
+
+Kjo mund të zgjasë disa minuta."</string>
+    <string name="wait_for_device_country_msg">Po mbledh informacion për tabletin tënd. Kjo mund të zgjasë deri në 30 sekonda.</string>
+    <string name="backup_consent_message">"Përdor llogarinë tënde të Google për të krijuar kopje rezervë të aplikacioneve, cilësimeve të tua (si faqet e ruajtura apo fjalëkalimet e Wi-Fi), si dhe të të dhënave të tjera. Nëse ke krijuar më parë një kopje rezervë të llogarisë tënde, mund ta restaurosh te ky tablet tani.
+
+Mund t'i ndryshosh cilësimet e tua të kopjes rezervë në çdo kohë te \"Cilësimet\"."</string>
+    <string name="backup_consent_message_no_restore">"Përdor llogarinë tënde të Google për të rezervuar aplikacionet, cilësimet e tua (si faqet e regjistruara dhe fjalëkalimet e Wi-Fi), si dhe të të dhënave të tjera.
+
+Mund t'i ndryshosh cilësimet e tua të kopjes rezervë në çdo kohë te \"Cilësimet\"."</string>
+    <string name="restoring_message">Tableti yt po kontakton me Google për të restauruar llogarinë tënde. Kjo mund të zgjasë deri në 5 minuta.</string>
+    <string name="restore_consent_yes_agree">Silli te ky tablet aplikacionet, cilësimet dhe të dhënat e tjera për të cilat ke krijuar më parë kopje rezervë te llogaria jote e Google.</string>
+</resources>

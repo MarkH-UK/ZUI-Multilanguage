@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AlertThemeSelector" parent="@android:style/Theme.Panel" />
+    <style name="common.TextAppearance.Base.DialogView" parent="@android:style/TextAppearance.Small.Inverse" />
+    <style name="common.TextAppearance.DialogView" parent="@style/common.TextAppearance.Base.DialogView" />
+</resources>

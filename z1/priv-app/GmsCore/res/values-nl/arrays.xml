@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Café</item>
+        <item>Tankstation</item>
+        <item>Bioscoop</item>
+        <item>Accommodatie</item>
+        <item>Nachtclub</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Winkelcentrum</item>
+        <item>Winkel</item>
+        <item>Supermarkt</item>
+        <item>Anders</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>slecht</item>
+        <item>redelijk</item>
+        <item>goed</item>
+        <item>sterk</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Release</item>
+        <item>Ontwikkelaar</item>
+        <item>Detailhandel</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>De software van de telefoon en de auto zijn niet compatibel. Ga voor meer informatie naar &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>De auto heeft een onjuiste reeks audio- en/of videoconfiguraties weergegeven.</item>
+        <item>"De USB-verbinding werkt niet goed. Je kunt het volgende proberen: 
+
+• Zorg dat de kabel aan beide kanten correct is aangesloten. 
+• Zorg ervoor dat je een USB-datakabel gebruikt. 
+• Zorg ervoor dat de datum en tijd correct zijn ingesteld voor zowel de auto als je telefoon."</item>
+        <item>De auto voert Android Auto niet meer uit.</item>
+        <item>De Android Auto-sessie is op verzoek gestopt.</item>
+        <item>De software van de auto is mogelijk verouderd. Neem voor details en ondersteuning contact op met de fabrikant.</item>
+        <item>De software van de auto is niet geslaagd voor de beveiligingscontrole van Android Auto. Neem voor details en ondersteuning contact op met de fabrikant.</item>
+        <item>De software van de auto is niet geslaagd voor de beveiligingscontrole van Android Auto. Zorg ervoor dat de datum en tijd in de auto correct zijn ingesteld en dat Android Auto is geüpdatet.</item>
+        <item>Er is een time-out van een actie opgetreden. Je moet een bugrapport en bestandsfeedback ophalen.</item>
+        <item>Het lijkt erop dat je geen launcher hebt geïnstalleerd. Is je telefoon correct ingesteld?</item>
+        <item>De afbeeldingenpijplijn werkt niet meer. Je moet een bugrapport en bestandsfeedback ophalen.</item>
+        <item>De auto reageert niet op berichten van de telefoon. De auto bevindt zich mogelijk in een onjuiste staat.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Luchthaven</item>
+        <item>Betaalautomaat</item>
+        <item>Bank</item>
+        <item>Bar</item>
+        <item>Busstation</item>
+        <item>Café</item>
+        <item>Camping</item>
+        <item>Begraafplaats</item>
+        <item>Kerk</item>
+        <item>Stadhuis</item>
+        <item>Onderneming</item>
+        <item>Tankstation</item>
+        <item>Supermarkt</item>
+        <item>Hindoeïstische tempel</item>
+        <item>Ziekenhuis</item>
+        <item>Bibliotheek</item>
+        <item>Accommodatie</item>
+        <item>Moskee</item>
+        <item>Bioscoop</item>
+        <item>Museum</item>
+        <item>Park</item>
+        <item>Parkeergelegenheid</item>
+        <item>Gebedshuis</item>
+        <item>Politiebureau</item>
+        <item>Postkantoor</item>
+        <item>Restaurant</item>
+        <item>School</item>
+        <item>Winkel</item>
+        <item>Metrostation</item>
+        <item>Synagoge</item>
+        <item>Treinstation</item>
+        <item>OV-station</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>januari</item>
+        <item>februari</item>
+        <item>maart</item>
+        <item>april</item>
+        <item>mei</item>
+        <item>juni</item>
+        <item>juli</item>
+        <item>augustus</item>
+        <item>september</item>
+        <item>oktober</item>
+        <item>november</item>
+        <item>december</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Delen stoppen</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>1 uur</item>
+        <item>Onbepaalde tijd</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Delen stoppen</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>1 uur</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Selecteer een beveiligingsvraag</item>
+        <item>Eerste telefoonnummer?</item>
+        <item>Naam van beste jeugdvriend(in)?</item>
+        <item>Naam van eerste leraar?</item>
+        <item>Naam van manager bij eerste baan?</item>
+        <item>Kenteken van uw auto?</item>
+    </string-array>
+</resources>

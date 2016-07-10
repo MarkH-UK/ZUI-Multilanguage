@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d непрочитана имејлова</item>
+        <item quantity="zero">%1$d непрочитан имејл</item>
+        <item quantity="one">%1$d непрочитан имејл</item>
+        <item quantity="two">%1$d непрочитана имејлова</item>
+        <item quantity="few">%1$d непрочитана имејлова</item>
+        <item quantity="many">%1$d непрочитана имејлова</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Да ли желите да архивирате %1$d разговора?</item>
+        <item quantity="zero">Да ли желите да архивирате %1$d разговор?</item>
+        <item quantity="one">Да ли желите да архивирате %1$d разговор?</item>
+        <item quantity="two">Да ли желите да архивирате %1$d разговора?</item>
+        <item quantity="few">Да ли желите да архивирате %1$d разговора?</item>
+        <item quantity="many">Да ли желите да архивирате %1$d разговора?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Да ли желите да обришете %1$d разговора?</item>
+        <item quantity="zero">Да ли желите да обришете %1$d разговор?</item>
+        <item quantity="one">Да ли желите да обришете %1$d разговор?</item>
+        <item quantity="two">Да ли желите да обришете %1$d разговора?</item>
+        <item quantity="few">Да ли желите да обришете %1$d разговора?</item>
+        <item quantity="many">Да ли желите да обришете %1$d разговора?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Ови разговори укључују умањене разговоре. Да ли сте сигурни да желите обрисати све што је умањено?</item>
+        <item quantity="zero">Ови разговори укључују умањене разговоре. Да ли сте сигурни да желите обрисати све што је умањено?</item>
+        <item quantity="one">Овај разговор укључује умањене разговоре. Да ли сте сигурни да желите обрисати све што је умањено?</item>
+        <item quantity="two">Ови разговори укључују умањене разговоре. Да ли сте сигурни да желите обрисати све што је умањено?</item>
+        <item quantity="few">Ови разговори укључују умањене разговоре. Да ли сте сигурни да желите обрисати све што је умањено?</item>
+        <item quantity="many">Ови разговори укључују умањене разговоре. Да ли сте сигурни да желите обрисати све што је умањено?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Да ли желите да одбаците %1$d нацрта?</item>
+        <item quantity="zero">Да ли желите да одбаците %1$d нацрта?</item>
+        <item quantity="one">Да ли желите да одбаците %1$d нацрта?</item>
+        <item quantity="two">Да ли желите да одбаците %1$d нацрта?</item>
+        <item quantity="few">Да ли желите да одбаците %1$d нацрта?</item>
+        <item quantity="many">Да ли желите да одбаците %1$d нацрта?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d ставки одабрано</item>
+        <item quantity="zero">%d ставка одабрана</item>
+        <item quantity="one">%d ставка одабрана</item>
+        <item quantity="two">%d ставки одабрано</item>
+        <item quantity="few">%d ставки одабрано</item>
+        <item quantity="many">%d ставки одабрано</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">" "&lt;b> %1$d &lt;/b>" разговора су архивирана. "</item>
+        <item quantity="zero">" "&lt;b> %1$d &lt;/b>" разговор је архивиран. "</item>
+        <item quantity="one">" "&lt;b> %1$d &lt;/b>" разговор је архивиран. "</item>
+        <item quantity="two">" "&lt;b> %1$d &lt;/b>" разговора су архивирана. "</item>
+        <item quantity="few">" "&lt;b> %1$d &lt;/b>" разговора су архивирана. "</item>
+        <item quantity="many">" "&lt;b> %1$d &lt;/b>" разговора су архивирана. "</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">" "&lt;b> %1$d &lt;/b>" разговора су обрисана. "</item>
+        <item quantity="zero">" "&lt;b> %1$d &lt;/b>" разговор је обрисан. "</item>
+        <item quantity="one">" "&lt;b> %1$d &lt;/b>" разговор је обрисан. "</item>
+        <item quantity="two">" "&lt;b> %1$d &lt;/b>" разговора су обрисана. "</item>
+        <item quantity="few">" "&lt;b> %1$d &lt;/b>" разговора су обрисана. "</item>
+        <item quantity="many">" "&lt;b> %1$d &lt;/b>" разговора су обрисана. "</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Фасцикле су промењене</item>
+        <item quantity="zero">Фасцикла је промењена</item>
+        <item quantity="one">Фасцикла је промењена</item>
+        <item quantity="two">Фасцикле су промењене</item>
+        <item quantity="few">Фасцикле су промењене</item>
+        <item quantity="many">Фасцикле су промењене</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">" "&lt;b> %1$d &lt;/b>" разговора су игнорисана. "</item>
+        <item quantity="zero">" "&lt;b> %1$d &lt;/b>" разговор је игнорисан. "</item>
+        <item quantity="one">" "&lt;b> %1$d &lt;/b>" разговор је игнорисан. "</item>
+        <item quantity="two">" "&lt;b> %1$d &lt;/b>" разговора су игнорисана. "</item>
+        <item quantity="few">" "&lt;b> %1$d &lt;/b>" разговора су игнорисана. "</item>
+        <item quantity="many">" "&lt;b> %1$d &lt;/b>" разговора су игнорисана. "</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">" "&lt;b> %1$d &lt;/b>" разговора су означена као неважни. "</item>
+        <item quantity="zero">" "&lt;b> %1$d &lt;/b>" разговор је означен као неважан. "</item>
+        <item quantity="one">" "&lt;b> %1$d &lt;/b>" разговор је означен као неважан. "</item>
+        <item quantity="two">" "&lt;b> %1$d &lt;/b>" разговора су означена као неважни. "</item>
+        <item quantity="few">" "&lt;b> %1$d &lt;/b>" разговора су означена као неважни. "</item>
+        <item quantity="many">" "&lt;b> %1$d &lt;/b>" разговора су означена као неважни. "</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">" "&lt;b> %1$d &lt;/b>" Пријављено је да разговора нисје нежељено. "</item>
+        <item quantity="zero">" "&lt;b> %1$d &lt;/b>" Пријављено је да разговор није нежељен. "</item>
+        <item quantity="one">" "&lt;b> %1$d &lt;/b>" Пријављено је да разговор није нежељен. "</item>
+        <item quantity="two">" "&lt;b> %1$d &lt;/b>" Пријављено је да разговора нисје нежељено. "</item>
+        <item quantity="few">" "&lt;b> %1$d &lt;/b>" Пријављено је да разговора нисје нежељено. "</item>
+        <item quantity="many">" "&lt;b> %1$d &lt;/b>" Пријављено је да разговора нисjе нежељено. "</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">" "&lt;b> %1$d &lt;/b>" разговора су пријављена као фишинг. "</item>
+        <item quantity="zero">" "&lt;b> %1$d &lt;/b>" разговор је пријављен као фишинг. "</item>
+        <item quantity="one">" "&lt;b> %1$d &lt;/b>" разговор је пријављен као фишинг. "</item>
+        <item quantity="two">" "&lt;b> %1$d &lt;/b>" разговора су пријављена као фишинг. "</item>
+        <item quantity="few">" "&lt;b> %1$d &lt;/b>" разговора су пријављена као фишинг. "</item>
+        <item quantity="many">" "&lt;b> %1$d &lt;/b>" разговора су пријављена као фишинг. "</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">" "&lt;b> %1$d &lt;/b>" разговора cу пријављена као спам. "</item>
+        <item quantity="zero">" "&lt;b> %1$d &lt;/b>" разговор је пријављен као спам. "</item>
+        <item quantity="one">" "&lt;b> %1$d &lt;/b>" разговор је пријављен као спам. "</item>
+        <item quantity="two">" "&lt;b> %1$d &lt;/b>" разговора су пријављена као спам. "</item>
+        <item quantity="few">" "&lt;b> %1$d &lt;/b>" разговора су пријављена као спам. "</item>
+        <item quantity="many">" "&lt;b> %1$d &lt;/b>" разговора су пријављена као спам. "</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Уклањање ознаке фаворити са %1$d разговора.</item>
+        <item quantity="zero">Уклањање ознаке фаворити са %1$d разговора.</item>
+        <item quantity="one">Уклањање ознаке фаворити са %1$d разговора.</item>
+        <item quantity="two">Уклањање ознаке фаворити са %1$d разговора.</item>
+        <item quantity="few">Уклањање ознаке фаворити са %1$d разговора.</item>
+        <item quantity="many">Уклањање ознаке фаворити са %1$d разговора.</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Нацрти</item>
+        <item quantity="zero">Нацрт</item>
+        <item quantity="one">Нацрт</item>
+        <item quantity="two">Нацрти</item>
+        <item quantity="few">Нацрти</item>
+        <item quantity="many">Нацрти</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d имејлова ће да буду трајно обрисана.</item>
+        <item quantity="zero">%1$d имејл ће да буде трајно обрисан.</item>
+        <item quantity="one">%1$d имејл ће да буде трајно обрисан.</item>
+        <item quantity="two">%1$d имејлова ће да буду трајно обрисана.</item>
+        <item quantity="few">%1$d имејлова ће да буду трајно обрисана.</item>
+        <item quantity="many">%1$d имејлова ће да буду трајно обрисана.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="zero">%d B</item>
+        <item quantity="one">%d B</item>
+        <item quantity="two">%d B</item>
+        <item quantity="few">%d B</item>
+        <item quantity="many">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="zero">%d GB</item>
+        <item quantity="one">%d GB</item>
+        <item quantity="two">%d GB</item>
+        <item quantity="few">%d GB</item>
+        <item quantity="many">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="zero">%d KB</item>
+        <item quantity="one">%d KB</item>
+        <item quantity="two">%d KB</item>
+        <item quantity="few">%d KB</item>
+        <item quantity="many">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="zero">%d MB</item>
+        <item quantity="one">%d MB</item>
+        <item quantity="two">%d MB</item>
+        <item quantity="few">%d MB</item>
+        <item quantity="many">%d MB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Преместити %1$d разговора</item>
+        <item quantity="zero">Преместити %1$d разговор</item>
+        <item quantity="one">Преместити %1$d разговор</item>
+        <item quantity="two">Преместити %1$d разговора</item>
+        <item quantity="few">Преместити %1$d разговора</item>
+        <item quantity="many">Преместити %1$d разговора</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Преместити имејлове</item>
+        <item quantity="zero">Преместити имејл</item>
+        <item quantity="one">Преместити имејл</item>
+        <item quantity="two">Преместити имејлове</item>
+        <item quantity="few">Преместити имејлове</item>
+        <item quantity="many">Преместити имејлове</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d нових долазних имејлова. Приказати</item>
+        <item quantity="zero">%1$d нови долазни имејл. Приказати</item>
+        <item quantity="one">%1$d нови долазни имејл. Приказати</item>
+        <item quantity="two">%1$d нових долазних имејлова. Приказати</item>
+        <item quantity="few">%1$d нових долазних имејлова. Приказати</item>
+        <item quantity="many">%1$d нових долазних имејлова. Приказати</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d ставки одабрано</item>
+        <item quantity="zero">%d ставка одабрана</item>
+        <item quantity="one">%d ставка одабрана</item>
+        <item quantity="two">%d ставки одабрано</item>
+        <item quantity="few">%d ставки одабрано</item>
+        <item quantity="many">%d ставки одабрано</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d прочитаних имејлова</item>
+        <item quantity="zero">%1$d прочитан имејл</item>
+        <item quantity="one">%1$d прочитан имејл</item>
+        <item quantity="two">%1$d прочитаних имејлова</item>
+        <item quantity="few">%1$d прочитаних имејлова</item>
+        <item quantity="many">%1$d прочитаних имејлова</item>
+    </plurals>
+</resources>

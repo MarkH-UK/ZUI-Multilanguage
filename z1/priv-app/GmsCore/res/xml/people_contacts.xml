@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContactsAccountType accountType="com.google" dataSet="plus" readOnly="true" accountTypeLabel="@string/people_google_plus_account_label" accountTypeIcon="@mipmap/people_gplus_icon" viewContactNotifyService="com.google.android.gms.people.pub.PeopleSyncRawContactService" viewGroupActivity="com.google.android.gms.people.pub.PeopleViewCircleActivity" inviteContactActivity="com.google.android.gms.people.pub.PeopleInviteContactActivity" inviteContactActionLabel="@string/people_invite_contact_label"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ContactsDataKind android:icon="@mipmap/people_gplus_icon" android:mimeType="vnd.android.cursor.item/vnd.googleplus.profile" android:summaryColumn="data2" android:detailColumn="data3" />
+    <ContactsDataKind android:icon="@mipmap/people_gplus_icon" android:mimeType="vnd.android.cursor.item/vnd.googleplus.profile.comm" android:summaryColumn="data2" android:detailColumn="data3" />
+</ContactsAccountType>

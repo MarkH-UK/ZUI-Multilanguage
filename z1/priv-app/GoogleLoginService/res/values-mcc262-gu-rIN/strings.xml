@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_already_has_gmail">એકાઉન્ટમાં પહેલાંથી જ Google Mail છે.</string>
+    <string name="doesnt_use_gmail">Google Mail નો ઉપયોગ કરતું નથી</string>
+</resources>

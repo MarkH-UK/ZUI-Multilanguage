@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.RadioPreference android:title="@string/wifi_security_assic_wapi_psk" android:key="wifi_wapi_psk_ascii" />
+    <com.android.settings.RadioPreference android:title="@string/wifi_security_hex_wapi_psk" android:key="wifi_wapi_psk_hex" />
+</PreferenceScreen>

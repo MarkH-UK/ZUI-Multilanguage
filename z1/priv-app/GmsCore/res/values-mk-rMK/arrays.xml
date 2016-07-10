@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Бар</item>
+        <item>Кафе-бар</item>
+        <item>Бензинска станица</item>
+        <item>Кино</item>
+        <item>Сместување</item>
+        <item>Ноќен клуб</item>
+        <item>Музеј</item>
+        <item>Ресторан</item>
+        <item>Трговски центар</item>
+        <item>Продавница</item>
+        <item>Продавница – супермаркет</item>
+        <item>Друго</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>слаба</item>
+        <item>задоволителна</item>
+        <item>добра</item>
+        <item>јака</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>НФЦ</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Издание</item>
+        <item>Програмер</item>
+        <item>Малопродажба</item>
+        <item>Демо</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Телефонот и автомобилот извршуваат некомпатибилен софтвер. За детали, посетете ја &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Автомобилот покажа неточна комбинација на аудио и/или видеоконфигурации.</item>
+        <item>"Поврзувањето преку УСБ не работи правилно. Работи што може да ги испробате: 
+
+•Проверете дали кабелот точно одговара на двата краја. 
+•Проверете дали имате УСБ-кабел за податоци. 
+•Проверете дали датумот и времето се поставени правилно на автомобилот и на телефонот."</item>
+        <item>Автомобилот престана да извршува Android Auto.</item>
+        <item>Сесијата на Android Auto престана, како што беше побарано.</item>
+        <item>Софтвер на автомобилот можеби не е ажуриран. За повеќе детали и поддршка, контактирајте со производителот.</item>
+        <item>Софтверот на вашиот автомобил не ги помина безбедносните проверки на Android Auto. За повеќе детали и поддршка, контактирајте со производителот.</item>
+        <item>Софтверот на вашиот автомобил не ги помина безбедносните проверки на Android Auto. Проверете дали датумот и времето на автомобилот се правилно поставени и дали Android Auto е ажуриран.</item>
+        <item>Времето за дејство истече. Се препорачува да го зачувате извештајот за грешки и да испратите повратни информации.</item>
+        <item>Изгледа дека немате инсталирано стартер. Дали телефонот ви е правилно поставен?</item>
+        <item>Протокот од графичката картичка тукушто се прекина. Се препорачува да го зачувате извештајот за грешки и да испратите повратни информации.</item>
+        <item>Автомобилот не одговара на пораки од телефонот. Автомобилот можеби е во погрешна состојба.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Аеродром</item>
+        <item>Банкомат</item>
+        <item>Банка</item>
+        <item>Бар</item>
+        <item>Автобуска станица</item>
+        <item>Кафе-бар</item>
+        <item>Место за кампување</item>
+        <item>Ггробишта</item>
+        <item>Црква</item>
+        <item>Градско собрание</item>
+        <item>Институција</item>
+        <item>Бензинска станица</item>
+        <item>Продавница – супермаркет</item>
+        <item>Хинду храм</item>
+        <item>Болница</item>
+        <item>Библиотека</item>
+        <item>Сместување</item>
+        <item>Џамија</item>
+        <item>Кино</item>
+        <item>Музеј</item>
+        <item>Парк</item>
+        <item>Паркинг</item>
+        <item>Верски храм</item>
+        <item>Полициска станица</item>
+        <item>Пошта</item>
+        <item>Ресторан</item>
+        <item>Училиште</item>
+        <item>Продавница</item>
+        <item>Станица за метро</item>
+        <item>Синагога</item>
+        <item>Железничка станица</item>
+        <item>Транзитна станица</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>јануари</item>
+        <item>февруари</item>
+        <item>март</item>
+        <item>април</item>
+        <item>мај</item>
+        <item>јуни</item>
+        <item>јули</item>
+        <item>август</item>
+        <item>септември</item>
+        <item>октомври</item>
+        <item>ноември</item>
+        <item>декември</item>
+    </string-array>
+</resources>

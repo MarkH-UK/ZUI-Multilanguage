@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d封未读邮件</item>
+        <item quantity="zero">%1$d封未读邮件</item>
+        <item quantity="one">%1$d封未读邮件</item>
+        <item quantity="two">%1$d封未读邮件</item>
+        <item quantity="few">%1$d封未读邮件</item>
+        <item quantity="many">%1$d封未读邮件</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">要将这 %1$d 个会话归档吗？</item>
+        <item quantity="zero">要将这 %1$d 个会话归档吗？</item>
+        <item quantity="one">要将这 %1$d 个会话归档吗？</item>
+        <item quantity="two">要将这 %1$d 个会话归档吗？</item>
+        <item quantity="few">要将这 %1$d 个会话归档吗？</item>
+        <item quantity="many">要将这 %1$d 个会话归档吗？</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">要删除这 %1$d 个会话吗？</item>
+        <item quantity="zero">要删除这 %1$d 个会话吗？</item>
+        <item quantity="one">要删除这 %1$d 个会话吗？</item>
+        <item quantity="two">要删除这 %1$d 个会话吗？</item>
+        <item quantity="few">要删除这 %1$d 个会话吗？</item>
+        <item quantity="many">要删除这 %1$d 个会话吗？</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">这些会话中包含折叠会话，确认要将包含在折叠中的条目都删除吗？</item>
+        <item quantity="zero">这些会话中包含折叠会话，确认要将包含在折叠中的条目都删除吗？</item>
+        <item quantity="one">这个会话中包含折叠会话，确认要将包含在折叠中的条目都删除吗？</item>
+        <item quantity="two">这些会话中包含折叠会话，确认要将包含在折叠中的条目都删除吗？</item>
+        <item quantity="few">这些会话中包含折叠会话，确认要将包含在折叠中的条目都删除吗？</item>
+        <item quantity="many">这些会话中包含折叠会话，确认要将包含在折叠中的条目都删除吗？</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">要舍弃这 %1$d 个草稿吗？</item>
+        <item quantity="zero">要舍弃这 %1$d 个草稿吗？</item>
+        <item quantity="one">要舍弃这 %1$d 个草稿吗？</item>
+        <item quantity="two">要舍弃这 %1$d 个草稿吗？</item>
+        <item quantity="few">要舍弃这 %1$d 个草稿吗？</item>
+        <item quantity="many">要舍弃这 %1$d 个草稿吗？</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">已选中%d项</item>
+        <item quantity="zero">已选中%d项</item>
+        <item quantity="one">已选中%d项</item>
+        <item quantity="two">已选中%d项</item>
+        <item quantity="few">已选中%d项</item>
+        <item quantity="many">已选中%d项</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话归档。</item>
+        <item quantity="zero">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话归档。</item>
+        <item quantity="one">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话归档。</item>
+        <item quantity="two">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话归档。</item>
+        <item quantity="few">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话归档。</item>
+        <item quantity="many">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话归档。</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">已删除 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+        <item quantity="zero">已删除 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+        <item quantity="one">已删除 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+        <item quantity="two">已删除 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+        <item quantity="few">已删除 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+        <item quantity="many">已删除 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">已更改文件夹</item>
+        <item quantity="zero">已更改文件夹</item>
+        <item quantity="one">已更改文件夹</item>
+        <item quantity="two">已更改文件夹</item>
+        <item quantity="few">已更改文件夹</item>
+        <item quantity="many">已更改文件夹</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">已忽略 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+        <item quantity="zero">已忽略 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+        <item quantity="one">已忽略 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+        <item quantity="two">已忽略 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+        <item quantity="few">已忽略 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+        <item quantity="many">已忽略 &amp;lt;b>%1$d&amp;lt;/b> 个会话。</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话标记为不重要。</item>
+        <item quantity="zero">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话标记为不重要。</item>
+        <item quantity="one">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话标记为不重要。</item>
+        <item quantity="two">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话标记为不重要。</item>
+        <item quantity="few">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话标记为不重要。</item>
+        <item quantity="many">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话标记为不重要。</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为非垃圾邮件。</item>
+        <item quantity="zero">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为非垃圾邮件。</item>
+        <item quantity="one">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为非垃圾邮件。</item>
+        <item quantity="two">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为非垃圾邮件。</item>
+        <item quantity="few">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为非垃圾邮件。</item>
+        <item quantity="many">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为非垃圾邮件。</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为网上诱骗。</item>
+        <item quantity="zero">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为网上诱骗。</item>
+        <item quantity="one">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为网上诱骗。</item>
+        <item quantity="two">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为网上诱骗。</item>
+        <item quantity="few">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为网上诱骗。</item>
+        <item quantity="many">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为网上诱骗。</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为垃圾邮件。</item>
+        <item quantity="zero">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为垃圾邮件。</item>
+        <item quantity="one">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为垃圾邮件。</item>
+        <item quantity="two">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为垃圾邮件。</item>
+        <item quantity="few">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为垃圾邮件。</item>
+        <item quantity="many">已将 &amp;lt;b>%1$d&amp;lt;/b> 个会话举报为垃圾邮件。</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">正在取消 %1$d 个会话的星标。</item>
+        <item quantity="zero">正在取消 %1$d 个会话的星标。</item>
+        <item quantity="one">正在取消 %1$d 个会话的星标。</item>
+        <item quantity="two">正在取消 %1$d 个会话的星标。</item>
+        <item quantity="few">正在取消 %1$d 个会话的星标。</item>
+        <item quantity="many">正在取消 %1$d 个会话的星标。</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">草稿</item>
+        <item quantity="zero">草稿</item>
+        <item quantity="one">草稿</item>
+        <item quantity="two">草稿</item>
+        <item quantity="few">草稿</item>
+        <item quantity="many">草稿</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d封邮件将永久删除</item>
+        <item quantity="zero">%1$d封邮件将永久删除</item>
+        <item quantity="one">%1$d封邮件将永久删除</item>
+        <item quantity="two">%1$d封邮件将永久删除</item>
+        <item quantity="few">%1$d封邮件将永久删除</item>
+        <item quantity="many">%1$d封邮件将永久删除</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="zero">%d B</item>
+        <item quantity="one">%d B</item>
+        <item quantity="two">%d B</item>
+        <item quantity="few">%d B</item>
+        <item quantity="many">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="zero">%d GB</item>
+        <item quantity="one">%d GB</item>
+        <item quantity="two">%d GB</item>
+        <item quantity="few">%d GB</item>
+        <item quantity="many">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="zero">%d KB</item>
+        <item quantity="one">%d KB</item>
+        <item quantity="two">%d KB</item>
+        <item quantity="few">%d KB</item>
+        <item quantity="many">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="zero">%d MB</item>
+        <item quantity="one">%d MB</item>
+        <item quantity="two">%d MB</item>
+        <item quantity="few">%d MB</item>
+        <item quantity="many">%d MB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">移动 %1$d 个会话</item>
+        <item quantity="zero">移动 %1$d 个会话</item>
+        <item quantity="one">移动 %1$d 个会话</item>
+        <item quantity="two">移动 %1$d 个会话</item>
+        <item quantity="few">移动 %1$d 个会话</item>
+        <item quantity="many">移动 %1$d 个会话</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">移动邮件</item>
+        <item quantity="zero">移动邮件</item>
+        <item quantity="one">移动邮件</item>
+        <item quantity="two">移动邮件</item>
+        <item quantity="few">移动邮件</item>
+        <item quantity="many">移动邮件</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">有%1$d封新邮件。显示</item>
+        <item quantity="zero">有%1$d封新邮件。显示</item>
+        <item quantity="one">有%1$d封新邮件。显示</item>
+        <item quantity="two">有%1$d封新邮件。显示</item>
+        <item quantity="few">有%1$d封新邮件。显示</item>
+        <item quantity="many">有%1$d封新邮件。显示</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">已选中%d项</item>
+        <item quantity="zero">已选中%d项</item>
+        <item quantity="one">已选中%d项</item>
+        <item quantity="two">已选中%d项</item>
+        <item quantity="few">已选中%d项</item>
+        <item quantity="many">已选中%d项</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d封较早的邮件</item>
+        <item quantity="zero">%1$d封较早的邮件</item>
+        <item quantity="one">%1$d封较早的邮件</item>
+        <item quantity="two">%1$d封较早的邮件</item>
+        <item quantity="few">%1$d封较早的邮件</item>
+        <item quantity="many">%1$d封较早的邮件</item>
+    </plurals>
+</resources>

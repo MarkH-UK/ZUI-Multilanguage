@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafe</item>
+        <item>Gaz to‘ldirish shaxobchasi</item>
+        <item>Kinoteatr</item>
+        <item>Turarjoy</item>
+        <item>Tungi klub</item>
+        <item>Muzey</item>
+        <item>Restoran</item>
+        <item>Savdo markazi</item>
+        <item>Do‘kon</item>
+        <item>Baqqollik yoki supermarket</item>
+        <item>Boshqa</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>yomon</item>
+        <item>qoniqarli</item>
+        <item>yaxshi</item>
+        <item>kuchli</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Ishchi versiya</item>
+        <item>Dasturchilar uchun</item>
+        <item>Chakana savdo</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Telefon va avtomobildagi dasturiy ta’minot bir-biriga mos emas. Batafsil ma’lumot olish uchun &lt;a href="android.com/auto">android.com/auto&lt;/a> sahifasiga tashrif buyuring.</item>
+        <item>Avtomobilda noto‘g‘ri audio va/yoki video konfiguratsiyalari to‘plami reklama qilingan.</item>
+        <item>"USB orqali ulanish noto‘g‘ri ishlayapti. Quyidagilarni bajaring: 
+
+• Kabelning har ikki uchi ham to‘g‘ri ulanganligini tekshiring. 
+• Siz ishlatayotgan kabel USB data-kabel ekanganligini tekshiring. 
+• Avtomobil va telefondagi sana va vaqt to‘g‘ri ekanligini tekshiring."</item>
+        <item>Avtomobilda Android Auto ishlamay qoldi.</item>
+        <item>So‘ralgani uchun Android Auto seansi to‘xtatildi</item>
+        <item>Avtomobilning dasturiy ta’minoti eskirgan. Batafsil ma’lumot va yordam olish uchun ishlab chiqaruvchi bilan bog‘laning.</item>
+        <item>Avtomobilga o‘rnatilgan dasturiy ta’minot Android Auto xavfsizlik tekshiruvidan o‘ta olmadi. Batafsil ma’lumot va yordam olish uchun ishlab chiqaruvchi bilan bog‘laning.</item>
+        <item>Avtomobilga o‘rnatilgan dasturiy ta’minot Android Auto xavfsizlik tekshiruvidan o‘ta olmadi. Avtomobilingizga ilovaning eng so‘nggi versiyasi o‘rnatilganligi hamda undagi sana va vaqt to‘g‘ri o‘rnatilganligini tekshiring.</item>
+        <item>Amalni bajarish vaqti tugadi. Xatolik hisobotini tayyorlab, uni fikr-mulohaza orqali yuborishingiz lozim.</item>
+        <item>Avtomobilingizda ishga tushirish vositasi (launcher) o‘rnatilmaganga o‘xshaydi. Telefoningiz to‘g‘ri sozlanganmi?</item>
+        <item>Tasvirni yuklab bo‘lmadi. Xatolik hisobotini tayyorlab, uni fikr-mulohaza orqali yuborishingiz lozim.</item>
+        <item>Avtomobil telefondan kelgan xabarlarga javob bermayapti. U noto‘g‘ri holatda bo‘lishi mumkin.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Aeroport</item>
+        <item>Bankomat</item>
+        <item>Bank</item>
+        <item>Bar</item>
+        <item>Avtobus bekati</item>
+        <item>Kafe</item>
+        <item>Oromgoh maydoni</item>
+        <item>Qabriston</item>
+        <item>Cherkov</item>
+        <item>Hokimiyat binosi</item>
+        <item>Muassasa</item>
+        <item>Gaz to‘ldirish shoxobchasi</item>
+        <item>Oziq-ovqat do‘koni/supermarket</item>
+        <item>Hindular ibodatxonasi</item>
+        <item>Shifoxona</item>
+        <item>Kutubxona</item>
+        <item>Turarjoy</item>
+        <item>Masjid</item>
+        <item>Kinoteatr</item>
+        <item>Muzey</item>
+        <item>Istirohat bog‘i</item>
+        <item>Avtoturargoh</item>
+        <item>Ziyoratgoh</item>
+        <item>Politsiya mahkamasi</item>
+        <item>Pochta bo‘limi</item>
+        <item>Restoran</item>
+        <item>Maktab</item>
+        <item>Do‘kon</item>
+        <item>Metro bekati</item>
+        <item>Sinagoga</item>
+        <item>Temiryo‘l bekati</item>
+        <item>Jamoat transporti bekati</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Yanvar</item>
+        <item>Fevral</item>
+        <item>Mart</item>
+        <item>Aprel</item>
+        <item>May</item>
+        <item>Iyun</item>
+        <item>Iyul</item>
+        <item>Avgust</item>
+        <item>Sentabr</item>
+        <item>Oktabr</item>
+        <item>Noyabr</item>
+        <item>Dekabr</item>
+    </string-array>
+</resources>

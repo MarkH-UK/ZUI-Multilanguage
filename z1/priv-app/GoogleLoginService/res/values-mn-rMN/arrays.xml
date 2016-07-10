@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Нууцлалын асуулт сонгоно уу</item>
+        <item>Анхны утасны дугаар?</item>
+        <item>Багын хамгийн сайн найзын нэр?</item>
+        <item>Анхны багшийн нэр?</item>
+        <item>Эхний ажлын менежерийн нэр?</item>
+        <item>Автомашины бүртгэлийн дугаар?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>муу</item>
+        <item>энгийн</item>
+        <item>сайн</item>
+        <item>маш сайн</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Эрэгтэй</item>
+        <item>Эмэгтэй</item>
+        <item>Бусад</item>
+    </string-array>
+</resources>

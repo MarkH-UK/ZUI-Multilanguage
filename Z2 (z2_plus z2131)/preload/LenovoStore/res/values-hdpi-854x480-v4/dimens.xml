@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="newsetting_window_icon_width">20.0dip</dimen>
+    <dimen name="new_setting_moveapp_layout_height">40.0dip</dimen>
+    <dimen name="new_setting_btnmenu_height">40.0dip</dimen>
+    <dimen name="app_search_tag_game_network_padding_top">1.0dip</dimen>
+    <dimen name="new_setting_btnmenu_page_margin_top">12.0dip</dimen>
+    <dimen name="new_setting_btnmenu_page_internal_margin">22.0dip</dimen>
+</resources>

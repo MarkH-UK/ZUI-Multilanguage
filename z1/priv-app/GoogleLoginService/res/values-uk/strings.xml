@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Помилка сервісів Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Щоб додаток працював, потрібно встановити сервіси Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Щоб додаток працював, потрібно оновити сервіси Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Для роботи додатка потрібно оновити Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Щоб додаток працював, потрібно ввімкнути сервіси Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Запит від додатка %1$s</string>
+    <string name="common_google_play_services_install_title">Установити Google Play Послуги</string>
+    <string name="common_google_play_services_install_text_phone">Ця програма не запуститься без Google Play Послуг, яких немає у вашому телефоні.</string>
+    <string name="common_google_play_services_install_text_tablet">Ця програма не запуститься без Google Play Послуг, яких немає на вашому планшетному ПК.</string>
+    <string name="common_google_play_services_install_button">Установити Google Play Послуги</string>
+    <string name="common_google_play_services_enable_title">Увімкнути Google Play Послуги</string>
+    <string name="common_google_play_services_enable_text">Ця програма не працюватиме, поки ви не ввімкнете Google Play Послуги.</string>
+    <string name="common_google_play_services_enable_button">Увімкнути Google Play Послуги</string>
+    <string name="common_google_play_services_update_title">Оновити Google Play Послуги</string>
+    <string name="common_android_wear_update_title">Оновити Android Wear</string>
+    <string name="common_google_play_services_update_text">Ця програма не запуститься, поки ви не оновите Google Play Послуги.</string>
+    <string name="common_android_wear_update_text">Цей додаток запуститься, лише коли ви оновите Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Помилка мережі</string>
+    <string name="common_google_play_services_network_error_text">Для під’єднання до сервісів Google Play потрібне з’єднання з мережею.</string>
+    <string name="common_google_play_services_invalid_account_title">Недійсний обліковий запис</string>
+    <string name="common_google_play_services_invalid_account_text">Указаний обліковий запис не існує на цьому пристрої. Виберіть інший обліковий запис.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play Послуги – невідома проблема.</string>
+    <string name="common_google_play_services_unsupported_title">Сервіси Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Ваш пристрій не підтримує Сервіси Google Play, від яких залежить робота деяких програм. Зверніться по допомогу до виробника.</string>
+    <string name="common_google_play_services_update_button">Оновити</string>
+    <string name="common_signin_button_text">Увійти</string>
+    <string name="common_signin_button_text_long">Увійти в обл.запис Google</string>
+    <string name="common_open_on_phone">Відкрити на телефоні</string>
+    <string name="setup_wizard_next_button_label">Далі</string>
+    <string name="setup_wizard_back_button_label">Назад</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Пропустити</string>
+    <string name="down_button_label">Більше</string>
+    <string name="cancel_button_label">Скасувати</string>
+    <string name="try_again_button_label">Повторити</string>
+    <string name="close_button_label">Закрити</string>
+    <string name="url_load_unsuccessful_message">Ваш пристрій Android не під’єднано до служби передавання даних. Щоб переглянути цю інформацію зараз, перейдіть на сторінку %s у веб-переглядачі.</string>
+    <string name="sign_in_agreement">Увійшовши, ви приймаєте <annotation id="tos">Умови використання</annotation>, <annotation id="google_privacy">Політику конфіденційності</annotation> Google і <annotation id="play_tos">Умови використання Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">Додаткова політика конфіденційності</string>
+    <string name="google_terms_of_service_title">Умови використання</string>
+    <string name="google_privacy_policy_title">Політика конфіденційності Google</string>
+    <string name="google_plus_privacy_policy_title">Конфіденційність Google Plus</string>
+    <string name="google_play_tos_title">Умови використання Google Play</string>
+    <string name="chrome_tos_title">Умови використання Chrome</string>
+    <string name="chrome_privacy_title">Примітка про конфіденційність Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Ваш пристрій Android не під’єднано до мережі Wi-Fi. Щоб переглянути цю інформацію зараз, перейдіть на сторінку %s у веб-переглядачі.</string>
+    <string name="services_activity_title">Служби Google</string>
+    <string name="services_backup_heading">Резервне копіювання</string>
+    <string name="services_location_heading">Місцезнаходження</string>
+    <string name="services_security_heading">Безпека</string>
+    <string name="services_personalization_heading">Персоналізація</string>
+    <string name="services_communication_heading">Передавання даних</string>
+    <string name="security_verify_apps_summary">Дозвольте Google перевіряти всі встановлені програми на наявність потенційно шкідливих дій, які можуть вплинути на безпеку вашого пристрою й даних.</string>
+    <string name="name_title">Ваше ім’я</string>
+    <string name="name_text">Ваше ім’я використовується для персоналізації телефону та служб Google.</string>
+    <string name="first_name">Ім’я</string>
+    <string name="last_name">Прізвище</string>
+    <string name="cant_be_blank">Поле не може бути порожнім.</string>
+    <string name="sharedUserLabel">Служби Google</string>
+    <string name="app_label">Менеджер облік. записів Google</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Увійти</string>
+    <string name="create_button_label">Створити обліковий запис</string>
+    <string name="not_now_button_label">Не зараз</string>
+    <string name="new_button_label">Новий</string>
+    <string name="existing_button_label">Існуючий</string>
+    <string name="done">OK</string>
+    <string name="edit_text_help">Натисн. якесь текст. поле для вводу</string>
+    <string name="add_a_google_account">Додати обліковий запис Google</string>
+    <string name="captcha_title">Потрібно ввести CAPTCHA</string>
+    <string name="show_error_title">Помилка</string>
+    <string name="server_error">Під час обміну даними із серверами Google виникла проблема.</string>
+    <string name="server_error_help">Повторіть спробу пізніше.</string>
+    <string name="network_unreliable">Неможливо встановити надійне з’єднання із сервером.</string>
+    <string name="network_unreliable_help">"Ця проблема може бути тимчасовою або у вашому пристрої Android не надаються служби даних. Якщо проблема не зникне, зв'яжіться зі службою підтримки."</string>
+    <string name="network_unreliable_help_wifi_only">Можливо, це тимчасова проблема. Повторіть спробу чи з’єднайтеся з іншою мережею Wi-Fi.</string>
+    <string name="invalid_login_character">Недійсний символ. Дозволено лише 0-9, а-я, А-Я та крапки.</string>
+    <string name="invalid_password_character">Недійсний символ пароля.</string>
+    <string name="calendar">Календар Google</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Поле не може бути порожнім.</string>
+    <string name="plus_query_title">Приєднайтесь до Google+</string>
+    <string name="plus_query_text">Google+ робить обмін даними в мережі схожим на обмін у реальному житті.</string>
+    <string name="circles_subtitle">Потік ваших зацікавлень</string>
+    <string name="circles_text">Підтримуйте зв’язок із друзями й знаходьте спільні інтереси.</string>
+    <string name="uploads_subtitle">Автозавантаження фотографій</string>
+    <string name="uploads_text">Автоматично завантажуйте зняті фотографії в безкоштовний приватний альбом.</string>
+    <string name="huddle_subtitle">Відеодзвінки та повідомлення</string>
+    <string name="huddle_text">Спілкуйтеся в текстових чатах, надсилайте фотографії, беріть участь у безкоштовних групових відеодзвінках у Hangouts.</string>
+    <string name="plus_declined_button_label">Не зараз</string>
+    <string name="plus_accepted_button_label">Розпочати</string>
+    <string name="plus_name_check_title">З’єднання з Google+...</string>
+    <string name="plus_name_check_text">Це може зайняти кілька хвилин.</string>
+    <string name="plus_faq_title">Ласкаво просимо в Google+!</string>
+    <string name="plus_faq_text" formatted="false">"У Google+ ви матимете загальнодоступний профіль, який допоможе вашим друзям знайти вас в Інтернеті. Його зможе знайти та переглянути кожен, хто знає вашу електронну адресу.
+
+Ви можете використовувати кнопки +1 у всій мережі, щоб рекомендувати цікаві речі іншим користувачам. Ваш профіль і оцінки +1 будуть доступними для всіх у результатах пошуку, у рекламних оголошеннях, а також у всій мережі Інтернет.
+
+Наразі у вашому профілі відображатиметься лише ваше ім’я (%s %s). Пізніше, коли ви почнете користуватися Google+, можна додати фотографії, біографію й інші відомості."</string>
+    <string name="dasher_warning">Адміністратор домену %s володіє та керує всіма вашими даними в Google+ і може без вашого дозволу будь-коли видаляти або змінювати ваш профіль.</string>
+    <string name="profile_info_title">Ваш профіль</string>
+    <string name="profile_text">Укажіть деякі основні відомості у своєму профілі. Фотографію й інші дані можете додати пізніше, коли почнете користуватися Google+.</string>
+    <string name="occupation">Рід занять</string>
+    <string name="current_city">Поточне місто</string>
+    <string name="picassa_info_title">Picasa та Google+</string>
+    <string name="picassa_info_text" formatted="false">Ваші фотографії та відео у Веб-альбомах Picasa будуть доступні в Google+. Під вашими фотографіями та коментарями стоятиме ім’я %s %s, а не %s. Якщо ви ділитеся фотографіями в Google+, отримувачі можуть надсилати їх комусь іншому. Налаштування доступності ваших альбомів не зміняться. Ви можете обмежити їх будь-коли, щоб уникнути широкого розповсюдження.</string>
+    <string name="name_title_plus">Ваше ім’я Google+</string>
+    <string name="name_title_local">Цей телефон належить...</string>
+    <string name="name_text_local">Телефон використовує ваше ім’я для персоналізації деяких програм.</string>
+    <string name="name_progress_title">Зачекайте секунду...</string>
+    <string name="bad_name_title">Використовувати це ім’я?</string>
+    <string name="invalid_name_title">Це ім’я не можна використовувати</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Якщо ви хочете використовувати це ім’я в Google+, наша команда має його перевірити. Якщо воно порушує нашу Політику щодо імен, дію вашого профілю може бути призупинено. Це обмежить вашу здатність користуватися продуктами Google, для яких потрібен активний профіль.
+
+"<annotation id="learn_more">Докладніше</annotation></string>
+    <string name="invalid_name_text">Це ім’я не може використовуватися в Google+, оскільки воно містить недійсні символи.</string>
+    <string name="invalid_nickname_text">Це ім’я не може використовуватися в Google+, оскільки воно містить недійсні символи. Намагаєтеся використати псевдонім, попереднє ім’я чи назву? Після приєднання зможете додати їх у свій профіль.</string>
+    <string name="invalid_other_text">Це ім’я не може використовуватися в Google+.</string>
+    <string name="bad_name_agree_text">Я розумію та хочу використовувати це ім’я.</string>
+    <string name="bad_name_decline_button_label">Змінити ім’я</string>
+    <string name="bad_name_agree_button_label">Подати ім’я на розгляд</string>
+    <string name="bad_name_skip_button_label">Пропустити Google+</string>
+    <string name="photo_title">Ваше фото</string>
+    <string name="photo_text">Це фото буде використано у вашому записі контакта. Його можна згодом змінити в програмі \"Люди\".</string>
+    <string name="photo_text_es">Зробіть фотографію, яку ваші друзі бачитимуть у Google+. Пізніше можна вибрати нову фотографію.</string>
+    <string name="photo_button_label">Зробити фото</string>
+    <string name="retake_photo_button_label">Зробити фото ще раз</string>
+    <string name="photo_failure">Не вдалося запустити камеру.</string>
+    <string name="crop_failure">Не вдалося обрізати фотографію.</string>
+    <string name="photo_description">Ваше фото</string>
+    <string name="communicating_message">Телефон зв’язується із серверами Google, щоб зберегти інформацію у ваш обліковий запис. Це може зайняти до 5 хвилин.</string>
+    <string name="creating_account_title">Збереження облікового запису...</string>
+    <string name="checking_username_message">"Телефон зв’язується з Google, щоб дізнатися, чи доступне потрібне ім’я користувача.
+
+Це може зайняти кілька хвилин."</string>
+    <string name="plus_failure_title">Приєднатися до Google+ пізніше</string>
+    <string name="plus_failure_new_account_text">Обліковий запис Google створено, але ваш запит на приєднання до Google+ не виконано. Повторіть спробу пізніше в будь-якому веб-переглядачі на сторінці plus.google.com.</string>
+    <string name="plus_failure_text">Ваш запит на приєднання до Google+ не виконано. Повторіть спробу пізніше в будь-якому веб-переглядачі на сторінці plus.google.com.</string>
+    <string name="provisioned_login_title">Введіть пароль</string>
+    <string name="provisioned_welcome">Привіт, %s!</string>
+    <string name="provisioned_welcome_2">"Введіть пароль для:
+%s"</string>
+    <string name="provisioned_incorrect_login">Не %s?</string>
+    <string name="login_title">Введіть електронну адресу та пароль</string>
+    <string name="login_task_title">Здійснення входу</string>
+    <string name="password">Пароль</string>
+    <string name="restore_wifi">Відновити й під’єднатися до відомих мереж Wi‑Fi.</string>
+    <string name="sign_in_agreement_multi_user">Увійшовши, ви приймаєте <annotation id="tos">Умови використання</annotation> та <annotation id="google_privacy">Політику конфіденційності</annotation> Google, а також <annotation id="play_tos">Умови використання Google Play</annotation>". 
+
+Пам’ятайте: будь-який інший користувач може схвалювати дозволи на оновлення програм від вашого імені. Як і з будь-яким комп’ютером, користуйтеся цим планшетним ПК спільно лише з тими, кому довіряєте."</string>
+    <string name="sign_in_agreement_with_chrome">Увійшовши, ви приймаєте <annotation id="tos">Умови використання</annotation> та <annotation id="google_privacy">Політику конфіденційності</annotation> Google, <annotation id="chrome_tos">Умови використання</annotation> й <annotation id="chrome_privacy">Політику конфіденційності</annotation> Chrome і <annotation id="play_tos">Умови використання</annotation> Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Увійшовши, ви приймаєте <annotation id="tos">Умови використання</annotation> та <annotation id="google_privacy">Політику конфіденційності</annotation> Google, <annotation id="chrome_tos">Умови використання</annotation> та <annotation id="chrome_privacy">Політику конфіденційності</annotation> Chrome, а також <annotation id="play_tos">Умови використання</annotation>" Google Play. 
+
+Пам’ятайте: будь-який інший користувач може схвалювати дозволи на оновлення програм від вашого імені. Як і з будь-яким комп’ютером, користуйтеся цим планшетним ПК спільно лише з тими, кому довіряєте."</string>
+    <string name="create_prompt">" Не маєте облікового запису Google? "<annotation id="create_account">Створіть обліковий запис зараз</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Увійдіть у свій обл. запис Google:</string>
+    <string name="invalid_username">Введений текст не є дійсним ім’ям користувача.</string>
+    <string name="captcha_instructions">Введіть зображений текст тут:</string>
+    <string name="create_google_account">Вибрати ім’я користувача</string>
+    <string name="create_google_account_text">Ваш обліковий запис Google містить Gmail, електронну пошту від Google. Вона працює на будь-якому пристрої, блокує спам тощо.</string>
+    <string name="account_already_has_gmail">Облік. запис вже має Gmail.</string>
+    <string name="error_account_disabled">"Цей обліковий запис вимкнено. 
+
+(Докладніше читайте на сторінці https://google.com/accounts у веб-переглядачі.)"</string>
+    <string name="no_network">З’єднання з мережею відсутнє.</string>
+    <string name="no_network_help">Можливо, це тимчасова проблема або у вашому пристрої Android не передбачено служби передавання даних. Повторіть спробу під час з’єднання з мобільною мережею чи під’єднайтеся до мережі Wi-Fi.</string>
+    <string name="no_network_help_wifi_only">Можливо, це тимчасова проблема. Повторіть спробу чи з’єднайтеся з іншою мережею Wi-Fi.</string>
+    <string name="error_login_failed">"Ваше ім’я користувача та пароль не збігаються. Повторіть спробу.
+
+Щоб відновити інформацію облікового запису, перейдіть на сторінку google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Цей обліковий запис не підтверджено. Щоб підтвердити цей обліковий запис, перевірте електронну пошту та перейдіть за посиланням у листі. 
+
+(Щоб відновити інформацію облікового запису, перейдіть у комп’ютері на сторінку http://www.google.com/accounts/recovery)."</string>
+    <string name="exit_menu_item">Припинити вхід у веб-переглядачі</string>
+    <string name="creating_profile">Створення профілю…</string>
+    <string name="checking_account">Перевірка доступності...</string>
+    <string name="is_not_available">Ім’я користувача <b>^1</b> не доступне.</string>
+    <string name="suggestions_hint">Торкніться, щоб отримати пропозиції</string>
+    <string name="suggest_username_next_button_label">Змінити ім’я користувача</string>
+    <string name="hint_size">" "<b>^1</b> містить менше 6 чи більше 30 символів.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> не містить жодної літери.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" може містити лише літери,
+цифри та крапки."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> не використовує Gmail.</string>
+    <string name="sign_in_browser">Вхід у веб-переглядачі</string>
+    <string name="alternatives_list_title">Пропон. імена корист.</string>
+    <string name="password_title">Створити пароль</string>
+    <string name="choose_a_password">Пароль</string>
+    <string name="confirm_password">Введіть пароль ще раз</string>
+    <string name="too_short">Закороткий</string>
+    <string name="security_questions_title">Таємні запитання</string>
+    <string name="answer">" "<b>Відповідь</b></string>
+    <string name="password_mismatch">Паролі не збігаються. Повторіть спробу.</string>
+    <string name="eight_chars_min">мінімум 8 символів</string>
+    <string name="verify_your_profile">Підтверд. свій профіль</string>
+    <string name="error_not_logged_in">Користувач не ввійшов.</string>
+    <string name="error_username_unavailable">Ім’я користувача не доступне.</string>
+    <string name="error_bad_password">Цей пароль дуже ненадійний або містить недійсні символи. Повторіть спробу.</string>
+    <string name="error_bad_username">Недійсне ім’я кор.</string>
+    <string name="existing_account_error_title">Обліков. запис уже існує</string>
+    <string name="existing_account_error_text">У цьому пристрої Android уже є обліковий запис ^1.</string>
+    <string name="submission_title">Помилка…</string>
+    <string name="submission_error_text">Сталася помилка. Повторіть спробу.</string>
+    <string name="sync_intro_title">Синхронізація облікового запису</string>
+    <string name="account_tos_title">Закінчити створення облікового запису</string>
+    <string name="account_tos_plus_title">Закінчити приєднання до Google+</string>
+    <string name="i_accept">Приймаю</string>
+    <string name="i_decline">Не створювати обліковий запис</string>
+    <string name="allow_personalized_content">Дозволити Google використовувати мою інформацію для персоналізації вмісту та реклами на сайтах, які не належать Google.</string>
+    <string name="enable_web_history">Увімкнути історію веб-пошуку</string>
+    <string name="learn_more"><annotation id="learn_more">Докладніше</annotation></string>
+    <string name="account_creation_tos">Продовжуючи, ви приймаєте <annotation id="tos">Умови використання</annotation> та <annotation id="google_privacy">Політику конфіденційності</annotation> Google і <annotation id="play_tos">Умови використання Google Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Продовжуючи, ви приймаєте <annotation id="tos">Умови використання</annotation> та <annotation id="google_privacy">Політику конфіденційності</annotation> Google, <annotation id="chrome_tos">Умови використання</annotation> й <annotation id="chrome_privacy">Політику конфіденційності</annotation> Chrome і <annotation id="play_tos">Умови використання</annotation> Google Play.</string>
+    <string name="gender_prompt">Стать</string>
+    <string name="gender_hint">Стать</string>
+    <string name="account_pre_intro_title">Маєте обліковий запис Google?</string>
+    <string name="account_pre_intro_default_message">"Маєте обліковий запис Google?
+
+Якщо користуєтеся Gmail або Google Apps, відповідь – \"так\"."</string>
+    <string name="account_pre_intro_yes">Так</string>
+    <string name="account_pre_intro_no">Ні</string>
+    <string name="account_intro_title">Обліковий запис Google</string>
+    <string name="account_intro_required_title">Технології Google</string>
+    <string name="account_intro_recommended_title">Налаштування Google</string>
+    <string name="account_intro_default_message">Більше ніколи не втрачайте свою інформацію. Усі ваші дані надійно зберігаються в обліковому записі Google.</string>
+    <string name="account_intro_simple_message">Додати існуючий обліковий запис чи створити новий?</string>
+    <string name="account_intro_learn_more">Докладніше</string>
+    <string name="learn_more_title">Докладніше</string>
+    <string name="learn_more_account_intro">"З обліковим записом Google ви можете:
+
+"<li><ul>працювати зі своїми даними (включно з історією пошуку) на будь-якому пристрої;</ul></li>"
+
+"<li><ul>автоматично створювати резервні копії даних, як-от електронних листів, контактів, музики та зображень;</ul></li>"
+
+"<li><ul>легко користуватися службами Google, зокрема Контактами, Календарем, Картами тощо, де б ви не були.</ul></li></string>
+    <string name="learn_more_account_intro_title">Про облікові записи Google</string>
+    <string name="learn_more_bad_name">У Google+ потрібно використовувати своє звичайне ім’я. Ваш профіль має представляти одну особу, а не підприємство, організацію чи сім’ю, і містити ваше ім’я та прізвище однією мовою без професійних титулів або зайвих знаків пунктуації. Після реєстрації в полі \"Інші імена\" свого профілю ви зможете додати псевдоніми чи інші імена, з якими ви пов’язані.</string>
+    <string name="learn_more_bad_name_title">Про політику щодо імен</string>
+    <string name="wait_for_device_country_title">Налаштування облікового запису</string>
+    <string name="wait_for_device_country_msg">Збирається інформація про ваш телефон. Це може зайняти до 30 секунд.</string>
+    <string name="recovery_title">Відновлення пароля Google</string>
+    <string name="recovery_wait_title">З’єднання з Google…</string>
+    <string name="cannot_talk_to_server_msg">Цей пристрій не зміг зв’язатися з Google.</string>
+    <string name="recovery_skip_label">Пропустити</string>
+    <string name="recovery_retry_label">Повторити</string>
+    <string name="recovery_message_set">"Якщо ви забудете пароль, вам захочеться його відновити.
+
+Google надає можливість відновити пароль через SMS-повідомлення або альтернативну електронну адресу.
+
+Радимо надати інформацію в цьому розділі. "<annotation id="help_url">Докладніше</annotation></string>
+    <string name="recovery_message_verify">"Паролі легко забуваються.
+
+Підтвердьте свій номер телефону або додаткову електронну адресу. Це допоможе вам відновити доступ до вмісту Google і Google Play. "<annotation id="help_url">Докладніше</annotation></string>
+    <string name="recovery_yes_button_label">Налаштувати параметри відновлення</string>
+    <string name="recovery_yes_button_label_verify">Підтвердити параметри відновлення</string>
+    <string name="recovery_later_button_label">Не зараз</string>
+    <string name="recovery_input_screen_message">Ця інформація для відновлення стосується програми %s.</string>
+    <string name="secondary_email_hint">Додаткова ел. адреса</string>
+    <string name="secondary_email_invalid">Недійсна електронна адреса</string>
+    <string name="secondary_email_same_as_primary">Не може збігатися з основною</string>
+    <string name="phone_number_hint">Номер телефону</string>
+    <string name="phone_number_invalid_character">Недійсні символи в номері телефону</string>
+    <string name="phone_number_invalid">Недійсний номер телефону</string>
+    <string name="country_invalid">Ця країна не підтримується</string>
+    <string name="recovery_server_error">Помилка з’єднання із сервером. Повторіть спробу пізніше.</string>
+    <string name="account_recovery_info">Якщо ви будь-коли втратите свій пароль, можна буде відповісти на таємне запитання й отримати посилання для зміни пароля на іншу електронну адресу.</string>
+    <string name="secondary_email_label">Альтернативна електронна адреса</string>
+    <string name="invalid_email">"Введена електронна адреса не дійсна.
+ Приклад: joe@example.com"</string>
+    <string name="invalid_email_primary">Електронна адреса для відновлення не може збігатися з адресою, яку ви створюєте.</string>
+    <string name="backup_consent_message">"Користуйтеся своїм обліковим записом Google, щоб створювати резервні копії програм, налаштувань (як-от закладок і паролів Wi-Fi) та інших даних. Якщо ви вже створювали резервну копію свого облікового запису, можна відновити її зараз на цьому телефоні.
+
+Налаштування резервного копіювання можна змінити будь-коли в Налаштуваннях."</string>
+    <string name="backup_consent_message_no_restore">"Користуйтеся своїм обліковим записом Google, щоб створювати резервні копії програм, налаштувань (як-от закладок і паролів Wi-Fi) та інших даних.
+
+Налаштування резервного копіювання можна змінити будь-коли в Налаштуваннях."</string>
+    <string name="restoring_title">Відновлення...</string>
+    <string name="restoring_message">Телефон зв’язується з Google, щоб відновити ваш обліковий запис. Це може зайняти якийсь час.</string>
+    <string name="gls_notification_login_error">Торкніться, щоб увійти в обліковий запис.</string>
+    <string name="gls_ui_add_account_title">Налаштування облікового запису</string>
+    <string name="gls_ui_activity_title">Увійти</string>
+    <string name="gls_ui_activity_title_browser_signin">Увійти</string>
+    <string name="gls_ui_activity_title_checking_in">Підготовка…</string>
+    <string name="gls_ui_activity_authenticating">Автентифікація…</string>
+    <string name="gls_dmagent_activity_activate_message">" Для вашого домену потрібне керування мобільним пристроєм. Активуйте програму Google Apps Device Policy, щоб застосувати правила безпеки, які вимагаються для облікового запису  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Активувати</string>
+    <string name="gls_dmagent_activity_download_message">" Для вашого домену потрібне керування мобільним пристроєм. Установіть програму Google Apps Device Policy, щоб застосувати правила безпеки, які вимагаються для облікового запису  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">Завантажити</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Введено неправильний пароль або ваш обліковий запис змінено. Введіть пароль ще раз.</string>
+    <string name="permlab_googleAuthPassword">доступ до паролів для обл. записів Google</string>
+    <string name="permdesc_googleAuthPassword">Дозволяє програмам отримувати безпосередній доступ до паролів для налаштованих облікових записів Google.</string>
+    <string name="permlab_googleMailSwitch">вибр. фірм. симв. Gmail або Google Mail</string>
+    <string name="permdesc_googleMailSwitch">Дозволяє програмам переключати відображену назву між фірмовими логотипами \"Gmail\" і \"Google Mail\".</string>
+    <string name="sync_item_title">Синхронізувати %s</string>
+    <string name="grant_credentials_permission_message_footer">Їм потрібен дозвіл, щоб:</string>
+    <string name="grant_credentials_permission_message_app">Ці програми хочуть відтепер мати доступ до вашого облікового запису Google:</string>
+    <string name="grant_permissions_header_text">Запит на дозвіл</string>
+    <string name="allow">Надати доступ</string>
+    <string name="deny">Ні, дякую</string>
+    <string name="permission_request_notification_with_subtitle">"Дозвіл запитано
+для облікового запису %s"</string>
+    <string name="notification_title">Помилка входу для облікового запису %1$s</string>
+    <string name="account_setup_title">Обліковий запис Google</string>
+    <string name="login_activity_title">Увійти</string>
+    <string name="relogin_activity_title">Введіть пароль ще раз</string>
+    <string name="show_error_activity_title">Не вдалося ввійти</string>
+    <string name="login_activity_task_title">Здійснення входу...</string>
+    <string name="login_activity_task_msg">Це може тривати декілька хвилин.</string>
+    <string name="prepare_account_setup_task_title">Підготовка облікового запису…</string>
+    <string name="prepare_account_setup_task_msg">Це може тривати декілька хвилин.</string>
+    <string name="sync_intro_activity_title">Синхронізуйте свій обліковий запис</string>
+    <string name="username">Електронна адреса</string>
+    <string name="error_invalid_second_factor">Використовуйте пароль програми, а не звичайний пароль облікового запису.</string>
+    <string name="error_needs_browser">Щоб отримати доступ до облікового запису, потрібно ввійти в нього в Інтернеті. Торкніться \"Далі\", щоб увійти у веб-переглядачі.</string>
+    <string name="google_play_opt_in">Надсилати мені новини та пропозиції з Google Play.</string>
+    <string name="google_settings_header_title">Конфіденційність</string>
+    <string name="maps_settings_title">Карти та Latitude</string>
+    <string name="location_settings_title">Місцезнаходження</string>
+    <string name="search_settings_title">Пошук</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Оголошення</string>
+    <string name="location_network_based">Служба локації Google</string>
+    <string name="location_neighborhood_level">Надсилати анонімні дані локації в Google. Дозволені програми можуть використовувати дані з мобільних мереж і Wi-Fi для визначення приблизного розташування.</string>
+    <string name="use_location_title">Місцезнаходж. й Пошук Google</string>
+    <string name="use_location_summary">Дозволити Google використовувати місцезнаходження для покращення результатів пошуку й інших служб</string>
+    <string name="backup_consent_yes_agree">Використовуйте свій обліковий запис Google, щоб створювати резервні копії програм, налаштувань (як-от закладок і паролів Wi-Fi) та інших даних.</string>
+    <string name="restore_consent_yes_agree">Перенесіть на цей телефон програми, налаштування й інші дані, для яких ви раніше створювали резервні копії у своєму обліковому записі Google.</string>
+    <string name="audit_logging_summary">Автоматично надсилайте інформацію про події та діагностику пристрою в Google, щоб покращити наші продукти й захистити свій пристрій.</string>
+    <string name="no_back_msg">Неможливо повернутися до попереднього кроку.</string>
+    <string name="setup_wizard_title">Майстер налаштування</string>
+    <string name="setup_wizard_services_activity_title">Сервіси Google</string>
+    <string name="setup_wizard_services_description">Сервіси Google працюють для вас. Ви можете будь-коли ввімкнути чи вимкнути їх. Ваші дані використовуються відповідно до <annotation id="google_privacy">Політики конфіденційності</annotation> Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Резервне копіювання та відновлення</string>
+    <string name="setup_wizard_services_location_heading">Місцезнаходження</string>
+    <string name="setup_wizard_services_communication_heading">Передавання даних</string>
+    <string name="setup_wizard_services_backup"><b>Створюйте резервні копії додатків, даних додатків, налаштувань, особистих словників і паролів Wi-Fi</b> зі свого телефона в обліковому записі Google, щоб легко відновлювати їх пізніше. <annotation id="backup_details">Докладніше</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Створюйте резервні копії додатків, даних додатків, налаштувань, особистих словників і паролів Wi-Fi</b> в обліковому записі Google, щоб легко відновлювати їх пізніше.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">До таких даних належать програми, налаштування програм, налаштування системи та паролі Wi‑Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Коли ви вмикаєте автоматичне резервне копіювання, дані вашого пристрою періодично зберігаються в обліковому записі Google. Резервні копії можуть включати інформацію з папок даних додатків, зокрема параметри, налаштування, повідомлення, фотографії й інші файли.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Увімкніть службу локації Google</b>, щоб додатки могли визначати ваше місцезнаходження. Це означає, що анонімні геодані надсилатимуться в Google, навіть коли додатки не працюють. <annotation id="location_details">Докладніше</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Служба локації Google використовує такі джерела, як мережі Wi‑Fi та мобільні мережі, щоб швидше й точніше визначати місцезнаходження вашого пристрою. Коли ви вмикаєте службу локації Google, пристрій переходить у режим отримання геоданих із мереж Wi-Fi та мобільних мереж. Цю функцію можна вимкнути в налаштуваннях місцезнаходження. Для цього виберіть режим, у якому використовується лише GPS (його іноді називають режимом \"Лише пристрій\").</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Допоможіть покращити служби локації</b>, дозволивши додаткам і службам виявляти мережі Wi-Fi, навіть коли з’єднання Wi-Fi вимкнено.</string>
+    <string name="setup_wizard_services_location_footnote">Служба локації Google використовує Wi‑Fi та інші системи, щоб швидше й точніше визначати місцезнаходження, часто споживаючи менше енергії, ніж GPS. Деякі дані можуть зберігатися на вашому пристрої. Дані можуть збиратися, навіть коли не запущено жодну програму.</string>
+    <string name="setup_wizard_services_play"><b>Надсилати мені</b> новини та пропозиції з Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Допоможіть покращити роботу ОС Android</b>, автоматично надсилаючи в Google дані про діагностику та використання. Ця інформація не використовуватиметься для встановлення вашої особи. Вона допоможе збільшити тривалість роботи акумулятора, підвищити продуктивність додатків і розробити нові функції Google. <annotation id="usage_reporting_details">Докладніше</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Це загальна інформація про ваш пристрій і його використання, зокрема про рівень заряду акумулятора, частоту використання додатків, якість і тривалість з’єднання з мережею (мобільною, Wi-Fi та Bluetooth), а також звіти про аварійне завершення роботи, коли пристрій працює неналежним чином. Ця інформація використовується для покращення продуктів і служб Google. Вона не пов’язується з вашим обліковим записом Google. Окрім цього, деяка сукупна інформація допомагає нашим партнерам, зокрема розробникам Android, покращувати їхні додатки та продукти.
+
+Ви можете будь-коли ввімкнути або вимкнути цю функцію в додатку Налаштування від Google. Це не вплине на здатність пристрою надсилати інформацію, потрібну для отримання важливих послуг, як-от оновлень системи та засобів безпеки."</string>
+    <string name="setup_wizard_services_agreement">Цей телефон може отримувати та встановлювати оновлення й додатки від Google, вашого оператора та виробника пристрою. Якщо продовжити, можуть завантажитися та встановитися деякі додатки, однак ви можете будь-коли їх видалити.</string>
+</resources>

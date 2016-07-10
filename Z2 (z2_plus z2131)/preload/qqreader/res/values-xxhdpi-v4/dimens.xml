@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activate_dialog_height">550.0dip</dimen>
+    <dimen name="bookshelf_sign_square_item_image_height">22.0dip</dimen>
+    <dimen name="pref_grid_header_margin_bottom">18.0dip</dimen>
+    <dimen name="pref_grid_header_margin_top">12.0dip</dimen>
+    <dimen name="preference_button_margin_top">10.0dip</dimen>
+    <dimen name="preference_intro_marginBottom">60.0dip</dimen>
+    <dimen name="preference_intro_marginTop">112.0dip</dimen>
+    <dimen name="preference_intro_textSize">24.0dip</dimen>
+    <dimen name="search_tool_cloud_tag_textsiez">17.0dip</dimen>
+    <dimen name="search_tool_main_bookcount_padding_right">16.0dip</dimen>
+    <dimen name="search_tool_main_bookcount_textsize">38.0dip</dimen>
+    <dimen name="search_tool_main_cloud_layout_height">300.0dip</dimen>
+    <dimen name="bookshelf_resign_tip_window_width">320.0dip</dimen>
+    <dimen name="bookshelf_sign_up_ok_window_height">210.0dip</dimen>
+</resources>

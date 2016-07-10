@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>walang paksa</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundo</item>
+        <item>3 segundo</item>
+        <item>4 segundo</item>
+        <item>5 segundo</item>
+        <item>6 segundo</item>
+        <item>7 segundo</item>
+        <item>8 segundo</item>
+        <item>9 segundo</item>
+        <item>10 segundo</item>
+        <item>Iba pa</item>
+    </string-array>
+</resources>

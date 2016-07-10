@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Aukeratu segurtasun-galdera</item>
+        <item>Lehenengo telefono-zenbakia?</item>
+        <item>Haurtzaroko lagunik onenaren izena?</item>
+        <item>Lehenengo irakaslearen izena?</item>
+        <item>Lehenengo laneko nagusiaren izena?</item>
+        <item>Ibilgailuaren matrikula-zenbakia?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>ahula</item>
+        <item>nahikoa</item>
+        <item>ona</item>
+        <item>sendoa</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Gizonezkoa</item>
+        <item>Emakumezkoa</item>
+        <item>Beste bat</item>
+    </string-array>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2012 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- wangfeng23, 2016-5-18, Themes_BLACK , begin -->
+    <!-- ActionBar Color -->
+    <color name="tab_title_text_color">#8c8c8c</color>
+    <color name="tab_devider_color">#1b1e24</color>
+    <color name="tab_title_background">#131419 </color>
+    <color name="action_text_color">#FF5c5c5c</color>
+    <color name="tab_time_text_color">#FF5c5c5c</color>   
+
+    <!-- Filmstrip Color -->
+    <color name="filmstrip_background">#131419</color>
+    <color name="filmstrip_UiHidden_background">#000000</color>
+
+    <!-- BottomBar Color -->
+    <color name="tab_bottom_background">#131419</color>
+
+    <!-- Settings Color -->
+    <color name="category_title">#8c8c8c</color>
+    <color name="category_summary">#5c5c5c</color>
+    <color name="list_item">#8c8c8c</color>
+    <color name="setting_selectableitem_pressed">#0cffffff</color>
+    <color name="setting_selectableitem_unpressed">#070707</color>
+    <color name="statusbar_icon_color">#ffffff</color>
+
+    <!-- Share Dialog Color --> 
+    <color name="share_dialog_gb_color">#FF000000</color>
+    <!-- wangfeng23, 2016-5-18, Themes_BLACK , end -->
+</resources>

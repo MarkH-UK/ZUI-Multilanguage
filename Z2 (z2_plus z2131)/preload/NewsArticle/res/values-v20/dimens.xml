@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="essay_actions_padding_top">16.0dip</dimen>
+    <dimen name="essay_comment_margin_top">16.0dip</dimen>
+    <dimen name="essay_comment_padding_bottom">8.0dip</dimen>
+    <dimen name="essay_image_layout_margin_bottom">0.0dip</dimen>
+    <dimen name="essay_image_layout_margin_top">6.0dip</dimen>
+    <dimen name="feed_like_margin_top_below_abstract">10.0dip</dimen>
+    <dimen name="more_comments_action_margin_top">4.0dip</dimen>
+    <dimen name="more_comments_margin_bottom">1.0dip</dimen>
+    <dimen name="more_comments_margin_top">5.0dip</dimen>
+    <dimen name="more_comments_title_margin_bottom">1.0dip</dimen>
+    <dimen name="pic_item_infolayout_margin_top">5.0dip</dimen>
+</resources>

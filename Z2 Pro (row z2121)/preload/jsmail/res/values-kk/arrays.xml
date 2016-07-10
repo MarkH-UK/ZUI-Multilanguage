@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Жауап беру</item>
+        <item>Барлығына жауап беру</item>
+        <item>Қайта бағыттау</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Бір жол</item>
+        <item>Екі жол</item>
+        <item>Үш жол</item>
+        <item>Төрт жол</item>
+        <item>Бес жол</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Кішкентай</item>
+        <item>Шағын</item>
+        <item>Қалыпты</item>
+        <item>Үлкен</item>
+        <item>Өте үлкен</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Соңғы</item>
+        <item>Пішім</item>
+        <item>Аты</item>
+        <item>Кімнен</item>
+        <item>Күні</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Жүйе</item>
+        <item>Жылдам хабарлар</item>
+        <item>Барлық қалта</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Келесі сөйлесу</item>
+        <item>Алдыңғы сөйлесу</item>
+        <item>Сөйлесулер тізімі</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Тек мұрағатталған элементтерді көрсету</item>
+        <item>Тек жойылған элементтерді көрсету</item>
+        <item>Мұрағатталған және жойылған элементтерді көрсету</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Жойғаннан кейін келесі сөйлесуді көрсету</item>
+        <item>Жойғаннан кейін алдыңғы сөйлесуді көрсету</item>
+        <item>Жойғаннан кейін сөйлесулер тізімін көрсету</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Тек мұрағатталған элементтерді көрсету</item>
+        <item>Тек жойылған элементтерді көрсету</item>
+        <item>Мұрағатталған және жойылған элементтерді көрсету</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Мекенжай:</item>
+        <item>Тел:</item>
+        <item>Аты:</item>
+        <item>Электрондық пошта:</item>
+        <item>Мобильді:</item>
+        <item>WeChat:</item>
+        <item>Факс:</item>
+        <item>Пошталық индекс:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Рақмет,</item>
+        <item>Құрметпен</item>
+        <item>Менің құрылғымнан жіберілген</item>
+        <item>Бастапқы электрондық пошта</item>
+        <item>Менің құрылғымнан жіберілген</item>
+        <item>Келесіден жіберілген</item>
+        <item>Кімнен</item>
+        <item>Бұл пошта</item>
+        <item>Бас тарту</item>
+        <item>Электрондық пошта, бас тарту</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Синхрондау сәтті орындалды</item>
+        <item>Желі байланысындағы қате</item>
+        <item>Кіру орындалмады</item>
+        <item>Қауіпсіз байланыстағы қате</item>
+        <item>Синхрондау орындалмады</item>
+        <item>Сервер қатесі</item>
+    </string-array>
+</resources>

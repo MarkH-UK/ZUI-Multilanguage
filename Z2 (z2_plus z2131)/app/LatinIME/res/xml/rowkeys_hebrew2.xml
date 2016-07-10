@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <Key latin:keySpec="ש" />
+    <Key latin:keySpec="ד" />
+    <Key latin:moreKeys="ג׳" latin:keySpec="ג" />
+    <Key latin:keySpec="כ" />
+    <Key latin:keySpec="ע" />
+    <Key latin:moreKeys="ײַ" latin:keySpec="י" />
+    <Key latin:moreKeys="ח׳" latin:keySpec="ח" />
+    <Key latin:keySpec="ל" />
+    <Key latin:keySpec="ך" />
+    <Key latin:keySpec="ף" />
+</merge>

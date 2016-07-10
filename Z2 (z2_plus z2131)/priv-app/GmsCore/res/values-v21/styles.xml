@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActivityStyle" parent="@style/common.Theme.GoogleSettings">
+        <item name="android:textColor">@color/gf_text_color_primary_dark</item>
+        <item name="colorPrimary">@color/material_light_blue_500</item>
+        <item name="colorPrimaryDark">@color/material_light_blue_700</item>
+    </style>
+    <style name="AlertThemeSelector" parent="@android:style/Theme.Material.Light.Panel">
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat" parent="@android:style/TextAppearance.Material" />
+    <style name="Base.TextAppearance.AppCompat.Body1" parent="@android:style/TextAppearance.Material.Body1" />
+    <style name="Base.TextAppearance.AppCompat.Body2" parent="@android:style/TextAppearance.Material.Body2" />
+    <style name="Base.TextAppearance.AppCompat.Button" parent="@android:style/TextAppearance.Material.Button" />
+    <style name="Base.TextAppearance.AppCompat.Caption" parent="@android:style/TextAppearance.Material.Caption" />
+    <style name="Base.TextAppearance.AppCompat.Display1" parent="@android:style/TextAppearance.Material.Display1" />
+    <style name="Base.TextAppearance.AppCompat.Display2" parent="@android:style/TextAppearance.Material.Display2" />
+    <style name="Base.TextAppearance.AppCompat.Display3" parent="@android:style/TextAppearance.Material.Display3" />
+    <style name="Base.TextAppearance.AppCompat.Display4" parent="@android:style/TextAppearance.Material.Display4" />
+    <style name="Base.TextAppearance.AppCompat.Headline" parent="@android:style/TextAppearance.Material.Headline" />
+    <style name="Base.TextAppearance.AppCompat.Inverse" parent="@android:style/TextAppearance.Material.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Large" parent="@android:style/TextAppearance.Material.Large" />
+    <style name="Base.TextAppearance.AppCompat.Large.Inverse" parent="@android:style/TextAppearance.Material.Large.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Large" />
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Small" />
+    <style name="Base.TextAppearance.AppCompat.Medium" parent="@android:style/TextAppearance.Material.Medium" />
+    <style name="Base.TextAppearance.AppCompat.Medium.Inverse" parent="@android:style/TextAppearance.Material.Medium.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Menu" parent="@android:style/TextAppearance.Material.Menu" />
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Subtitle" parent="@android:style/TextAppearance.Material.SearchResult.Subtitle" />
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Title" parent="@android:style/TextAppearance.Material.SearchResult.Title" />
+    <style name="Base.TextAppearance.AppCompat.Small" parent="@android:style/TextAppearance.Material.Small" />
+    <style name="Base.TextAppearance.AppCompat.Small.Inverse" parent="@android:style/TextAppearance.Material.Small.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Subhead" parent="@android:style/TextAppearance.Material.Subhead" />
+    <style name="Base.TextAppearance.AppCompat.Title" parent="@android:style/TextAppearance.Material.Title" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Subtitle" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Title" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Title" />
+    <style name="Base.TextAppearance.AppCompat.Widget.Button" parent="@android:style/TextAppearance.Material.Widget.Button" />
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Large" />
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Small" />
+    <style name="Base.TextAppearance.AppCompat.Widget.Switch" parent="@android:style/TextAppearance.Material.Button" />
+    <style name="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="@android:style/TextAppearance.Material.Widget.TextView.SpinnerItem" />
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle" />
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title" />
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V21.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.Dialog" parent="@style/Base.V21.Theme.AppCompat.Dialog" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V21.Theme.AppCompat.Light" />
+    <style name="Base.Theme.AppCompat.Light.Dialog" parent="@style/Base.V21.Theme.AppCompat.Light.Dialog" />
+    <style name="Base.Widget.AppCompat.ActionBar.TabText" parent="@android:style/Widget.Material.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.ActionBar.TabView" parent="@android:style/Widget.Material.ActionBar.TabView" />
+    <style name="Base.Widget.AppCompat.ActionButton" parent="@android:style/Widget.Material.ActionButton" />
+    <style name="Base.Widget.AppCompat.ActionButton.CloseMode" parent="@android:style/Widget.Material.ActionButton.CloseMode">
+        <item name="android:minWidth">56.0dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton.Overflow" parent="@android:style/Widget.Material.ActionButton.Overflow" />
+    <style name="Base.Widget.AppCompat.AutoCompleteTextView" parent="@android:style/Widget.Material.AutoCompleteTextView" />
+    <style name="Base.Widget.AppCompat.Button" parent="@android:style/Widget.Material.Button" />
+    <style name="Base.Widget.AppCompat.Button.Borderless" parent="@android:style/Widget.Material.Button.Borderless" />
+    <style name="Base.Widget.AppCompat.Button.Borderless.Colored" parent="@android:style/Widget.Material.Button.Borderless.Colored" />
+    <style name="Base.Widget.AppCompat.Button.Small" parent="@android:style/Widget.Material.Button.Small" />
+    <style name="Base.Widget.AppCompat.ButtonBar" parent="@android:style/Widget.Material.ButtonBar" />
+    <style name="Base.Widget.AppCompat.CompoundButton.CheckBox" parent="@android:style/Widget.Material.CompoundButton.CheckBox" />
+    <style name="Base.Widget.AppCompat.CompoundButton.RadioButton" parent="@android:style/Widget.Material.CompoundButton.RadioButton" />
+    <style name="Base.Widget.AppCompat.DropDownItem.Spinner" parent="@android:style/Widget.Material.DropDownItem.Spinner" />
+    <style name="Base.Widget.AppCompat.EditText" parent="@android:style/Widget.Material.EditText" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="@android:style/Widget.Material.Light.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="@android:style/Widget.Material.Light.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="@android:style/Widget.Material.Light.ActionBar.TabView" />
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@android:style/Widget.Material.Light.PopupMenu" />
+    <style name="Base.Widget.AppCompat.Light.PopupMenu.Overflow" parent="@style/Base.Widget.AppCompat.Light.PopupMenu">
+        <item name="android:dropDownHorizontalOffset">-4.0dip</item>
+        <item name="android:overlapAnchor">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListPopupWindow" parent="@android:style/Widget.Material.ListPopupWindow" />
+    <style name="Base.Widget.AppCompat.ListView" parent="@android:style/Widget.Material.ListView" />
+    <style name="Base.Widget.AppCompat.ListView.DropDown" parent="@android:style/Widget.Material.ListView.DropDown" />
+    <style name="Base.Widget.AppCompat.ListView.Menu" parent="@style/Base.Widget.AppCompat.ListView" />
+    <style name="Base.Widget.AppCompat.PopupMenu" parent="@android:style/Widget.Material.PopupMenu" />
+    <style name="Base.Widget.AppCompat.PopupMenu.Overflow" parent="@style/Base.Widget.AppCompat.PopupMenu">
+        <item name="android:dropDownHorizontalOffset">-4.0dip</item>
+        <item name="android:overlapAnchor">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ProgressBar" parent="@android:style/Widget.Material.ProgressBar" />
+    <style name="Base.Widget.AppCompat.ProgressBar.Horizontal" parent="@android:style/Widget.Material.ProgressBar.Horizontal" />
+    <style name="Base.Widget.AppCompat.RatingBar" parent="@android:style/Widget.Material.RatingBar" />
+    <style name="Base.Widget.AppCompat.Spinner" parent="@android:style/Widget.Material.Spinner" />
+    <style name="Base.Widget.AppCompat.Spinner.Underlined" parent="@android:style/Widget.Material.Spinner.Underlined" />
+    <style name="Base.Widget.AppCompat.TextView.SpinnerItem" parent="@android:style/Widget.Material.TextView.SpinnerItem" />
+    <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="@android:style/Widget.Material.Toolbar.Button.Navigation" />
+    <style name="BrowserTheme" parent="@style/auth_minutemaid_theme_material">
+        <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextView</item>
+    </style>
+    <style name="CaptchaActivity" parent="@style/auth_minutemaid_theme_material">
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+    <style name="CredentialPickerButton" parent="@android:style/Widget.Material.Button.Borderless">
+        <item name="android:textAppearance">@style/CredentialsTypographyButton</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:minWidth">88.0dip</item>
+        <item name="android:minHeight">44.0dip</item>
+    </style>
+    <style name="CredentialPickerButtonPrimary" parent="@android:style/Widget.Material.Button">
+        <item name="android:textAppearance">@style/CredentialsTypographyButton</item>
+        <item name="android:textColor">@color/credentials_white_alpha_87</item>
+        <item name="android:background">@drawable/credential_button_primary_ripple</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:minWidth">88.0dip</item>
+        <item name="android:minHeight">44.0dip</item>
+    </style>
+    <style name="CredentialsTypographyButton" parent="@style/CredentialsTypographyBase">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="DialogActivityStyle" parent="@android:style/Theme.Material.Light.Dialog">
+        <item name="android:textColor">@color/gf_text_color_primary_dark</item>
+    </style>
+    <style name="ListItem">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+    </style>
+    <style name="LoginActivity" parent="@style/auth_minutemaid_theme_material">
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:actionBarStyle">@style/AccountIntroActionBarStyle</item>
+    </style>
+    <style name="LoginActivityTask" parent="@style/auth_minutemaid_theme_material" />
+    <style name="NoTitleInXL" parent="@style/auth_minutemaid_theme_material" />
+    <style name="Notifications.Activity.Dialog" parent="@android:style/Theme.Material.Dialog.NoActionBar" />
+    <style name="PeopleButton.Borderless" parent="@android:style/Widget.Material.Light.Button.Borderless" />
+    <style name="PeopleDialogTheme" parent="@android:style/Theme.Material.Light.Dialog" />
+    <style name="Platform.AppCompat" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+    </style>
+    <style name="Platform.ThemeOverlay.AppCompat" parent="">
+        <item name="android:colorControlNormal">?colorControlNormal</item>
+        <item name="android:colorControlActivated">?colorControlActivated</item>
+        <item name="android:colorButtonNormal">?colorButtonNormal</item>
+        <item name="android:colorControlHighlight">?colorControlHighlight</item>
+        <item name="android:colorPrimary">?colorPrimary</item>
+        <item name="android:colorPrimaryDark">?colorPrimaryDark</item>
+        <item name="android:colorAccent">?colorAccent</item>
+    </style>
+    <style name="Platform.ThemeOverlay.AppCompat.Dark" parent="@style/Platform.ThemeOverlay.AppCompat" />
+    <style name="Platform.ThemeOverlay.AppCompat.Light" parent="@style/Platform.ThemeOverlay.AppCompat" />
+    <style name="SectionHeader">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">?android:activatedBackgroundIndicator</item>
+        <item name="android:paddingLeft">16.0dip</item>
+    </style>
+    <style name="SmartDevice.Widget.ProgressBar.Large" parent="@android:style/Widget.Material.ProgressBar.Large" />
+    <style name="SmartDevice.Widget.ProgressBar.Large.Inverse" parent="@android:style/Widget.Material.Light.ProgressBar.Large.Inverse" />
+    <style name="SmartDevice.Widget.ProgressBar.Small" parent="@android:style/Widget.Material.ProgressBar.Small" />
+    <style name="SmartDevice.Widget.ProgressBar.Small.Inverse" parent="@android:style/Widget.Material.Light.ProgressBar.Small.Inverse" />
+    <style name="SuwNavBarButtonStyle" parent="@android:style/Widget.Material.Button.Borderless">
+        <item name="android:textSize">@dimen/suw_navbar_text_size</item>
+        <item name="android:textColor">?suwNavBarTextColor</item>
+        <item name="android:background">?suwNavBarButtonBackground</item>
+        <item name="android:paddingLeft">@dimen/suw_navbar_button_padding_sides</item>
+        <item name="android:paddingRight">@dimen/suw_navbar_button_padding_sides</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="SuwNavBarThemeDark" parent="@style/SuwNavBarTheme">
+        <item name="suwNavBarBackgroundColor">@color/suw_navbar_bg_dark</item>
+        <item name="suwNavBarButtonBackground">@drawable/suw_navbar_btn_bg</item>
+    </style>
+    <style name="SuwNavBarThemeLight" parent="@style/SuwNavBarTheme">
+        <item name="suwNavBarBackgroundColor">@color/suw_navbar_bg_light</item>
+        <item name="suwNavBarButtonBackground">@drawable/suw_navbar_btn_bg</item>
+    </style>
+    <style name="TextAppearance.SuwCardTitle" parent="@android:style/TextAppearance.Material.Display1">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="TextAppearance.SuwDescription" parent="@android:style/TextAppearance.Material.Medium">
+        <item name="android:textSize">@dimen/suw_description_text_size</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Theme.AppInvite.Preview.Base" parent="@android:style/Theme.Material.Light.DialogWhenLarge.NoActionBar" />
+    <style name="Theme.FamilyManagement.Dialog.Progress" parent="@style/Theme.FamilyManagement.Dialog">
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+    <style name="Theme.FamilyManagement.Wallet" parent="">
+        <item name="android:colorPrimary">#ff4285f4</item>
+        <item name="android:colorPrimaryDark">#ff000000</item>
+        <item name="android:colorAccent">#ff4285f4</item>
+    </style>
+    <style name="ThemeOverlay_Wallet_ActionBar" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:colorControlNormal">?colorWalletActionBarForeground</item>
+        <item name="colorWalletNormalText">?colorWalletActionBarForeground</item>
+    </style>
+    <style name="Theme_Wallet" parent="@style/Theme.AppCompat.DialogWhenLarge">
+        <item name="android:colorBackground">@color/wallet_background</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:dropDownListViewStyle">@style/Widget_Wallet_ListView_DropDown</item>
+        <item name="android:textColorHighlight">@color/wallet_highlight</item>
+        <item name="android:textColorLink">@color/wallet_link</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:colorPrimary">@color/wallet_primary</item>
+        <item name="android:colorPrimaryDark">@color/wallet_primary_dark</item>
+        <item name="android:colorAccent">@color/wallet_accent</item>
+        <item name="colorWalletDropdownDetailsText">?android:textColorSecondary</item>
+        <item name="colorWalletDropdownText">?android:textColorPrimary</item>
+        <item name="colorWalletImportantText">?android:textColorPrimary</item>
+        <item name="colorWalletInfoText">?android:textColorPrimary</item>
+        <item name="colorWalletNormalText">?android:textColorSecondary</item>
+        <item name="colorWalletSubheaderText">@color/wallet_subheader_foreground</item>
+        <item name="drawableAndroidPayLogo">@drawable/wallet_android_pay_dark_logo</item>
+        <item name="drawableGoogleLogo">@drawable/wallet_google_logo_dark</item>
+        <item name="drawableWalletActionBarBackground">?android:colorPrimary</item>
+        <item name="drawableWalletAdd">@drawable/wallet_full_add_tinted</item>
+        <item name="drawableWalletAddPadded">@drawable/wallet_full_add_padded_tinted</item>
+        <item name="drawableWalletAlert">@drawable/wallet_ic_dialog_alert_holo_dark</item>
+        <item name="drawableWalletCamera">@drawable/wallet_ic_camera_ocr_tinted</item>
+        <item name="drawableWalletCollapse">@drawable/wallet_collapse</item>
+        <item name="drawableWalletExpand">@drawable/wallet_expand</item>
+        <item name="drawableWalletInfo">@drawable/wallet_info</item>
+        <item name="drawableWalletLogoText">@drawable/wallet_logo_text_dark</item>
+        <item name="drawableWalletOcrButtonBackground">@drawable/wallet_ocr_button_background</item>
+        <item name="styleWalletLinkButton">@style/WalletLinkButton</item>
+        <item name="styleWidgetWalletFormSpinner">@style/Widget_Wallet_Spinner_Underlined</item>
+        <item name="styleWidgetWalletSpinner">@style/Widget_Wallet_Spinner</item>
+        <item name="actionBarStyle">@style/Widget_Wallet_ActionBar</item>
+        <item name="actionBarTheme">@style/ThemeOverlay_Wallet_ActionBar</item>
+        <item name="colorPrimary">?android:colorPrimary</item>
+        <item name="colorPrimaryDark">?android:colorPrimaryDark</item>
+        <item name="colorAccent">?android:colorAccent</item>
+        <item name="colorWalletActionBarForeground">@color/wallet_action_bar_foreground</item>
+        <item name="colorWalletButtonDisabled">@color/wallet_button_disabled</item>
+        <item name="colorWalletButtonHighlightPrimary">@color/wallet_button_highlight</item>
+        <item name="colorWalletButtonPrimary">?android:colorAccent</item>
+        <item name="colorWalletButtonTextPrimary">@color/wallet_button_text</item>
+        <item name="colorWalletOcrButtonBackground">@color/wallet_ocr_button_background_dark</item>
+        <item name="colorWalletOcrButtonBorder">@color/wallet_ocr_button_border_dark</item>
+        <item name="colorWalletSubheaderBackground">@color/wallet_subheader_background</item>
+    </style>
+    <style name="Theme_Wallet_Dialog" parent="@style/Theme.AppCompat.Dialog">
+        <item name="android:colorBackground">@color/wallet_background</item>
+        <item name="android:dropDownListViewStyle">@style/Widget_Wallet_ListView_DropDown</item>
+        <item name="android:textColorHighlight">@color/wallet_highlight</item>
+        <item name="android:textColorLink">@color/wallet_link</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:colorPrimary">@color/wallet_primary</item>
+        <item name="android:colorPrimaryDark">@color/wallet_primary_dark</item>
+        <item name="android:colorAccent">@color/wallet_accent</item>
+        <item name="colorWalletDropdownDetailsText">?android:textColorSecondary</item>
+        <item name="colorWalletDropdownText">?android:textColorPrimary</item>
+        <item name="colorWalletImportantText">?android:textColorPrimary</item>
+        <item name="colorWalletInfoText">?android:textColorPrimary</item>
+        <item name="colorWalletNormalText">?android:textColorSecondary</item>
+        <item name="colorWalletSubheaderText">@color/wallet_subheader_foreground</item>
+        <item name="drawableAndroidPayLogo">@drawable/wallet_android_pay_dark_logo</item>
+        <item name="drawableGoogleLogo">@drawable/wallet_google_logo_dark</item>
+        <item name="drawableWalletAdd">@drawable/wallet_full_add_tinted</item>
+        <item name="drawableWalletAddPadded">@drawable/wallet_full_add_padded_tinted</item>
+        <item name="drawableWalletAlert">@drawable/wallet_ic_dialog_alert_holo_dark</item>
+        <item name="drawableWalletCamera">@drawable/wallet_ic_camera_ocr_tinted</item>
+        <item name="drawableWalletCollapse">@drawable/wallet_collapse</item>
+        <item name="drawableWalletExpand">@drawable/wallet_expand</item>
+        <item name="drawableWalletInfo">@drawable/wallet_info</item>
+        <item name="drawableWalletLogoText">@drawable/wallet_logo_text_dark</item>
+        <item name="drawableWalletOcrButtonBackground">@drawable/wallet_ocr_button_background</item>
+        <item name="layoutWalletButtonBar">@layout/wallet_view_button_bar_dialog</item>
+        <item name="styleWalletLinkButton">@style/WalletLinkButton</item>
+        <item name="styleWidgetWalletFormSpinner">@style/Widget_Wallet_Spinner_Underlined</item>
+        <item name="styleWidgetWalletSpinner">@style/Widget_Wallet_Spinner</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">?android:colorPrimary</item>
+        <item name="colorPrimaryDark">?android:colorPrimaryDark</item>
+        <item name="colorAccent">?android:colorAccent</item>
+        <item name="colorWalletButtonDisabled">@color/wallet_button_disabled</item>
+        <item name="colorWalletButtonHighlightPrimary">@color/wallet_button_highlight</item>
+        <item name="colorWalletButtonPrimary">?android:colorAccent</item>
+        <item name="colorWalletButtonTextPrimary">@color/wallet_button_text</item>
+        <item name="colorWalletOcrButtonBackground">@color/wallet_ocr_button_background_dark</item>
+        <item name="colorWalletOcrButtonBorder">@color/wallet_ocr_button_border_dark</item>
+        <item name="colorWalletSubheaderBackground">@color/wallet_subheader_background</item>
+    </style>
+    <style name="TrustAgentNotificationWithNoActionBar" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
+    <style name="UdcTextAppearance" parent="@android:style/TextAppearance.Material">
+        <item name="android:textSize">@dimen/udc_text_size_body</item>
+        <item name="android:textColorLink">@color/udc_g_blue_600</item>
+    </style>
+    <style name="UdcTextAppearanceMedium" parent="@style/UdcTextAppearance">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="WalletButton" parent="@android:style/Widget.Material.Button">
+        <item name="android:theme">@style/ThemeOverlay_Wallet_ButtonPrimary</item>
+        <item name="android:paddingLeft">@dimen/wallet_padding_button_horizontal</item>
+        <item name="android:paddingRight">@dimen/wallet_padding_button_horizontal</item>
+        <item name="android:minWidth">@dimen/wallet_material_button_min_width</item>
+    </style>
+    <style name="WalletDialogPositiveButton" parent="@android:style/TextAppearance.Material.Button">
+        <item name="android:theme">@style/Theme_Dialog_Wallet_Positive_Button</item>
+        <item name="android:minWidth">@dimen/wallet_dialog_button_min_width</item>
+    </style>
+    <style name="Widget.FamilyManagement.Toolbar.Elevated" parent="@style/Widget.FamilyManagement.Toolbar">
+        <item name="android:elevation">@dimen/fm_toolbar_elevation</item>
+    </style>
+    <style name="Widget_Wallet_ActionBar" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="titleTextStyle">@style/Widget_Wallet_ActionBar_TitleText</item>
+        <item name="background">@null</item>
+        <item name="backgroundStacked">@null</item>
+        <item name="backgroundSplit">@null</item>
+    </style>
+    <style name="Widget_Wallet_ActionBar_Light" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="titleTextStyle">@style/Widget_Wallet_ActionBar_TitleText</item>
+        <item name="background">@null</item>
+        <item name="backgroundStacked">@null</item>
+        <item name="backgroundSplit">@null</item>
+    </style>
+    <style name="Widget_Wallet_ProgressBar_Small_Color" parent="@android:style/Widget.Material.ProgressBar.Small" />
+    <style name="Widget_Wallet_Spinner" parent="@android:style/Widget.Material.Spinner" />
+    <style name="appInviteTextStyleMedium">
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="common.Activity.Light.Dialog" parent="@style/Theme.AppCompat.Light.Dialog">
+        <item name="windowActionBar">false</item>
+    </style>
+    <style name="common.Activity.Light.Dialog.SmallTitle" parent="@style/common.Theme.Base.NoAppCompat.Light.Dialog" />
+    <style name="common.Theme.Base.GoogleSettings" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/material_blue_grey_900</item>
+        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.Dialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="buttonBarStyle">?android:buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:buttonBarButtonStyle</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge" />
+    <style name="common.Theme.Base.NoAppCompat.Light.Dialog" parent="@android:style/Theme.Material.Light.Dialog">
+        <item name="buttonBarStyle">?android:buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:buttonBarButtonStyle</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.Light.Dialog.MinWidth" parent="@android:style/Theme.Material.Light.Dialog.MinWidth">
+        <item name="buttonBarStyle">?android:buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:buttonBarButtonStyle</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+    </style>
+    <style name="common.Widget.Base.Spinner.Form" parent="@android:style/Widget.Material.Spinner.Underlined" />
+    <style name="common.Widget.Base.SwitchBar.GoogleSettings" parent="@style/common.Widget.SwitchBar">
+        <item name="colorPrimary">@color/material_blue_grey_800</item>
+        <item name="colorAccent">@color/material_teal_200</item>
+        <item name="colorControlHighlight">@color/ripple_material_dark</item>
+    </style>
+    <style name="completeDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="drive_ButtonBar">
+        <item name="android:elevation">@dimen/drive_DefaultElevation</item>
+    </style>
+    <style name="drive_Button_Platform" parent="@android:style/Widget.Material.Light.Button.Borderless" />
+    <style name="drive_Spinner" parent="@android:style/Widget.Material.Light.Spinner.Underlined" />
+    <style name="drive_Toolbar" parent="@style/Widget.AppCompat.Toolbar">
+        <item name="android:elevation">@dimen/drive_DefaultElevation</item>
+    </style>
+    <style name="kids_setup_wizard_content_sub_text">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/kids_black</item>
+        <item name="android:lineSpacingExtra">@dimen/kids_small_line_spacing_extra</item>
+        <item name="android:alpha">0.7</item>
+    </style>
+    <style name="plus.Activity.AppCompat.Moment" parent="@style/common.Theme.GoogleSettings">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="indeterminateProgressStyle">?android:indeterminateProgressStyle</item>
+    </style>
+    <style name="plus_authImage">
+        <item name="android:tint">#ccffffff</item>
+    </style>
+    <style name="sp.SelectableItem" parent="@style/common.Widget.Base.SelectableItem">
+        <item name="android:background">@drawable/unbounded_ripple</item>
+    </style>
+    <style name="systemUpdateActivityTheme" parent="@style/SuwThemeMaterial.Light">
+        <item name="android:windowAnimationStyle">@android:style/Animation.Activity</item>
+        <item name="android:colorAccent">@color/material_google_blue_A200</item>
+        <item name="android:statusBarColor">@color/material_blue_grey_950</item>
+        <item name="android:progressTint">@color/material_google_yellow_A200</item>
+        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
+    </style>
+    <style name="systemUpdateActivityTheme.SetupWizard" parent="@style/SuwThemeMaterial">
+        <item name="android:colorAccent">@color/material_google_blue_A200</item>
+        <item name="android:progressTint">@color/material_google_yellow_A200</item>
+    </style>
+    <style name="systemUpdateActivityTheme.SetupWizard.Light" parent="@style/SuwThemeMaterial.Light">
+        <item name="android:colorAccent">@color/material_google_blue_700</item>
+        <item name="android:progressTint">@color/material_google_yellow_500</item>
+    </style>
+    <style name="systemUpdateDescription.SetupWizard" parent="@android:style/TextAppearance.Material.Body1">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColorHighlight">@color/system_update_highlight_color</item>
+        <item name="android:textColorLink">?android:colorAccent</item>
+    </style>
+    <style name="udc.Theme.Consent" parent="@style/udc.Theme.Base.Consent">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/udc_statusbar_scrim</item>
+    </style>
+    <style name="wallet_quantum_text_medium">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="Theme_Wallet_Default_Material_Colors_Light" parent="@style/Theme_Wallet_Light">
+        <item name="android:colorPrimary">@color/wallet_material_primary</item>
+        <item name="android:colorPrimaryDark">@color/wallet_material_primary_dark</item>
+        <item name="android:colorAccent">@color/wallet_material_accent</item>
+        <item name="colorWalletButtonPrimary">?android:colorAccent</item>
+    </style>
+    <style name="Theme_Wallet_Dialog_Light" parent="@style/Theme.AppCompat.Light.Dialog">
+        <item name="android:colorBackground">@color/wallet_background_light</item>
+        <item name="android:dropDownListViewStyle">@style/Widget_Wallet_ListView_DropDown</item>
+        <item name="android:textColorHighlight">@color/wallet_highlight</item>
+        <item name="android:textColorLink">@color/wallet_link_light</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:colorPrimary">@color/wallet_primary</item>
+        <item name="android:colorPrimaryDark">@color/wallet_primary_dark</item>
+        <item name="android:colorAccent">@color/wallet_accent</item>
+        <item name="colorWalletDropdownDetailsText">?android:textColorSecondary</item>
+        <item name="colorWalletDropdownText">?android:textColorPrimary</item>
+        <item name="colorWalletImportantText">?android:textColorPrimary</item>
+        <item name="colorWalletInfoText">?android:textColorPrimary</item>
+        <item name="colorWalletNormalText">?android:textColorSecondary</item>
+        <item name="colorWalletSubheaderText">@color/wallet_subheader_foreground_light</item>
+        <item name="drawableAndroidPayLogo">@drawable/wallet_android_pay_light_logo</item>
+        <item name="drawableGoogleLogo">@drawable/wallet_google_logo_light</item>
+        <item name="drawableWalletAdd">@drawable/wallet_full_add_tinted</item>
+        <item name="drawableWalletAddPadded">@drawable/wallet_full_add_padded_tinted</item>
+        <item name="drawableWalletAlert">@drawable/wallet_ic_dialog_alert_holo_light</item>
+        <item name="drawableWalletCamera">@drawable/wallet_ic_camera_ocr_tinted</item>
+        <item name="drawableWalletCollapse">@drawable/wallet_collapse</item>
+        <item name="drawableWalletExpand">@drawable/wallet_expand</item>
+        <item name="drawableWalletInfo">@drawable/wallet_info_light</item>
+        <item name="drawableWalletLogoText">@drawable/wallet_logo_text_light</item>
+        <item name="drawableWalletOcrButtonBackground">@drawable/wallet_ocr_button_background</item>
+        <item name="layoutWalletButtonBar">@layout/wallet_view_button_bar_dialog</item>
+        <item name="styleWalletLinkButton">@style/WalletLinkButton</item>
+        <item name="styleWidgetWalletFormSpinner">@style/Widget_Wallet_Spinner_Light_Underlined</item>
+        <item name="styleWidgetWalletSpinner">@style/Widget_Wallet_Spinner_Light</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">?android:colorPrimary</item>
+        <item name="colorPrimaryDark">?android:colorPrimaryDark</item>
+        <item name="colorAccent">?android:colorAccent</item>
+        <item name="colorWalletButtonDisabled">@color/wallet_button_disabled_light</item>
+        <item name="colorWalletButtonHighlightPrimary">@color/wallet_button_highlight_light</item>
+        <item name="colorWalletButtonPrimary">?android:colorAccent</item>
+        <item name="colorWalletButtonTextPrimary">@color/wallet_button_text_light</item>
+        <item name="colorWalletOcrButtonBackground">@color/wallet_ocr_button_background_light</item>
+        <item name="colorWalletOcrButtonBorder">@color/wallet_ocr_button_border_light</item>
+        <item name="colorWalletSubheaderBackground">@color/wallet_subheader_background_light</item>
+    </style>
+    <style name="Theme_Wallet_Light" parent="@style/Theme.AppCompat.Light.DialogWhenLarge">
+        <item name="android:colorBackground">@color/wallet_background_light</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:dropDownListViewStyle">@style/Widget_Wallet_ListView_DropDown</item>
+        <item name="android:textColorHighlight">@color/wallet_highlight</item>
+        <item name="android:textColorLink">@color/wallet_link_light</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:colorPrimary">@color/wallet_primary</item>
+        <item name="android:colorPrimaryDark">@color/wallet_primary_dark</item>
+        <item name="android:colorAccent">@color/wallet_accent</item>
+        <item name="colorWalletDropdownDetailsText">?android:textColorSecondary</item>
+        <item name="colorWalletDropdownText">?android:textColorPrimary</item>
+        <item name="colorWalletImportantText">?android:textColorPrimary</item>
+        <item name="colorWalletInfoText">?android:textColorPrimary</item>
+        <item name="colorWalletNormalText">?android:textColorSecondary</item>
+        <item name="colorWalletSubheaderText">@color/wallet_subheader_foreground_light</item>
+        <item name="drawableAndroidPayLogo">@drawable/wallet_android_pay_light_logo</item>
+        <item name="drawableGoogleLogo">@drawable/wallet_google_logo_light</item>
+        <item name="drawableWalletActionBarBackground">?android:colorPrimary</item>
+        <item name="drawableWalletAdd">@drawable/wallet_full_add_tinted</item>
+        <item name="drawableWalletAddPadded">@drawable/wallet_full_add_padded_tinted</item>
+        <item name="drawableWalletAlert">@drawable/wallet_ic_dialog_alert_holo_light</item>
+        <item name="drawableWalletCamera">@drawable/wallet_ic_camera_ocr_tinted</item>
+        <item name="drawableWalletCollapse">@drawable/wallet_collapse</item>
+        <item name="drawableWalletExpand">@drawable/wallet_expand</item>
+        <item name="drawableWalletInfo">@drawable/wallet_info_light</item>
+        <item name="drawableWalletLogoText">@drawable/wallet_logo_text_light</item>
+        <item name="drawableWalletOcrButtonBackground">@drawable/wallet_ocr_button_background</item>
+        <item name="styleWalletLinkButton">@style/WalletLinkButton</item>
+        <item name="styleWidgetWalletFormSpinner">@style/Widget_Wallet_Spinner_Light_Underlined</item>
+        <item name="styleWidgetWalletSpinner">@style/Widget_Wallet_Spinner_Light</item>
+        <item name="actionBarStyle">@style/Widget_Wallet_ActionBar</item>
+        <item name="actionBarTheme">@style/ThemeOverlay_Wallet_ActionBar</item>
+        <item name="colorPrimary">?android:colorPrimary</item>
+        <item name="colorPrimaryDark">?android:colorPrimaryDark</item>
+        <item name="colorAccent">?android:colorAccent</item>
+        <item name="colorWalletActionBarForeground">@color/wallet_action_bar_foreground</item>
+        <item name="colorWalletButtonDisabled">@color/wallet_button_disabled_light</item>
+        <item name="colorWalletButtonHighlightPrimary">@color/wallet_button_highlight_light</item>
+        <item name="colorWalletButtonPrimary">?android:colorAccent</item>
+        <item name="colorWalletButtonTextPrimary">@color/wallet_button_text_light</item>
+        <item name="colorWalletOcrButtonBackground">@color/wallet_ocr_button_background_light</item>
+        <item name="colorWalletOcrButtonBorder">@color/wallet_ocr_button_border_light</item>
+        <item name="colorWalletSubheaderBackground">@color/wallet_subheader_background_light</item>
+    </style>
+    <style name="WalletFlatButton" parent="@android:style/Widget.Material.Button">
+        <item name="android:theme">@style/ThemeOverlay_Wallet_FlatButton</item>
+        <item name="android:background">?drawableWalletFlatButtonBackground</item>
+        <item name="android:minWidth">@dimen/wallet_material_button_min_width</item>
+        <item name="android:minHeight">@dimen/wallet_flat_button_height</item>
+    </style>
+    <style name="Widget_Wallet_Spinner_Light" parent="@android:style/Widget.Material.Light.Spinner" />
+    <style name="Widget_Wallet_Spinner_Light_Underlined" parent="@android:style/Widget.Material.Light.Spinner.Underlined" />
+    <style name="ClickableButton">
+        <item name="android:background">?selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="TpAndroidPayLogoImage" parent="@style/TpTapActivityToBeFadedIn">
+        <item name="android:src">@drawable/tp_tap_android_pay_vector</item>
+    </style>
+    <style name="TpCheckmarkImage" parent="@style/TpTapActivityToBeFadedIn">
+        <item name="android:src">@drawable/tp_checkmark_animation</item>
+    </style>
+    <style name="TpPinTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/tp_pin_primary</item>
+        <item name="android:colorPrimaryDark">@color/tp_pin_primary_dark</item>
+    </style>
+    <style name="TpSettingsErrorItemSubLabelText">
+        <item name="android:textAppearance">?android:textAppearanceListItemSecondary</item>
+        <item name="android:textColor">@color/tp_bad</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="TpSettingsItemClickableView">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">@dimen/material_baseline_grid_2x</item>
+        <item name="android:paddingBottom">@dimen/material_baseline_grid_2x</item>
+        <item name="android:minHeight">?android:listPreferredItemHeightSmall</item>
+    </style>
+    <style name="TpSettingsItemLabelText">
+        <item name="android:textAppearance">?textAppearanceListItem</item>
+    </style>
+    <style name="TpSettingsItemSubLabelText">
+        <item name="android:textAppearance">?android:textAppearanceListItemSecondary</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="TpSettingsLeftIconAndLabel" parent="@style/TpSettingsItemClickableView">
+        <item name="android:paddingStart">?android:listPreferredItemPaddingStart</item>
+    </style>
+    <style name="TpSettingsRightIcon" parent="@style/TpSettingsItemClickableView">
+        <item name="android:paddingEnd">?android:listPreferredItemPaddingEnd</item>
+    </style>
+    <style name="TpSettingsSelectedItemSubLabelText">
+        <item name="android:textAppearance">?android:textAppearanceListItemSecondary</item>
+        <item name="android:textColor">?android:colorAccent</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="TpTile" parent="@style/TpTileBase">
+        <item name="android:elevation">@dimen/tp_default_elevation</item>
+    </style>
+    <style name="Tp_Text_Body2">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="Tp_Text_Title">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="Base.V21.Theme.AppCompat" parent="@style/Base.V7.Theme.AppCompat">
+        <item name="android:colorControlNormal">?colorControlNormal</item>
+        <item name="android:colorControlActivated">?colorControlActivated</item>
+        <item name="android:colorButtonNormal">?colorButtonNormal</item>
+        <item name="android:colorControlHighlight">?colorControlHighlight</item>
+        <item name="android:colorPrimary">?colorPrimary</item>
+        <item name="android:colorPrimaryDark">?colorPrimaryDark</item>
+        <item name="android:colorAccent">?colorAccent</item>
+        <item name="actionOverflowButtonStyle">?android:actionOverflowButtonStyle</item>
+        <item name="actionBarSize">?android:actionBarSize</item>
+        <item name="actionBarDivider">?android:actionBarDivider</item>
+        <item name="actionBarItemBackground">@drawable/abc_action_bar_item_background_material</item>
+        <item name="actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="actionModeBackground">?android:actionModeBackground</item>
+        <item name="actionModeCloseDrawable">?android:actionModeCloseDrawable</item>
+        <item name="textAppearanceLargePopupMenu">?android:textAppearanceLargePopupMenu</item>
+        <item name="textAppearanceSmallPopupMenu">?android:textAppearanceSmallPopupMenu</item>
+        <item name="homeAsUpIndicator">?android:homeAsUpIndicator</item>
+        <item name="actionButtonStyle">?android:actionButtonStyle</item>
+        <item name="selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="selectableItemBackgroundBorderless">?android:selectableItemBackgroundBorderless</item>
+        <item name="borderlessButtonStyle">?android:borderlessButtonStyle</item>
+        <item name="dividerVertical">?android:dividerVertical</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+        <item name="editTextColor">?android:editTextColor</item>
+        <item name="editTextBackground">?android:editTextBackground</item>
+        <item name="listPreferredItemHeightSmall">?android:listPreferredItemHeightSmall</item>
+        <item name="listChoiceBackgroundIndicator">?android:listChoiceBackgroundIndicator</item>
+        <item name="autoCompleteTextViewStyle">?android:autoCompleteTextViewStyle</item>
+        <item name="buttonStyle">?android:buttonStyle</item>
+        <item name="buttonStyleSmall">?android:buttonStyleSmall</item>
+        <item name="checkboxStyle">?android:checkboxStyle</item>
+        <item name="checkedTextViewStyle">?android:checkedTextViewStyle</item>
+        <item name="editTextStyle">?android:editTextStyle</item>
+        <item name="radioButtonStyle">?android:radioButtonStyle</item>
+        <item name="ratingBarStyle">?android:ratingBarStyle</item>
+        <item name="spinnerStyle">?android:spinnerStyle</item>
+    </style>
+    <style name="Base.V21.Theme.AppCompat.Dialog" parent="@style/Base.V11.Theme.AppCompat.Dialog">
+        <item name="android:windowElevation">@dimen/abc_floating_window_z</item>
+    </style>
+    <style name="Base.V21.Theme.AppCompat.Light" parent="@style/Base.V7.Theme.AppCompat.Light">
+        <item name="android:colorControlNormal">?colorControlNormal</item>
+        <item name="android:colorControlActivated">?colorControlActivated</item>
+        <item name="android:colorButtonNormal">?colorButtonNormal</item>
+        <item name="android:colorControlHighlight">?colorControlHighlight</item>
+        <item name="android:colorPrimary">?colorPrimary</item>
+        <item name="android:colorPrimaryDark">?colorPrimaryDark</item>
+        <item name="android:colorAccent">?colorAccent</item>
+        <item name="actionOverflowButtonStyle">?android:actionOverflowButtonStyle</item>
+        <item name="actionBarSize">?android:actionBarSize</item>
+        <item name="actionBarDivider">?android:actionBarDivider</item>
+        <item name="actionBarItemBackground">@drawable/abc_action_bar_item_background_material</item>
+        <item name="actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="actionModeBackground">?android:actionModeBackground</item>
+        <item name="actionModeCloseDrawable">?android:actionModeCloseDrawable</item>
+        <item name="textAppearanceLargePopupMenu">?android:textAppearanceLargePopupMenu</item>
+        <item name="textAppearanceSmallPopupMenu">?android:textAppearanceSmallPopupMenu</item>
+        <item name="homeAsUpIndicator">?android:homeAsUpIndicator</item>
+        <item name="actionButtonStyle">?android:actionButtonStyle</item>
+        <item name="selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="selectableItemBackgroundBorderless">?android:selectableItemBackgroundBorderless</item>
+        <item name="borderlessButtonStyle">?android:borderlessButtonStyle</item>
+        <item name="dividerVertical">?android:dividerVertical</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+        <item name="editTextColor">?android:editTextColor</item>
+        <item name="editTextBackground">?android:editTextBackground</item>
+        <item name="listPreferredItemHeightSmall">?android:listPreferredItemHeightSmall</item>
+        <item name="listChoiceBackgroundIndicator">?android:listChoiceBackgroundIndicator</item>
+        <item name="autoCompleteTextViewStyle">?android:autoCompleteTextViewStyle</item>
+        <item name="buttonStyle">?android:buttonStyle</item>
+        <item name="buttonStyleSmall">?android:buttonStyleSmall</item>
+        <item name="checkboxStyle">?android:checkboxStyle</item>
+        <item name="checkedTextViewStyle">?android:checkedTextViewStyle</item>
+        <item name="editTextStyle">?android:editTextStyle</item>
+        <item name="radioButtonStyle">?android:radioButtonStyle</item>
+        <item name="ratingBarStyle">?android:ratingBarStyle</item>
+        <item name="spinnerStyle">?android:spinnerStyle</item>
+    </style>
+    <style name="Base.V21.Theme.AppCompat.Light.Dialog" parent="@style/Base.V11.Theme.AppCompat.Light.Dialog">
+        <item name="android:windowElevation">@dimen/abc_floating_window_z</item>
+    </style>
+    <style name="DeviceSwitch">
+        <item name="background">@color/ripple_material_dark</item>
+    </style>
+    <style name="KidsCustomWalletTheme">
+        <item name="android:colorPrimary">#ff3367d6</item>
+    </style>
+    <style name="SetBackupAccountActivity" parent="@android:style/Theme.Material.Light.Dialog" />
+    <style name="TextAppearance.SetupWizardCardTitle" parent="@android:style/TextAppearance.Material.Display1">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="ThemeOverlay_Wallet_ButtonPrimary">
+        <item name="android:textColorPrimary">?colorWalletButtonTextPrimary</item>
+        <item name="android:colorButtonNormal">?colorWalletButtonPrimary</item>
+        <item name="android:colorControlHighlight">?colorWalletButtonHighlightPrimary</item>
+    </style>
+    <style name="ThemeOverlay_Wallet_FlatButton">
+        <item name="android:textColorPrimary">?colorWalletMaterialAccent</item>
+        <item name="android:colorButtonNormal">?colorWalletFlatButtonBackgroundColor</item>
+        <item name="android:colorControlHighlight">?colorWalletButtonHighlightPrimary</item>
+    </style>
+    <style name="Theme_Dialog_Wallet_Positive_Button">
+        <item name="android:textColorPrimary">@color/wallet_button_text</item>
+        <item name="android:colorButtonNormal">@color/wallet_accent</item>
+        <item name="android:colorControlHighlight">?colorWalletButtonHighlightPrimary</item>
+    </style>
+    <style name="Theme_Wallet_Dialog_Translucent_No_Elevation" parent="@style/Theme_Wallet_Dialog_Translucent">
+        <item name="android:windowElevation">0.0dip</item>
+    </style>
+    <style name="Theme_Wallet_Dialog_Translucent_No_Elevation_Light" parent="@style/Theme_Wallet_Dialog_Translucent_Light">
+        <item name="android:windowElevation">0.0dip</item>
+    </style>
+    <style name="WalletAddressSelectorExpander">
+        <item name="addressRowLayout">@layout/wallet_row_address_expander</item>
+        <item name="addressRowDropDownLayout">@layout/wallet_row_address_expander_drop_down</item>
+        <item name="addressActionItemRowLayout">@layout/wallet_row_action_item_expander</item>
+        <item name="addressActionItemRowDropDownLayout">@layout/wallet_row_action_item_expander_drop_down</item>
+    </style>
+    <style name="WalletExpanderDialog">
+        <item name="android:background">?android:windowBackground</item>
+        <item name="android:layout_marginTop">@dimen/wallet_spacing_wide</item>
+        <item name="android:layout_marginBottom">@dimen/wallet_spacing_wide</item>
+        <item name="android:elevation">@dimen/wallet_floating_window_z</item>
+    </style>
+    <style name="WalletInstrumentSelectorExpander">
+        <item name="instrumentRowLayout">@layout/wallet_row_instrument_expander</item>
+        <item name="instrumentRowDropDownLayout">@layout/wallet_row_instrument_expander_drop_down</item>
+        <item name="instrumentActionItemRowLayout">@layout/wallet_row_action_item_expander</item>
+        <item name="instrumentActionItemRowDropDownLayout">@layout/wallet_row_action_item_expander_drop_down</item>
+    </style>
+    <style name="Widget_Wallet_Spinner_Underlined" parent="@android:style/Widget.Material.Spinner.Underlined" />
+    <style name="auth_minutemaid_theme_material" parent="@style/auth_setup_wizard_theme_material.light">
+        <item name="android:textColorSecondary">@color/auth_minutemaid_color_secondary_light</item>
+        <item name="android:colorAccent">@color/auth_minutemaid_color_accent_light</item>
+        <item name="auth_setup_wizard_divider_color">@color/auth_minutemaid_divider_color_light</item>
+        <item name="auth_setup_wizard_header_background">@color/auth_minutemaid_header_background</item>
+        <item name="auth_setup_wizard_header_foreground">@null</item>
+        <item name="auth_setup_wizard_link_color">@color/auth_minutemaid_link_color_light</item>
+        <item name="auth_setup_wizard_progress_bar_color">@color/auth_minutemaid_progress_bar_activated</item>
+    </style>
+    <style name="auth_setup_wizard_body_text_secondary" parent="@android:attr/textAppearanceMedium">
+        <item name="android:textSize">@dimen/auth_setup_wizard_body_text_secondary_size</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColorHighlight">@color/auth_setup_wizard_highlight_color</item>
+        <item name="android:textColorLink">?auth_setup_wizard_link_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="auth_setup_wizard_card_title">
+        <item name="android:textAppearance">@style/TextAppearance.SetupWizardCardTitle</item>
+        <item name="android:paddingTop">@dimen/auth_setup_wizard_card_title_padding_top</item>
+        <item name="android:paddingBottom">@dimen/auth_setup_wizard_card_title_padding_bottom</item>
+        <item name="android:paddingStart">@dimen/auth_setup_wizard_card_title_padding_start</item>
+        <item name="android:paddingEnd">@dimen/auth_setup_wizard_card_title_padding_end</item>
+    </style>
+    <style name="auth_setup_wizard_checkbox">
+        <item name="android:textAppearance">@style/auth_setup_wizard_body_text_secondary</item>
+        <item name="android:textSize">@dimen/auth_setup_wizard_checkbox_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColorLink">?auth_setup_wizard_link_color</item>
+        <item name="android:layout_marginTop">@dimen/auth_setup_wizard_checkbox_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/auth_setup_wizard_checkbox_margin_bottom</item>
+        <item name="android:lineSpacingExtra">@dimen/auth_setup_wizard_checkbox_line_spacing_extra</item>
+        <item name="android:paddingStart">@dimen/auth_setup_wizard_checkbox_padding_start</item>
+        <item name="android:layout_marginStart">@dimen/auth_setup_wizard_checkbox_margin_start</item>
+    </style>
+    <style name="auth_setup_wizard_checkbox_multiline" parent="@style/auth_setup_wizard_checkbox">
+        <item name="android:gravity">top</item>
+    </style>
+    <style name="auth_setup_wizard_content_frame">
+        <item name="android:paddingLeft">@dimen/auth_setup_wizard_margin_sides</item>
+        <item name="android:paddingTop">@dimen/auth_setup_wizard_content_frame_padding_top</item>
+        <item name="android:paddingRight">@dimen/auth_setup_wizard_margin_sides</item>
+        <item name="android:paddingBottom">@dimen/auth_setup_wizard_content_frame_padding_bottom</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="auth_setup_wizard_description" parent="@style/auth_setup_wizard_text">
+        <item name="android:textSize">@dimen/auth_setup_wizard_description_text_size</item>
+        <item name="android:textColorLink">?auth_setup_wizard_link_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/auth_setup_wizard_description_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/auth_setup_wizard_description_margin_bottom</item>
+        <item name="android:lineSpacingExtra">@dimen/auth_setup_wizard_description_line_spacing_extra</item>
+    </style>
+    <style name="auth_setup_wizard_edit_text" parent="@style/auth_setup_wizard_description">
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+    </style>
+    <style name="auth_setup_wizard_header_title">
+        <item name="android:textSize">@dimen/auth_setup_wizard_header_title_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:paddingTop">@dimen/auth_setup_wizard_header_title_padding_top</item>
+        <item name="android:paddingBottom">@dimen/auth_setup_wizard_header_title_padding_bottom</item>
+        <item name="android:layout_marginBottom">@dimen/auth_setup_wizard_header_title_margin_bottom</item>
+        <item name="android:lineSpacingExtra">@dimen/auth_setup_wizard_header_title_line_spacing_extra</item>
+        <item name="android:layout_marginStart">@dimen/auth_setup_wizard_margin_sides</item>
+        <item name="android:layout_marginEnd">@dimen/auth_setup_wizard_margin_sides</item>
+    </style>
+    <style name="auth_setup_wizard_heading_text" parent="@style/auth_setup_wizard_text">
+        <item name="android:textSize">@dimen/auth_setup_wizard_heading_text_size</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/auth_setup_wizard_heading_margin_top</item>
+    </style>
+    <style name="auth_setup_wizard_link" parent="@style/auth_setup_wizard_text">
+        <item name="android:textSize">@dimen/auth_setup_wizard_description_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?auth_setup_wizard_link_color</item>
+        <item name="android:textColorLink">?auth_setup_wizard_link_color</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="auth_setup_wizard_navbar_button_style" parent="@android:style/Widget.Material.Button.Borderless">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">?auth_setup_wizard_navbar_text_color</item>
+        <item name="android:background">@drawable/auth_setup_wizard_navbar_btn_bg</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:layout_weight">0.0</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:paddingStart">10.0dip</item>
+        <item name="android:paddingEnd">10.0dip</item>
+    </style>
+    <style name="auth_setup_wizard_navbar_style">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">?auth_setup_wizard_navbar_bg_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">56.0dip</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:paddingStart">24.0dip</item>
+        <item name="android:paddingEnd">24.0dip</item>
+    </style>
+    <style name="auth_setup_wizard_navbar_theme_dark">
+        <item name="auth_setup_wizard_navbar_bg_color">@color/auth_setup_wizard_navbar_bg_dark</item>
+        <item name="auth_setup_wizard_navbar_text_color">@color/auth_setup_wizard_navbar_text_dark</item>
+    </style>
+    <style name="auth_setup_wizard_navbar_theme_light">
+        <item name="auth_setup_wizard_navbar_bg_color">@color/auth_setup_wizard_navbar_bg_light</item>
+        <item name="auth_setup_wizard_navbar_text_color">@color/auth_setup_wizard_navbar_text_light</item>
+    </style>
+    <style name="auth_setup_wizard_text">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorLink">?android:textColorPrimary</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="auth_setup_wizard_text_primary_small" parent="@android:attr/textAppearanceSmall">
+        <item name="android:textSize">@dimen/auth_setup_wizard_text_primary_small_size</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHighlight">@color/auth_setup_wizard_highlight_color</item>
+        <item name="android:textColorLink">?auth_setup_wizard_link_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="auth_setup_wizard_theme_material" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:textColorSecondary">@color/auth_setup_wizard_color_secondary_dark</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:colorAccent">@color/auth_setup_wizard_color_accent_dark</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="auth_setup_wizard_divider_color">@color/auth_setup_wizard_divider_color_dark</item>
+        <item name="auth_setup_wizard_link_color">@color/auth_setup_wizard_link_color_dark</item>
+    </style>
+    <style name="auth_setup_wizard_theme_material.light" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:textColorSecondary">@color/auth_setup_wizard_color_secondary_light</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:colorAccent">@color/auth_setup_wizard_color_accent_light</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="auth_setup_wizard_divider_color">@color/auth_setup_wizard_divider_color_light</item>
+        <item name="auth_setup_wizard_link_color">@color/auth_setup_wizard_link_color_light</item>
+    </style>
+    <style name="common.Widget.Base.Snackbar.Button" parent="@android:style/Widget.Button" />
+    <style name="plus_authDivider">
+        <item name="android:visibility">gone</item>
+    </style>
+</resources>

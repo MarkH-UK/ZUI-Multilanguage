@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"Šī ir vispārīga informācija par šo ierīci un tās lietošanu, piemēram, par akumulatora uzlādes līmeni, lietotņu izmantošanas biežumu, tīkla savienojumu kvalitāti un ilgumu (piemēram, mobilais, Wi‑Fi un Bluetooth savienojums), kā arī par avāriju pārskatiem, kad rodas darbības kļūmes. Šī informācija tiks izmantota, lai uzlabotu Google produktus un pakalpojumus ikvienam, un tā netiks saistīta ar jūsu bērna Google kontu. Noteikta apkopotā informācija arī palīdzēs partneriem, piemēram, Android izstrādātājiem, uzlabot lietotnes un produktus.
+
+Jebkurā brīdī varat izslēgt šo iestatījumu sadaļā Iestatījumi > Google. Šīs izmaiņas neietekmēs ierīces spēju nosūtīt informāciju, kas nepieciešama, lai saņemtu būtiskus pakalpojumus, piemēram, sistēmas atjauninājumus un drošības funkcijas."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Automātiski dublējiet ierīces datus</b> (piemēram, Wi-Fi paroles un zvanu vēsturi) un lietotņu datus (piemēram, lietotņu uzglabātos iestatījumus un failus) Google diskā. <annotation id="backup_details">Uzziniet vairāk</annotation>.</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Ieslēdzot automātisko dublēšanu, ierīces dati un lietotņu dati tiek periodiski saglabāti privātā mapē Google diskā. Lietotņu dati var būt jebkādi lietotņu saglabātie dati (atkarībā no izstrādātāja iestatījumiem), tostarp potenciāli sensitīvi dati, piemēram, kontaktpersonas, ziņojumi un fotoattēli.
+
+Dublētie dati netiks ieskaitīti Google diska krātuves kvotā. Netiks dublēti lieli faili, kā arī faili, kurus izstrādātāji ir izvēlējušies izslēgt no pakalpojuma."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Uzlabojiet atrašanās vietas noteikšanas precizitāti</b>, ļaujot lietotnēm un pakalpojumiem meklēt Wi-Fi tīklus un Bluetooth ierīces, pat ja Wi-Fi un Bluetooth savienojums ir izslēgts.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"Šī ir vispārīga informācija par jūsu ierīci un tās lietošanu, piemēram, par akumulatora uzlādes līmeni, lietotņu izmantošanas biežumu, tīkla savienojumu kvalitāti un ilgumu (piemēram, mobilais, Wi‑Fi un Bluetooth savienojums), kā arī par avāriju pārskatiem, kad rodas darbības kļūmes. Šī informācija tiks izmantota, lai uzlabotu Google produktus un pakalpojumus ikvienam, un tā netiks saistīta ar jūsu Google kontu. Noteikta apkopotā informācija arī palīdzēs partneriem, piemēram, Android izstrādātājiem, uzlabot lietotnes un produktus.
+
+Jebkurā brīdī varat izslēgt šo iestatījumu sadaļā Iestatījumi > Google. Šīs izmaiņas neietekmēs ierīces spēju nosūtīt informāciju, kas nepieciešama, lai saņemtu būtiskus pakalpojumus, piemēram, sistēmas atjauninājumus un drošības funkcijas."</string>
+</resources>

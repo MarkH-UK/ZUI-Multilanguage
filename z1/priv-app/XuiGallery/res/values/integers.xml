@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_video_recording_length">0</integer>
+    <integer name="albumset_rows_land">2</integer>
+    <integer name="albumset_rows_port">3</integer>
+    <integer name="albumset_cols_land">2</integer>
+    <integer name="albumset_cols_port">2</integer>
+    <integer name="album_rows_land">2</integer>
+    <integer name="album_rows_port">4</integer>
+    <integer name="album_cols_land">4</integer>
+    <integer name="album_cols_port">4</integer>
+    <integer name="local_time_album_cols_land">4</integer>
+    <integer name="local_time_album_cols_port">4</integer>
+    <integer name="local_time_album_month_cols_land">10</integer>
+    <integer name="local_time_album_month_cols_port">10</integer>
+    <integer name="local_time_album_year_cols_land">16</integer>
+    <integer name="local_time_album_year_cols_port">16</integer>
+    <integer name="create_folder_dialog_edit_view_max_input_length">10</integer>
+</resources>

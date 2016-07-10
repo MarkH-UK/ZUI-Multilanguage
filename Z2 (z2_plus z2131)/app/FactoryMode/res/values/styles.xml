@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="title_text">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="list_text">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="item_text">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="item_big_key">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="item_big_value">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="item_key">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="item_value">
+        <item name="android:textSize">16.0sp</item>
+    </style>
+    <style name="item_msg">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffff0000</item>
+    </style>
+    <style name="textColorTheme">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <Key latin:keySpec="я" />
+    <Key latin:keySpec="ч" />
+    <Key latin:moreKeys="е" latin:keySpec="ё" />
+    <Key latin:keySpec="с" />
+    <Key latin:keySpec="м" />
+    <Key latin:keySpec="и" />
+    <Key latin:keySpec="т" />
+    <Key latin:moreKeys="ъ" latin:keySpec="ь" />
+    <Key latin:moreKeys="ю" latin:keySpec="в" />
+</merge>

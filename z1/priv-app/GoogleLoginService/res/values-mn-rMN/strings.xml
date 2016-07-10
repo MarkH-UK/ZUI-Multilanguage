@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Аппликешн Google Наадаан Үйлчилгээг суулгахыг шаардана.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Аппликешн Google Наадаан Үйлчилгээг шинэчлэхийг шаардана.</string>
+    <string name="common_android_wear_notification_needs_update_text">Аппликешнийг Андройд Зүүсгэл апп болгон шинэчлэх шаардлагатай.</string>
+    <string name="common_google_play_services_needs_enabling_title">Аппликешн Google Наадаан Үйлчилгээг идэвхжүүлсэн байхыг шаардана.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s хүсэлт гаргасан</string>
+    <string name="common_google_play_services_install_title">Google Play үйлчилгээ авах</string>
+    <string name="common_google_play_services_install_text_phone">Таны утсанд байхгүй байгаа Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="common_google_play_services_install_text_tablet">Таны таблетэд байхгүй Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="common_google_play_services_install_button">Google Play үйлчилгээ авах</string>
+    <string name="common_google_play_services_enable_title">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="common_google_play_services_enable_text">Та Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="common_google_play_services_enable_button">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="common_google_play_services_update_title">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="common_android_wear_update_title">Андройд Зүүсгэлийг шинэчлэх</string>
+    <string name="common_google_play_services_update_text">Та Google Play үйлчилгээг шинэчлэхгүй бол энэ апп ажиллах боломжгүй.</string>
+    <string name="common_android_wear_update_text">Андройд Зүүсгэл апп-г шинэчлэхээс нааш энэ апп ажиллахгүй.</string>
+    <string name="common_google_play_services_network_error_title">Сүлжээний алдаа</string>
+    <string name="common_google_play_services_network_error_text">Google Play үйлчилгээнд холбогдохын тулд дата холболт шаардлагатай.</string>
+    <string name="common_google_play_services_invalid_account_title">Буруу акаунт</string>
+    <string name="common_google_play_services_invalid_account_text">Заасан акаунт энэ төхөөрөмж дээр байхгүй байна. Өөр акаунт сонгоно уу.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play үйлчилгээтэй холбоотой тодорхойгүй алдаа.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play үйлчилгээ</string>
+    <string name="common_google_play_services_unsupported_text">Таны зарим аппликешнүүдийн хамаардаг Google Play үйлчилгээ таны төхөөрөмжид дэмжигдэхгүй байна. Тусламж авахын тулд үйлдвэрлэгчтэй холбоо барина уу.</string>
+    <string name="common_google_play_services_update_button">Шинэчлэх</string>
+    <string name="common_signin_button_text">Нэвтрэх</string>
+    <string name="common_signin_button_text_long">Google-р нэвтрэх:</string>
+    <string name="common_open_on_phone">Утсан дээр нээх</string>
+    <string name="setup_wizard_next_button_label">Дараах</string>
+    <string name="setup_wizard_back_button_label">Буцах</string>
+    <string name="default_device_name">Андройд</string>
+    <string name="skip_button_label">Алгасах</string>
+    <string name="down_button_label">Илүү</string>
+    <string name="cancel_button_label">Цуцлах</string>
+    <string name="try_again_button_label">Дахин оролдоно уу</string>
+    <string name="close_button_label">Хаах</string>
+    <string name="url_load_unsuccessful_message">Таны Андройд төхөөрөмж дата үйлчилгээнд холбогдоогүй байна. Энэ мэдээллийг одоо үзэх бол веб хөтчөөрөө %s хуудсанд очно уу.</string>
+    <string name="sign_in_agreement">Нэвтэрснээр, та Google <annotation id="tos">Үйлчилгээний Нөхцөл</annotation>, <annotation id="google_privacy">Нууцлалын Бодлого</annotation>, болон <annotation id="play_tos">Google Play Үйлчилгээний Нөхцөл</annotation>-г зөвшөөрч байна.</string>
+    <string name="android_privacy_policy_title">Нэмэлт Нууцлалын Бодлого</string>
+    <string name="google_terms_of_service_title">Google Үйлчилгээний Нөхцөл</string>
+    <string name="google_privacy_policy_title">Google Нууцлалын Бодлого</string>
+    <string name="google_plus_privacy_policy_title">Google Plus Нууцлалын Бодлого</string>
+    <string name="google_play_tos_title">Google Play Үйлчилгээний Нөхцөл</string>
+    <string name="chrome_tos_title">Кром Үйлчилгээний Нөхцөл</string>
+    <string name="chrome_privacy_title">Кром Нууцлалын Бодлого</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Таны Андройд төхөөрөмж Wi-Fi сүлжээнд холбогдоогүй байна. Энэ мэдээллийг одоо үзэх бол веб хөтчөөрөө %s хуудсанд очино уу.</string>
+    <string name="services_activity_title">Google үйлчилгээ</string>
+    <string name="services_backup_heading">Нөөшлөх</string>
+    <string name="services_location_heading">Байршил</string>
+    <string name="services_security_heading">Аюулгүй байдал</string>
+    <string name="services_personalization_heading">Хувийн тохиргоо</string>
+    <string name="services_communication_heading">Холбоо</string>
+    <string name="security_verify_apps_summary">Таны төхөөрөмж болон датаны аюулгүй байдалд сөргөөр нөлөөлж болзошгүй эрсдэлээс сэргийлж бүх суулгасан аппликешнийг Google-р шалгуулж болно.</string>
+    <string name="name_title">Таны нэр</string>
+    <string name="name_text">Таны нэрийг таны утас болон Google үйлчилгээнүүдийг танд тохируулахад ашиглана.</string>
+    <string name="first_name">Эхний</string>
+    <string name="last_name">Сүүлийн</string>
+    <string name="cant_be_blank">Утга оруулах шаардлагатай.</string>
+    <string name="sharedUserLabel">Google үйлчилгээнүүд</string>
+    <string name="app_label">Google Акаунт Удирдагч</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Нэвтрэх</string>
+    <string name="create_button_label">Акаунт авах</string>
+    <string name="not_now_button_label">Одоо биш</string>
+    <string name="new_button_label">Шинэ</string>
+    <string name="existing_button_label">Байгаа руу</string>
+    <string name="done">Тийм</string>
+    <string name="edit_text_help">Бичих бол дурын текст оруулах нүдэнд хүрнэ үү</string>
+    <string name="add_a_google_account">Google Акаунт нэмэх</string>
+    <string name="captcha_title">CAPTCHA оруулах шаардлагатай</string>
+    <string name="show_error_title">Алдаа</string>
+    <string name="server_error">Google сервертэй холбоо тогтооход асуудал гарсан.</string>
+    <string name="server_error_help">Дараа дахин оролдоно уу.</string>
+    <string name="network_unreliable">Сервертэй найдвартай холболт үүсгэж чадсангүй.</string>
+    <string name="network_unreliable_help">Түр зуурын асуудал үүссэн эсвэл таны Андройд төхөөрөмж дата үйлчилгээ аваагүй байж болно. Хэрэв үргэлжлэн энэ асуудал гарвал Хэрэглэгчид Үйлчлэх төвд хандана уу.</string>
+    <string name="network_unreliable_help_wifi_only">Энэ түр зуурын асуудал байж болно. Дахин оролдох буюу өөр Wi-Fi сүлжээнд холбогдоно уу.</string>
+    <string name="invalid_login_character">Буруу тэмдэгт. Зөвхөн 0-9, a-z, A-Z, болон цэг зөвшөөрөгдсөн.</string>
+    <string name="invalid_password_character">Нууц үгийн тэмдэгт буруу.</string>
+    <string name="calendar">Google Календарь</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Мэйл</string>
+    <string name="field_cant_be_blank">Утга оруулах шаардлагатай.</string>
+    <string name="plus_query_title">Google+ болгон сайжруулах</string>
+    <string name="plus_query_text">Google+ нь веб дээр хуваалцаж байгааг яг амьдрал дээр хуваалцаж байгаатай ижил болгоно.</string>
+    <string name="circles_subtitle">Таны сонирхдог зүйлсийн багц</string>
+    <string name="circles_text">Дотны найз нартайгаа холбогдож сонирхдог зүйлсээ хуваалцаарай.</string>
+    <string name="uploads_subtitle">Зургийг автоматаар нөөшлөх</string>
+    <string name="uploads_text">Зураг авмагцаа хувийн, үнэгүй сан дээр нөөшлөөрэй.</string>
+    <string name="huddle_subtitle">Видео дуудлага &amp; зурвас</string>
+    <string name="huddle_text">Цугларалт ашиглан зурвас бичих, зураг үзэх, үнэгүй групп видео хурал хийх боломжтой.</string>
+    <string name="plus_declined_button_label">Одоо биш</string>
+    <string name="plus_accepted_button_label">Эхлэх</string>
+    <string name="plus_name_check_title">Google+ холбогдож байна…</string>
+    <string name="plus_name_check_text">Үүнд хэсэг хугацаа зарцуулагдана.</string>
+    <string name="plus_faq_title">Google+ -д тавтай морилно уу!</string>
+    <string name="plus_faq_text" formatted="false">"Google+ дээр таны найз нарт таныг олоход туслах таны нийтийн профайл үүсэх болно. Таны имэйл хаягийг мэддэг дурын хүн таны профайлыг олох, үзэх боломжтой. 
+
+Та веб дээр хаана ч +1 товч ашиглан дуртай зүйлээ бусдад санал болгох боломжтой. Таны профайл болон +1 хийсэн зүйлс хайлт, зар болон веб дээр нийтэд харагдах болно.
+
+Одоохондоо таны профайл зөвхөн таны нэрийг (%s %s) харуулах болно. Та дараа Google+ ашиглаж эхлэхдээ зураг, танилцуулга гэх мэт мэдээллийг нэмж болно."</string>
+    <string name="dasher_warning">%s-н админ нь Google+ дээрх таны бүх датаг эзэмшиж удирдах бөгөөд таны зөвшөөрөлгүйгээр дуртай үедээ таны профайлыг өөрчлөх буюу устгах боломжтой.</string>
+    <string name="profile_info_title">Таны профайл</string>
+    <string name="profile_text">Өөрийн профайлдаа үндсэн мэдээллүүдээ оруулна уу. Та зураг болон дэлгэрэнгүй мэдээллээ дараа Google+ ашиглаж эхлэхдээ оруулж болно.</string>
+    <string name="occupation">Мэргэжил</string>
+    <string name="current_city">Одоогийн хот</string>
+    <string name="picassa_info_title">Пикаса болон Google+</string>
+    <string name="picassa_info_text" formatted="false">Таны Пикаса Веб Цомог дээрх зураг болон видео Google+ дээр гарах бөгөөд таны сэтгэгдлүүд %s биш %s %s-р тавигдах болно. Та Google+ дээр зураг хуваалцвал хүлээн авагч нь үүнийг дурын өөр хүнтэй дахин хуваалцах боломжтой. Таны цомгуудын харагдацын тохиргоо өөрчлөгдөхгүй бөгөөд та дуртай үедээ хязгаарлалт тавиж тэдгээрийг чөлөөтэй дахин хуваалцах боломжгүй болгож болно.</string>
+    <string name="name_title_plus">Таны Google+ нэр</string>
+    <string name="name_title_local">Энэ утасны эзэн нь...</string>
+    <string name="name_text_local">Утас зарим апп-г танд тохируулахдаа таны нэрийг ашиглах болно.</string>
+    <string name="name_progress_title">Түр хүлээнэ үү…</string>
+    <string name="bad_name_title">Энэ нэрийг ашиглах уу?</string>
+    <string name="invalid_name_title">Энэ нэрийг ашиглах боломжгүй</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Хэрэв та үүнийг өөрийн Google+ нэр болгохыг хүсэж байгаа бол манай баг үүнийг хянах шаардлагатай. Хэрэв Нэрний Бодлоготой зөрчилдөж байвал таны профайлыг түр түдгэлзүүлж болно. Энэ нь идэвхтэй профайл шаарддаг Google бүтээгдэхүүнүүдийг ашиглахыг хязгаарлах болно.
+
+"<annotation id="learn_more">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="invalid_name_text">Та энэ нэрийг Google+ дээр ашиглах боломжгүй учир нь үүнд зөвшөөрөгдөөгүй тэмдэгтүүд орсон байна.</string>
+    <string name="invalid_nickname_text">Та энэ нэрийг Google+ дээр ашиглах боломжгүй учир нь зөвшөөрөгдөөгүй тэмдэгтүүд орсон байна. Товч нэр, өмнөх нэр, эсхүл хэргэмээ ашиглаж үзэх үү? Та нэгдсэнийхээ дараа тэдгээрийг өөрийн профайлд нэмж болно.</string>
+    <string name="invalid_other_text">Энэ нэрийг Google+ дээр ашиглах боломжгүй.</string>
+    <string name="bad_name_agree_text">Би ойлгож байгаа бөгөөд энэ нэрийг ашиглахыг хүсэж байна.</string>
+    <string name="bad_name_decline_button_label">Нэр шинэчлэх</string>
+    <string name="bad_name_agree_button_label">Нэр оруулж шалгана уу</string>
+    <string name="bad_name_skip_button_label">Google+ алгасах</string>
+    <string name="photo_title">Таны зураг</string>
+    <string name="photo_text">Энэ зураг таны харилцагчийн бичлэгт ашиглагдана. Та үүнийг дараа нь Хүмүүс апп дотроос өөрчилж болно.</string>
+    <string name="photo_text_es">Найзууддаа Google+ дээр харуулах зураг авна уу. Та дараа өөр шинэ зураг сонгож болно.</string>
+    <string name="photo_button_label">Зураг авах</string>
+    <string name="retake_photo_button_label">Зургийг дахиж авах</string>
+    <string name="photo_failure">Камерыг эхлүүлж чадсангүй.</string>
+    <string name="crop_failure">Зургийг тайрч чадсангүй.</string>
+    <string name="photo_description">Таны зураг</string>
+    <string name="communicating_message">Таны утас таны акаунтад мэдээлэл хадгалахаар Google-тэй холбогдож байна. Үүнд 5 хүртэл минут зарцуулагдаж болно.</string>
+    <string name="creating_account_title">Акаунтыг хадгалж байна…</string>
+    <string name="checking_username_message">"Таны хүссэн хэрэглэгчийн нэрийг ашиглах боломжтой эсэхийг шалгахаар таны утас Google-тэй холбогдож байна.
+
+Үүнд хэдэн минут зарцуулагдаж болно."</string>
+    <string name="plus_failure_title">Google+ -д дараа нэгдэх</string>
+    <string name="plus_failure_new_account_text">Таны Google акаунт үүсгэгдсэн гэхдээ Google+ -д нэгдэх таны хүсэлт илгээгдсэнгүй. Дурын хөтөч ашиглан plus.google.com дээр дараа дахин оролдоно уу.</string>
+    <string name="plus_failure_text">Google+ -д нэгдэх таны хүсэлт илгээгдсэнгүй. Дурын хөтөч ашиглан plus.google.com дээр дараа дахин оролдоно уу.</string>
+    <string name="provisioned_login_title">Нууц үг оруулна уу</string>
+    <string name="provisioned_welcome">Сайн уу, %s!</string>
+    <string name="provisioned_welcome_2">"Нууц үгээ оруулна уу:
+%s"</string>
+    <string name="provisioned_incorrect_login">%s биш үү?</string>
+    <string name="login_title">Имэйл болон Нууц үгээ бичнэ үү</string>
+    <string name="login_task_title">Нэвтэрч байна</string>
+    <string name="password">Нууц үг</string>
+    <string name="restore_wifi">Сэргээгээд, мэдэгдэж буй Wi‑Fi сүлжээнд холбогдох.</string>
+    <string name="sign_in_agreement_multi_user">Нэвтрэн орсоноор та Google-н <annotation id="tos">Үйлчилгээний Нөхцөл</annotation>, <annotation id="google_privacy">Нууцлалын Бодлого</annotation>, болон <annotation id="play_tos">Google Play Үйлчилгээний Нөхцөлийг</annotation>" зөвшөөрөх болно. 
+
+Анхаарна уу: Өөр ямар ч хэрэглэгч шинэчлэгдсэн апп-н зөвшөөрлийг таны өмнөөс зөвшөөрч болно. Ямар ч компьютерийн адилаар та энэ таблетыг зөвхөн итгэлтэй хүмүүстэйгээ хуваалцаарай."</string>
+    <string name="sign_in_agreement_with_chrome">Нэвтрэн орсноор та Google-н <annotation id="tos">Үйлчилгээний Нөхцөл</annotation> болон <annotation id="google_privacy">Нууцлалын Бодлого</annotation>, Кромын <annotation id="chrome_tos">Үйлчилгээний Нөхцөл</annotation> болон <annotation id="chrome_privacy">Нууцлалын Мэдэгдэл</annotation> болон Google Play-н <annotation id="play_tos">Үйлчилгээний Нөхцөлийг</annotation> зөвшөөрөх болно.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Нэвтрэн орсоноор та Google-н <annotation id="tos">Үйлчилгээний Нөхцөл</annotation> болон <annotation id="google_privacy">Нууцлалын Бодлого</annotation>, Кромын <annotation id="chrome_tos">Үйлчилгээний Нөхцөл</annotation> болон <annotation id="chrome_privacy">Нууцлалын Мэдэгдэл</annotation>, болон Google Play-н <annotation id="play_tos">Үйлчилгээний Нөхцөлийг</annotation>" зөвшөөрөх болно. 
+
+Анхаарна уу: Өөр ямар ч хэрэглэгч шинэчлэгдсэн апп-н зөвшөөрлийг таны өмнөөс зөвшөөрч болно. Ямар ч компьютерийн адилаар та энэ таблетыг зөвхөн итгэлтэй хүмүүстэйгээ хуваалцаарай."</string>
+    <string name="create_prompt">" Google акаунт байхгүй юу? "<annotation id="create_account">Одоо акаунт үүсгээрэй</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Google Акаунтаар нэвтрэх:</string>
+    <string name="invalid_username">Таны оруулсан хэрэглэгчийн нэр буруу.</string>
+    <string name="captcha_instructions">Энд харж буй текстийг бичнэ үү:</string>
+    <string name="create_google_account">Хэрэглэгчийн нэр сонгоно уу</string>
+    <string name="create_google_account_text">Таны Google акаунтад Google-н имэйл буюу Gmail дагалдана. Энэ ямар ч төхөөрөмж дээр ажиллах бөгөөд спам хориглох гэх мэт олон боломжтой.</string>
+    <string name="account_already_has_gmail">Акаунтад аль хэдийн Gmail байна.</string>
+    <string name="error_account_disabled">"Энэ бүртгэлийг идэвхгүй болгосон байна. 
+
+(Дэлгэрэнгүй мэдээлэл авахын тулд https://google.com/accounts руу зочилно уу)."</string>
+    <string name="no_network">Сүлжээнд холбогдоогүй байна.</string>
+    <string name="no_network_help">Энэ нь түр зуурын асуудал байж болох буюу таны Андройд төхөөрөмж дата үйлчилгээ аваагүй байж болно. Мобайл сүлжээ эсхүл Wi-Fi сүлжээнд холбогдсон үедээ дахин оролдоно уу.</string>
+    <string name="no_network_help_wifi_only">Энэ түр зуурын асуудал байж болно. Дахин оролдох буюу өөр Wi-Fi сүлжээнд холбогдоно уу.</string>
+    <string name="error_login_failed">"Таны хэрэглэгчийн нэр болон нууц үг таарахгүй байна. Дахин оролдоно уу.
+
+Өөрийн акаунтын мэдээллийг сэргээхийн тулд google.com/accounts/recovery/ руу очно уу."</string>
+    <string name="error_account_not_verified">"Энэ акаунтыг тулгаагүй байна. Өөрийн имэйлийг шалгаж агуулсан хэлхээсийн дагуу өөрийн акаунтыг баталгаажуулна уу. 
+
+(Акаунтын мэдээллээ сэргээхийн тулд http://www.google.com/accounts/recovery руу компьютерээс ороорой.)"</string>
+    <string name="exit_menu_item">Хөтчөөр нэвтрэхээс гарах</string>
+    <string name="creating_profile">Таны профайлыг үүсгэж байна…</string>
+    <string name="checking_account">Ашиглах боломжтой эсэхийг шалгаж байна…</string>
+    <string name="is_not_available"><b>^1</b> хэрэглэгчийн нэрийг ашиглах боломжгүй.</string>
+    <string name="suggestions_hint">Санал болголтуудыг харахын тулд хүрнэ үү</string>
+    <string name="suggest_username_next_button_label">Хэрэглэгчийн нэр солих</string>
+    <string name="hint_size">" "<b>^1</b> 6-с цөөн эсвэл 30-с олон тэмдэгт агуулж байна.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> ямар ч үсэг агуулаагүй байна.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" зөвхөн үсэг, тоо 
+ болон цэг агуулах боломжтой."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> Gmail ашигладаггүй.</string>
+    <string name="sign_in_browser">Хөтчөөр нэвтрэх</string>
+    <string name="alternatives_list_title">Санал болгосон хэрэглэгчийн нэрс</string>
+    <string name="password_title">Нууц үг үүсгэх</string>
+    <string name="choose_a_password">Нууц үг</string>
+    <string name="confirm_password">Нууц үгийг дахин оруулна уу</string>
+    <string name="too_short">Хэт богино</string>
+    <string name="security_questions_title">Нууцлалын асуултууд</string>
+    <string name="answer">" "<b>Хариулт</b></string>
+    <string name="password_mismatch">Нууц үг таарсангүй. Дахин оролдоно уу.</string>
+    <string name="eight_chars_min">8 тэмдэгтээс урт байх ёстой</string>
+    <string name="verify_your_profile">Та профайлаа баталгаажуулна уу</string>
+    <string name="error_not_logged_in">Хэрэглэгч нэвтрээгүй байна.</string>
+    <string name="error_username_unavailable">Хэрэглэгчийн нэрийг ашиглах боломжгүй.</string>
+    <string name="error_bad_password">Нууц үг сул буюу эсвэл буруу тэмдэгт агуулж байна. Дахин оролдоно уу.</string>
+    <string name="error_bad_username">Хэрэглэгчийн нэр буруу.</string>
+    <string name="existing_account_error_title">Акаунт байна</string>
+    <string name="existing_account_error_text">Энэ Андройд төхөөрөмж дээр аль хэдийн ^1 акаунт байна.</string>
+    <string name="submission_title">Уучлаарай...</string>
+    <string name="submission_error_text">Алдаа гарлаа. Дахин оролдоно уу.</string>
+    <string name="sync_intro_title">Акаунт Синк</string>
+    <string name="account_tos_title">Акаунтаа гүйцээгээрэй</string>
+    <string name="account_tos_plus_title">Google+ элсэхийг гүйцээх</string>
+    <string name="i_accept">Би зөвшөөрч байна</string>
+    <string name="i_decline">Акаунт үүсгэхгүй</string>
+    <string name="allow_personalized_content">Та өөрийн мэдээллийг ашиглахыг Google-д зөвшөөрснөөр Google-н бус веб хуудсууд дээрх контент болон сурталчилгааг танд тохируулж харуулах боломжтой болно.</string>
+    <string name="enable_web_history">Веб түүхийг асаах</string>
+    <string name="learn_more"><annotation id="learn_more">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="account_creation_tos">Үргэлжлүүлснээр та Google <annotation id="tos">Үйлчилгээний Нөхцөл</annotation>, <annotation id="google_privacy">Нууцлалын Бодлого</annotation>, болон <annotation id="play_tos">Google Play Үйлчилгээний Нөхцөл</annotation>-г зөвшөөрч байна.</string>
+    <string name="account_creation_tos_with_chrome">Үргэлжлүүлснээр та Google-н <annotation id="tos">Үйлчилгээний Нөхцөл</annotation> болон <annotation id="google_privacy">Нууцлалын Бодлого</annotation>, Кромын <annotation id="chrome_tos">Үйлчилгээний Нөхцөл</annotation> болон <annotation id="chrome_privacy">Нууцлалын Мэдэгдэл</annotation> болон Google Play-н <annotation id="play_tos">Үйлчилгээний Нөхцөлийг</annotation> зөвшөөрөх болно.</string>
+    <string name="gender_prompt">Хүйс</string>
+    <string name="gender_hint">Хүйс</string>
+    <string name="account_pre_intro_title">Google-тэй юу?</string>
+    <string name="account_pre_intro_default_message">"Танд Google акаунт бий юу?
+
+Хэрэв та Gmail эсхүл Google Апп ашигладаг бол Тийм гэж хариулна уу."</string>
+    <string name="account_pre_intro_yes">Тийм</string>
+    <string name="account_pre_intro_no">Үгүй</string>
+    <string name="account_intro_title">Google акаунт</string>
+    <string name="account_intro_required_title">Google дэмжсэн</string>
+    <string name="account_intro_recommended_title">Үүнийг Google болгох</string>
+    <string name="account_intro_default_message">Дахиж хэзээ ч юмаа гээхгүй. Google акаунт бүхнийг найдвартай хадгална.</string>
+    <string name="account_intro_simple_message">Та байгаа акаунтыг нэмэх үү эсвэл шинээр үүсгэх үү?</string>
+    <string name="account_intro_learn_more">Дэлгэрэнгүй үзэх</string>
+    <string name="learn_more_title">Дэлгэрэнгүй үзэх</string>
+    <string name="learn_more_account_intro">"Google акаунт танд:
+
+"<li><ul>Хайлтын түүхийг оруулан өөрийн бүх мэдээллийг хаанаас ч үзэх болон цэгцлэх боломжийг олгоно.</ul></li>"
+
+"<li><ul>Имэйл, хөгжим болон зураг гэх мэт датануудаа автоматаар нөөшлөөрэй.</ul></li>"
+
+"<li><ul>Google үйлчилгээнүүдийг хаанаас ч хялбархан ашиглаж болно—үүнд Харилцагчид, Календарь, Газрын зураг гэх мэт.</ul></li></string>
+    <string name="learn_more_account_intro_title">Google акаунтын тухай</string>
+    <string name="learn_more_bad_name">Google+ танаас өөрийн энгийн нэрийг оруулахыг шаарддаг. Таны профайл нь ямарваа бизнес, байгууллага эсхүл гэр бүлийг биш нэг л хүнийг төлөөлөх бөгөөд таны овог нэрийг нэг хэлээр бичиж мэргэжлийн цол хэргэм эсхүл шаардлагагүй таслалыг оруулахгүй. Бүртгүүлснийхээ дараа профайлынхаа Бусад Нэрс талбарт өөртэйгээ холбоотой товч нэр буюу бусад нэрсийг оруулж болно.</string>
+    <string name="learn_more_bad_name_title">Нэрийн Бодлогын тухай</string>
+    <string name="wait_for_device_country_title">Акаунт тохируулах</string>
+    <string name="wait_for_device_country_msg">Таны утасны талаарх мэдээллийг цуглуулж байна. Үүнд 30 хүртэл секунд зарцуулагдаж болно.</string>
+    <string name="recovery_title">Google нууц үг сэргээх</string>
+    <string name="recovery_wait_title">Google+ холбогдож байна…</string>
+    <string name="cannot_talk_to_server_msg">Энэ төхөөрөмж Google-тэй холбогдож чадсангүй.</string>
+    <string name="recovery_skip_label">Алгасах</string>
+    <string name="recovery_retry_label">Дахин оролдоно уу</string>
+    <string name="recovery_message_set">"Хэрэв та нууц үгээ мартчихвал буцааж сэргээхийг мэдээж хүснэ.
+
+Google нь танд нууц үгээ SMS буюу өөр имэйл хаягаараа дамжуулан сэргээх боломж олгоно.
+
+Энэ алхамыг онцгойлон санал болгож байна. "<annotation id="help_url">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="recovery_message_verify">"Нууц үгс мартагдахдаа амархан байдаг. 
+
+Өөрийн утасны дугаар буюу нөөц имэйл хаягаа одоо баталгаажуулна уу. Ингэснээр та Google болон Google Play дээрх контентынхоо хандалтыг сэргээхэд амар болно. "<annotation id="help_url">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="recovery_yes_button_label">Сэргээх сонголтуудыг тохируулах</string>
+    <string name="recovery_yes_button_label_verify">Сэргээх сонголтуудыг баталгаажуулах</string>
+    <string name="recovery_later_button_label">Одоо биш</string>
+    <string name="recovery_input_screen_message">Сэргээх мэдээлэл %s-д хамаарна.</string>
+    <string name="secondary_email_hint">Нөөшлөх имэйл</string>
+    <string name="secondary_email_invalid">Хүчингүй имэйл хаяг</string>
+    <string name="secondary_email_same_as_primary">Үндсэн имэйлтай ижилхэн байж болохгүй</string>
+    <string name="phone_number_hint">Утасны дугаар</string>
+    <string name="phone_number_invalid_character">Утасны дугаарт буруу тэмдэгт орсон</string>
+    <string name="phone_number_invalid">Алдаатай утасны дугаар</string>
+    <string name="country_invalid">Энэ улс зөвшөөрөгдөөгүй</string>
+    <string name="recovery_server_error">Сервертэй харьцахад алдаа гарлаа. Хэсэг хугацааны дараа дахин оролдоно уу.</string>
+    <string name="account_recovery_info">Хэрэв та нууц үгээ гээх тохиолдол гарвал нууцлалын асуултад хариулж өөр хаягруу нууц үг сэргээх холбоосыг илгээж болно.</string>
+    <string name="secondary_email_label">Сэргээх имэйл хаяг</string>
+    <string name="invalid_email">"Таны оруулсан имэйл хаяг буруу байна.
+ Ж.нь: joe@example.com"</string>
+    <string name="invalid_email_primary">Сэргээх хаяг нь таны үүсгэж буй хаягтай ижил байж болохгүй.</string>
+    <string name="backup_consent_message">"Өөрийн апп-ууд, тохиргоонууд (хавчуурга болон Wi-Fi нууц үгс гэх мэт) болон бусад датануудыг Google акаунт ашиглан нөөшлөөрэй. Хэрэв та өмнө нь акаунтаа нөөшлөсөн бол энэ утасруу одоо сэргээж болно.
+
+Та нөөшлөх тохиргоог дуртауй үедээ Тохиргоо дотроос өөрчилж болно."</string>
+    <string name="backup_consent_message_no_restore">"Өөрийн апп-ууд, тохиргоонууд (хавчуурга, Wi-Fi нууц үг гэх мэт) болон бусад датануудыг нөөшлөхийн тулд Google акаунтаа ашиглана уу. 
+
+Та нөөшлөх тохиргоог дуртай үедээ Тохиргоо дотроос өөрчлөх боломжтой."</string>
+    <string name="restoring_title">Сэргээж байна…</string>
+    <string name="restoring_message">Таны утас таны акаунтыг сэргээхээр Google-тэй холбогдож байна. Үүнд 5 хүртэл минут зарцуулагдаж болно.</string>
+    <string name="gls_notification_login_error">Өөрийн акаунтдаа нэвтрэхийн тулд хүрнэ үү.</string>
+    <string name="gls_ui_add_account_title">Акаунт тохируулах</string>
+    <string name="gls_ui_activity_title">Нэвтрэх</string>
+    <string name="gls_ui_activity_title_browser_signin">Нэвтрэх</string>
+    <string name="gls_ui_activity_title_checking_in">Бэлдэж байна…</string>
+    <string name="gls_ui_activity_authenticating">Гэрчлэж байна...</string>
+    <string name="gls_dmagent_activity_activate_message">" Таны домэйн мобайл төхөөрөмжийн удирдлагыг хүсэж байна. \"Google Апп Төхөөрөмжийн Бодлого\" апп-ыг идэвхжүүлж  "<b>^1</b> акаунтад шаардлагатай аюулгүй байдлын бодлогуудыг хэрэгжүүлнэ үү.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Идэвхжүүлэх</string>
+    <string name="gls_dmagent_activity_download_message">" Таны домэйн мобайл төхөөрөмжийн удирдлагыг хүсэж байна. \"Google Апп Төхөөрөмжийн Бодлого\" апп-ыг суулган  "<b>^1</b> акаунтад шаардлагатай аюулгүй байдлын бодлогуудыг хэрэгжүүлнэ үү.</string>
+    <string name="gls_dmagent_activity_download_retry_button">Татаж авах</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Та нууц үгийг буруу оруулсан эсхүл таны акаунт өөрчлөгдсөн байна. Нууц үгийг дахин оруулна уу.</string>
+    <string name="permlab_googleAuthPassword">Google акаунтуудын нууц үгсийн хандалт</string>
+    <string name="permdesc_googleAuthPassword">Таны тохируулсан Google акаунтын нууц үгэнд шууд хандалт хийх боломжийг апп-д олгоно.</string>
+    <string name="permlab_googleMailSwitch">Gmail буюу Google Mail нэрийг сонгоно уу</string>
+    <string name="permdesc_googleMailSwitch">Харуулж байгаа нэрийг \"Gmail\" болон \"Google Mail\" хооронд сэлгэхийг апп-д зөвшөөрөх.</string>
+    <string name="sync_item_title">Синк %s</string>
+    <string name="grant_credentials_permission_message_footer">Тэд дараах зөвшөөрлүүдийг хүсэж байна:</string>
+    <string name="grant_credentials_permission_message_app">Эдгээр апп-ууд одооноос эхлэн таны Google акаунтад хандалт хийхийг хүсэж байна:</string>
+    <string name="grant_permissions_header_text">Зөвшөөрлийн хүсэлт</string>
+    <string name="allow">Хандалтыг зөвшөөрөх</string>
+    <string name="deny">Үгүй</string>
+    <string name="permission_request_notification_with_subtitle">"%s акаунт зөвшөөрөл 
+ хүссэн"</string>
+    <string name="notification_title">%1$s-н нэвтрэлтийн алдаа</string>
+    <string name="account_setup_title">Google акаунт</string>
+    <string name="login_activity_title">Нэвтрэх</string>
+    <string name="relogin_activity_title">Нууц үгийг дахин оруулна уу</string>
+    <string name="show_error_activity_title">Нэвтэрч чадсангүй</string>
+    <string name="login_activity_task_title">Нэвтэрч байна…</string>
+    <string name="login_activity_task_msg">Үүнд хэсэг хугацаа зарцуулагдана.</string>
+    <string name="prepare_account_setup_task_title">Акаунтын тохируулгыг бэлдэж байна…</string>
+    <string name="prepare_account_setup_task_msg">Үүнд хэсэг хугацаа зарцуулагдана.</string>
+    <string name="sync_intro_activity_title">Акаунтаа синк хийх</string>
+    <string name="username">Имэйл</string>
+    <string name="error_invalid_second_factor">Ердийн акаунтын нууц үгний оронд апп бүрийн нууц үг хэрэглэнэ үү.</string>
+    <string name="error_needs_browser">Өөрийн акаунтад хандалт хийхийн тулд та веб дээр нэвтрэх шаардлагатай. Хөтчөөр нэвтрэхийг эхлүүлэхийн тулд Дараах гэсэнд хүрнэ үү.</string>
+    <string name="google_play_opt_in">Google Play дээрх шинэ мэдээ болон саналыг тогтмол надад мэдэгдэх</string>
+    <string name="google_settings_header_title">Нууцлал</string>
+    <string name="maps_settings_title">Газрын зураг &amp; Өргөрөг</string>
+    <string name="location_settings_title">Байршил</string>
+    <string name="search_settings_title">Хайх</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Зарууд</string>
+    <string name="location_network_based">Google-н байршлын үйлчилгээ</string>
+    <string name="location_neighborhood_level">Нэргүй байршлын өгөгдлийг Google рүү илгээхийг зөвшөөрөх. Мөн зөвшөөрөгдсөн апп-ууд таны ойролцоо байршлыг тодорхойлохын тулд Wi-Fi болон мобайл сүлжээ гэх мэт эх үүсвэрүүдийг ашиглахыг зөвшөөрөх.</string>
+    <string name="use_location_title">Байршил &amp; Google хайлт</string>
+    <string name="use_location_summary">Хайлтын илэрцийг сайжруулах болон бусад үйлчилгээнд зориулж өөрийн байршлыг Google-д ашиглуулна уу.</string>
+    <string name="backup_consent_yes_agree">Та өөрийн Google Акаунтаа ашиглан аппликешнүүд, тохиргоонууд(хавчуурга болон Wi-Fi нууц үг зэрэг) болон бусад датагаа нөөшлөх боломжтой.</string>
+    <string name="restore_consent_yes_agree">Таны Google Акаунт дах өмнөх нөөшөөс аппликешн, тохиргоо болон бусад датаг энэ утасруу авчрах боломжтой.</string>
+    <string name="audit_logging_summary">Та төхөөрөмжийн ажиллагаа, оношлогооны мэдээллийг Google-рүү автоматаар илгээдэг болгосноор манай бүтээгдэхүүнийг сайжруулах бидэнд туслах ба таны төхөөрөмжийг хамгаалах болно.</string>
+    <string name="no_back_msg">Өмнөх алхамруу буцах боломжгүй.</string>
+    <string name="setup_wizard_title">Тохируулгын Туслагч</string>
+    <string name="setup_wizard_services_activity_title">Google үйлчилгээ</string>
+    <string name="setup_wizard_services_description">Эдгээр үйлчилгээ нь Google-д таны төлөө ажиллах боломж олгох бөгөөд та дуртай үедээ тэдгээрийг асааж, унтрааж болно. Датаг Google-н <annotation id="google_privacy">Нууцлалын бодлогын</annotation> дагуу ашиглана</string>
+    <string name="setup_wizard_services_backup_restore_heading">Нөөшлөх &amp; сэргээх</string>
+    <string name="setup_wizard_services_location_heading">Байршил</string>
+    <string name="setup_wizard_services_communication_heading">Холбоо</string>
+    <string name="setup_wizard_services_backup"><b>Та утасныхаа апликейшнүүд, апликейшний өгөгдлүүд, тохиргоонууд, хувийн толь бичгүүд болон Wi-Fi нууц үгнүүдээ</b> Google Акаунтыг ашиглан нөөцөлж, дараа нь илүү хялбар аргаар хуучин мэдээллээ сэргээх болно. <annotation id="backup_details">Илүү мэдээлэл авах</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Та апликейшнүүд, апликейшний өгөгдлүүд, тохиргоонууд, хувийн толь бичгүүд болон Wi-Fi нууц үгнүүдээ</b> Google Акаунтыг ашиглан нөөцөлж, дараа нь илүү хялбар аргаар хуучин мэдээллээ сэргээх болно.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Датанд апп-ууд, апп тохиргоо, системийн тохиргоо болон Wi‑Fi нууц үгс орно.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Та автомат нөөшлөлтийг асаавал таны төхөөрөмжийн дата үе үе таны Google акаунтад хадгалагдана. Нөөшинд таны апп дата фолдер доторх сонголт, тохиргоо, зурвас, зураг, бусад файлууд зэрэг мэдээлэл орж болно.</string>
+    <string name="setup_wizard_services_location_sharing">Апп-уудад байршил тодорхойлоход нь <b>Google-н байршлын үйлчилгээг</b> ашиглан туслаарай. Ингэснээр ямар нэг апп ажиллаагүй байсан ч байршлын датаг нэргүйгээр Google рүү илгээх болно. <annotation id="location_details">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">"Google-н байршлын үйлчилгээ нь Wi‑Fi, үүрэн сүлжээг ашиглан таны байршлыг илүү хурдан, нарийвчлалтай тодорхойлоход ашиглана. Та Google-н байршлын үйлчилгээг асаамагц таны төхөөрөмж байршлын үйлчилгээг үзүүлэхийн тулд  Wi‑Fi болон үүрэн сүлжээг ашиглах горимд шилжинэ. Та үүнийг байршлын тохиргоо дотроос зөвхөн GPS ашиглах горимыг сонгох замаар унтрааж болно."</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Байршлын үйлчилгээг сайжруулахад</b> туслахын тулд апп-ууд болон үйлчилгээнүүдээр Wi‑Fi унтраатай үед ч гэсэн Wi‑Fi сүлжээг хайлгаарай.</string>
+    <string name="setup_wizard_services_location_footnote">Google байршлын үйлчилгээ нь Wi‑Fi болон бусад сигналууд ашиглан байршлыг илүү нарийн, шуурхай тодорхойлдог бөгөөд ихэвчлэн GPS-с бага цэнэг зарцуулдаг. Зарим дата таны төхөөрөмж дээр хадгалагдаж болно. Дата нь апп-ууд ажиллахгүй байгаа үед ч цуглуулагдаж болно.</string>
+    <string name="setup_wizard_services_play">Намайг Google Play-н <b>шинэ мэдээллээр хангах</b>.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Андройд ашиглалтаа сайжруулахад</b> туслахын тулд диагностик болон ашиглалтын датаг Google рүү автоматаар илгээгээрэй. Энэ мэдээллийг таныг танихад ашиглахгүй бөгөөд батерейны ашиглалт, апп-ын ажиллагаа, бусад Google -н шинэ функцууд дээр ажиллаж буй багуудад тус болох юм. <annotation id="usage_reporting_details">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Энд таны төхөөрөмжийн тухай болон хэрхэн ашиглах тухай ерөнхий мэдээллүүд тухайлбал батерейны түвшин, апп-уудыг хэр их ашиглах, сүлжээний  (үүрэн, Wi-Fi, Блютүүт гэх мэт) холболтын чанар болон хугацаа, зохих байдлаар ажиллахгүй үед гацалтын репортыг илгээх зэрэг орно. Үүнийг Google бүтээгдэхүүн, үйлчилгээнүүдийг сайжруулахад ашиглах бөгөөд таны Google акаунтад бүртгэгдэхгүй. Зарим нэгтгэсэн мэдээлэл нь Андройд хөгжүүлэгчид зэрэг бусад түншүүд апп болон бүтээгдэхүүнүүдээ сайжруулахад тус болно.
+
+Та үүнийг дуртай үедээ асаах, унтраах боломжтой. Энэ нь системийн шинэчлэлт, аюулгүй байдлын мэдээллийг хүлээн авахад нөлөөлөхгүй."</string>
+    <string name="setup_wizard_services_agreement">Энэ утас Google, таны оператор, эсхүл төхөөрөмжийн үйлдвэрлэгчээс шинэчлэлтүүд, апп-ууд хүлээн авч суулгах боломжтой. Хэрэв үргэлжлүүлбэл зарим апп-ууд татагдаж, суух боломжтой бөгөөд та хүссэн үедээ тэдгээрийг устгаж болно.</string>
+</resources>

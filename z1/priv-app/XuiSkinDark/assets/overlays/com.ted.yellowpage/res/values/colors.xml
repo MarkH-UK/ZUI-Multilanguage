@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_icon_color">#ffffffff</color> <!-- 状态栏文字色 -->
+    <color name="main_bg_color">#070707</color> <!-- 主背景色 -->
+    
+    <!-- 标题栏 -->
+    <color name="title_bar_text_color">#8c8c8c</color> <!-- title bar文字色 -->
+    <color name="title_bar_background_color">#131419</color> <!-- title bar背景色 -->
+    <color name="title_bar_button_text_color">#1499f7</color> <!-- title bar按钮文字色 -->
+    <color name="title_bar_button_text_click_color">#991499f7</color> <!-- title bar按钮文字点击色 -->
+    <color name="title_bar_divider_color">#1b1e24</color> <!-- title bar分割线色 -->
+    
+    <!-- 搜索框 -->
+    <color name="search_bar_background_color">#070707</color> <!-- 搜索输入框背景色 -->
+    <color name="search_bar_text_color">#404040</color> <!-- 搜索输入框文字色 -->
+    
+    <!-- 足迹 -->
+    <color name="footprint_title_text_color">#5c5c5c</color> <!-- "足迹"二字颜色 -->
+    <color name="footprint_content_text_color">#5c5c5c</color> <!-- 足迹内容文字色 -->
+    
+    
+    <!-- 快捷服务 -->
+    <!-- <color name="card_quick_service_text_color">#666666</color> 快捷服务卡片中的item文字色 -->
+    <color name="card_quick_service_open_all_service_text_color">#5c5c5c</color> <!-- 快捷服务"查看全部服务"文字色 -->
+    
+    <!-- 附近 -->
+    <color name="near_item_title_color">#8c8c8c</color> <!-- 附近卡片中的item文字色 -->
+    <color name="near_service_page_category_title_text_color">#5c5c5c</color> <!-- 附近服务页面分类标题文字色 -->
+    <color name="near_service_page_item_text_color">#8c8c8c</color> <!-- 附近服务页面item文字色 -->
+    
+    <!-- 服务推荐 -->
+    <!-- <color name="card_service_commend_text_color">#666666</color> 服务推荐卡片中的item文字色 -->
+    
+    <!-- 热门分类 -->
+    <color name="card_hot_catagory_text_color">#8c8c8c</color> <!-- 热门分类item文字色 -->
+    <color name="card_hot_catagory_sub_text_color">#5c5c5c</color> <!-- 热门分类item描述文字色 -->
+    <color name="hot_catagory_second_page_item_text_color">#8c8c8c</color> <!-- 热门分类二级页面item文字色 -->
+    <color name="hot_catagory_second_page_title_text_color">#5c5c5c</color> <!-- 热门分类二级页面标题文字色 -->
+    
+    <!-- 我的黄页 -->
+    <color name="my_yellowpage_button_text_color">#5c5c5c</color> <!-- 我的黄页按钮文字色 -->
+    <color name="my_yellowpage_button_background_color">#070707</color> <!-- 我的黄页按钮背景色 -->
+    <color name="my_yellowpage_button_border_color">#17191e</color> <!-- 我的黄页按钮边框色 -->
+    <color name="my_yellowpage_button_click_color">#16181c</color> <!-- 我的黄页按钮点击色 -->
+    
+    <!-- 历史记录 -->
+    <color name="my_yellowpage_history_item_text_color">#8c8c8c</color> <!-- 我的黄页页面中"历史记录"项的文字色 -->
+    <color name="history_page_item_text_color">#8c8c8c</color> <!-- 历史记录页面条目的文字色 -->
+    
+    
+    <!-- 快递查询 -->
+    <color name="express_query_input_hint_text_color">#5c5c5c</color> <!-- 快递查询页面 输入框提示文字色 -->
+    <color name="express_query_input_text_color">#8c8c8c</color> <!-- 快递查询页面 输入框文字色 -->
+    
+    <color name="express_query_scan_button_text_color">#5c5c5c</color> <!-- 快递查询页面 扫描按钮文字色 -->
+    <color name="express_query_scan_button_background_color">#070707</color> <!-- 快递查询页面 扫描按钮背景色 -->
+    <color name="express_query_scan_button_click_color">#16181c</color> <!-- 快递查询页面 扫描按钮点击色 -->
+    <color name="express_query_scan_button_border_color">#17191e</color> <!-- 快递查询页面 扫描按钮边框色 -->
+    
+    <color name="express_query_quert_button_text_color">#adc4d4</color> <!-- 快递查询页面 查询按钮文字色 -->
+    <color name="express_query_quert_button_background_color">#006798</color> <!-- 快递查询页面 查询按钮背景色 -->
+    <color name="express_query_quert_button_click_color">#006290</color> <!-- 快递查询页面 查询按钮点击色 -->
+    
+    <!-- 通用色 -->
+    <color name="divider_color">#151515</color> <!-- 分割线色 -->
+    <color name="card_title_text_color">#5c5c5c</color> <!-- 卡片标题文字色 -->
+    <color name="item_click_color">#0d0d0d</color> <!-- 通用条目点击色 -->
+    <color name="express_service_and_service_commend_item_text_color">#8c8c8c</color> <!-- 快捷服务及服务推荐卡片中的item文字色 -->
+    <color name="no_content_text_color">#5c5c5c</color> <!-- 页面无内容时的提示文字色 -->
+    <color name="webview_progress_color">#151515</color> <!-- WebView进度条色 -->
+    
+    
+    <!-- 自定义Dialog色(自定义Dialog未使用, 但代码中需要颜色值) -->
+    <color name="dialog_background_color">#ffffff</color> <!-- 对话框背景色 -->
+    <color name="dialog_title_text_color">#009587</color> <!-- 对话框标题色 -->
+    <color name="dialog_text_color">#000000</color> <!-- 对话框文字色 -->
+    <color name="dialog_ok_button_text_color">#000000</color> <!-- 对话框OK按钮文字色 -->
+    <color name="dialog_cancel_button_text_color">#000000</color> <!-- 对话框Cancel按钮色 -->
+    
+    <!-- =================================================== -->
+
+    <!--zXing-->
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+
+    <color name="colorbackground">#ededed</color>
+
+    <!-- zXing2 -->
+    <color name="white_pure">#ffffff</color>
+    <color name="x_yp_grid_text_black">#666666</color>
+    <color name="x_yp_grid_background_black">#11191919</color>
+
+    
+
+</resources>

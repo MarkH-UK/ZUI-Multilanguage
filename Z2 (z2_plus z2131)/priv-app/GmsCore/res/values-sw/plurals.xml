@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">Herufi %1$d zaidi ya kiwango kinachohitajika</item>
+        <item quantity="one">Herufi %1$d zaidi ya kiwango kinachohitajika</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">Zimesalia herufi %1$d</item>
+        <item quantity="one">Imesalia herufi %1$d</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">Akaunti %d za Google</item>
+        <item quantity="one">Akaunti %d ya Google</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Kifaa hiki kilitumika kusanidi ^1 na Akaunti zako za Google na data zake</item>
+        <item quantity="one">Kifaa hiki kilitumika kusanidi ^1 na Akaunti yako ya Google na data yake</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">Saa %d</item>
+        <item quantity="one">Saa 1</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika 1</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Mialiko hii haikutumwa kwa sababu ya hitilafu</item>
+        <item quantity="one">Mwaliko huu haukutumwa kwa sababu ya hitilafu</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Mialiko hii haiwezi kutumwa hivi sasa. Unaweza kuituma tena kutoka Google Play > Akaunti yangu.</item>
+        <item quantity="one">Mwaliko huu hauwezi kutumwa kwa sasa. Unaweza kuutuma tena kutoka Google Play > Akaunti yangu.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">Umebakisha nafasi %d</item>
+        <item quantity="one">Umebakisha nafasi %d</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">Jumbe %1$d mpya</item>
+        <item quantity="one">Ujumbe 1 mpya</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">Watu %1$d wako mbele yako</item>
+        <item quantity="one">Mtu 1 yuko mbele yako</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">Miduara %d</item>
+        <item quantity="one">Mduara 1</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">Siku %d</item>
+        <item quantity="one">Siku 1</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">Saa %d</item>
+        <item quantity="one">Saa 1</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika 1</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">Siku %d</item>
+        <item quantity="one">Siku 1</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">Saa %d</item>
+        <item quantity="one">Saa 1</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika 1</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">Watu %d</item>
+        <item quantity="one">Mtu 1</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Na %1$s na programu nyingine %2$d</item>
+        <item quantity="one">Na %1$s na programu nyingine %2$d</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">Siku %d</item>
+        <item quantity="one">Siku %d</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">Saa %d</item>
+        <item quantity="one">Saa %d</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika %d</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">Watu %1$s</item>
+        <item quantity="one">Mtu %1$s</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d wanaofuata</item>
+        <item quantity="one">Mmoja anayefuata</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">Imetazamwa mara %1$,d</item>
+        <item quantity="one">Imetazamwa mara mmoja</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Inanakili data na Akaunti zako za Google…</item>
+        <item quantity="one">Inanakili data na Akaunti yako ya Google…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Kifaa hiki kilitumika kuunganisha ^1 na data na Akaunti zako za Google</item>
+        <item quantity="one">Kifaa hiki kilitumika kuunganisha ^1 na data na Akaunti yako ya Google</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Inajiwasha tena ili isakinishe baada ya sekunde %d…</item>
+        <item quantity="one">Inajiwasha tena ili isakinishe baada ya sekunde 1...</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">Inaonyesha orodha ya chaguo %1$d za anwani</item>
+        <item quantity="one">Inaonyesha orodha ya chaguo moja la anwani</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">Inaonyesha orodha ya bidhaa %1$d.</item>
+        <item quantity="one">Inaonyesha orodha ya bidhaa moja.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">Inaonyesha orodha ya chaguo %1$d za njia ya kulipa</item>
+        <item quantity="one">Inaonyesha orodha ya chaguo ya njia moja ya kulipa</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">Inaonyesha orodha ya chaguo %1$d za mpango wa kutuza uaminifu</item>
+        <item quantity="one">Inaonyesha orodha ya chaguo moja la mpango wa kutuza uaminifu</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">dakika</item>
+        <item quantity="one">dakika</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki kila siku %2$d &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki kila siku &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki kila siku %2$d &amp;lt;/price> kwa siku &amp;lt;duration>%3$d zijazo &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki kila siku &amp;lt;/price> kwa siku &amp;lt;duration>%3$d zijazo &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila siku %2$d &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila siku &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila siku %2$d &amp;lt;/price> kwa siku &amp;lt;duration>%3$d zijazo &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila siku &amp;lt;/price> kwa siku &amp;lt;duration>%3$d zijazo &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki kila miezi %2$d &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki kila mwezi &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki kila miezi %2$d &amp;lt;/price> kwa miezi &amp;lt;duration>%3$d ijayo &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki kila mwezi &amp;lt;/price> kwa miezi &amp;lt;duration>%3$d ijayo &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila miezi %2$d &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila mwezi &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila miezi %2$d &amp;lt;/price> kwa miezi &amp;lt;duration>%3$d ijayo &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila siku &amp;lt;/price> kwa miezi &amp;lt;duration> %3$d ijayo &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki kila miaka %2$d &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki kila mwaka &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki kila miaka %2$d &amp;lt;/price> kwa miaka &amp;lt;duration>%3$d ijayo &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki kila mwaka &amp;lt;/price> kwa miaka &amp;lt;duration>%3$d ijao &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila miaka %2$d &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila mwaka &amp;lt;/price> kuanzia &amp;lt;start_time>%3$s&amp;lt;/start_time> hadi utakapoghairi usajili wako.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila mwaka %2$d &amp;lt;/price> kwa miaka &amp;lt;duration>%3$d ijayo &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Utatozwa &amp;lt;price>%1$s kiotomatiki pamoja na kodi yoyote husika kila mwaka &amp;lt;/price> kwa miaka &amp;lt;duration>%3$d ijayo &amp;lt;/duration> kuanzia &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+</resources>

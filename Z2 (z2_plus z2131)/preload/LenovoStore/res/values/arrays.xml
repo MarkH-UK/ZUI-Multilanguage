@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emails">
+        <item>\@163.com</item>
+        <item>\@126.com</item>
+        <item>\@hotmail.com</item>
+        <item>\@gmail.com</item>
+        <item>\@sina.com</item>
+        <item>\@sohu.com</item>
+        <item>\@qq.com</item>
+        <item>\@yeah.net</item>
+        <item>\@live.cn</item>
+        <item>\@tom.com</item>
+    </string-array>
+    <string-array name="tips_array">
+        <item>"设置“WLAN智能更新”
+保持应用最新版本"</item>
+        <item>"插上USB线
+ 即可电脑管理手机"</item>
+        <item>"省流量更新应用
+可节省92%的流量"</item>
+        <item>"不想更新的应用
+可以忽略更新哟"</item>
+        <item>"游戏专区
+海量礼包等你来拿"</item>
+    </string-array>
+    <string-array name="ratings">
+        <item>这个应用不行，还得多加加油呀！</item>
+        <item>只能凑合用，赶紧提升一下吧！</item>
+        <item>一般一般，世界第三！</item>
+        <item>好应用，力荐力荐！</item>
+        <item>该应用简直“神”来之作，强烈推荐！</item>
+    </string-array>
+    <string-array name="permission_array">
+        <item>此应用需要以下权限</item>
+        <item>显示隐藏的权限列表</item>
+    </string-array>
+    <string-array name="stars">
+        <item>5星</item>
+        <item>4星</item>
+        <item>3星</item>
+        <item>2星</item>
+        <item>1星</item>
+    </string-array>
+    <string-array name="status">
+        <item>安装</item>
+        <item>待安装</item>
+        <item>已安装</item>
+    </string-array>
+    <integer-array name="searchColor">
+        <item>0xfffbf6e0</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfff3ebe4</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xfff3ebe4</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfff3ebe4</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xfffbf6e0</item>
+        <item>0xfff3ebe4</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffe3f1f9</item>
+        <item>0xffd6f5e9</item>
+        <item>0xfffbf6e0</item>
+        <item>0xfff3ebe4</item>
+        <item>0xffe0e3ed</item>
+        <item>0xfff3ebe4</item>
+        <item>0xffe0e3ed</item>
+        <item>0xffe3f1f9</item>
+        <item>0xffd6f5e9</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffe3f1f9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfff3ebe4</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffe0e3ed</item>
+        <item>0xfff3ebe4</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfff3ebe4</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffd6f5e9</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfff3ebe4</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfff3ebe4</item>
+        <item>0xffe0e3ed</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfff3ebe4</item>
+        <item>0xffd6f5e9</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffe0e3ed</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfff3ebe4</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffd6f5e9</item>
+        <item>0xfff3ebe4</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe3f1f9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfff3ebe4</item>
+        <item>0xfff3ebe4</item>
+        <item>0xffe3f1f9</item>
+        <item>0xffd6f5e9</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffe0e3ed</item>
+        <item>0xffe3f1f9</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xfff3ebe4</item>
+        <item>0xfffbf6e0</item>
+        <item>0xffe0e3ed</item>
+        <item>0xffd6f5e9</item>
+        <item>0xffe0e3ed</item>
+        <item>0xfff3ebe4</item>
+        <item>0xffe3f1f9</item>
+        <item>0xfffbf6e0</item>
+    </integer-array>
+    <string-array name="network_check_title_array">
+        <item>主服务器连接配置</item>
+        <item>主服务器连接</item>
+        <item>主服务器访问速度</item>
+        <item>主服务器资源下载速度</item>
+        <item>备用服务器资源下载速度</item>
+        <item>网页访问速度</item>
+        <item>CDN主服务器连接配置</item>
+        <item>CDN主服务器连接</item>
+        <item>CDN备用服务器连接配置</item>
+        <item>CDN备用服务器连接</item>
+        <item>Web服务器连接配置</item>
+    </string-array>
+    <string-array name="network_check_desc_array">
+        <item>检查主服务器的连接配置</item>
+        <item>检查到主服务器的连通性</item>
+        <item>检测主服务器访问速度</item>
+        <item>检测主服务器资源下载速度</item>
+        <item>检测备用服务器资源下载速度</item>
+        <item>检测网页访问速度</item>
+        <item>检查CDN主服务器的连接配置</item>
+        <item>检查到CDN主服务器的连通性</item>
+        <item>检查CDN备用服务器的连接配置</item>
+        <item>检查到CDN备用服务器的连通性</item>
+        <item>检测Web服务器的连接配置</item>
+    </string-array>
+    <array name="comment_array1" />
+    <array name="comment_array2" />
+    <array name="comment_array3" />
+    <array name="comment_array4" />
+    <array name="comment_array5" />
+</resources>

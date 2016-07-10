@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">„Google Play“ paslaugų klaida</string>
+    <string name="z">Norint naudoti programą būtina atnaujinti „Google Play“ paslaugas.</string>
+    <string name="a0">„%1$s“ reikalingas „Android Wear“ programos naujinys.</string>
+    <string name="a1">Norint naudoti programą būtina įgalinti „Google Play“ paslaugas.</string>
+    <string name="a2">Užklausą pateikė „%1$s“</string>
+    <string name="a3">Gauti „Google Play“ paslaugų</string>
+    <string name="a4">„%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurios neįdiegtos telefone.</string>
+    <string name="a5">„%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurios neįdiegtos planšetiniame kompiuteryje.</string>
+    <string name="a6">Gauti „Google Play“ paslaugų</string>
+    <string name="a7">Įgalinti „Google Play“ paslaugas</string>
+    <string name="a8">„%1$s“ neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
+    <string name="a9">Įgal. „Google Play“ paslaugas</string>
+    <string name="a_">Atnaujinti „Google Play“ paslaugas</string>
+    <string name="aa">Atnaujinkite „Android Wear“</string>
+    <string name="ab">„%1$s“ nebus paleidžiama, jei neatnaujinsite „Google Play“ paslaugų.</string>
+    <string name="ac">„%1$s“ bus paleidžiama tik atnaujinus „Android Wear“ programą.</string>
+    <string name="ad">„Google Play“ paslaugos atnaujinamos</string>
+    <string name="ae">„%1$s“ nebus paleidžiama be „Google Play“ paslaugų, kurios šiuo metu atnaujinamos.</string>
+    <string name="af">Tinklo klaida</string>
+    <string name="ag">Norint prisijungti prie „Google Play“ paslaugų reikia duomenų ryšio.</string>
+    <string name="ah">Netinkama paskyra</string>
+    <string name="ai">Nurodytos paskyros šiame įrenginyje nėra. Pasirinkite kitą paskyrą.</string>
+    <string name="aj">Nežinoma „Google Play“ paslaugų problema.</string>
+    <string name="ak">„Google Play“ paslaugos</string>
+    <string name="al">Norint naudoti „%1$s“ reikalingos „Google Play“ paslaugos, kurios nepalaikomos jūsų įrenginyje. Susisiekite su gamintoju dėl pagalbos.</string>
+    <string name="am">Atnaujinti</string>
+    <string name="an">Prisij.</string>
+    <string name="ao">Prisij. naud. „Google“</string>
+    <string name="ap">Atidaryti telefonu</string>
+    <string name="aq">Norint naudoti „%1$s“ reikalinga viena ar kelios „Google Play“ paslaugos, kurios šiuo metu nepasiekiamos. Susisiekite su kūrėju, kad jums būtų suteikta pagalba.</string>
+    <string name="ar">Nepavyko prisijungti</string>
+    <string name="as">Klaida prisijungiant prie nurodytos paskyros. Pasirinkite kitą paskyrą.</string>
+</resources>

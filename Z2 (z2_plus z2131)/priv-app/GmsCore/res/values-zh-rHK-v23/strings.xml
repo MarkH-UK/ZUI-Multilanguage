@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"這是此裝置的一般資料和使用方式，例如電量、應用程式的使用頻率、網絡連線的品質和時間 (包括手機、Wi-Fi 和藍牙)，以及裝置無法正常運作時發出的當機報告。這些資料會用作改善 Google 的一般產品和服務，並不會與您子女的「Google 帳戶」連繫。部分彙整資料亦會協助 Android 開發人員等合作夥伴改良應用程式和產品。
+
+您可以隨時前往 [設定] > [Google]，開啟或關閉此服務。此設定不會影響裝置傳送系統更新和安全性等重要服務所需的資料。"</string>
+    <string name="auth_setup_wizard_services_backup"><b>自動備份裝置資料</b> (例如 Wi-Fi 密碼和通話記錄) 及應用程式資料 (例如應用程式所儲存的設定和檔案) 至「Google 雲端硬碟」。<annotation id="backup_details">瞭解詳情</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"當您開啟自動備份功能，裝置和應用程式資料將定期儲存至「Google 雲端硬碟」的一個私人資料夾。應用程式資料可以包括任何應用程式儲存的資料 (視乎開發人員的設定)，包括潛在的敏感資料，如聯絡人、訊息和相片。
+
+備份資料將不會佔用您的「雲端硬碟」儲存空間配額。大型檔案或開發人員已選擇排除此服務的檔案將不會備份。"</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">允許應用程式和服務掃瞄 Wi‑Fi 網絡，<b>以提高位置資訊服務的精確度</b> (即使 Wi-Fi 已關閉)</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"這是此裝置的一般資料和使用方式，例如電量、應用程式的使用頻率、網絡連線的品質和時間 (包括手機、Wi-Fi 和藍牙)，以及裝置無法正常運作時發出的當機報告。這些資料會用作改善 Google 的一般產品和服務，並不會與您的「Google 帳戶」連繫。部分彙整資料亦會協助 Android 開發人員等合作夥伴改良應用程式和產品。
+
+您可以隨時前往 [設定] > [Google]，開啟或關閉此服務。此設定不會影響裝置傳送系統更新和安全性等重要服務所需的資料。"</string>
+</resources>

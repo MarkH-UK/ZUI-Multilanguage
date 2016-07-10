@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Ответить</item>
+        <item>Ответить всем</item>
+        <item>Переслать</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Одна строка</item>
+        <item>Две строки</item>
+        <item>Три строки</item>
+        <item>Четыре строки</item>
+        <item>Пять строк</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Мелкий</item>
+        <item>Средний</item>
+        <item>Нормальный</item>
+        <item>Крупный</item>
+        <item>Очень крупный</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Недавние</item>
+        <item>Формат</item>
+        <item>Имя</item>
+        <item>От</item>
+        <item>Дата</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Система</item>
+        <item>Быстрые сообщения</item>
+        <item>Все папки</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Следующая беседа</item>
+        <item>Предыдущая беседа</item>
+        <item>Список бесед</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Показывать только элементы архива</item>
+        <item>Показывать только удаленные элементы</item>
+        <item>Показывать элементы архива и удаленные элементы</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>После удаления показывать следующую беседу</item>
+        <item>После удаления показывать предыдущую беседу</item>
+        <item>После удаления показывать список бесед</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Показывать только элементы архива</item>
+        <item>Показывать только удаленные элементы</item>
+        <item>Показывать элементы архива и удаленные элементы</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Адрес:</item>
+        <item>Тел:</item>
+        <item>Имя:</item>
+        <item>Электронная почта:</item>
+        <item>Мобильный телефон:</item>
+        <item>WeChat:</item>
+        <item>Факс:</item>
+        <item>Почтовый индекс:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Спасибо!</item>
+        <item>С наилучшими пожеланиями,</item>
+        <item>Отправлено с моего</item>
+        <item>исходного почтового ящика</item>
+        <item>Отправлено с моего</item>
+        <item>Отправлено с</item>
+        <item>От</item>
+        <item>Это сообщение</item>
+        <item>Заявление об отказе</item>
+        <item>Заявление об отказе для электронной почты</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Синхронизация выполнена</item>
+        <item>Ошибка при подключении к сети</item>
+        <item>Не удалось выполнить вход</item>
+        <item>Ошибка при выполнении безопасного подключения к сети.</item>
+        <item>Ошибка при синхронизации</item>
+        <item>Ошибка сервера</item>
+    </string-array>
+</resources>

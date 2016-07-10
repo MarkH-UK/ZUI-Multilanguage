@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Коопсуздук суроосун тандаңыз</item>
+        <item>Биринчи телефон номериңиз?</item>
+        <item>Бала кезиңиздеги эң жакын досуңуздун ысымы?</item>
+        <item>Биринчи мугалимиңиздин ысымы?</item>
+        <item>Биринчи жумуштагы башкаруучунун ысымы?</item>
+        <item>Унааңыздын каттоо номери?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>начар</item>
+        <item>орто</item>
+        <item>жакшы</item>
+        <item>күчтүү</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Эркек</item>
+        <item>Аял</item>
+        <item>Башка</item>
+    </string-array>
+</resources>

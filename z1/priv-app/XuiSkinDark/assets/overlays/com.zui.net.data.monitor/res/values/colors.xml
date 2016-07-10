@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="background_solid">#0b0c0f</color>
+	<color name="white_status_bar">#ff131419</color>
+	<color name="list_bg_color">#0b0c0f</color>
+	<color name="subtitle_bg_color">#ff131419</color>
+	<drawable name="btn_sort_normal">#000000</drawable>
+    <drawable name="btn_sort_pressed">#191919</drawable>
+     <color name="dividing_color">#151515</color>
+     <color name="dividing_color2">#151515</color>
+     <color name="action_bar_divider">#212227</color>
+     <color name="list_dialog_divider">#151515</color>
+     <color name="subtitle_text_color">#8c8c8c</color>
+    <color name="sub2title_text_color">#606060</color>
+    <color name="selector_color_default_black">#8c8c8c</color>
+    <color name="selector_color_default_light">#5c5c5c</color>
+    <color name="dialog_title_text_color">#8c8c8c</color>
+    <color name="dialog_edit_text_color">#8c8c8c</color>
+    <color name="list_item_background">#ff000000</color>
+    <color name="status_barIcon_color">#f0f0f0</color>
+    <color name="text_summary_color">#454545</color>
+    <color name="List_item_text_normal_color">#5c5c5c</color>
+</resources>

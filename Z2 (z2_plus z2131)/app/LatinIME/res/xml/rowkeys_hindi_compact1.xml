@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_au" />
+    <Key latin:additionalMoreKeys="१,1" latin:keySpec="औ" latin:keyHintLabel="1" latin:keyStyle="moreKeysDevanagariVowelSignAu" />
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_ai" />
+    <Key latin:additionalMoreKeys="२,2" latin:keySpec="ऐ" latin:keyHintLabel="2" latin:keyStyle="moreKeysDevanagariVowelSignAi" />
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_aa" />
+    <Key latin:additionalMoreKeys="३,3" latin:keySpec="आ" latin:keyHintLabel="3" latin:keyStyle="moreKeysDevanagariVowelSignAa" />
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_ii" />
+    <Key latin:additionalMoreKeys="४,4" latin:keySpec="ई" latin:keyHintLabel="4" latin:keyStyle="moreKeysDevanagariVowelSignIi" />
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_uu" />
+    <Key latin:additionalMoreKeys="५,5" latin:keySpec="ऊ" latin:keyHintLabel="5" latin:keyStyle="moreKeysDevanagariVowelSignUu" />
+    <Key latin:moreKeys="भ,%" latin:additionalMoreKeys="६,6" latin:keySpec="ब" latin:keyHintLabel="6" />
+    <Key latin:additionalMoreKeys="७,7" latin:keySpec="ह" latin:keyHintLabel="7" />
+    <Key latin:moreKeys="घ,%" latin:additionalMoreKeys="८,8" latin:keySpec="ग" latin:keyHintLabel="8" />
+    <Key latin:moreKeys="ध,%" latin:additionalMoreKeys="९,9" latin:keySpec="द" latin:keyHintLabel="9" />
+    <Key latin:moreKeys="झ,ज्ञ,%" latin:additionalMoreKeys="०,0" latin:keySpec="ज" latin:keyHintLabel="0" />
+    <Key latin:moreKeys="ढ" latin:keySpec="ड" />
+</merge>

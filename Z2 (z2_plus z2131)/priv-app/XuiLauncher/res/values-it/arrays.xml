@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Imposta come città predefinita</item>
+        <item>Elimina questa città</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Animazione predefinita</item>
+        <item>Rotazione</item>
+        <item>Scavatrice</item>
+        <item>Mulino a vento</item>
+        <item>Cubo</item>
+        <item>Onda sinusoidale</item>
+        <item>Cilindro</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Nessuna</item>
+        <item>Apri menu desktop</item>
+        <item>Mostra app aggiunte di recente</item>
+        <item>Apri barra delle notifiche</item>
+        <item>Icona Trova</item>
+        <item>Schermata di blocco</item>
+    </string-array>
+</resources>

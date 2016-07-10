@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="detailedview_pager_background">#ffeeeeee</color>
+    <color name="title_author_background">#ffffffff</color>
+    <color name="offwhite">#ffe9e8e8</color>
+    <color name="author_grey">#ff808184</color>
+    <color name="primary">#ff0288d1</color>
+    <color name="primary_dark">#ff0277bd</color>
+    <color name="accent">#ff0091ea</color>
+    <color name="actionbar_text_color">#ffffffff</color>
+    <color name="primary_text_color">#ff000000</color>
+    <color name="apply_button_text_color_enabled">#ffffffff</color>
+    <color name="apply_button_text_color_disabled">#ffbbbbbb</color>
+    <color name="apply_button_progress_color">#ff6bd1e9</color>
+    <color name="apply_button_default_color">#ff00b1e5</color>
+    <color name="apply_button_pressed_color">#ff008ef2</color>
+    <color name="designed_for_color">#ffff8888</color>
+    <color name="drawer_item_textcolor">#ffffffff</color>
+    <color name="drawer_item_default">#ff0288d1</color>
+    <color name="drawer_item_pressed">#ff4fc3f7</color>
+    <color name="drawer_divider_line">#ffffffff</color>
+    <color name="font_style_item_title">#ff191919</color>
+    <color name="font_style_item_sub_title">#ff808080</color>
+    <color name="status_bar_background_color">#fff0f0f0</color>
+    <color name="status_bar_icon_color">#ff000000</color>
+    <color name="skin_style_main_background">#ffededed</color>
+    <color name="skin_style_tips_background">#ffffffff</color>
+    <color name="switch_skin_style_text_enabled">#ff1499f7</color>
+    <color name="switch_skin_style_text_disabled">#661499f7</color>
+    <color name="switch_skin_style_text_pressed">#661499f7</color>
+    <color name="switch_skin_circle_page_background">#ffededed</color>
+    <color name="switch_skin_tips_text_color">#ffb2b2b2</color>
+    <color name="skin_tips_split_view_background">#ffe0e0e0</color>
+    <color name="default_circle_indicator_fill_color">#ff00b1e5</color>
+    <color name="default_circle_indicator_page_color">#ff808184</color>
+    <color name="default_circle_indicator_stroke_color">#ffdddddd</color>
+</resources>

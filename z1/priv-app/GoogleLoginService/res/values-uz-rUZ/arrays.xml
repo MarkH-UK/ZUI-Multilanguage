@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Xavfsizlik savolini tanlang</item>
+        <item>Ilk telefon raqamingiz?</item>
+        <item>Bolalikdagi eng yaqin do‘stingizning ismi?</item>
+        <item>Birinchi o‘qituvchingizning ismi?</item>
+        <item>Ilk ish joyingizdagi menejerning ismi?</item>
+        <item>Avtomobilingizning ro‘yxatga olish raqami?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>yomon</item>
+        <item>qoniqarli</item>
+        <item>yaxshi</item>
+        <item>kuchli</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Erkak</item>
+        <item>Ayol</item>
+        <item>Boshqa</item>
+    </string-array>
+</resources>

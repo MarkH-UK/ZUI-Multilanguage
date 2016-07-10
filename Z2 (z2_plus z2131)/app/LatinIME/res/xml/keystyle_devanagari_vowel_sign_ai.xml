@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <switch>
+        <case latin:keyboardLayoutSet="hindi">
+            <key-style latin:moreKeys="◌ैं|ैं,%" latin:styleName="moreKeysDevanagariVowelSignAi" />
+        </case>
+        <case latin:keyboardLayoutSet="hindi_compact">
+            <key-style latin:moreKeys="◌ै|ै,%" latin:styleName="moreKeysDevanagariVowelSignAi" />
+        </case>
+        <case latin:keyboardLayoutSet="marathi">
+            <key-style latin:moreKeys="ऐ,%" latin:styleName="moreKeysDevanagariVowelSignAi" />
+        </case>
+        <case latin:keyboardLayoutSet="nepali_traditional">
+            <key-style latin:moreKeys="श्र" latin:styleName="moreKeysDevanagariVowelSignAi" />
+        </case>
+        <default>
+            <key-style latin:styleName="moreKeysDevanagariVowelSignAi" />
+        </default>
+    </switch>
+    <key-style latin:keySpec="◌ै|ै" latin:keyLabelFlags="followKeyLetterRatio" latin:styleName="baseKeyDevanagariVowelSignAi" latin:parentStyle="moreKeysDevanagariVowelSignAi" />
+</merge>

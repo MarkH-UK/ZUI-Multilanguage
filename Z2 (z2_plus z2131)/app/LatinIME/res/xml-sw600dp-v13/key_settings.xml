@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <switch>
+        <case latin:clobberSettingsKey="false">
+            <Key latin:keyStyle="settingsKeyStyle" />
+        </case>
+        <default>
+            <Spacer />
+        </default>
+    </switch>
+</merge>

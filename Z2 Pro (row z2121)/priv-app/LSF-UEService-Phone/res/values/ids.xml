@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="dialog_title">false</item>
+    <item type="id" name="scroll">false</item>
+    <item type="id" name="dialog_btn_agree">false</item>
+</resources>

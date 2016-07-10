@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emails">
+        <item>\@gmail.com</item>
+        <item>\@hotmail.com</item>
+        <item>\@yahoo.com</item>
+        <item>\@live.com</item>
+    </string-array>
+    <string-array name="AuthorPage_Boy">
+        <item>AdvCard_Recommend</item>
+        <item>AdvCard_Recommend_Simple</item>
+        <item>ColCard_Books</item>
+        <item>AdvCard_Recommend_Simple</item>
+        <item>ColCard_3NBooks</item>
+    </string-array>
+    <string-array name="AuthorPage_Girl">
+        <item>AdvCard_Recommend</item>
+        <item>AdvCard_Recommend_Simple</item>
+        <item>ColCard_Books</item>
+        <item>AdvCard_Recommend_Simple</item>
+        <item>ColCard_3NBooks</item>
+    </string-array>
+    <string-array name="AuthorPage_Publish">
+        <item>AdvCard_Recommend</item>
+        <item>AdvCard_Recommend_Simple</item>
+        <item>ColCard_Books</item>
+        <item>AdvCard_Recommend_Simple</item>
+        <item>ColCard_3NBooks</item>
+    </string-array>
+    <string-array name="BookLibTopRank_boy">
+        <item>RankCard</item>
+    </string-array>
+    <string-array name="BookLibTopRank_girl">
+        <item>RankCard</item>
+    </string-array>
+    <string-array name="BookLibTopRank_publish">
+        <item>RankCard</item>
+    </string-array>
+    <string-array name="DetailPage">
+        <item>DetailBookInfoCard</item>
+        <item>DetailChapterCard</item>
+        <item>DetailCommentCard</item>
+        <item>AdvCard_Circle</item>
+        <item>DetailListBookCard_1</item>
+        <item>DetailListBookCard_1</item>
+        <item>DetailListBookCard_2</item>
+        <item>DetailListBookCard_3</item>
+        <item>DetailCopyrightCard</item>
+    </string-array>
+    <string-array name="EndPage">
+        <item>EndPageInteractionCard</item>
+        <item>EndPageRankCard</item>
+        <item>DetailCommentCard</item>
+        <item>DetailListBookCard_1</item>
+        <item>DetailListBookCard_2</item>
+    </string-array>
+    <string-array name="Find_HomePage">
+        <item>FindHomePageCard</item>
+    </string-array>
+    <string-array name="FreePage_Boy">
+        <item>AdvCard_Circle</item>
+        <item>FreeCard_3NBooks</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Books</item>
+        <item>CollectCard_0</item>
+        <item>CollectCard_1</item>
+        <item>TabCard</item>
+    </string-array>
+    <string-array name="FreePage_Girl">
+        <item>AdvCard_Circle</item>
+        <item>FreeCard_3NBooks</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Books</item>
+        <item>CollectCard_0</item>
+        <item>CollectCard_1</item>
+        <item>TabCard</item>
+    </string-array>
+    <string-array name="FreePage_Publish">
+        <item>AdvCard_Circle</item>
+        <item>FreeCard_3NBooks</item>
+        <item>ColCard_3NBooks</item>
+        <item>ColCard_3NBooks</item>
+        <item>ColCard_3NBooks</item>
+        <item>ColCard_3NBooks</item>
+        <item>CollectCard_0</item>
+        <item>CollectCard_1</item>
+        <item>TabCard</item>
+    </string-array>
+    <string-array name="HallOfFamePage">
+        <item>HallOfFameTabCard</item>
+    </string-array>
+    <string-array name="HomePage_Boy">
+        <item>AdvCard_Circle</item>
+        <item>ColumnCard_0</item>
+        <item>ColCard_Books</item>
+        <item>GuideCard_0</item>
+        <item>ColCard_Books</item>
+        <item>RecCard_3NBooks</item>
+        <item>ColCard_Books</item>
+        <item>FreeCard_3NBooks</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Charts</item>
+        <item>AdvCard_Recommend</item>
+        <item>AdvCard_Grid</item>
+    </string-array>
+    <string-array name="HomePage_Girl">
+        <item>AdvCard_Circle</item>
+        <item>ColumnCard_0</item>
+        <item>ColCard_Books</item>
+        <item>GuideCard_0</item>
+        <item>ColCard_Books</item>
+        <item>RecCard_3NBooks</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Books</item>
+        <item>FreeCard_3NBooks</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Books</item>
+        <item>ColCard_Charts</item>
+        <item>AdvCard_Recommend</item>
+        <item>AdvCard_Grid</item>
+    </string-array>
+    <string-array name="HomePage_Publish">
+        <item>AdvCard_Circle</item>
+        <item>ColumnCard_0</item>
+        <item>ColCard_3NBooks</item>
+        <item>ColCard_3NBooks</item>
+        <item>AdvCard_Line_4</item>
+        <item>FreeCard_3NBooks</item>
+        <item>AdvCard_Circle</item>
+        <item>RecCard_3NBooks</item>
+        <item>ColCard_3NBooks</item>
+        <item>AdvCard_Line_4</item>
+        <item>ColCard_3NBooks</item>
+        <item>AdvCard_Line_4</item>
+        <item>ColCard_3NBooks</item>
+        <item>AdvCard_Line_4</item>
+        <item>ColCard_3NBooks</item>
+        <item>AdvCard_Line_4</item>
+        <item>AdvCard_Recommend</item>
+        <item>AdvCard_Grid</item>
+    </string-array>
+    <string-array name="PayMonth_Boy">
+        <item>DBAdvCard_Circle</item>
+        <item>PayMonthGuide</item>
+        <item>ColCard_Books</item>
+        <item>RecCard_3NBooks</item>
+        <item>FeedHotBookListCard</item>
+        <item>ColCard_Charts</item>
+        <item>FeedBookPackCard</item>
+    </string-array>
+    <string-array name="PayMonth_Girl">
+        <item>DBAdvCard_Circle</item>
+        <item>PayMonthGuide</item>
+        <item>ColCard_Books</item>
+        <item>RecCard_3NBooks</item>
+        <item>FeedHotBookListCard</item>
+        <item>ColCard_Charts</item>
+        <item>FeedBookPackCard</item>
+    </string-array>
+    <string-array name="PayMonth_Publish">
+        <item>DBAdvCard_Circle</item>
+        <item>PayMonthGuide</item>
+        <item>ColCard_Books</item>
+        <item>RecCard_3NBooks</item>
+        <item>FeedHotBookListCard</item>
+        <item>ColCard_Charts</item>
+        <item>FeedBookPackCard</item>
+    </string-array>
+    <string-array name="SearchToolMain">
+        <item>SearchToolCloudCard</item>
+        <item>SearchToolConditionCard</item>
+    </string-array>
+    <array name="bkStyles">
+        <item>#fffaf6ed</item>
+        <item>#ffd5efd2</item>
+        <item>@drawable/read_bg_1</item>
+        <item>#ff001f2d</item>
+        <item>@drawable/read_bg_7</item>
+        <item>@drawable/read_bg_6</item>
+        <item>@drawable/read_bg_2</item>
+        <item>#ff48859c</item>
+    </array>
+    <string-array name="boy">
+        <item>玄幻</item>
+        <item>仙侠</item>
+        <item>都市</item>
+        <item>历史</item>
+        <item>军事</item>
+        <item>游戏</item>
+        <item>竞技</item>
+        <item>科幻</item>
+        <item>灵异</item>
+        <item>励志</item>
+        <item>管理</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="boyid">
+        <item>20001</item>
+        <item>20014</item>
+        <item>20019</item>
+        <item>20028</item>
+        <item>20032</item>
+        <item>20050</item>
+        <item>20054</item>
+        <item>20042</item>
+        <item>10018</item>
+        <item>10070</item>
+        <item>10097</item>
+        <item>10076</item>
+    </string-array>
+    <integer-array name="custom_switcher">
+        <item>@integer/query_dialog</item>
+        <item>@integer/xg_push</item>
+        <item>@integer/app_wall</item>
+        <item>@integer/app_update</item>
+    </integer-array>
+    <string-array name="fileEnding">
+        <item>.txt</item>
+        <item>.umd</item>
+        <item>.epub</item>
+        <item>.pdf</item>
+        <item>.chm</item>
+        <item>.teb</item>
+        <item>.rar</item>
+        <item>.zip</item>
+        <item>.xls</item>
+        <item>.xlsx</item>
+        <item>.doc</item>
+        <item>.docx</item>
+        <item>.ppt</item>
+        <item>.pptx</item>
+    </string-array>
+    <string-array name="fileEndingExArchive">
+        <item>.txt</item>
+        <item>.umd</item>
+        <item>.epub</item>
+        <item>.pdf</item>
+        <item>.chm</item>
+        <item>.teb</item>
+        <item>.rar</item>
+        <item>.zip</item>
+        <item>.xls</item>
+        <item>.xlsx</item>
+        <item>.doc</item>
+        <item>.docx</item>
+        <item>.ppt</item>
+        <item>.pptx</item>
+    </string-array>
+    <string-array name="girl">
+        <item>幻言</item>
+        <item>仙侠</item>
+        <item>古言</item>
+        <item>现言</item>
+        <item>科幻</item>
+        <item>灵异</item>
+        <item>青春</item>
+        <item>网游</item>
+        <item>情感</item>
+        <item>励志</item>
+        <item>管理</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="girlid">
+        <item>30001</item>
+        <item>30008</item>
+        <item>30013</item>
+        <item>30020</item>
+        <item>30042</item>
+        <item>30036</item>
+        <item>30031</item>
+        <item>30050</item>
+        <item>10011</item>
+        <item>10070</item>
+        <item>10097</item>
+        <item>10076</item>
+    </string-array>
+    <array name="infoStyles">
+        <item>#ffb2afa8</item>
+        <item>#ff7fa088</item>
+        <item>#ffa5846c</item>
+        <item>#ff3b4c59</item>
+        <item>#ff839c77</item>
+        <item>#ff745b4a</item>
+        <item>#ffcc7e94</item>
+    </array>
+    <string-array name="non">
+        <item>玄幻</item>
+        <item>仙侠</item>
+        <item>都市</item>
+        <item>游戏</item>
+        <item>古言</item>
+        <item>现言</item>
+        <item>灵异</item>
+        <item>历史</item>
+        <item>科幻</item>
+        <item>励志</item>
+        <item>管理</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="nonid">
+        <item>20001</item>
+        <item>20014</item>
+        <item>20019</item>
+        <item>20050</item>
+        <item>30013</item>
+        <item>30020</item>
+        <item>30036</item>
+        <item>20028</item>
+        <item>20042</item>
+        <item>10070</item>
+        <item>10097</item>
+        <item>10076</item>
+    </string-array>
+    <string-array name="preAuthor">
+        <item>夏忆</item>
+    </string-array>
+    <array name="preBooks" />
+    <string-array name="preContent">
+        <item>QQ书城3月刊</item>
+    </string-array>
+    <string-array name="preImage">
+        <item>最后一个道士1.epub.p</item>
+    </string-array>
+    <array name="preInternalold" />
+    <string-array name="prePluginDB">
+        <item>plugin.db</item>
+    </string-array>
+    <string-array name="prePluginRes">
+        <item>1_1_c.png</item>
+        <item>1_c.png</item>
+        <item>2_c.png</item>
+        <item>3_c.png</item>
+        <item>11_3_c.png</item>
+        <item>4_c.png</item>
+        <item>12_4_c.png</item>
+        <item>5_c.png</item>
+        <item>14_5_c.png</item>
+        <item>6_c.png</item>
+        <item>25_6_c.png</item>
+        <item>7_c.png</item>
+        <item>29_7_c.png</item>
+    </string-array>
+    <string-array name="preWebColumnDB">
+        <item>webcolumn.db</item>
+    </string-array>
+    <string-array name="read_gene_pos_array">
+        <item>-36,150</item>
+        <item>-84,-122</item>
+        <item>137,62</item>
+        <item>113,-92</item>
+        <item>-130,80</item>
+        <item>21,-102</item>
+        <item>53,94</item>
+        <item>-101,-28</item>
+        <item>65,-21</item>
+        <item>-35,62</item>
+    </string-array>
+    <string-array name="read_gene_temp_circle_pos_array">
+        <item>-3,108</item>
+        <item>-48,-52</item>
+        <item>-142,-47</item>
+    </string-array>
+    <string-array name="recommned_url_10001">
+        <item>index.html</item>
+        <item>index_boy.html</item>
+        <item>index_girl.html</item>
+        <item>index_pub.html</item>
+    </string-array>
+    <string-array name="recommned_url_10002">
+        <item>rankIndex.html?up=0</item>
+        <item>rankIndex.html?up=1</item>
+        <item>rankIndex.html?up=2</item>
+        <item>rankIndex.html?up=3</item>
+    </string-array>
+    <string-array name="recommned_url_10003">
+        <item>vip.html?up=0</item>
+        <item>vip.html?up=1</item>
+        <item>vip.html?up=2</item>
+        <item>vip.html?up=3</item>
+    </string-array>
+    <string-array name="recommned_url_10005">
+        <item>author.html?up=0</item>
+        <item>author.html?up=1</item>
+        <item>author.html?up=2</item>
+        <item>author.html?up=3</item>
+    </string-array>
+    <string-array name="search_tool_left_items">
+        <item>分类</item>
+        <item>标签</item>
+        <item>字数</item>
+        <item>更新</item>
+        <item>其它</item>
+    </string-array>
+    <string-array name="sex">
+        <item>男</item>
+        <item>女</item>
+        <item>中性</item>
+    </string-array>
+    <string-array name="sortFormats">
+        <item>全部</item>
+        <item>Txt</item>
+        <item>EPub</item>
+        <item>Pdf</item>
+        <item>Office</item>
+        <item>其他</item>
+    </string-array>
+    <array name="textStyles">
+        <item>#ff333333</item>
+        <item>#ff22482c</item>
+        <item>#ff5e432e</item>
+        <item>#ff415766</item>
+        <item>#ff1b310e</item>
+        <item>#ff9e7c64</item>
+        <item>#ff801634</item>
+        <item>#ffffffff</item>
+    </array>
+    <array name="titleStyles">
+        <item>#ff806855</item>
+        <item>#ff2e4f36</item>
+        <item>#ff6b391e</item>
+        <item>#ff3b586c</item>
+        <item>#ff415932</item>
+        <item>#ff977868</item>
+        <item>#ff982938</item>
+    </array>
+    <array name="title_size_array">
+        <item>@dimen/title_font_size_0</item>
+        <item>@dimen/title_font_size_1</item>
+        <item>@dimen/title_font_size_2</item>
+        <item>@dimen/title_font_size_3</item>
+        <item>@dimen/title_font_size_4</item>
+        <item>@dimen/title_font_size_5</item>
+        <item>@dimen/title_font_size_6</item>
+        <item>@dimen/title_font_size_7</item>
+        <item>@dimen/title_font_size_8</item>
+        <item>@dimen/title_font_size_9</item>
+        <item>@dimen/title_font_size_10</item>
+        <item>@dimen/title_font_size_11</item>
+    </array>
+    <integer-array name="ttsbid">
+        <item>345973</item>
+        <item>345972</item>
+        <item>345971</item>
+        <item>345970</item>
+        <item>345968</item>
+        <item>345969</item>
+        <item>345967</item>
+        <item>345966</item>
+        <item>345964</item>
+        <item>345965</item>
+        <item>345963</item>
+        <item>320700</item>
+        <item>320699</item>
+        <item>320698</item>
+        <item>320680</item>
+        <item>320649</item>
+        <item>320667</item>
+        <item>320665</item>
+        <item>320664</item>
+        <item>320666</item>
+        <item>320651</item>
+        <item>320650</item>
+        <item>320648</item>
+        <item>320647</item>
+        <item>320631</item>
+        <item>320630</item>
+        <item>320392</item>
+        <item>320391</item>
+        <item>316002</item>
+        <item>316003</item>
+        <item>315999</item>
+        <item>316001</item>
+        <item>315996</item>
+        <item>315998</item>
+        <item>315997</item>
+        <item>234827</item>
+    </integer-array>
+</resources>

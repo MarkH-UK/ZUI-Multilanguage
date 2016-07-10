@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="unipay_dialog">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/unipay_pic_loginbg</item>
+        <item name="android:paddingLeft">25.0dip</item>
+        <item name="android:paddingTop">20.0dip</item>
+        <item name="android:paddingRight">25.0dip</item>
+        <item name="android:paddingBottom">25.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">120.0dip</item>
+        <item name="android:layout_marginRight">120.0dip</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="unipay_dialog.land" parent="@style/unipay_dialog">
+        <item name="android:layout_marginLeft">240.0dip</item>
+        <item name="android:layout_marginRight">240.0dip</item>
+    </style>
+    <style name="unipay_linear.tipframe" parent="@style/unipay_linear">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginLeft">120.0dip</item>
+        <item name="android:layout_marginRight">120.0dip</item>
+    </style>
+    <style name="unipay_linear.tipframe.land" parent="@style/unipay_linear.tipframe">
+        <item name="android:layout_marginLeft">240.0dip</item>
+        <item name="android:layout_marginRight">240.0dip</item>
+    </style>
+</resources>

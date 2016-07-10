@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_solid">#ffededed</color>
+    <color name="notification_bg_color">#ff000000</color>
+    <color name="list_item_disabled_text_color">#ffcccccc</color>
+    <color name="btn_enable_color">#ff1499f7</color>
+    <color name="btn_disable_color">#661499f7</color>
+    <color name="list_item_first_head_text_color">#ff333333</color>
+    <color name="list_item_second_head_text_color">#ffb2b2b2</color>
+    <color name="split_color">#ffeaeaea</color>
+    <color name="subtitle_bg_color">#fff0f0f0</color>
+    <color name="subtitle_text_color">#ff323232</color>
+    <color name="title_split_color">#ffd6d6d6</color>
+    <color name="card_not_ready">#ffb2b2b2</color>
+    <color name="card_ready">#ff333333</color>
+    <color name="category">#ff999999</color>
+    <color name="net_type">#ff747474</color>
+    <color name="card_dialog_summary">#ff9b9b9b</color>
+    <color name="list_item_normal_backgound_color">#fffafafa</color>
+    <color name="list_item_pressed_backgound_color">#fff1f1f1</color>
+    <color name="gray_category">#fff8f8f8</color>
+    <color name="gray_space">#ffededed</color>
+    <color name="dialog_normal">#fffafafa</color>
+    <color name="dialog_press">#fff1f1f1</color>
+    <color name="sub_title_font_color">#ff8c8c8c</color>
+    <color name="cancel_color">#ff1499f7</color>
+    <color name="main_title_color">#ff323232</color>
+    <color name="context_background">#ffeaeaea</color>
+</resources>

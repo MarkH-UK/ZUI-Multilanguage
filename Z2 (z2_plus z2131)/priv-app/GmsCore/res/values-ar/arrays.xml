@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>حانة</item>
+        <item>مقهى</item>
+        <item>محطة وقود</item>
+        <item>سينما</item>
+        <item>سكن</item>
+        <item>ملهى ليلي</item>
+        <item>متحف</item>
+        <item>مطعم</item>
+        <item>مركز تسوق</item>
+        <item>متجر</item>
+        <item>متجر بقالة أو سوبر ماركت</item>
+        <item>غير ذلك</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ضعيفة</item>
+        <item>معقولة</item>
+        <item>جيدة</item>
+        <item>قوية</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>البلوتوث</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>إصدار</item>
+        <item>مطوِّر</item>
+        <item>بيع بالقطّاعي</item>
+        <item>تجريبي</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>‏يعمل الهاتف والسيارة ببرامج غير متوافقة. للاطلاع على تفاصيل، يمكنك الانتقال إلى &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>نشرت السيارة مجموعة غير صحيحة من إعدادات تهيئة الصوت و/أو الفيديو.</item>
+        <item>"‏اتصال USB لا يعمل على نحو سليم. يمكنك تجربة ما يلي: 
+
+• تأكد من إحكام الكابل من الطرفين. 
+• تأكد من وجود كابل USB للبيانات. 
+• تأكد من تعيين الوقت والتاريخ على نحو سليم للسيارة والهاتف."</item>
+        <item>‏توقفت السيارة عن تشغيل Android Auto.</item>
+        <item>‏توقفت جلسة Android Auto على النحو المطلوب.</item>
+        <item>قد يكون برنامج السيارة قديمًا. للحصول على التفاصيل والدعم، يمكنك الاتصال بالمصنِّع.</item>
+        <item>‏لم ينجح برنامج السيارة في فحوصات أمان Android Auto. للحصول على التفاصيل والدعم، يمكنك الاتصال بالمصنِّع.</item>
+        <item>‏لم ينجح برنامج السيارة في فحوصات أمان Android Auto. تأكد من تعيين التاريخ والوقت في السيارة على نحو سليم، وتأكد من تحديث Android Auto.</item>
+        <item>انتهى إجراء ما. يجب إعداد تقرير بالأخطاء وإرسال تعليق.</item>
+        <item>يبدو أنك لا تثبِّت مشغِّلاً، فهل تم إعداد هاتفك على نحو سليم؟</item>
+        <item>انتهى خط معالجة الرسوميات للتو. يجب إعداد تقرير بالأخطاء وإرسال تعليق.</item>
+        <item>السيارة لا تستجيب للرسائل الواردة من الهاتف. ربما تكون حالة السيارة غير سليمة.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>مطار</item>
+        <item>أجهزة الصراف الآلي</item>
+        <item>مصرف</item>
+        <item>حانة</item>
+        <item>محطة حافلات</item>
+        <item>مقهى</item>
+        <item>مكان معسكر</item>
+        <item>مقبرة</item>
+        <item>كنيسة</item>
+        <item>مجلس مدينة</item>
+        <item>مؤسسة</item>
+        <item>محطة وقود</item>
+        <item>متجر بقالة أو سوبر ماركت</item>
+        <item>معبد هندوسي</item>
+        <item>مستشفى</item>
+        <item>مكتبة</item>
+        <item>سكن</item>
+        <item>مسجد</item>
+        <item>دار سينما</item>
+        <item>متحف</item>
+        <item>متنزه</item>
+        <item>موقف سيارات</item>
+        <item>مكان عبادة</item>
+        <item>قسم شرطة</item>
+        <item>مكتب بريد</item>
+        <item>مطعم</item>
+        <item>مدرسة</item>
+        <item>متجر</item>
+        <item>محطة مترو أنفاق</item>
+        <item>معبد يهودي</item>
+        <item>محطة قطار</item>
+        <item>محطة نقل عام</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>كانون الثاني (يناير)</item>
+        <item>شباط (فبراير)</item>
+        <item>آذار (مارس)</item>
+        <item>نيسان (أبريل)</item>
+        <item>أيار (مايو)</item>
+        <item>حزيران (يونيو)</item>
+        <item>تموز (يوليو)</item>
+        <item>آب (أغسطس)</item>
+        <item>أيلول (سبتمبر)</item>
+        <item>تشرين الأول (أكتوبر)</item>
+        <item>تشرين الثاني (نوفمبر)</item>
+        <item>كانون الأول (ديسمبر)</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>إيقاف المشاركة</item>
+        <item>15 دقيقة</item>
+        <item>30 دقيقة</item>
+        <item>ساعة واحدة</item>
+        <item>إلى ما لا نهاية</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>إيقاف المشاركة</item>
+        <item>15 دقيقة</item>
+        <item>30 دقيقة</item>
+        <item>ساعة واحدة</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>اختيار سؤال أمان</item>
+        <item>ما رقم أول هاتف؟</item>
+        <item>ما اسم أفضل صديق من أصدقاء الطفولة؟</item>
+        <item>ما اسم أول معلم؟</item>
+        <item>ما اسم مديرك في أول وظيفة؟</item>
+        <item>ما رقم تسجيل المركبة؟</item>
+    </string-array>
+</resources>

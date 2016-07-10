@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/location_service_title" android:key="location_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SwitchPreference android:title="@string/location_service_title" android:key="location_switch" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/location_mode_title_define" android:key="location_mode" android:summary="@string/location_mode_location_off_title" android:widgetLayout="@layout/preference_widget_forward" settings:keywords="@string/keywords_location_mode" />
+    <com.android.settings.LocationDescriptionPreference android:layout="@layout/preference_category_location" android:title="@string/location_des" android:key="location_des" />
+    <PreferenceCategory android:state_expanded="true" android:title="@string/location_category_recent_location_requests" android:key="recent_location_requests" />
+</PreferenceScreen>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s әңгімелер алынып тасталады.</item>
+        <item quantity="one">Бір әңгіме алынып тасталады.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s сек</item>
+        <item quantity="one">%s сек</item>
+        <item quantity="few">%s сек</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s нәтижелер \"%2$s\" үшін</item>
+        <item quantity="one">%1$s нәтиже \"%2$s\" үшін</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s басқа хабарлар</item>
+        <item quantity="one">+%1$s басқа хабар</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s адамдар</item>
+    </plurals>
+</resources>

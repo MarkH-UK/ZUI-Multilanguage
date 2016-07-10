@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dynamic_grid_page_indicator_height">27.0dip</dimen>
+    <dimen name="xfolder_page_indicator_height">27.0dip</dimen>
+    <dimen name="toolbar_button_vertical_padding">8.0dip</dimen>
+    <dimen name="toolbar_button_horizontal_padding">8.0dip</dimen>
+    <dimen name="dragViewOffsetX">0.0dip</dimen>
+    <dimen name="dragViewOffsetY">0.0dip</dimen>
+    <dimen name="user_folder_Editname_textsize">24.0sp</dimen>
+    <dimen name="home_point_width">44.0dip</dimen>
+    <dimen name="home_point_height">3.0dip</dimen>
+    <dimen name="home_point_gap">10.0dip</dimen>
+    <dimen name="widget_list_item_name_font_size">14.0dip</dimen>
+    <dimen name="widget_list_item_dimens_font_size">14.0dip</dimen>
+    <dimen name="screenmng_cell_homeicon_width">32.669983dip</dimen>
+    <dimen name="screenmng_cell_homeicon_height">37.329987dip</dimen>
+    <dimen name="editmode_delflag_icon_size">32.0dip</dimen>
+    <dimen name="min_cellwidth">124.0dip</dimen>
+    <dimen name="min_cellheight">161.29999dip</dimen>
+    <dimen name="wallpaper_chooser_grid_width">196.0dip</dimen>
+    <dimen name="wallpaper_chooser_grid_height">140.0dip</dimen>
+</resources>

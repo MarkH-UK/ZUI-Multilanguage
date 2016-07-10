@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>ಬಾರ್</item>
+        <item>ಕೆಫೆ</item>
+        <item>ಗ್ಯಾಸ್ ಸ್ಟೇಶನ್</item>
+        <item>ಸಿನಿಮಾ ಥಿಯೇಟರ್</item>
+        <item>ವಸತಿಗೃಹ</item>
+        <item>ರಾತ್ರಿ ಕ್ಲಬ್</item>
+        <item>ವಸ್ತು ಸಂಗ್ರಹಾಲಯ</item>
+        <item>ರೆಸ್ಟೋರೆಂಟ್</item>
+        <item>ಶಾಪಿಂಗ್ ಸೆಂಟರ್</item>
+        <item>ಅಂಗಡಿ</item>
+        <item>ಕಿರಾಣಿ ಅಂಗಡಿ ಅಥವಾ ಸೂಪರ್‌ಮಾರ್ಕೆಟ್</item>
+        <item>ಇತರೆ</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ಕಳಪೆ</item>
+        <item>ಯುಕ್ತ</item>
+        <item>ಉತ್ತಮ</item>
+        <item>ಪ್ರಬಲ</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>ಬ್ಲೂಟೂತ್</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>ಬಿಡುಗಡೆ</item>
+        <item>ಡೆವಲಪರ್</item>
+        <item>ರೀಟೇಲ್‌</item>
+        <item>ಡೆಮೋ</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ಫೋನ್ ಮತ್ತು ಕಾರ್ ಹೊಂದಾಣಿಕೆಯಾಗದ ಸಾಫ್ಟ್‌ವೇರ್ ರನ್ ಮಾಡುತ್ತಿವೆ. ವಿವರಗಳಿಗಾಗಿ, &lt;a href="android.com/auto">android.com/auto&lt;/a> ಗೆ ಭೇಟಿ ನೀಡಿ</item>
+        <item>ಕಾರ್ ತಪ್ಪಾದ ಆಡಿಯೊ ಮತ್ತು/ಅಥವಾ ವೀಡಿಯೊ ಕಾನ್ಫಿಗರೇಶನ್‌ಗಳ ಸೆಟ್ ಅನ್ನು ಪ್ರಚಾರ ಮಾಡಿದೆ.</item>
+        <item>"USB ಸಂಪರ್ಕವು ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿಲ್ಲ. ಇವುಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ: 
+
+• ಕೇಬಲ್ ಅನ್ನು ಎರಡೂ ಕಡೆ ಸರಿಯಾಗಿ ಜೋಡಿಸಲಾಗಿದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. 
+•ನೀವು ಡೇಟಾ USB ಕೇಬಲ್ ಹೊಂದಿರುವಿರಾ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. 
+•ಕಾರ್ ಮತ್ತು ಫೋನ್ ಎರಡರಲ್ಲಿಯೂ ದಿನಾಂಕ ಮತ್ತು ಸಮಯವನ್ನು ಸರಿಯಾಗಿ ಹೊಂದಿಸಲಾಗಿದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."</item>
+        <item>ಕಾರ್ Android Auto ರನ್ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಿದೆ.</item>
+        <item>ವಿನಂತಿಸಿದಂತೆ, Android Auto ಸೆಶನ್ ನಿಲ್ಲಿಸಲಾಗಿದೆ.</item>
+        <item>ಕಾರ್‌ನ ಸಾಫ್ಟ್‌ವೇರ್ ಹಳೆಯದಾಗಿರಬಹುದು. ವಿವರಗಳು ಮತ್ತು ಬೆಂಬಲಕ್ಕಾಗಿ ತಯಾರಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+        <item>ನಿಮ್ಮ ಕಾರ್‌ನ ಸಾಫ್ಟ್‌ವೇರ್ Android Auto ಭದ್ರತೆ ಪರೀಕ್ಷೆಗಳನ್ನು ಪೂರೈಸಲು ವಿಫಲವಾಗಿದೆ. ವಿವರಗಳು ಮತ್ತು ಬೆಂಬಲಕ್ಕಾಗಿ ತಯಾರಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+        <item>ನಿಮ್ಮ ಕಾರ್‌ನ ಸಾಫ್ಟ್‌ವೇರ್ Android Auto ಭದ್ರತೆ ಪರೀಕ್ಷೆಗಳನ್ನು ಪೂರೈಸಲು ವಿಫಲವಾಗಿದೆ. ಕಾರ್‌ನ ದಿನಾಂಕ ಮತ್ತು ಸಮಯವನ್ನು ಸರಿಯಾಗಿ ಹೊಂದಿಸಲಾಗಿದೆಯೇ ಹಾಗೂ Android Auto ಅನ್ನು ನವೀಕರಿಸಲಾಗಿದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</item>
+        <item>ಕ್ರಿಯೆಯ ಅವಧಿ ಮೀರಿದೆ. ನೀವು ದೋಷ ವರದಿಯನ್ನು ಪಡೆದುಕೊಳ್ಳಬೇಕು ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ನೀಡಬೇಕು.</item>
+        <item>ನೀವು ಲಾಂಚರ್ ಅನ್ನು ಸ್ಥಾಪಿಸಿರುವಂತೆ ತೋರುತ್ತಿಲ್ಲ, ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಸರಿಯಾಗಿ ಹೊಂದಿಸಲಾಗಿದೆಯೇ?</item>
+        <item>ಗ್ರಾಫಿಕ್ಸ್ ಪೈಪ್‌ಲೈನ್ ಈಗ ತಾನೇ ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ. ನೀವು ದೋಷ ವರದಿಯನ್ನು ಪಡೆದುಕೊಳ್ಳಬೇಕು ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಸಲ್ಲಿಸಬೇಕು.</item>
+        <item>ಫೋನ್‌ನಿಂದ ಸಂದೇಶಗಳಿಗೆ ಕಾರ್ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತಿಲ್ಲ. ಕಾರ್ ತಪ್ಪಾದ ಸ್ಥಿತಿಯಲ್ಲಿರಬಹುದು.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>ವಿಮಾನ ನಿಲ್ದಾಣ</item>
+        <item>ಎಟಿಎಂ</item>
+        <item>ಬ್ಯಾಂಕ್</item>
+        <item>ಬಾರ್</item>
+        <item>ಬಸ್‌ ನಿಲ್ದಾಣ</item>
+        <item>ಕೆಫೆ</item>
+        <item>ಕ್ಯಾಂಪ್‌ಗ್ರೌಂಡ್</item>
+        <item>ಸ್ಮಶಾನ</item>
+        <item>ಚರ್ಚ್</item>
+        <item>ಸಿಟಿ ಹಾಲ್</item>
+        <item>ಸಂಸ್ಥಾಪನೆ</item>
+        <item>ಗ್ಯಾಸ್ ಸ್ಟೇಶನ್</item>
+        <item>ಕಿರಾಣಿ ಅಂಗಡಿ ಅಥವಾ ಸೂಪರ್‌ಮಾರ್ಕೆಟ್</item>
+        <item>ಹಿಂದೂ ದೇವಾಲಯ</item>
+        <item>ಆಸ್ಪತ್ರೆ</item>
+        <item>ಲೈಬ್ರರಿ</item>
+        <item>ವಸತಿಗೃಹ</item>
+        <item>ಮಸೀದಿ</item>
+        <item>ಚಲನಚಿತ್ರ ಮಂದಿರ</item>
+        <item>ವಸ್ತು ಸಂಗ್ರಹಾಲಯ</item>
+        <item>ಉದ್ಯಾನ</item>
+        <item>ಪಾರ್ಕಿಂಗ್</item>
+        <item>ಆರಾಧನಾ ಮಂದಿರ</item>
+        <item>ಪೊಲೀಸ್ ಠಾಣೆ</item>
+        <item>ಅಂಚೆ ಕಛೇರಿ</item>
+        <item>ರೆಸ್ಟೋರೆಂಟ್</item>
+        <item>ಶಾಲೆ</item>
+        <item>ಸಂಗ್ರಹಿಸು</item>
+        <item>ಸುರಂಗ ನಿಲ್ದಾಣ</item>
+        <item>ಯೆಹೂದಿ ಆರಾಧನಾ ಮಂದಿರ</item>
+        <item>ರೈಲು ನಿಲ್ದಾಣ</item>
+        <item>ಸಾಗಣೆ ನಿಲ್ದಾಣ</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>ಜನವರಿ</item>
+        <item>ಫೆಬ್ರವರಿ</item>
+        <item>ಮಾರ್ಚ್</item>
+        <item>ಏಪ್ರಿಲ್</item>
+        <item>ಮೇ</item>
+        <item>ಜೂನ್</item>
+        <item>ಜುಲೈ</item>
+        <item>ಆಗಸ್ಟ್</item>
+        <item>ಸೆಪ್ಟೆಂಬರ್</item>
+        <item>ಅಕ್ಟೋಬರ್</item>
+        <item>ನವೆಂಬರ್</item>
+        <item>ಡಿಸೆಂಬರ್</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>ಹಂಚಿಕೆ ನಿಲ್ಲಿಸಿ</item>
+        <item>15 ನಿಮಿಷಗಳು</item>
+        <item>3 ನಿಮಿಷಗಳು</item>
+        <item>1 ಗಂಟೆ</item>
+        <item>ಅನಿರ್ದಿಷ್ಟವಾಗಿ</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>ಹಂಚಿಕೆ ನಿಲ್ಲಿಸಿ</item>
+        <item>15 ನಿಮಿಷಗಳು</item>
+        <item>30 ನಿಮಿಷಗಳು</item>
+        <item>1 ಗಂಟೆ</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

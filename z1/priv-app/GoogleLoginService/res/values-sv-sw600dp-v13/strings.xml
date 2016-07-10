@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">Ditt namn används för att anpassa din surfplatta och Googles tjänster.</string>
+    <string name="name_title_local">Den här surfplattan tillhör ...</string>
+    <string name="name_text_local">Ditt namn används för att anpassa vissa appar i surfplattan.</string>
+    <string name="communicating_message">Surfplattan kontaktar Google för att spara information på ditt konto. Det kan ta upp till fem minuter.</string>
+    <string name="checking_username_message">"Surfplattan kontaktar Google för att se om det användarnamn du vill ha är ledigt.
+
+Det kan ta några minuter."</string>
+    <string name="wait_for_device_country_msg">Info om surfplattan samlas in. Detta tar upp till 30 sekunder.</string>
+    <string name="backup_consent_message">"Använd ditt Google-konto för att säkerhetskopiera dina appar, inställningar (som bokmärken och Wi-Fi-lösenord) och andra data. Om du har säkerhetskopierat ditt konto tidigare kan du nu återställa innehållet i den här surfplattan.
+
+Du kan när som helst ändra dina inställningar för säkerhetskopiering i inställningarna."</string>
+    <string name="backup_consent_message_no_restore">"Använd ditt Google-konto för att säkerhetskopiera appar, inställningar (som bokmärken och Wi-Fi-lösenord) och andra data.
+
+Du kan när som helst ändra dina inställningar för säkerhetskopiering i inställningarna."</string>
+    <string name="restoring_message">Surfplattan kontaktar Google för att återställa ditt konto. Det kan ta upp till fem minuter.</string>
+    <string name="restore_consent_yes_agree">Hämta appar, inställningar och andra data som du tidigare har säkerhetskopierat i ditt Google-konto till surfplattan.</string>
+</resources>

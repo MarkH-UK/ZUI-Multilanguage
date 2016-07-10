@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Google Play සේවා දෝෂය</string>
+    <string name="z">යෙදුමකට Google Play සේවාවන් සඳහා යාවත්කාලීනයක් අවශ්‍යය.</string>
+    <string name="a0">%1$s හට Android Wear යෙදුමට යාවත්කාලීන කිරීමක් අවශ්‍යයි.</string>
+    <string name="a1">යෙදුමකට Google Play සේවාවන් සබලව තිබීම අවශ්‍යය.</string>
+    <string name="a2">%1$s විසින් ඉල්ලා ඇත</string>
+    <string name="a3">Google Play සේවාවන් ලබා ගන්න</string>
+    <string name="a4">ඔබගේ දුරකථනයේ නැති Google Play සේවාවන් නොමැතිව %1$s ධාවනය නොවනු ඇත.</string>
+    <string name="a5">ඔබගේ ටැබ්ලටයේ නැති Google Play සේවාවන් නොමැතිව %1$s ධාවනය නොවනු ඇත.</string>
+    <string name="a6">Google Play සේවාවන් ලබා ගන්න</string>
+    <string name="a7">Google Play සේවාවන් සබල කරන්න</string>
+    <string name="a8">ඔබ Google Play සේවාවන් සබල කරන්නේ නම් මිස %1$s වැඩ නොකරනු ඇත.</string>
+    <string name="a9">Google Play සේවාවන් සබල කරන්න</string>
+    <string name="a_">Google Play සේවාවන් යාවත්කාලීන කරන්න</string>
+    <string name="aa">Android Wear යාවත්කාලීන කරන්න</string>
+    <string name="ab">Google Play සේවා යාවත්කාලීන කරන්නේ නොමැතිව %1$s ධාවනය නොවේ.</string>
+    <string name="ac">Android Wear යෙදුම ඔබ යාවත්කාලීන කළේ නැති නම් %1$s ධාවනය කළ නොහැක.</string>
+    <string name="ad">Google Play සේවා යාවත්කාලීන වේ</string>
+    <string name="ae">දැනට යාවත්කාලීන වන Google Play සේවා නොමැතිව %1$s ධාවනය නොවේ.</string>
+    <string name="af">ජාල දෝෂය</string>
+    <string name="ag">Google Play සේවාවන් වෙත සබැඳීමට දත්ත සබැඳුමක් අවශ්‍යය.</string>
+    <string name="ah">වලංගු නොවන ගිණුම</string>
+    <string name="ai">නියම කර දැක්වූ ගිණුම මෙම උපාංගය මත නොපවතී. කරුණාකර වෙනත් ගිණුමක් තෝරන්න.</string>
+    <string name="aj">Google Play සේවාවන් සමග නොදන්නා ගැටලුවක්.</string>
+    <string name="ak">Google Play සේවා</string>
+    <string name="al">%1$s Google Play සේවාවන් මත යැපෙන අතර, එය වෙත ඔබගේ උපාංගය සහාය නොදක්වයි. කරුණාකර සහාය සඳහා නිෂ්පාදකයා අමතන්න.</string>
+    <string name="am">යාවත්කාලීන කරන්න</string>
+    <string name="an">පිවිසෙන්න</string>
+    <string name="ao">Google සමගින් පුරනය වන්න</string>
+    <string name="ap">දුරකථනය තුළ විවෘත කරන්න</string>
+    <string name="aq">%1$s සඳහා දැනට නොපවතින Google Play සේවා එකක් හෝ කිහිපයක් අවශ්‍යයි. කරුණාකර සහාය සඳහා සංවර්ධක සම්බන්ධ කරගන්න.</string>
+    <string name="ar">පුරනය වීම අසාර්ථක විය</string>
+    <string name="as">විශේෂිත ගිණුම පුරනය කිරීමේදී දෝෂයක්. කරුණාකර වෙනස් ගිණුමක් තෝරන්න.</string>
+</resources>

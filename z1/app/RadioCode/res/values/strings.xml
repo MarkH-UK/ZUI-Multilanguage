@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RadioCode</string>
+    <string name="switch_function">Switch function:</string>
+    <string name="enable_switch">Enable Switch function?</string>
+    <string name="disable_switch">Disable Switch function?</string>
+    <string name="global_function">Global function:</string>
+    <string name="enable_ruim">Enable Support global function?</string>
+    <string name="disable_ruim">Disable Support global function?</string>
+    <string name="ue_function">UE mode:</string>
+    <string name="sglte">SGLTE+G</string>
+    <string name="csfb">CSFB+G</string>
+    <string name="cdma">CDMA+G</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="fdd">FDD-LTE:</string>
+    <string name="enable_fdd">FDD-LTE enabled</string>
+    <string name="disable_fdd">FDD-LTE disabled</string>
+    <string name="restart">restart modem?</string>
+    <string name="cmcc">Test Mode</string>
+    <string name="wcdma">enable suport WCDMA?</string>
+    <string name="switch_feature">Smart switch function</string>
+    <string name="global_feature">Global function</string>
+    <string name="fdd_feature">FDD-LTE</string>
+    <string name="ue_feature">UE mode</string>
+    <string name="wcdma_feature">Support WCDMA</string>
+    <string name="cmcc_test">Test Mode</string>
+    <string name="network_feature">disable set network mode</string>
+    <string name="hw_mode">set HW Mode</string>
+    <string name="cpu">Change CPU mode</string>
+    <string name="fdd_tdd">set network mode(FDD,TDD)</string>
+    <string name="nv_efs">NV_EFS</string>
+    <string name="nv_para">NV Para Config</string>
+    <string name="nv_idx">NV idx</string>
+    <string name="nv_value">NV Value</string>
+    <string name="nv_summary">Please splite the value by |</string>
+    <string name="nv_mode_title">NV Config mode</string>
+    <string name="efs_mode_title">EFS Config mode</string>
+    <string name="efs_para">EFS Config</string>
+    <string name="efs_source">EFS Souce Path</string>
+    <string name="efs_target">EFS Target Path</string>
+    <string name="efs_value">EFS Content</string>
+    <string name="test_active">active test card mode</string>
+    <string name="test_deactive">deactive test card mode</string>
+</resources>

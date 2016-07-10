@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafić</item>
+        <item>Benzinska postaja</item>
+        <item>Kino</item>
+        <item>Smještaj</item>
+        <item>Noćni klub</item>
+        <item>Muzej</item>
+        <item>Restoran</item>
+        <item>Trgovački centar</item>
+        <item>Trgovina</item>
+        <item>Trgovina ili supermarket</item>
+        <item>Ostalo</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>loša</item>
+        <item>solidna</item>
+        <item>dobra</item>
+        <item>jaka</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Izdanje</item>
+        <item>Programer</item>
+        <item>Maloprodaja</item>
+        <item>Demonstracija</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Telefon i automobil upotrebljavaju nekompatibilan softver. Za pojedinosti posjetite&lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Automobil je oglasio netočan skup audio i/ili videokonfiguracija.</item>
+        <item>"USB veza ne radi pravilno. Pokušajte sljedeće: 
+
+• Provjerite je li kabel pravilno priključen na oba kraja. 
+•Provjerite imate li podatkovni USB kabel. 
+•Provjerite jesu li datum i vrijeme pravilno podešeni za automobil i telefon."</item>
+        <item>U automobilu se prestala izvoditi funkcija Android Auto.</item>
+        <item>Sesija Android Auto prekinuta je na zahtjev.</item>
+        <item>Softver automobila možda je zastario. Za detalje i podršku obratite se proizvođaču.</item>
+        <item>Softver automobila nije prošao sigurnosne provjere Android Auto.</item>
+        <item>Softver vašeg automobila nije prošao sigurnosne provjere Android Auto. Provjerite jesu li datum i vrijeme u automobilu pravilno podešeni te je li aplikacija Android Auto ažurirana.</item>
+        <item>Vrijeme za radnju je isteklo. Napravite izvješće o programskoj pogrešci i pošaljite povratne informacije.</item>
+        <item>Čini se da pokretač nije instaliran. Je li vaš telefon pravilno podešen?</item>
+        <item>Grafički kanal upravo se srušio. Napravite izvješće o programskoj pogrešci i pošaljite povratne informacije.</item>
+        <item>Automobil ne odgovara na telefonske poruke. Možda je u pogrešnom stanju.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Zračna luka</item>
+        <item>Bankomat</item>
+        <item>Banka</item>
+        <item>Bar</item>
+        <item>Autobusna postaja</item>
+        <item>Kavana</item>
+        <item>Kampiralište</item>
+        <item>Groblje</item>
+        <item>Crkva</item>
+        <item>Gradska vijećnica</item>
+        <item>Ustanova</item>
+        <item>Benzinska postaja</item>
+        <item>Trgovina ili supermarket</item>
+        <item>Hinduski hram</item>
+        <item>Bolnica</item>
+        <item>Knjižnica</item>
+        <item>Smještaj</item>
+        <item>Džamija</item>
+        <item>Kino</item>
+        <item>Muzej</item>
+        <item>Park</item>
+        <item>Parkiralište</item>
+        <item>Vjerski objekt</item>
+        <item>Policijska postaja</item>
+        <item>Pošta</item>
+        <item>Restoran</item>
+        <item>Škola</item>
+        <item>Trgovina</item>
+        <item>Postaja podzemne željeznice</item>
+        <item>Sinagoga</item>
+        <item>Željeznička postaja</item>
+        <item>Stanica javnog prijevoza</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>siječanj</item>
+        <item>veljača</item>
+        <item>ožujak</item>
+        <item>travanj</item>
+        <item>svibanj</item>
+        <item>lipanj</item>
+        <item>srpanj</item>
+        <item>kolovoz</item>
+        <item>rujan</item>
+        <item>listopad</item>
+        <item>studeni</item>
+        <item>prosinac</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Zaustavi dijeljenje</item>
+        <item>15 min</item>
+        <item>30 min</item>
+        <item>1 h</item>
+        <item>Neograničeno</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Prestani dijeliti</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>1 sat</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Odaberite sigurnosno pitanje</item>
+        <item>Prvi broj telefona?</item>
+        <item>Ime najboljeg prijatelja iz djetinjstva?</item>
+        <item>Ime prve učiteljice?</item>
+        <item>Ime šefa na vašem prvom poslu?</item>
+        <item>Registracijski broj vozila?</item>
+    </string-array>
+</resources>

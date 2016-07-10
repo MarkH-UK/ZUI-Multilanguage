@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Ekki er hægt að nota þennan reikning vegna þess að eftirfarandi forrit vantar: ^1. Hafðu samband við lénsstjóra "&lt;b>^2&lt;/b>" eða skráðu þig inn með öðrum reikningi. "</item>
+        <item quantity="one">" Ekki er hægt að nota þennan reikning vegna þess að eftirfarandi forrit vantar: ^1. Hafðu samband við lénsstjóra "&lt;b>^2&lt;/b>" eða skráðu þig inn með öðrum reikningi. "</item>
+    </plurals>
+</resources>

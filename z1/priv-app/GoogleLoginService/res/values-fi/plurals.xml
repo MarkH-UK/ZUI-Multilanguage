@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Tiliä ei voi käyttää, koska siltä puuttuvat seuraavat sovellukset: ^1. Ota yhteyttä kohteen "&lt;b>^2&lt;/b>" järjestelmänvalvojaan tai kirjaudu sisään toisella tilillä. "</item>
+        <item quantity="one">" Tiliä ei voi käyttää, koska siltä puuttuu seuraava sovellus: ^1. Ota yhteyttä kohteen "&lt;b>^2&lt;/b>" järjestelmänvalvojaan tai kirjaudu sisään toisella tilillä. "</item>
+    </plurals>
+</resources>

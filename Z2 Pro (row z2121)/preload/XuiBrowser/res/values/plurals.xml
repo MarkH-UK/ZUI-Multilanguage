@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_hours">
+        <item quantity="other">%d 小时</item>
+        <item quantity="one">1 小时</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d 分钟</item>
+        <item quantity="one">1 分钟</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d 秒</item>
+        <item quantity="one">1 秒</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">正在等待下载 %d 个文件</item>
+        <item quantity="one">正在等待下载 1 个文件</item>
+    </plurals>
+</resources>

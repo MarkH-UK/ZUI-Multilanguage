@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">超出 %1$d 個字元</item>
+        <item quantity="one">超出 %1$d 個字元</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">尚餘 %1$d 個字元</item>
+        <item quantity="one">尚餘 %1$d 個字元</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d 個 Google 帳戶</item>
+        <item quantity="one">%d 個 Google 帳戶</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">這部裝置已用於設定^1 (使用您的 Google 帳戶及其資料)</item>
+        <item quantity="one">這部裝置已用於設定^1 (使用您的 Google 帳戶及其資料)</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d 小時</item>
+        <item quantity="one">1 小時</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d 分鐘</item>
+        <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">發生錯誤，無法傳送邀請</item>
+        <item quantity="one">發生錯誤，無法傳送邀請</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">目前無法傳送這些邀請，您可以在 Google Play > [我的帳戶] 再次傳送。</item>
+        <item quantity="one">目前無法傳送此邀請，您可以在 Google Play > [我的帳戶] 再次傳送。</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">還有 %d 個邀請</item>
+        <item quantity="one">還有 %d 項邀請</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d 個新訊息</item>
+        <item quantity="one">1 個新訊息</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">您前面有 %1$d 人</item>
+        <item quantity="one">您前面有 1 人</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d 個社交圈</item>
+        <item quantity="one">1 個社交圈</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d 天</item>
+        <item quantity="one">1 天</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d 小時</item>
+        <item quantity="one">1 小時</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d 分鐘</item>
+        <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d 天</item>
+        <item quantity="one">1 天</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d 小時</item>
+        <item quantity="one">1 小時</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d 分鐘</item>
+        <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d 人</item>
+        <item quantity="one">1 人</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">「%1$s」和另外 %2$d 個應用程式</item>
+        <item quantity="one">「%1$s」和另外 %2$d 個應用程式</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d 天</item>
+        <item quantity="one">%d 天</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d 小時</item>
+        <item quantity="one">%d 小時</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d 分鐘</item>
+        <item quantity="one">%d 分鐘</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s 人</item>
+        <item quantity="one">%1$s 人</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d 位追隨者</item>
+        <item quantity="one">1 位追蹤者</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d觀看次數：COUNT_2 次</item>
+        <item quantity="one">觀看次數：1 次</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">正在複製你的「Google 帳戶」和資料…</item>
+        <item quantity="one">正在複製你的「Google 帳戶」和資料…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">此裝置已用作設定 ^1 (使用你的「Google 帳戶」和資料)</item>
+        <item quantity="one">此裝置已用作設定一部 ^1 (使用你的「Google 帳戶」和資料)</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">將在 %d 秒後重新開機進行安裝…</item>
+        <item quantity="one">將在 1 秒後重新開機進行安裝…</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">目前顯示的清單含有 %1$d 個地址選項</item>
+        <item quantity="one">目前顯示的清單含有 1 個地址選項</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">目前顯示的清單含有 %1$d 個項目。</item>
+        <item quantity="one">目前顯示的清單含有 1 個項目。</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">目前顯示的清單含有 %1$d 個付款方式選項</item>
+        <item quantity="one">目前顯示的清單含有 1 個付款方式選項</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">目前顯示的清單含有 %1$d 個會員方案選項</item>
+        <item quantity="one">目前顯示的清單含有 1 個會員方案選項</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">分鐘</item>
+        <item quantity="one">分鐘</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每 %2$d 天會自動向您收取 %1$s&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每天會自動向您收取 %1$s&amp;lt;/price>。</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 天內，系統&amp;lt;price>每 %2$d 天會自動向您收取 %1$s&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 天內，系統&amp;lt;price>每天會自動向您收取 %1$s&amp;lt;/price>。</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每 %2$d 天會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每天會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 天內，系統&amp;lt;price>每 %2$d 天會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 天內，系統&amp;lt;price>每天會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每 %2$d 個月會自動向您收取 %1$s&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每個月會自動向您收取 %1$s&amp;lt;/price>。</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 個月內，系統&amp;lt;price>每 %2$d 個月會自動向您收取 %1$s&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 個月內，系統&amp;lt;price>每個月會自動向您收取 %1$s&amp;lt;/price>。</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每 %2$d 個月會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每個月會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 個月內，系統&amp;lt;price>每 %2$d 個月會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 個月內，系統&amp;lt;price>每個月會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每 %2$d 年會自動向您收取 %1$s&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每年會自動向您收取 %1$s&amp;lt;/price>。</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 年內，系統&amp;lt;price>每 %2$d 年會自動向您收取 %1$s&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 年內，系統&amp;lt;price>每年會自動向您收取 %1$s&amp;lt;/price>。</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每 %2$d 年會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%3$s&amp;lt;/start_time>起到您取消訂閱為止，系統&amp;lt;price>每年會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 年內，系統&amp;lt;price>每 %2$d 年會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+        <item quantity="one">自 &amp;lt;start_time>%4$s&amp;lt;/start_time>起 &amp;lt;duration>%3$d&amp;lt;/duration> 年內，系統&amp;lt;price>每年會自動向您收取 %1$s 和所有適用稅金&amp;lt;/price>。</item>
+    </plurals>
+</resources>

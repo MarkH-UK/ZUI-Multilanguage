@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Răspuns</item>
+        <item>Răspuns tuturor</item>
+        <item>Redirecţionare</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>O linie</item>
+        <item>Două linii</item>
+        <item>Trei linii</item>
+        <item>Patru linii</item>
+        <item>Cinci linii</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Foarte mic</item>
+        <item>Mic</item>
+        <item>Normal</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Recente</item>
+        <item>Format</item>
+        <item>Nume</item>
+        <item>De la</item>
+        <item>Dată</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Mesaje rapide</item>
+        <item>Toate folderele</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Conversaţia următoare</item>
+        <item>Conversaţia anterioară</item>
+        <item>Listă conversaţii</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Afişare numai elementele arhivate</item>
+        <item>Afişare numai elementele şterse</item>
+        <item>Afişare elemente arhivate şi şterse</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Afişaţi conversaţia următoare după ce ştergeţi</item>
+        <item>Afişaţi conversaţia anterioară după ce ştergeţi</item>
+        <item>Afişaţi lista de conversaţii după ce ştergeţi</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Afişare numai elementele arhivate</item>
+        <item>Afişare numai elementele şterse</item>
+        <item>Afişare elemente arhivate şi şterse</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresă:</item>
+        <item>Tel:</item>
+        <item>Nume:</item>
+        <item>E-mail:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Cod poştal:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Mulţumim,</item>
+        <item>Toate cele bune</item>
+        <item>Trimis de pe</item>
+        <item>E-mail original</item>
+        <item>Trimis de pe</item>
+        <item>Trimis de la</item>
+        <item>De la</item>
+        <item>Acest e-mail</item>
+        <item>Declinarea răspunderii</item>
+        <item>E-mail de declinare a răspunderii</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sincronizarea a reuşit</item>
+        <item>Eroare de conectare la reţea</item>
+        <item>Conectare nereuşită</item>
+        <item>Eroare de conectare sigură</item>
+        <item>Sincronizarea a eşuat</item>
+        <item>Eroare de server</item>
+    </string-array>
+</resources>

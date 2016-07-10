@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="udc_settings_info_background_daynight">@color/material_blue_grey_800</color>
+</resources>

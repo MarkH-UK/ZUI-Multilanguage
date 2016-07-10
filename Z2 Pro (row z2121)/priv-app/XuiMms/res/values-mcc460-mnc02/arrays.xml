@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="retry_scheme">
+        <item>0</item>
+        <item>5000</item>
+        <item>5000</item>
+        <item>5000</item>
+        <item>60000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </integer-array>
+</resources>

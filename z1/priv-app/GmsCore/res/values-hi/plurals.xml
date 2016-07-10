@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">सीमा से %1$d वर्ण अधिक हैं</item>
+        <item quantity="one">सीमा से %1$d वर्ण अधिक हैं</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d वर्ण शेष हैं</item>
+        <item quantity="one">%1$d वर्ण शेष हैं</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google खाते</item>
+        <item quantity="one">%d Google खाते</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">आपके Google खातों और उनके डेटा के साथ ^1 को सेट करने के लिए इस डिवाइस का उपयोग किया गया था</item>
+        <item quantity="one">आपके Google खातों और उनके डेटा के साथ ^1 को सेट करने के लिए इस डिवाइस का उपयोग किया गया था</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">%d घंटे</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">%d मिनट</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">किसी त्रुटि के कारण ये आमंत्रण नहीं भेजे गए</item>
+        <item quantity="one">किसी त्रुटि के कारण यह आमंत्रण नहीं भेजा गया</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">ये आमंत्रण इस समय नहीं भेजे जा सकते. आप उन्हें Google Play > मेरा खाता से फिर से भेज सकते हैं.</item>
+        <item quantity="one">यह आमंत्रण इस समय नहीं भेजा जा सकता. आप उसे Google Play > मेरा खाता से फिर से भेज सकते हैं.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d आमंत्रण शेष</item>
+        <item quantity="one">%d आमंत्रण शेष</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d नए संदेश</item>
+        <item quantity="one">%1$d नए संदेश</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d लोग आपसे आगे हैं</item>
+        <item quantity="one">%1$d लोग आपसे आगे हैं</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d मंडलियां</item>
+        <item quantity="one">%d मंडलियां</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d दिन</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">%d घंटे</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">%d मिनट</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d दिन</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">%d घंटे</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">%d मिनट</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d लोग</item>
+        <item quantity="one">%d लोग</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s और %2$d अन्य ऐप्स के द्वारा</item>
+        <item quantity="one">%1$s और %2$d अन्य ऐप्स के द्वारा</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d दिन</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">%d घंटे</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">%d मिनट</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s लोग</item>
+        <item quantity="one">%1$s लोग</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d अनुसरणकर्ता</item>
+        <item quantity="one">%1$,d अनुसरणकर्ता</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d बार देखी गई</item>
+        <item quantity="one">%1$,d बार देखी गई</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">आपके Google खातों और डेटा को काॅपी किया जा रहा है…</item>
+        <item quantity="one">आपके Google खातों और डेटा को काॅपी किया जा रहा है…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">इस डिवाइस का उपयोग आपके Google खातों और डेटा के साथ ^1 सेट करने के लिए किया गया था</item>
+        <item quantity="one">इस डिवाइस का उपयोग आपके Google खातों और डेटा के साथ ^1 सेट करने के लिए किया गया था</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">इंस्टॉल करने के लिए %d सेकंड में रीबूट कर रहा है…</item>
+        <item quantity="one">इंस्टॉल करने के लिए 1 सेकंड में रीबूट कर रहा है…</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">%1$d पता विकल्पों की सूची दिखाई जा रही है</item>
+        <item quantity="one">%1$d पता विकल्पों की सूची दिखाई जा रही है</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">%1$d आइटम की सूची दिखाई जा रही है.</item>
+        <item quantity="one">%1$d आइटम की सूची दिखाई जा रही है.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">%1$d भुगतान विधि विकल्पों की सूची दिखाई जा रही है</item>
+        <item quantity="one">%1$d भुगतान विधि विकल्पों की सूची दिखाई जा रही है</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">%1$d लॉयल्टी कार्यक्रम विकल्पों की सूची दिखाई जा रही है</item>
+        <item quantity="one">%1$d लॉयल्टी कार्यक्रम विकल्पों की सूची दिखाई जा रही है</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">मिनट</item>
+        <item quantity="one">मिनट</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करके स्वचालित रूप से &amp;lt;price>%1$s प्रति %2$d दिनों के लिए&amp;lt;/price> शुल्क लिया जाएगा.</item>
+        <item quantity="one">जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करके स्वचालित रूप से &amp;lt;price>%1$s प्रति %2$d दिनों के लिए&amp;lt;/price> शुल्क लिया जाएगा.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करते हुए अगले &amp;lt;duration>%3$d दिनों&amp;lt;/duration> तक स्वचालित रूप से &amp;lt;price>%1$s प्रति %2$d दिनों&amp;lt;/price> के लिए शुल्क लिया जाएगा.</item>
+        <item quantity="one">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करते हुए अगले &amp;lt;duration>%3$d दिनों&amp;lt;/duration> तक स्वचालित रूप से &amp;lt;price>%1$s प्रति %2$d दिनों&amp;lt;/price> के लिए शुल्क लिया जाएगा.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करते हुए &amp;lt;price>%1$s शुल्क और लागू टैक्स प्रत्येक %2$d दिनों के लिए&amp;lt;/price> स्वचालित रूप से लिया जाएगा.</item>
+        <item quantity="one">जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करते हुए &amp;lt;price>%1$s शुल्क और लागू टैक्स प्रत्येक %2$d दिनों के लिए&amp;lt;/price> स्वचालित रूप से लिया जाएगा.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करके अगले &amp;lt;duration>%3$d दिनों &amp;lt;/duration> के लिए &amp;lt;price>%1$s और लागू टैक्स प्रत्येक %2$d दिनों के लिए &amp;lt;/price> स्वचालित रूप से लिया जाएगा.</item>
+        <item quantity="one">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करके अगले &amp;lt;duration>%3$d दिनों &amp;lt;/duration> के लिए &amp;lt;price>%1$s और लागू टैक्स प्रत्येक %2$d दिनों के लिए &amp;lt;/price> स्वचालित रूप से लिया जाएगा.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करके &amp;lt;price>%1$s प्रत्येक %2$d महीने&amp;lt;/price> स्वचालित रूप से लिया जाएगा.</item>
+        <item quantity="one">जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करके &amp;lt;price>%1$s प्रत्येक %2$d महीने&amp;lt;/price> स्वचालित रूप से लिया जाएगा.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करके अगले &amp;lt;duration>%3$d महीनों&amp;lt;/duration> के लिए &amp;lt;price>%1$s प्रति %2$d महीने&amp;lt;/price> स्वचालित रूप से शुल्क लिया जाएगा.</item>
+        <item quantity="one">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करके अगले &amp;lt;duration>%3$d महीनों&amp;lt;/duration> के लिए &amp;lt;price>%1$s प्रति %2$d महीने&amp;lt;/price> स्वचालित रूप से शुल्क लिया जाएगा.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करके &amp;lt;price>%1$s और लागू टैक्स प्रति %2$d महीने&amp;lt;/price> स्वचालित रूप से शुल्क लिया जाएगा.</item>
+        <item quantity="one">जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करके &amp;lt;price>%1$s और लागू टैक्स प्रति %2$d महीने&amp;lt;/price> स्वचालित रूप से शुल्क लिया जाएगा.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करके अगले &amp;lt;duration>%3$d महीनों&amp;lt;/duration> के लिए &amp;lt;price>%1$s और लागू टैक्स प्रति %2$d महीने&amp;lt;/price> स्वचालित रूप से शुल्क लिया जाएगा.</item>
+        <item quantity="one">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करके अगले &amp;lt;duration>%3$d महीनों&amp;lt;/duration> के लिए &amp;lt;price>%1$s और लागू टैक्स प्रति %2$d महीने&amp;lt;/price> स्वचालित रूप से शुल्क लिया जाएगा.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करके &amp;lt;price>%1$s प्रति %2$d वर्षों&amp;lt;/price> के लिए स्वचालित रूप से शुल्क लिया जाएगा.</item>
+        <item quantity="one">जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करके &amp;lt;price>%1$s प्रति %2$d वर्ष&amp;lt;/price> के लिए स्वचालित रूप से शुल्क लिया जाएगा.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करके अगले &amp;lt;duration>%3$d वर्षों&amp;lt;/duration> के लिए &amp;lt;price>%1$s प्रति %2$d वर्ष&amp;lt;/price> स्वचालित रूप से शुल्क लिया जाएगा.</item>
+        <item quantity="one">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करके अगले &amp;lt;duration>%3$d वर्षों&amp;lt;/duration> के लिए &amp;lt;price>%1$s प्रति %2$d वर्ष&amp;lt;/price> स्वचालित रूप से शुल्क लिया जाएगा.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">s जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करके &amp;lt;price>%1$s और लागू टैक्स प्रति %2$d वर्षों&amp;lt;/price> के लिए स्वचालित रूप से लिया जाएगा.</item>
+        <item quantity="one">s जब तक आप अपनी सदस्यता रोक नहीं देते, तब तक आपसे &amp;lt;start_time>%3$s&amp;lt;/start_time> से शुरू करके &amp;lt;price>%1$s और लागू टैक्स प्रति %2$d वर्षों&amp;lt;/price> के लिए स्वचालित रूप से लिया जाएगा.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करके अगले &amp;lt;duration>%3$d वर्षों&amp;lt;/duration> के लिए &amp;lt;price>%1$s और लागू टैक्स प्रति %2$d वर्ष&amp;lt;/price> स्वचालित रूप से शुल्क लिया जाएगा.</item>
+        <item quantity="one">आपसे &amp;lt;start_time>%4$s&amp;lt;/start_time> से शुरू करके अगले &amp;lt;duration>%3$d वर्षों&amp;lt;/duration> के लिए &amp;lt;price>%1$s और लागू टैक्स प्रति %2$d वर्ष&amp;lt;/price> स्वचालित रूप से शुल्क लिया जाएगा.</item>
+    </plurals>
+</resources>

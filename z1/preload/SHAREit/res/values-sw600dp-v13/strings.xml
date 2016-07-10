@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clone_clone_guide_mask_tip1">Click here to import the apps, contacts, pictures, etc. from the Sender.</string>
+    <string name="clone_clone_guide_mask_tip2">Click here to export the apps, contacts, pictures, etc. into the Receiver.</string>
+    <string name="clone_clone_host_initing">Starting WLAN hotspot</string>
+    <string name="clone_clone_host_stoped">Clone stopped</string>
+    <string name="clone_discover_info1">For another device, click \"%s\"</string>
+    <string name="clone_receive_info">For another device, click \"%s\"</string>
+    <string name="clone_host_client_finished_detail">Tip: If you need to clean up this device data to prevent loss of privacy, select [System Settings], restore factory settings</string>
+    <string name="clone_content_category_file_info">Multimedia file save to the same path as the Sender</string>
+    <string name="clone_help_question1">Q1: How to import data into the Receiver from the Sender?</string>
+    <string name="clone_help_answer1">A: Respectively click \"Sender\" and \"Receiver\" to install \"CLONEit\" on both the two devices.</string>
+    <string name="clone_help_answer2">"A: The existing data on the Receiver won't be downloaded repeatedly.
+ Once the imported contacts, SMS, etc. over the limit of storage space, the system will merge the data on the two devices, and then save the latest data."</string>
+    <string name="clone_help_answer3">"A: 1. After cloning, contacts, SMS, personal profile, etc. will be automatically saved to the Receiver.For example, contacts will be saved to the Contact List.
+2. Photos, music, videos, etc. will be saved to the same directory as the Sender, and they may be played through using corresponding player software."</string>
+    <string name="clone_help_answer4">A: If the device has the ROOT permission, the system will automatically install and import/export all data. Please give permission to with ease.</string>
+    <string name="clone_wizard_found_old_phone">Sender not found?</string>
+    <string name="clone_wizard_found_new_phone">Receiver not found?</string>
+    <string name="clone_intro_tip1_info">Install \"CLONEit\" on the Sender~</string>
+    <string name="clone_intro_tip2_info1">Open \"CLONEit\" on the Sender</string>
+    <string name="clone_intro_tip2_info3">Select \"Sender\"</string>
+    <string name="clone_backup_intro_tip2_info3">Select \"Receiver\"</string>
+    <string name="clone_intro_tip3_info">Wait to be found by Sender</string>
+    <string name="clone_wizard_tips">"Please confirm on the old device: 
+Open\"CLONEit\", enter into \"CLONEit\" Select \"Sender\""</string>
+    <string name="clone_wizard_button_finished">OK, start using the new device</string>
+    <string name="clone_wizard_help_title">Operating Guide for the Sender</string>
+    <string name="clone_wizard_help_qrcode_title">Import from the Sender(with zero traffic)</string>
+    <string name="clone_wizard_help_qrcode_intro1">The Sender only supports Android system</string>
+    <string name="clone_wizard_help_qrcode_intro2">Install CLONEit on the Sender</string>
+    <string name="clone_wizard_help_demo_title">Open CLONEit on the Sender</string>
+    <string name="clone_wizard_help_demo_intro1">"Open CLONEit on the Sender, Click CLONEit, and select 'Sender'"</string>
+    <string name="clone_wizard_later">Migrated later, start using new device</string>
+    <string name="clone_wizard_summary">Say goodbye to the old device, contacts, text messages, photos, applications %1$s</string>
+    <string name="clone_wizard_from_old_phone">Old device data will be migrated to this device(Zero traffic)</string>
+    <string name="clone_wizard_from_old_phone_summary">only Android devices supported</string>
+</resources>

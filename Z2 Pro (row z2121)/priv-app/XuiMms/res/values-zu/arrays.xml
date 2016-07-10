@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>asikho isihloko</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 isekhondi</item>
+        <item>2 amasekhondi</item>
+        <item>3 amasekhondi</item>
+        <item>4 amasekhondi</item>
+        <item>5 amasekhondi</item>
+        <item>6 amasekhondi</item>
+        <item>7 amasekhondi</item>
+        <item>8 amasekhondi</item>
+        <item>9 amasekhondi</item>
+        <item>10 amasekhondi</item>
+        <item>Okunye</item>
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_icon_width">28.0dip</dimen>
+    <dimen name="setting_header_icon_width">28.0dip</dimen>
+    <dimen name="setting_header_icon_height">28.0dip</dimen>
+    <dimen name="net_type_layout_item_height">24.0dip</dimen>
+    <dimen name="card_name_layout_item_height">52.0dip</dimen>
+    <dimen name="card_name_layout_item_cancel_height">58.0dip</dimen>
+    <dimen name="category_margin_left">16.0dip</dimen>
+    <dimen name="category_margin_right">40.0dip</dimen>
+    <dimen name="item_margin">6.0dip</dimen>
+    <dimen name="item_margin_top">7.0dip</dimen>
+    <dimen name="item_margin_bottom">6.0dip</dimen>
+    <dimen name="item_top_margin">8.0dip</dimen>
+    <dimen name="item_right_margin">40.0dip</dimen>
+    <dimen name="new_card_margin_39">16.0dip</dimen>
+    <dimen name="new_card_margin_27">11.0dip</dimen>
+    <dimen name="new_card_margin_69">28.0dip</dimen>
+    <dimen name="new_card_margin_45">18.0dip</dimen>
+    <dimen name="new_card_margin_36">14.0dip</dimen>
+    <dimen name="new_card_margin_57">23.0dip</dimen>
+    <dimen name="set_bg_top_margin">8.0dip</dimen>
+    <dimen name="card_set_list_height">101.0dip</dimen>
+    <dimen name="card_left_margin">22.0dip</dimen>
+    <dimen name="font_one_size">15.0sp</dimen>
+    <dimen name="font_second_size">12.0sp</dimen>
+    <dimen name="font_sub_title_size">13.0sp</dimen>
+</resources>

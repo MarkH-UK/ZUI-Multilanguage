@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:lenovo="http://schemas.android.com/apk/res-auto">
+    <com.lenovo.xuieasysync.main.view.SyncSwithPreference android:layout="@layout/preference_label_switch" android:title="@string/photo_backup_auto_title" android:key="auto_backup" />
+    <com.lenovo.xuieasysync.main.view.MainSyncTipPreference android:key="sync_desc" lenovo:type="2" />
+    <com.lenovo.xuieasysync.main.view.SyncSwithPreference android:layout="@layout/preference_label_switch" android:title="@string/photo_backup_auto_charge" android:key="auto_backup_charge" />
+    <com.lenovo.xuieasysync.main.view.MainSyncTipPreference android:key="sync_tip" lenovo:type="3" />
+    <com.lenovo.xuieasysync.main.view.SyncPreference android:layout="@layout/preference_label" android:title="@string/photo_backup_space" android:key="space" lenovo:showMore="false" lenovo:showDivider="false" />
+</PreferenceScreen>

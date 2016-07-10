@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apn_auth_entries">
+        <item>无</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP 或 CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>未指定</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>无</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="apn_carrier_enabled_entries">
+        <item>APN 已停用</item>
+        <item>APN 已启用</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>4G/3G/2G(4G 优先)</item>
+        <item>3G/2G</item>
+    </string-array>
+    <string-array name="entries_show_type_array">
+        <item>前4位</item>
+        <item>后4位</item>
+        <item>不显示</item>
+    </string-array>
+    <string-array name="show_roaming_tips_entries">
+        <item>一次</item>
+        <item>总是</item>
+        <item>从不</item>
+    </string-array>
+</resources>

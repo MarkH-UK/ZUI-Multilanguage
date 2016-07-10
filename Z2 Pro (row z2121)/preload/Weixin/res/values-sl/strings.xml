@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Napaka storitev Google Play</string>
+    <string name="z">Za delovanje aplikacije morate posodobiti storitve Google Play.</string>
+    <string name="a0">Aplikacija %1$s zahteva posodobitev aplikacije Android Wear.</string>
+    <string name="a1">Za delovanje aplikacije morate omogočiti storitve Google Play.</string>
+    <string name="a2">Zahteva aplikacije %1$s</string>
+    <string name="a3">Namestite storitve Google Play</string>
+    <string name="a4">Aplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v telefonu.</string>
+    <string name="a5">Aplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v tabličnem računalniku.</string>
+    <string name="a6">Namestite storitve Google Play</string>
+    <string name="a7">Omogočite storitve Google Play</string>
+    <string name="a8">Aplikacija %1$s ne bo delovala, če ne omogočite storitev Google Play.</string>
+    <string name="a9">Omogočite storitve Google Play</string>
+    <string name="a_">Posodobite storitve Google Play</string>
+    <string name="aa">Posodobitev aplikacije Android Wear</string>
+    <string name="ab">Aplikacija %1$s ne bo delovala, če ne posodobite storitev Google Play.</string>
+    <string name="ac">Aplikacija %1$s ne bo delovala, če ne posodobite aplikacije Android Wear.</string>
+    <string name="ad">Storitve Google Play se posodabljajo</string>
+    <string name="ae">Aplikacija %1$s ne deluje brez storitev Google Play, ki se trenutno posodabljajo.</string>
+    <string name="af">Omrežna napaka</string>
+    <string name="ag">Za povezavo s storitvami Google Play potrebujete internetno povezavo.</string>
+    <string name="ah">Neveljaven račun</string>
+    <string name="ai">V tej napravi ne obstaja navedeni račun. Izberite drugega.</string>
+    <string name="aj">Neznana težava s storitvami Google Play.</string>
+    <string name="ak">Storitve Google Play</string>
+    <string name="al">Aplikacija %1$s potrebuje storitve Google Play, ki jih vaša naprava ne podpira. Za pomoč se obrnite na proizvajalca.</string>
+    <string name="am">Posodobi</string>
+    <string name="an">Prijava</string>
+    <string name="ao">Prijavite se v Google</string>
+    <string name="ap">Odpiranje v telefonu</string>
+    <string name="aq">Aplikacija %1$s potrebuje eno ali več storitev za Google Play, ki trenutno niso na voljo. Za pomoč se obrnite na razvijalca.</string>
+    <string name="ar">Prijava ni uspela</string>
+    <string name="as">Napaka pri prijavi v izbran račun. Izberite drug račun.</string>
+</resources>

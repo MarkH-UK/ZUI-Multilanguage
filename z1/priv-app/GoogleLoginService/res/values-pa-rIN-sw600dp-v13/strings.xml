@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">ਤੁਹਾਡਾ ਨਾਮ ਤੁਹਾਡੀ ਟੈਬਲੇਟ ਅਤੇ Google ਸੇਵਾਵਾਂ ਨੂੰ ਨਿੱਜੀ ਬਣਾਉਣ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ।</string>
+    <string name="name_title_local">ਇਹ ਟੈਬਲੇਟ ਸੰਬੰਧਿਤ ਹੈ…</string>
+    <string name="name_text_local">ਟੈਬਲੇਟ ਕੁਝ ਐਪਸ ਨੂੰ ਨਿੱਜੀ ਬਣਾਉਣ ਲਈ ਤੁਹਾਡਾ ਨਾਮ ਵਰਤਦੀ ਹੈ।</string>
+    <string name="communicating_message">ਤੁਹਾਡੀ ਟੈਬਲੇਟ ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਰੀਸਟੋਰ ਕਰਨ ਲਈ Google ਨੂੰ ਸੰਪਰਕ ਕਰ ਰਹੀ ਹੈ। ਇਸ ਵਿੱਚ 5 ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ।</string>
+    <string name="checking_username_message">"ਤੁਹਾਡੀ ਟੈਬਲੇਟ ਇਹ ਦੇਖਣ ਲਈ Google ਨੂੰ ਸੰਪਰਕ ਕਰ ਰਹੀ ਹੈ ਕਿ ਤੁਹਾਡਾ ਇੱਛਤ ਉਪਭੋਗਤਾ ਨਾਮ ਉਪਲਬਧ ਹੈ ਜਾਂ ਨਹੀਂ।
+
+ਇਸ ਵਿੱਚ ਥੋੜ੍ਹੀ ਦੇਰ ਲੱਗ ਸਕਦੀ ਹੈ।"</string>
+    <string name="wait_for_device_country_msg">ਤੁਹਾਡੀ ਟੈਬਲੇਟ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇਕੱਤਰ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਵਿੱਚ 30 ਸਕਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ।</string>
+    <string name="backup_consent_message">"ਆਪਣਾ Google ਖਾਤਾ ਆਪਣੇ ਐਪਸ, ਸੈਟਿੰਗਾਂ (ਜਿਵੇਂ ਬੁੱਕਮਾਰਕ ਅਤੇ Wi-Fi ਪਾਸਵਰਡ) ਅਤੇ ਹੋਰ ਡਾਟਾ ਬੈਕ ਅਪ ਕਰਨ ਲਈ ਵਰਤੋ। ਜੇਕਰ ਤੁਸੀਂ ਪਹਿਲਾਂ ਆਪਣਾ ਖਾਤਾ ਬੈਕ ਅਪ ਕੀਤਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਇਸਨੂੰ ਹੁਣ ਇਸ ਟੈਬਲੇਟ ਤੇ ਸਟੋਰ ਕਰ ਸਕਦੇ ਹੋ। 
+
+ਤੁਸੀਂ ਆਪਣੀਆਂ ਬੈਕਅਪ ਸੈਟਿੰਗਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਸਮੇਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬਦਲ ਸਕਦੇ ਹੋ।"</string>
+    <string name="backup_consent_message_no_restore">"ਆਪਣਾ Google ਖਾਤਾ ਆਪਣੇ ਐਪਸ, ਸੈਟਿੰਗਾਂ (ਜਿਵੇਂ ਬੁੱਕਮਾਰਕ ਅਤੇ Wi-Fi ਪਾਸਵਰਡ) ਅਤੇ ਹੋਰ ਡਾਟਾ ਬੈਕ ਅਪ ਕਰਨ ਲਈ ਵਰਤੋ।
+
+ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕਿਸੇ ਵੀ ਸਮੇਂ ਆਪਣੀਆਂ ਬੈਕਅਪ ਸੈਟਿੰਗਾਂ ਬਦਲ ਸਕਦੇ ਹੋ।"</string>
+    <string name="restoring_message">ਤੁਹਾਡੀ ਟੈਬਲੇਟ ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਰੀਸਟੋਰ ਕਰਨ ਲਈ Google ਨੂੰ ਸੰਪਰਕ ਕਰ ਰਹੀ ਹੈ। ਇਸ ਵਿੱਚ 5 ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ।</string>
+    <string name="restore_consent_yes_agree">ਉਹਨਾਂ ਐਪਸ, ਸੈਟਿੰਗਾਂ ਅਤੇ ਹੋਰ ਡਾਟਾ ਨੂੰ ਇਸ ਟੈਬਲੇਟ ਤੇ ਲਿਆਓ, ਜੋ ਤੁਸੀਂ ਪਹਿਲਾਂ ਆਪਣੇ Google ਖਾਤੇ ਵਿੱਚ ਬੈਕ ਅਪ ਕੀਤਾ ਸੀ।</string>
+</resources>

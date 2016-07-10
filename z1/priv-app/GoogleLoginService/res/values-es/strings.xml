@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Error de servicios de Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Una aplicación requiere la instalación de servicios de Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Una aplicación requiere una actualización de servicios de Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Una aplicación necesita que Android Wear se actualice.</string>
+    <string name="common_google_play_services_needs_enabling_title">Una aplicación requiere que se habiliten los servicios de Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Solicitada por %1$s</string>
+    <string name="common_google_play_services_install_title">Descargar servicios de Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Esta aplicación no se ejecutará si tu teléfono no tiene instalados los servicios de Google Play.</string>
+    <string name="common_google_play_services_install_text_tablet">Esta aplicación no se ejecutará si tu tablet no tiene instalados los servicios de Google Play.</string>
+    <string name="common_google_play_services_install_button">Descargar servicios de Google Play</string>
+    <string name="common_google_play_services_enable_title">Habilitar servicios de Google Play</string>
+    <string name="common_google_play_services_enable_text">Esta aplicación no funcionará si no habilitas los servicios de Google Play.</string>
+    <string name="common_google_play_services_enable_button">Habilitar servicios de Google Play</string>
+    <string name="common_google_play_services_update_title">Actualizar servicios de Google Play</string>
+    <string name="common_android_wear_update_title">Actualizar Android Wear</string>
+    <string name="common_google_play_services_update_text">Esta aplicación no se ejecutará si no actualizas los servicios de Google Play.</string>
+    <string name="common_android_wear_update_text">Esta aplicación no se ejecutará hasta que actualices Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Error de red</string>
+    <string name="common_google_play_services_network_error_text">Se necesita una conexión de datos para establecer conexión con los servicios de Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Cuenta no válida</string>
+    <string name="common_google_play_services_invalid_account_text">La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta.</string>
+    <string name="common_google_play_services_unknown_issue">Error desconocido relacionado con los servicios de Google Play</string>
+    <string name="common_google_play_services_unsupported_title">Servicios de Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Tu dispositivo no es compatible con los servicios de Google Play, de los cuales dependen tus aplicaciones. Para obtener asistencia, ponte en contacto el fabricante.</string>
+    <string name="common_google_play_services_update_button">Actualizar</string>
+    <string name="common_signin_button_text">Iniciar sesión</string>
+    <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
+    <string name="common_open_on_phone">Abrir en teléfono</string>
+    <string name="wallet_buy_button_place_holder">Comprar con Google</string>
+    <string name="setup_wizard_next_button_label">Siguiente</string>
+    <string name="setup_wizard_back_button_label">Atrás</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Saltar</string>
+    <string name="down_button_label">Más</string>
+    <string name="cancel_button_label">Cancelar</string>
+    <string name="try_again_button_label">Volver a intentar</string>
+    <string name="close_button_label">Cerrar</string>
+    <string name="url_load_unsuccessful_message">Tu dispositivo Android no está conectado a un servicio de datos. Para consultar esta información, accede a la página %s con un navegador web.</string>
+    <string name="sign_in_agreement">Al iniciar sesión, aceptas las <annotation id="tos">Condiciones de servicio</annotation> y la <annotation id="google_privacy">Política de privacidad</annotation> de Google, así como las <annotation id="play_tos">Condiciones de servicio de Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">Política de privacidad adicional</string>
+    <string name="google_terms_of_service_title">Condiciones de servicio de Google</string>
+    <string name="google_privacy_policy_title">Política de privacidad de Google</string>
+    <string name="google_plus_privacy_policy_title">Política de privacidad de Google Plus</string>
+    <string name="google_play_tos_title">Condiciones de servicio de Google Play</string>
+    <string name="chrome_tos_title">Condiciones de servicio de Google Chrome</string>
+    <string name="chrome_privacy_title">Aviso de privacidad de Google Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Tu dispositivo Android no está conectado a una red Wi-Fi. Para consultar esta información, accede a la página %s en un navegador web.</string>
+    <string name="services_activity_title">Servicios de Google</string>
+    <string name="services_backup_heading">Copia de seguridad</string>
+    <string name="services_location_heading">Ubicación</string>
+    <string name="services_security_heading">Seguridad</string>
+    <string name="services_personalization_heading">Personalización</string>
+    <string name="services_communication_heading">Comunicación</string>
+    <string name="security_verify_apps_summary">Permite que Google compruebe todas las aplicaciones instaladas para buscar posibles comportamientos peligrosos que pueden afectar a la seguridad del dispositivo o de tus datos.</string>
+    <string name="name_title">Tu nombre</string>
+    <string name="name_text">Tu nombre se usa para personalizar el teléfono y los servicios de Google.</string>
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellidos</string>
+    <string name="cant_be_blank">El campo no puede estar vacío.</string>
+    <string name="sharedUserLabel">Servicios de Google</string>
+    <string name="app_label">Administrador de cuentas de Google</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Iniciar sesión</string>
+    <string name="create_button_label">Crear una cuenta</string>
+    <string name="not_now_button_label">Ahora no</string>
+    <string name="new_button_label">Crear cuenta</string>
+    <string name="existing_button_label">Usar cuenta</string>
+    <string name="done">Aceptar</string>
+    <string name="edit_text_help">Toca cualquier cuadro de texto para empezar a escribir.</string>
+    <string name="add_a_google_account">Añadir una cuenta de Google</string>
+    <string name="captcha_title">Introducir una imagen CAPTCHA</string>
+    <string name="show_error_title">Error</string>
+    <string name="server_error">Se ha producido un error al establecer comunicación con los servidores de Google.</string>
+    <string name="server_error_help">Inténtalo de nuevo más tarde.</string>
+    <string name="network_unreliable">No se puede establecer una conexión fiable con el servidor.</string>
+    <string name="network_unreliable_help">Es posible que se trate de un error temporal o que el dispositivo Android no esté preparado para servicios de datos. Si el problema persiste, llama al servicio de atención al cliente.</string>
+    <string name="network_unreliable_help_wifi_only">Puede tratarse de un error temporal. Inténtalo de nuevo o conéctate a otra red Wi-Fi.</string>
+    <string name="invalid_login_character">El carácter no es válido. Solo se permiten los caracteres 0-9, a-z y A-Z y los puntos.</string>
+    <string name="invalid_password_character">Un carácter de la contraseña no es válido.</string>
+    <string name="calendar">Google Calendar</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">El campo no puede estar vacío.</string>
+    <string name="plus_query_title">Actualiza a Google+</string>
+    <string name="plus_query_text">Google+ te permite compartir en Internet como en la vida real.</string>
+    <string name="circles_subtitle">Todo lo que te interesa</string>
+    <string name="circles_text">Comunícate con tus amigos cercanos y explora intereses comunes.</string>
+    <string name="uploads_subtitle">Copia de seguridad de fotos automática</string>
+    <string name="uploads_text">Realiza una copia de seguridad de las fotos a medida que las hagas, con almacenamiento privado y gratuito.</string>
+    <string name="huddle_subtitle">Viodellamadas y mensajes</string>
+    <string name="huddle_text">Disfruta de mensajes, de fotos y de videollamadas en grupo gratuitas con Hangouts.</string>
+    <string name="plus_declined_button_label">Ahora no</string>
+    <string name="plus_accepted_button_label">Empezar</string>
+    <string name="plus_name_check_title">Estableciendo contacto con Google+...</string>
+    <string name="plus_name_check_text">Este proceso puede tardar unos minutos.</string>
+    <string name="plus_faq_title">Te damos la bienvenida a Google+</string>
+    <string name="plus_faq_text" formatted="false">"En Google+ tendrás un perfil público para que tus amigos puedan encontrarte en la Web. Los usuarios que conozcan tu dirección de correo electrónico podrán ver tu perfil.
+
+Puedes utilizar los botones +1 que aparecen en la Web para recomendar contenido al resto de usuarios. Tu perfil y tus +1 aparecerán en las búsquedas, en los anuncios y en toda la Web.
+
+Por el momento, solo aparecerá tu nombre en tu perfil (%s %s). Puedes añadir una foto, tu biografía y más información cuando empieces a usar Google+."</string>
+    <string name="dasher_warning">El administrador de %s posee y administra todos tus datos de Google+ y puede eliminar o modificar tu perfil en cualquier momento sin tu permiso.</string>
+    <string name="profile_info_title">Tu perfil</string>
+    <string name="profile_text">Proporciona alguna información básica para tu perfil. Puedes añadir una foto y otros detalles cuando empieces a utilizar Google+.</string>
+    <string name="occupation">Profesión</string>
+    <string name="current_city">Ciudad actual</string>
+    <string name="picassa_info_title">Picasa y Google+</string>
+    <string name="picassa_info_text" formatted="false">Tus fotos y tus vídeos de los Álbumes web de Picasa estarán disponibles en Google+ y aparecerá tu nombre %s %s en lugar de %s en los comentarios. Al compartir fotos en Google+, los destinatarios pueden volver a compartirlas con otros usuarios. No se modificará la visibilidad de tus álbumes y puedes restringirlos en cualquier momento para que no se compartan sin tu autorización.</string>
+    <string name="name_title_plus">Tu nombre de Google+</string>
+    <string name="name_title_local">Este teléfono pertenece a...</string>
+    <string name="name_text_local">El teléfono usa tu nombre para personalizar algunas aplicaciones.</string>
+    <string name="name_progress_title">Un segundo…</string>
+    <string name="bad_name_title">¿Usar este nombre?</string>
+    <string name="invalid_name_title">No puedes usar este nombre.</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Si quieres usar este nombre en Google+, nuestro equipo tendrá que revisarlo. Si infringe la Política de nombres, podemos suspender tu perfil. Además, se limitará tu capacidad para usar los productos de Google que requieran un perfil activo.
+
+"<annotation id="learn_more">Más información</annotation></string>
+    <string name="invalid_name_text">No puedes usar este nombre con Google+ porque contiene caracteres no válidos.</string>
+    <string name="invalid_nickname_text">Este nombre no se puede usar con Google+ porque contiene caracteres no válidos. ¿Estás intentando usar un apodo o algo parecido? Puedes añadirlos a tu perfil después de unirte.</string>
+    <string name="invalid_other_text">Este nombre no se puede usar con Google+.</string>
+    <string name="bad_name_agree_text">Acepto y quiero usar este nombre.</string>
+    <string name="bad_name_decline_button_label">Actualizar nombre</string>
+    <string name="bad_name_agree_button_label">Enviar nombre para revisión</string>
+    <string name="bad_name_skip_button_label">Saltar Google+</string>
+    <string name="photo_title">Tu foto</string>
+    <string name="photo_text">Esta foto se usará en tu registro de contactos. Puedes cambiarla más adelante a través de la aplicación Contactos.</string>
+    <string name="photo_text_es">Haz una foto para mostrársela a tus amigos en Google+. Podrás seleccionar otra imagen más adelante.</string>
+    <string name="photo_button_label">Hacer una foto</string>
+    <string name="retake_photo_button_label">Repetir la foto</string>
+    <string name="photo_failure">No se ha podido iniciar la cámara.</string>
+    <string name="crop_failure">No se ha podido recortar la foto.</string>
+    <string name="photo_description">Tu foto</string>
+    <string name="communicating_message">Tu teléfono se está comunicando con Google para guardar información en tu cuenta. Este proceso puede tardar hasta cinco minutos.</string>
+    <string name="creating_account_title">Guardando cuenta...</string>
+    <string name="checking_username_message">"Tu teléfono se está comunicando con Google para comprobar la disponibilidad del nombre de usuario.
+
+Este proceso puede tardar unos minutos."</string>
+    <string name="plus_failure_title">Unirse a Google+ más tarde</string>
+    <string name="plus_failure_new_account_text">Se ha creado tu cuenta de Google, pero no se ha procesado tu solicitud para unirte a Google+. Inténtalo de nuevo más tarde desde cualquier navegador en la página plus.google.com.</string>
+    <string name="plus_failure_text">No se ha procesado tu solicitud para unirte a Google+. Inténtalo de nuevo más tarde desde cualquier navegador web en la página plus.google.com.</string>
+    <string name="provisioned_login_title">Introducir contraseña</string>
+    <string name="provisioned_welcome">Hola, %s:</string>
+    <string name="provisioned_welcome_2">"Introduce tu contraseña de 
+%s."</string>
+    <string name="provisioned_incorrect_login">¿No eres %s?</string>
+    <string name="login_title">Escribe tu correo y contraseña</string>
+    <string name="login_task_title">Accediendo</string>
+    <string name="password">Contraseña</string>
+    <string name="restore_wifi">Restaura los datos y conéctate a redes Wi‑Fi conocidas.</string>
+    <string name="sign_in_agreement_multi_user">Al iniciar sesión, aceptas las <annotation id="tos">Condiciones de servicio</annotation> y la <annotation id="google_privacy">Política de privacidad</annotation> de Google y las <annotation id="play_tos">Condiciones de servicio</annotation>" de Google Play. 
+
+Recuerda que cualquier otro usuario puede aceptar permisos de aplicaciones actualizadas en tu nombre. Al igual que con cualquier ordenador, solo debes compartir este tablet con personas de confianza."</string>
+    <string name="sign_in_agreement_with_chrome">Al iniciar sesión, aceptas las <annotation id="tos">Condiciones de servicio</annotation> y la <annotation id="google_privacy">Política de privacidad</annotation> de Google, las <annotation id="chrome_tos">Condiciones de servicio</annotation> y el <annotation id="chrome_privacy">Aviso de privacidad</annotation> de Google Chrome y las <annotation id="play_tos">Condiciones de servicio</annotation> de Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Al iniciar sesión, aceptas las <annotation id="tos">Condiciones de servicio</annotation> y la <annotation id="google_privacy">Política de privacidad</annotation> de Google, las <annotation id="chrome_tos">Condiciones de servicio</annotation> y el <annotation id="chrome_privacy">Aviso de privacidad</annotation> de Chrome y las <annotation id="play_tos">Condiciones de servicio</annotation>" de Google Play. 
+
+Recuerda que cualquier otro usuario puede aceptar permisos de aplicaciones actualizadas en tu nombre. Al igual que con cualquier ordenador, solo debes compartir este tablet con personas de confianza."</string>
+    <string name="create_prompt">" ¿No tienes una cuenta de Google? "<annotation id="create_account">Crea una cuenta ahora</annotation> .</string>
+    <string name="sign_in_with_google_account_short">Iniciar sesión con tu cuenta de Google:</string>
+    <string name="invalid_username">El texto que has introducido no es un nombre de usuario válido.</string>
+    <string name="captcha_instructions">Escribe el texto que ves aquí:</string>
+    <string name="create_google_account">Elige un nombre de usuario</string>
+    <string name="create_google_account_text">Tu cuenta de Google incluye Gmail, el servicio de correo electrónico de Google que funciona en cualquier dispositivo, bloquea el spam y mucho más.</string>
+    <string name="account_already_has_gmail">La cuenta ya dispone de Gmail.</string>
+    <string name="error_account_disabled">"Se ha inhabilitado esta cuenta. 
+
+(Para obtener más información, accede a la página https://google.com/accounts desde un navegador web)."</string>
+    <string name="no_network">No tienes conexión de red.</string>
+    <string name="no_network_help">Es posible que se trate de un error temporal o que el dispositivo Android no esté preparado para servicios de datos. Vuelve a intentarlo cuando estés conectado a una red móvil o conéctate a una red Wi-Fi.</string>
+    <string name="no_network_help_wifi_only">Puede tratarse de un error temporal. Inténtalo de nuevo o conéctate a otra red Wi-Fi.</string>
+    <string name="error_login_failed">"El nombre de usuario y la contraseña no coinciden. Inténtalo de nuevo.
+
+Para recuperar la información de tu cuenta, accede a la página google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Esta cuenta no se ha verificado. Consulta tu correo y haz clic en el enlace incluido para verificar esta cuenta. 
+
+(Para recuperar la información de tu cuenta, accede a la página http://www.google.com/accounts/recovery en el ordenador)."</string>
+    <string name="exit_menu_item">Salir del inicio de sesión en el navegador</string>
+    <string name="creating_profile">Creando tu perfil...</string>
+    <string name="checking_account">Comprobando disponibilidad</string>
+    <string name="is_not_available">El nombre de usuario <b>^1</b> no está disponible.</string>
+    <string name="suggestions_hint">Toca para obtener sugerencias.</string>
+    <string name="suggest_username_next_button_label">Cambiar nombre de usuario</string>
+    <string name="hint_size">" "<b>^1</b> contiene menos de 6 o más de 30 caracteres.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> no contiene letras.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" solo puede contener letras,
+números y puntos."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> no usa Gmail.</string>
+    <string name="sign_in_browser">Inicio de sesión en el navegador</string>
+    <string name="alternatives_list_title">Nombres de usuario sugeridos</string>
+    <string name="password_title">Crear contraseña</string>
+    <string name="choose_a_password">Contraseña</string>
+    <string name="confirm_password">Repite la contraseña</string>
+    <string name="too_short">demasiado corta</string>
+    <string name="security_questions_title">Preguntas de seguridad</string>
+    <string name="answer">" "<b>Respuesta</b></string>
+    <string name="password_mismatch">Las contraseñas no coinciden. Inténtalo de nuevo.</string>
+    <string name="eight_chars_min">8 caracteres como mínimo</string>
+    <string name="verify_your_profile">Verificar tu perfil</string>
+    <string name="error_not_logged_in">El usuario no ha iniciado sesión.</string>
+    <string name="error_username_unavailable">Nombre de usuario no disponible</string>
+    <string name="error_bad_password">La contraseña no es lo bastante segura o contiene caracteres no válidos. Inténtalo de nuevo.</string>
+    <string name="error_bad_username">El nombre de usuario no es válido.</string>
+    <string name="existing_account_error_title">Esta cuenta ya existe</string>
+    <string name="existing_account_error_text">Ya existe una cuenta con el nombre ^1 en este dispositivo Android.</string>
+    <string name="submission_title">Lo sentimos...</string>
+    <string name="submission_error_text">Se ha producido un error. Inténtalo de nuevo.</string>
+    <string name="sync_intro_title">Sincronización de cuenta</string>
+    <string name="account_tos_title">Finalizar cuenta</string>
+    <string name="account_tos_plus_title">Unirse a Google+</string>
+    <string name="i_accept">Acepto</string>
+    <string name="i_decline">No crear cuenta</string>
+    <string name="allow_personalized_content">Permitir que Google use tu información para personalizar contenido y anuncios de sitios web que no sean de Google</string>
+    <string name="enable_web_history">Activar historial web</string>
+    <string name="learn_more"><annotation id="learn_more">Más información</annotation></string>
+    <string name="account_creation_tos">Si continúas, estarás aceptando las <annotation id="tos">Condiciones de servicio</annotation> y la <annotation id="google_privacy">Política de privacidad</annotation> de Google y las <annotation id="play_tos">Condiciones de servicio de Google Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Si continúas, estarás aceptando las <annotation id="tos">Condiciones de servicio</annotation> y la <annotation id="google_privacy">Política de privacidad</annotation> de Google, las <annotation id="chrome_tos">Condiciones de servicio</annotation> y el <annotation id="chrome_privacy">Aviso de privacidad</annotation> de Google Chrome y las <annotation id="play_tos">Condiciones de servicio</annotation> de Google Play.</string>
+    <string name="gender_prompt">Sexo</string>
+    <string name="gender_hint">Sexo</string>
+    <string name="account_pre_intro_title">¿Tienes cuenta de Google?</string>
+    <string name="account_pre_intro_default_message">"¿Tienes una cuenta de Google?
+
+Si utilizas Gmail o Google Apps, la respuesta es Sí."</string>
+    <string name="account_pre_intro_yes">Sí</string>
+    <string name="account_pre_intro_no">No</string>
+    <string name="account_intro_title">Cuenta de Google</string>
+    <string name="account_intro_required_title">Con la tecnología de Google</string>
+    <string name="account_intro_recommended_title">Integra Google en tu dispositivo</string>
+    <string name="account_intro_default_message">No vuelvas a perder tus datos. Una cuenta de Google te permite mantener tus cosas a salvo.</string>
+    <string name="account_intro_simple_message">¿Quieres usar una cuenta disponible o crear una nueva?</string>
+    <string name="account_intro_learn_more">Más información</string>
+    <string name="learn_more_title">Más información</string>
+    <string name="learn_more_account_intro">"Una cuenta de Google te permite:
+
+"<li><ul>Consultar y organizar tu información, incluido tu historial de búsqueda, en cualquier parte</ul></li>"
+
+"<li><ul>Crear automáticamente copias de seguridad de datos, como correos electrónicos, contactos, canciones e imágenes</ul></li>"
+
+"<li><ul>Usar los servicios de Google fácilmente en cualquier lugar, como Contactos, Calendar, Maps y muchos más</ul></li></string>
+    <string name="learn_more_account_intro_title">Información sobre las cuentas de Google</string>
+    <string name="learn_more_bad_name">Debes usar tu nombre en Google+. Tu perfil debe representar a una persona (no a una empresa, a una organización o a una familia) y debe incluir tu nombre y tu apellido en un solo idioma, sin títulos profesionales ni signos de puntuación innecesarios. Después de registrarte, puedes añadir apodos u otros nombres asociados en el campo correspondiente de tu perfil.</string>
+    <string name="learn_more_bad_name_title">Acerca de la Política de nombres</string>
+    <string name="wait_for_device_country_title">Configuración de cuenta</string>
+    <string name="wait_for_device_country_msg">Recopilando información del teléfono (máximo 30 segundos)</string>
+    <string name="recovery_title">Recuperación de contraseña de Google</string>
+    <string name="recovery_wait_title">Conectando con Google…</string>
+    <string name="cannot_talk_to_server_msg">El dispositivo no ha podido establecer conexión con Google.</string>
+    <string name="recovery_skip_label">Saltar</string>
+    <string name="recovery_retry_label">Intentar de nuevo</string>
+    <string name="recovery_message_set">"Si alguna vez olvidas tu contraseña, te gustaría poder recuperarla.
+
+Google te ofrece opciones para recuperar contraseñas por SMS o mediante otra dirección de correo electrónico.
+
+Te recomendamos que realices este paso. "<annotation id="help_url">Más información</annotation></string>
+    <string name="recovery_message_verify">"Es fácil olvidar las contraseñas.
+
+Confirma tu número de teléfono o la dirección de correo electrónico secundaria para poder recuperar el acceso a tu contenido de Google y a tu biblioteca de Google Play. "<annotation id="help_url">Más información</annotation></string>
+    <string name="recovery_yes_button_label">Opciones de recuperación</string>
+    <string name="recovery_yes_button_label_verify">Confirmar opciones de recuperación</string>
+    <string name="recovery_later_button_label">Ahora no</string>
+    <string name="recovery_input_screen_message">Esta información de recuperación se aplica a %s.</string>
+    <string name="secondary_email_hint">Correo de seguridad</string>
+    <string name="secondary_email_invalid">Correo electrónico no válido</string>
+    <string name="secondary_email_same_as_primary">Coincide con el correo principal</string>
+    <string name="phone_number_hint">Número de teléfono</string>
+    <string name="phone_number_invalid_character">Caracteres no válidos en número teléfono</string>
+    <string name="phone_number_invalid">Número de teléfono no válido</string>
+    <string name="country_invalid">País no permitido</string>
+    <string name="recovery_server_error">Error al conectar con el servidor. Inténtalo de nuevo en unos minutos.</string>
+    <string name="account_recovery_info">Si alguna vez pierdes tu contraseña, puedes responder a una pregunta de seguridad y recibir un enlace para restablecerla en otra dirección de correo electrónico.</string>
+    <string name="secondary_email_label">Correo de recuperación</string>
+    <string name="invalid_email">"La dirección de correo electrónico que has introducido no es válida.
+ Ejemplo: joe@example.com"</string>
+    <string name="invalid_email_primary">La dirección de recuperación no puede coincidir con la que estás creando.</string>
+    <string name="backup_consent_message">"Usa tu cuenta de Google para hacer una copia de seguridad de tus aplicaciones, de tus ajustes (por ejemplo, de los marcadores y de las contraseñas Wi-Fi) y de otros datos. Si ya has hecho una copia de seguridad de tu cuenta, puedes restaurarla en el dispositivo ahora.
+
+Puedes modificar la configuración de la copia de seguridad en cualquier momento en Ajustes."</string>
+    <string name="backup_consent_message_no_restore">"Usa tu cuenta de Google para hacer una copia de seguridad de tus aplicaciones, de tus ajustes (por ejemplo, de los marcadores y de las contraseñas Wi-Fi) y de otros datos.
+
+Puedes cambiar la configuración de la copia de seguridad en cualquier momento en Ajustes."</string>
+    <string name="restoring_title">Restaurando...</string>
+    <string name="restoring_message">Tu teléfono se está comunicando con Google para restaurar tu cuenta. Este proceso puede tardar unos minutos.</string>
+    <string name="gls_notification_login_error">Toca para iniciar sesión en tu cuenta.</string>
+    <string name="gls_ui_add_account_title">Configuración de cuenta</string>
+    <string name="gls_ui_activity_title">Iniciar sesión</string>
+    <string name="gls_ui_activity_title_browser_signin">Iniciar sesión</string>
+    <string name="gls_ui_activity_title_checking_in">Preparando...</string>
+    <string name="gls_ui_activity_authenticating">Autenticando...</string>
+    <string name="gls_dmagent_activity_activate_message">" Tu dominio requiere administración de dispositivos móviles. Activa la aplicación Política de dispositivos de Google Apps para ejecutar las políticas de seguridad que requiere la cuenta de  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Activar</string>
+    <string name="gls_dmagent_activity_download_message">" Tu dominio requiere administración de dispositivos móviles. Instala la aplicación Política de dispositivos de Google Apps para ejecutar las políticas de seguridad que requiere la cuenta de  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">Descargar</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Has escrito una contraseña incorrecta o tu cuenta ha cambiado. Vuelve a escribir la contraseña.</string>
+    <string name="permlab_googleAuthPassword">acceder a contraseñas de cuentas de Google</string>
+    <string name="permdesc_googleAuthPassword">Permite que las aplicaciones accedan directamente a las contraseñas de las cuentas de Google que has configurado.</string>
+    <string name="permlab_googleMailSwitch">seleccionar la marca Gmail o Google Mail</string>
+    <string name="permdesc_googleMailSwitch">Permite que las aplicaciones muestren el nombre Gmail o Google Mail.</string>
+    <string name="sync_item_title">Sincronizar %s</string>
+    <string name="grant_credentials_permission_message_footer">Están solicitando permiso para:</string>
+    <string name="grant_credentials_permission_message_app">Estas aplicaciones quieren acceder a tu cuenta de Google a partir de ahora:</string>
+    <string name="grant_permissions_header_text">Solicitud de permiso</string>
+    <string name="allow">Permitir acceso</string>
+    <string name="deny">No, gracias</string>
+    <string name="permission_request_notification_with_subtitle">"Permiso solicitado
+para la cuenta %s"</string>
+    <string name="notification_title">Error al iniciar sesión en la cuenta %1$s</string>
+    <string name="account_setup_title">Cuenta de Google</string>
+    <string name="login_activity_title">Iniciar sesión</string>
+    <string name="relogin_activity_title">Repite la contraseña</string>
+    <string name="show_error_activity_title">Error al iniciar sesión</string>
+    <string name="login_activity_task_title">Iniciando sesión...</string>
+    <string name="login_activity_task_msg">Este proceso puede tardar unos minutos.</string>
+    <string name="prepare_account_setup_task_title">Preparando configuración de cuenta…</string>
+    <string name="prepare_account_setup_task_msg">Este proceso puede tardar unos minutos.</string>
+    <string name="sync_intro_activity_title">Sincroniza tu cuenta</string>
+    <string name="username">Correo</string>
+    <string name="error_invalid_second_factor">Usa una contraseña específica de la aplicación en lugar de la contraseña habitual de tu cuenta.</string>
+    <string name="error_needs_browser">Para acceder a tu cuenta, debes iniciar sesión en la Web. Toca Siguiente para iniciar sesión en el navegador.</string>
+    <string name="google_play_opt_in">Recibir noticias y ofertas de Google Play</string>
+    <string name="google_settings_header_title">Privacidad</string>
+    <string name="maps_settings_title">Google Maps y Latitude</string>
+    <string name="location_settings_title">Ubicación</string>
+    <string name="search_settings_title">Búsqueda</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Anuncios</string>
+    <string name="location_network_based">Servicio de ubicación de Google</string>
+    <string name="location_neighborhood_level">Permitir envío anónimo a Google de ubicación y que aplicaciones permitidas determinen ubicación con datos de redes móviles y Wi-Fi</string>
+    <string name="use_location_title">Ubicación en búsquedas</string>
+    <string name="use_location_summary">Permitir que Google use tu ubicación para mejorar los resultados de búsqueda y otros servicios</string>
+    <string name="backup_consent_yes_agree">Utilizar tu cuenta de Google para hacer una copia de seguridad de tus aplicaciones, de tus ajustes (por ejemplo, de los marcadores y de las contraseñas Wi-Fi) y de otros datos</string>
+    <string name="restore_consent_yes_agree">Recuperar aplicaciones, ajustes y otros datos en este teléfono que se hayan incluido anteriormente en una copia de seguridad de tu cuenta de Google</string>
+    <string name="audit_logging_summary">Enviar automáticamente información de diagnóstico y de eventos del dispositivo a Google para ayudar a mejorar nuestros productos y proteger tu dispositivo.</string>
+    <string name="no_back_msg">No puedes volver al paso anterior.</string>
+    <string name="setup_wizard_title">Asistente de configuración</string>
+    <string name="setup_wizard_services_activity_title">Servicios de Google</string>
+    <string name="setup_wizard_services_description">Estos servicios te permiten aprovechar al máximo todo lo que ofrece Google. Puedes activarlos o desactivarlos cuando quieras. Los datos se utilizarán de acuerdo con la <annotation id="google_privacy">Política de privacidad</annotation> de Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Copia de seguridad y restauración</string>
+    <string name="setup_wizard_services_location_heading">Ubicación</string>
+    <string name="setup_wizard_services_communication_heading">Comunicación</string>
+    <string name="setup_wizard_services_backup"><b>Haz una copia de seguridad de las aplicaciones, los datos de aplicaciones, los ajustes, los diccionarios personales y las contraseñas Wi‑Fi del teléfono</b> con tu cuenta de Google para que puedas restaurar después fácilmente. <annotation id="backup_details">Más información</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Haz una copia de seguridad de las aplicaciones, los datos de aplicaciones, los ajustes, los diccionarios personales y las contraseñas Wi‑Fi</b> con tu cuenta de Google para que puedas restaurarla después fácilmente.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Los datos incluyen aplicaciones, ajustes de aplicaciones, ajustes del sistema y contraseñas Wi‑Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Al activar la copia de seguridad automática, los datos de tu dispositivo se guardan periódicamente en tu cuenta de Google. Las copias de seguridad pueden incluir información contenida en las carpetas de datos de tus aplicaciones, como preferencias, ajustes, mensajes, fotos y otro tipo de archivos.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Usar el servicio de ubicación de Google</b> para permitir que las aplicaciones determinen tu ubicación. Esto significa que podrán enviar datos de ubicación anónimos a Google aunque no estés utilizando ninguna aplicación. <annotation id="location_details">Más información</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">El servicio de ubicación de Google utiliza fuentes como tus redes Wi‑Fi y móviles para poder determinar la ubicación de tu dispositivo de una forma más rápida y precisa. Si activas los servicios de ubicación de Google, el dispositivo entrará en un modo que utiliza las redes Wi‑Fi y móviles para proporcionar información sobre tu ubicación. Si quieres desactivar este modo, accede a los ajustes de ubicación y selecciona un modo que utilice solo GPS, a veces denominado modo Solo dispositivo.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Ayudar a mejorar los servicios de ubicación</b> permitiendo que las aplicaciones y los servicios busquen redes Wi‑Fi, aunque tengas la función de Wi‑Fi desconectada.</string>
+    <string name="setup_wizard_services_location_footnote">El servicio de ubicación de Google utiliza la conexión Wi‑Fi y otras señales para determinar la ubicación de forma más precisa y rápida, y suele utilizar menos energía que el GPS. Algunos datos se pueden almacenar en tu dispositivo. Es posible que se recopilen datos aunque las aplicaciones no se estén ejecutando.</string>
+    <string name="setup_wizard_services_play"><b>Recibir</b> noticias y ofertas de Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Ayudar a mejorar tu experiencia de Android</b> enviando a Google datos de uso y diagnósticos automáticamente. Esta información no se utilizará para identificarte y ayuda a los equipos que trabajan para mejorar la duración de la batería, el rendimiento de las aplicaciones y en nuevas funciones de Google. <annotation id="usage_reporting_details">Más información</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Esto es información general sobre el dispositivo y sobre cómo lo utilizas, como el nivel de batería, la frecuencia con la que utilizas las aplicaciones, la calidad y la duración de las conexiones de red (datos, Wi-Fi y Bluetooth) e informes de fallos cuando el dispositivo no funciona como debería. Se utilizará para mejorar los servicios y productos de Google para todos los usuarios y no se asociará a tu cuenta de Google. Algunos datos generales también ayudarán a los partners (por ejemplo, desarrolladores de Android) a mejorar sus productos y aplicaciones.
+
+Puedes activar o desactivar esta opción en cualquier momento. Esta opción no afecta a la capacidad del dispositivo para enviar la información que necesita para recibir servicios esenciales, como servicios de seguridad y actualizaciones del sistema."</string>
+    <string name="setup_wizard_services_agreement">Es posible que este teléfono también reciba e instale actualizaciones y aplicaciones de Google, tu operador y el fabricante de tu dispositivo. Si continúas, es posible que se descarguen e instalen algunas aplicaciones, pero podrás desinstalarlas en cualquier momento.</string>
+</resources>

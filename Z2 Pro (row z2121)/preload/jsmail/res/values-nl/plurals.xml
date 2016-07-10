@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ongelezen mails</item>
+        <item quantity="zero">%1$d ongelezen mail</item>
+        <item quantity="one">%1$d ongelezen mail</item>
+        <item quantity="two">%1$d ongelezen mails</item>
+        <item quantity="few">%1$d ongelezen mails</item>
+        <item quantity="many">%1$d ongelezen mails</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Wilt u de %1$d gesprekken archiveren?</item>
+        <item quantity="zero">Wilt u het %1$d gesprek archiveren?</item>
+        <item quantity="one">Wilt u het %1$d gesprek archiveren?</item>
+        <item quantity="two">Wilt u de %1$d gesprekken archiveren?</item>
+        <item quantity="few">Wilt u de %1$d gesprekken archiveren?</item>
+        <item quantity="many">Wilt u de %1$d gesprekken archiveren?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Wilt u de %1$d gesprekken verwijderen?</item>
+        <item quantity="zero">Wilt u het %1$d gesprek verwijderen?</item>
+        <item quantity="one">Wilt u het %1$d gesprek verwijderen?</item>
+        <item quantity="two">Wilt u de %1$d gesprekken verwijderen?</item>
+        <item quantity="few">Wilt u de %1$d gesprekken verwijderen?</item>
+        <item quantity="many">Wilt u de %1$d gesprekken verwijderen?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Deze gesprekken bevatten samengevouwen gesprekken. Wilt u de samengevouwen gesprekken echt verwijderen?</item>
+        <item quantity="zero">Deze gesprekken bevatten samengevouwen gesprekken. Wilt u de samengevouwen gesprekken echt verwijderen?</item>
+        <item quantity="one">Dit gesprek bevat samengevouwen gesprekken. Wilt u de samengevouwen gesprekken echt verwijderen?</item>
+        <item quantity="two">Deze gesprekken bevatten samengevouwen gesprekken. Wilt u de samengevouwen gesprekken echt verwijderen?</item>
+        <item quantity="few">Deze gesprekken bevatten samengevouwen gesprekken. Wilt u de samengevouwen gesprekken echt verwijderen?</item>
+        <item quantity="many">Deze gesprekken bevatten samengevouwen gesprekken. Wilt u de samengevouwen gesprekken echt verwijderen?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Wilt u de concepten in de %1$d gesprekken verwijderen?</item>
+        <item quantity="zero">Wilt u de concepten in het %1$d gesprek verwijderen?</item>
+        <item quantity="one">Wilt u de concepten in het %1$d gesprek verwijderen?</item>
+        <item quantity="two">Wilt u de concepten in de %1$d gesprekken verwijderen?</item>
+        <item quantity="few">Wilt u de concepten in de %1$d gesprekken verwijderen?</item>
+        <item quantity="many">Wilt u de concepten in de %1$d gesprekken verwijderen?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="zero">%d item geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
+        <item quantity="two">%d items geselecteerd</item>
+        <item quantity="few">%d items geselecteerd</item>
+        <item quantity="many">%d items geselecteerd</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekken gearchiveerd.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek gearchiveerd.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek gearchiveerd.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekken gearchiveerd.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekken gearchiveerd.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekken gearchiveerd.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekken verwijderd.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek verwijderd.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek verwijderd.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekken verwijderd.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekken verwijderd.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekken verwijderd.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Mappen gewijzigd</item>
+        <item quantity="zero">Map gewijzigd</item>
+        <item quantity="one">Map gewijzigd</item>
+        <item quantity="two">Mappen gewijzigd</item>
+        <item quantity="few">Mappen gewijzigd</item>
+        <item quantity="many">Mappen gewijzigd</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekken genegeerd.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek genegeerd.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek genegeerd.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekken genegeerd.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekken genegeerd.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekken genegeerd.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekken gemarkeerd als onbelangrijk.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek gemarkeerd als onbelangrijk.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek gemarkeerd als onbelangrijk.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekken gemarkeerd als onbelangrijk.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekken gemarkeerd als onbelangrijk.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekken gemarkeerd als onbelangrijk.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als ongewenste mail.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek gerapporteerd als ongewenste mail.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek gerapporteerd als ongewenste mail.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als ongewenste mail.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als ongewenste mail.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als ongewenste mail.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als phishing.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek gerapporteerd als phishing.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek gerapporteerd als phishing.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als phishing.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als phishing.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als phishing.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als spam.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek gerapporteerd als spam.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek gerapporteerd als spam.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als spam.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als spam.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekken gerapporteerd als spam.</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Ster verwijderen van de %1$d gesprekken.</item>
+        <item quantity="zero">Ster verwijderen van het %1$d gesprek.</item>
+        <item quantity="one">Ster verwijderen van het %1$d gesprek.</item>
+        <item quantity="two">Ster verwijderen van de %1$d gesprekken.</item>
+        <item quantity="few">Ster verwijderen van de %1$d gesprekken.</item>
+        <item quantity="many">Ster verwijderen van de %1$d gesprekken.</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Concepten</item>
+        <item quantity="zero">Concept</item>
+        <item quantity="one">Concept</item>
+        <item quantity="two">Concepten</item>
+        <item quantity="few">Concepten</item>
+        <item quantity="many">Concepten</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mails worden permanent verwijderd.</item>
+        <item quantity="zero">%1$d mail wordt permanent verwijderd.</item>
+        <item quantity="one">%1$d mail wordt permanent verwijderd.</item>
+        <item quantity="two">%1$d mails worden permanent verwijderd.</item>
+        <item quantity="few">%1$d mails worden permanent verwijderd.</item>
+        <item quantity="many">%1$d mails worden permanent verwijderd.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="zero">%d B</item>
+        <item quantity="one">%d B</item>
+        <item quantity="two">%d B</item>
+        <item quantity="few">%d B</item>
+        <item quantity="many">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="zero">%d GB</item>
+        <item quantity="one">%d GB</item>
+        <item quantity="two">%d GB</item>
+        <item quantity="few">%d GB</item>
+        <item quantity="many">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="zero">%d KB</item>
+        <item quantity="one">%d KB</item>
+        <item quantity="two">%d KB</item>
+        <item quantity="few">%d KB</item>
+        <item quantity="many">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="zero">%d MB</item>
+        <item quantity="one">%d MB</item>
+        <item quantity="two">%d MB</item>
+        <item quantity="few">%d MB</item>
+        <item quantity="many">%d MB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d gesprekken verplaatsen</item>
+        <item quantity="zero">%1$d gesprek verplaatsen</item>
+        <item quantity="one">%1$d gesprek verplaatsen</item>
+        <item quantity="two">%1$d gesprekken verplaatsen</item>
+        <item quantity="few">%1$d gesprekken verplaatsen</item>
+        <item quantity="many">%1$d gesprekken verplaatsen</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Mails verplaatsen</item>
+        <item quantity="zero">Mail verplaatsen</item>
+        <item quantity="one">Mail verplaatsen</item>
+        <item quantity="two">Mails verplaatsen</item>
+        <item quantity="few">Mails verplaatsen</item>
+        <item quantity="many">Mails verplaatsen</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d nieuwe inkomende mails. Weergave</item>
+        <item quantity="zero">%1$d nieuwe inkomende mail. Weergave</item>
+        <item quantity="one">%1$d nieuwe inkomende mail. Weergave</item>
+        <item quantity="two">%1$d nieuwe inkomende mails. Weergave</item>
+        <item quantity="few">%1$d nieuwe inkomende mails. Weergave</item>
+        <item quantity="many">%1$d nieuwe inkomende mails. Weergave</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="zero">%d item geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
+        <item quantity="two">%d items geselecteerd</item>
+        <item quantity="few">%d items geselecteerd</item>
+        <item quantity="many">%d items geselecteerd</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d gelezen mails</item>
+        <item quantity="zero">%1$d gelezen mail</item>
+        <item quantity="one">%1$d gelezen mail</item>
+        <item quantity="two">%1$d gelezen mails</item>
+        <item quantity="few">%1$d gelezen mails</item>
+        <item quantity="many">%1$d gelezen mails</item>
+    </plurals>
+</resources>

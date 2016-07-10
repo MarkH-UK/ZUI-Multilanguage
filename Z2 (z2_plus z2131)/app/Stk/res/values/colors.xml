@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ltgrey">#ffe0e0e0</color>
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="notification_bg_color">#ff000000</color>
+    <color name="background_light">#ffededed</color>
+    <color name="normal_color">#ffffffff</color>
+    <color name="press_color">#0d191919</color>
+    <color name="text_color">#ff333333</color>
+</resources>

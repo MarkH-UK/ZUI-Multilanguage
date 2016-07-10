@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DropdownPopupWindow" parent="@android:style/Widget.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/dropdown_popup_background</item>
+    </style>
+    <style name="ButtonCompatOverlay">
+        <item name="android:buttonStyle">@style/ButtonCompat</item>
+    </style>
+    <style name="ButtonCompatBorderlessOverlay">
+        <item name="android:buttonStyle">@style/ButtonCompatBorderless</item>
+    </style>
+    <style name="ButtonCompatBase">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:minWidth">88.0dip</item>
+        <item name="android:minHeight">36.0dip</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="ButtonCompat" parent="@style/ButtonCompatBase">
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/button_compat_shape</item>
+    </style>
+    <style name="ButtonCompatBorderless" parent="@style/ButtonCompat">
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+    <style name="SelectPopupDialog">
+        <item name="select_dialog_multichoice">@android:layout/select_dialog_multichoice</item>
+        <item name="select_dialog_singlechoice">@android:layout/select_dialog_singlechoice</item>
+    </style>
+    <style name="SelectActionMenuShare">
+        <item name="android:icon">@drawable/ic_menu_share_holo_light</item>
+    </style>
+    <style name="SelectActionMenuWebSearch">
+        <item name="android:icon">@drawable/ic_search</item>
+    </style>
+</resources>

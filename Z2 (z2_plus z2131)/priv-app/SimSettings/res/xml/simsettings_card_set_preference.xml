@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="lenovo_card_set"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.zui.simsettings.preference.RadioPreference android:persistent="false" android:title="@string/card_sim_reminder" android:key="reminder_select" />
+    <com.zui.simsettings.preference.RadioPreference android:persistent="false" android:title="@string/card_name_title" android:key="card_slot0" />
+    <com.zui.simsettings.preference.RadioPreference android:persistent="false" android:title="@string/card_number_title" android:key="card_slot1" />
+    <PreferenceCategory android:persistent="false" android:key="switch_top_null" />
+    <SwitchPreference android:persistent="true" android:title="@string/show_primarycard_info" android:key="call_switch" />
+    <PreferenceCategory android:persistent="false" android:state_expanded="true" android:key="cdma_notice" />
+</PreferenceScreen>

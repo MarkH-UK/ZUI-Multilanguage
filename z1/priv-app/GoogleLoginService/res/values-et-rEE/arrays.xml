@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Valige turvaküsimus</item>
+        <item>Kas esimene telefoninumber?</item>
+        <item>Mis on parima lapsepõlvesõbra nimi?</item>
+        <item>Mis on esimese õpetaja nimi?</item>
+        <item>Mis on esimese töökoha juhataja nimi?</item>
+        <item>Mis on sõiduki registreerimisnumber?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>kehv</item>
+        <item>rahuldav</item>
+        <item>hea</item>
+        <item>tugev</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Mees</item>
+        <item>Naine</item>
+        <item>Muu</item>
+    </string-array>
+</resources>

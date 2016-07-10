@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="transparent">#00000000</item>
+    <item type="drawable" name="ripple_color_white">#1effffff</item>
+    <item type="drawable" name="ripple_color_black">#1e000000</item>
+    <item type="drawable" name="white">#ffffffff</item>
+</resources>

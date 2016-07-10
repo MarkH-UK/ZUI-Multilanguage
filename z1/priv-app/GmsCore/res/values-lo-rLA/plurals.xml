@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d ຕົວອັກຂະລະ​ເກີນ​ຂີດ​ຈຳ​ກັດ</item>
+        <item quantity="one">%1$d ຕົວ​ອັກຂະລະ​ເກີນ​ຂີດ​ຈຳ​ກັດ</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d ຕົວອັກຂະລະ​ຍັງ​ເຫຼືອ</item>
+        <item quantity="one">%1$d ຕົວອັກຂະລະ​ຍັງ​ເຫຼືອ</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d ບັນ​ຊີ Google</item>
+        <item quantity="one">%d ບັນ​ຊີ Google</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">ອຸ​ປະ​ກອນ​ນີ້​ຖືກ​ນຳ​ໃຊ້​ເພື່ອ​ຕັ້ງ ^1 ກັບບັນ​ຊີ Google ຂອງ​ທ່ານ ແລະ​ຂໍ້​ມູນ​ຂອງ​ມັນ</item>
+        <item quantity="one">ອຸ​ປະ​ກອນ​ນີ້​ຖືກ​ນຳ​ໃຊ້​ເພື່ອ​ຕັ້ງ ^1 ກັບບັນ​ຊີ Google ຂອງ​ທ່ານ ແລະ​ຂໍ້​ມູນ​ຂອງ​ມັນ</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d ຊົ່ວໂມງ</item>
+        <item quantity="one">1 ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d ນາ​ທີ</item>
+        <item quantity="one">1 ນາ​ທີ</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">ບໍ່ສາມາດສົ່ງການເຊີນເຫຼົ່ານີ້ໄດ້ເນື່ອງຈາກເກີດຂໍ້ຜິດພາດຂຶ້ນ</item>
+        <item quantity="one">ບໍ່ສາມາດສົ່ງການເຊີນໄດ້ເນື່ອງຈາກເກີດຂໍ້ຜິດພາດຂຶ້ນ</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">ບໍ່ສາມາດສົ່ງຄຳເຊີນເຫຼົ່ານີ້ໃນຕອນນີ້ໄດ້. ທ່ານສາມາດສົ່ງມັນໄດ້ອີກເທື່ອນຶ່ງຈາກ Google Play > ບັນຊີຂອງຂ້ອຍ.</item>
+        <item quantity="one">ບໍ່ສາມາດສົ່ງຄຳເຊີນໃນຕອນນີ້ໄດ້. ທ່ານສາມາດສົ່ງມັນໄດ້ອີກເທື່ອນຶ່ງຈາກ Google Play > ບັນຊີຂອງຂ້ອຍ.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">ຍັງເຫຼືອ %d ຄຳເຊີນ</item>
+        <item quantity="one">ຍັງເຫຼືອ %d ຄຳເຊີນ</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d ຂໍ້ຄວາມໃໝ່</item>
+        <item quantity="one">1 ຂໍ້ຄວາມໃໝ່</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d ຄົນ​ໄປ​ກ່ອນທ່ານ</item>
+        <item quantity="one">1 ຄົນ​ໄປ​ກ່ອນທ່ານ</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">ໂດຍ %1$s ແລະ %2$d ແອັບ​ອື່ນ</item>
+        <item quantity="one">ໂດຍ %1$s ແລະ %2$d ແອັບ​ອື່ນ</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">ຜູ້​ຕິດ​ຕາມ %1$,d ຄົນ</item>
+        <item quantity="one">ຜູ້​ຕິດ​ຕາມ​ໜຶ່ງ​ຄົນ</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d ເຂົ້າ​ເບິ່ງ</item>
+        <item quantity="one">ໜຶ່ງ​ເຂົ້າເບິ່ງ</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">ກຳ​ລັງ​ອັດ​ສຳ​ເນົາ​ບັນ​ຊີ Google ແລະ​ ຂໍ້​ມູນ​ຂອງ​ທ່ານ…</item>
+        <item quantity="one">ກຳ​ລັງ​ອັດ​ສຳ​ເນົາ​ບັນ​ຊີ Google ແລະ​ ຂໍ້​ມູນ​ຂອງ​ທ່ານ…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">ອຸ​ປະ​ກອນ​ນີ້​ຖືກ​ນຳ​ໃຊ້​ເພື່ອ​ຕັ້ງ ^1 ພ້ອມກັບບັນ​ຊີ Google ແລະ ​ຂໍ້​ມູນຂອງທ່ານ​</item>
+        <item quantity="one">ອຸ​ປະ​ກອນ​ນີ້​ຖືກ​ນຳ​ໃຊ້​ເພື່ອ​ຕັ້ງ ^1 ພ້ອມກັບບັນ​ຊີ Google ແລະ ​ຂໍ້​ມູນຂອງທ່ານ​</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">ກຳ​ລັງ​ຣີ​ບູດ​ເພື່ອ​ຕິດ​ຕັ້ງ​ໃນ​ອີກ %d ວິ​ນາ​ທີ…</item>
+        <item quantity="one">ກຳ​ລັງ​ຣີ​ບູດ​ເພື່ອ​ຕິດ​ຕັ້ງ​ໃນ​ອີກ 1 ວິນາທີ…</item>
+    </plurals>
+</resources>

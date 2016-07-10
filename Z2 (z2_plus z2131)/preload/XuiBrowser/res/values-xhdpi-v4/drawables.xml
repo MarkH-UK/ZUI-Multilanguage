@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="lite_loading">false</item>
+    <item type="drawable" name="lite_title_back">false</item>
+    <item type="drawable" name="lite_title_back_pressed">false</item>
+    <item type="drawable" name="lite_titlebar_bg">false</item>
+    <item type="drawable" name="lite_toolbar_jump">false</item>
+</resources>

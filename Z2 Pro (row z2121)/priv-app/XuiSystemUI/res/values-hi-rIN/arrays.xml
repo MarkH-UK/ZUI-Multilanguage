@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="volume_stream_titles">
+        <item>ध्वनि कॉल</item>
+        <item>सिस्टम</item>
+        <item>अधिसूचनाएँ</item>
+        <item>मीडिया</item>
+        <item>अलार्म</item>
+        <item></item>
+        <item>ब्लूटूथ कॉल्स</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

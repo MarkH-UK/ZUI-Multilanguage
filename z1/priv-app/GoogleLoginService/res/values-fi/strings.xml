@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Asenna Google Play -palvelut, jotta sovellus toimii.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Päivitä Google Play -palvelut, jotta sovellus toimii.</string>
+    <string name="common_android_wear_notification_needs_update_text">Android Wear -sovellus täytyy päivittää toisen sovelluksen takia.</string>
+    <string name="common_google_play_services_needs_enabling_title">Ota käyttöön Google Play -palvelut, jotta sovellus toimii.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Pyynnön teki %1$s</string>
+    <string name="common_google_play_services_install_title">Asenna Google Play -palvelut</string>
+    <string name="common_google_play_services_install_text_phone">Tämä sovellus ei toimi ilman Google Play -palveluita, jotka puuttuvat puhelimesta.</string>
+    <string name="common_google_play_services_install_text_tablet">Tämä sovellus ei toimi ilman Google Play -palveluita, jotka puuttuvat tablet-laitteesta.</string>
+    <string name="common_google_play_services_install_button">Asenna Google Play -palvelut</string>
+    <string name="common_google_play_services_enable_title">Ota Google Play -palvelut käyttöön</string>
+    <string name="common_google_play_services_enable_text">Tämä sovellus ei toimi, ellet ota Google Play -palveluita käyttöön.</string>
+    <string name="common_google_play_services_enable_button">Ota Google Play -palv. käyttöön</string>
+    <string name="common_google_play_services_update_title">Päivitä Google Play -palvelut</string>
+    <string name="common_android_wear_update_title">Päivitä Android Wear</string>
+    <string name="common_google_play_services_update_text">Tämä sovellus ei toimi, ellet päivitä Google Play -palveluita.</string>
+    <string name="common_android_wear_update_text">Tämä sovellus ei toimi, ellet päivitä Android Wear -sovellusta.</string>
+    <string name="common_google_play_services_network_error_title">Verkkovirhe</string>
+    <string name="common_google_play_services_network_error_text">Google Play -palveluiden käyttöön tarvitaan tietoliikenneyhteys.</string>
+    <string name="common_google_play_services_invalid_account_title">Tili ei kelpaa</string>
+    <string name="common_google_play_services_invalid_account_text">Kyseistä tiliä ei ole tällä laitteella. Valitse toinen tili.</string>
+    <string name="common_google_play_services_unknown_issue">Tuntematon ongelma käytettäessä Google Play -palveluita.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play -palvelut</string>
+    <string name="common_google_play_services_unsupported_text">Google Play -palveluita, joita osa sovelluksistasi käyttää, ei tueta laitteellasi. Pyydä ohjeita laitteen valmistajalta.</string>
+    <string name="common_google_play_services_update_button">Päivitä</string>
+    <string name="common_signin_button_text">Kirjaudu</string>
+    <string name="common_signin_button_text_long">Kirjaudu Google-tiliin</string>
+    <string name="common_open_on_phone">Avaa puhelimessa</string>
+    <string name="setup_wizard_next_button_label">Seuraava</string>
+    <string name="setup_wizard_back_button_label">Edellinen</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Ohita</string>
+    <string name="down_button_label">Lisää</string>
+    <string name="cancel_button_label">Peruuta</string>
+    <string name="try_again_button_label">Yritä uudelleen</string>
+    <string name="close_button_label">Sulje</string>
+    <string name="url_load_unsuccessful_message">Android-laitteesi ei ole yhteydessä verkkoon. Voit tarkastella näitä tietoja verkkoselaimella osoitteessa %s.</string>
+    <string name="sign_in_agreement">Kirjautumalla sisään hyväksyt Googlen <annotation id="tos">käyttöehdot</annotation>, <annotation id="google_privacy">tietosuojakäytännön</annotation> sekä <annotation id="play_tos">Google Playn käyttöehdot</annotation>.</string>
+    <string name="android_privacy_policy_title">Tietosuojalisäkäytäntö</string>
+    <string name="google_terms_of_service_title">Googlen käyttöehdot</string>
+    <string name="google_privacy_policy_title">Googlen tietosuojakäytäntö</string>
+    <string name="google_plus_privacy_policy_title">Google Plus -tietosuoja</string>
+    <string name="google_play_tos_title">Google Playn käyttöehdot</string>
+    <string name="chrome_tos_title">Chromen käyttöehdot</string>
+    <string name="chrome_privacy_title">Chromen tietosuojailmoitus</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android-laitetta ei ole kytketty Wi-Fi-verkkoon. Voit tarkastella näitä tietoja käymällä osoitteessa %s verkkoselaimella.</string>
+    <string name="services_activity_title">Googlen palvelut</string>
+    <string name="services_backup_heading">Varmuuskopio</string>
+    <string name="services_location_heading">Sijainti</string>
+    <string name="services_security_heading">Suojaus</string>
+    <string name="services_personalization_heading">Muokkaaminen</string>
+    <string name="services_communication_heading">Viestintä</string>
+    <string name="security_verify_apps_summary">Anna Googlen tarkistaa kaikki asennetut sovellukset mahdollisesti haitallisen toiminnan varalta, joka voi vaikuttaa laitteen tai tietojen suojaukseen.</string>
+    <string name="name_title">Nimi</string>
+    <string name="name_text">Nimeäsi käytetään puhelimesi ja Google-palveluidesi muokkaamiseen.</string>
+    <string name="first_name">Etunimi</string>
+    <string name="last_name">Sukunimi</string>
+    <string name="cant_be_blank">Kenttä ei voi olla tyhjä.</string>
+    <string name="sharedUserLabel">Googlen palvelut</string>
+    <string name="app_label">Tilivast.</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Kirjaudu sisään</string>
+    <string name="create_button_label">Hanki tili</string>
+    <string name="not_now_button_label">Ei nyt</string>
+    <string name="new_button_label">Uusi</string>
+    <string name="existing_button_label">Olemassa oleva</string>
+    <string name="done">OK</string>
+    <string name="edit_text_help">Ala kirjoittaa koskettamalla tekstiruutua</string>
+    <string name="add_a_google_account">Lisää Google-tili</string>
+    <string name="captcha_title">Kirjoita captcha-kuvan merkit</string>
+    <string name="show_error_title">Virhe</string>
+    <string name="server_error">Viestinnässä Googlen palvelimien kanssa esiintyi ongelma.</string>
+    <string name="server_error_help">Yritä myöhemmin uudelleen.</string>
+    <string name="network_unreliable">Luotettavaa palvelinyhteyttä ei voi muodostaa.</string>
+    <string name="network_unreliable_help">Tämä voi olla tilapäinen ongelma, tai tiedonsiirtopalvelut eivät ole käytössä Android-laitteessasi. Jos ongelma jatkuu, ota yhteyttä asiakastukeen.</string>
+    <string name="network_unreliable_help_wifi_only">Tämä voi olla väliaikainen ongelma. Yritä uudelleen tai muodosta yhteys toiseen Wi-Fi-verkkoon.</string>
+    <string name="invalid_login_character">Kielletty merkki. Sallittuja merkkejä ovat seuraavat: 0–9, a–z, A–Z sekä pisteet.</string>
+    <string name="invalid_password_character">Kielletty salasanamerkki.</string>
+    <string name="calendar">Google-kalenteri</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Kenttä ei voi olla tyhjä.</string>
+    <string name="plus_query_title">Päivittäminen Google+ -palveluun</string>
+    <string name="plus_query_text">Google+ tekee verkossa jakamisesta enemmän tosielämän kaltaista.</string>
+    <string name="circles_subtitle">Sinua kiinnostavia asioita</string>
+    <string name="circles_text">Ole yhteydessä läheisten ystävien kanssa ja tutki yhteisiä kiinnostuksen kohteita.</string>
+    <string name="uploads_subtitle">Automaattinen kuvien varmuuskopiointi</string>
+    <string name="uploads_text">Varmuuskopioi valokuvat heti niiden ottamisen jälkeen ilmaiseen ja yksityiseen tallennustilaan.</string>
+    <string name="huddle_subtitle">Videopuhelut ja viestit</string>
+    <string name="huddle_text">Nauti tekstiviesteistä, valokuvista ja ilmaisista ryhmävideopuheluista Hangouts-palvelun avulla.</string>
+    <string name="plus_declined_button_label">Ei nyt</string>
+    <string name="plus_accepted_button_label">Aloittaminen</string>
+    <string name="plus_name_check_title">Muodostetaan yhteyttä Google+:aan...</string>
+    <string name="plus_name_check_text">Tämä voi kestää muutaman minuutin.</string>
+    <string name="plus_faq_title">Tervetuloa Google+:aan!</string>
+    <string name="plus_faq_text" formatted="false">"Google+ -palvelussa sinulla on julkinen profiili, jonka avulla kaverisi voivat löytää sinut verkosta. Kuka tahansa, joka tietää sähköpostiosoitteesi, voi löytää profiilisi ja tarkastella sitä.
+
+Voit suositella verkkosivuja +1-painikkeiden avulla. Profiilisi ja +1-suosituksesi näkyvät julkisesti haussa, mainoksissa ja muualla verkossa.
+
+Toistaiseksi profiilissa näkyy vain nimesi (%s %s). Voit lisätä valokuvan ja muita tietoja myöhemmin, kun alat käyttää Google+ -palvelua."</string>
+    <string name="dasher_warning">Verkkotunnuksen %s järjestelmänvalvoja omistaa kaikki Google+ -tietosi ja hallinnoi niitä. Hän voi poistaa profiilisi tai muokata sitä milloin tahansa ilman lupaasi.</string>
+    <string name="profile_info_title">Oma profiili</string>
+    <string name="profile_text">Anna joitakin perustietoja profiiliisi. Voit lisätä valokuvan ja muita tietoja myöhemmin, kun alat käyttää Google+ -palvelua.</string>
+    <string name="occupation">Ammatti</string>
+    <string name="current_city">Nykyinen kaupunki</string>
+    <string name="picassa_info_title">Picasa ja Google+</string>
+    <string name="picassa_info_text" formatted="false">Picasa-verkkoalbumien valokuvasi ja videosi tulevat näkyviin Google+:ssa, ja omat kommenttisi näkyvät nimellä %s %s eivätkä käyttäjänimellä %s. Kun jaat kuvia Google+:ssa, muut voivat jakaa kuvia edelleen kenelle tahansa. Albumiesi näkyvyysasetukset eivät muutu. Voit rajoittaa kuvien jakamista milloin tahansa muuttamalla näkyvyysasetuksia.</string>
+    <string name="name_title_plus">Google+ -nimesi</string>
+    <string name="name_title_local">Tämän puhelimen omistaa...</string>
+    <string name="name_text_local">Puhelin muokkaa joitakin sovelluksia nimesi perusteella.</string>
+    <string name="name_progress_title">Hetki vain...</string>
+    <string name="bad_name_title">Haluatko käyttää tätä nimeä?</string>
+    <string name="invalid_name_title">Et voi käyttää tätä nimeä</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Jos haluat käyttää tätä Google+ -nimenäsi, tiimimme täytyy tarkistaa se. Jos nimi loukkaa nimikäytäntöämme, profiilisi voidaan jäädyttää. Tällöin voit käyttää aktiivisen profiilin vaativia Googlen tuotteita vain rajallisesti.
+
+"<annotation id="learn_more">Lisätietoja</annotation></string>
+    <string name="invalid_name_text">Tätä nimeä ei voi käyttää Google+ -palvelussa, koska se sisältää virheellisiä merkkejä.</string>
+    <string name="invalid_nickname_text">Tätä nimeä ei voi käyttää Google+ -palvelussa, koska se sisältää virheellisiä merkkejä. Yritätkö käyttää lempinimeä, edellistä nimeä tai arvonimeä? Voit lisätä ne profiiliisi palveluun liittymisen jälkeen.</string>
+    <string name="invalid_other_text">Tätä nimeä ei voi käyttää Google+:ssa.</string>
+    <string name="bad_name_agree_text">Ymmärrän ja haluan käyttää tätä nimeä.</string>
+    <string name="bad_name_decline_button_label">Päivitä nimi</string>
+    <string name="bad_name_agree_button_label">Lähetä nimi tarkistettavaksi</string>
+    <string name="bad_name_skip_button_label">Ohita Google+</string>
+    <string name="photo_title">Valokuvasi</string>
+    <string name="photo_text">Tätä kuvaa käytetään yhteystiedoissasi. Voit vaihtaa kuvan myöhemmin Ihmiset-sovelluksessa.</string>
+    <string name="photo_text_es">Ota kuva, jonka kaverisi näkevät Google+:ssa. Voit valita uuden kuvan myöhemmin.</string>
+    <string name="photo_button_label">Ota kuva</string>
+    <string name="retake_photo_button_label">Ota kuva uudelleen</string>
+    <string name="photo_failure">Kameraa ei voi käynnistää.</string>
+    <string name="crop_failure">Valokuvan rajaus epäonnistui.</string>
+    <string name="photo_description">Valokuvasi</string>
+    <string name="communicating_message">Puhelimesi muodostaa yhteyttä Googleen tallentaakseen tietoja tiliisi. Tämä voi kestää viisi minuuttia.</string>
+    <string name="creating_account_title">Tallennetaan tiliä...</string>
+    <string name="checking_username_message">"Puhelimesi ottaa yhteyttä Googleen ja tarkistaa, onko haluamasi käyttäjänimi vapaana.
+
+Tämä voi kestää muutaman minuutin."</string>
+    <string name="plus_failure_title">Liity Google+ -palveluun myöhemmin</string>
+    <string name="plus_failure_new_account_text">Google-tilisi on luotu, mutta Google+ -liittymispyyntösi ei mennyt perille. Yritä myöhemmin uudelleen millä tahansa selaimella osoitteessa plus.google.com.</string>
+    <string name="plus_failure_text">Google+ -liittymispyyntösi ei mennyt perille. Yritä myöhemmin uudelleen millä tahansa selaimella osoitteessa plus.google.com.</string>
+    <string name="provisioned_login_title">Anna salasana</string>
+    <string name="provisioned_welcome">Hei %s!</string>
+    <string name="provisioned_welcome_2">"Anna tilin
+%s salasana"</string>
+    <string name="provisioned_incorrect_login">Etkö ole %s?</string>
+    <string name="login_title">Kirjoita sähköpostiosoite ja salasana</string>
+    <string name="login_task_title">Kirjaudutaan sisään</string>
+    <string name="password">Salasana</string>
+    <string name="restore_wifi">Palauta ja yhdistä tunnettuihin Wi-Fi-verkkoihin.</string>
+    <string name="sign_in_agreement_multi_user">Kirjautumalla sisään hyväksyt Googlen <annotation id="tos">käyttöehdot</annotation>, <annotation id="google_privacy">tietosuojakäytännön</annotation> ja <annotation id="play_tos">Google Playn käyttöehdot</annotation>". 
+
+Muista: Kaikki käyttäjät voivat hyväksyä päivitettyjä sovelluksien käyttölupia puolestasi. Kuten kaikkien tietokoneiden tapauksessa, suosittelemme jakamaan tablet-laitteen vain luotettavien henkilöiden kanssa."</string>
+    <string name="sign_in_agreement_with_chrome">Kirjautumalla sisään hyväksyt Googlen <annotation id="tos">käyttöehdot</annotation> ja <annotation id="google_privacy">tietosuojakäytännön</annotation>, Chromen <annotation id="chrome_tos">käyttöehdot</annotation> ja <annotation id="chrome_privacy">tietosuojailmoituksen</annotation> sekä Google Playn <annotation id="play_tos">käyttöehdot</annotation>.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Kirjautumalla sisään hyväksyt Googlen <annotation id="tos">käyttöehdot</annotation>, <annotation id="google_privacy">tietosuojakäytännön</annotation>, Chromen <annotation id="chrome_tos">käyttöehdot</annotation> ja <annotation id="chrome_privacy">tietosuojailmoituksen</annotation> sekä Google Playn <annotation id="play_tos">käyttöehdot</annotation>". 
+
+Muista: Kaikki käyttäjät voivat hyväksyä päivitettyjä sovelluksien käyttölupia puolestasi. Kuten kaikkien tietokoneiden tapauksessa, suosittelemme jakamaan tablet-laitteen vain luotettavien henkilöiden kanssa."</string>
+    <string name="create_prompt">" Eikö sinulla ole Google-tiliä? "<annotation id="create_account">Luo tili nyt</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Kirjaudu sisään Google-tililläsi:</string>
+    <string name="invalid_username">Käyttäjätunnus ei kelpaa.</string>
+    <string name="captcha_instructions">Kirjoita näkemäsi teksti tähän:</string>
+    <string name="create_google_account">Valitse käyttäjänimi</string>
+    <string name="create_google_account_text">Google-tilisi sisältää Gmailin, Googlen sähköpostisovelluksen. Se toimii kaikilla laitteilla, estää roskapostia ynnä muuta.</string>
+    <string name="account_already_has_gmail">Gmail on jo käytössä tilillä.</string>
+    <string name="error_account_disabled">"Tämä tili on poistettu käytöstä. 
+
+(Lisätietoja saat käymällä verkkoselaimella osoitteessa http://google.com/accounts.)"</string>
+    <string name="no_network">Ei verkkoyhteyttä.</string>
+    <string name="no_network_help">Tämä voi olla väliaikainen ongelma tai Android-laitteelle ei ole määritetty tiedonsiirtoyhteyttä. Yritä uudelleen, kun olet muodostanut yhteyden mobiili- tai Wi-Fi-verkkoon.</string>
+    <string name="no_network_help_wifi_only">Tämä voi olla väliaikainen ongelma. Yritä uudelleen tai muodosta yhteys toiseen Wi-Fi-verkkoon.</string>
+    <string name="error_login_failed">"Käyttäjätunnus ja salasana eivät täsmää. Yritä uudelleen.
+
+Voit palauttaa tilisi tiedot siirtymällä sivulle google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Tätä tiliä ei ole vahvistettu. Vahvista tili avaamalla sähköpostiosoitteeseesi lähetetty vahvistuslinkki tietokoneella. 
+
+(Voit palauttaa tilitietosi tietokoneella osoitteessa http://www.google.com/accounts/recovery.)"</string>
+    <string name="exit_menu_item">Sulje selaimella kirjautuminen</string>
+    <string name="creating_profile">Luodaan profiilia</string>
+    <string name="checking_account">Tarkistetaan saatavuutta...</string>
+    <string name="is_not_available">Käyttäjätunnus <b>^1</b> ei ole käytettävissä.</string>
+    <string name="suggestions_hint">Saat ehdotuksia koskettamalla</string>
+    <string name="suggest_username_next_button_label">Vaihda käyttäjänimeä</string>
+    <string name="hint_size">" "<b>^1</b> sisältää alle 6 tai yli 30 merkkiä.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> ei sisällä yhtään kirjainta.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" voi sisältää vain kirjaimia,
+numeroita ja pisteitä."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> ei käytä Gmailia.</string>
+    <string name="sign_in_browser">Kirjautuminen selaimella</string>
+    <string name="alternatives_list_title">Käyttäjänimiehdotuksia</string>
+    <string name="password_title">Luo salasana</string>
+    <string name="choose_a_password">Salasana</string>
+    <string name="confirm_password">Kirjoita salasana uudelleen</string>
+    <string name="too_short">Liian lyhyt</string>
+    <string name="security_questions_title">Turvallisuuskysymykset</string>
+    <string name="answer">" "<b>Vastaus</b></string>
+    <string name="password_mismatch">Salasanat eivät täsmää. Yritä uudelleen.</string>
+    <string name="eight_chars_min">Vähintään 8 merkkiä</string>
+    <string name="verify_your_profile">Vahvista profiilisi</string>
+    <string name="error_not_logged_in">Käyttäjä ei ole kirjautunut sisään.</string>
+    <string name="error_username_unavailable">Käyttäjätunnus ei ole käytettävissä.</string>
+    <string name="error_bad_password">Salasana on liian heikko, tai se sisältää kiellettyjä merkkejä. Yritä uudelleen.</string>
+    <string name="error_bad_username">Virheellinen käyttäjänimi.</string>
+    <string name="existing_account_error_title">Tili on jo olemassa</string>
+    <string name="existing_account_error_text">Tällä Android-laitteella on jo tili ^1.</string>
+    <string name="submission_title">Pahoittelemme…</string>
+    <string name="submission_error_text">Tapahtui virhe. Yritä uudelleen.</string>
+    <string name="sync_intro_title">Tilin synkronointi</string>
+    <string name="account_tos_title">Viimeistele tili</string>
+    <string name="account_tos_plus_title">Viimeistele Google+:aan liittyminen</string>
+    <string name="i_accept">Hyväksyn</string>
+    <string name="i_decline">Älä luo tiliä</string>
+    <string name="allow_personalized_content">Google voi käyttää tietojani muokatakseen sisältöä ja mainoksia muissa kuin Googlen sivustoissa.</string>
+    <string name="enable_web_history">Ota verkkohistoria käyttöön</string>
+    <string name="learn_more"><annotation id="learn_more">Lisätietoja</annotation></string>
+    <string name="account_creation_tos">Kirjautumalla sisään hyväksyt Googlen <annotation id="tos">käyttöehdot</annotation>, <annotation id="google_privacy">tietosuojakäytännön</annotation> sekä <annotation id="play_tos">Google Playn käyttöehdot</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Kirjautumalla sisään hyväksyt Googlen <annotation id="tos">käyttöehdot</annotation> ja <annotation id="google_privacy">tietosuojakäytännön</annotation>, Chromen <annotation id="chrome_tos">käyttöehdot</annotation> ja <annotation id="chrome_privacy">tietosuojailmoituksen</annotation> sekä Google Playn <annotation id="play_tos">käyttöehdot</annotation>.</string>
+    <string name="gender_prompt">Sukupuoli</string>
+    <string name="gender_hint">Sukupuoli</string>
+    <string name="account_pre_intro_title">Onko sinulla Google-tili?</string>
+    <string name="account_pre_intro_default_message">"Onko sinulla Google-tili?
+
+Jos käytät Gmailia tai Google Appsia, vastaus on kyllä."</string>
+    <string name="account_pre_intro_yes">Kyllä</string>
+    <string name="account_pre_intro_no">Ei</string>
+    <string name="account_intro_title">Google-tili</string>
+    <string name="account_intro_required_title">Palvelun tarjoaa Google</string>
+    <string name="account_intro_recommended_title">Hanki Google-tili</string>
+    <string name="account_intro_default_message">Enää et menetä tietoja. Google-tili pitää kaiken turvassa.</string>
+    <string name="account_intro_simple_message">Haluatko lisätä olemassa olevan tilin vai luoda uuden?</string>
+    <string name="account_intro_learn_more">Lisätietoja</string>
+    <string name="learn_more_title">Lisätietoja</string>
+    <string name="learn_more_account_intro">"Google-tilin avulla voit
+
+"<li><ul>tarkastella ja järjestellä kaikki tietosi, kuten hakuhistoriasi, mistä tahansa</ul></li>"
+
+"<li><ul>varmuuskopioida automaattisesti tietosi, kuten sähköpostit, yhteystiedot, musiikin ja kuvat</ul></li>"
+
+"<li><ul>käyttää Googlen palveluita, kuten yhteystietoja, kalenteria, Mapsia ynnä muita, helposti mistä tahansa.</ul></li></string>
+    <string name="learn_more_account_intro_title">Tietoja Google-tileistä</string>
+    <string name="learn_more_bad_name">Google+ edellyttää virallisen nimen käyttöä. Profiilisi tulee edustaa yksittäistä ihmistä – ei yritystä, organisaatiota tai perhettä. Nimessä tulisi olla etu- ja sukunimi yhdellä kielellä ilman ammattinimikkeitä tai ylimääräisiä välimerkkejä. Rekisteröitymisen jälkeen voit lisätä profiilisi Muut nimet -kenttään nimimerkkejä tai muita nimiä, joilla sinut tunnetaan.</string>
+    <string name="learn_more_bad_name_title">Tietoja nimikäytännöstä</string>
+    <string name="wait_for_device_country_title">Tilin asetukset</string>
+    <string name="wait_for_device_country_msg">Kerätään puhelimen tietoja. Tämä voi kestää 30 sekuntia.</string>
+    <string name="recovery_title">Google-salasanan palautus</string>
+    <string name="recovery_wait_title">Muodostetaan yhteys Googleen…</string>
+    <string name="cannot_talk_to_server_msg">Laite ei saanut yhteyttä Googleen.</string>
+    <string name="recovery_skip_label">Ohita</string>
+    <string name="recovery_retry_label">Yritä uudelleen</string>
+    <string name="recovery_message_set">"Jos satut unohtamaan salasanasi, sen palauttaminen on tärkeää.
+
+Google mahdollistaa salasanan palauttamisen tekstiviestillä tai vaihtoehtoisen sähköpostiosoitteen avulla.
+
+Suosittelemme tätä vaihetta voimakkaasti. "<annotation id="help_url">Lisätietoja</annotation></string>
+    <string name="recovery_message_verify">"Salasanat unohtuvat helposti.
+
+Vahvista puhelinnumero tai palauttamisen sähköpostiosoite nyt. Näiden tietojen avulla saat tarvittaessa Google- ja Google Play -sisältösi uudelleen käyttöön helpommin. "<annotation id="help_url">Lisätietoja</annotation></string>
+    <string name="recovery_yes_button_label">Määritä palautusasetukset</string>
+    <string name="recovery_yes_button_label_verify">Vahvista palautusasetukset</string>
+    <string name="recovery_later_button_label">Ei nyt</string>
+    <string name="recovery_input_screen_message">Nämä palautustiedot koskevat sovellusta %s.</string>
+    <string name="secondary_email_hint">Varasähköpostiosoite</string>
+    <string name="secondary_email_invalid">Sähköpostiosoite ei kelpaa</string>
+    <string name="secondary_email_same_as_primary">Oltava eri kuin ensis. osoite</string>
+    <string name="phone_number_hint">Puhelinnumero</string>
+    <string name="phone_number_invalid_character">Puhelinnumerossa on kiellettyjä merkkejä</string>
+    <string name="phone_number_invalid">Virheellinen puhelinnumero</string>
+    <string name="country_invalid">Tätä maata ei sallita</string>
+    <string name="recovery_server_error">Virhe palvelinyhteydessä. Yritä myöhemmin uudelleen.</string>
+    <string name="account_recovery_info">Jos unohdat salasanasi, voimme lähettää salasananvaihtolinkin toiseen sähköpostiosoitteeseen, kun vastaat oikein turvakysymykseen.</string>
+    <string name="secondary_email_label">Palauttamisen sähköpostiosoite</string>
+    <string name="invalid_email">"Antamasi sähköpostiosoite on virheellinen.
+ Esimerkki: joe@example.com"</string>
+    <string name="invalid_email_primary">Palautusosoite ei voi olla sama kuin luotava osoite.</string>
+    <string name="backup_consent_message">"Käytä Google-tiliä sovelluksien, asetuksien (kuten kirjanmerkkien ja Wi-Fi-salasanojen) sekä muiden tietojen varmuuskopioimiseen. Jos olet varmuuskopioinut tilisi aikaisemmin, voit palauttaa sen tähän puhelimeen nyt.
+
+Voit muuttaa varmuuskopioinnin asetuksia Asetuksissa milloin tahansa."</string>
+    <string name="backup_consent_message_no_restore">"Käytä Google-tiliä sovelluksien, asetuksien (kuten kirjanmerkkien ja Wi-Fi-salasanojen) sekä muiden tietojen varmuuskopioimiseen.
+
+Voit muuttaa varmuuskopioinnin asetuksia Asetuksissa milloin tahansa."</string>
+    <string name="restoring_title">Palautetaan...</string>
+    <string name="restoring_message">Puhelimesi ottaa yhteyttä Googleen palauttaakseen tilisi. Tässä voi kestää jonkin aikaa.</string>
+    <string name="gls_notification_login_error">Kirjaudu tiliisi koskettamalla.</string>
+    <string name="gls_ui_add_account_title">Tilin asetukset</string>
+    <string name="gls_ui_activity_title">Kirjaudu sisään</string>
+    <string name="gls_ui_activity_title_browser_signin">Kirjaudu sisään</string>
+    <string name="gls_ui_activity_title_checking_in">Valmistellaan...</string>
+    <string name="gls_ui_activity_authenticating">Todennetaan…</string>
+    <string name="gls_dmagent_activity_activate_message">" Verkkotunnuksesi edellyttää mobiililaitehallintaa. Asenna Google Apps -laitekäytäntö -sovellus ottaaksesi käyttöön  "<b>^1</b> -tilin edellyttämät suojauskäytännöt.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Ota käyttöön</string>
+    <string name="gls_dmagent_activity_download_message">" Verkkotunnuksesi edellyttää mobiililaitehallintaa. Asenna Google Apps -laitekäytäntö -sovellus ottaaksesi käyttöön  "<b>^1</b> -tilin edellyttämät suojauskäytännöt.</string>
+    <string name="gls_dmagent_activity_download_retry_button">Lataa</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Kirjoitit virheellisen salasanan tai tili on muuttunut. Kirjoita salasana uudelleen.</string>
+    <string name="permlab_googleAuthPassword">Google-tilien salasanojen käyttäminen</string>
+    <string name="permdesc_googleAuthPassword">Sallii sovelluksen käyttää suoraan määrittämiesi Google-tilien salasanoja.</string>
+    <string name="permlab_googleMailSwitch">Gmail- tai Google Mail -nimen valitseminen</string>
+    <string name="permdesc_googleMailSwitch">Sallii sovellusten vaihdella Gmail- ja Google Mail -nimien välillä.</string>
+    <string name="sync_item_title">Synkronoi %s</string>
+    <string name="grant_credentials_permission_message_footer">Ne pyytävät lupaa:</string>
+    <string name="grant_credentials_permission_message_app">Nämä sovellukset haluavat käyttää Google-tiliäsi:</string>
+    <string name="grant_permissions_header_text">Lupapyyntö</string>
+    <string name="allow">Anna käyttölupa</string>
+    <string name="deny">Ei kiitos</string>
+    <string name="permission_request_notification_with_subtitle">"Pyydetään lupaa
+tilille %s"</string>
+    <string name="notification_title">Kirjautumisvirhe tilille %1$s</string>
+    <string name="account_setup_title">Google-tili</string>
+    <string name="login_activity_title">Kirjaudu sisään</string>
+    <string name="relogin_activity_title">Kirjoita salasana uudelleen</string>
+    <string name="show_error_activity_title">Kirjautuminen ei onnistu</string>
+    <string name="login_activity_task_title">Kirjaudutaan...</string>
+    <string name="login_activity_task_msg">Tämä voi kestää muutaman minuutin.</string>
+    <string name="prepare_account_setup_task_title">Valmistellaan tilin asennusta…</string>
+    <string name="prepare_account_setup_task_msg">Tämä voi kestää muutaman minuutin.</string>
+    <string name="sync_intro_activity_title">Synkronoi tilisi</string>
+    <string name="username">Sähköposti</string>
+    <string name="error_invalid_second_factor">Käytä sovelluskohtaista salasanaa tavallisen salasanasi sijaan.</string>
+    <string name="error_needs_browser">Sinun tulee kirjautua sisään verkossa käyttääksesi tiliäsi. Käynnistä kirjautuminen selaimella koskettamalla Seuraava.</string>
+    <string name="google_play_opt_in">Pidä minut ajan tasalla Google Playta koskevista uutisista ja tarjouksista.</string>
+    <string name="google_settings_header_title">Tietosuoja</string>
+    <string name="maps_settings_title">Maps ja Latitude</string>
+    <string name="location_settings_title">Sijainti</string>
+    <string name="search_settings_title">Haku</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Mainokset</string>
+    <string name="location_network_based">Googlen sijaintipalvelu</string>
+    <string name="location_neighborhood_level">Anna Googlen kerätä anonyymejä sijaintitietoja. Anna myös sovelluksien määrittää sijaintisi Wi-Fi- ja mobiiliverkk. tiet. avulla.</string>
+    <string name="use_location_title">Sijainti ja Google-haku</string>
+    <string name="use_location_summary">Anna Googlen käyttää sijaintia hakutulosten ja muiden palveluiden parantamiseen.</string>
+    <string name="backup_consent_yes_agree">Google-tilisi avulla voit varmuuskopioida sovelluksesi, asetuksesi (kuten kirjanmerkit ja Wi-Fi-verkkojen salasanat) sekä muut tiedot.</string>
+    <string name="restore_consent_yes_agree">Tuo tähän puhelimeen sovellukset, asetukset ja muut tiedot, jotka olet aiemmin varmuuskopioinut Google-tiliisi.</string>
+    <string name="audit_logging_summary">Lähetä automaattisesti laitetapahtuma- ja vianmääritystietoja Googlelle, jotta voimme parantaa tuotteitamme ja suojata laitettasi.</string>
+    <string name="no_back_msg">Et voi palata edelliseen vaiheeseen.</string>
+    <string name="setup_wizard_title">Ohjattu asennustoiminto</string>
+    <string name="setup_wizard_services_activity_title">Googlen palvelut</string>
+    <string name="setup_wizard_services_description">Palvelut auttavat sinua hyödyntämään Googlea tehokkaasti. Voit ottaa ne käyttöön ja poistaa ne käytöstä milloin tahansa. Tietoja käytetään Googlen <annotation id="google_privacy">tietosuojakäytännön</annotation> mukaisesti.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Varmuuskopiointi ja palautus</string>
+    <string name="setup_wizard_services_location_heading">Sijainti</string>
+    <string name="setup_wizard_services_communication_heading">Viestintä</string>
+    <string name="setup_wizard_services_backup"><b>Varmuuskopioi puhelimesi sovellukset, sovelluksien tiedot, asetukset, omat sanakirjat ja Wi-Fi-salasanat</b> Google-tiliisi, jotta voit palauttaa ne myöhemmin helposti. <annotation id="backup_details">Lisätietoja</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Varmuuskopioi sovellukset, sovelluksien tiedot, asetukset, omat sanakirjat ja Wi-Fi-salasanat</b> Google-tiliisi, jotta voit palauttaa ne myöhemmin helposti.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Tallennettavia tietoja ovat sovellukset, sovellus- ja järjestelmäasetukset sekä Wi-Fi-salasanat.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Kun kytket automaattisen varmuuskopioinnin, laitteesi tiedot tallentuvat määräajoin Google-tilillesi. Varmuuskopiot voivat sisältää sovellustietokansioissa olevia tietoja, kuten oletuksia, asetuksia, viestejä, valokuvia ja muita tiedostoja.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Käytä Googlen sijaintipalvelua</b>, niin autat sovelluksia määrittämän sijainnin. Googlelle lähetetään anonyymejä sijaintitietoja – myös kun sovelluksia ei ole käytössä. <annotation id="location_details">Lisätietoja</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Googlen sijaintipalvelu auttaa arvioimaan laitteesi sijainnin nopeammin ja tarkemmin käyttämällä lähteitä, kuten Wi-Fi- ja mobiiliverkkoja. Kun otat palvelun käyttöön, laite siirtyy tilaan, jossa sijaintitietoja hankitaan Wi‑Fi- ja mobiiliverkkojen avulla. Voit poistaa tilan käytöstä sijaintiasetuksissa valitsemalla tilan, jossa käytössä on vain GPS. Siihen voidaan viitata nimellä Vain laite -tila.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Auta parantamaan sijaintipalveluita</b> antamalla sovellusten ja palveluiden etsiä verkkoja myös kun Wi‑Fi ei ole käytössä.</string>
+    <string name="setup_wizard_services_location_footnote">Googlen sijaintipalvelu määrittää sijainnin tarkemmin ja nopeammin Wi-Fi- ja muiden signaalien avulla ja usein alhaisemmalla virrankulutuksella kuin GPS. Laitteeseesi saatetaan tallentaa joitakin tietoja. Tietoja saatetaan kerätä myös silloin, kun sovellukset eivät ole käytössä.</string>
+    <string name="setup_wizard_services_play"><b>Lähettäkää minulle</b> tarjouksia ja uutisia Google Playsta.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Auta parantamaan Androidin käyttökokemusta</b> lähettämällä laitteen diagnostiikka- ja käyttötietoja automaattisesti Googlelle. Tietojen avulla parannetaan esimerkiksi akun kestoa, sovellusten suorituskykyä ja Googlen uusia ominaisuuksia. Tietoja ei käytetä henkilöllisyytesi selvittämiseen. <annotation id="usage_reporting_details">Lisätietoja</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Tiedot ovat yleisiä laitteeseen ja sen käyttöön liittyviä tietoja, kuten tietoja akun varaustasosta ja sovellusten käyttötiheydestä sekä verkkoyhteyksien laadusta ja kestosta (esim. matkapuhelinverkko, Wi-Fi ja Bluetooth). Googlelle lähetään myös virheraportteja, jos kaikki ei toimi kuten pitäisi. Tietoja ei liitetä Google-tiliisi, vaan niiden avulla parannetaan Googlen tuotteita ja palveluita kaikkien käyttäjien iloksi ja hyödyksi. Kumppaneille, kuten Android-kehittäjille, toimitetaan koottuja tietoja, jotta he voivat parantaa omia sovelluksiaan ja tuotteitaan.
+
+Voit poistaa tietojen lähettämisen käytöstä milloin tahansa Google-asetukset-sovelluksella. Laitteesi voi sen jälkeenkin lähettää esimerkiksi järjestelmä- ja tietoturvapäivitysten vastaanottamista varten tarvittavia tietoja."</string>
+    <string name="setup_wizard_services_agreement">Puhelin saattaa myös vastaanottaa päivityksiä ja sovelluksia Googlelta, operaattorilta ja laitteen valmistajalta. Joitakin sovelluksia saatetaan ladata ja asentaa, jos jatkat. Voit poistaa ne milloin tahansa.</string>
+</resources>

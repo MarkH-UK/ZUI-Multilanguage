@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <include latin:keyboardLayout="@xml/key_styles_common" />
+    <Row latin:keyWidth="7.6920033%p">
+        <include latin:keyboardLayout="@xml/rowkeys_pcqwerty1" />
+    </Row>
+    <Row latin:keyWidth="7.6920033%p">
+        <include latin:keyboardLayout="@xml/rowkeys_pcqwerty2" />
+    </Row>
+    <Row latin:keyWidth="7.6920033%p">
+        <include latin:keyXPos="3.8460016%p" latin:keyboardLayout="@xml/rowkeys_pcqwerty3" />
+        <Key latin:keyStyle="deleteKeyStyle" latin:visualInsetsLeft="0.99999905%p" latin:keyWidth="fillRight" />
+    </Row>
+    <Row latin:keyWidth="7.6920033%p">
+        <Key latin:keyStyle="shiftKeyStyle" latin:visualInsetsRight="0.99999905%p" latin:keyWidth="11.538005%p" />
+        <include latin:keyboardLayout="@xml/rowkeys_pcqwerty4" />
+        <Key latin:keyStyle="shiftKeyStyle" latin:visualInsetsLeft="0.99999905%p" latin:keyWidth="fillRight" />
+    </Row>
+    <include latin:keyboardLayout="@xml/row_pcqwerty5" />
+</merge>

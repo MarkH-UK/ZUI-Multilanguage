@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="@string/mailbox_settings_sync_enabled_label" android:key="sync_enabled" android:summary="@string/mailbox_settings_sync_enabled_summary" android:defaultValue="false" />
+    <ListPreference android:persistent="false" android:entries="@array/account_settings_mail_window_entries_with_default" android:title="@string/mailbox_settings_mailbox_sync_window_label" android:key="sync_window" android:dialogTitle="@string/mailbox_settings_mailbox_sync_window_label" android:entryValues="@array/account_settings_mail_window_values_with_default" />
+</PreferenceScreen>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <Key latin:additionalMoreKeys="۱,1" latin:keySpec="ض" latin:keyHintLabel="۱" />
+    <Key latin:additionalMoreKeys="۲,2" latin:keySpec="ص" latin:keyHintLabel="۲" />
+    <Key latin:additionalMoreKeys="۳,3" latin:keySpec="ث" latin:keyHintLabel="۳" />
+    <Key latin:additionalMoreKeys="۴,4" latin:keySpec="ق" latin:keyHintLabel="۴" />
+    <Key latin:additionalMoreKeys="۵,5" latin:keySpec="ف" latin:keyHintLabel="۵" />
+    <Key latin:additionalMoreKeys="۶,6" latin:keySpec="غ" latin:keyHintLabel="۶" />
+    <Key latin:additionalMoreKeys="۷,7" latin:keySpec="ع" latin:keyHintLabel="۷" />
+    <Key latin:moreKeys="ﻫ|ه‍,هٔ,ة,%" latin:additionalMoreKeys="۸,8" latin:keySpec="ه" latin:keyHintLabel="۸" />
+    <Key latin:additionalMoreKeys="۹,9" latin:keySpec="خ" latin:keyHintLabel="۹" />
+    <Key latin:additionalMoreKeys="۰,0" latin:keySpec="ح" latin:keyHintLabel="۰" />
+    <Key latin:keySpec="ج" />
+</merge>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_icon_width">28.0dip</dimen>
+    <dimen name="setting_header_icon_width">28.0dip</dimen>
+    <dimen name="setting_header_icon_height">28.0dip</dimen>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXWeek">
+        <item>週日</item>
+        <item>週一</item>
+        <item>週二</item>
+        <item>週三</item>
+        <item>週四</item>
+        <item>週五</item>
+        <item>週六</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>組織</item>
+        <item>備註</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>預設</item>
+        <item>鋼琴</item>
+    </string-array>
+</resources>

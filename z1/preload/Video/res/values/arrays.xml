@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_selected_channel">
+        <item>频道：</item>
+        <item>全部</item>
+        <item>电影</item>
+        <item>电视剧</item>
+        <item>纪录片</item>
+        <item>动漫</item>
+        <item>音乐</item>
+        <item>综艺</item>
+        <item>娱乐</item>
+        <item>游戏</item>
+        <item>旅游</item>
+        <item>片花</item>
+        <item>教育</item>
+        <item>时尚</item>
+        <item>少儿</item>
+        <item>微电影</item>
+        <item>体育</item>
+        <item>生活</item>
+        <item>广告</item>
+        <item>搞笑</item>
+        <item>财经</item>
+        <item>资讯</item>
+        <item>汽车</item>
+        <item>原创</item>
+        <item>军事</item>
+        <item>母婴</item>
+        <item>科技</item>
+        <item>脱口秀</item>
+        <item>健康</item>
+    </string-array>
+    <string-array name="search_selected_length">
+        <item>时长：</item>
+        <item>全部</item>
+        <item>0-10分</item>
+        <item>10-30分</item>
+        <item>30-60分</item>
+        <item>60分钟以上</item>
+    </string-array>
+    <string-array name="search_selected_publish_time">
+        <item>发布时间：</item>
+        <item>全部</item>
+        <item>一天</item>
+        <item>一周</item>
+        <item>一月</item>
+    </string-array>
+    <string-array name="search_selected_quality">
+        <item>画质：</item>
+        <item>全部</item>
+        <item>高清</item>
+        <item>720P</item>
+        <item>1080P</item>
+    </string-array>
+    <string-array name="booster_whitelist_filterword">
+        <item>.apk</item>
+        <item>.rmvb</item>
+        <item>.epub</item>
+        <item>.umd</item>
+        <item>.txt</item>
+        <item>.mp3</item>
+    </string-array>
+    <string-array name="channle_sort_list">
+        <item>排序:</item>
+        <item>最热</item>
+        <item>最新</item>
+        <item>评分</item>
+        <item>字母</item>
+    </string-array>
+    <string-array name="music_top_titles">
+        <item>本期榜单</item>
+        <item>往期榜单</item>
+        <item>粉丝榜</item>
+    </string-array>
+</resources>

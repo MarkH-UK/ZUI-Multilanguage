@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/utouch_custom_press_two"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/utouch_unuse" android:key="utouch_unuse" />
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/utouch_back_home" android:key="utouch_back_home_light_press" />
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/utouch_switch_app_history" android:key="utouch_switch_app_history" />
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/utouch_off_screen" android:key="utouch_off_screen" />
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/utouch_app_history" android:key="utouch_app_history" />
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/utouch_down_notification" android:key="utouch_down_notificaion" />
+    <PreferenceCategory android:key="preference_cateory" />
+    <PreferenceCategory android:title="@string/utouch_open_specific_app" android:key="utouch_open_specific_app_cateory" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/utouch_left_slide" android:key="home_button_slide_left_behavior" android:summary="@string/utouch_unuse" android:widgetLayout="@layout/preference_widget_forward" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/utouch_right_slide" android:key="home_button_slide_right_behavior" android:summary="@string/utouch_unuse" android:widgetLayout="@layout/preference_widget_forward" />
+    <PreferenceCategory android:key="oppen_application_category" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/utouch_open_app" android:key="utouch_custom_open_application" android:summary="@string/utouch_unuse" android:widgetLayout="@layout/preference_widget_forward" />
+</PreferenceScreen>

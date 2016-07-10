@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="list_item_text_duration">#777777</color>
+    <color name="ted_actionbar_text_color">#ffffffff</color>
+    <color name="ted_text_color_white">#ffffffff</color>
+    <color name="ted_text_color_grey">#ffc3c3c3</color>
+    <color name="gionee_calllog_large_text_color">#000000</color>
+    <color name="gionee_calllog_small_text_color">#99000000</color>
+    <color name="list_item_bg_a">#eaeaea</color>
+    <color name="ted_transparent_color">#00000000</color>
+    <color name="contact_item_price">#FF6000</color>
+    <color name="zuk_compose_text_color">#000000</color>
+    <color name="zuk_hint_color">#999d9c</color>
+    <color name="zuk_mms_send_btn_color">#ff00925f</color>
+    <color name="zuk_compose_text_count_color">#ff000000</color>
+    <color name="zuk_mms_send_btn_color_unable">#000000</color>
+    <color name="separator_color">#eaeaea</color>
+    <color name="vertical_separator_color">#E5E5E5</color>
+    
+    <color name="cardbase_btn_text_color">#8c8c8c</color>
+    <color name="cardbase_text_color_white">#FFFFFF</color>
+    <color name="cardbase_text_color_black">#000000</color>
+    <color name="cardbase_text_color_half_black">#10000000</color>
+    <color name="cardbase_text_color_blue">#006789</color>
+    <color name="cardbase_text_color_black_1">#5c5c5c</color>
+    
+   	<!-- add by ted-lzg for theme switch (20150122) -->
+    <color name="sms_card_background_color">#131419</color>
+    <color name="sms_card_title_text_color">#8c8c8c</color>
+    <color name="sms_card_button_line_color">#27292f</color>
+    <color name="sms_card_icon_mask_color">#00000000</color>
+</resources>

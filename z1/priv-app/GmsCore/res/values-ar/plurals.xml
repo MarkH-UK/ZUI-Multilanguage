@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">تم تجاوز القيد بعدد %1$d من الأحرف</item>
+        <item quantity="zero">لم يتم تجاوز القيد %1$d</item>
+        <item quantity="one">تم تجاوز القيد بحرف %1$d</item>
+        <item quantity="two">تم تجاوز القيد بحرفين (%1$d)</item>
+        <item quantity="few">تم تجاوز القيد بعدد %1$d أحرف</item>
+        <item quantity="many">تم تجاوز القيد بعدد %1$d حرفًا</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">يتبقى %1$d من الأحرف</item>
+        <item quantity="zero">لا تتبقى أحرف %1$d</item>
+        <item quantity="one">يتبقى حرف %1$d</item>
+        <item quantity="two">يتبقى حرفان (%1$d)</item>
+        <item quantity="few">يتبقى %1$d أحرف</item>
+        <item quantity="many">يتبقى %1$d حرفًا</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">‏%d من الحسابات في Google</item>
+        <item quantity="zero">‏%d حسابات Google</item>
+        <item quantity="one">‏حساب واحد (%d) في Google</item>
+        <item quantity="two">‏حسابان ‏(%d) في Google</item>
+        <item quantity="few">‏%d حسابات في Google</item>
+        <item quantity="many">‏%d حسابًا في Google</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">‏ تم استخدام هذا الجهاز لإعداد ^1 باستخدام حساباتك في Google وبياناتها.</item>
+        <item quantity="zero">تم استخدام هذا الجهاز لإعداد ^1 بدون استخدام أي حساب أو بياناته.</item>
+        <item quantity="one">‏ تم استخدام هذا الجهاز لإعداد ^1 باستخدام حسابك في Google والبيانات المرتبطة به</item>
+        <item quantity="two">‏ تم استخدام هذا الجهاز لإعداد ^1 باستخدام حسابيك في Google وبياناتهما.</item>
+        <item quantity="few">‏ تم استخدام هذا الجهاز لإعداد ^1 باستخدام حساباتك في Google وبياناتها.</item>
+        <item quantity="many">‏ تم استخدام هذا الجهاز لإعداد ^1 باستخدام حساباتك في Google وبياناتها.</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">‏ %d من الساعات</item>
+        <item quantity="zero">أقل من ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان</item>
+        <item quantity="few">‏ %d ساعات</item>
+        <item quantity="many">‏ %d ساعة</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">‏ %d من الدقائق</item>
+        <item quantity="zero">‏ %d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">‏ دقيقتان (%d)</item>
+        <item quantity="few">‏ %d دقائق</item>
+        <item quantity="many">‏ %d دقيقة</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">لم يتم إرسال هذه الدعوات نظرًا لوجود خطأ</item>
+        <item quantity="one">لم يتم إرسال هذه الدعوة نظرًا لوجود خطأ</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">لا يمكن إرسال هذه الدعوات في الوقت الحالي. يمكنك إرسالها مرة أخرى من Google Play > حسابي.</item>
+        <item quantity="one">لا يمكن إرسال هذه الدعوة في الوقت الحالي. يمكنك إرسالها مرة أخرى من Google Play > حسابي.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">عدد الدعوات المتبقية: %d</item>
+        <item quantity="one">تتبقى دعوة %d</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d رسالة جديدة</item>
+        <item quantity="zero">%1$d رسالة جديدة</item>
+        <item quantity="one">رسالة واحدة جديدة</item>
+        <item quantity="two">رسالتان جديدتان (%1$d)</item>
+        <item quantity="few">%1$d رسائل جديدة</item>
+        <item quantity="many">%1$d رسالة جديدة</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">هناك %1$d من الأشخاص قبلك</item>
+        <item quantity="zero">ليس هناك أي شخص قبلك (%1$d)</item>
+        <item quantity="one">شخص واحد قبلك</item>
+        <item quantity="two">هناك شخصان قبلك (%1$d)</item>
+        <item quantity="few">هناك %1$d أشخاص قبلك</item>
+        <item quantity="many">هناك %1$d شخصًا قبلك</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d دائرة</item>
+        <item quantity="zero">%d دائرة</item>
+        <item quantity="one">دائرة واحدة</item>
+        <item quantity="two">دائرتان (%d)</item>
+        <item quantity="few">%d دوائر</item>
+        <item quantity="many">%d دائرة</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d من الأيام</item>
+        <item quantity="zero">%d من الأيام</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان (%d)</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يومًا</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d من الساعات</item>
+        <item quantity="zero">%d من الساعات</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان (%d)</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d من الدقائق</item>
+        <item quantity="zero">%d من الدقائق</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان (%d)</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d من الأيام</item>
+        <item quantity="zero">%d من الأيام</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان (%d)</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يومًا</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d من الساعات</item>
+        <item quantity="zero">%d من الساعات</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان (%d)</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d من الدقائق</item>
+        <item quantity="zero">%d من الدقائق</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان (%d)</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d شخص</item>
+        <item quantity="zero">%d شخص</item>
+        <item quantity="one">شخص واحد</item>
+        <item quantity="two">شخصان (%d)</item>
+        <item quantity="few">%d أشخاص</item>
+        <item quantity="many">%d شخصًا</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">‏بواسطة %1$s و%2$d تطبيق آخر</item>
+        <item quantity="zero">‏بواسطة %1$s و%2$d تطبيق آخر</item>
+        <item quantity="one">‏بواسطة %1$s و%2$d تطبيق آخر</item>
+        <item quantity="two">‏بواسطة %1$s وتطبيقين (%2$d) آخرين</item>
+        <item quantity="few">‏بواسطة %1$s و%2$d تطبيقات أخرى</item>
+        <item quantity="many">‏بواسطة %1$s و%2$d تطبيقًا آخر</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">يوم واحد (%d)</item>
+        <item quantity="two">يومان (%d)</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يومًا</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">ساعة واحدة (%d)</item>
+        <item quantity="two">ساعتان (%d)</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">دقيقة واحدة (%d)</item>
+        <item quantity="two">دقيقتان (%d)</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s شخص</item>
+        <item quantity="zero">%1$s شخص</item>
+        <item quantity="one">شخص واحد (%1$s)</item>
+        <item quantity="two">شخصان (%1$s)</item>
+        <item quantity="few">%1$s أشخاص</item>
+        <item quantity="many">%1$s شخصًا</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">‏%1$,d من المتابعين</item>
+        <item quantity="zero">لا متابعين</item>
+        <item quantity="one">متابع واحد</item>
+        <item quantity="two">‏متابعان (%1$,d)</item>
+        <item quantity="few">‏%1$,d متابعين</item>
+        <item quantity="many">‏%1$,d متابعًا</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d من المشاهدات</item>
+        <item quantity="zero">لا مشاهدات</item>
+        <item quantity="one">مشاهدة واحدة</item>
+        <item quantity="two">مشاهدتان</item>
+        <item quantity="few">%1$,d مشاهدات</item>
+        <item quantity="many">%1$,d مشاهدة</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">‏ جارٍ نسخ حساباتك في Google والبيانات…</item>
+        <item quantity="zero">‏ لا يتم نسخ حساباتك في Google والبيانات…</item>
+        <item quantity="one">‏ جارٍ نسخ حسابك في Google والبيانات…</item>
+        <item quantity="two">‏ جارٍ نسخ حسابي Google والبيانات…</item>
+        <item quantity="few">‏ جارٍ نسخ حساباتك في Google والبيانات…</item>
+        <item quantity="many">‏ جارٍ نسخ حساباتك في Google والبيانات…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">‏تم استخدام هذا الجهاز لإعداد ^1 باستخدام حساباتك في Google والبيانات</item>
+        <item quantity="zero">‏لم يتم استخدام هذا الجهاز لإعداد ^1 باستخدام حساباتك في Google والبيانات</item>
+        <item quantity="one">‏تم استخدام هذا الجهاز لإعداد ^1 باستخدام حسابك في Google والبيانات</item>
+        <item quantity="two">‏تم استخدام هذا الجهاز لإعداد ^1 باستخدام حسابي Google والبيانات</item>
+        <item quantity="few">‏تم استخدام هذا الجهاز لإعداد ^1 باستخدام حساباتك في Google والبيانات</item>
+        <item quantity="many">‏تم استخدام هذا الجهاز لإعداد ^1 باستخدام حساباتك في Google والبيانات</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">جارٍ إعادة التشغيل للتثبيت خلال %d ثانية...</item>
+        <item quantity="one">جارٍ إعادة التشغيل للتثبيت خلال ثانية واحدة...</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">عرض قائمة تتضمن %1$d من الخيارات للعنوان</item>
+        <item quantity="zero">Showing list of %1$d address options</item>
+        <item quantity="one">عرض قائمة تتضمن خيارًا واحدًا للعنوان</item>
+        <item quantity="two">عرض قائمة تتضمن خيارين (%1$d) للعنوان</item>
+        <item quantity="few">عرض قائمة تتضمن %1$d خيارات للعنوان</item>
+        <item quantity="many">عرض قائمة تتضمن %1$d خيارًا للعنوان</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">عرض قائمة تضم %1$d من العناصر.</item>
+        <item quantity="zero">Showing list of %1$d items.</item>
+        <item quantity="one">عرض قائمة تضم عنصرًا واحدًا.</item>
+        <item quantity="two">عرض قائمة تضم عنصرين (%1$d).</item>
+        <item quantity="few">عرض قائمة تضم %1$d عناصر.</item>
+        <item quantity="many">عرض قائمة تضم %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">عرض قائمة تتضمن %1$d من خيارات طريقة الدفع</item>
+        <item quantity="zero">Showing list of %1$d payment method options</item>
+        <item quantity="one">عرض قائمة تتضمن خيارًا واحدًا لطريقة الدفع</item>
+        <item quantity="two">عرض قائمة تتضمن خيارين (%1$d) لطريقة الدفع</item>
+        <item quantity="few">عرض قائمة تتضمن %1$d خيارات لطريقة الدفع</item>
+        <item quantity="many">عرض قائمة تتضمن %1$d خيارًا لطريقة الدفع</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">عرض قائمة تتضمن %1$d من الخيارات لبرامج الولاء</item>
+        <item quantity="zero">Showing list of %1$d loyalty program options</item>
+        <item quantity="one">عرض قائمة تتضمن خيارًا واحدًا لبرنامج الولاء</item>
+        <item quantity="two">عرض قائمة تتضمن خيارين (%1$d) لبرامج الولاء</item>
+        <item quantity="few">عرض قائمة تتضمن %1$d خيارات لبرامج الولاء</item>
+        <item quantity="many">عرض قائمة تتضمن %1$d خيارًا لبرامج الولاء</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">من الدقائق</item>
+        <item quantity="zero">minutes</item>
+        <item quantity="one">دقيقة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">دقائق</item>
+        <item quantity="many">دقيقة</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d من الأيام&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="zero">You will be automatically charged &amp;lt;price>%1$s every %2$d days&amp;lt;/price> starting &amp;lt;start_time>%3$s&amp;lt;/start_time> until you cancel your subscription.</item>
+        <item quantity="one">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل يوم&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="two">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل يومين (%2$d)&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="few">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d أيام&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="many">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d يومًا&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d من الأيام&amp;lt;/price> على مدى الأيام الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">You will be automatically charged &amp;lt;price>%1$s every %2$d days&amp;lt;/price> for the next &amp;lt;duration>%3$d days&amp;lt;/duration> starting &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل يوم&amp;lt;/price> على مدى الأيام الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="two">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d يومين&amp;lt;/price> على مدى الأيام الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d أيام&amp;lt;/price> على مدى الأيام الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="many">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d يومًا&amp;lt;/price> على مدى الأيام الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d من الأيام&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="zero">You will be automatically charged &amp;lt;price>%1$s plus any applicable tax every %2$d days&amp;lt;/price> starting &amp;lt;start_time>%3$s&amp;lt;/start_time> until you cancel your subscription.</item>
+        <item quantity="one">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل يوم&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="two">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل يومين (%2$d)&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="few">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d أيام&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="many">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d يومًا&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d من الأيام&amp;lt;/price> وعلى مدى الأيام الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">You will be automatically charged &amp;lt;price>%1$s plus any applicable tax every %2$d days&amp;lt;/price> for the next &amp;lt;duration>%3$d days&amp;lt;/duration> starting &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل يوم&amp;lt;/price> وعلى مدى الأيام الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="two">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل يومين (%2$d)&amp;lt;/price> وعلى مدى الأيام الـ &amp;lt;duration>%3$d التالية &amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d أيام&amp;lt;/price> وعلى مدى الأيام الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="many">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d يومًا&amp;lt;/price> على مدى الأيام الـ &amp;lt;duration>%3$d التالية &amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d من الأشهر&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="zero">You will be automatically charged &amp;lt;price>%1$s every %2$d months&amp;lt;/price> starting &amp;lt;start_time>%3$s&amp;lt;/start_time> until you cancel your subscription.</item>
+        <item quantity="one">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل شهر&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="two">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل شهرين (%2$d)&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="few">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d أشهر&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="many">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d شهرًا&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d من الأشهر&amp;lt;/price> على مدى الأشهر الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">You will be automatically charged &amp;lt;price>%1$s every %2$d months&amp;lt;/price> for the next &amp;lt;duration>%3$d months&amp;lt;/duration> starting &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل شهر&amp;lt;/price> على مدى الأشهر الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="two">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل شهرين (%2$d)&amp;lt;/price> على مدى الأشهر الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d أشهر&amp;lt;/price> على مدى الأشهر الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="many">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d شهرًا&amp;lt;/price> على مدى الأشهر الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d من الأشهر&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="zero">You will be automatically charged &amp;lt;price>%1$s plus any applicable tax every %2$d months&amp;lt;/price> starting &amp;lt;start_time>%3$s&amp;lt;/start_time> until you cancel your subscription.</item>
+        <item quantity="one">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل شهر&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="two">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل شهرين (%2$d)&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="few">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d أشهر&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="many">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d شهرًا&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d من الأشهر&amp;lt;/price> وعلى مدى الأشهر الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">You will be automatically charged &amp;lt;price>%1$s plus any applicable tax every %2$d months&amp;lt;/price> for the next &amp;lt;duration>%3$d months&amp;lt;/duration> starting &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل شهر&amp;lt;/price> وعلى مدى الأشهر الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="two">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل شهرين (%2$d)&amp;lt;/price> وعلى مدى الأشهر الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d أشهر&amp;lt;/price> وعلى مدى الأشهر الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="many">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d شهرًا&amp;lt;/price> وعلى مدى الأشهر الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d من السنوات&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="zero">You will be automatically charged &amp;lt;price>%1$s every %2$d years&amp;lt;/price> starting &amp;lt;start_time>%3$s&amp;lt;/start_time> until you cancel your subscription.</item>
+        <item quantity="one">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل سنة&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="two">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل سنتين (%2$d)&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="few">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d سنوات&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="many">سيتمّ تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d سنة&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d من السنوات&amp;lt;/price> على مدى السنوات الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">You will be automatically charged &amp;lt;price>%1$s every %2$d years&amp;lt;/price> for the next &amp;lt;duration>%3$d years&amp;lt;/duration> starting &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل سنة&amp;lt;/price> على مدى السنوات الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="two">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل سنتين (%2$d)&amp;lt;/price> على مدى السنوات الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d سنوات&amp;lt;/price> على مدى السنوات الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="many">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s كل %2$d سنة&amp;lt;/price> على مدى السنوات الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d من السنوات&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="zero">s You will be automatically charged &amp;lt;price>%1$s plus any applicable tax every %2$d years&amp;lt;/price> starting &amp;lt;start_time>%3$s&amp;lt;/start_time> until you cancel your subscription.</item>
+        <item quantity="one">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل سنة&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="two">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل سنتين (%2$d)&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="few">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d سنوات&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+        <item quantity="many">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d سنة&amp;lt;/price> ابتداءً من &amp;lt;start_time>%3$s&amp;lt;/start_time> وحتى إلغاء الاشتراك.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d من السنوات&amp;lt;/price> وعلى مدى السنوات الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> اعتبارًا من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">You will be automatically charged &amp;lt;price>%1$s plus any applicable tax every %2$d years&amp;lt;/price> for the next &amp;lt;duration>%3$d years&amp;lt;/duration> starting &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل سنة&amp;lt;/price> وعلى مدى السنوات الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="two">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل سنتين (%2$d)&amp;lt;/price> وعلى مدى السنوات الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="few">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d سنوات&amp;lt;/price> وعلى مدى السنوات الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="many">سيتم تلقائيًا تحصيل رسوم قدرها &amp;lt;price>%1$s فضلاً عن أي ضريبة سارية كل %2$d سنة&amp;lt;/price> وعلى مدى السنوات الـ &amp;lt;duration>%3$d التالية&amp;lt;/duration> ابتداءً من &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+</resources>

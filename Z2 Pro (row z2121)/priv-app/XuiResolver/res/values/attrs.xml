@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="itemHeight" format="dimension" />
+    <attr name="itemMinHeight" format="dimension" />
+    <attr name="itemMaxHeight" format="dimension" />
+    <attr name="itemWidth" format="dimension" />
+    <attr name="itemMinWidth" format="dimension" />
+    <attr name="itemMaxWidth" format="dimension" />
+    <attr name="gridColumnCount" format="integer" />
+    <attr name="gridLandColumnCount" format="integer" />
+    <attr name="gridRowCount" format="integer" />
+    <attr name="gridLandRowCount" format="integer" />
+    <attr name="itemPaddingLeft" format="dimension" />
+    <attr name="itemPaddingRight" format="dimension" />
+    <attr name="itemPaddingTop" format="dimension" />
+    <attr name="itemPaddingBottom" format="dimension" />
+    <attr name="gridItemGap" format="integer" />
+    <attr name="gridItemGapLand" format="integer" />
+    <attr name="gridItemGapPort" format="integer" />
+</resources>

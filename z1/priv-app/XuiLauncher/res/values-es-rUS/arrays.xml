@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>Animación predeterminada</item>
+        <item>Girar</item>
+        <item>Excavadora</item>
+        <item>Molino</item>
+        <item>Cubo</item>
+        <item>Sinusoide</item>
+        <item>Cilindro</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Ninguna</item>
+        <item>Abrir menú de escritorio</item>
+        <item>Mostrar aplicaciones usadas recientemente</item>
+        <item>Abrir barra de notificaciones</item>
+        <item>Icono Buscar</item>
+        <item>Bloquear pantalla</item>
+    </string-array>
+    <string-array name="pref_text_color_choices">
+        <item>Diseño del tema</item>
+        <item>Negro</item>
+        <item>Blanco</item>
+    </string-array>
+</resources>

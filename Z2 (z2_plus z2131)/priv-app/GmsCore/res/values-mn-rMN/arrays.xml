@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Уушийн газар</item>
+        <item>Кафе</item>
+        <item>Шатахуун түгээгүүр</item>
+        <item>Кино театр</item>
+        <item>Лоджин</item>
+        <item>Шөнийн клуб</item>
+        <item>Музей</item>
+        <item>Ресторан</item>
+        <item>Худалдааны төв</item>
+        <item>Дэлгүүр</item>
+        <item>Хүнсний дэлгүүр, эсвэл супермаркет</item>
+        <item>Бусад</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>муу</item>
+        <item>энгийн</item>
+        <item>сайн</item>
+        <item>маш сайн</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Блютүүт</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Хувилбар</item>
+        <item>Хөгжүүлэгч</item>
+        <item>Жижиглэн</item>
+        <item>Демо</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Утас, машин нь нийцэхгүй програм ажиллуулж байна. Дэлгэрэнгүй мэдээллийг &lt;a href="android.com/auto">android.com/auto&lt;/a>-аас</item>
+        <item>Машины аудио болон/буюу видео тохируулга буруу байна.</item>
+        <item>"USB холболт хэвийн ажиллахгүй байна. Хэвийн болгохын тулд: 
+
+• Кабель нь хоёр төгсгөлд таарч байгаа эсэхийг шалгаарай. 
+• Та дата USB кабельтай эсэхээ шалгаарай. 
+• Машин, утсанд огноо, цагийг зөв оруулсан эсэхийг шалгаарай."</item>
+        <item>Машин Android Auto ажиллуулахаа зогссон байна.</item>
+        <item>Android Auto горим хүсэлтээр зогссон байна.</item>
+        <item>Машины программ хангамж хуучирсан байж болзошгүй. Дэлгэрэнгүй мэдээлэл авахын тулд үйлдвэрлэгчтэй холбоо барина уу.</item>
+        <item>Таны машины программ хангамж Android Auto аюулгүй байдлын шалгалтуудыг давж чадсангүй. Дэлгэрэнгүй мэдээлэл авахын тулд үйлдвэрлэгч холбоо барина уу.</item>
+        <item>Таны машины программ хангамж Android Auto аюулгүй байдлын шалгалтуудыг давж чадсангүй. Машины огноо, цагийг зөв тохируулсан, мөн Android Auto шинэчлэгдсэн эсэхийг шалгана уу.</item>
+        <item>Үйлдэлийн хугацаа хэтэрсэн. Та гэмтлийг мэдээлж, санал хүсэлтээ илгээнэ үү.</item>
+        <item>Та эхлүүлэгч суулгаагүй байгаа бололтой, таны утас зөв тохируулагдсан уу?</item>
+        <item>Графикийн шугам унтарсан. Та гэмтлийг мэдээлж, санал хүсэлтээ явуулна уу.</item>
+        <item>Машин утасны зурваст хариу өгөхгүй байна. Машин буруу төлөвт байж магадгүй.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Нисэх онгоцны буудал</item>
+        <item>ATM</item>
+        <item>Банк</item>
+        <item>Уушийн газар</item>
+        <item>Автобусны буудал</item>
+        <item>Кафе</item>
+        <item>Хоноглох газар</item>
+        <item>Оршуулгын газар</item>
+        <item>Сүм</item>
+        <item>Хотын захиргаа</item>
+        <item>Байгууламж</item>
+        <item>Шатахуун түгээгүүр</item>
+        <item>Хүнсний дэлгүүр эсвэл супермаркет</item>
+        <item>Хинди сүм</item>
+        <item>Эмнэлэг</item>
+        <item>Номын сан</item>
+        <item>Амрах газар</item>
+        <item>Сүм</item>
+        <item>Кино театр</item>
+        <item>Музей</item>
+        <item>Парк</item>
+        <item>Машины зогсоол</item>
+        <item>Мөргөлийн газар</item>
+        <item>Цагдаагийн газар</item>
+        <item>Шуудан</item>
+        <item>Ресторан</item>
+        <item>Сургууль</item>
+        <item>Дэлгүүр</item>
+        <item>Метроны буудал</item>
+        <item>Жүүдийн сүм</item>
+        <item>Галт тэрэгний буудал</item>
+        <item>Дамжин өнгөрөх буудал</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>1-р сар</item>
+        <item>2-р сар</item>
+        <item>3-р сар</item>
+        <item>4-р сар</item>
+        <item>5-р сар</item>
+        <item>6-р сар</item>
+        <item>7-р сар</item>
+        <item>8-р сар</item>
+        <item>9-р сар</item>
+        <item>10-р сар</item>
+        <item>11-р сар</item>
+        <item>12-р сар</item>
+    </string-array>
+</resources>

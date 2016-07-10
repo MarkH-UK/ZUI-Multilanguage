@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="launch_logo_padding_bottom">50.0dip</dimen>
+    <dimen name="mail_read_header_btn_show_detial_margin_right">10.0dip</dimen>
+    <dimen name="meeting_button_icon_padding">12.0dip</dimen>
+    <dimen name="popup_menu_extend_margin_right">22.0dip</dimen>
+    <dimen name="pref_edit_item_title_width">90.0dip</dimen>
+</resources>

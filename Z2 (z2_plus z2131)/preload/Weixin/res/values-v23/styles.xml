@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="is" parent="@style/ir">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="dd">@style/ra</item>
+    </style>
+    <style name="iu" parent="@style/ip">
+        <item name="dd">@style/ra</item>
+    </style>
+    <style name="ra" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Menu">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+</resources>

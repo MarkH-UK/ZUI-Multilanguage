@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <Key latin:keySpec="ذ" />
+    <Key latin:keySpec="ئ" />
+</merge>

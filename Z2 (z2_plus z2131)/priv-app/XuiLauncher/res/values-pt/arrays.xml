@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Predefinir cidade</item>
+        <item>Eliminar esta cidade</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Animação padrão</item>
+        <item>Girar</item>
+        <item>Trator</item>
+        <item>Moinho</item>
+        <item>Cubo</item>
+        <item>Onda Senoidal</item>
+        <item>Cilindro</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Nenhum</item>
+        <item>Abrir menu da área de trabalho</item>
+        <item>Mostrar aplicativos usados recentemente</item>
+        <item>Abrir barra de notificação</item>
+        <item>Ícone Localizar</item>
+        <item>Tela de bloqueio</item>
+    </string-array>
+    <string-array name="pref_text_color_choices">
+        <item>Design do tema</item>
+        <item>Preto</item>
+        <item>Branco</item>
+    </string-array>
+</resources>

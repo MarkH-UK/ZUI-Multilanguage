@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Бар</item>
+        <item>Кафене</item>
+        <item>Бензиностанция</item>
+        <item>Кино</item>
+        <item>Настаняване</item>
+        <item>Нощен клуб</item>
+        <item>Музей</item>
+        <item>Ресторант</item>
+        <item>Търговски център</item>
+        <item>Магазин</item>
+        <item>Бакалница или супермаркет</item>
+        <item>Друго</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>лоша</item>
+        <item>задоволителна</item>
+        <item>добра</item>
+        <item>надеждна</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>КБП</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Стандартна версия</item>
+        <item>За програмисти</item>
+        <item>Търговия на дребно</item>
+        <item>Демонстрация</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Телефонът и автомобилът са с несъвместим софтуер. За подробности посетете &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Автомобилът подаде информация за неправилен набор от аудио- и/или видеоконфигурации.</item>
+        <item>"USB връзката не работи правилно. Неща, които да изпробвате: 
+
+• уверете се, че кабелът е свързан правилно и в двата края; 
+• уверете се, че имате USB кабел за пренос на данни; 
+• уверете се, че датата и часът са зададени правилно на автомобила и телефона ви."</item>
+        <item>Автомобилът спря работата на Android Auto.</item>
+        <item>Сесията на Android Auto спря по заявка.</item>
+        <item>Възможно е софтуерът на автомобила да не е актуален. За подробности и поддръжка се свържете с производителя.</item>
+        <item>Софтуерът на автомобила ви не премина проверките за сигурност на Android Auto. За подробности и поддръжка се свържете с производителя.</item>
+        <item>Софтуерът на автомобила ви не премина проверките за сигурност на Android Auto. Уверете се, че датата и часът на автомобила са зададени правилно и че приложението Android Auto е актуализирано.</item>
+        <item>Времето за изчакване на дадено действие изтече. Трябва да изготвите отчет за програмни грешки и да изпратите отзив.</item>
+        <item>Изглежда, че нямате инсталиран стартов панел. Правилно ли е настроен телефонът ви?</item>
+        <item>Графичният софтуер току-що спря да работи. Трябва да изготвите отчет за програмни грешки и да изпратите отзив.</item>
+        <item>Автомобилът не отговаря на съобщения от телефона. Автомобилът може да е в неправилно състояние.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Летище</item>
+        <item>Банкомат</item>
+        <item>Банка</item>
+        <item>Бар</item>
+        <item>Автогара</item>
+        <item>Кафене</item>
+        <item>Къмпинг</item>
+        <item>Гробище</item>
+        <item>Църква</item>
+        <item>Община</item>
+        <item>Учреждение</item>
+        <item>Бензиностанция</item>
+        <item>Бакалница или супермаркет</item>
+        <item>Мандир</item>
+        <item>Болница</item>
+        <item>Библиотека</item>
+        <item>Настаняване</item>
+        <item>Джамия</item>
+        <item>Кино</item>
+        <item>Музей</item>
+        <item>Парк</item>
+        <item>Паркинг</item>
+        <item>Място за поклонение</item>
+        <item>Полицейски участък</item>
+        <item>Поща</item>
+        <item>Ресторант</item>
+        <item>Училище</item>
+        <item>Магазин</item>
+        <item>Метростанция</item>
+        <item>Синагога</item>
+        <item>Гара</item>
+        <item>Транспортен терминал</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>януари</item>
+        <item>февруари</item>
+        <item>март</item>
+        <item>април</item>
+        <item>май</item>
+        <item>юни</item>
+        <item>юли</item>
+        <item>август</item>
+        <item>септември</item>
+        <item>октомври</item>
+        <item>ноември</item>
+        <item>декември</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Спиране на споделянето</item>
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>Неограничено време</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Спиране на споделянето</item>
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>1 час</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Изберете защитен въпрос</item>
+        <item>Първият ви телефонен номер?</item>
+        <item>Как се казва най-добрият ви приятел от детството?</item>
+        <item>Името на първия ви учител?</item>
+        <item>Името на началника на първата ви работа?</item>
+        <item>Регистрационният номер на превозното ви средство?</item>
+    </string-array>
+</resources>

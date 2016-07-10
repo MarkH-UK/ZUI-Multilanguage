@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dashboard-categories
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <dashboard-category android:id="@id/wireless_section" android:title="@null">
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_airplane_mode" android:id="@id/toggle_airplane" android:title="@string/airplane_mode" settings:hasSub="false" settings:widgetResId="@layout/dashboard_tile_widget_switch" />
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_wlan" android:id="@id/wifi_settings" android:title="@string/wifi_settings_title" android:fragment="com.android.settings.wifi.WifiSettings" settings:widgetResId="@layout/dashboard_tile_widget_textview" />
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_bluetooth" android:id="@id/bluetooth_settings" android:title="@string/bluetooth_settings_title" android:fragment="com.android.settings.bluetooth.BluetoothSettings" settings:widgetResId="@layout/dashboard_tile_widget_textview" />
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_mobile_network" android:id="@id/mobile_network_settings" android:title="@string/network_settings_title" settings:widgetResId="@layout/dashboard_tile_widget_textview">
+            <intent android:targetPackage="com.lenovo.leos.mobileNetworkSettings" android:action="android.intent.action.MAIN" android:targetClass="com.lenovo.leos.mobileNetworkSettings.MobileNetworkSettings" />
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_mult_card" android:id="@id/sim_settings" android:title="@string/multi_card_management_title" settings:widgetResId="@layout/dashboard_tile_widget_textview">
+            <intent android:targetPackage="com.lenovo.leos.simsettings" android:action="android.intent.action.MAIN" android:targetClass="com.lenovo.leos.simsettings.SimSettingsActivity" />
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_vpn" android:id="@id/default_vpn" android:title="@string/vpn_settings_title" android:fragment="com.android.settings.vpn2.VpnSettings" settings:widgetResId="@layout/dashboard_tile_widget_textview" />
+    </dashboard-category>
+    <dashboard-category android:id="@id/control_section" android:title="@null">
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_utouch" android:id="@id/utouch_settings" android:title="@string/u_touch_settings" android:fragment="com.android.settings.UTouchGuideFragment" settings:widgetResId="@layout/dashboard_tile_widget_textview" />
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_notification_statusbar" android:id="@id/notification_status_bar_settings" android:title="@string/notifications_status_bar_title">
+            <intent android:targetPackage="com.zui.homesettings" android:action="android.intent.action.MAIN" android:targetClass="com.zui.notification.setting.NotificationManagerActivity" />
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_control_center" android:id="@id/control_center_settings" android:title="@string/control_center_title">
+            <intent android:targetPackage="com.android.systemui" android:action="android.intent.action.MAIN" android:targetClass="com.android.systemui.controlcenter.ui.CustomSwitchPositionActivity" />
+        </dashboard-tile>
+    </dashboard-category>
+    <dashboard-category android:id="@id/common_section" android:title="@null">
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_wallpaper" android:id="@id/wallpaper_settings" android:title="@string/wallpaper_settings_title">
+            <intent android:targetPackage="com.zui.homesettings" android:action="android.intent.action.MAIN" android:targetClass="com.zui.wallpaper.activity.WallpaperMainActivity" />
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_displaylight" android:id="@id/display_brightness_settings" android:title="@string/display_and_brightness_settings_title" android:fragment="com.android.settings.DisplayBrightnessSettings" />
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_sound_vibrate" android:id="@id/sound_vibrate_settings" android:title="@string/sound_vibrate_title" android:fragment="com.android.settings.notification.NotificationSettings" />
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_fingerprint_password" android:id="@id/fingerprint_settings" android:title="@string/finger_print_password_title">
+            <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.fap.FapFpSettingsActivity">
+                <extra android:name="start_from_settings" android:value="true" />
+            </intent>
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_security_privacy" android:id="@id/lockscreen_security_settings" android:title="@string/security_privacy_title" android:fragment="com.android.settings.SecurityPrivacySettings" />
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_advanced_settings" android:id="@id/advanced_settings" android:title="@string/advanced_settings_title" android:fragment="com.android.settings.AdvancedSettings" />
+    </dashboard-category>
+    <dashboard-category android:id="@id/system_app_section" android:title="@null">
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_cloud_service" android:id="@id/system_app_syncit" android:title="@string/system_app_title_cloud_service">
+            <intent android:action="com.zui.cloudservice.intent.action.SYNC_SETTING" />
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_phone" android:id="@id/system_app_phone" android:title="@string/system_app_title_phone">
+            <intent android:targetPackage="com.zui.contacts" android:action="android.intent.action.MAIN" android:targetClass="com.android.newcontact.vl.activity.XContactsPreferenceActivity">
+                <extra android:name=":android:show_fragment" android:value="com.android.newcontact.vl.fragment.XDisplayOptionsPreferenceFragment" />
+            </intent>
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_contacts" android:id="@id/system_app_contacts" android:title="@string/system_app_title_contacts">
+            <intent android:action="xui.intent.action.SYS_APP_SETTINGS_CONTACTS" />
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_sms" android:id="@id/system_app_sms" android:title="@string/system_app_title_sms">
+            <intent android:action="android.intent.action.xui.mmssettings" />
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_camera" android:id="@id/system_app_camera" android:title="@string/system_app_title_camera">
+            <intent android:targetPackage="com.zui.camera" android:action="android.intent.action.MAIN" android:targetClass="com.zui.camera.settings.CameraSettingsActivity" />
+        </dashboard-tile>
+    </dashboard-category>
+    <dashboard-category android:id="@id/about_section" android:title="@null">
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_ota" android:id="@id/xui_ota" android:title="@string/system_update_settings_list_item_title">
+            <intent android:action="com.zui.intent.SystemUpgradeClient">
+                <extra android:name="start_pkg_name" android:value="com.android.settings" />
+            </intent>
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/xui_ic_settings_about" android:id="@id/about_settings" android:title="@string/about_settings_title" android:fragment="com.android.settings.DeviceInfoSettings" />
+    </dashboard-category>
+</dashboard-categories>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Google Play ծառայությունների սխալ կա</string>
+    <string name="z">Ինչ-որ հավելված պահանջում է թարմացնել Google Play ծառայությունները:</string>
+    <string name="a0">%1$s հավելվածի Android Wear համակարգը պետք է թարմացվի:</string>
+    <string name="a1">Ինչ-որ հավելված պահանջում է միացնել Google Play ծառայությունները:</string>
+    <string name="a2">%1$s-ի հարցմամբ</string>
+    <string name="a3">Տեղադրեք Google Play ծառայությունները</string>
+    <string name="a4">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք չկան ձեր հեռախոսում:</string>
+    <string name="a5">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք չկան ձեր պլանշետում:</string>
+    <string name="a6">Տեղադրել Google Play ծառայությունները</string>
+    <string name="a7">Միացնել Google Play ծառայությունները</string>
+    <string name="a8">%1$s հավելվածը չի աշխատի մինչև չմիացնեք Google Play ծառայությունները:</string>
+    <string name="a9">Միացնել Google Play ծառայությունները</string>
+    <string name="a_">Նորացրեք Google Play ծառայությունները</string>
+    <string name="aa">Թարմացնել Android Wear-ը</string>
+    <string name="ab">%1$s հավելվածը չի աշխատի մինչև չթարմացնեք Google Play ծառայությունները:</string>
+    <string name="ac">%1$s հավելվածը չի գործարկվի մինչև չթարմացնեք Android Wear համակարգը:</string>
+    <string name="ad">Google Play ծառայությունների թարմացում</string>
+    <string name="ae">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք այս պահին թարմացվում են:</string>
+    <string name="af">Ցանցի սխալ կա</string>
+    <string name="ag">Պահանջվում է տվյալների կապ` Google Play ծառայություններին միանալու համար:</string>
+    <string name="ah">Հաշիվն անվավեր է</string>
+    <string name="ai">Նշված հաշիվը գոյություն չունի այս սարքում: Ընտրեք այլ հաշիվ:</string>
+    <string name="aj">Անհայտ խնդիր՝ Google Play ծառայություններում:</string>
+    <string name="ak">Google Play ծառայություններ</string>
+    <string name="al">%1$s հավելվածի համար հարկավոր են Google Play ծառայություններ, որոնք ձեր սարքը չի աջակցում: Օգնություն ստանալու համար կապվեք արտադրողի հետ:</string>
+    <string name="am">Նորացնել</string>
+    <string name="an">Մուտք գործել</string>
+    <string name="ao">Մուտք գործեք Google-ով</string>
+    <string name="ap">Բացել հեռախոսում</string>
+    <string name="aq">%1$s հավելվածի համար պահանջվում է մեկ կամ մի քանի Google Play ծառայություններ, որոնք այս պահին հասանելի չեն: Օգնություն ստանալու համար կապվեք մշակողի հետ:</string>
+    <string name="ar">Մուտքը ձախողվեց</string>
+    <string name="as">Նշված հաշիվ մուտք գործելիս առաջացել է սխալ: Ընտրեք մեկ այլ հաշիվ:</string>
+</resources>

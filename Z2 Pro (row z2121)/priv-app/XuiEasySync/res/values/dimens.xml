@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="divider_height">2.0px</dimen>
+    <dimen name="margin_sub_text">3.0dip</dimen>
+    <dimen name="margin_second_text">1.0dip</dimen>
+    <dimen name="margin_xxs">4.0dip</dimen>
+    <dimen name="margin_xs">8.0dip</dimen>
+    <dimen name="margin_s">12.0dip</dimen>
+    <dimen name="margin_m">16.0dip</dimen>
+    <dimen name="margin_l">24.0dip</dimen>
+    <dimen name="text_s">12.0sp</dimen>
+    <dimen name="text_m">14.0sp</dimen>
+    <dimen name="text_l">15.0sp</dimen>
+    <dimen name="text_xl">17.0sp</dimen>
+    <dimen name="title">17.0dip</dimen>
+    <dimen name="edition">14.0dip</dimen>
+    <dimen name="notify_icon_size">42.0dip</dimen>
+    <dimen name="item_icon_size">32.0dip</dimen>
+    <dimen name="item_icon_size_m">44.0dip</dimen>
+    <dimen name="title_height">46.0dip</dimen>
+    <dimen name="item_height">52.0dip</dimen>
+    <dimen name="item_height_m">60.0dip</dimen>
+    <dimen name="item_height_l">76.0dip</dimen>
+    <dimen name="dialog_title_height">72.0dip</dimen>
+    <dimen name="bottom_dialog_title_height">72.0dip</dimen>
+    <dimen name="dialog_round_radius">9.0px</dimen>
+    <dimen name="button_radius">9.0px</dimen>
+    <dimen name="button_height">44.0dip</dimen>
+    <dimen name="clock_circle">150.0dip</dimen>
+    <dimen name="clock_panel_finger_length">8.0dip</dimen>
+    <dimen name="clock_panel_finger_width">1.0dip</dimen>
+    <dimen name="clock_percent">44.0dip</dimen>
+    <dimen name="clock_percent_unit">18.0dip</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="mr_media_route_list_item">false</item>
+    <item type="layout" name="plus_progress_dialog">false</item>
+    <item type="layout" name="udc_settings_item">false</item>
+    <item type="layout" name="udc_settings_item_alt">false</item>
+    <item type="layout" name="place_picker_place_list_add_a_place_entry">false</item>
+    <item type="layout" name="place_picker_place_list_header">false</item>
+</resources>

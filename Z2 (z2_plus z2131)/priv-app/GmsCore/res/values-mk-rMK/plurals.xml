@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d знаци над ограничувањето</item>
+        <item quantity="one">%1$d знак над ограничувањето</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d преостанати знаци</item>
+        <item quantity="one">%1$d преостанат знак</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d сметки на Google</item>
+        <item quantity="one">%d сметка на Google</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Уредов се користеше за поставување ^1 со сметките на Google и податоците од нив</item>
+        <item quantity="one">Уредов се користеше за поставување ^1 со сметката на Google и податоците од неа</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Поканите не се испратија поради грешка</item>
+        <item quantity="one">Поканата не се испрати поради грешка</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Поканиве не може да се испратат во моментов. Може повторно да ги испратите од Google Play > Моја сметка.</item>
+        <item quantity="one">Поканата не може да се испрати во моментов. Може повторно да ја испратите од Google Play > Моја сметка.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">Преостанаа уште %d покани</item>
+        <item quantity="one">Преостана уште %d покана</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d нови пораки</item>
+        <item quantity="one">%1$d нова порака</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d луѓе пред вас</item>
+        <item quantity="one">%1$d лице пред вас</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Од %1$s и %2$d други апликации</item>
+        <item quantity="one">Од %1$s и %2$d друга апликација</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d следбеници</item>
+        <item quantity="one">%1$,d следбеник</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d прегледи</item>
+        <item quantity="one">%1$,d преглед</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Се копираат сметките на Google и податоците…</item>
+        <item quantity="one">Се копираат сметките на Google и податоците…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Уредов се користеше за поставување ^1 со сметката на Google и податоците</item>
+        <item quantity="one">Уредов се користеше за поставување ^1 со сметката на Google и податоците</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Рестартирање за да се инсталира за %d секунди…</item>
+        <item quantity="one">Рестартирање за да се инсталира за 1 секунда…</item>
+    </plurals>
+</resources>

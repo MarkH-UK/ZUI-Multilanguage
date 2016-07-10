@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LeosWidgets
+  xmlns:launcher="http://schemas.android.com/apk/res/com.zui.launcher">
+    <LeosWidget launcher:className="com.zui.timelaweather.activity.TimeWeatherWidgetView" launcher:spanX="4" launcher:spanY="2" launcher:preview="@drawable/timeweather_previewimage" launcher:label="@string/shenqiTimeWeather" />
+</LeosWidgets>

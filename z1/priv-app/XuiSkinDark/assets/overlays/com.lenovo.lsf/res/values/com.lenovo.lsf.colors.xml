@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<color name="com_lenovo_lsf_appcolor">#070707</color>
+	<color name="com_lenovo_lsf_dialog_color">#131419</color>
+	<color name="com_lenovo_lsf_transparent">#9000</color>
+	<color name="com_lenovo_lsf_activity_list_background">#070707</color>
+	
+	<color name="com_lenovo_lsf_keyboard">#ebebeb</color>
+	<color name="com_lenovo_lsf_keyboardtext">#d6d6d6</color>
+			
+	<color name="com_lenovo_lsf_list_item">#070707</color>
+  	<color name="com_lenovo_lsf_list_item_pressed">#0d0d0d</color>
+  	<color name="com_lenovo_lsf_list_item_seperatorColor">#0b0c0f</color>
+
+	<color name="com_lenovo_lsf_accountinfo_background">#151515</color>
+	<color name="com_lenovo_lsf_accountinfo_seperatorColor">#151515</color>
+	<color name="com_lenovo_lsf_accountinfo_list_item">#070707</color>
+	<color name="com_lenovo_lsf_accountinfo_list_item_pressed">#0d0d0d</color>
+	<color name="com_lenovo_lsf_accountinfo_list_item_seperatorColor">#070707</color>
+  		
+  	<color name="com_lenovo_lsf_statusbar">#131419</color>
+  	<color name="com_lenovo_lsf_statusbar_icon">#ffffff</color>
+  	<color name="com_lenovo_lsf_statusbar_loginface">#ffffff</color>
+	
+  	<color name="com_lenovo_lsf_title_background">#131419</color>
+  	<color name="com_lenovo_lsf_title_textColor">#8c8c8c</color>
+  	<color name="com_lenovo_lsf_title_seperatorColor">#1b1e24</color>
+  			
+  	<color name="com_lenovo_lsf_title_button">#006798</color>
+  	<color name="com_lenovo_lsf_title_button_pressed">#006290</color>
+  	<color name="com_lenovo_lsf_title_button_disable">#003d59</color>
+  	
+  	<color name="com_lenovo_lsf_dialog_title_textColor">#8c8c8c</color>
+
+  	<color name="com_lenovo_lsf_cursor">#006798</color>
+  	
+  	<color name="com_lenovo_lsf_button">#006798</color>
+  	<color name="com_lenovo_lsf_button_pressed">#006290</color>
+  	<color name="com_lenovo_lsf_button_disable">#003d59</color>
+  	<color name="com_lenovo_lsf_buttontext">#adc4d4</color>
+  	<color name="com_lenovo_lsf_buttontext_pressed">#adc4d4</color>
+  	<color name="com_lenovo_lsf_buttontext_disable">#365b70</color>
+
+  	<color name="com_lenovo_lsf_textview_background">#070707</color>
+  		
+  	<color name="com_lenovo_lsf_button_subordinate">#17191e</color>
+  	<color name="com_lenovo_lsf_button_subordinate_pressed">#17191e</color>
+  	<color name="com_lenovo_lsf_button_subordinate_disable">#121317</color>
+  	<color name="com_lenovo_lsf_buttontext_subordinate">#8c8c8c</color>
+  	<color name="com_lenovo_lsf_buttontext_subordinate_pressed">#8c8c8c</color>
+  	<color name="com_lenovo_lsf_buttontext_subordinate_disable">#2f3033</color>
+  	
+  	<color name="com_lenovo_lsf_button_bottom">#131419</color>
+  	<color name="com_lenovo_lsf_button_bottom_pressed">#121318</color>
+  	<color name="com_lenovo_lsf_button_bottom_disable">#121317</color>
+  	<color name="com_lenovo_lsf_buttontext_bottom">#8c8c8c</color>
+  	<color name="com_lenovo_lsf_buttontext_bottom_pressed">#8c8c8c</color>
+  	<color name="com_lenovo_lsf_buttontext_bottom_disable">#2f3033</color>
+  		
+  	<color name="com_lenovo_lsf_button_stroke">#1b1e24</color>
+  	<color name="com_lenovo_lsf_button_stroke_pressed">#1a1c22</color>
+  	<color name="com_lenovo_lsf_button_bottom_stroke">#1b1e24</color>
+  					
+  	<color name="com_lenovo_lsf_edit_background">#1affffff</color>
+  	<color name="com_lenovo_lsf_edit_background_disable">#14ffffff</color>
+  	<color name="com_lenovo_lsf_edit_text">#8c8c8c</color>
+  	<color name="com_lenovo_lsf_edit_text_disable">#2b2b2b</color>
+  		
+  	<color name="com_lenovo_lsf_text">#5c5c5c</color>
+  	<color name="com_lenovo_lsf_text_silver">#999999</color>
+  	<color name="com_lenovo_lsf_text_black">#565656</color>
+  	<color name="com_lenovo_lsf_text_dark">#666666</color>
+  	<color name="com_lenovo_lsf_text_gray">#5c5c5c</color>
+	<color name="com_lenovo_lsf_text_error">#bb311a</color>
+	<color name="com_lenovo_lsf_text_green">#40bf45</color>
+	<color name="com_lenovo_lsf_text_orange">#e74a17</color>
+		
+	<color name="com_lenovo_lsf_text_new">#8c8c8c</color>
+	<color name="com_lenovo_lsf_text_subitem">#454545</color>
+	<color name="com_lenovo_lsf_text_hint">#404040</color>
+						
+</resources>

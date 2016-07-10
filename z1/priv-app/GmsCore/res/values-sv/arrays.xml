@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafé</item>
+        <item>Bensinstation</item>
+        <item>Biograf</item>
+        <item>Logi</item>
+        <item>Nattklubb</item>
+        <item>Museum</item>
+        <item>Restaurang</item>
+        <item>Galleria</item>
+        <item>Butik</item>
+        <item>Matbutik eller stormarknad</item>
+        <item>Annat</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>dålig</item>
+        <item>medel</item>
+        <item>bra</item>
+        <item>stark</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Användare</item>
+        <item>Utvecklare</item>
+        <item>Återförsäljare</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Bilen och mobilen har inkompatibel programvara. Mer information finns på &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Ljud- och/eller videokonfigurationen i bilen stämmer inte.</item>
+        <item>"USB-anslutningen fungerar inte som den ska. Testa följande: 
+
+• Kontrollera att sladden sitter i ordentligt i båda ändarna. 
+• Kontrollera att en USB-kabel för data används. 
+• Kontrollera att datum och tid är rätt inställda både i bilen och på mobilen."</item>
+        <item>Android Auto körs inte längre i bilen.</item>
+        <item>Android Auto-sessionen har avslutats på begäran.</item>
+        <item>Programvaran i bilen kan vara inaktuell. Kontakta tillverkaren om du vill ha mer information och support.</item>
+        <item>Programvaran i bilen klarade inte säkerhetskontrollen för Android Auto. Kontakta tillverkaren om du vill ha mer information och support.</item>
+        <item>Programvaran i bilen klarade inte säkerhetskontrollen för Android Auto. Kontrollera att datum och tid har ställts in korrekt i bilen och att Android Auto har uppdaterats.</item>
+        <item>Åtgärden tog för lång tid. Skicka feedback i en felrapport.</item>
+        <item>Startprogrammet verkar inte vara installerat. Är mobilen korrekt konfigurerad?</item>
+        <item>Det körde ihop sig i grafikpipelinen. Skicka feedback i en felrapport.</item>
+        <item>Bilen svarar inte på meddelanden från mobilen. Bilen kanske har fel status.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Flygplats</item>
+        <item>Uttagsautomat</item>
+        <item>Bank</item>
+        <item>Bar</item>
+        <item>Busstation</item>
+        <item>Kafé</item>
+        <item>Campingplats</item>
+        <item>Begravningsplats</item>
+        <item>Kyrka</item>
+        <item>Stadshus</item>
+        <item>Företag</item>
+        <item>Bensinstation</item>
+        <item>Matbutik eller stormarknad</item>
+        <item>Hinduiskt tempel</item>
+        <item>Sjukhus</item>
+        <item>Bibliotek</item>
+        <item>Logi</item>
+        <item>Moské</item>
+        <item>Biograf</item>
+        <item>Museum</item>
+        <item>Park</item>
+        <item>Parkering</item>
+        <item>Böneplats</item>
+        <item>Polisstation</item>
+        <item>Postkontor</item>
+        <item>Restaurang</item>
+        <item>Skola</item>
+        <item>Butik</item>
+        <item>Tunnelbanestation</item>
+        <item>Synagoga</item>
+        <item>Järnvägsstation</item>
+        <item>Vänthall</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>januari</item>
+        <item>februari</item>
+        <item>mars</item>
+        <item>april</item>
+        <item>maj</item>
+        <item>juni</item>
+        <item>juli</item>
+        <item>augusti</item>
+        <item>september</item>
+        <item>oktober</item>
+        <item>november</item>
+        <item>december</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Sluta dela</item>
+        <item>15 minuter</item>
+        <item>30 minuter</item>
+        <item>1 timme</item>
+        <item>Obestämd tid</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Sluta dela</item>
+        <item>15 minuter</item>
+        <item>30 minuter</item>
+        <item>1 timme</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Välj en säkerhetsfråga</item>
+        <item>Första telefonnumret?</item>
+        <item>Vad hette din bästa kompis när du var liten?</item>
+        <item>Första lärarens namn?</item>
+        <item>Vad hette chefen på ditt första jobb?</item>
+        <item>Vad har din bil för registreringsnummer?</item>
+    </string-array>
+</resources>

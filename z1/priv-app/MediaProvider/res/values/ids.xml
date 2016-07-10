@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="category_name">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="back">false</item>
+    <item type="id" name="title_text">false</item>
+    <item type="id" name="horizon_line">false</item>
+    <item type="id" name="ringtone_list">false</item>
+    <item type="id" name="ringtone_type">false</item>
+    <item type="id" name="empty_ringtone">false</item>
+    <item type="id" name="remove_button">false</item>
+    <item type="id" name="media_ringtone">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="arrow_right">false</item>
+    <item type="id" name="slip_line">false</item>
+    <item type="id" name="pick_from">false</item>
+    <item type="id" name="ringtone_name">false</item>
+</resources>

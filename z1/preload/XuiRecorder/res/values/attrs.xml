@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="headerLayout" format="reference" />
+    <attr name="contentLayout" format="reference" />
+    <attr name="duration" format="integer" />
+</resources>

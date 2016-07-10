@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Google Play सेवा त्रुटी</string>
+    <string name="z">अनुप्रयोगासाठी Google Play सेवांचे अद्यतन आवश्यक आहे.</string>
+    <string name="a0">%1$s ला Android Wear अ‍ॅपचे अद्यतन आवश्‍यक आहे.</string>
+    <string name="a1">अनुप्रयोगासाठी Google Play सेवा सक्षम केलेल्या असणे आवश्यक आहे.</string>
+    <string name="a2">%1$s द्वारे विनंती केली</string>
+    <string name="a3">Google Play सेवा मिळवा</string>
+    <string name="a4">आपल्‍या फोनवर गहाळ असलेल्‍या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="a5">आपल्‍या टॅब्लेटवर गहाळ असलेल्‍या Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="a6">Google Play सेवा मिळवा</string>
+    <string name="a7">Google Play सेवा सक्षम करा</string>
+    <string name="a8">आपण Google Play सेवा सक्षम केल्याशिवाय %1$s हा अॅप कार्य करणार नाही.</string>
+    <string name="a9">Google Play सेवा सक्षम करा</string>
+    <string name="a_">Google Play सेवा अद्यतनित करा</string>
+    <string name="aa">Android Wear अद्यतनित करा</string>
+    <string name="ab">आपण Google Play सेवा अद्यतनित करेपर्यंत %1$s चालणार नाही.</string>
+    <string name="ac">आपण Android Wear अ‍ॅप अद्यतनित करेपर्यंत %1$s चालणार नाही.</string>
+    <string name="ad">Google Play सेवा अद्यतनित होत आहेत</string>
+    <string name="ae">सध्‍या अद्यतनित होत असलेल्‍या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="af">नेटवर्क त्रुटी</string>
+    <string name="ag">Google Play सेवांशी कनेक्ट होण्यासाठी डेटा कनेक्शन आवश्यक आहे.</string>
+    <string name="ah">अवैध खाते</string>
+    <string name="ai">निर्दिष्ट केलेले खाते या डिव्हाइसवर अस्तित्वात नाही. कृपया एक भिन्न खाते निवडा.</string>
+    <string name="aj">Google Play सेवांसह अज्ञात समस्या.</string>
+    <string name="ak">Google Play सेवा</string>
+    <string name="al">%1$s Google Play सेवांवर अवलंबून असतो, ज्या आपल्‍या डिव्‍हाइसवर समर्थित नाही. सहाय्यासाठी निर्मात्याशी संपर्क साधा.</string>
+    <string name="am">अद्यतनित करा</string>
+    <string name="an">साइन इन करा</string>
+    <string name="ao">Google सह साइन इन करा</string>
+    <string name="ap">फोनवर उघडा</string>
+    <string name="aq">%1$s ला सध्‍या उपलब्‍ध नसलेल्‍या एक किंवा अधिक Google Play सेवांची आवश्‍यकता आहे. कृपया सहाय्यासाठी विकासकाशी संपर्क साधा.</string>
+    <string name="ar">साइन इन अयशस्वी</string>
+    <string name="as">निर्दिष्ट खात्यात साइन इन करताना त्रुटी. कृपया एक भिन्न खाते निवडा.</string>
+</resources>

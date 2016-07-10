@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Lỗi dịch vụ của Google Play</string>
+    <string name="z">Một ứng dụng yêu cầu cập nhật đối với các dịch vụ của Google Play.</string>
+    <string name="a0">%1$s yêu cầu phải cập nhật lên ứng dụng Android Wear.</string>
+    <string name="a1">Một ứng dụng yêu cầu bật các dịch vụ của Google Play.</string>
+    <string name="a2">Được yêu cầu bởi %1$s</string>
+    <string name="a3">Cài đặt dịch vụ của Google Play</string>
+    <string name="a4">%1$s sẽ không chạy khi không có Dịch vụ của Google Play bị thiếu trên điện thoại của bạn.</string>
+    <string name="a5">%1$s sẽ không chạy khi không có Dịch vụ của Google Play bị thiếu trên máy tính bảng của bạn.</string>
+    <string name="a6">Cài đặt dịch vụ của Google Play</string>
+    <string name="a7">Bật dịch vụ của Google Play</string>
+    <string name="a8">%1$s sẽ không hoạt động trừ khi bạn kích hoạt Dịch vụ của Google Play.</string>
+    <string name="a9">Bật dịch vụ của Google Play</string>
+    <string name="a_">Cập nhật dịch vụ của Google Play</string>
+    <string name="aa">Cập nhật Android Wear</string>
+    <string name="ab">%1$s sẽ không chạy trừ khi bạn cập nhật Dịch vụ của Google Play.</string>
+    <string name="ac">%1$s sẽ không chạy trừ khi bạn cập nhật ứng dụng Android Wear.</string>
+    <string name="ad">Dịch vụ của Google Play đang cập nhật</string>
+    <string name="ae">%1$s sẽ không chạy khi không có Dịch vụ của Google Play đang cập nhật.</string>
+    <string name="af">Lỗi mạng</string>
+    <string name="ag">Cần có kết nối dữ liệu để kết nối với các dịch vụ của Google Play.</string>
+    <string name="ah">Tài khoản không hợp lệ</string>
+    <string name="ai">Tài khoản đã chỉ định không tồn tại trên thiết bị này. Vui lòng chọn một tài khoản khác.</string>
+    <string name="aj">Sự cố không xác định với dịch vụ của Google Play.</string>
+    <string name="ak">Dịch vụ của Google Play</string>
+    <string name="al">%1$s chạy trên Dịch vụ của Google Play không được thiết bị của bạn hỗ trợ. Liên hệ với nhà sản xuất để được hỗ trợ.</string>
+    <string name="am">Cập nhật</string>
+    <string name="an">Đăng nhập</string>
+    <string name="ao">Đăng nhập bằng Google</string>
+    <string name="ap">Mở trên điện thoại</string>
+    <string name="aq">%1$s yêu cầu một hoặc nhiều Dịch vụ của Google Play hiện không có sẵn. Vui lòng liên hệ với nhà phát triển để được hỗ trợ.</string>
+    <string name="ar">Đăng nhập không thành công</string>
+    <string name="as">Lỗi khi đăng nhập vào tài khoản được chỉ định. Vui lòng chọn một tài khoản khác.</string>
+    <string name="cg7">WeChat</string>
+    <string name="cg8">WeChat</string>
+    <string name="cg9">WeChat</string>
+    <string name="cg_">Gửi đến Khoảnh khắc</string>
+    <string name="cga">Ưa thích WeChat</string>
+    <string name="ctw">file:///android_asset/doc/en/network_warning.htm</string>
+    <string name="ctx">file:///android_asset/doc/default/oauth_network_error.html</string>
+    <string name="cty">file:///android_asset/doc/en/qqsync_intro.htm</string>
+    <string name="ctz">file:///android_asset/doc/en/qqsync_privacy.htm</string>
+    <string name="cu0">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_msgtrans_agreement&amp;lang=en</string>
+    <string name="cu1">http://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/record_sync__course&amp;lang=zh_CN</string>
+    <string name="cu2">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_chat_migration_faq&amp;lang=zh_CN</string>
+    <string name="cu3">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_contract_agreement&amp;lang=en</string>
+    <string name="cu4">\?hl=en</string>
+    <string name="cu5">http://weixin.qq.com/agreement?lang=en</string>
+    <string name="cu6">http://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&amp;check=false&amp;t=weixin_agreement&amp;s=terms</string>
+    <string name="cu7">http://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&amp;check=false&amp;t=weixin_agreement&amp;s=privacy</string>
+    <string name="cu8">http://support.wechat.com/getpassword?lang=en</string>
+    <string name="cu9">https://account.qq.com/cgi-bin/en/index</string>
+    <string name="cu_">http://open.weixin.qq.com/emoticon#wechat_redirect</string>
+    <string name="cua">http://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/payment_security__intro</string>
+    <string name="cub">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_small_pay</string>
+    <string name="cuc">http://action.weixin.qq.com/payact/readtemplate?t=mobile/shuaka/help_tmpl</string>
+    <string name="cud">sound/play_completed.mp3</string>
+    <string name="cue">sound/time_limit.mp3</string>
+    <string name="cuf">sound/after_upload_voice.mp3</string>
+    <string name="cug">sound/qrcode_completed.mp3</string>
+    <string name="cuh">sound/talkroom_begin.mp3</string>
+    <string name="cui">sound/talkroom_press.mp3</string>
+    <string name="cuj">sound/talkroom_sasasa.mp3</string>
+    <string name="cuk">sound/talkroom_othersbegin.mp3</string>
+    <string name="cul">sound/talkroom_up.mp3</string>
+    <string name="cum">sound/shake_sound_male.mp3</string>
+    <string name="cun">sound/shake_nomatch.mp3</string>
+    <string name="cuo">sound/shake_match.mp3</string>
+    <string name="cup">sound/shakelucky_firework_sound.mp3</string>
+    <string name="cuq">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_business_pay&amp;lang=%s</string>
+    <string name="cur">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_business_agreement&amp;lang=%s</string>
+    <string name="cus" formatted="false">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_business_bank&amp;lang=%s&amp;banktype=%s</string>
+    <string name="cut" formatted="false">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_person_pay&amp;lang=%s&amp;banktype=%s</string>
+    <string name="cuu" formatted="false">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_bank_wxcredit&amp;lang=%s&amp;banktype=%s</string>
+    <string name="cuv">http://weixin.qq.com/cgi-bin/readtemplate?&amp;lang=en&amp;check=false&amp;t=weixin_agreement&amp;s=pay#point</string>
+    <string name="cuw">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_emoji_agreement&amp;lang=</string>
+    <string name="cux">http://weixin.qq.com/cgi-bin/readtemplate?lang=%s&amp;t=weixin_groupOwnerResponsibility</string>
+    <string name="cuy">http://weixin.qq.com/cgi-bin/readtemplate?lang=%s&amp;t=weixin_howToAdjustGroupNum</string>
+    <string name="cuz">http://weixin110.qq.com/?lang=</string>
+    <string name="cv0" formatted="false">https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx10583a7e974992ec&amp;redirect_uri=http%3A%2F%2Fkf.qq.com%2Ftouch%2Fscene_product.html%3Fscene_id%3Dkf338&amp;response_type=code&amp;scope=snsapi_base&amp;state=123#wechat_redirect</string>
+    <string name="cv1" formatted="false">https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx10583a7e974992ec&amp;redirect_uri=http%3A%2F%2Fkf.qq.com%2Ftouch%2Fscene_product.html%3Fscene_id%3Dkf348&amp;response_type=code&amp;scope=snsapi_base&amp;state=123#wechat_redirect</string>
+    <string name="cv2" formatted="false">https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx10583a7e974992ec&amp;redirect_uri=http%3A%2F%2Fkf.qq.com%2Ftouch%2Fscene_product.html%3Fscene_id%3Dkf350&amp;response_type=code&amp;scope=snsapi_base&amp;state=123#wechat_redirect</string>
+    <string name="cv3">file:///android_asset/doc/default/wx_wifi_faq.html</string>
+    <string name="cv4">file:///android_asset/doc/default/wx_wifi_service_terms_chs.html</string>
+    <string name="cv5">file:///android_asset/doc/default/mig_wifi_service_terms_chs.html</string>
+    <string name="cv6">file:///android_asset/doc/default/wx_feedback_index.html</string>
+    <string name="cv7">https://support.weixin.qq.com/security/readtemplate?t=page/login_optimized__w_index&amp;lang=</string>
+    <string name="cv8">https://support.weixin.qq.com/getpassword?lang=</string>
+    <string name="cv9">http://weixin.qq.com/cgi-bin/readtemplate?t=emotion/wap/complain/msg_tmpl&amp;lang=</string>
+</resources>

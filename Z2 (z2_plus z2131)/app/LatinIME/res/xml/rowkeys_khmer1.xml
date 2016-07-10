@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <switch>
+        <case latin:keyboardLayoutSetElement="alphabetManualShifted|alphabetShiftLocked|alphabetShiftLockShifted">
+            <Key latin:moreKeys="!icon/zwj_key|‍" latin:keySpec="!" latin:keyLabelFlags="fontDefault" />
+            <Key latin:moreKeys="!icon/zwnj_key|‌" latin:keySpec="ៗ" />
+            <Key latin:moreKeys="៑" latin:keySpec="&quot;" latin:keyHintLabel="៑" latin:keyLabelFlags="fontDefault" />
+            <Key latin:moreKeys="$,€" latin:keySpec="៛" latin:keyHintLabel="$" />
+            <Key latin:moreKeys="៖" latin:keySpec="%" latin:keyHintLabel="៖" latin:keyLabelFlags="fontDefault" />
+            <Key latin:moreKeys="៙" latin:keySpec="៍" latin:keyHintLabel="៙" />
+            <Key latin:moreKeys="៚" latin:keySpec="័" latin:keyHintLabel="៚" latin:keyHintLabelVerticalAdjustment="-29.999996%" />
+            <Key latin:moreKeys="*" latin:keySpec="៏" latin:keyHintLabel="*" />
+            <Key latin:moreKeys="{,«" latin:keySpec="(" latin:keyHintLabel="{" latin:keyLabelFlags="fontDefault" />
+            <Key latin:moreKeys="},»" latin:keySpec=")" latin:keyHintLabel="}" latin:keyLabelFlags="fontDefault" />
+            <Key latin:moreKeys="×" latin:keySpec="៌" latin:keyHintLabel="×" />
+            <Key latin:keySpec="៎" />
+        </case>
+        <default>
+            <Key latin:moreKeys="៱" latin:additionalMoreKeys="1" latin:keySpec="១" latin:keyHintLabel="1" />
+            <Key latin:moreKeys="៲" latin:additionalMoreKeys="2" latin:keySpec="២" latin:keyHintLabel="2" />
+            <Key latin:moreKeys="៳" latin:additionalMoreKeys="3" latin:keySpec="៣" latin:keyHintLabel="3" />
+            <Key latin:moreKeys="៴" latin:additionalMoreKeys="4" latin:keySpec="៤" latin:keyHintLabel="4" />
+            <Key latin:moreKeys="៵" latin:additionalMoreKeys="5" latin:keySpec="៥" latin:keyHintLabel="5" />
+            <Key latin:moreKeys="៶" latin:additionalMoreKeys="6" latin:keySpec="៦" latin:keyHintLabel="6" />
+            <Key latin:moreKeys="៷" latin:additionalMoreKeys="7" latin:keySpec="៧" latin:keyHintLabel="7" />
+            <Key latin:moreKeys="៸" latin:additionalMoreKeys="8" latin:keySpec="៨" latin:keyHintLabel="8" />
+            <Key latin:moreKeys="៹" latin:additionalMoreKeys="9" latin:keySpec="៩" latin:keyHintLabel="9" />
+            <Key latin:moreKeys="៰" latin:additionalMoreKeys="0" latin:keySpec="០" latin:keyHintLabel="0" />
+            <Key latin:moreKeys=",ឦ" latin:keySpec="ឥ" latin:keyHintLabel="ឦ" />
+            <Key latin:moreKeys="ឱ" latin:keySpec="ឲ" latin:keyHintLabel="ឱ" />
+        </default>
+    </switch>
+</merge>

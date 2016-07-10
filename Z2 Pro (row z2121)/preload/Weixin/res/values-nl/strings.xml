@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Fout met Google Play-services</string>
+    <string name="z">Google Play-services moet worden geüpdatet voor een app.</string>
+    <string name="a0">%1$s vereist een update naar de Android Wear-app.</string>
+    <string name="a1">Google Play-services moet zijn ingeschakeld voor een app.</string>
+    <string name="a2">Aangevraagd door %1$s</string>
+    <string name="a3">Google Play-services ophalen</string>
+    <string name="a4">%1$s kan niet worden uitgevoerd zonder Google Play-services, die ontbreken op uw telefoon.</string>
+    <string name="a5">%1$s kan niet worden uitgevoerd zonder Google Play-services, die ontbreken op uw tablet.</string>
+    <string name="a6">Google Play-services ophalen</string>
+    <string name="a7">Google Play-services inschakelen</string>
+    <string name="a8">%1$s werkt niet, tenzij u Google Play-services inschakelt.</string>
+    <string name="a9">Google Play-services inschak.</string>
+    <string name="a_">Google Play-services updaten</string>
+    <string name="aa">Android Wear updaten</string>
+    <string name="ab">%1$s kan niet worden uitgevoerd, tenzij u Google Play-services updatet.</string>
+    <string name="ac">%1$s wordt niet uitgevoerd, tenzij u de Android Wear-app updatet.</string>
+    <string name="ad">Google Play-services worden geüpdatet</string>
+    <string name="ae">%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet.</string>
+    <string name="af">Netwerkfout</string>
+    <string name="ag">Er is een gegevensverbinding nodig om verbinding te kunnen maken met Google Play-services.</string>
+    <string name="ah">Ongeldig account</string>
+    <string name="ai">Het gespecificeerde account bestaat niet op dit apparaat. Kies een ander account.</string>
+    <string name="aj">Onbekend probleem met Google Play-services.</string>
+    <string name="ak">Google Play-services</string>
+    <string name="al">%1$s werkt met Google Play-services. Dit wordt niet ondersteund door uw apparaat. Neem contact op met de fabrikant voor ondersteuning.</string>
+    <string name="am">Updaten</string>
+    <string name="an">Inloggen</string>
+    <string name="ao">Inloggen met Google</string>
+    <string name="ap">Openen op telefoon</string>
+    <string name="aq">%1$s vereist een of meer Google Play-services die momenteel niet beschikbaar zijn. Neem contact op met de ontwikkelaar voor ondersteuning.</string>
+    <string name="ar">Inloggen mislukt</string>
+    <string name="as">Fout bij inloggen op het opgegeven account. Kies een ander account.</string>
+</resources>

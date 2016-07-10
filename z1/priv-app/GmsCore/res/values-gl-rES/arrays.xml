@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Café</item>
+        <item>Gasolineira</item>
+        <item>Sala de cine</item>
+        <item>Aloxamento</item>
+        <item>Sala de festas</item>
+        <item>Museo</item>
+        <item>Restaurante</item>
+        <item>Centro comercial</item>
+        <item>Tenda</item>
+        <item>Tenda comida/supermercado</item>
+        <item>Outros</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>baixa</item>
+        <item>aceptable</item>
+        <item>boa</item>
+        <item>moi alta</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Lanzamento</item>
+        <item>Programador</item>
+        <item>Venda polo miúdo</item>
+        <item>Demostración</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>O teléfono e o coche están executando versións de software incompatibles. Para obter máis información, visita a páxina &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>O coche anunciou un conxunto incorrecto de configuracións de audio e/ou vídeo.</item>
+        <item>"A conexión USB non funciona correctamente. Podes probar as seguintes medidas: 
+
+• Asegúrate de que o cable encaixe correctamente nos dous extremos. 
+•Asegúrate de dispoñer dun cable USB de datos. 
+•Asegúrate de que a data e a hora estean correctamente definidas no coche e no teléfono."</item>
+        <item>O coche deixou de executar Android Auto.</item>
+        <item>A sesión de Android Auto detívose, tal e como se solicitou.</item>
+        <item>É posible que o software do coche estea caducado. Para obter máis información, ponte en contacto co fabricante.</item>
+        <item>O software do teu coche non pasou as comprobacións de seguranza de Android Auto. Para obter información detallada e asistencia, ponte en contacto co fabricante.</item>
+        <item>O software do teu coche non pasou as comprobacións de seguranza de Android Auto. Asegúrate de que a data e a hora do coche estean correctamente definidas e que Android Auto estea actualizado.</item>
+        <item>Esgotouse o tempo de espera da acción. Debes enviar un informe de erros e indicar a túa opinión.</item>
+        <item>Parece que non tes un launcher instalado. O teu teléfono está configurado correctamente?</item>
+        <item>A liña de gráficos deixou de funcionar. Debes enviar un informe de erros e indicar a túa opinión.</item>
+        <item>O coche non está respondendo ás mensaxes do teléfono. Pode que o coche se atope nun estado incorrecto.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Aeroporto</item>
+        <item>Caixeiro automático</item>
+        <item>Banco</item>
+        <item>Bar</item>
+        <item>Estación de autobús</item>
+        <item>Cafetería</item>
+        <item>Cámping</item>
+        <item>Cemiterio</item>
+        <item>Igrexa</item>
+        <item>Concello</item>
+        <item>Establecemento</item>
+        <item>Gasolineira</item>
+        <item>Tenda de alimentación ou supermercado</item>
+        <item>Templo hindú</item>
+        <item>Hospital</item>
+        <item>Biblioteca</item>
+        <item>Aloxamento</item>
+        <item>Mesquita</item>
+        <item>Cine</item>
+        <item>Museo</item>
+        <item>Parque</item>
+        <item>Aparcamento</item>
+        <item>Lugar de culto</item>
+        <item>Comisaría</item>
+        <item>Oficina de correos</item>
+        <item>Restaurante</item>
+        <item>Escola</item>
+        <item>Tenda</item>
+        <item>Estación de metro</item>
+        <item>Sinagoga</item>
+        <item>Estación de tren</item>
+        <item>Estación de transporte público</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Xaneiro</item>
+        <item>Febreiro</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Maio</item>
+        <item>Xuño</item>
+        <item>Xullo</item>
+        <item>Agosto</item>
+        <item>Setembro</item>
+        <item>Outubro</item>
+        <item>Novembro</item>
+        <item>Decembro</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Deixar de compartir</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>Indefinidamente</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Deixar de compartir</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

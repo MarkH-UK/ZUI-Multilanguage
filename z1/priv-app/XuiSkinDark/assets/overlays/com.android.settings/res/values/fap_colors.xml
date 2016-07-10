@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="color_category_background">#ff0b0c0f</color>
+    <color name="fp_background_color">#070707</color><!-- different in Dark theme -->
+    <color name="category_divide_line_color">@color/transparent</color><!-- devide_line_color -->
+    <color name="color_action_bar_title">#ff8c8c8c</color>
+    <color name="color_edittext_normal">#ff404040</color>
+    <color name="color_edittext_editing">#ff8c8c8c</color>
+    <color name="textAppearanceListItem_color">#ff8c8c8c</color>
+    <color name="textAppearanceListItemSecondary_color">#ff5c5c5c</color>
+
+    <!-- === fingerrpint & Password settings === -->
+    <color name="fp_curve_fg_color">#ff0e6bac</color>
+    <color name="fp_curve_bg_color_enabled">#ff343434</color>
+    <color name="fp_curve_bg_color_disabled">#ff222222</color>
+
+    <!-- === added === -->
+    <color name="devide_line_color">@color/color_category_background</color>
+    <color name="category_text">#ff5c5c5c</color>
+    <color name="category_background">@color/color_category_background</color>
+    <color name="category_summary_text">#ff454545</color>
+    <color name="category_summary_background">@color/color_category_background</color>
+    <color name="fp_add_newfp_text_enabled">#ff006798</color>
+    <color name="fp_add_newfp_text_disabled">#ff383838</color>
+    <color name="fp_add_activity_bg">@color/fp_background_color</color>
+
+    <!-- finger detail -->
+    <color name="fp_detail_title">@color/color_action_bar_title</color><!-- deprecated -->
+    <color name="fp_detail_edittext_normal">@color/color_edittext_normal</color><!-- deprecated -->
+    <color name="fp_detail_edittext_editing">@color/color_edittext_editing</color>
+    <!-- EditTextWithDel -->
+    <color name="fp_name_edittext_text_color">@color/color_edittext_editing</color><!-- deprecated -->
+
+    <!-- FapActionBarView -->
+    <color name="fap_action_bar_title_color">@color/color_action_bar_title</color>
+    <color name="fap_action_bar_btn_enabled">#ff006798</color>
+    <color name="fap_action_bar_btn_disabled">#66006798</color>
+    <color name="fap_action_bar_btn_pressed">#66006798</color>
+
+    <!-- FapEnrollGuideView && FapEnrollView -->
+    <color name="enrol_view_title_color">#ff8c8c8c</color>
+    <color name="enrol_view_desc_color">#ff5c5c5c</color>
+
+    <!-- ChooseLockXxx & ConfirmLockXxx -->
+    <color name="lock_password_background">#070707</color><!-- same as "list item color" -->
+
+</resources>

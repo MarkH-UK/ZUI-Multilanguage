@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="header_for_template">@layout/header_for_template_with_header</item>
+</resources>

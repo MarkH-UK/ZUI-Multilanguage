@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Help &amp; feedback</string>
+    <string name="common_persistent_or_gapps_process">com.google.android.gms.persistent</string>
+    <string name="games_font_roboto_medium">sans-serif-medium</string>
+    <string name="task_execution_service_enabled">true</string>
+</resources>

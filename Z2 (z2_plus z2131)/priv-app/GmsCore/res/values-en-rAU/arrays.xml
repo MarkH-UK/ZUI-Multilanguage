@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Cafe</item>
+        <item>Petrol Station</item>
+        <item>Cinema</item>
+        <item>Lodging</item>
+        <item>Night Club</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Shopping Centre</item>
+        <item>Shop</item>
+        <item>Grocery Shop or Supermarket</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>poor</item>
+        <item>fair</item>
+        <item>good</item>
+        <item>strong</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Release</item>
+        <item>Developer</item>
+        <item>Retail</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>The phone and the car are running incompatible software. For details, visit &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>The car has advertised an incorrect set of audio and/or video configurations.</item>
+        <item>"The USB connection isn't working properly. Things to try: 
+
+• Make sure that the cable fits correctly on both ends. 
+•Make sure that you have a data USB cable. 
+•Make sure that the date and time are set correctly for both the car and your phone."</item>
+        <item>The car has stopped running Android Auto.</item>
+        <item>Android Auto session stopped, as requested.</item>
+        <item>"The car's software may be out of date. For details and support, contact the manufacturer."</item>
+        <item>"Your car's software didn't pass Android Auto security checks. For details and support, contact the manufacturer."</item>
+        <item>"Your car's software didn't pass Android Auto security checks. Make sure that the car's date and time are set correctly, and that Android Auto has been updated."</item>
+        <item>An action timed out. You should grab a bug report and file feedback.</item>
+        <item>"You don't seem to have a launcher installed. Is your phone set up correctly?"</item>
+        <item>The graphics pipeline just died. You should grab a bug report and file feedback.</item>
+        <item>Car is not responding to messages from phone. Car may be in wrong state.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Airport</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bar</item>
+        <item>Bus station</item>
+        <item>Cafe</item>
+        <item>Campsite</item>
+        <item>Cemetery</item>
+        <item>Church</item>
+        <item>Town Hall</item>
+        <item>Establishment</item>
+        <item>Petrol Station</item>
+        <item>Grocery Shop or Supermarket</item>
+        <item>Hindu Temple</item>
+        <item>Hospital</item>
+        <item>Library</item>
+        <item>Lodging</item>
+        <item>Mosque</item>
+        <item>Cinema</item>
+        <item>Museum</item>
+        <item>Park</item>
+        <item>Parking</item>
+        <item>Place of Worship</item>
+        <item>Police Station</item>
+        <item>Post Office</item>
+        <item>Restaurant</item>
+        <item>School</item>
+        <item>Shop</item>
+        <item>Underground Station</item>
+        <item>Synagogue</item>
+        <item>Train Station</item>
+        <item>Transport Station</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Stop sharing</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>Indefinitely</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Stop sharing</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

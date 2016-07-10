@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Σφάλμα Υπηρεσιών Google Play</string>
+    <string name="z">Μια εφαρμογή απαιτεί την ενημέρωση των Υπηρεσιών Google Play.</string>
+    <string name="a0">Η εφαρμογή %1$s απαιτεί την ενημέρωση της εφαρμογής Android Wear.</string>
+    <string name="a1">Μια εφαρμογή απαιτεί την ενεργοποίηση των Υπηρεσιών Google Play.</string>
+    <string name="a2">Υποβλήθηκε αίτημα από την εφαρμογή %1$s</string>
+    <string name="a3">Λήψη υπηρεσιών Google Play</string>
+    <string name="a4">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις Υπηρεσίες Google Play, οι οποίες λείπουν από το τηλέφωνό σας.</string>
+    <string name="a5">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις Υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας.</string>
+    <string name="a6">Λήψη υπηρεσιών Google Play</string>
+    <string name="a7">Ενεργοποίηση υπηρεσιών Google Play</string>
+    <string name="a8">Η εφαρμογή %1$s δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις Υπηρεσίες Google Play.</string>
+    <string name="a9">Ενεργοπ. υπηρεσιών Google Play</string>
+    <string name="a_">Ενημέρωση υπηρεσιών Google Play</string>
+    <string name="aa">Ενημέρωση Android Wear</string>
+    <string name="ab">Η εφαρμογή %1$s θα εκτελεστεί αφού ενημερώσετε τις Υπηρεσίες Google Play.</string>
+    <string name="ac">Η εφαρμογή %1$s δεν θα εκτελεστεί εάν δεν ενημερώσετε την εφαρμογή Android Wear.</string>
+    <string name="ad">Ενημέρωση των Υπηρεσιών Google Play</string>
+    <string name="ae">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις Υπηρεσίες Google Play, οι οποίες ενημερώνονται αυτήν τη στιγμή.</string>
+    <string name="af">Σφάλμα δικτύου</string>
+    <string name="ag">Απαιτείται σύνδεση δεδομένων για να συνδεθείτε με τις Υπηρεσίες Google Play.</string>
+    <string name="ah">Μη έγκυρος λογαριασμός</string>
+    <string name="ai">Ο συγκεκριμένος λογαριασμός δεν υπάρχει σε αυτήν τη συσκευή. Επιλέξτε έναν διαφορετικό λογαριασμό.</string>
+    <string name="aj">Άγνωστο πρόβλημα με τις υπηρεσίες Google Play.</string>
+    <string name="ak">Υπηρεσίες Google Play</string>
+    <string name="al">Η εφαρμογή %1$s βασίζεται στις Υπηρεσίες Google Play, οι οποίες δεν υποστηρίζονται από τη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή για βοήθεια.</string>
+    <string name="am">Ενημέρωση</string>
+    <string name="an">Σύνδεση</string>
+    <string name="ao">Συνδεθείτε στο Google</string>
+    <string name="ap">Άνοιγμα στο τηλέφωνο</string>
+    <string name="aq">Η εφαρμογή %1$s απαιτεί μία ή περισσότερες υπηρεσίες του Google Play που δεν είναι διαθέσιμες προς το παρόν. Επικοινωνήστε με τον προγραμματιστή για βοήθεια.</string>
+    <string name="ar">Η σύνδεση απέτυχε</string>
+    <string name="as">Σφάλμα κατά τη σύνδεση στον συγκεκριμένο λογαριασμό. Επιλέξτε έναν διαφορετικό λογαριασμό.</string>
+</resources>

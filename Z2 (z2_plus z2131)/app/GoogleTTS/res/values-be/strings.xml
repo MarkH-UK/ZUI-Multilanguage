@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Модуль Google Text-to-speech</string>
+    <string name="general_settings">Агульныя налады</string>
+    <string name="license_activity_loading">Загрузка...</string>
+    <string name="license_activity_unavailable">Не атрымлiваецца загрузіць ліцэнзіі.</string>
+    <string name="install_data_header">Спампуйце гэтыя дадзеныя, каб падтрымліваць сінтэз гаворкі на вашай прыладзе ў аўтаномным рэжыме.</string>
+    <string name="download_invite_title">Усталяваць голас прамовы %1$s</string>
+    <string name="download_invite">Уключыць для %1$s прагаворванне тэксту ў аўтаномным рэжыме</string>
+    <string name="install_voice_text_2">Даступна для спампоўкі</string>
+    <string name="download_in_progress">Ідзе спампоўка</string>
+    <string name="no_installable_voices">Няма галасоў, якія могуць быць спампаваны</string>
+    <string name="cancel">Адмена</string>
+    <string name="delete_voice_data">Выдаліць</string>
+    <string name="update">Абнавіць</string>
+    <string name="download">Спампаваць</string>
+    <string name="voice_installed">Усталявана.</string>
+    <string name="voice_installed_and_default">Усталявана і наладжана па змаўчанні.</string>
+    <string name="download_success_title">Спампаваны галасавыя дадзеныя для мовы: %1$s</string>
+    <string name="download_success_description">Націсніце, каб перайсці ў налады і ўсталяваць гэты голас па змаўчанні.</string>
+    <string name="download_failure_title">Памылка спампавання галасавых дадзеных для мовы: %1$s</string>
+    <string name="download_failure_description">Націсніце, каб паўтарыць спробу.</string>
+    <string name="manage_voice_data">Кіраванне галасавымі дадзенымі</string>
+    <string name="auto_update_title">Аўтаматычна абнавіць галасы</string>
+    <string name="sample_text_synthesis_failure">Не атрымалася сінтэзаваць прыклад для гэтага голасу.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XuiResolver</string>
+    <string name="cancel">@android:string/cancel</string>
+    <string name="noApplications">@android:string/noApplications</string>
+    <string name="activity_resolver_use_always">@android:string/activity_resolver_use_always</string>
+    <string name="activity_resolver_use_once">@android:string/activity_resolver_use_once</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Pogreška Usluga za Google Play</string>
+    <string name="z">Aplikacija zahtijeva ažuriranje Usluga za Google Play.</string>
+    <string name="a0">%1$s zahtijeva ažuriranje aplikacije Android Wear.</string>
+    <string name="a1">Aplikacija zahtijeva da Usluge za Google Play budu omogućene.</string>
+    <string name="a2">Zahtijeva aplikacija %1$s</string>
+    <string name="a3">Preuzmi usluge za Google Play</string>
+    <string name="a4">%1$s neće funkcionirati bez Google Play usluga koje nisu instalirane na vašem telefonu.</string>
+    <string name="a5">%1$s neće funkcionirati bez Google Play usluga koje nisu instalirane na vašem tabletu.</string>
+    <string name="a6">Preuzmi usluge za Google Play</string>
+    <string name="a7">Omogući usluge za Google Play</string>
+    <string name="a8">%1$s neće funkcionirati ako ne omogućite Google Play usluge.</string>
+    <string name="a9">Omogući usluge za Google Play</string>
+    <string name="a_">Ažuriraj usluge za Google Play</string>
+    <string name="aa">Ažurirajte Android Wear</string>
+    <string name="ab">%1$s neće funkcionirati ako ne ažurirate Google Play usluge.</string>
+    <string name="ac">%1$s neće funkcionirati ako ne ažurirate aplikaciju Android Wear.</string>
+    <string name="ad">Ažuriranje Google Play usluga u tijeku</string>
+    <string name="ae">%1$s neće funkcionirati bez Google Play usluga koje se trenutačno ažuriraju.</string>
+    <string name="af">Mrežna pogreška</string>
+    <string name="ag">Potrebna je podatkovna veza za povezivanje s uslugama Google Play.</string>
+    <string name="ah">Nevažeći račun</string>
+    <string name="ai">Navedeni račun ne postoji na ovom uređaju. Odaberite neki drugi račun.</string>
+    <string name="aj">Nepoznata poteškoća s uslugama za Google Play.</string>
+    <string name="ak">Usluge za Google Play</string>
+    <string name="al">%1$s radi uz pomoć Google Play usluge koje vaš uređaj ne podržava. Za pomoć se obratite proizvođaču.</string>
+    <string name="am">Ažuriranje</string>
+    <string name="an">Prijava</string>
+    <string name="ao">Prijava uslugom Google</string>
+    <string name="ap">Otvaranje na telefonu</string>
+    <string name="aq">%1$s zahtijeva jednu ili više Google Play usluga koje trenutačno nisu dostupne. Za pomoć se obratite razvojnom programeru.</string>
+    <string name="ar">Prijava nije uspjela</string>
+    <string name="as">Pogreška prilikom prijave na navedeni račun. Odaberite neki drugi račun.</string>
+</resources>

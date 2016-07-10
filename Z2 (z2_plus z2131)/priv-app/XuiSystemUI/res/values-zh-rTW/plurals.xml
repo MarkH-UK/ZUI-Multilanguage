@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="message_text">
+        <item quantity="other">你有%1$d條通知</item>
+        <item quantity="one">你有%1$d條通知</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">SIM 卡的 PIN 碼輸入錯誤，您還可以再試 %d 次。</item>
+        <item quantity="one">SIM 卡的 PIN 碼輸入錯誤，您還可以再試 %d 次。如果仍然失敗，就必須請行動通訊業者為裝置解鎖。</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">SIM 卡的 PUK 碼輸入錯誤，您還可以再試 %d 次。如果仍然失敗，SIM 卡將永久無法使用。</item>
+        <item quantity="one">SIM 卡的 PUK 碼輸入錯誤，您還可以再試 %d 次。如果仍然失敗，SIM 卡將永久無法使用。</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">輸入 SIM PIN，您還有%d次嘗試機會。</item>
+        <item quantity="one">輸入 SIM PIN，您還有%d次嘗試機會。如果仍然失敗，則必須聯系運營商幫您解鎖設備。</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message_bottom">
+        <item quantity="other">您還有%d次嘗試機會</item>
+        <item quantity="one">您還有%d次嘗試機會。如果仍然失敗，則必須聯系運營商幫您解鎖設備。</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_bottom">
+        <item quantity="other">您還有%d次嘗試機會。</item>
+        <item quantity="one">您還有%d次嘗試機會。如果仍然失敗，則必須聯系運營商幫您解鎖設備。</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message_bottom">
+        <item quantity="other">還有 %d 次輸入機會。如果仍然失敗，請聯系運營商解鎖設備</item>
+        <item quantity="one">還有 %d 次輸入機會。如果仍然失敗，請聯系運營商解鎖設備</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code_bottom">
+        <item quantity="other">還有 %d 次輸入機會。如果仍然失敗，SIM卡會損壞</item>
+        <item quantity="one">還有 %d 次輸入機會。如果仍然失敗，SIM卡會損壞</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">總覽中有 %d 個畫面</item>
+        <item quantity="one">總覽中有 1 個畫面</item>
+    </plurals>
+</resources>

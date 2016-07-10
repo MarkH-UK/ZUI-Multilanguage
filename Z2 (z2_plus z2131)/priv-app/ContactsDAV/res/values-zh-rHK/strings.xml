@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactsDAV</string>
+    <string name="help">說明</string>
+    <string name="login_auth_preemptive">強制認證模式 (建議使用，但不相容於 Digest 認證方式)</string>
+    <string name="login_base_url">伺服器根位址 (集合會自動偵測)：</string>
+    <string name="login_email_address">Email：</string>
+    <string name="login_email_description">請輸入您的信箱地址。信箱的功能變數名稱會用來自動連接伺服器。</string>
+    <string name="login_http_warning">如果不使用加密連線 (HTTPS)，其他人將很容易竊取到您的登入資訊、通訊錄和排程。</string>
+    <string name="login_password">密碼</string>
+    <string name="login_type_email">使用信箱地址登入</string>
+    <string name="login_type_email_description">伺服器連線資訊由功能變數名稱本身提供。例如: myaccount@icloud.com</string>
+    <string name="login_type_url">使用 URL 和使用者名稱登入</string>
+    <string name="login_type_url_description">伺服器連線透過 URL 和使用者名稱進行。個人建置的服務通常使用此項。</string>
+    <string name="login_user_name">使用者名稱</string>
+    <string name="main_manage_accounts">管理同步帳號</string>
+    <string name="next">繼續</string>
+    <string name="setup_account_details">帳號資訊</string>
+    <string name="setup_account_name">帳號顯示名稱</string>
+    <string name="setup_account_name_hint">我的 CalDAV/CardDAV 帳號</string>
+    <string name="setup_add_account">增加帳號</string>
+    <string name="setup_address_books">通訊錄</string>
+    <string name="setup_calendars">行事曆</string>
+    <string name="setup_querying_server">正在嘗試，請稍等…</string>
+    <string name="setup_read_only">唯讀</string>
+    <string name="setup_select_address_book">最多選擇一個通訊錄：(再次點按可取消選擇)</string>
+    <string name="setup_select_calendars">選擇行事曆：</string>
+    <string name="setup_what_to_sync">選擇需要同步的內容</string>
+    <string name="settings_authentication">認證</string>
+    <string name="settings_enter_password">輸入密碼</string>
+    <string name="settings_enter_username">輸入使用者名稱</string>
+    <string name="settings_no_accounts">找不到 DAVdroid 帳號</string>
+    <string name="settings_password">密碼</string>
+    <string name="settings_password_summary">點按以修改密碼</string>
+    <string name="settings_preemptive">強制認證模式</string>
+    <string name="settings_preemptive_off">認證資訊在伺服器要求後才發送</string>
+    <string name="settings_preemptive_on">認證資訊在每次要求時發送 (建議)</string>
+    <string name="settings_sync">同步</string>
+    <string name="settings_sync_interval_calendars">行事曆自動同步間隔</string>
+    <string name="settings_sync_interval_contacts">通訊錄自動同步間隔</string>
+    <string name="settings_sync_interval_tasks">待辦工作自動同步間隔</string>
+    <string name="settings_sync_summary_manually">手動同步</string>
+    <string name="settings_sync_summary_not_available">無法使用</string>
+    <string name="settings_sync_summary_periodically">每 %d 分鐘或本機修改後</string>
+    <string name="settings_title">設定</string>
+    <string name="settings_username">使用者名稱</string>
+    <string name="setup_install_apps_info">Android 系統不支援原生待辦工作清單 (相較於排程和通訊錄)。</string>
+    <string name="setup_install_tasks_app_html">&lt;p>DAVdroid 使用 &lt;a href=\"market://details?id=org.dmfs.tasks\">Tasks 應用程式&lt;/a> (作者 Marten Gajda) 來同步待辦工作。&lt;/p> &lt;p>由於 &lt;a href=\"https://code.google.com/p/android/issues/detail?id=25906\">Android 有 BUG&lt;/a>，&lt;b>Tasks 應用程式必須在 DAVdroid 安裝前安裝好&lt;/b> (否則 DAVdroid 無法使用其提供的待辦工作同步介面)。&lt;/p> &lt;p>如需同步待辦工作，請這麼做：&lt;/p> &lt;p>1. 安裝 Tasks 應用程式；&lt;br/> 2. 重新安裝 DAVdroid (以取得讀取 Tasks 的權限)；&lt;br/> 3. 重新新增 DAVdroid 帳號。&lt;/p> &lt;p>如果不需同步待辦工作，您可以忽略以上步驟。&lt;/p></string>
+    <string name="setup_select_task_lists">選擇待辦清單：</string>
+    <string name="setup_task_lists">待辦清單</string>
+    <string name="skip">跳過</string>
+    <string name="debug_info_title">偵錯資訊</string>
+    <string name="main_how_to_setup_html">&lt;p>&lt;b>如何設定&lt;/b>&lt;/p> &lt;p>DAVdroid 支援所有符合標準的 CalDAV/CardDAV 服務。查看所有已測試的服務清單和相關的設定資訊，以及有關 TLS 和憑證的資訊，請查看 &lt;a href=\"https://davdroid.bitfire.at/configuration?pk_campaign=davdroid-app&amp;pk_kwd=main-activity\">設定說明&lt;/a>。&lt;/p></string>
+    <string name="main_license_html">&lt;p>&lt;b>授權協議&lt;/b>&lt;/p> &lt;p>Copyright © 2013 – 2015 Ricki Hirner, Bernhard Stockmann (&lt;a href=\"https://www.bitfire.at\">bitfire web engineering&lt;/a>). All rights reserved. This program and the accompanying materials are made available under the terms of the GNU Public License v3.0 which accompanies this distribution, and is available at &lt;a href=\"http://www.gnu.org/licenses/gpl.html\">http://www.gnu.org/licenses/gpl.html&lt;/a>. As far as Google Play, Samsung Store or Amazon Appstore require other terms, the respective terms apply only to versions that are downloaded using these services.&lt;/p></string>
+    <string name="main_open_source_disclaimer_html">&lt;p>&lt;b>開放原始碼&lt;/b>&lt;/p> &lt;p>DAVdroid 一直以來是一個開放原始碼專案。您可以自己編譯應用程式，不受限制地免費使用。您可以 &lt;a href=\"https://davdroid.bitfire.at/source?pk_campaign=davdroid-app&amp;pk_kwd=main-activity\">直接取得來源程式碼&lt;/a>，或者在 &lt;a href=\"https://f-droid.org/app/at.bitfire.davdroid\">F-Droid 下載應用程式&lt;/a>。&lt;/p>&lt;/p></string>
+    <string name="main_play_workaround_html">&lt;p>感謝您透過 Google Play 購買 DAVdroid 支持我們。遺憾的是，有兩個 Google Play 的問題可能會影響到您。點選連結即可查看詳情。&lt;/p> &lt;p>&lt;a href=\"https://davdroid.bitfire.at/faq/entry/account-gone-after-reboot\">1. 帳號可能在裝置重新啟動後消失&lt;/a>： 影響部分 Android 4.1、4.2 裝置 (如大部分 Samsung 裝置和其他某些裝置)。大部分最新的 Android 版本沒有此問題。&lt;br/> &lt;a href=\"https://davdroid.bitfire.at/faq/entry/account-gone-after-updating\">2. 帳號可能在升級 DAVdroid 後消失&lt;/a>： 影響部分 Android 4.4.2 裝置 (如 Nexus 裝置、Moto G 和其他某些裝置)。大部分最新的 Android 版本沒有此問題。&lt;/p> &lt;p>&lt;strong>如果您遇到這些問題，請&lt;a href=\"market://details?id=at.bitfire.davdroid.jbworkaround\">安裝 DAVdroid JB Workaround&lt;/a>。&lt;/strong>&lt;/p></string>
+    <string name="main_show_debug_info">顯示偵錯資訊</string>
+    <string name="main_support_html">&lt;p>&lt;b>支援&lt;/b>&lt;/p> &lt;p>&lt;b>如果出現問題，請先查看&lt;a href=\"https://davdroid.bitfire.at/faq?pk_campaign=davdroid-app&amp;pk_kwd=main-activity\">常見問題清單&lt;/a>。欲取得協助或討論 DAVdroid 有關的話題，請到 &lt;a href=\"https://davdroid.bitfire.at/forums?pk_campaign=davdroid-app&amp;pk_kwd=main-activity\">DAVdroid 論壇&lt;/a>。&lt;/b> 請不要直接在應用程式商店裡給我們留差評 (這對雙方而言是無用和沮喪的)。&lt;/p></string>
+    <string name="main_translation_info">英語和德文以外的翻譯由其他人提供，在相關語言的版本中將會標明。</string>
+    <string name="main_used_libraries_heading">DAVdroid 使用的程式庫 (字母順序排列)：</string>
+    <string name="main_welcome">歡迎使用 DAVdroid/%s！</string>
+    <string name="main_what_is_davdroid_html">&lt;p>DAVdroid 是 Android 4+ 的 CalDAV/CardDAV 同步器。只需加入 DAVdroid 帳號，設定 CalDAV/CardDAV 伺服器資訊，聯絡人、行事曆活動或待辦工作就會雙向同步。&lt;/p> &lt;p>更多資訊請見 &lt;a href=\"https://davdroid.bitfire.at/?pk_campaign=davdroid-app&amp;pk_kwd=main-activity\">DAVdroid 網站&lt;/a>。 DAVdroid 重視您的隱私，詳情請參見我們的&lt;a href=\"https://davdroid.bitfire.at/privacy?pk_campaign=davdroid-app&amp;pk_kwd=main-activity\">隱私權政策&lt;/a>。&lt;/p></string>
+    <string name="mtm_accept_cert">是否接受未知的憑證？</string>
+    <string name="mtm_accept_servername">是否接受不相符的伺服器名稱</string>
+    <string name="mtm_cert_details">憑證詳細資訊</string>
+    <string name="mtm_cert_expired">The server certificate is expired.</string>
+    <string name="mtm_connect_anyway">Do you want to connect anyway？</string>
+    <string name="mtm_decision_abort">放棄</string>
+    <string name="mtm_decision_always">總是</string>
+    <string name="mtm_decision_once">一次</string>
+    <string name="mtm_hostname_mismatch">伺服器不能授與 \"%s\" 授權，憑證只對:有效</string>
+    <string name="mtm_notification">憑證驗證</string>
+    <string name="mtm_trust_anchor">伺服器憑證沒有簽署</string>
+    <string name="please_wait">請稍候</string>
+    <string name="send">發送</string>
+    <string name="settings_android_update_description">Android 系統的版本升級可能會影響 DAVdroid 的執行。如果出現問題，請刪除並重新新增 DAVdroid 帳號。</string>
+    <string name="settings_android_update_title">Android 版本升級</string>
+    <string name="settings_debug">偵錯</string>
+    <string name="settings_log_to_external_file">記錄日誌到檔案</string>
+    <string name="settings_log_to_external_file_confirmation">日誌檔將包括隱私資訊，可能會被其他應用程式讀取。使用後，請關閉日誌記錄並刪除日誌檔。</string>
+    <string name="settings_log_to_external_file_no_external_storage">外部儲存無法使用</string>
+    <string name="settings_log_to_external_file_off">日誌將寫入到 ADB</string>
+    <string name="settings_log_to_external_file_on">日誌路徑為 %s (當選項開啟時)</string>
+    <string name="settings_log_verbose">記錄完整日誌</string>
+    <string name="settings_log_verbose_off">只記錄同步資訊</string>
+    <string name="settings_log_verbose_on">記錄同步資訊和網路互動</string>
+    <string name="settings_security_warning">有安全隱患！</string>
+    <string name="settings_version_update_description">程式設定已更新。如果出現問題，請解除安裝後重新安裝 DAVdroid。</string>
+    <string name="settings_version_update_title">設定已儲存</string>
+    <string name="setup_account_name_info">請使用您的信箱地址作為帳號名稱，因為 Android 會將您建立的行事曆事件的建立者設定為帳號名稱。您不能擁有多個帳號名稱相同的帳號。</string>
+    <string name="setup_no_collections_found">找不到通訊錄和行事曆。</string>
+    <string name="setup_resource_detection">資源尋找</string>
+    <string name="setup_view_logs">查看日誌</string>
+    <string name="sync_error">%s 時錯誤</string>
+    <string name="sync_error_calendar">行事曆同步失敗 (%s)</string>
+    <string name="sync_error_contacts">通訊錄同步失敗 (%s)</string>
+    <string name="sync_error_http_dav">%s 時伺服器錯誤</string>
+    <string name="sync_error_local_storage">%s 時資料庫錯誤</string>
+    <string name="sync_error_tasks">待辦工作同步失敗(%s)</string>
+    <string name="sync_error_unauthorized">使用者名稱或密碼錯誤</string>
+    <string name="login_account_description_hint">請在這裡填寫描述</string>
+    <string name="login_account_description_label">描述</string>
+    <string name="login_default_empty_error">伺服器，使用者名稱和密碼不能空白！</string>
+    <string name="login_icloud_empty_error">Apple ID 和密碼不能空白！</string>
+    <string name="login_label">登入</string>
+    <string name="login_server_name_hint">伺服器 my.webhost.com</string>
+    <string name="login_server_name_label">伺服器</string>
+    <string name="setup_dialog_retry">重試</string>
+    <string name="setup_done">完成</string>
+    <string name="setup_login_failed">登錄失敗</string>
+    <string name="setup_login_icloud_info_error">請檢查您的Apple ID和密碼!</string>
+    <string name="setup_login_icloud_info_error_for_two_step">"請檢查您的Apple ID和密碼！
+
+如果您已開啟了Apple ID的兩步驗證，請確保您已創建並輸入了正確的"<a href="https://support.apple.com/zh-hk/HT204397">App專用密碼</a>。登入<a href="https://appleid.apple.com/hk">Apple ID賬號頁面</a>進行相關操作。</string>
+    <string name="setup_login_network_error">請檢查網絡連接!</string>
+    <string name="setup_querying_server_carddav">正在登錄CardDAV，請稍等…</string>
+    <string name="setup_querying_server_icloud">正在登錄iCloud，請稍等…</string>
+</resources>

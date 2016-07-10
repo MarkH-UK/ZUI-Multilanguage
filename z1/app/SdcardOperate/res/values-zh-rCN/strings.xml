@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SdcardOperate</string>
+    <string name="waittingDialog_title">日志正在保存,请稍后...</string>
+    <string name="appLogSaved">保存成功</string>
+</resources>

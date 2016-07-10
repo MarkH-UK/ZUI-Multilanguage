@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Válasz</item>
+        <item>Válasz mindenkinek</item>
+        <item>Továbbítás</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Egysoros</item>
+        <item>Kétsoros</item>
+        <item>Háromsoros</item>
+        <item>Négysoros</item>
+        <item>Ötsoros</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Apró</item>
+        <item>Kicsi</item>
+        <item>Normál</item>
+        <item>Nagy</item>
+        <item>Hatalmas</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Legutóbbi</item>
+        <item>Formátum</item>
+        <item>Név</item>
+        <item>Feladó</item>
+        <item>Dátum</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Rendszer</item>
+        <item>Gyorsüzenetek</item>
+        <item>Összes mappa</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Következő beszélgetés</item>
+        <item>Előző beszélgetés</item>
+        <item>Beszélgetési lista</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Csak archivált elemek megjelenítése</item>
+        <item>Csak törölt elemek megjelenítése</item>
+        <item>Az archivált és a törölt elemek megjelenítése</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Következő beszélgetés megjelenítése a törlés után</item>
+        <item>Előző beszélgetés megjelenítése a törlés után</item>
+        <item>Beszélgetési lista megjelenítése a törlés után</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Csak archivált elemek megjelenítése</item>
+        <item>Csak törölt elemek megjelenítése</item>
+        <item>Az archivált és a törölt elemek megjelenítése</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Cím:</item>
+        <item>Tel.:</item>
+        <item>Név:</item>
+        <item>E-mail:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Irányítószám:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Köszönettel:</item>
+        <item>Üdvözlettel:</item>
+        <item>Küldés forrása:</item>
+        <item>Eredeti e-mail</item>
+        <item>Küldés forrása:</item>
+        <item>Küldés helye</item>
+        <item>Feladó</item>
+        <item>Ez az e-mail</item>
+        <item>Nyilatkozat</item>
+        <item>E-mail nyilatkozat</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>A szinkronizálás sikeresen befejeződött</item>
+        <item>Hiba a hálózati kapcsolatban</item>
+        <item>A bejelentkezés sikertelen volt</item>
+        <item>Hiba a biztonságos kapcsolatban</item>
+        <item>Sikertelen szinkronizálás</item>
+        <item>Kiszolgálóhiba</item>
+    </string-array>
+</resources>

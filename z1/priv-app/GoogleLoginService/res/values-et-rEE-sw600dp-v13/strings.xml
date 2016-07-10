@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">"Teie nime kasutatakse tahvelarvuti ja Google'i teenuste isikupärastamiseks."</string>
+    <string name="name_title_local">Tahvelarvuti omanik on:</string>
+    <string name="name_text_local">Tahvelarvuti kasutab mõne rakenduse isikupärastamiseks teie nime.</string>
+    <string name="communicating_message">"Teie tahvelarvuti võtab Google'iga ühendust, et teave kontole salvestada. Selleks võib kuluda kuni 5 minutit."</string>
+    <string name="checking_username_message">"Teie tahvelarvuti võtab ühendust Google'iga, et näha, kas teie soovitud kasutajanimi on saadaval.
+
+Selleks võib kuluda paar minutit."</string>
+    <string name="wait_for_device_country_msg">Tahvelarvuti teabe kogumine. Kuluda võib kuni 30 sekundit.</string>
+    <string name="backup_consent_message">"Kasutage oma Google'i kontot rakenduste, seadete (nt järjehoidjate ja WiFi-paroolide) ning muude andmete varundamiseks. Kui olete kontot varem varundanud, siis saate selle nüüd tahvelarvutis taastada.
+
+Varundamise seadeid saate igal ajal muuta jaotises Seaded."</string>
+    <string name="backup_consent_message_no_restore">"Kasutage oma Google'i kontot rakenduste, seadete (näiteks järjehoidjad ja WiFi-paroolid) ning muude andmete varundamiseks.
+
+Varundamise seadeid saate igal ajal muuta jaotises Seaded."</string>
+    <string name="restoring_message">"Teie tahvelarvuti võtab konto taastamiseks ühendust Google'iga. Selleks võib kuluda kuni 5 minutit."</string>
+    <string name="restore_consent_yes_agree">"Tooge eelnevalt Google'i kontole varundatud rakendused, seaded ja muud andmed sellesse tahvelarvutisse."</string>
+</resources>

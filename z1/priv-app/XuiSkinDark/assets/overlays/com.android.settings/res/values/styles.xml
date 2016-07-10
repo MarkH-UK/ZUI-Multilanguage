@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.textAppearancePasswordHeader" parent="android:TextAppearance.DeviceDefault">
+        <item name="android:textColor">#ff006798</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+</resources>

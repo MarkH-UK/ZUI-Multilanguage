@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">‏يتطلب أحد التطبيقات تثبيت خدمات Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">‏يتطلب أحد التطبيقات تحديث خدمات Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">‏يتطلب أحد التطبيقات تحديثًا لتطبيق Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">‏يتطلب أحد التطبيقات تمكين خدمات Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">تم الطلب عن طريق %1$s</string>
+    <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_install_text_phone">‏لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في هاتفك.</string>
+    <string name="common_google_play_services_install_text_tablet">‏لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في جهازك اللوحي.</string>
+    <string name="common_google_play_services_install_button">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_enable_title">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل هذا التطبيق ما لم يتم تمكين خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_button">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_android_wear_update_title">‏تحديث Android Wear</string>
+    <string name="common_google_play_services_update_text">‏لن يتم تشغيل هذا التطبيق ما لم تحدِّث خدمات Google Play.</string>
+    <string name="common_android_wear_update_text">‏لن يتم تشغيل هذا التطبيق ما لم تحدِّث تطبيق Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">خطأ في الشبكة</string>
+    <string name="common_google_play_services_network_error_text">‏يتطلب الاتصال بخدمات Google Play وجود اتصال بيانات.</string>
+    <string name="common_google_play_services_invalid_account_title">حساب غير صالح</string>
+    <string name="common_google_play_services_invalid_account_text">الحساب الذي تمّ تحديده غير موجود على الجهاز. يُرجى اختيار حساب آخر.</string>
+    <string name="common_google_play_services_unknown_issue">‏حدثت مشكلة غير معروفة في خدمات Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">‏خدمات Google Play</string>
+    <string name="common_google_play_services_unsupported_text">‏خدمات Google Play التي تستجيب لها بعض تطبيقاتك لا تعمل على جهازك. يُرجى الاتصال بجهة التصنيع للحصول على المساعدة.</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+    <string name="common_signin_button_text">تسجيل الدخول</string>
+    <string name="common_signin_button_text_long">‏تسجيل الدخول باستخدام Google</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="setup_wizard_next_button_label">التالي</string>
+    <string name="setup_wizard_back_button_label">رجوع</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">تخطٍ</string>
+    <string name="down_button_label">المزيد</string>
+    <string name="cancel_button_label">إلغاء</string>
+    <string name="try_again_button_label">حاول مرة أخرى</string>
+    <string name="close_button_label">إغلاق</string>
+    <string name="url_load_unsuccessful_message">‏جهاز Android غير متصل بخدمة بيانات. لعرض هذه المعلومات الآن، انتقل إلى %s باستخدام متصفح ويب.</string>
+    <string name="sign_in_agreement">‏يعد تسجيل دخولك بمثابة موافقة منك على <annotation id="tos">بنود خدمة</annotation> Google و<annotation id="google_privacy">سياسة الخصوصية</annotation> و<annotation id="play_tos">بنود خدمة Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">سياسة الخصوصية الإضافية</string>
+    <string name="google_terms_of_service_title">‏بنود خدمة Google</string>
+    <string name="google_privacy_policy_title">‏سياسة خصوصية Google</string>
+    <string name="google_plus_privacy_policy_title">‏سياسة خصوصية Google Plus</string>
+    <string name="google_play_tos_title">‏بنود خدمة Google Play</string>
+    <string name="chrome_tos_title">‏بنود خدمة Chrome</string>
+    <string name="chrome_privacy_title">‏إشعار خصوصية Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">‏جهاز Android غير متصل بشبكة Wi-Fi. لعرض هذه المعلومات الآن، انتقل إلى %s عبر متصفح الويب.</string>
+    <string name="services_activity_title">‏خدمات Google</string>
+    <string name="services_backup_heading">النسخة الاحتياطية</string>
+    <string name="services_location_heading">الموقع</string>
+    <string name="services_security_heading">الأمان</string>
+    <string name="services_personalization_heading">تخصيص</string>
+    <string name="services_communication_heading">الاتصال</string>
+    <string name="security_verify_apps_summary">‏السماح لـ Google بمراجعة جميع التطبيقات المثبتة للوقوف على السلوك الضار المحتمل الذي قد يؤثر على أمان الجهاز أو البيانات.</string>
+    <string name="name_title">اسمك</string>
+    <string name="name_text">‏يستخدم اسمك لتخصيص الهاتف وخدمات Google.</string>
+    <string name="first_name">الأول</string>
+    <string name="last_name">الأخير</string>
+    <string name="cant_be_blank">لا يمكن أن يكون الحقل فارغًا.</string>
+    <string name="sharedUserLabel">‏خدمات Google</string>
+    <string name="app_label">‏إدارة حساب Google</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">تسجيل الدخول</string>
+    <string name="create_button_label">الحصول على حساب</string>
+    <string name="not_now_button_label">ليس الآن</string>
+    <string name="new_button_label">جديد</string>
+    <string name="existing_button_label">حالي</string>
+    <string name="done">موافق</string>
+    <string name="edit_text_help">المس أي مربع نص لبدء الكتابة</string>
+    <string name="add_a_google_account">‏إضافة حساب Google</string>
+    <string name="captcha_title">‏الاحتياج إلى إدخال اختبار CAPTCHA</string>
+    <string name="show_error_title">خطأ</string>
+    <string name="server_error">‏حدثت مشكلة أثناء الاتصال بخوادم Google.</string>
+    <string name="server_error_help">أعد المحاولة لاحقًا.</string>
+    <string name="network_unreliable">لا يمكن إجراء اتصال موثوق بالخادم.</string>
+    <string name="network_unreliable_help">‏قد تكون هذه مشكلة مؤقتة أو قد لا يكون جهاز Android مزوّدًا بخدمات البيانات. إذا استمرت المشكلة، فاتصل بخدمة العملاء.</string>
+    <string name="network_unreliable_help_wifi_only">‏قد تكون هذه مشكلة مؤقتة. أعد المحاولة أو اتصل بشبكة Wi-Fi أخرى.</string>
+    <string name="invalid_login_character">‏حرف غير صالح. لا يُسمح سوي بالأرقام من 0-9 والأحرف a-z وA-Z والنقاط.</string>
+    <string name="invalid_password_character">هناك حرف غير صالح بكلمة المرور.</string>
+    <string name="calendar">‏تقويم Google</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">لا يمكن أن يكون الحقل فارغًا.</string>
+    <string name="plus_query_title">‏الترقية إلى Google+‎</string>
+    <string name="plus_query_text">‏باستخدام Google+‎ تعد عملية المشاركة على الويب أقرب ما يكون إلى المشاركة في الواقع الفعلي.</string>
+    <string name="circles_subtitle">ساحة مشاركات تتضمن أشياء تهتم بها</string>
+    <string name="circles_text">تواصل مع الأصدقاء المقربين واستكشف الاهتمامات المشتركة.</string>
+    <string name="uploads_subtitle">الاحتفاظ بنسخة احتياطية تلقائية من الصور</string>
+    <string name="uploads_text">يمكنك الاحتفاظ بنسخة احتياطية من الصور فور التقاطها، من خلال سعة تخزينية مجانية وخاصة.</string>
+    <string name="huddle_subtitle">إجراء مكالمات فيديو والمراسلة</string>
+    <string name="huddle_text">‏استمتع بإرسال رسائل نصية وصور وإجراء مكالمات فيديو جماعية مجانية باستخدام Hangouts.</string>
+    <string name="plus_declined_button_label">ليس الآن</string>
+    <string name="plus_accepted_button_label">بدء الاستخدام</string>
+    <string name="plus_name_check_title">‏جارٍ الاتصال بـ Google+‎...</string>
+    <string name="plus_name_check_text">يمكن أن يستغرق هذا بضع دقائق.</string>
+    <string name="plus_faq_title">‏مرحبًا بك في Google+‎!</string>
+    <string name="plus_faq_text" formatted="false">"‏ستحصل من خلال Google+‎ على ملف شخصي عام لمساعدة أصدقائك في العثور عليك عبر الإنترنت. يمكن لأي شخص يعرف عنوان بريدك الإلكتروني العثور على ملفك الشخصي وعرضه.
+
+يمكنك استخدام أزرار 1+ في أرجاء الويب للتوصية بأشياء مختلفة إلى العالم. وسيظهر ملفك الشخصي وإجراءات 1+ بشكل عام في البحث والإعلانات وعبر الويب.
+
+في الوقت الحالي، سيعرض ملفك الشخصي اسمك (%s %s) فقط. ويمكنك إضافة صورة وسيرة ذاتية وتفاصيل أخرى لاحقًا عند بدء استخدام Google+‎."</string>
+    <string name="dasher_warning">‏يملك مشرف %s جميع بياناتك في Google+‎ ويديرها ويمكنه حذف ملفك الشخصي أو تعديله في أي وقت بدون إذنك.</string>
+    <string name="profile_info_title">ملفك الشخصي</string>
+    <string name="profile_text">‏أدخل بعض المعلومات الأساسية في ملفك الشخصي. يمكنك إضافة صورة وتفاصيل أخرى لاحقًا عند بدء استخدام +Google.</string>
+    <string name="occupation">الوظيفة</string>
+    <string name="current_city">المدينة الحالية</string>
+    <string name="picassa_info_title">‏بيكاسا وGoogle+‎</string>
+    <string name="picassa_info_text" formatted="false">‏ستكون صورك ومقاطع الفيديو في ألبومات الويب بيكاسا متاحة في Google+‎ وستظهر تعليقاتك باسم %s %s بدلاً من %s. وعند مشاركتك صورًا على Google+‎، يمكن للمستلمين إعادة مشاركتها مع أي شخص آخر. ولن تتغير إعدادات مستوى رؤية ألبوماتك، ويمكنك تغييرها في أي وقت للحد من إعادة مشاركتها بشكل حر.</string>
+    <string name="name_title_plus">‏اسمك في Google+‎</string>
+    <string name="name_title_local">ينتمي هذا الهاتف إلى...</string>
+    <string name="name_text_local">يستخدم الهاتف اسمك لتخصيص بعض التطبيقات.</string>
+    <string name="name_progress_title">بضع ثوانٍ...</string>
+    <string name="bad_name_title">هل تريد استخدام هذا الاسم؟</string>
+    <string name="invalid_name_title">لا يمكن استخدام هذا الاسم</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"‏إذا كنت تريد هذا كاسمك في Google+‎، فإنه يجب على فريقنا مراجعته. وإذا كان ينتهك سياسة الأسماء، فقد يتم تعليق ملفك الشخصي. ويؤدي ذلك إلى تقييد قدرتك على استخدام منتجات Google التي تتطلب ملفًا شخصيًا نشطًا.
+
+"<annotation id="learn_more">مزيد من المعلومات</annotation></string>
+    <string name="invalid_name_text">‏لا يمكن استخدام هذا الاسم مع Google+‎ لأنه يحتوي على حروف غير صالحة.</string>
+    <string name="invalid_nickname_text">‏لا يمكنك استخدام هذا الاسم مع Google+‎ لأنه يحتوي على حروف غير صالحة. هل تحاول استخدام لقب أو اسم سابق أو مسمى وظيفي؟ يمكنك إضافتها إلى ملفك الشخصي بعد الانضمام.</string>
+    <string name="invalid_other_text">‏لا يمكن استخدام هذا الاسم مع Google+‎.</string>
+    <string name="bad_name_agree_text">أتفهم ذلك وأريد استخدام هذا الاسم.</string>
+    <string name="bad_name_decline_button_label">تحديث الاسم</string>
+    <string name="bad_name_agree_button_label">إرسال الاسم للمراجعة</string>
+    <string name="bad_name_skip_button_label">‏تخطي Google+‎</string>
+    <string name="photo_title">صورتك</string>
+    <string name="photo_text">سيتم استخدام هذه الصورة في سجل جهات الاتصال. يمكنك تغييرها لاحقًا في تطبيق الأشخاص.</string>
+    <string name="photo_text_es">‏التقط صورة ليراها أصدقاؤك على Google+‎. وسيكون بإمكانك اختيار صورة جديدة لاحقًا.</string>
+    <string name="photo_button_label">التقاط صورة</string>
+    <string name="retake_photo_button_label">إعادة التقاط الصورة</string>
+    <string name="photo_failure">تعذر تشغيل الكاميرا.</string>
+    <string name="crop_failure">تعذر اقتصاص الصورة.</string>
+    <string name="photo_description">صورتك</string>
+    <string name="communicating_message">‏يجري هاتفك الاتصال بـ Google لحفظ المعلومات إلى الحساب. يمكن أن يستغرق ذلك ما يصل إلى 5 دقائق.</string>
+    <string name="creating_account_title">جارٍ حفظ الحساب...</string>
+    <string name="checking_username_message">"‏يتصل هاتفك بـ Google لمعرفة ما إذا كان اسم المستخدم المطلوب متاحًا.
+
+قد يستغرق ذلك بضع دقائق."</string>
+    <string name="plus_failure_title">‏الانضمام إلى Google+‎ لاحقًا</string>
+    <string name="plus_failure_new_account_text">‏تم إنشاء حسابك في Google بنجاح، ولكن لم ينجح طلب انضمامك إلى Google+‎. أعد محاولة الانتقال إلى plus.google.com من أي متصفح ويب لاحقًا.</string>
+    <string name="plus_failure_text">‏لم ينجح طلب انضمامك إلى Google+‎. أعد محاولة الانتقال إلى plus.google.com من أي متصفح ويب لاحقًا.</string>
+    <string name="provisioned_login_title">إدخال كلمة المرور</string>
+    <string name="provisioned_welcome">‏مرحبًا %s!</string>
+    <string name="provisioned_welcome_2">"‏أدخل كلمة المرور لـ:
+%s"</string>
+    <string name="provisioned_incorrect_login">‏لا يتوفر %s؟</string>
+    <string name="login_title">اكتب البريد الإلكتروني وكلمة المرور</string>
+    <string name="login_task_title">تسجيل الدخول</string>
+    <string name="password">كلمة المرور</string>
+    <string name="restore_wifi">‏استعادة البيانات والاتصال بشبكات Wi‑Fi المعروفة.</string>
+    <string name="sign_in_agreement_multi_user">‏يعد تسجيل الدخول بمثابة موافقة منك على <annotation id="tos">بنود خدمة Google</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> و<annotation id="play_tos">بنود خدمة Google Play</annotation>". 
+
+تنبيه: يمكن لأي مستخدم آخر قبول أذونات التطبيقات المحدثة نيابة عنك. وكما هو الحال في أي جهاز كمبيوتر، يجب عدم مشاركة هذا الجهاز اللوحي إلا مع الأشخاص الذين تثق فيهم."</string>
+    <string name="sign_in_agreement_with_chrome">‏من خلال تسجيل الدخول، فإنك توافق على <annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> في Google و<annotation id="chrome_tos">بنود الخدمة</annotation> و<annotation id="chrome_privacy">إشعار الخصوصية</annotation> في Chrome و<annotation id="play_tos">بنود الخدمة</annotation> في Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">‏يعد تسجيل دخولك بمثابة موافقة منك على <annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> و<annotation id="chrome_tos">بنود خدمة</annotation> Chrome و<annotation id="chrome_privacy">إشعار الخصوصية</annotation> و<annotation id="play_tos">بنود خدمة</annotation>" Googel Play. 
+
+تنبيه: يمكن لأي مستخدم آخر قبول أذونات التطبيقات المحدثة نيابة عنك. وكما هو الحال في أي جهاز كمبيوتر، يجب عدم مشاركة هذا الجهاز اللوحي إلا مع الأشخاص الذين تثق فيهم."</string>
+    <string name="create_prompt">" ‏ ألا تملك حسابًا في Google؟ "<annotation id="create_account">يمكنك إنشاء حساب الآن</annotation>.</string>
+    <string name="sign_in_with_google_account_short">‏سجّل الدخول باستخدام حسابك في Google:</string>
+    <string name="invalid_username">النص الذي كتبته ليس اسم مستخدم صالحًا.</string>
+    <string name="captcha_instructions">أكتب النص الذي يظهر أمامك:</string>
+    <string name="create_google_account">اختر اسم المستخدم</string>
+    <string name="create_google_account_text">‏يتضمن حسابك في Google خدمة Gmail، وهي خدمة بريد إلكتروني من Google. وتعمل هذه الخدمة على أي جهاز وتحظر الرسائل غير المرغوب فيها إلى جانب أشياء أخرى كثيرة.</string>
+    <string name="account_already_has_gmail">‏يحتوي الحساب فعليًا على Gmail.</string>
+    <string name="error_account_disabled">"‏تم تعطيل هذا الحساب. 
+
+(للاطلاع على التفاصيل، انتقل إلى https://google.com/accounts باستخدام متصفح ويب.)"</string>
+    <string name="no_network">ليس لديك اتصال بالشبكة.</string>
+    <string name="no_network_help">‏قد تكون هذه مشكلة مؤقتة أو قد لا يكون جهاز Android مزودًا بخدمات البيانات. أعد المحاولة عند الاتصال بشبكة جوال، أو اتصل بشبكة Wi-Fi.</string>
+    <string name="no_network_help_wifi_only">‏قد تكون هذه مشكلة مؤقتة. أعد المحاولة أو اتصل بشبكة Wi-Fi أخرى.</string>
+    <string name="error_login_failed">"‏اسم المستخدم وكلمة المرور غير مطابقين. حاول مرة أخرى.
+
+لاسترداد معلومات حسابك، انتقل إلى google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"‏لم يتم إثبات ملكية هذا الحساب. تحقق من بريدك الإلكتروني وتتبع الرابط المضمن لإثبات ملكية هذا الحساب. 
+
+(لاستعادة معلومات الحساب، انتقل إلى http://www.google.com/accounts/recovery على جهاز الكمبيوتر)."</string>
+    <string name="exit_menu_item">الخروج من تسجيل الدخول من المتصفح</string>
+    <string name="creating_profile">جارٍ إنشاء ملفك الشخصي...</string>
+    <string name="checking_account">جارٍ التحقق من التوفر...</string>
+    <string name="is_not_available">اسم المستخدم <b>^1</b> غير متاح.</string>
+    <string name="suggestions_hint">المس للحصول على اقتراحات</string>
+    <string name="suggest_username_next_button_label">تغيير اسم المستخدم</string>
+    <string name="hint_size">" يحتوي "<b>1^</b> على أقل من 6 أحرف أو أكثر من 30 حرفًا.</string>
+    <string name="hint_numbers_only">" لا يحتوي "<b>1^</b> على أية أحرف.</string>
+    <string name="hint_illegal_chars">" لا يمكن أن يحتوي "<b>1^</b>" سوى على أحرف
+وأرقام ونقاط فقط."</string>
+    <string name="doesnt_use_gmail">" ‏ "<b>1^</b> لا يستخدم Gmail.</string>
+    <string name="sign_in_browser">تسجيل الدخول من المتصفح</string>
+    <string name="alternatives_list_title">أسماء مستخدمين مقترحة</string>
+    <string name="password_title">إنشاء كلمة مرور</string>
+    <string name="choose_a_password">كلمة المرور</string>
+    <string name="confirm_password">إعادة كتابة كلمة المرور</string>
+    <string name="too_short">قصيرة للغاية</string>
+    <string name="security_questions_title">أسئلة الأمان</string>
+    <string name="answer">" "<b>إجابة</b></string>
+    <string name="password_mismatch">لم تتطابق كلمتا المرور. أعد المحاولة.</string>
+    <string name="eight_chars_min">8 أحرف كحد أدنى</string>
+    <string name="verify_your_profile">التحقق من ملفك الشخصي</string>
+    <string name="error_not_logged_in">لم يسجل المستخدم الدخول.</string>
+    <string name="error_username_unavailable">اسم المستخدم غير متاح.</string>
+    <string name="error_bad_password">كلمة المرور ضعيفة جدًا أو تحتوي على أحرف غير صالحة. أعد المحاولة.</string>
+    <string name="error_bad_username">اسم المستخدم غير صالح.</string>
+    <string name="existing_account_error_title">الحساب موجود فعلاً</string>
+    <string name="existing_account_error_text">‏يوجد حساب ^1 فعلاً على جهاز Android هذا.</string>
+    <string name="submission_title">عذرًا…</string>
+    <string name="submission_error_text">حدث خطأ. أعد المحاولة.</string>
+    <string name="sync_intro_title">مزامنة الحساب</string>
+    <string name="account_tos_title">إنهاء الحساب</string>
+    <string name="account_tos_plus_title">‏إنهاء الانضمام إلى Google+‎</string>
+    <string name="i_accept">أوافق</string>
+    <string name="i_decline">عدم إنشاء حساب</string>
+    <string name="allow_personalized_content">‏السماح لشركة Google باستخدام معلوماتك لتخصيص المحتوى والإعلانات على مواقع الويب التي لا تتبع Google.</string>
+    <string name="enable_web_history">تشغيل سجل بحث الويب</string>
+    <string name="learn_more"><annotation id="learn_more">مزيد من المعلومات</annotation></string>
+    <string name="account_creation_tos">‏من خلال المتابعة، فإنك توافق على <annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> في Google و<annotation id="play_tos">بنود خدمة Google Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">‏من خلال المتابعة، فإنك توافق على <annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> في Google و<annotation id="chrome_tos">بنود الخدمة</annotation> و<annotation id="chrome_privacy">إشعار الخصوصية</annotation>" في  Chrome و"<annotation id="play_tos">بنود الخدمة</annotation> في Google Play.</string>
+    <string name="gender_prompt">النوع</string>
+    <string name="gender_hint">الجنس</string>
+    <string name="account_pre_intro_title">‏الحصول على حساب Google</string>
+    <string name="account_pre_intro_default_message">"‏أليس لديك حساب في Google؟
+
+إذا كنت تستخدم خدمة Gmail أو خدمات Google Apps، فأجب بنعم."</string>
+    <string name="account_pre_intro_yes">نعم</string>
+    <string name="account_pre_intro_no">لا</string>
+    <string name="account_intro_title">‏حساب Google‏</string>
+    <string name="account_intro_required_title">‏تدعمه Google</string>
+    <string name="account_intro_recommended_title">‏تهيئة Google</string>
+    <string name="account_intro_default_message">‏عدم فقد عناصرك مرة أخرى، حيث يحتفظ حساب Google بكل شيء في أمان.</string>
+    <string name="account_intro_simple_message">هل تريد إضافة حساب حالي أو إنشاء حساب جديد؟</string>
+    <string name="account_intro_learn_more">مزيد من المعلومات</string>
+    <string name="learn_more_title">مزيد من المعلومات</string>
+    <string name="learn_more_account_intro">"‏يتيح لك حساب Google:
+
+"<li><ul>الاطلاع على جميع معلوماتك وتنظيمها—بما في ذلك سجل البحث—من أي مكان.</ul></li>"
+
+"<li><ul>الاحتفاظ بنسخة احتياطية تلقائيًا من بياناتك مثل الرسائل الإلكترونية وجهات الاتصال والموسيقى والصور.</ul></li>"
+
+"<li><ul>استخدام خدمات Google بسهولة من أي مكان—بما في ذلك، \"جهات الاتصال\" و\"التقويم\" و\"خرائط\" وغيرها الكثير.</ul></li></string>
+    <string name="learn_more_account_intro_title">‏معلومات عن حسابات Google</string>
+    <string name="learn_more_bad_name">‏تتطلب Google+‎ استخدام الاسم الشائع. يجب أن يمثل ملفك الشخصي شخصًا واحدًا - وليس شركة أو مؤسسة أو عائلة - ويجب أن يتضمن اسمك الأول بلغة واحدة وبدون ألقاب حرفية أو علامات ترقيم غير ضرورية. بعد الاشتراك، يمكنك وضع ألقاب أو أسماء أخرى تقترن بها في حقل الأسماء الأخرى في ملفك الشخصي.</string>
+    <string name="learn_more_bad_name_title">حول سياسة الأسماء</string>
+    <string name="wait_for_device_country_title">إعداد الحساب</string>
+    <string name="wait_for_device_country_msg">جمع المعلومات حول هاتفك. قد يستغرق ذلك ما يصل إلى 30 ثانية.</string>
+    <string name="recovery_title">‏استعادة كلمة مرور Google</string>
+    <string name="recovery_wait_title">‏جارٍ الاتصال بـ Google...</string>
+    <string name="cannot_talk_to_server_msg">‏يتعذر على الجهاز الوصول إلى Google.</string>
+    <string name="recovery_skip_label">تخطي</string>
+    <string name="recovery_retry_label">إعادة المحاولة</string>
+    <string name="recovery_message_set">"‏إذا نسيت كلمة المرور في أي وقت، فستحتاج إلى طريقة لاستعادتها.
+
+توفر Google خيارات لاستعادة كلمة المرور عبر الرسائل القصيرة SMS أو عنوان بريد إلكتروني بديل.
+
+يُنصح بهذه الخطوة بشدة. "<annotation id="help_url">مزيد من المعلومات</annotation></string>
+    <string name="recovery_message_verify">"‏يمكن نسيان كلمات المرور بسهولة.
+
+أكد رقم هاتفك أو عنوان بريدك إلكتروني الاحتياطي الآن. فهذا يساعدك على استعادة الدخول إلى المحتوى في Google وGoogle Play. "<annotation id="help_url">مزيد من المعلومات</annotation></string>
+    <string name="recovery_yes_button_label">إعداد خيارات الاستعادة</string>
+    <string name="recovery_yes_button_label_verify">تأكيد خيارات الاستعادة</string>
+    <string name="recovery_later_button_label">ليس الآن</string>
+    <string name="recovery_input_screen_message">تنطبق معلومات الاستعادة هذه على %s.</string>
+    <string name="secondary_email_hint">البريد الإلكتروني الاحتياطي</string>
+    <string name="secondary_email_invalid">عنوان بريد إلكتروني غير صحيح</string>
+    <string name="secondary_email_same_as_primary">لا يمكن أن يكون كالبريد الإلكتروني الأساسي</string>
+    <string name="phone_number_hint">رقم الهاتف</string>
+    <string name="phone_number_invalid_character">حروف غير صالحة في رقم الهاتف</string>
+    <string name="phone_number_invalid">رقم الهاتف غير صالح</string>
+    <string name="country_invalid">هذا البلد غير مسموح به</string>
+    <string name="recovery_server_error">حدث خطأ أثناء الاتصال بالخادم. الرجاء إعادة المحاولة بعد بعض الوقت.</string>
+    <string name="account_recovery_info">إذا فقدت كلمة المرور، يمكنك الإجابة عن سؤال الأمان والحصول على رسالة إلكترونية بها رابط إعادة التعيين على عنوان آخر.</string>
+    <string name="secondary_email_label">عنوان البريد الإلكتروني المخصص للطوارئ</string>
+    <string name="invalid_email">"‏عنوان البريد الإلكتروني الذي كتبته غير صالح.
+ مثال: joe@example.com"</string>
+    <string name="invalid_email_primary">لا يمكن أن يكون عنوان الاسترداد مطابقًا للعنوان الذي تنشئه.</string>
+    <string name="backup_consent_message">"‏يمكنك استخدام حساب Google للاحتفاظ بنسخة احتياطية من تطبيقاتك وإعداداتك (مثل الإشارات المرجعية وكلمات مرور Wi-Fi) وغير ذلك من البيانات. في حالة نسخ الحساب احتياطيًا في السابق، فبإمكانك الآن استعادته في هذا الهاتف.
+
+يمكنك تغيير إعدادات النسخ الاحتياطي في أي وقت في \"الإعدادات\"."</string>
+    <string name="backup_consent_message_no_restore">"‏يمكنك استخدام حساب Google للاحتفاظ بنسخة احتياطية من تطبيقاتك وإعداداتك (مثل الإشارات المرجعية وكلمات مرور Wi-Fi) وغير ذلك من البيانات.
+
+يمكنك تغيير إعدادات النسخ الاحتياطي في أي وقت من \"الإعدادات\"."</string>
+    <string name="restoring_title">جارٍ الاستعادة...</string>
+    <string name="restoring_message">‏هاتفك يتصل بـ Google لاستعادة حسابك. يمكن أن يستغرق هذا بعض الوقت.</string>
+    <string name="gls_notification_login_error">المس لتسجيل الدخول إلى حسابك.</string>
+    <string name="gls_ui_add_account_title">إعداد الحساب</string>
+    <string name="gls_ui_activity_title">تسجيل الدخول</string>
+    <string name="gls_ui_activity_title_browser_signin">تسجيل الدخول</string>
+    <string name="gls_ui_activity_title_checking_in">جارٍ التحضير...</string>
+    <string name="gls_ui_activity_authenticating">جارٍ المصادقة…</string>
+    <string name="gls_dmagent_activity_activate_message">" ‏ يتطلب نطاقك إدارة جهاز جوال. يمكنك تنشيط تطبيق \"Google Apps Device Policy\" لتنفيذ سياسات الأمان المطلوبة من خلال الحساب  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">تنشيط</string>
+    <string name="gls_dmagent_activity_download_message">" ‏ يتطلب نطاقك إدارة جهاز جوال. يمكنك تثبيت تطبيق \"Google Apps Device Policy\" لتنفيذ سياسات الأمان المطلوبة من خلال الحساب  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">تنزيل</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">لقد كتبت كلمة مرور غير صحيحة أو تم تغيير حسابك. أعد كتابة كلمة المرور.</string>
+    <string name="permlab_googleAuthPassword">‏الدخول إلى كلمات المرور لحسابات Google</string>
+    <string name="permdesc_googleAuthPassword">‏للسماح للتطبيقات بالدخول مباشرة إلى كلمات مرور حسابات Google التي أعددتها.</string>
+    <string name="permlab_googleMailSwitch">‏تحديد العلامة التجارية لـ Gmail أو Google Mail</string>
+    <string name="permdesc_googleMailSwitch">‏للسماح للتطبيقات بتبديل الاسم المعروض بين العلامة التجارية لـ \"Gmail\" و\"Google Mail\".</string>
+    <string name="sync_item_title">مزامنة %s</string>
+    <string name="grant_credentials_permission_message_footer">طلب الإذن لـ:</string>
+    <string name="grant_credentials_permission_message_app">‏تريد هذه التطبيقات الدخول إلى حسابك في Google من الآن فصاعدًا:</string>
+    <string name="grant_permissions_header_text">طلب الإذن</string>
+    <string name="allow">السماح بالدخول</string>
+    <string name="deny">لا، شكرًا</string>
+    <string name="permission_request_notification_with_subtitle">"الإذن مطلوب
+للحساب %s"</string>
+    <string name="notification_title">خطأ في تسجيل الدخول إلى %1$s</string>
+    <string name="account_setup_title">‏حساب Google</string>
+    <string name="login_activity_title">تسجيل الدخول</string>
+    <string name="relogin_activity_title">إعادة كتابة كلمة المرور</string>
+    <string name="show_error_activity_title">تعذر تسجيل الدخول</string>
+    <string name="login_activity_task_title">جارٍ تسجيل الدخول...</string>
+    <string name="login_activity_task_msg">يمكن أن يستغرق هذا بضع دقائق.</string>
+    <string name="prepare_account_setup_task_title">جارٍ التجهيز لإعداد الحساب…</string>
+    <string name="prepare_account_setup_task_msg">يمكن أن يستغرق هذا بضع دقائق.</string>
+    <string name="sync_intro_activity_title">مزامنة حسابك</string>
+    <string name="username">بريد إلكتروني</string>
+    <string name="error_invalid_second_factor">استخدم كلمة مرور خاصة بالتطبيقات بدلاً من كلمة مرور الحساب العادية.</string>
+    <string name="error_needs_browser">للدخول إلى حسابك، يجب تسجيل الدخول على الويب. المس \"التالي\" لبدء تسجيل الدخول من المتصفح.</string>
+    <string name="google_play_opt_in">‏اطلاعي على أحدث الأخبار والعروض من Google Play.</string>
+    <string name="google_settings_header_title">الخصوصية</string>
+    <string name="maps_settings_title">‏خرائط و Latitude</string>
+    <string name="location_settings_title">الموقع</string>
+    <string name="search_settings_title">البحث</string>
+    <string name="plus_settings_title">Google+‎</string>
+    <string name="ads_settings_title">الإعلانات</string>
+    <string name="location_network_based">‏خدمة المواقع من Google</string>
+    <string name="location_neighborhood_level">‏السماح بإرسال بيانات موقع مجهولة إلى Google. والسماح للتطبيقات المسموح بها باستخدام بيانات مصادر مثل شبكة Wi-Fi والجوال لتحديد موقعك التقريبي.</string>
+    <string name="use_location_title">‏الموقع وبحث Google</string>
+    <string name="use_location_summary">‏السماح لـ Google باستخدام الموقع لتحسين نتائج البحث والخدمات الأخرى</string>
+    <string name="backup_consent_yes_agree">‏يمكنك استخدام حسابك في Google للاحتفاظ بنسخة احتياطية من تطبيقاتك وإعداداتك (مثل الإشارات المرجعية وكلمات مرور Wi-Fi) وبيانات أخرى.</string>
+    <string name="restore_consent_yes_agree">‏جلب التطبيقات والإعدادات والبيانات الأخرى إلى هذا الهاتف، والتي احتفظت بنسخة منها من قبل في حساب Google.</string>
+    <string name="audit_logging_summary">‏إرسال أحداث الجهاز ومعلومات تشخيصية إلى Google للمساعدة في تحسين منتجاتنا وحماية جهازك.</string>
+    <string name="no_back_msg">تتعذّر العودة إلى الخطوة السابقة.</string>
+    <string name="setup_wizard_title">معالج الإعداد</string>
+    <string name="setup_wizard_services_activity_title">‏خدمات Google</string>
+    <string name="setup_wizard_services_description">‏تعمل هذه الخدمات على توظيف Google للعمل في خدمتك، ويُمكنك تمكينها أو تعطيلها متى شئت. علمًا بأن هذه البيانات سيتم استخدامها بما يتوافق مع <annotation id="google_privacy">سياسة خصوصية</annotation> Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">النسخ الاحتياطي والاستعادة</string>
+    <string name="setup_wizard_services_location_heading">الموقع</string>
+    <string name="setup_wizard_services_communication_heading">الاتصال</string>
+    <string name="setup_wizard_services_backup">‏<b>يمكنك الاحتفاظ بنسخة احتياطية من تطبيقات الهاتف وبيانات التطبيقات والإعدادات والقواميس الشخصية وكلمات مرور Wi-Fi</b> باستخدام حسابك في Google حتى تتمكن من استردادها بسهولة لاحقًا. <annotation id="backup_details">مزيد من المعلومات</annotation></string>
+    <string name="setup_wizard_services_backup_restore">‏<b>يمكنك الاحتفاظ بنسخة احتياطية من التطبيقات وبيانات التطبيقات والإعدادات والقواميس الشخصية وكلمات مرور Wi-Fi</b> باستخدام حسابك في Google حتى تتمكن من استردادها بسهولة لاحقًا.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">‏تتضمن البيانات التطبيقات وإعدادات التطبيقات وإعدادات النظام وكلمات مرور شبكات Wi‑Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">‏عند تشغيل ميزة الاحتفاظ التلقائي بنسخة احتياطية، يتم حفظ بيانات جهازك بشكل دوري في حسابك في Google. وقد تتضمن النسخ الاحتياطية معلومات في مجلدات بيانات التطبيقات، مثل التفضيلات والإعدادات والرسائل والصور وملفات أخرى.</string>
+    <string name="setup_wizard_services_location_sharing">‏يمكنك <b>استخدام خدمة الموقع من Google</b> لمساعدة التطبيقات في تحديد الموقع. وهذا يعني إرسال بيانات الموقع المجهول إلى Google، حتى في حالة عدم تشغيل التطبيقات. <annotation id="location_details">مزيد من المعلومات</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">‏تستخدم خدمة الموقع من Google مصادر مثل شبكة Wi‑Fi والشبكات الخلوية للمساعدة في تقدير موقع جهازك بشكلٍ أسرع وأكثر دقة. عند تشغيل خدمات الموقع من Google، يدخل الجهاز إلى وضع يتم فيه استخدام شبكة Wi‑Fi والشبكات الخلوية لتقديم معلومات الموقع. ويمكنك إيقاف هذا في إعدادات الموقع من خلال اختيار وضع يستخدم نظام تحديد المواقع العالمي (GPS) فقط، يُسمى عادة وضع \"الجهاز فقط\".</string>
+    <string name="setup_wizard_services_location_wifi_scan">‏يمكنك <b>المساعدة في تحسين خدمات الموقع</b> من خلال السماح للتطبيقات والخدمات بالبحث عن شبكات Wi‑Fi حتى في حالة إيقاف Wi‑Fi.</string>
+    <string name="setup_wizard_services_location_footnote">‏تستخدم خدمة الموقع من Google شبكة Wi‑Fi والإشارات الأخرى لتحديد موقعك بشكل أكثر دقة وسرعة، وغالبًا باستخدام أقل للطاقة مقارنة باستخدام نظام تحديد المواقع العالمي (GPS) للطاقة. قد يتم تخزين بعض البيانات على جهازك. وقد يتم تجميع البيانات حتى إذا لم تكن هناك تطبيقات قيد التشغيل.</string>
+    <string name="setup_wizard_services_play">‏<b>إبقائي على علم بأحدث</b> الأخبار والعروض من Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting">‏يمكنك <b>المساعدة في تحسين تجربة Android</b> من خلال إرسال بيانات التشخيص والاستخدام تلقائيًا إلى Google. ولن يتم استخدام تلك المعلومات للتعريف عن هويتك وإنما تساعد فرق العمل في التعرف على أشياء مثل عمر البطارية وأداء التطبيقات وميزات Google الجديدة. <annotation id="usage_reporting_details">مزيد من المعلومات</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"‏تُعد هذه معلومات عامة حول جهازك وكيفية استخدامك للجهاز، مثل مستوى طاقة البطارية وعدد مرات استخدام التطبيقات وجودة اتصال الشبكة ومدة استمرار الاتصال بالشبكة (مثل الشبكة الخلوية وشبكة Wi-Fi وبلوتوث) وكذلك تقارير الأعطال التي تحدث عندما تكون هناك مشكلة ما. وسيتم استخدام هذه المعلومات في تحسين منتجات Google وخدماتها للجميع، وتجدر الإشارة إلى أنه لن يتم إقرانها بحسابك على Google. سيستفيد شركاء Google مثل مطوِّري برامج Android من بعض المعلومات المجمَّعة في تحسين تطبيقاتهم ومنتجاتهم كذلك.
+
+يمكنك تمكين هذه الميزة أو تعطيلها متى شئت في تطبيق \"إعدادات Google\". ولن يؤثر ذلك في مدى قدرة جهازك على إرسال المعلومات التي يحتاج إلى إرسالها لتلقي الخدمات الأساسية مثل تحديثات النظام والأمان."</string>
+    <string name="setup_wizard_services_agreement">‏قد يتلقى هذا الهاتف أيضًا تحديثات وتطبيقات من Google ومشغّل شبكة الجوّال ومصنّع الهاتف ويجري تثبيتها. ربما يتم تنزيل بعض التطبيقات وتثبيتها في حالة المتابعة، ويمكنك إزالتها في أي وقت.</string>
+</resources>

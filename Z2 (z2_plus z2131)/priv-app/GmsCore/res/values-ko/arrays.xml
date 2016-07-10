@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>술집</item>
+        <item>카페</item>
+        <item>주유소</item>
+        <item>영화관</item>
+        <item>숙박</item>
+        <item>나이트클럽</item>
+        <item>박물관</item>
+        <item>음식점</item>
+        <item>쇼핑 센터</item>
+        <item>상점</item>
+        <item>식료품점/수퍼마켓</item>
+        <item>기타</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>위험</item>
+        <item>보통</item>
+        <item>양호</item>
+        <item>안전</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>블루투스</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>출시 모드</item>
+        <item>개발자 모드</item>
+        <item>소매</item>
+        <item>데모 모드</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>휴대전화와 자동차가 호환되지 않는 소프트웨어를 실행하고 있습니다. 자세한 내용은 &lt;a href="android.com/auto">android.com/auto&lt;/a>를 참조하세요.</item>
+        <item>자동차가 잘못된 오디오 또는 동영상 설정을 광고했습니다.</item>
+        <item>"USB 연결에 오류가 있습니다. 다음 작업을 수행해 보세요. 
+
+• 케이블의 양 끝이 잘 연결되어 있는지 확인합니다. 
+•데이터 USB 케이블을 사용 중인지 확인합니다. 
+•자동차와 휴대전화의 날짜와 시간이 모두 제대로 설정되어 있는지 확인합니다."</item>
+        <item>자동차에서 Android Auto 실행이 중단되었습니다.</item>
+        <item>요청에 따라 Android Auto 세션이 중단되었습니다.</item>
+        <item>자동차의 소프트웨어가 이전 버전입니다. 자세한 내용을 알아보거나 지원을 받으려면 제조업체에 문의하세요.</item>
+        <item>자동차의 소프트웨어가 Android Auto 보안 점검을 통과하지 못했습니다. 자세한 내용을 알아보거나 지원을 받으려면 제조업체에 문의하세요.</item>
+        <item>자동차의 소프트웨어가 Android Auto 보안 점검을 통과하지 못했습니다. 자동차의 날짜와 시간이 제대로 설정되었는지, Android Auto가 업데이트되었는지 확인하세요.</item>
+        <item>작업 시간을 초과하였습니다. 버그 보고서를 확인하고 의견을 제출해야 합니다.</item>
+        <item>런처가 설치되어 있지 않은 것 같습니다. 휴대전화가 제대로 설정되었나요?</item>
+        <item>그래픽 파이프라인에 오류가 있습니다. 이 버그 보고서를 확인하고 의견을 제출해야 합니다.</item>
+        <item>자동차가 휴대전화의 메시지에 응답하지 않고 있습니다. 자동차의 상태에 문제가 있을 수 있습니다.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>공항</item>
+        <item>ATM</item>
+        <item>은행</item>
+        <item>술집</item>
+        <item>버스 정류장</item>
+        <item>카페</item>
+        <item>캠핑장</item>
+        <item>묘지</item>
+        <item>교회</item>
+        <item>시청</item>
+        <item>공공시설</item>
+        <item>주유소</item>
+        <item>식료품점/슈퍼마켓</item>
+        <item>힌두교 사원</item>
+        <item>병원</item>
+        <item>도서관</item>
+        <item>숙박</item>
+        <item>모스크</item>
+        <item>영화관</item>
+        <item>박물관</item>
+        <item>공원</item>
+        <item>주차장</item>
+        <item>교회</item>
+        <item>경찰서</item>
+        <item>우체국</item>
+        <item>음식점</item>
+        <item>학교</item>
+        <item>상점</item>
+        <item>지하철역</item>
+        <item>유대 교회당</item>
+        <item>기차역</item>
+        <item>환승역</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>1월</item>
+        <item>2월</item>
+        <item>3월</item>
+        <item>4월</item>
+        <item>5월</item>
+        <item>6월</item>
+        <item>7월</item>
+        <item>8월</item>
+        <item>9월</item>
+        <item>10월</item>
+        <item>11월</item>
+        <item>12월</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>공유 중지</item>
+        <item>15분</item>
+        <item>30분</item>
+        <item>1시간</item>
+        <item>무기한</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>공유 중지</item>
+        <item>15분</item>
+        <item>30분</item>
+        <item>1시간</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>비밀번호 힌트 선택</item>
+        <item>처음 사용한 전화번호는?</item>
+        <item>어린 시절 가장 친한 친구 이름은?</item>
+        <item>초등학교 1학년 때 선생님 성함은?</item>
+        <item>첫 번째 직장 상사 이름은?</item>
+        <item>차량 등록 번호는?</item>
+    </string-array>
+</resources>

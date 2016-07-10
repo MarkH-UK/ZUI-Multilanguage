@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">Muga baino %1$d karaktere gehiago</item>
+        <item quantity="one">Muga baino %1$d karaktere gehiago</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d karaktere gelditzen dira</item>
+        <item quantity="one">%1$d karaktere gelditzen da</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google kontu</item>
+        <item quantity="one">%d Google kontu</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">^1 batean zure Google kontuak eta haiekin lotutako datuak konfiguratzeko erabili da gailu hau</item>
+        <item quantity="one">^1 batean zure Google kontua eta harekin lotutako datuak konfiguratzeko erabili da gailu hau</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">Ordubete</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">Minutu bat</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Errore bat gertatu da eta ez dira bidali gonbidapenak</item>
+        <item quantity="one">Errore bat gertatu da eta ez da bidali gonbidapena</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Une honetan ezin dira bidali gonbidapenak. Berriro bidal ditzakezu Google Play > Nire kontua atalean.</item>
+        <item quantity="one">Une honetan ezin da bidali gonbidapena. Berriro bidal dezakezu Google Play > Nire kontua atalean.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d gonbidapen geratzen dira</item>
+        <item quantity="one">%d gonbidapen geratzen da</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d mezu berri</item>
+        <item quantity="one">Mezu berri bat</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d pertsona dituzu aurretik</item>
+        <item quantity="one">Pertsona bat duzu aurretik</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d zirkulu</item>
+        <item quantity="one">Zirkulu bat</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">Egun bat</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">Ordubete</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">Minutu bat</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">Egun bat</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">Ordubete</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">Minutu bat</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d pertsona</item>
+        <item quantity="one">Pertsona bat</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s eta beste %2$d aplikazioren inguruan</item>
+        <item quantity="one">%1$s eta beste %2$d aplikazioren inguruan</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">%d egun</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">%d ordu</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d minutu</item>
+        <item quantity="one">%d minutu</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s pertsona</item>
+        <item quantity="one">%1$s pertsona</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d jarraitzaile</item>
+        <item quantity="one">Jarraitzaile bat</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d ikustaldi</item>
+        <item quantity="one">Ikustaldi bat</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Google kontuak eta datuak kopiatzen…</item>
+        <item quantity="one">Google kontua eta datuak kopiatzen…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Gailu hau erabili da zure Google kontuekin eta datuekin ^1 gailua konfiguratzeko</item>
+        <item quantity="one">Gailu hau erabili da zure Google kontuarekin eta datuekin ^1 gailua konfiguratzeko</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Instalatzeko berrabiaraziko da %d segundo barru…</item>
+        <item quantity="one">Instalatzeko berrabiaraziko da 1 segundo barru…</item>
+    </plurals>
+</resources>

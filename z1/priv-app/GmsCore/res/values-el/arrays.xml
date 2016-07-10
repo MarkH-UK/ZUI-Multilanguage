@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Μπαρ</item>
+        <item>Καφετέρια</item>
+        <item>Πρατήριο βενζίνης</item>
+        <item>Κινηματογράφος</item>
+        <item>Διαμονή</item>
+        <item>Κλαμπ</item>
+        <item>Μουσείο</item>
+        <item>Εστιατόριο</item>
+        <item>Εμπορικό κέντρο</item>
+        <item>Κατάστημα</item>
+        <item>Παντοπωλείο/Σουπερμάρκετ</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>αδύναμο</item>
+        <item>ικανοποιητικό</item>
+        <item>καλό</item>
+        <item>ισχυρό</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Κυκλοφορία</item>
+        <item>Προγραμματιστής</item>
+        <item>Πώληση</item>
+        <item>Επίδειξη</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Στο τηλέφωνο και στο αυτοκίνητο εκτελείται ασύμβατο λογισμικό. Για λεπτομέρειες, επισκεφτείτε τη διεύθυνση &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Το αυτοκίνητο έχει διαφημίσει ένα λανθασμένο σύνολο διαμορφώσεων ήχου ή/και βίντεο.</item>
+        <item>"Η σύνδεση USB δεν λειτουργεί σωστά. Βήματα που μπορείτε να δοκιμάσετε: 
+
+• Βεβαιωθείτε ότι το καλώδιο ταιριάζει σωστά και στα δύο άκρα. 
+•Βεβαιωθείτε ότι διαθέτετε καλώδιο δεδομένων USB. 
+•Βεβαιωθείτε ότι η ημερομηνία και η ώρα έχουν ρυθμιστεί σωστά, τόσο για το αυτοκίνητο όσο και στο τηλέφωνό σας."</item>
+        <item>Το Android Auto σταμάτησε να εκτελείται στο αυτοκίνητο.</item>
+        <item>Η περίοδος σύνδεσης στο Android Auto διακόπηκε, όπως ζητήθηκε.</item>
+        <item>Το λογισμικό του αυτοκινήτου ενδέχεται να μην είναι ενημερωμένο. Για λεπτομέρειες και υποστήριξη, επικοινωνήστε με τον κατασκευαστή.</item>
+        <item>Το λογισμικό του αυτοκινήτου σας δεν πέρασε επιτυχώς τους ελέγχους ασφάλειας του Android Auto. Για λεπτομέρειες και υποστήριξη, επικοινωνήστε με τον κατασκευαστή.</item>
+        <item>Το λογισμικό του αυτοκινήτου σας δεν πέρασε επιτυχώς τους ελέγχους ασφάλειας του Android Auto. Βεβαιωθείτε ότι η ημερομηνία και ώρα του αυτοκινήτου έχουν ρυθμιστεί σωστά, καθώς και ότι το Android Auto έχει ενημερωθεί.</item>
+        <item>Το χρονικό όριο για μια ενέργεια έληξε. Θα πρέπει να συμπληρώσετε μια αναφορά σφάλματος και να υποβάλετε τα σχόλιά σας.</item>
+        <item>Δεν φαίνεται να έχετε εγκαταστήσει κάποια λειτουργία εκκίνησης. Είναι σωστά ρυθμισμένο το τηλέφωνό σας;</item>
+        <item>Η διοχέτευση γραφικών μόλις τερματίστηκε. Θα πρέπει να συμπληρώσετε μια αναφορά σφάλματος και να υποβάλετε τα σχόλιά σας.</item>
+        <item>Το αυτοκίνητο δεν ανταποκρίνεται στα μηνύματα από το τηλέφωνο. Το αυτοκίνητο μπορεί να βρίσκεται σε λανθασμένη κατάσταση.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Αεροδρόμιο</item>
+        <item>ATM</item>
+        <item>Τράπεζα</item>
+        <item>Μπαρ</item>
+        <item>Σταθμός λεωφορείων</item>
+        <item>Καφετέρια</item>
+        <item>Κάμπινγκ</item>
+        <item>Κοιμητήριο</item>
+        <item>Εκκλησία</item>
+        <item>Δημαρχείο</item>
+        <item>Ίδρυμα</item>
+        <item>Πρατήριο βενζίνης</item>
+        <item>Παντοπωλείο/Σουπερμάρκετ</item>
+        <item>Ινδουιστικός ναός</item>
+        <item>Νοσοκομείο</item>
+        <item>Βιβλιοθήκη</item>
+        <item>Διαμονή</item>
+        <item>Τζαμί</item>
+        <item>Κινηματογράφος</item>
+        <item>Μουσείο</item>
+        <item>Πάρκο</item>
+        <item>Χώρος στάθμευσης</item>
+        <item>Χώρος λατρείας</item>
+        <item>Αστυνομικό τμήμα</item>
+        <item>Ταχυδρομείο</item>
+        <item>Εστιατόριο</item>
+        <item>Σχολείο</item>
+        <item>Κατάστημα</item>
+        <item>Σταθμός μετρό</item>
+        <item>Συναγωγή</item>
+        <item>Σταθμός τρένου</item>
+        <item>Σταθμός διέλευσης</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Ιανουάριος</item>
+        <item>Φεβρουάριος</item>
+        <item>Μάρτιος</item>
+        <item>Απρίλιος</item>
+        <item>Μάιος</item>
+        <item>Ιούνιος</item>
+        <item>Ιούλιος</item>
+        <item>Αύγουστος</item>
+        <item>Σεπτέμβριος</item>
+        <item>Οκτώβριος</item>
+        <item>Νοέμβριος</item>
+        <item>Δεκέμβριος</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Διακοπή κοινοποίησης</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>"Επ' αόριστον"</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Διακοπή κοινοποίησης</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Επιλέξτε μια ερώτηση ασφαλείας</item>
+        <item>Πρώτος τηλεφωνικός αριθμός;</item>
+        <item>Το όνομα του καλύτερου παιδικού φίλου;</item>
+        <item>Το όνομα του πρώτου δασκάλου;</item>
+        <item>Το όνομα του διευθυντή στην πρώτη εργασία;</item>
+        <item>Ο αριθμός μητρώου οχήματος;</item>
+    </string-array>
+</resources>

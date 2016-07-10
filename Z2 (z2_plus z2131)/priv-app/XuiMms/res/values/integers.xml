@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_slide_num">10</integer>
+    <integer name="limit_count">0</integer>
+    <integer name="slide_text_limit_size">0</integer>
+    <integer name="max_sms_message_count">-1</integer>
+    <integer name="config_max_smstomms">0</integer>
+    <integer name="wap_push_address_index">1</integer>
+    <integer name="msg_max_land_height">250</integer>
+    <integer name="msg_max_port_height">80</integer>
+    <integer name="xcompose_common_contact_numColumns">3</integer>
+    <integer name="xcompose_bottom_panel_embedded_editor_min_lines">1</integer>
+    <integer name="xcompose_bottom_panel_embedded_editor_max_lines">100</integer>
+    <integer name="xcompose_editor_smiley_icon_width">16</integer>
+    <integer name="xcompose_editor_smiley_icon_height">16</integer>
+    <integer name="xcompose_popup_menu_enter_duration">1</integer>
+    <integer name="xcompose_popup_menu_exit_duration">1</integer>
+    <integer name="xmessage_lock_slideshow_max_lines">3</integer>
+</resources>

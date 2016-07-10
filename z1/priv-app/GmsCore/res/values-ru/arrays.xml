@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Бар</item>
+        <item>Кафе</item>
+        <item>Автозаправочная станция</item>
+        <item>Кинотеатр</item>
+        <item>Жилье</item>
+        <item>Ночной клуб</item>
+        <item>Музей</item>
+        <item>Ресторан</item>
+        <item>Торговый центр</item>
+        <item>Магазин</item>
+        <item>Продуктовый магазин/супермаркет</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ненадежный</item>
+        <item>относительно надежный</item>
+        <item>достаточно надежный</item>
+        <item>надежный</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Рабочая</item>
+        <item>Для разработчиков</item>
+        <item>Розничная торговля</item>
+        <item>Демо</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Версии ПО, установленного на телефоне и в автомобиле, несовместимы. Подробности можно узнать на странице &lt;a href="android.com/auto">android.com/auto&lt;/a>.</item>
+        <item>От автомобиля получен неправильный набор конфигураций аудио и/или видео.</item>
+        <item>"Подключение через USB-порт работает некорректно. Убедитесь, что:
+
+• кабель надежно подсоединен к обоим устройствам; 
+• вы используете дата-кабель USB; 
+• время и дата на телефоне и в автомобиле установлены правильно."</item>
+        <item>Работа Android Auto в автомобиле прекращена.</item>
+        <item>По вашему запросу сеанс Android Auto прерван.</item>
+        <item>Возможно, в автомобиле установлено устаревшее ПО. Чтобы решить эту проблему, свяжитесь с производителем.</item>
+        <item>ПО, установленное в автомобиле, не прошло проверку безопасности Android Auto. Чтобы решить эту проблему, свяжитесь с производителем.</item>
+        <item>ПО, установленное в автомобиле, не прошло проверку безопасности Android Auto. Убедитесь, что вы используете последнюю версию приложения, а время и дата в автомобиле настроены правильно.</item>
+        <item>Время ожидания истекло. Отправьте отчет об ошибке.</item>
+        <item>Похоже, на вашем устройстве не установлено средство запуска. Проверьте настройки телефона.</item>
+        <item>Не удалось загрузить изображение. Отправьте отчет об ошибке.</item>
+        <item>Система в автомобиле не отвечает на сообщения телефона. Возможно, с ней что-то не так.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Аэропорт</item>
+        <item>Банкомат</item>
+        <item>Банк</item>
+        <item>Бар</item>
+        <item>Автобусная остановка</item>
+        <item>Кафе</item>
+        <item>Площадка для кемпинга</item>
+        <item>Кладбище</item>
+        <item>Церковь</item>
+        <item>Мэрия</item>
+        <item>Учреждение</item>
+        <item>Автозаправочная станция</item>
+        <item>Продуктовый магазин/супермаркет</item>
+        <item>Индуистский храм</item>
+        <item>Больница</item>
+        <item>Библиотека</item>
+        <item>Жилье</item>
+        <item>Мечеть</item>
+        <item>Кинотеатр</item>
+        <item>Музей</item>
+        <item>Парк</item>
+        <item>Парковка</item>
+        <item>Религиозный объект</item>
+        <item>Отделение полиции</item>
+        <item>Почтовое отделение</item>
+        <item>Ресторан</item>
+        <item>Школа</item>
+        <item>Магазин</item>
+        <item>Станция метро</item>
+        <item>Синагога</item>
+        <item>Ж/д станция</item>
+        <item>Остановка общ. транспорта</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Не показывать</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>Без ограничений</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Не показывать</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Выберите секретный вопрос</item>
+        <item>Номер первого телефона</item>
+        <item>Имя друга детства</item>
+        <item>Имя первого учителя</item>
+        <item>Имя начальника на первом месте работы</item>
+        <item>Регистрационный номер автомобиля</item>
+    </string-array>
+</resources>

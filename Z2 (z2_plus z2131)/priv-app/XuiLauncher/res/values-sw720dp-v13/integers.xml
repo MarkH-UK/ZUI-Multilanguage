@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_workspaceSpringLoadShrinkPercentage">90</integer>
+    <integer name="config_cameraDistance">18000</integer>
+    <integer name="config_machine_type">1</integer>
+    <integer name="workspace_apps_numrows">4</integer>
+    <integer name="workspace_apps_numcolumns">6</integer>
+    <integer name="hotseat_apps_numcolumns">6</integer>
+</resources>

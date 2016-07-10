@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">Tableta eta Google zerbitzuak pertsonalizatzeko erabiliko da zure izena.</string>
+    <string name="name_title_local">Hau da tabletaren jabea…</string>
+    <string name="name_text_local">Tabletak zure izena erabiliko du zenbait aplikazio pertsonalizatzeko.</string>
+    <string name="communicating_message">Tableta Google-rekin konektatzen ari da, kontuan informazioa gordetzeko. 5 minutura arte luza daiteke.</string>
+    <string name="checking_username_message">"Tableta Google-rekin konektatzen ari da, eskatu duzun erabiltzaile-izena erabilgarri dagoen ikusteko.
+
+Minutu pare bat luza daiteke."</string>
+    <string name="wait_for_device_country_msg">Tabletari buruzko informazioa biltzen. 30 segundora arte luza daiteke.</string>
+    <string name="backup_consent_message">"Erabili Google kontua aplikazioen, ezarpenen (esaterako, laster-markak eta Wi-Fi pasahitzak) zein beste datuen babeskopiak egiteko. Kontuaren babeskopiak dagoeneko egin badituzu, babeskopiak leheneratu eta tabletara ekar ditzakezu.
+
+Babeskopien ezarpenak edonoiz alda ditzakezu Ezarpenak atalean."</string>
+    <string name="backup_consent_message_no_restore">"Erabili Google kontua aplikazioen, ezarpenen (esaterako, laster-markak eta Wi-Fi pasahitzak) zein beste datuen babeskopiak egiteko.
+
+Babeskopien ezarpenak edonoiz alda ditzakezu Ezarpenak atalean."</string>
+    <string name="restoring_message">Tableta Google-rekin konektatzen ari da kontua leheneratzeko. 5 minutura arte luza daiteke.</string>
+    <string name="restore_consent_yes_agree">Ekarri tableta honetara Google kontuan babeskopiak dituzten aplikazioak, ezarpenak eta beste hainbat datu.</string>
+</resources>

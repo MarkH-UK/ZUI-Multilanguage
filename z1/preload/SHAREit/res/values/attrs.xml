@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="start" format="reference" />
+    <attr name="wait" format="reference" />
+    <attr name="compelete" format="reference" />
+    <attr name="color" format="integer" />
+    <attr name="cleanmgr_selectorViewStyle" format="reference" />
+    <attr name="cleanmgr_refreshableViewStyle" format="reference" />
+    <attr name="maxVisibleCount" format="integer" />
+    <attr name="layoutId" format="integer" />
+    <attr name="swipeOpenOnLongPress" format="boolean" />
+    <attr name="swipeAnimationTime" format="integer" />
+    <attr name="swipeOffsetLeft" format="dimension" />
+    <attr name="swipeOffsetRight" format="dimension" />
+    <attr name="swipeCloseAllItemsWhenMoveList" format="boolean" />
+    <attr name="swipeFrontView" format="reference" />
+    <attr name="swipeBackView" format="reference" />
+    <attr name="swipeMode">
+        <enum name="none" value="0" />
+        <enum name="both" value="1" />
+        <enum name="right" value="2" />
+        <enum name="left" value="3" />
+    </attr>
+    <attr name="swipeActionLeft">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="swipeActionRight">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="swipeDrawableChecked" format="reference" />
+    <attr name="swipeDrawableUnchecked" format="reference" />
+    <attr name="swipeWithPinnerHeaderOpenOnLongPress" format="boolean" />
+    <attr name="swipeWithPinnerHeaderAnimationTime" format="integer" />
+    <attr name="swipeWithPinnerHeaderOffsetLeft" format="dimension" />
+    <attr name="swipeWithPinnerHeaderOffsetRight" format="dimension" />
+    <attr name="swipeWithPinnerHeaderCloseAllItemsWhenMoveList" format="boolean" />
+    <attr name="swipeWithPinnerHeaderFrontView" format="reference" />
+    <attr name="swipeWithPinnerHeaderBackView" format="reference" />
+    <attr name="swipeWithPinnerHeaderMode">
+        <enum name="none" value="0" />
+        <enum name="both" value="1" />
+        <enum name="right" value="2" />
+        <enum name="left" value="3" />
+    </attr>
+    <attr name="swipeWithPinnerHeaderActionLeft">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="swipeWithPinnerHeaderActionRight">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="swipeWithPinnerHeaderDrawableChecked" format="reference" />
+    <attr name="swipeWithPinnerHeaderDrawableUnchecked" format="reference" />
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Отговор</item>
+        <item>Отговор до всички</item>
+        <item>Препращане</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Един ред</item>
+        <item>Два реда</item>
+        <item>Три реда</item>
+        <item>Четири реда</item>
+        <item>Пет реда</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Много малък</item>
+        <item>Малък</item>
+        <item>Нормален</item>
+        <item>Голям</item>
+        <item>Огромен</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Скорошни</item>
+        <item>Формат</item>
+        <item>Имейлът е изтрит.</item>
+        <item>От</item>
+        <item>Дата</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Система</item>
+        <item>Бързи съобщения</item>
+        <item>Всички папки</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Следващ разговор</item>
+        <item>Предишен разговор</item>
+        <item>Списък с разговори</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Показване само на архивираните елементи</item>
+        <item>Показване само на изтритите елементи</item>
+        <item>Показване както на изтритите, така и на архивираните елементи</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Показване на следващия разговор след изтриване</item>
+        <item>Показване на предишния разговор след изтриване</item>
+        <item>Показване на списъка с разговори след изтриване</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Показване само на архивираните елементи</item>
+        <item>Показване само на изтритите елементи</item>
+        <item>Показване както на изтритите, така и на архивираните елементи</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Адрес:</item>
+        <item>Тел.:</item>
+        <item>Име:</item>
+        <item>имейл:</item>
+        <item>Мобилен:</item>
+        <item>WeChat:</item>
+        <item>Факс:</item>
+        <item>Пощ. код:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Благодарим,</item>
+        <item>С най-добри пожелания</item>
+        <item>Изпратено от моя</item>
+        <item>Оригинален имейл</item>
+        <item>Изпратено от моя</item>
+        <item>Изпратено от</item>
+        <item>От</item>
+        <item>Този имейл</item>
+        <item>Отказ от отговорност</item>
+        <item>Имейл отказ от отговорност</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Успешно синхр.</item>
+        <item>Грешка в мрежовата връзка.</item>
+        <item>Неуспешно влизане</item>
+        <item>Грешка в защитената връзка</item>
+        <item>Неуспешно синхр.</item>
+        <item>Грешка в сървъра</item>
+    </string-array>
+</resources>

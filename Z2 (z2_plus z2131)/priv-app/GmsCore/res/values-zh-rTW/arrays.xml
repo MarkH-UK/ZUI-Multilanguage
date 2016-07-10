@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>酒吧</item>
+        <item>咖啡廳</item>
+        <item>加油站</item>
+        <item>電影院</item>
+        <item>住宿地點</item>
+        <item>夜店</item>
+        <item>博物館</item>
+        <item>餐廳</item>
+        <item>購物中心</item>
+        <item>商店</item>
+        <item>雜貨店或超市</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>差</item>
+        <item>可</item>
+        <item>佳</item>
+        <item>強</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>藍牙</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>正式模式</item>
+        <item>開發人員模式</item>
+        <item>零售</item>
+        <item>示範模式</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>手機和車輛執行的軟體不相容。詳情請參閱以下網頁：&lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>車輛發送的音訊和/或視訊設定不正確。</item>
+        <item>"USB 連線無法正常運作。請確認下列事項：
+
+• 傳輸線兩端皆穩固接合。 
+• 使用的傳輸線為 USB 資料傳輸線。 
+• 車輛和手機的日期與時間設定皆正確無誤。"</item>
+        <item>這輛車已停止執行 Android Auto。</item>
+        <item>Android Auto 工作階段已依要求停止。</item>
+        <item>這輛車的軟體可能已過時。如需詳細資訊和支援服務，請與製造商聯絡。</item>
+        <item>這輛車的軟體未通過 Android Auto 安全檢查。如需詳細資訊和支援服務，請與製造商聯絡。</item>
+        <item>這輛車的軟體未通過 Android Auto 安全檢查。請確認這輛車的日期與時間設定皆正確無誤，而且 Android Auto 已完成更新。</item>
+        <item>操作逾時。請擷取錯誤報告，並附上您的意見提交。</item>
+        <item>您似乎未安裝啟動器，您的手機設定是否正確？</item>
+        <item>圖形處理管線意外停止運作。請擷取錯誤報告，並附上您的意見提交。</item>
+        <item>車輛未回應手機傳送的訊息。車輛可能不在正確的狀態。</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>機場</item>
+        <item>提款機</item>
+        <item>銀行</item>
+        <item>酒吧</item>
+        <item>公車站</item>
+        <item>咖啡廳</item>
+        <item>露營地點</item>
+        <item>墓園</item>
+        <item>教堂</item>
+        <item>縣市政府</item>
+        <item>機構</item>
+        <item>加油站</item>
+        <item>雜貨店或超市</item>
+        <item>印度教寺廟</item>
+        <item>醫院</item>
+        <item>圖書館</item>
+        <item>住宿地點</item>
+        <item>清真寺</item>
+        <item>電影院</item>
+        <item>博物館</item>
+        <item>公園</item>
+        <item>停車場</item>
+        <item>禮拜場所</item>
+        <item>警察局</item>
+        <item>郵局</item>
+        <item>餐廳</item>
+        <item>學校</item>
+        <item>商店</item>
+        <item>捷運站</item>
+        <item>猶太教堂</item>
+        <item>火車站</item>
+        <item>大眾運輸站</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>1 月</item>
+        <item>2 月</item>
+        <item>3 月</item>
+        <item>4 月</item>
+        <item>5 月</item>
+        <item>6 月</item>
+        <item>7 月</item>
+        <item>8 月</item>
+        <item>9 月</item>
+        <item>10 月</item>
+        <item>11 月</item>
+        <item>12 月</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>停止分享</item>
+        <item>15 分鐘</item>
+        <item>30 分鐘</item>
+        <item>1 小時</item>
+        <item>無限期</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>停止分享</item>
+        <item>15 分鐘</item>
+        <item>30 分鐘</item>
+        <item>1 小時</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>選擇安全提示問題</item>
+        <item>第一支電話的號碼？</item>
+        <item>最要好的兒時玩伴姓名？</item>
+        <item>第一位老師的姓名？</item>
+        <item>第一份工作的主管姓名？</item>
+        <item>車牌號碼？</item>
+    </string-array>
+</resources>

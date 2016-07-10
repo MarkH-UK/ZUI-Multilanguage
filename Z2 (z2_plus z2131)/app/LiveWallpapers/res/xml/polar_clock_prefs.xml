@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/clock_settings" android:key="polar_clock_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:persistent="true" android:title="@string/show_seconds" android:key="show_seconds" android:defaultValue="true" />
+    <CheckBoxPreference android:persistent="true" android:title="@string/variable_line_width" android:key="variable_line_width" android:defaultValue="true" />
+    <ListPreference android:entries="@array/polar_clock_palette_names" android:title="@string/palette" android:key="palette" android:entryValues="@array/polar_clock_palette_ids" />
+</PreferenceScreen>

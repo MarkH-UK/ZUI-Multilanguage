@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AlertThemeSelector" parent="@android:style/Theme.Material.Panel" />
+    <style name="CredentialsTvActionItem">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/credentials_tv_white_text_alpha_100</item>
+        <item name="android:background">@drawable/credential_tv_action_item</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">14.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">15.0dip</item>
+    </style>
+    <style name="CredentialsTvHalfSizeLayout">
+        <item name="android:background">#ff26427e</item>
+        <item name="android:paddingLeft">56.0dip</item>
+        <item name="android:paddingTop">44.0dip</item>
+        <item name="android:paddingRight">40.0dip</item>
+        <item name="android:paddingBottom">27.0dip</item>
+        <item name="android:minHeight">278.0dip</item>
+    </style>
+    <style name="CredentialsTvHalfSizeLayoutBodyText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/credentials_tv_white_text_alpha_70</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="CredentialsTvHalfSizeLayoutBreadcrumbText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/credentials_tv_white_text_alpha_100</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="CredentialsTvHalfSizeLayoutTitleText">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/credentials_tv_white_text_alpha_100</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="CredentialsTvShortLayout">
+        <item name="android:background">#ff26427e</item>
+        <item name="android:paddingLeft">56.0dip</item>
+        <item name="android:paddingTop">28.0dip</item>
+        <item name="android:paddingRight">56.0dip</item>
+        <item name="android:paddingBottom">27.0dip</item>
+    </style>
+</resources>

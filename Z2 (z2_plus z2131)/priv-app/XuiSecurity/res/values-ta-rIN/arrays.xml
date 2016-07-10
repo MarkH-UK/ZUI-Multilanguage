@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="perms_category">
+        <item>கட்டணம் தொடர்பானவை</item>
+        <item>தனியுரிமை தொடர்பானவை</item>
+        <item>மல்டிமீடியா-தொடர்பானவை</item>
+        <item>அமைப்புகள்-தொடர்பானவை</item>
+    </string-array>
+    <string-array name="perms_mode">
+        <item>ஏற்றுக்கொள்</item>
+        <item>மறுத்துவிடு</item>
+        <item>கேட்டு செய்</item>
+        <item>தெரியாதது</item>
+    </string-array>
+    <string-array name="choose_mode_three_state">
+        <item>ஏற்றுக்கொள்</item>
+        <item>கேட்டு செய்</item>
+        <item>மறுத்துவிடு</item>
+    </string-array>
+    <string-array name="choose_mode_two_state">
+        <item>ஏற்றுக்கொள்</item>
+        <item>மறுத்துவிடு</item>
+    </string-array>
+    <string-array name="op_to_perms_name">
+        <item>இடத்தை முடிவுசெய்</item>
+        <item>இடத்தை முடிவுசெய்</item>
+        <item>இடத்தை முடிவுசெய்</item>
+        <item>அதிர்வுறு</item>
+        <item>தொடர்புகளை அணுகு</item>
+        <item>தொடர்புகளை அணுகு</item>
+        <item>அழைப்புப் பதிவுகளை அணுகு</item>
+        <item>அழைப்புப் பதிவுகளை அணுகு</item>
+        <item>நாட்காட்டியை அணுகு</item>
+        <item>நாட்காட்டியை அணுகு</item>
+        <item>இடத்தை முடிவுசெய்</item>
+        <item>அறிவிக்கையை இடுகையிடு</item>
+        <item>இடத்தை முடிவுசெய்</item>
+        <item>அழைப்புகளைச் செய்</item>
+        <item>SMS பதிவுகளை அணுகு</item>
+        <item>SMS பதிவுகளை அணுகு</item>
+        <item>SMSஐப் பெறு</item>
+        <item>SMSஐப் பெறு</item>
+        <item>MMSஐப் பெறு</item>
+        <item>SMSஐப் பெறு</item>
+        <item>SMS அனுப்பு</item>
+        <item>SMS பதிவுகளை அணுகு</item>
+        <item>SMS பதிவுகளை அணுகு</item>
+        <item>சிஸ்டம் அமைப்புகளை மாற்றியமை</item>
+        <item>மிதவை விண்டோவைக் காட்டு</item>
+        <item>அறிவிக்கைகளை அணுகு</item>
+        <item>கேமராவை இயக்கு</item>
+        <item>குரல் பதிவியை இயக்கு</item>
+        <item>ஆடியோவை இயக்கு</item>
+        <item>கிளிப்போர்டைப் படி</item>
+        <item>கிளிப்போர்டை மாற்றியமை</item>
+        <item>மீடியா பட்டன்கள்</item>
+        <item>ஆடியோ ஃபோகஸ்</item>
+        <item>முதன்மை ஒலியளவு</item>
+        <item>குரல் ஒலியளவு</item>
+        <item>ரிங் ஒலியளவு</item>
+        <item>மீடியா ஒலியளவு</item>
+        <item>அலார ஒலியளவு</item>
+        <item>அறிவிக்கை ஒலியளவு</item>
+        <item>புளூடூத் ஒலியளவு</item>
+        <item>விழித்தபடி வைத்திரு</item>
+        <item>இடத்தை முடிவுசெய்</item>
+        <item>இடத்தை முடிவுசெய்</item>
+        <item>பயன்பாட்டு புள்ளிவிவரங்களைப் பெறு</item>
+        <item>மைக்ரோஃபோனின் ஒலியை முடக்கு/முடக்கம் நீக்கு</item>
+        <item>துண்டு விண்டோ</item>
+        <item>மீடியாவை வெளிப்படுத்து</item>
+        <item>VPNஐ செயல்படுத்து</item>
+        <item>Wi-Fiஐ திற</item>
+        <item>புளூடூத்தை இயக்கு</item>
+        <item>MMS அனுப்பு</item>
+        <item>MMS பதிவுகளை அணுகு</item>
+        <item>MMS பதிவுகளை அணுகு</item>
+        <item>தன்னியக்கத் தொடக்க செயலிகள்</item>
+        <item>Nfc மாற்றம்</item>
+        <item>SMS பதிவுகளை அணுகு</item>
+        <item>MMS பதிவுகளை அணுகு</item>
+        <item>தொடர்புகளை அணுகு</item>
+        <item>அழைப்புப் பதிவுகளை அணுகு</item>
+        <item>மொபைல் நெட்வொர்க்கை இயக்கு</item>
+        <item>சாதனத் தகவலைப் பெறு</item>
+        <item>டெஸ்க்டாப் சுருக்குவழியை உருவாக்கு</item>
+        <item>அணுகல்-தொடர்பானவை</item>
+        <item>தொலைபேசி எண்ணைப் படி</item>
+        <item>வால்பேப்பரை எழுது</item>
+        <item>வடிவமைக்க உதவு</item>
+        <item>ஸ்கிரீன்ஷாட்டுக்கு உதவு</item>
+        <item>தொலைபேசி நிலையைப் படி</item>
+        <item>குரல் அஞ்சலைச் சேர்</item>
+        <item>Sipஐப் பயன்படுத்து</item>
+        <item>வெளிசெல்லும் அழைப்புகளை செயல்முறைப்படுத்து</item>
+        <item>விரல்ரேகையைப் பயன்படுத்து</item>
+        <item>சென்சார்களைப் பயன்படுத்து</item>
+        <item>செல் ஒலிபரப்புகளைப் படி</item>
+        <item>போலியான இடம்</item>
+        <item>வெளிப்புற சேமிப்பகத்தைப் படி</item>
+        <item>வெளிப்புற சேமிப்பகத்தில் எழுது</item>
+        <item>திரையை ஆன் செய்</item>
+        <item>கணக்கு விவரங்களை அணுகு</item>
+    </string-array>
+</resources>

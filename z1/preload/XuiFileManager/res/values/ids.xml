@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="menu_item_new_folder" />
+    <item type="id" name="menu_item_paste" />
+    <item type="id" name="menu_item_cancel_paste" />
+    <item type="id" name="menu_item_show_small_pics" />
+    <item type="id" name="menu_item_shown_as_list_grid" />
+    <item type="id" name="menu_item_extract" />
+    <item type="id" name="gridview_animation_tag" />
+    <item type="id" name="gridview_clicked_tag" />
+    <item type="id" name="actionModeCloseButton">false</item>
+    <item type="id" name="actionModeTitle">false</item>
+    <item type="id" name="actionModeCheckAllButton">false</item>
+    <item type="id" name="navBarLayout">false</item>
+    <item type="id" name="listView1">false</item>
+    <item type="id" name="bottomToolBar">false</item>
+    <item type="id" name="toolbar_item_extract">false</item>
+    <item type="id" name="processingLayout">false</item>
+    <item type="id" name="progressBar1">false</item>
+    <item type="id" name="categoryEntryContainer">false</item>
+    <item type="id" name="otherEntryContainer">false</item>
+    <item type="id" name="pathSelectionsContainer">false</item>
+    <item type="id" name="rootView">false</item>
+    <item type="id" name="thumb_preview">false</item>
+    <item type="id" name="view_pager">false</item>
+    <item type="id" name="loadingBar">false</item>
+    <item type="id" name="view_head">false</item>
+    <item type="id" name="view_title">false</item>
+    <item type="id" name="tool_back">false</item>
+    <item type="id" name="view_foot">false</item>
+    <item type="id" name="view_foot1">false</item>
+    <item type="id" name="tool_share">false</item>
+    <item type="id" name="tool_wallpaper">false</item>
+    <item type="id" name="tool_delete">false</item>
+    <item type="id" name="detailContainer">false</item>
+    <item type="id" name="detail_location">false</item>
+    <item type="id" name="detail_type">false</item>
+    <item type="id" name="detail_size">false</item>
+    <item type="id" name="detail_resolution">false</item>
+    <item type="id" name="detail_modified_time">false</item>
+    <item type="id" name="editText">false</item>
+    <item type="id" name="prompt">false</item>
+    <item type="id" name="processingComment">false</item>
+    <item type="id" name="progressBar">false</item>
+    <item type="id" name="filesCount">false</item>
+    <item type="id" name="sizeCount">false</item>
+    <item type="id" name="categoryEntryGridView">false</item>
+    <item type="id" name="button_phone_storage">false</item>
+    <item type="id" name="button_tfcard_storage">false</item>
+    <item type="id" name="button_otg_storage">false</item>
+    <item type="id" name="button_clean">false</item>
+    <item type="id" name="icon_clean">false</item>
+    <item type="id" name="image_arrow_5">false</item>
+    <item type="id" name="text_clean">false</item>
+    <item type="id" name="selections_listview">false</item>
+    <item type="id" name="navigationBar">false</item>
+    <item type="id" name="picDivder">false</item>
+    <item type="id" name="fileListView">false</item>
+    <item type="id" name="fileEmptyView">false</item>
+    <item type="id" name="searchEmptyView">false</item>
+    <item type="id" name="pasteBar">false</item>
+    <item type="id" name="cancelButton">false</item>
+    <item type="id" name="pasteButton">false</item>
+    <item type="id" name="toolbar_item_delete">false</item>
+    <item type="id" name="toolbar_item_copy">false</item>
+    <item type="id" name="toolbar_item_cut">false</item>
+    <item type="id" name="toolbar_item_share">false</item>
+    <item type="id" name="toolbar_item_rename">false</item>
+    <item type="id" name="toolbar_item_details">false</item>
+    <item type="id" name="search_mask">false</item>
+    <item type="id" name="fileIcon">false</item>
+    <item type="id" name="fileName">false</item>
+    <item type="id" name="fileSize">false</item>
+    <item type="id" name="fileTime">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="root_entry_view">false</item>
+    <item type="id" name="entryView">false</item>
+    <item type="id" name="categoryEntryImage">false</item>
+    <item type="id" name="newFileCount">false</item>
+    <item type="id" name="categoryName">false</item>
+    <item type="id" name="categoryFileCount">false</item>
+    <item type="id" name="background">false</item>
+    <item type="id" name="file_icon">false</item>
+    <item type="id" name="file_name">false</item>
+    <item type="id" name="comment">false</item>
+    <item type="id" name="file_info">false</item>
+    <item type="id" name="modified_time">false</item>
+    <item type="id" name="installed_status">false</item>
+    <item type="id" name="dirArrow">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="image_arrow">false</item>
+    <item type="id" name="text_storage">false</item>
+    <item type="id" name="text_available">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="selection_name">false</item>
+    <item type="id" name="thumb">false</item>
+    <item type="id" name="cover">false</item>
+    <item type="id" name="icon_top_bar">false</item>
+    <item type="id" name="search_button">false</item>
+    <item type="id" name="search_edit_frame">false</item>
+    <item type="id" name="query_text">false</item>
+    <item type="id" name="clear_btn">false</item>
+    <item type="id" name="cancel_btn">false</item>
+    <item type="id" name="linearLayoutHome">false</item>
+    <item type="id" name="linearLayout0">false</item>
+    <item type="id" name="horizontalScrollView">false</item>
+    <item type="id" name="linearLayout1">false</item>
+    <item type="id" name="ItemTitle">false</item>
+    <item type="id" name="menu_item_search">false</item>
+    <item type="id" name="menu_item_hidden_items">false</item>
+    <item type="id" name="menu_item_cached_items">false</item>
+    <item type="id" name="menu_item_sort">false</item>
+</resources>

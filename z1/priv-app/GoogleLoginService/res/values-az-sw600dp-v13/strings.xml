@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">Adınız planşet və Google xidmətlərinizi fərdiləşdirmək üçün istifadə olunur.</string>
+    <string name="name_title_local">Tabletin sahibi...</string>
+    <string name="name_text_local">Planşet bəzi tətbiqləri özəlləşdirmək üçün sizin adınızdan istifadə edir.</string>
+    <string name="communicating_message">Məlumatları hesabınızda saxlamaq üçün planşetiniz Google ilə əlaqə yaradır. Bu 5 dəqiqə çəkə bilər.</string>
+    <string name="checking_username_message">"Arzu etdiyiniz istifadəçi adının mövcudluğunu yoxlamaq üçün planşetiniz Google ilə əlaqə yaradır.
+
+Bu bir neçə dəqiqə çəkə bilər."</string>
+    <string name="wait_for_device_country_msg">Planşetiniz haqqında məlumat toplanır. Bu 30 saniyə çəkə bilər.</string>
+    <string name="backup_consent_message">"Tətbiqlərinizi, ayarlarınızı (əlfəcinlər və Wi-Fi parolları kimi) və digər datanı yedəkləmək üçün Google hesabınızı istifadə edin. Əgər əvvəllər hesabınızı yedəkləmisinizsə, onu bu planşetə bərpa edə bilərsiniz.
+
+Rezerv ayarlarınızı Ayarlarda hər zaman dəyişə bilərsiniz."</string>
+    <string name="backup_consent_message_no_restore">"Google hesabınızdan istifadə edərək tətbiqlərinizi, parametrlərinizi (əlfəcinlər və Wi-Fi parolları kimi) və digər məlumatlarınızı yedəkləyin.
+
+Siz yedəkləmə parametrlərinizi istənilən vaxt Parametrlər bölməsindən dəyişə bilərsiniz."</string>
+    <string name="restoring_message">Planşetiniz hesabınızı bərpa etmək üçün Google ilə əlaqə yaradır. Bu 5 dəqiqə çəkə bilər.</string>
+    <string name="restore_consent_yes_agree">Tətbiqləri, ayarları və əvvəllər Google Hesabınıza yedəklədiyiniz digər datanı bu planşetə gətirin.</string>
+</resources>

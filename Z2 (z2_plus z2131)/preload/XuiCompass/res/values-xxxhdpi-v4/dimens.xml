@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="orienname_size">30.0sp</dimen>
+    <dimen name="orienvalue_size">22.0sp</dimen>
+</resources>

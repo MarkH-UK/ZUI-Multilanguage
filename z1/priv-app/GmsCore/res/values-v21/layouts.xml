@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="location_sharing_settings_fragment_activity">false</item>
+    <item type="layout" name="place_autocomplete_fragment">false</item>
+    <item type="layout" name="place_picker_place_list_center_bar">false</item>
+    <item type="layout" name="place_picker_place_list_item">false</item>
+</resources>

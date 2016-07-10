@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/zen_mode_settings_title" android:key="zen_mode_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.RadioPreference android:key="anyone" />
+    <com.android.settings.RadioPreference android:key="contacts_only" />
+    <com.android.settings.RadioPreference android:key="starred_contacts_only" />
+    <com.android.settings.RadioPreference android:key="no_one" />
+</PreferenceScreen>

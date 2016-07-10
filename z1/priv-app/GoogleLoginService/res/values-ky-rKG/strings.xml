@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play кызматтарынын катасы</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Колдонмону иштетүү үчүн, Google Play кызматтарын орнотуу керек.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Колдонмону иштетүү үчүн, Google Play Кызматтарын жаңыртуу керек.</string>
+    <string name="common_android_wear_notification_needs_update_text">Колдонмону Android Тагынма колдонмосуна жаңыртуу керек.</string>
+    <string name="common_google_play_services_needs_enabling_title">Колдонмону иштетүү үчүн, Google Play Кызматтарын иштетүү керек.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s сурап жатат</string>
+    <string name="common_google_play_services_install_title">Google Play кызматтарын алуу</string>
+    <string name="common_google_play_services_install_text_phone">Бул колдонмо Google Play кызматтарысыз иштебейт, алар сиздин телефонуңузда жок.</string>
+    <string name="common_google_play_services_install_text_tablet">Бул колдонмо Google Play кызматтарысыз иштебейт, алар сиздин планшетиңизде жок.</string>
+    <string name="common_google_play_services_install_button">Google Play кызматтарын алуу</string>
+    <string name="common_google_play_services_enable_title">Google Play кызматтарын иштетүү</string>
+    <string name="common_google_play_services_enable_text">Бул колдонмо Google Play кызматтары иштетилмейинче иштебейт.</string>
+    <string name="common_google_play_services_enable_button">Google Play кызматтарын иштетүү</string>
+    <string name="common_google_play_services_update_title">Google Play кызматтарын жаңыртуу</string>
+    <string name="common_android_wear_update_title">Android Тагынманы жаңыртуу</string>
+    <string name="common_google_play_services_update_text">Бул колдонмо Google Play кызматтары жаңыртылмайынча иштебейт.</string>
+    <string name="common_android_wear_update_text">Android Тагынма колдонмосу жаңыртылмайынча бул колдонмо иштебейт.</string>
+    <string name="common_google_play_services_network_error_title">Тармак катасы</string>
+    <string name="common_google_play_services_network_error_text">Google Play Кызматтарына туташуу үчүн, дайындарды өткөрүүчү туташуу талап кылынат.</string>
+    <string name="common_google_play_services_invalid_account_title">Каттоо эсеби жараксыз</string>
+    <string name="common_google_play_services_invalid_account_text">Көрсөтүлгөн каттоо эсеби бул түзмөктө жок. Башка каттоо эсебин тандаңыз.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play кызматтарында келип чыккан белгисиз көйгөй.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play кызматтары</string>
+    <string name="common_google_play_services_unsupported_text">Айрым колдонмолоруңузга байланышкан Google Play кызматтары түзмөгүңүздө колдоого алынбайт. Жардам алуу үчүн өндүрүүчүгө кайрылыңыз.</string>
+    <string name="common_google_play_services_update_button">Жаңыртуу</string>
+    <string name="common_signin_button_text">Кирүү</string>
+    <string name="common_signin_button_text_long">Google менен кирүү</string>
+    <string name="common_open_on_phone">Телефондо ачык</string>
+    <string name="setup_wizard_next_button_label">Кийинки</string>
+    <string name="setup_wizard_back_button_label">Артка</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Өткөрүп жиберүү</string>
+    <string name="down_button_label">Дагы</string>
+    <string name="cancel_button_label">Жокко чыгаруу</string>
+    <string name="try_again_button_label">Дагы аракет кылыңыз</string>
+    <string name="close_button_label">Жабуу</string>
+    <string name="url_load_unsuccessful_message">Android түзмөгүңүз дайындар кызматына туташкан эмес. Бул маалыматты азыр көргүңүз келсе, веб серепчи аркылуу %s дарегине өтүңүз.</string>
+    <string name="sign_in_agreement">Кирип, Google <annotation id="tos">Тейлөө шарттарын</annotation>, <annotation id="google_privacy">Купуялуулук саясатын</annotation> жана <annotation id="play_tos">Google Play Тейлөө шарттарын</annotation> кабыл аласыз.</string>
+    <string name="android_privacy_policy_title">Кошумча Купуялуулук саясаты</string>
+    <string name="google_terms_of_service_title">Google Тейлөө шарттары</string>
+    <string name="google_privacy_policy_title">Google Купуялуулук саясаты</string>
+    <string name="google_plus_privacy_policy_title">Google Plus Купуялуулук саясаты</string>
+    <string name="google_play_tos_title">Google Play Тейлөө шарттары</string>
+    <string name="chrome_tos_title">Chrome Тейлөө шарттары</string>
+    <string name="chrome_privacy_title">Chrome Купуялуулук билдирүүсү</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android түзмөгүңүз Wi-Fi тармагына туташкан эмес. Бул маалыматты азыр көргүңүз келсе, веб серепчи аркылуу %s дарегине өтүңүз.</string>
+    <string name="services_activity_title">Google кызматтары</string>
+    <string name="services_backup_heading">Камдык көчүрмөнү сактоо</string>
+    <string name="services_location_heading">Жайгашкан жер</string>
+    <string name="services_security_heading">Коопсуздук</string>
+    <string name="services_personalization_heading">Жекечелештирүү</string>
+    <string name="services_communication_heading">Байланыш</string>
+    <string name="security_verify_apps_summary">"Google'га түзмөгүңүздүн же дайындарыңыздын коопсуздугуна зыян келтириши мүмкүн болгон бардык колдонмолорду текшерүүгө мүмкүнчүлүк бериңиз."</string>
+    <string name="name_title">Аты-жөнүңүз</string>
+    <string name="name_text">Ысымыңыз телефонуңузду жана Google кызматтарын жекечелештирүү үчүн колдонулат.</string>
+    <string name="first_name">Биринчи</string>
+    <string name="last_name">Акыркы</string>
+    <string name="cant_be_blank">Талаа бош болбошу керек.</string>
+    <string name="sharedUserLabel">Google кызматтары</string>
+    <string name="app_label">Google Каттоо эсебин башкаргыч</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Кирүү</string>
+    <string name="create_button_label">Каттоо эсебин алуу</string>
+    <string name="not_now_button_label">Азыр эмес</string>
+    <string name="new_button_label">Жаңы</string>
+    <string name="existing_button_label">Учурдагы</string>
+    <string name="done">OK</string>
+    <string name="edit_text_help">Терип баштоо үчүн каалаган текст кутучасына тийип коюңуз</string>
+    <string name="add_a_google_account">Google Каттоо эсебин кошуу</string>
+    <string name="captcha_title">"CAPTCHA'га кирүү керек"</string>
+    <string name="show_error_title">Ката</string>
+    <string name="server_error">Google серверлерине туташууда көйгөй келип чыкты.</string>
+    <string name="server_error_help">Бир аздан кийин аракет кылыңыз.</string>
+    <string name="network_unreliable">Серверге ишенимдүү туташуу орнотулбай жатат.</string>
+    <string name="network_unreliable_help">Бул убактылуу көйгөй болушу мүмкүн же Android түзмөгүңүздө дайындар кызматтары иштебейт. Эгер бул көйгөй кайталана берсе, Кардарларды тейлөө борборуна чалыңыз.</string>
+    <string name="network_unreliable_help_wifi_only">Бул убактылуу көйгөй болушу мүмкүн. Дагы бир жолу аракет кылыңыз же башка Wi-Fi тармагына туташыңыз.</string>
+    <string name="invalid_login_character">Жараксыз белги. 0-9, a-z, A-Z жана чекиттерге гана уруксат берилген.</string>
+    <string name="invalid_password_character">Жараксыз сырсөз белгиси.</string>
+    <string name="calendar">Google жылнаама</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Почтасы</string>
+    <string name="field_cant_be_blank">Талаа бош болбошу керек.</string>
+    <string name="plus_query_title">"Google+'ту жаңыртуу"</string>
+    <string name="plus_query_text">Google+ аркылуу Интернеттен кандайдыр бир нерселерди чыныгы турмуштагыдай бөлүшө аласыз.</string>
+    <string name="circles_subtitle">Сиз кызыккан нерселердин агымы</string>
+    <string name="circles_text">Жакындарыңыз менен байланышып, жалпы кызыккан нерселериңерди чогуу изилдегиле.</string>
+    <string name="uploads_subtitle">Сүрөттүн камдк көчрмсн автмттк түрд сакт</string>
+    <string name="uploads_text">Тартылган сүрөттүн камдык көчүрмөсүн акысыз жана жеке сактагычта сактап коюңуз.</string>
+    <string name="huddle_subtitle">Видео чалуу &amp; билдирүү жөнөтүү</string>
+    <string name="huddle_text">Hangouts аркылуу SMSтешип, сүрөт алмашып, акысыз видео чалуулардан ырахат алыңыз.</string>
+    <string name="plus_declined_button_label">Азыр эмес</string>
+    <string name="plus_accepted_button_label">Баштоо</string>
+    <string name="plus_name_check_title">Google+ менен байланышууда…</string>
+    <string name="plus_name_check_text">Буга бир нече мүнөт кетиши мүмкүн.</string>
+    <string name="plus_faq_title">"Google+'ка кош келиңиз!"</string>
+    <string name="plus_faq_text" formatted="false">"Google+'та коомдук профилиңиз болуп, анын жардамы менен досторуңуз сизди онлайн режиминде оңой таба алышат. Электрондук почта дарегиңизди билген адамдардын бардыгы профилиңизди таап көрө алышат.
+
+Кандайдыр бир нерселерди дүйнө жүзүнө сунуштоо үчүн, желе ичинде +1 баскычын бассаңыз болот. Профилиңиз жана +1'лериңиз издөө аракеттеринде, жарнамаларда жана желеде баарына көрүнүп турат.
+
+Азырынча профилиңизде ысымыңыз гана көрүнөт (%s %s). Google+'ту колдонуп баштаганда, сүрөт, өмүр баяныңызды жана башка чоо-жайыңызды кошсоңуз болот."</string>
+    <string name="dasher_warning">"%s администратору Google+'дагы бардык дайындарыңызды колдонуп, башкарат, ошондой эле профилиңизди каалаган убакта сиздин уруксатыңызсыз жок кылып же өзгөртө алат."</string>
+    <string name="profile_info_title">Профилиңиз</string>
+    <string name="profile_text">"Профилиңиздин негизги маалыматын кошуңуз. Кийинчерээк Google+'ту колдоно баштаганда, сүрөт сыяктуу чоо-жайларды кошсоңуз болот."</string>
+    <string name="occupation">Жумушу</string>
+    <string name="current_city">Учурдагы шаар</string>
+    <string name="picassa_info_title">Picasa жана Google+</string>
+    <string name="picassa_info_text" formatted="false">"Picasa Веб альбомдорундагы сүрөттөрүңүз менен видеолоруңузду Google+'та колдоно аласыз жана жорумдарыңызды %s катары эмес, %s %s катары калтырасыз. Google+'тагы сүрөттөрүңүздү алуучулар башкалар менен бөлүшө алышат. Альбомдоруңуздун көрүнүп туруу жөндөөлөрү өзгөрбөйт жана аларды бөлүшүү мүмкүнчүлүгүн каалаган учурда чектеп койсоңуз болот."</string>
+    <string name="name_title_plus">"Google+'тагы ысымыңыз"</string>
+    <string name="name_title_local">Бул телефон төмөнкүгө таандык…</string>
+    <string name="name_text_local">Телефон ысымыңыз менен айрым колдонмолорду жекечелештирет.</string>
+    <string name="name_progress_title">Бир секунд…</string>
+    <string name="bad_name_title">Бул ысым колдонулсунбу?</string>
+    <string name="invalid_name_title">Бул ысымды колдонууга болбойт</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Муну Google+ ысымыңыз катары колдонгуңуз келсе, командабыз аны карап чыгышы керек. Эгер ал Ысымдар саясатыбызды бузса, профилиңиз убактылуу токтотулушу мүмкүн. Ушуну менен, жигердүү профилди талап кылган Google өндүрүмдөрүн колдонуу мүмкүнчүлүгүңүз чектелет.
+
+"<annotation id="learn_more">Көбүрөөк билүү</annotation></string>
+    <string name="invalid_name_text">"Бул ысымды Google+'та колдоно албайсыз, себеби анда жараксыз белгилер камтылган."</string>
+    <string name="invalid_nickname_text">"Бул ысымды Google+'та колдоно албайсыз, себеби анда жараксыз белгилер бар. Ылакап ысымыңызды, мурунку ысымыңызды же наамды колдонуп көрбөйсүзбү? Кошулгандан кийин аларды профилиңизге киргизип койсоңуз болот."</string>
+    <string name="invalid_other_text">"Бул ысымды Google+'та колдонууга болбойт."</string>
+    <string name="bad_name_agree_text">Түшүндүм жана ушул ысымды пайдалангым келет.</string>
+    <string name="bad_name_decline_button_label">Ысымды жаңыртуу</string>
+    <string name="bad_name_agree_button_label">Ысымды кароого жөнөтүңүз</string>
+    <string name="bad_name_skip_button_label">"Google+'ту өткөрүп жиберүү"</string>
+    <string name="photo_title">Сүрөтүңүз</string>
+    <string name="photo_text">Бул сүрөт байланыш жазууңузда колдонулат. Аны кийинчерээк Адамдар колдонмосунан өзгөртө аласыз.</string>
+    <string name="photo_text_es">"Google+'тагы досторуңуз көрө турган сүрөт тартыңыз. Кийинчерээк жаңы сүрөттү тандасаңыз болот."</string>
+    <string name="photo_button_label">Сүрөт тартуу</string>
+    <string name="retake_photo_button_label">Кайра сүрөт тартуу</string>
+    <string name="photo_failure">Камера ишке киргизилген жок.</string>
+    <string name="crop_failure">Сүрөт кесилген жок.</string>
+    <string name="photo_description">Сүрөтүңүз</string>
+    <string name="communicating_message">Телефонуңуз Google менен байланышып, каттоо эсебиңизге маалымат сактап жатат. Буга 5 мүнөт талап кылынышы мүмкүн.</string>
+    <string name="creating_account_title">Каттоо эсеби сакталууда…</string>
+    <string name="checking_username_message">"Телефонуңуз Google менен байланышып, зарыл болгон колдонуучун ысымы бар экендигин текшерип жатат.
+
+Буга бир нече мүнөт талап кылынышы мүмкүн."</string>
+    <string name="plus_failure_title">"Google+'ка кийинчерээк кошулуу"</string>
+    <string name="plus_failure_new_account_text">"Google каттоо эсеби түзүлүп, бирок Google+'ка кошулуу өтүнүчүңүз канааттандырылган жок. Кийинчерээк желе серепчиси аркылуу plus.google.com дарегинен аракет кылып көрсөңүз болот."</string>
+    <string name="plus_failure_text">"Google+'ка кошулуу өтүнүчүңүз канааттандырылган жок. Кийинчерээк желе серепчиси аркылуу plus.google.com дарегинен аракет кылып көрсөңүз болот."</string>
+    <string name="provisioned_login_title">Сырсөздү киргизиңиз</string>
+    <string name="provisioned_welcome">Салам, %s!</string>
+    <string name="provisioned_welcome_2">"Төмөнкүнүн сырсөзүн киргизиңиз:
+%s"</string>
+    <string name="provisioned_incorrect_login">%s эмеспи?</string>
+    <string name="login_title">Электрондук почта дарегин жана сырсөздү териңиз</string>
+    <string name="login_task_title">Кирип жатасыз</string>
+    <string name="password">Сырсөз</string>
+    <string name="restore_wifi">Калыбына келтирүү жана белгилүү Wi‑Fi тармактарына туташуу.</string>
+    <string name="sign_in_agreement_multi_user">Кирип, Google <annotation id="tos">Тейлөө шарттарын</annotation>, <annotation id="google_privacy">Купуялуулук саясатын</annotation> жана <annotation id="play_tos">Google Play Тейлөө шарттарын кабыл аласыз</annotation>". 
+
+Эсиңизде болсун: Башка колдонуучу сиздин атыңыздан жаңыртылган колдонмо уруксаттарын ала алат. Компьютер сыяктуу эле, бул планшетти ишенимдүү адамдар менен гана бөлүшүңүз."</string>
+    <string name="sign_in_agreement_with_chrome">Кирип, Google <annotation id="tos">Тейлөө шарттарын</annotation> жана <annotation id="google_privacy">Купуялуулук саясатын</annotation>, Chrome <annotation id="chrome_tos">Тейлөө шарттарын</annotation> жана <annotation id="chrome_privacy">Купуялуулук билдирүүсүн</annotation> жана Google Play <annotation id="play_tos">Тейлөө шарттарын</annotation> кабыл аласыз.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Кирип, Google <annotation id="tos">Тейлөө шарттарын</annotation> жана <annotation id="google_privacy">Купуялуулук саясатын</annotation>, Chrome <annotation id="chrome_tos">Тейлөө шарттарын</annotation>, <annotation id="chrome_privacy">Купуялуулук Билдирүүсүн</annotation> жана Google Play <annotation id="play_tos">Тейлөө шарттарын</annotation>" кабыл аласыз. 
+
+Эсиңизде болсун: Башка колдонуучу сиздин атыңыздан жаңыртылган колдонмо уруксаттарын ала алат. Компьютер сыяктуу эле, бул планшетти ишенимдүү адамдар менен гана бөлүшүңүз."</string>
+    <string name="create_prompt">" Google каттоо эсебиңиз жокпу? "<annotation id="create_account">Каттоо эсебин азыр түзүп алыңыз</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Google каттоо эсебиңиз менен кириңиз:</string>
+    <string name="invalid_username">Терилген текст жарактуу колдонуучу ысымы эмес.</string>
+    <string name="captcha_instructions">Төмөнкү текстти териңиз:</string>
+    <string name="create_google_account">Колдонуучу ысымын тандаңыз</string>
+    <string name="create_google_account_text">"Google каттоо эсебиңиз Google'дун электрондук почтасы Gmail менен коштолот. Ал каалаган түзмөктө иштеп, спамды бөгөттөйт жана башка көптөгөн нерселерди аткарат."</string>
+    <string name="account_already_has_gmail">"Каттоо эсеби мурун эле Gmail'ге байланган."</string>
+    <string name="error_account_disabled">"Бул каттоо эсеби өчүрүлгөн. 
+
+(Анын чоо-жайын билүү үчүн, веб серепчиси аркылуу https://google.com/accounts дарегине баш багыңыз.)"</string>
+    <string name="no_network">Тармактык туташуу жок.</string>
+    <string name="no_network_help">Бул убактылуу көйгөй болушу мүмкүн же Android түзмөгүңүздө дайындар кызматтары иштебейт. Мобилдик тармакка туташып турганда дагы бир жолу аракет кылыңыз же Wi-Fi тармагына туташыңыз.</string>
+    <string name="no_network_help_wifi_only">Бул убактылуу көйгөй болушу мүмкүн. Дагы бир жолу аракет кылыңыз же башка Wi-Fi тармагына туташыңыз.</string>
+    <string name="error_login_failed">"Колдонуучу ысымыңыз менен сырсөзүңүз дал келбейт. Дагы аракет кылып көрүңүз.
+
+Каттоо эсебиңиздин маалыматын калыбына келтирүү үчүн google.com/accounts/recovery/ бетине өтүңүз."</string>
+    <string name="error_account_not_verified">"Бул каттоо эсеби тастыктала элек. Бул каттоо эсебин тастыктоо үчүн, электрондук почта дарегиңизди текшерип, андагы шилтемени ачыңыз. 
+
+(Каттоо эсебинин маалыматын калыбына келтирүү үчүн компьютериңизден http://www.google.com/accounts/recovery бетине өтүңүз.)"</string>
+    <string name="exit_menu_item">Серепчиден чыгуу</string>
+    <string name="creating_profile">Профилиңиз түзүлүүдө…</string>
+    <string name="checking_account">Жеткиликтүүлүгү текшерилүүдө…</string>
+    <string name="is_not_available"><b>^1</b> колдонуучу ысымы жок.</string>
+    <string name="suggestions_hint">Сунуштар үчүн тийип коюңуз</string>
+    <string name="suggest_username_next_button_label">Колдонуучу ысымын өзгөртүү</string>
+    <string name="hint_size">" "<b>^1</b> кеминде 6 же 30дан ашык белги камтылат.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> бир да кат жок.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" тамгаларды,
+сандарды жана чекиттерди гана камтый алат."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b>" Gmail'ди колдонбойт."</string>
+    <string name="sign_in_browser">Серепчиден кирүү</string>
+    <string name="alternatives_list_title">Сунушталган колдонуучу ысымдары</string>
+    <string name="password_title">Сырсөз түзүү</string>
+    <string name="choose_a_password">Сырсөз</string>
+    <string name="confirm_password">Сырсөздү кайра териңиз</string>
+    <string name="too_short">Өтө кыска</string>
+    <string name="security_questions_title">Коопсуздук суроолору</string>
+    <string name="answer">" "<b>Жооп</b></string>
+    <string name="password_mismatch">Сырсөздөр дал келген жок. Дагы бир жолу аракет кылыңыз.</string>
+    <string name="eight_chars_min">Жок дегенде 8 белги</string>
+    <string name="verify_your_profile">Профилиңизди текшериңиз</string>
+    <string name="error_not_logged_in">Колдонуучу кирген жок.</string>
+    <string name="error_username_unavailable">Колдонуучун ысымы жок.</string>
+    <string name="error_bad_password">Сырсөз өтө начар же анда жараксыз белгилер камтылган. Дагы бир жолу аракет кылыңыз.</string>
+    <string name="error_bad_username">Колдонуучунун ысымы жараксыз.</string>
+    <string name="existing_account_error_title">Каттоо эсеби мурунтан эле бар</string>
+    <string name="existing_account_error_text">^1 каттоо эсеби Android түзмөгүндө мурунтан эле бар.</string>
+    <string name="submission_title">Кечиресиз…</string>
+    <string name="submission_error_text">Ката кетти. Дагы бир жолу аракет кылыңыз.</string>
+    <string name="sync_intro_title">Каттоо эсебин шайкештештирүү</string>
+    <string name="account_tos_title">Каттоо эсебин аягына чыгаруу</string>
+    <string name="account_tos_plus_title">"Google+'ка кошулуп бүтүү"</string>
+    <string name="i_accept">Кабыл алам</string>
+    <string name="i_decline">Каттоо эсеби түзүлбөсүн</string>
+    <string name="allow_personalized_content">"Google'га тиешеси жок вебсайттардагы мазмунду жана жарнамаларды жекечелештирүү үчүн, Google'га сиздин маалыматтарыңызды колдонууга уруксат бериңиз."</string>
+    <string name="enable_web_history">Веб таржымалын күйгүзүү</string>
+    <string name="learn_more"><annotation id="learn_more">Көбүрөөк билүү</annotation></string>
+    <string name="account_creation_tos">Улантуу менен, Google <annotation id="tos">Тейлөө шарттарын</annotation>, <annotation id="google_privacy">Купуялуулук саясатын</annotation> жана <annotation id="play_tos">Google Play Тейлөө шарттарын</annotation> кабыл аласыз.</string>
+    <string name="account_creation_tos_with_chrome">Улантуу менен, Google <annotation id="tos">Тейлөө шарттарын</annotation> жана <annotation id="google_privacy">Купуялуулук саясатын</annotation>, Chrome <annotation id="chrome_tos">Тейлөө шарттарын</annotation> жана <annotation id="chrome_privacy">Купуялуулук Билдирүүсүн</annotation> жана Google Play <annotation id="play_tos">Тейлөө шарттарын</annotation> кабыл аласыз.</string>
+    <string name="gender_prompt">Жынысы</string>
+    <string name="gender_hint">Жынысы</string>
+    <string name="account_pre_intro_title">Google барбы?</string>
+    <string name="account_pre_intro_default_message">"Google каттоо эсебиңиз барбы?
+
+Эгер Gmail же Google Колдонмолорун пайдалансаңыз, \"Ооба\" деп жооп бериңиз."</string>
+    <string name="account_pre_intro_yes">Ооба</string>
+    <string name="account_pre_intro_no">Жок</string>
+    <string name="account_intro_title">Google Каттоо эсеби</string>
+    <string name="account_intro_required_title">Google камсыз кылган</string>
+    <string name="account_intro_recommended_title">Муну Google кылыңыз</string>
+    <string name="account_intro_default_message">Мындан ары эч нерсеңизди жоготпоңуз. Google Каттоо эсеби бир дагы нерсени жоготпой сактап турат.</string>
+    <string name="account_intro_simple_message">Учурдагы каттоо эсебин кошосузбу же жаңысын түзөсүзбү?</string>
+    <string name="account_intro_learn_more">Көбүрөөк билүү</string>
+    <string name="learn_more_title">Көбүрөөк билүү</string>
+    <string name="learn_more_account_intro">"Google Каттоо эсеби төмөнкүдөй мүмкүнчүлүктөрдү берет:
+
+"<li><ul>Маалыматыңызды, ошондой эле издөө таржымалын каалаган жерден көрүп, башкара аласыз.</ul></li>"
+
+"<li><ul>Электрондук почта, байланыштар, музыка жана сүрөттөр сыяктуу дайындарыңыздын камдык көчүрмөсү автоматтык түрдө сакталат.</ul></li>" 
+
+"<li><ul>Байланыштар, жылнаама, карталар сыяктуу Google кызматтарын каалаган жерден колдоно аласыз.</ul></li></string>
+    <string name="learn_more_account_intro_title">Google Каттоо эсептери жөнүндө</string>
+    <string name="learn_more_bad_name">"Google+'та өзүңүздүн чыныгы аты-жөнүңүздү колдонуңуз. Профилиңизде жумуш, уюм же үй-бүлө сыяктуу нерселер эмес, адам көрсөтүлүшү керек, андыктан жөн гана аты-жөнүңүздү көрсөтүңүз. Кесибиңизди же кандайдыр бир тыныш белгилерин кошуунун кажети жок. Катталгандан кийин, профилиңиздеги Башка ысымдар талаасындагы ылакап ысымдарыңызды жана башка ысымдарды койсоңуз болот."</string>
+    <string name="learn_more_bad_name_title">Ысымдар саясаты жөнүндө</string>
+    <string name="wait_for_device_country_title">Каттоо эсебин орнотуу</string>
+    <string name="wait_for_device_country_msg">Телефонуңуз тууралуу маалымат топтолууда. Буга 30 секундага чейин убакыт талап кылынышы мүмкүн.</string>
+    <string name="recovery_title">Google сырсөздү калыбына келтирүү</string>
+    <string name="recovery_wait_title">Google менен байланышууда…</string>
+    <string name="cannot_talk_to_server_msg">"Түзмөк Google'га кире алган жок."</string>
+    <string name="recovery_skip_label">Өткөрүп жиберүү</string>
+    <string name="recovery_retry_label">Дагы аракет кылыңыз</string>
+    <string name="recovery_message_set">"Эгер сырсөзүңүздү унутуп койсоңуз, аны калыбына келтирүүгө аракет кыласыз.
+
+Google сырсөзүңүздү SMS же кошумча электрондук почта дареги аркылуу калыбына келтирүү мүмкүнчүлүгүн берет.
+
+Бул кадам көптөн-көп сунушталат. "<annotation id="help_url">Көбүрөөк билүү</annotation></string>
+    <string name="recovery_message_verify">"Сырсөздөрдү тез эле унутуп коюшуңуз мүмкүн.
+
+Андыктан телефон номерин же электрондук почта дарегиңиздин камдык көчүрмөсүн ырастап койсоңуз, кийин Google жана Google Play'деги мазмунуңузга кирүү мүмкүнчүлүгүн ала аласыз. "<annotation id="help_url">Көбүрөөк билүү</annotation></string>
+    <string name="recovery_yes_button_label">Калыбына келтирүү параметрлерин орнотуу</string>
+    <string name="recovery_yes_button_label_verify">Калыбына келтирүү параметрлерин ырастоо</string>
+    <string name="recovery_later_button_label">Азыр эмес</string>
+    <string name="recovery_input_screen_message">Бул калыбына келтирүү маалыматы %s үчүн колдонулат.</string>
+    <string name="secondary_email_hint">Email камдк көчүрмсн сакт</string>
+    <string name="secondary_email_invalid">Жараксыз электрндк почт дареги</string>
+    <string name="secondary_email_same_as_primary">Негзги электрндк почт дарегндй болбш крк</string>
+    <string name="phone_number_hint">Телефон номери</string>
+    <string name="phone_number_invalid_character">Телефон номериндеги жараксыз белгилер</string>
+    <string name="phone_number_invalid">Жараксыз телефон номери</string>
+    <string name="country_invalid">Бул өлкөгө уруксат жок</string>
+    <string name="recovery_server_error">Сервер менен аракеттешүүдө ката кетти. Бир аздан кийин аракет кылыңыз.</string>
+    <string name="account_recovery_info">Эгер сырсөзүңүздү унутуп койсоңуз, коопсуздук суроосуна жооп берип, башка электрондук почта дарегиңизге сырсөздү калыбына келтирүүчү шилтемени алыңыз.</string>
+    <string name="secondary_email_label">Калыбына келтирүүчү электрондук дарек</string>
+    <string name="invalid_email">"Терилген электрондук почта дареги жараксыз.
+ Мисалы: nursultan@example.com"</string>
+    <string name="invalid_email_primary">Калыбына келтирүү дареги түзүлүп жаткан дарекке окшош болбошу керек.</string>
+    <string name="backup_consent_message">"Google каттоо эсебиңиз аркылуу колдонмолоруңуздун, жөндөөлөрүңүздүн (кыстармалар жана Wi-Fi сырсөздөрү сыяктуу) жана башка дайындарыңыздын камдык көчүрмөсүн сактап коё аласыз. Эгер каттоо эсебиңиздин камдык көчүрмөсү мурун сакталган болсо, аны ушул телефондо калыбына келтире аласыз.
+
+Камдык көчүрмөнү сактоо жөндөөлөрүңүздү каалаган учурда Жөндөөлөрдөн өзгөртсөңүз болот."</string>
+    <string name="backup_consent_message_no_restore">"Google каттоо эсебиңиз аркылуу колдонмолоруңуздун, жөндөөлөрүңүздүн (кыстармалар жана Wi-Fi сырсөздөрү сыяктуу) жана башка дайындарыңыздын камдык көчүрмөсүн сактап коё аласыз.
+
+Камдык көчүрмөнү сактоо жөндөөлөрүңүздү каалаган учурда Жөндөөлөрдөн өзгөртсөңүз болот."</string>
+    <string name="restoring_title">Калыбына келтирилүүдө…</string>
+    <string name="restoring_message">Каттоо эсебиңизди калыбына келтирүү үчүн, телефонуңуз Google менен байланышууда. Буга бир аз убакыт талап кылынышы мүмкүн.</string>
+    <string name="gls_notification_login_error">Каттоо эсебиңизге кирүү үчүн тийип коюңуз.</string>
+    <string name="gls_ui_add_account_title">Каттоо эсебин орнотуу</string>
+    <string name="gls_ui_activity_title">Кирүү</string>
+    <string name="gls_ui_activity_title_browser_signin">Кирүү</string>
+    <string name="gls_ui_activity_title_checking_in">Даярдалууда…</string>
+    <string name="gls_ui_activity_authenticating">Аныктыгы текшерилүүдө…</string>
+    <string name="gls_dmagent_activity_activate_message">" Домениңизге мобилдик түзмөктү башкаруу мүмкүнчүлүгү талап кылынат.  "<b>^1</b> каттоо эсебине талап кылынган коопсуздук саясаттарын күчүнө киргизүү үчүн \"Google Apps Device Policy\" колдонмосун орнотуңуз.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Жандыруу</string>
+    <string name="gls_dmagent_activity_download_message">" Домениңизге мобилдик түзмөктү башкаруу мүмкүнчүлүгү талап кылынат.  "<b>^1</b> каттоо эсебине талап кылынган коопсуздук саясаттарын күчүнө киргизүү үчүн \"Google Apps Device Policy\" колдонмосун орнотуңуз.</string>
+    <string name="gls_dmagent_activity_download_retry_button">Жүктөп алуу</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Сырсөз туура эмес терилди же каттоо эсебиңиз өзгөрүлгөн. Сырсөзүңүздү кайра териңиз.</string>
+    <string name="permlab_googleAuthPassword">Google каттоо эсептеринин сызсөздөрүн колдонуу мүмкүнчүлүгү</string>
+    <string name="permdesc_googleAuthPassword">Колдонмолорго Google каттоо эсебиңиздин(-териңиздин) сырсөздөрүн түз колдонуу мүмкүнчүлүгүн берет.</string>
+    <string name="permlab_googleMailSwitch">Gmail же Google Mail аталышын тандаңыз</string>
+    <string name="permdesc_googleMailSwitch">Колдонмолорго \"Gmail\" деген аталышты \"Google mail\" деп которуштуруп көрсөтүү мүмкүнчүлүгүн берет.</string>
+    <string name="sync_item_title">Шайкештештирүү %s</string>
+    <string name="grant_credentials_permission_message_footer">Алар төмөнкүгө уруксат сурап жатышат:</string>
+    <string name="grant_credentials_permission_message_app">Бул колдонмолор мындан ары Google каттоо эсебиңизге кирип турушат.</string>
+    <string name="grant_permissions_header_text">Уруксат суроо</string>
+    <string name="allow">Мүмкүнчүлүк берүү</string>
+    <string name="deny">Жок, рахмат</string>
+    <string name="permission_request_notification_with_subtitle">"%s каттоо эсебине уруксат талап кылынат
+"</string>
+    <string name="notification_title">%1$s менен кирүүдө ката кетти</string>
+    <string name="account_setup_title">Google Каттоо эсеби</string>
+    <string name="login_activity_title">Кирүү</string>
+    <string name="relogin_activity_title">Сырсөздү кайра териңиз</string>
+    <string name="show_error_activity_title">Кире алган жок</string>
+    <string name="login_activity_task_title">Кирип жатасыз…</string>
+    <string name="login_activity_task_msg">Буга бир нече мүнөт кетиши мүмкүн.</string>
+    <string name="prepare_account_setup_task_title">Каттоо эсеби орнотулууда…</string>
+    <string name="prepare_account_setup_task_msg">Буга бир нече мүнөт кетиши мүмкүн.</string>
+    <string name="sync_intro_activity_title">Каттоо эсебиңизди шайкештештириңиз</string>
+    <string name="username">Email</string>
+    <string name="error_invalid_second_factor">Каттоо эсебиңиздин адаттагы сырсөзүнүн ордуна колдонмонун сырсөзүн пайдаланыңыз.</string>
+    <string name="error_needs_browser">Каттоо эсебиңизге Интернеттен киришиңиз керек. Серепчи аркылуу кирүү үчүн, Кийинкиге тийип коюңуз.</string>
+    <string name="google_play_opt_in">"Google Play'ден акыркы жаңылыктар жана сунуштар келип турсун."</string>
+    <string name="google_settings_header_title">Купуялуулук</string>
+    <string name="maps_settings_title">Карталар &amp; Кеңдик</string>
+    <string name="location_settings_title">Жайгашкан жер</string>
+    <string name="search_settings_title">Издөө</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Жарнамалар</string>
+    <string name="location_network_based">Google жайгашкан жерди аныктоо</string>
+    <string name="location_neighborhood_level">"Жашыруун жайгашкан жер дайындары Google'га жөнөтүлсүн. Уруксат берилген колдонмолор болжолдуу жайгашкан жериңизди аныкташы үчүн Wi-Fi жана мобилдик тармактар булактарындагы дайындарды колдонушат."</string>
+    <string name="use_location_title">Жайгашкан жер &amp; Google издөө</string>
+    <string name="use_location_summary">"Издөө натыйжалры жана башка кызматтрды өркүндтүү үчүн Google'га жайгшкн жерди көрүү мүмкүнчлгн берңз"</string>
+    <string name="backup_consent_yes_agree">Google каттоо эсебиңиз аркылуу колдонмолоруңуздун, жөндөөлөрүңүздүн (кыстармалар жана Wi-Fi сырсөздөрү сыяктуу) жана башка дайындарыңыздын камдык көчүрмөсүн сактап коё аласыз.</string>
+    <string name="restore_consent_yes_agree">Колдонмолордун, жөндөөлөрдүн жана башка дайындардын Google Каттоо эсебиңизде сакталган камдык көчүрмөлөрүн бул телефонго алып келиңиз.</string>
+    <string name="audit_logging_summary">"Түзмөктүн окуялары жана диагностикалык маалыматтарды Google'га автоматтык түрдө жөнөтүү менен, өнүмдөрүбүздү өркүндөтүп, түзмөгүңүздү коргоого жардам бере аласыз."</string>
+    <string name="no_back_msg">Мурунку кадамга кайтууга болбойт.</string>
+    <string name="setup_wizard_title">Орнотуу Адиси</string>
+    <string name="setup_wizard_services_activity_title">Google кызматтары</string>
+    <string name="setup_wizard_services_description">"Google сизге ушул кызматтар аркылуу кызмат кылат жана аларды каалаган учурда күйгүзүп же өчүрүп коё аласыз. Дайындар Google'дун "<annotation id="google_privacy">Купуялуулук саясаты</annotation> боюнча колдонулат.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Бэкап жана кайтаруу</string>
+    <string name="setup_wizard_services_location_heading">Жайгашуу</string>
+    <string name="setup_wizard_services_communication_heading">Байланыш</string>
+    <string name="setup_wizard_services_backup"><b>Телефонуңуздагы колдонмолорду, колдонмо дайындарын, жөндөөлөрдү, жеке сөздүктөрдү жана Wi‑Fi сырсөздөрүн</b> кийинчерээк оңой калыбына келтирүү үчүн, Google Каттоо эсебиңиз аркылуу камдык көчүрмөлөрүн сактап коюңуз. <annotation id="backup_details">Көбүрөөк билүү</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Колдонмолорду, колдонмо дайындарын, жөндөөлөрдү, жеке сөздүктөрдү жана Wi‑Fi сырсөздөрүн</b> кийинчерээк оңой калыбына келтирүү үчүн, камдык көчүрмөлөрүн сактап коюңуз.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Берилиштерге колдонмолор, колдонмолордун тууралоолору, системдин тууралоолору, жана Wi‑Fi сырсөздөрү кирет.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Автоматтык камдоону күйгүзгөнүңүздө, түзмөгүңүздүн дайындары маал-маалы менен Google каттоо эсебиңизге сакталат. Камдоолордо колдонмо дайындар куржундарыңыздагы жактыруулар, жөндөөлөр, билдирүүлөр, сүрөттөр жана башка файлдар сыяктуу маалымат камтылышы мүмкүн.</string>
+    <string name="setup_wizard_services_location_sharing"><b>"Google'дун Жайгашкан жерди аныктоо кызматы аркылуу"</b>" колдонмолордун жайгашкан жерин аныктай аласыз. Ушуну менен, бир дагы колдонмо иштебей турганда Google'га жашыруун жайгашкан жериңизди жөнөтсөңүз болот."<annotation id="location_details">Көбүрөөк билүү</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">"Google'дун Жайгашкан жерди аныктоо кызматы түзмөгүңүздүн жайгашкан жерин тезирээк жана тагыраак аныктоо үчүн Wi‑Fi жана уюктук тармактар сыяктуу булактарды колдонот. Google'дун Жайгашкан жерди аныктоо кызматы иштетилгенде, түзмөгүңүз жайгашкан жер жөнүндө маалымат алуу үчүн Wi‑Fi жана уюктук тармактар колдонулган режимге өтөт. Аны жайгашкан жерди аныктоо жөндөөлөрүнөн \"GPS гана\" же \"Түзмөк гана\" деп аталган режимди тандап өчүрүп койсоңуз болот."</string>
+    <string name="setup_wizard_services_location_wifi_scan">Wi‑Fi өчүк болсо да, колдонмолор жана кызматтарга Wi‑Fi тармактарын издөөгө уруксат берүү менен, <b>Жайгашкан жерди аныктоо кызматын жакшыртууга кол кабыш кылыңыз</b>.</string>
+    <string name="setup_wizard_services_location_footnote">"Google'дун жайгаштыруу кызматы, орунду тагыраак аныктоо максатында Wi‑Fi жан башка сигналдарды колдонот жана GPS'ке караганда батарейди азыраак сарптайт. Кээ бир берилиштер сиздин түзмөгүңүзгө сакталат. Берилиштер, иштеп турган колдонмо жок болсо деле чогултула бериши мүмкүн."</string>
+    <string name="setup_wizard_services_play">Мага Google Play-деги жаңылыктарды жана сунуштарды <b>кабарлап тур</b>.</string>
+    <string name="setup_wizard_services_usage_reporting">"Мүчүлүштүктөрдү аныктоо жана колдонуу дайындарын автоматтык түрдө Google'га жөнөтүп, "<b>"Android'де иштөө тажрыйбаңызды өркүндөтүүгө кол кабыш кылыңыз"</b>. Бул маалымат инсандыгыңызды аныктоо үчүн колдонулбайт, ал батареянын кубатын үнөмдөө, колдонмонун ишинин майнаптуулугун арттыруу жана жаңы Google мүмкүнчүлүктөрү жаатында иштеген жумушчу топко тапшырылат. <annotation id="usage_reporting_details">Көбүрөөк билүү</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Ушуну менен, түзмөгүңүз жана анын колдонулушу, мисалы, батареянын кубатынын деңгээли, колдонмолордун канчалык көп пайдаланыла тургандыгы, тармактык туташууларыңыздын (уюктук, Wi-Fi жана Bluetooth сыяктуу) сапаты, ошондой эле каталар жөнүндө кабарларды камтыган жалпы маалымат берилет. Мындай маалымат Google өнүмдөрүн жана кызматтарын өркүндөтүү максатында колдонулуп, Google Каттоо эсебиңизге эч кандай тиешеси жок. Топтолгон маалыматтын айрымдары Android иштеп чыгуучулары сыяктуу өнөктөштөргө өз колдонмолорун жана өнүмдөрүн жакшыртууга жардам берет.
+
+Бул мүмкүнчүлүктү каалаган учурда иштетип же өчүрүп салсаңыз болот. Ушуну менен, түзмөктүн тутум жаңыртуулары жана коопсуздугу сыяктуу негизги кызматтарды алуу үчүн талап кылынган маалыматты жөнөтүү мүмкүнчүлүгүнө эч кандай таасир келтирилбейт."</string>
+    <string name="setup_wizard_services_agreement">"Бул телефон Google'дан, операторуңуздан жана телефонуңуздун өндүрүүчүсүнөн жаңыртуулар менен колдонмолорду алып, орнотушу мүмкүн. Эгер улантсаңыз, айрым колдонмолор жүктөлүп алынып, орнотулат жана аларды кийинчерээк каалаган убакта алып салсаңыз болот."</string>
+</resources>

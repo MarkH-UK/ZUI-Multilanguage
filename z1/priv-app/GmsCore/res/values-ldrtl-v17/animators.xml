@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="animator" name="suw_slide_back_in">false</item>
+    <item type="animator" name="suw_slide_back_out">false</item>
+    <item type="animator" name="suw_slide_next_in">false</item>
+    <item type="animator" name="suw_slide_next_out">false</item>
+</resources>

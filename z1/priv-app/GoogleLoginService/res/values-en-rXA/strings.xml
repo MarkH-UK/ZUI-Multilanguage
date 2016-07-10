@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="store_picture_title">[ŠåVé îḿåĝé one two]</string>
+    <string name="store_picture_message">[Åļļöŵ Åð ţö šţöŕé îḿåĝé îñ Þîçţûŕé ĝåļļéŕý¿ one two three four five]</string>
+    <string name="accept">[Åççéþţ one two]</string>
+    <string name="decline">[Ðéçļîñé one two]</string>
+    <string name="create_calendar_title">[Çŕéåţé çåļéñðåŕ éVéñţ one two three]</string>
+    <string name="create_calendar_message">[Åļļöŵ Åð ţö çŕéåţé å çåļéñðåŕ éVéñţ¿ one two three four five]</string>
+    <string name="common_google_play_services_notification_ticker">[Ĝööĝļé Þļåý šéŕVîçéš éŕŕöŕ one two three four]</string>
+    <string name="common_google_play_services_notification_needs_installation_title">[Åñ åþþļîçåţîöñ ŕéQûîŕéš îñšţåļļåţîöñ öƒ Ĝööĝļé Þļåý šéŕVîçéš. one two three four five six seven]</string>
+    <string name="common_google_play_services_notification_needs_update_title">[Åñ åþþļîçåţîöñ ŕéQûîŕéš åñ ûþðåţé ƒöŕ Ĝööĝļé Þļåý šéŕVîçéš. one two three four five six seven]</string>
+    <string name="common_android_wear_notification_needs_update_text">[Åñ åþþļîçåţîöñ ŕéQûîŕéš åñ ûþðåţé ţö ţĥé Åñðŕöîð Ŵéåŕ åþþ. one two three four five six seven]</string>
+    <string name="common_google_play_services_needs_enabling_title">[Åñ åþþļîçåţîöñ ŕéQûîŕéš Ĝööĝļé Þļåý šéŕVîçéš ţö ɓé éñåɓļéð. one two three four five six seven]</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">[ŔéQûéšţéð ɓý %1$s one two]</string>
+    <string name="common_google_play_services_install_title">[Ĝéţ Ĝööĝļé Þļåý šéŕVîçéš one two three]</string>
+    <string name="common_google_play_services_install_text_phone">"[Ţĥîš åþþ ŵöñ'ţ ŕûñ ŵîţĥöûţ Ĝööĝļé Þļåý šéŕVîçéš, ŵĥîçĥ åŕé ḿîššîñĝ ƒŕöḿ ýöûŕ þĥöñé. one two three four five six seven eight nine]"</string>
+    <string name="common_google_play_services_install_text_tablet">"[Ţĥîš åþþ ŵöñ'ţ ŕûñ ŵîţĥöûţ Ĝööĝļé Þļåý šéŕVîçéš, ŵĥîçĥ åŕé ḿîššîñĝ ƒŕöḿ ýöûŕ ţåɓļéţ. one two three four five six seven eight nine]"</string>
+    <string name="common_google_play_services_install_button">[Ĝéţ Ĝööĝļé Þļåý šéŕVîçéš one two three]</string>
+    <string name="common_google_play_services_enable_title">[Éñåɓļé Ĝööĝļé Þļåý šéŕVîçéš one two three four]</string>
+    <string name="common_google_play_services_enable_text">"[Ţĥîš åþþ ŵöñ'ţ ŵöŕķ ûñļéšš ýöû éñåɓļé Ĝööĝļé Þļåý šéŕVîçéš. one two three four five six seven]"</string>
+    <string name="common_google_play_services_enable_button">[Éñåɓļé Ĝööĝļé Þļåý šéŕVîçéš one two three four]</string>
+    <string name="common_google_play_services_update_title">[Ûþðåţé Ĝööĝļé Þļåý šéŕVîçéš one two three four]</string>
+    <string name="common_android_wear_update_title">[Ûþðåţé Åñðŕöîð Ŵéåŕ one two three]</string>
+    <string name="common_google_play_services_update_text">"[Ţĥîš åþþ ŵöñ'ţ ŕûñ ûñļéšš ýöû ûþðåţé Ĝööĝļé Þļåý šéŕVîçéš. one two three four five six seven]"</string>
+    <string name="common_android_wear_update_text">"[Ţĥîš åþþ ŵöñ'ţ ŕûñ ûñļéšš ýöû ûþðåţé ţĥé Åñðŕöîð Ŵéåŕ åþþ. one two three four five six seven]"</string>
+    <string name="common_google_play_services_network_error_title">[Ñéţŵöŕķ Éŕŕöŕ one two]</string>
+    <string name="common_google_play_services_network_error_text">[Å ðåţå çöññéçţîöñ îš ŕéQûîŕéð ţö çöññéçţ ţö Ĝööĝļé Þļåý šéŕVîçéš. one two three four five six seven]</string>
+    <string name="common_google_play_services_invalid_account_title">[ÎñVåļîð Åççöûñţ one two three]</string>
+    <string name="common_google_play_services_invalid_account_text">[Ţĥé šþéçîƒîéð åççöûñţ ðöéš ñöţ éхîšţ öñ ţĥîš ðéVîçé. Þļéåšé çĥööšé å ðîƒƒéŕéñţ åççöûñţ. one two three four five six seven eight nine]</string>
+    <string name="common_google_play_services_unknown_issue">[Ûñķñöŵñ îššûé ŵîţĥ Ĝööĝļé Þļåý šéŕVîçéš. one two three four five]</string>
+    <string name="common_google_play_services_unsupported_title">[Ĝööĝļé Þļåý šéŕVîçéš one two three]</string>
+    <string name="common_google_play_services_unsupported_text">[Ĝööĝļé Þļåý šéŕVîçéš, ŵĥîçĥ šöḿé öƒ ýöûŕ åþþļîçåţîöñš ŕéļý öñ, îš ñöţ šûþþöŕţéð ɓý ýöûŕ ðéVîçé. Þļéåšé çöñţåçţ ţĥé ḿåñûƒåçţûŕéŕ ƒöŕ åššîšţåñçé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five]</string>
+    <string name="common_google_play_services_update_button">[Ûþðåţé one two]</string>
+    <string name="common_signin_button_text">[Šîĝñ îñ one two]</string>
+    <string name="common_signin_button_text_long">[Šîĝñ îñ ŵîţĥ Ĝööĝļé one two three]</string>
+    <string name="common_open_on_phone">[Öþéñ öñ þĥöñé one two]</string>
+    <string name="wallet_buy_button_place_holder">[βûý ŵîţĥ Ĝööĝļé one two three]</string>
+    <string name="setup_wizard_next_button_label">[Ñéхţ one]</string>
+    <string name="setup_wizard_back_button_label">[βåçķ one]</string>
+    <string name="default_device_name">[Åñðŕöîð one two]</string>
+    <string name="welcome_message">[Ŵéļçöḿé one two]</string>
+    <string name="welcome_secondary_user_added_text">[%s ĥåš åððéð ýöû ţö ţĥîš þĥöñé. one two three four]</string>
+    <string name="welcome_secondary_user_added_no_owner_name_text">[Ýöû ĥåVé ɓééñ åððéð ţö ţĥîš þĥöñé. one two three four]</string>
+    <string name="welcome_secondary_user_info_text">"[Ŵĥéñ ýöû'ŕé ƒîñîšĥéð šéţţîñĝ ûþ, ýöû çåñ ŵöŕķ ŵîţĥ åþþš öŕ îñšţåļļ ñéŵ öñéš åš ûšûåļ.
+
+"<b>Îḿþöŕţåñţ:</b>"
+
+"<li><ul>"Ţĥé þĥöñé'š öŵñéŕ çåñ ûñîñšţåļļ ýöûŕ åþþš öŕ ŕéḿöVé ýöûŕ šþåçé çöḿþļéţéļý."</ul></li>"
+
+"<li><ul>Åñý öţĥéŕ ûšéŕ çåñ åççéþţ ûþðåţéð åþþ þéŕḿîššîöñš öñ ýöûŕ ɓéĥåļƒ.</ul></li>"
+
+"<li><ul>Åš ŵîţĥ åñý çöḿþûţéŕ, ýöû šĥöûļð öñļý šĥåŕé ţĥîš þĥöñé ŵîţĥ þéöþļé ýöû ţŕûšţ.</ul></li> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="welcome_limited_user_info_text">"[ 
+"<b>Îḿþöŕţåñţ:</b>"
+
+ "<li><ul>"Ţĥé þĥöñé'š öŵñéŕ çåñ îñšţåļļ åñð ûñîñšţåļļ åþþš, šéţ ļîḿîţš, öŕ ŕéḿöVé ýöûŕ šþåçé çöḿþļéţéļý."</ul></li>"
+
+ "<li><ul>Åñý öţĥéŕ ûšéŕ çåñ åççéþţ ûþðåţéð åþþ þéŕḿîššîöñš öñ ýöûŕ ɓéĥåļƒ.</ul></li>"
+
+ "<li><ul>Åš ŵîţĥ åñý çöḿþûţéŕ, ýöû šĥöûļð öñļý šĥåŕé ţĥîš þĥöñé ŵîţĥ þéöþļé ýöû ţŕûšţ. </ul></li>"  one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four]"</string>
+    <string name="welcome_text_edu">[Šéţ ûþ ýöûŕ ðéVîçé ƒöŕ ûšé ŵîţĥ Ĝööĝļé Þļåý ƒöŕ Éðûçåţîöñ one two three four five six seven]</string>
+    <string name="welcome_secondary_user_text_edu">"[Ļéţ'š ƒîñîšĥ šéţţîñĝ ûþ ýöûŕ åççöûñţ öñ ţĥîš ţåɓļéţ. one two three four five six]"</string>
+    <string name="welcome_secondary_user_additional_info_header_edu">[Îḿþöŕţåñţ one two]</string>
+    <string name="welcome_secondary_user_additional_info_edu">"[Ýöû'ŕé šĥåŕîñĝ ţĥîš ţåɓļéţ ŵîţĥ öţĥéŕ šţûðéñţš. Öñçé ýöû'Vé šéţ ûþ ýöûŕ åççöûñţ, åðð å ÞÎÑ ţö þŕöţéçţ ýöûŕ ŵöŕķ. one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="finish_button_label">[Fîñîšĥ one two]</string>
+    <string name="skip_button_label">[Šķîþ one]</string>
+    <string name="skip_anyway_button_label">[Šķîþ åñýŵåý one two]</string>
+    <string name="dont_skip_button_label">"[Ðöñ'ţ šķîþ one two]"</string>
+    <string name="down_button_label">[Ḿöŕé one]</string>
+    <string name="cancel_button_label">[Çåñçéļ one two]</string>
+    <string name="restart_button_label">[Ŕéšţåŕţ one two]</string>
+    <string name="try_again_button_label">[Ţŕý åĝåîñ one two]</string>
+    <string name="close_button_label">[Çļöšé one]</string>
+    <string name="google_legal_title">[Ĝööĝļé ļéĝåļ one two]</string>
+    <string name="url_load_unsuccessful_message">"[ Ýöûŕ Åñðŕöîð ðéVîçé îšñ'ţ çöññéçţéð ţö å ðåţå šéŕVîçé. Ţö Vîéŵ ţĥîš îñƒöŕḿåţîöñ ñöŵ, Vîšîţ %s ŵîţĥ å ŵéɓ ɓŕöŵšéŕ. one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="start">[Šţåŕţ one]</string>
+    <string name="wait_msg">[Ĵûšţ å šéç… one two]</string>
+    <string name="skip_toast">[Šéţûþ Ŵîžåŕð šķîþþéð one two three]</string>
+    <string name="terminate_toast">"[Šéţûþ Ŵîžåŕð ţéŕḿîñåţéð
+ÐéVîçé ñöţ þŕöVîšîöñéð one two three four five]"</string>
+    <string name="activation_title">[ÅçţîVåţîñĝ çéļļûļåŕ šéŕVîçé… one two three four]</string>
+    <string name="activation_title_searching">[Šéåŕçĥîñĝ ƒöŕ šéŕVîçé… one two three]</string>
+    <string name="activation_title_activating">[ÅçţîVåţîñĝ çéļļûļåŕ šéŕVîçé… one two three four]</string>
+    <string name="activation_default_network_name">[ḿöɓîļé ñéţŵöŕķ one two three]</string>
+    <string name="activation_network_bars_template">[Šîĝñåļ šţŕéñĝţĥ %d ɓåŕš one two three]</string>
+    <string name="activation_text">[Ţöûçĥ <b>ÅçţîVåţé</b>" ţö åçţîVåţé ýöûŕ ḿöɓîļé šéŕVîçé ñöŵ. (Îţ ḿåý ţåķé å çöûþļé öƒ ḿîñûţéš.)
+
+Öŕ ţöûçĥ "<b>Šķîþ</b> ţö šéţ ûþ ýöûŕ þĥöñé ûšîñĝ å Ŵî-Fî çöññéçţîöñ îñšţéåð. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven]</string>
+    <string name="activation_text_standalone">[Ţöûçĥ <b>ÅçţîVåţé</b> ţö åçţîVåţé ýöûŕ ḿöɓîļé šéŕVîçé ñöŵ. (Îţ ḿåý ţåķé å çöûþļé öƒ ḿîñûţéš.) one two three four five six seven eight nine]</string>
+    <string name="activation_skip_confirmation">"[Ûñţîļ ýöû åçţîVåţé ýöûŕ ḿöɓîļé ðåţå šéŕVîçé, ḿöšţ öƒ ýöûŕ þĥöñé'š ƒéåţûŕéš ŵöñ'ţ ŵöŕķ.
+
+Îƒ ýöû þŕéƒéŕ ţö šķîþ ñöŵ, ýöû çåñ åçţîVåţé ļåţéŕ îñ Šýšţéḿ šéţţîñĝš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven]"</string>
+    <string name="activation_continue_skip_label">[Çöñţîñûé one two]</string>
+    <string name="activation_button_label">[ÅçţîVåţé one two]</string>
+    <string name="activation_progress_before_connect">[Ţöûçĥ <b>Šķîþ</b> ţö çöḿþļéţé šéţûþ ûšîñĝ å Ŵî-Fî çöññéçţîöñ îñšţéåð. one two three four five six seven]</string>
+    <string name="activation_progress">[ÅçţîVåţîöñ çåñ ţåķé å ƒéŵ ḿîñûţéš. Ţöûçĥ <b>Šķîþ</b> ţö çöḿþļéţé šéţûþ ûšîñĝ å Ŵî-Fî çöññéçţîöñ îñšţéåð. one two three four five six seven eight nine ten eleven]</string>
+    <string name="activation_progress_gen">[Ţĥîš çåñ ţåķé ûþ ţö 5 ḿîñûţéš one two three four]</string>
+    <string name="activation_progress_mobile_data">"[Ţĥé þĥöñé îš åçţîVåţîñĝ ýöûŕ ḿöɓîļé ðåţå šéŕVîçé.
+
+Ţĥîš çåñ ţåķé ûþ ţö 5 ḿîñûţéš. one two three four five six seven eight nine]"</string>
+    <string name="activation_progress_before_connect_standalone">[ÅçţîVåţîöñ çåñ ţåķé å ƒéŵ ḿîñûţéš. one two three four]</string>
+    <string name="activation_progress_standalone">[ÅçţîVåţîöñ çåñ ţåķé å ƒéŵ ḿîñûţéš. one two three four]</string>
+    <string name="activation_success_title">[ÅçţîVåţîöñ çöḿþļéţé one two three]</string>
+    <string name="activation_success_text">[Ţöûçĥ <b>Ñéхţ</b> ţö çöñţîñûé ŵîţĥ šéţûþ. one two three four]</string>
+    <string name="activation_success_text_gen">[Ýöûŕ ðéVîçé ñééðš ţö ŕéšţåŕţ ţö çöḿþļéţé åçţîVåţîöñ. one two three four five six]</string>
+    <string name="activation_success_text_standalone">[Ţöûçĥ <b>Ñéхţ</b>" ţö çöñţîñûé.
+
+ÅçţîVåţîöñ šûççéššƒûļ, ɓûţ îţ ḿåý ţåķé å ƒéŵ ḿîñûţéš ƒöŕ ţĥé ḿöɓîļé ðåţå ñéţŵöŕķ ţö ɓéçöḿé åVåîļåɓļé. one two three four five six seven eight nine ten eleven twelve thirteen]"</string>
+    <string name="activation_failure_title">"[Çöûļðñ'ţ åçţîVåţé one two three]"</string>
+    <string name="activation_failure_text">"[Ţŕý åĝåîñ îñ å ḿîñûţé, öŕ ŕéšţåŕţ ýöûŕ þĥöñé îƒ ţĥîš çöñţîñûéš ţö ĥåþþéñ.
+
+Îƒ ýöû þŕéƒéŕ ţö šķîþ ñöŵ, ɓé šûŕé ţö åçţîVåţé ļåţéŕ îñ Šýšţéḿ šéţţîñĝš. Ûñţîļ ýöû åçţîVåţé, ýöûŕ þĥöñé ŵöñ'ţ ĥåVé å çéļļûļåŕ ðåţå çöññéçţîöñ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen]"</string>
+    <string name="activation_failure_text_gen">"[Ýöûŕ ḿöɓîļé ðåţå šéŕVîçé çöûļðñ'ţ ɓé åçţîVåţéð. Ţĥîš ḿåý ɓé å ţéḿþöŕåŕý þŕöɓļéḿ, åñð ḿåý ɓé šöļVéð ɓý ŕéšţåŕţîñĝ ţĥé þĥöñé. one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="activation_failure_text_standalone">"[Çöûļðñ'ţ åçţîVåţé ḿöɓîļé ðåţå šéŕVîçé. Ţö ţŕý åçţîVåţîöñ åĝåîñ ţöûçĥ "<b>Ţŕý åĝåîñ</b>".
+
+Ýöû çåñ åçţîVåţé ýöûŕ ḿöɓîļé ðåţå šéŕVîçé ļåţéŕ îñ "<b>Šýšţéḿ šéţţîñĝš > Ŵîŕéļéšš &amp; ñéţŵöŕķš > Ḿöɓîļé ñéţŵöŕķš</b> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="activation_cancel_title">[Çåñçéļ ŕéQûéšţéð one two three]</string>
+    <string name="activation_cancel_text">[Çåñçéļîñĝ åçţîVåţîöñ…ţĥîš ḿîĝĥţ ţåķé 5-10 šéçöñðš. one two three four five six]</string>
+    <string name="activation_canceled_title">[ÅçţîVåţîöñ çåñçéļéð one two three]</string>
+    <string name="activation_canceled_text">"[Ðö ýöû ŵåñţ ţö çåñçéļ åçţîVåţîöñ¿ Ýöû ñééð ţö åçţîVåţé ýöûŕ ḿöɓîļé ñéţŵöŕķ šéŕVîçé ɓéƒöŕé ýöû çåñ ûšé îţ ţö çöññéçţ ţö ţĥé Îñţéŕñéţ.
+
+Ţöûçĥ "<b>Ñéхţ</b>" ţö çöḿþļéţé šéţûþ ûšîñĝ å Ŵî-Fî çöññéçţîöñ.
+
+Ýöû çåñ åçţîVåţé ýöûŕ ḿöɓîļé ñéţŵöŕķ šéŕVîçé ļåţéŕ îñ "<b>Šýšţéḿ šéţţîñĝš > Ŵîŕéļéšš &amp; ñéţŵöŕķš > Ḿöɓîļé ñéţŵöŕķš</b>. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten]</string>
+    <string name="activation_canceled_text_standalone">"[ÅçţîVåţîöñ çåñçéļéð.
+
+Ýöû çåñ åçţîVåţé ýöûŕ ḿöɓîļé ðåţå šéŕVîçé ļåţéŕ îñ "<b>Šýšţéḿ šéţţîñĝš > Ŵîŕéļéšš &amp; ñéţŵöŕķš > Çéļļûļåŕ ñéţŵöŕķš</b>. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two]</string>
+    <string name="activation_spc_failure_text">[Ţĥéŕé ŵåš åñ éŕŕöŕ ţĥåţ ŕéQûîŕéš šĥûţţîñĝ ðöŵñ åñð ŕéšţåŕţîñĝ ýöûŕ þĥöñé ɓéƒöŕé ýöû çåñ ḿåķé åñöţĥéŕ åçţîVåţîöñ åţţéḿþţ. Ýöûŕ þĥöñé ŵîļļ šĥûţ ðöŵñ åûţöḿåţîçåļļý îñ 60 šéçöñðš, öŕ ýöû çåñ ţöûçĥ <b>Šĥûţ ðöŵñ ñöŵ</b>".
+
+Öñçé ýöûŕ þĥöñé îš šĥûţ ðöŵñ, þŕéšš ţĥé Þöŵéŕ ɓûţţöñ ţö ŕéšţåŕţ îţ. ÅçţîVåţîöñ ŵîļļ šţåŕţ ûþ åûţöḿåţîçåļļý. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen]"</string>
+    <string name="shutdown_button_label">[Šĥûţ ðöŵñ ñöŵ one two]</string>
+    <string name="reboot_button_label">[Ŕéšţåŕţ one two]</string>
+    <string name="activation_skip_text">"[Îƒ ýöû šķîþ åçţîVåţîöñ, ɓé šûŕé ţö åçţîVåţé ļåţéŕ îñ Šéţţîñĝš. Ûñţîļ ýöû åçţîVåţé, ýöûŕ þĥöñé ŵöñ'ţ ĥåVé å çéļļûļåŕ ðåţå çöññéçţîöñ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three]"</string>
+    <string name="notification_update_title">[Ýöûŕ åççöûñţ ñééðš ţö ɓé ûþðåţéð one two three four]</string>
+    <string name="notification_update_message">[Ţöûçĥ ĥéŕé ţö ŕé-ŕûñ Šéţûþ Ŵîžåŕð. one two three four]</string>
+    <string name="account_exists_title">[Åççöûñţ åððéð one two]</string>
+    <string name="account_exists_text">[Ýöûŕ ƒîŕšţ åççöûñţ îš ŕéåðý ƒöŕ ûšé. Ýöû çåñ åðð åñð ŕéḿöVé åççöûñţš ļåţéŕ îñ Šéţţîñĝš. one two three four five six seven eight nine]</string>
+    <string name="date_time_setup_title">[Ðåţé &amp; ţîḿé one two]</string>
+    <string name="date_time_message">[Šéţ ýöûŕ ţîḿé žöñé åñð åðĵûšţ çûŕŕéñţ ðåţé åñð ţîḿé îƒ ñééðéð. one two three four five six seven]</string>
+    <string name="date_time_current_date">[Çûŕŕéñţ ðåţé one two]</string>
+    <string name="date_time_current_time">[Çûŕŕéñţ ţîḿé one two]</string>
+    <string name="location_sharing_title">[Ĝööĝļé &amp; ļöçåţîöñ one two three]</string>
+    <string name="tos_title">[Ĝööĝļé šéŕVîçéš one two three]</string>
+    <string name="tos_agreement_text">[Ţĥîš þĥöñé ḿåý åļšö ŕéçéîVé åñð îñšţåļļ ûþðåţéš ƒŕöḿ Ĝööĝļé. βý çöñţîñûîñĝ, ýöû åĝŕéé ţö ţĥé <annotation id="tos">Ĝööĝļé Ţéŕḿš öƒ ŠéŕVîçé</annotation> åñð <annotation id="google_privacy">ÞŕîVåçý Þöļîçý</annotation>. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+    <string name="tos_agreement_text_germany">[Ýöû ƒûŕţĥéŕ åĝŕéé ţĥåţ ýöûŕ ðéVîçé ḿåý ŕéçéîVé åñð îñšţåļļ ûþðåţéš ƒŕöḿ Ĝööĝļé. Ŵĥéñ ýöû ûšé ţĥîš ðéVîçé ŵé åɓîðé ɓý öûŕ <annotation id="google_privacy">ÞŕîVåçý Þöļîçý</annotation> åñð <annotation id="tos">åððîţîöñåļ ţéŕḿš</annotation> åþþļý. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="setup_complete_title">[Šéţûþ çöḿþļéţé one two three]</string>
+    <string name="setup_complete_message">[Ýöûŕ þĥöñé îš šéţ ûþ åñð ŕéåðý ţö ûšé. one two three four five]</string>
+    <string name="backup_assistant_prompt">[Šţåŕţ νéŕîžöñ βåçķûþ Åššîšţåñţ ţö ŕéšţöŕé çöñţåçţš ƒŕöḿ åñöţĥéŕ νéŕîžöñ þĥöñé. one two three four five six seven eight nine]</string>
+    <string name="sim_missing_title">[Îñšéŕţ ŠÎḾ çåŕð one two three]</string>
+    <string name="multi_sim_dialog_title">[Ḿûļţîþļé ŠÎḾš ƒöûñð one two three]</string>
+    <string name="multi_sim_dialog_message">[Çĥööšé ţĥé ŠÎḾ ýöû þŕéƒéŕ ƒöŕ çéļļûļåŕ ðåţå. one two three four five]</string>
+    <string name="walled_garden_title">[Çöññéçţîñĝ ţö ţĥé Îñţéŕñéţ… one two three four]</string>
+    <string name="walled_garden_check_text">[Ţĥîš çåñ ţåķé ûþ ţö å ḿîñûţé one two three four]</string>
+    <string name="walled_garden_skipped_message">"[ŴÅŔÑÎÑĜ: Ûñţîļ ýöû ĥåVé åñ îñţéŕñéţ çöññéçţîöñ, ţĥé þĥöñé ŵöñ'ţ ɓé åɓļé ţö Véŕîƒý ţĥåţ ýöûŕ šöƒţŵåŕé îš ûþ ţö ðåţé. one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="walled_garden_connection_failed">"[Çöûļðñ'ţ çöññéçţ ţö ţĥé Îñţéŕñéţ one two three four]"</string>
+    <string name="ota_update_title">[Ûþðåţé þĥöñé one two]</string>
+    <string name="ota_info">[Ýöûŕ þĥöñé ñééðš ţö ðöŵñļöåð åñ ûþðåţé åñð ŕéšţåŕţ. one two three four five six]</string>
+    <string name="ota_size">[Šîžé: %s one two]</string>
+    <string name="ota_agreement_text">[βý çöñţîñûîñĝ åñð ŕéçéîVîñĝ ţĥîš šöƒţŵåŕé ûþðåţé, ýöû åĝŕéé ţö ţĥé <annotation id="tos">Ĝööĝļé Ţéŕḿš öƒ ŠéŕVîçé</annotation> åñð <annotation id="google_privacy">ÞŕîVåçý Þöļîçý</annotation>".  one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="early_update_title">[Šöƒţŵåŕé ûþðåţé one two three]</string>
+    <string name="early_update_text">[Çĥéçķîñĝ ƒöŕ ûþðåţéš one two three]</string>
+    <string name="early_update_downloading_text">[Ðöŵñļöåðîñĝ %s one two]</string>
+    <string name="early_update_installing_text">[Îñšţåļļîñĝ %s one two]</string>
+    <string name="warm_sim_check_msg">[Ŵåîţîñĝ ƒöŕ ñéţŵöŕķ… one two three]</string>
+    <string name="sign_in_agreement">[βý šîĝñîñĝ îñ, ýöû åŕé åĝŕééîñĝ ţö ţĥé Ĝööĝļé <annotation id="tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation>, <annotation id="google_privacy">ÞŕîVåçý Þöļîçý</annotation>, åñð <annotation id="play_tos">Ĝööĝļé Þļåý Ţéŕḿš öƒ ŠéŕVîçé</annotation>".  one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]"</string>
+    <string name="android_privacy_policy_title">[Åððîţîöñåļ ÞŕîVåçý Þöļîçý one two three]</string>
+    <string name="google_terms_of_service_title">[Ĝööĝļé Ţéŕḿš öƒ ŠéŕVîçé one two three]</string>
+    <string name="google_privacy_policy_title">[Ĝööĝļé ÞŕîVåçý Þöļîçý one two three]</string>
+    <string name="google_plus_privacy_policy_title">[Ĝööĝļé Þļûš ÞŕîVåçý Þöļîçý one two three four]</string>
+    <string name="google_play_tos_title">[Ĝööĝļé Þļåý Ţéŕḿš öƒ ŠéŕVîçé one two three four]</string>
+    <string name="chrome_tos_title">[Çĥŕöḿé Ţéŕḿš öƒ ŠéŕVîçé one two three]</string>
+    <string name="chrome_privacy_title">[Çĥŕöḿé ÞŕîVåçý Ñöţîçé one two three]</string>
+    <string name="url_load_unsuccessful_message_wifi_only">"[ Ýöûŕ Åñðŕöîð ðéVîçé îšñ'ţ çöññéçţéð ţö å Ŵî-Fî ñéţŵöŕķ. Ţö Vîéŵ ţĥîš îñƒöŕḿåţîöñ ñöŵ, Vîšîţ %s ŵîţĥ å ŵéɓ ɓŕöŵšéŕ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twent]"</string>
+    <string name="continue_for_a11y">[Çöñţîñûé ţöûçĥîñĝ ţĥé šçŕééñ ûñţîļ ýöû ĥéåŕ å ɓééþ ţö éñåɓļé Åççéššîɓîļîţý ḿöðé. one two three four five six seven eight nine]</string>
+    <string name="canceled_a11y">[Çåñçéļéð Åççéššîɓîļîţý ḿöðé. one two three four]</string>
+    <string name="enabled_a11y">[Åççéššîɓîļîţý ḿöðé éñåɓļéð. one two three four]</string>
+    <string name="emergency_dial">[Éḿéŕĝéñçý çåļļ one two three]</string>
+    <string name="services_activity_title">[Ĝööĝļé šéŕVîçéš one two three]</string>
+    <string name="services_backup_heading">[βåçķûþ one two]</string>
+    <string name="services_location_heading">[Ļöçåţîöñ one two]</string>
+    <string name="services_security_heading">[Šéçûŕîţý one two]</string>
+    <string name="services_personalization_heading">[Þéŕšöñåļîžåţîöñ one two three]</string>
+    <string name="services_communication_heading">[Çöḿḿûñîçåţîöñ one two]</string>
+    <string name="security_verify_apps_summary">[ Ļéţ Ĝööĝļé çĥéçķ åļļ îñšţåļļéð åþþš ƒöŕ þöţéñţîåļļý ĥåŕḿƒûļ ɓéĥåVîöŕ ţĥåţ ḿîĝĥţ åƒƒéçţ ţĥé šéçûŕîţý öƒ ýöûŕ ðéVîçé öŕ ðåţå. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+    <string name="restore_title">[Ŕéšţöŕîñĝ… one two]</string>
+    <string name="restore_wallpaper_title">[Ŕéšţöŕîñĝ ŵåļļþåþéŕ… one two three]</string>
+    <string name="restore_device_settings_title">[Ŕéšţöŕîñĝ ðéVîçé šéţţîñĝš… one two three]</string>
+    <string name="restore_launcher_title">[Ŕéšţöŕîñĝ ļåûñçĥéŕ… one two three]</string>
+    <string name="restore_failed_message">"[Çöûļðñ'ţ ŕéšţöŕé ƒŕöḿ ɓåçķûþ one two three four]"</string>
+    <string name="name_title">[Ýöûŕ ñåḿé one two]</string>
+    <string name="name_text">[Ýöûŕ ñåḿé îš ûšéð ţö þéŕšöñåļîžé ýöûŕ þĥöñé åñð Ĝööĝļé šéŕVîçéš. one two three four five six seven]</string>
+    <string name="first_name">[Fîŕšţ one]</string>
+    <string name="last_name">[Ļåšţ one]</string>
+    <string name="cant_be_blank">"[Fîéļð çåñ'ţ ɓé ɓļåñķ. one two three]"</string>
+    <string name="lock_pin_confirm_your_pin_header">[Çöñƒîŕḿ ýöûŕ ÞÎÑ one two three]</string>
+    <string name="lock_pin_choose_your_pin_header">[Çĥööšé ýöûŕ ÞÎÑ one two three]</string>
+    <string name="lock_pin_ok_label">[ÖĶ one]</string>
+    <string name="lock_pin_cancel_label">[Çåñçéļ one two]</string>
+    <string name="lock_pin_press_continue">[Ţöûçĥ Çöñţîñûé ŵĥéñ ðöñé one two three]</string>
+    <string name="lock_pin_too_short">[ÞÎÑ ḿûšţ ɓé åţ ļéåšţ %d ðîĝîţš one two three four]</string>
+    <string name="lock_pin_too_long">[ÞÎÑ ḿûšţ ɓé ƒéŵéŕ ţĥåñ %d ðîĝîţš. one two three four]</string>
+    <string name="lock_pin_illegal_character">[Þåššŵöŕð çöñţåîñš åñ îļļéĝåļ çĥåŕåçţéŕ. one two three four five]</string>
+    <string name="lock_pin_contains_non_digits">[ÞÎÑ ḿûšţ çöñţåîñ öñļý ðîĝîţš 0-9. one two three four]</string>
+    <string name="lock_pin_confirm_pins_dont_match">"[ÞÎÑš ðöñ'ţ ḿåţçĥ one two three]"</string>
+    <string name="lock_pin_continue_label">[Çöñţîñûé one two]</string>
+    <string name="sharedUserLabel">[Ĝööĝļé ŠéŕVîçéš one two three]</string>
+    <string name="app_label">[Ĝööĝļé Åççöûñţ Ḿåñåĝéŕ one two three]</string>
+    <string name="gls_label">[Ĝööĝļé one two]</string>
+    <string name="sign_in_button_label">[Šîĝñ îñ one two]</string>
+    <string name="create_button_label">[Ĝéţ åñ åççöûñţ one two three]</string>
+    <string name="not_now_button_label">[Ñöţ ñöŵ one two]</string>
+    <string name="new_button_label">[Ñéŵ one]</string>
+    <string name="existing_button_label">[Éхîšţîñĝ one two]</string>
+    <string name="done">[ÖĶ one]</string>
+    <string name="edit_text_help">[Ţöûçĥ åñý ţéхţ ɓöх ţö šţåŕţ ţýþîñĝ one two three four]</string>
+    <string name="add_a_google_account">[Åðð å Ĝööĝļé Åççöûñţ one two three]</string>
+    <string name="captcha_title">[Ñééð ţö Éñţéŕ ÇÅÞŢÇĤÅ one two three]</string>
+    <string name="show_error_title">[Éŕŕöŕ one]</string>
+    <string name="server_error">[Ţĥéŕé ŵåš å þŕöɓļéḿ çöḿḿûñîçåţîñĝ ŵîţĥ Ĝööĝļé šéŕVéŕš. one two three four five six seven]</string>
+    <string name="server_error_help">[Ţŕý åĝåîñ ļåţéŕ. one two three]</string>
+    <string name="network_unreliable">"[Çåñ'ţ éšţåɓļîšĥ å ŕéļîåɓļé çöññéçţîöñ ţö ţĥé šéŕVéŕ. one two three four five six]"</string>
+    <string name="network_unreliable_help">[Ţĥîš çöûļð ɓé å ţéḿþöŕåŕý þŕöɓļéḿ öŕ ýöûŕ Åñðŕöîð ðéVîçé ḿåý ñöţ ɓé þŕöVîšîöñéð ƒöŕ ðåţå šéŕVîçéš. Îƒ îţ çöñţîñûéš, çåļļ Çûšţöḿéŕ Çåŕé. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+    <string name="network_unreliable_help_wifi_only">[Ţĥîš çöûļð ɓé å ţéḿþöŕåŕý þŕöɓļéḿ. Ţŕý åĝåîñ öŕ çöññéçţ ţö åñöţĥéŕ Ŵî-Fî ñéţŵöŕķ. one two three four five six seven eight nine]</string>
+    <string name="invalid_login_character">[ÎñVåļîð çĥåŕåçţéŕ. Öñļý 0-9, å-ž, Å-Ž, åñð þéŕîöðš åŕé åļļöŵéð. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+    <string name="invalid_password_character">[ÎñVåļîð þåššŵöŕð çĥåŕåçţéŕ. one two three four]</string>
+    <string name="calendar">[Ĝööĝļé Çåļéñðåŕ one two three]</string>
+    <string name="talk">[Ĝööĝļé Ţåļķ one two]</string>
+    <string name="email">[Ĝööĝļé Ḿåîļ one two]</string>
+    <string name="field_cant_be_blank">"[Fîéļð çåñ'ţ ɓé ɓļåñķ. one two three]"</string>
+    <string name="plus_query_title">[Ûþĝŕåðé ţö Ĝööĝļé+ one two three]</string>
+    <string name="plus_query_text">[Ĝööĝļé+ ḿåķéš šĥåŕîñĝ öñ ţĥé ŵéɓ ḿöŕé ļîķé ŕéåļ-ļîƒé šĥåŕîñĝ. one two three four five six seven]</string>
+    <string name="circles_subtitle">"[Å šţŕéåḿ öƒ šţûƒƒ ýöû'ŕé îñţö one two three four]"</string>
+    <string name="circles_text">[Çöññéçţ ŵîţĥ çļöšé ƒŕîéñðš åñð éхþļöŕé çöḿḿöñ îñţéŕéšţš. one two three four five six seven]</string>
+    <string name="uploads_subtitle">[Åûţöḿåţîç þĥöţö ɓåçķûþ one two three]</string>
+    <string name="uploads_text">[βåçķ ûþ þĥöţöš åš ýöû ţåķé ţĥéḿ, ŵîţĥ ƒŕéé åñð þŕîVåţé šţöŕåĝé. one two three four five six seven]</string>
+    <string name="huddle_subtitle">[νîðéö çåļļîñĝ &amp; ḿéššåĝîñĝ one two three]</string>
+    <string name="huddle_text">[Éñĵöý ţéхţîñĝ, þĥöţöš, åñð ƒŕéé ĝŕöûþ Vîðéö çåļļš ŵîţĥ Ĥåñĝöûţš. one two three four five six seven]</string>
+    <string name="plus_declined_button_label">[Ñöţ ñöŵ one two]</string>
+    <string name="plus_accepted_button_label">[Ĝéţ šţåŕţéð one two]</string>
+    <string name="plus_name_check_title">[Çöñţåçţîñĝ Ĝööĝļé+… one two three]</string>
+    <string name="plus_name_check_text">[Ţĥîš çåñ ţåķé å ƒéŵ ḿîñûţéš. one two three four]</string>
+    <string name="plus_faq_title">[Ŵéļçöḿé ţö Ĝööĝļé+¡ one two three]</string>
+    <string name="plus_faq_text" formatted="false">"[Öñ Ĝööĝļé+, ýöû'ļļ ĥåVé å þûɓļîç þŕöƒîļé ţö ĥéļþ ýöûŕ ƒŕîéñðš ƒîñð ýöû öñļîñé. Åñýöñé ŵĥö ķñöŵš ýöûŕ éḿåîļ åððŕéšš çåñ ƒîñð åñð Vîéŵ ýöûŕ þŕöƒîļé.
+
+Ýöû çåñ ûšé +1 ɓûţţöñš ţĥŕöûĝĥöûţ ţĥé ŵéɓ ţö ŕéçöḿḿéñð ţĥîñĝš ţö ţĥé ŵöŕļð. Ýöûŕ þŕöƒîļé åñð +1'š ŵîļļ åþþéåŕ þûɓļîçļý îñ šéåŕçĥ, öñ åðš, åñð åçŕöšš ţĥé ŵéɓ.
+
+Föŕ ñöŵ, ýöûŕ þŕöƒîļé ŵîļļ šĥöŵ ĵûšţ ýöûŕ ñåḿé (%s %s). Ýöû çåñ åðð å þĥöţö, ɓîö, åñð öţĥéŕ ðéţåîļš ļåţéŕ ŵĥéñ ýöû šţåŕţ ûšîñĝ Ĝööĝļé+. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="dasher_warning">[Ţĥé åðḿîñîšţŕåţöŕ åţ »%s« öŵñš åñð ḿåñåĝéš åļļ ýöûŕ ðåţå öñ Ĝööĝļé+ åñð çåñ ðéļéţé öŕ ḿöðîƒý ýöûŕ þŕöƒîļé åţ åñý ţîḿé ŵîţĥöûţ ýöûŕ þéŕḿîššîöñ. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+    <string name="profile_info_title">[Ýöûŕ þŕöƒîļé one two]</string>
+    <string name="profile_text">[ÞŕöVîðé šöḿé ɓåšîç îñƒöŕḿåţîöñ ƒöŕ ýöûŕ þŕöƒîļé. Ýöû çåñ åðð å þĥöţö åñð öţĥéŕ ðéţåîļš ļåţéŕ ŵĥéñ ýöû šţåŕţ ûšîñĝ Ĝööĝļé+. one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="occupation">[Öççûþåţîöñ one two]</string>
+    <string name="current_city">[Çûŕŕéñţ çîţý one two]</string>
+    <string name="picassa_info_title">[Þîçåšå åñð Ĝööĝļé+ one two three]</string>
+    <string name="picassa_info_text" formatted="false">"[Ýöûŕ þĥöţöš åñð Vîðéöš öñ Þîçåšå Ŵéɓ Åļɓûḿš ŵîļļ ɓé åVåîļåɓļé öñ Ĝööĝļé+ åñð ýöûŕ çöḿḿéñţš ŵîļļ ɓé ɓý %s %s îñšţéåð öƒ %s. Ŵĥéñ ýöû šĥåŕé þĥöţöš öñ Ĝööĝļé+, ŕéçîþîéñţš çåñ ŕéšĥåŕé ţĥéḿ ŵîţĥ åñýöñé éļšé. Ýöûŕ åļɓûḿš' Vîšîɓîļîţý šéţţîñĝš ŵöñ'ţ çĥåñĝé, åñð ýöû çåñ ļîḿîţ ţĥéḿ åţ åñý ţîḿé šö ţĥéý çåñ'ţ ɓé ŕéšĥåŕéð ƒŕééļý. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="name_title_plus">[Ýöûŕ Ĝööĝļé+ ñåḿé one two three]</string>
+    <string name="name_title_local">[Ţĥîš þĥöñé ɓéļöñĝš ţö… one two three]</string>
+    <string name="name_text_local">[Ţĥé þĥöñé ûšéš ýöûŕ ñåḿé ţö þéŕšöñåļîžé šöḿé åþþš. one two three four five six]</string>
+    <string name="name_progress_title">[Ĵûšţ å šéç… one two]</string>
+    <string name="bad_name_title">[Ûšé ţĥîš ñåḿé¿ one two three]</string>
+    <string name="invalid_name_title">"[Çåñ'ţ ûšé ţĥîš ñåḿé one two three]"</string>
+    <string name="bad_name_display">[%1$s %2$s one]</string>
+    <string name="bad_name_text">"[Îƒ ýöû ŵåñţ ţĥîš åš ýöûŕ Ĝööĝļé+ ñåḿé, öûŕ ţéåḿ ŵîļļ ñééð ţö ŕéVîéŵ îţ. Îƒ îţ Vîöļåţéš öûŕ Ñåḿéš Þöļîçý, ýöûŕ þŕöƒîļé çöûļð ɓé šûšþéñðéð. Ţĥîš ŵöûļð ļîḿîţ ýöûŕ åɓîļîţý ţö ûšé Ĝööĝļé þŕöðûçţš ţĥåţ ŕéQûîŕé åñ åçţîVé þŕöƒîļé.
+
+"<annotation id="learn_more">Ļéåŕñ ḿöŕé</annotation> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]</string>
+    <string name="invalid_name_text">"[Ýöû çåñ'ţ ûšé ţĥîš ñåḿé ŵîţĥ Ĝööĝļé+ ɓéçåûšé îţ çöñţåîñš îñVåļîð çĥåŕåçţéŕš. one two three four five six seven eight]"</string>
+    <string name="invalid_nickname_text">"[Ýöû çåñ'ţ ûšé ţĥîš ñåḿé ŵîţĥ Ĝööĝļé+ ɓéçåûšé îţ çöñţåîñš îñVåļîð çĥåŕåçţéŕš. Ţŕýîñĝ ţö ûšé å ñîçķñåḿé, þŕéVîöûš ñåḿé, öŕ ţîţļé¿ Ýöû çåñ åðð ţĥéḿ ţö ýöûŕ þŕöƒîļé åƒţéŕ ýöû ĵöîñ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven]"</string>
+    <string name="invalid_other_text">"[Ţĥîš ñåḿé çåñ'ţ ɓé ûšéð ŵîţĥ Ĝööĝļé+. one two three four five]"</string>
+    <string name="bad_name_agree_text">[Î ûñðéŕšţåñð åñð ŵåñţ ţö ûšé ţĥîš ñåḿé. one two three four five]</string>
+    <string name="bad_name_decline_button_label">[Ûþðåţé ñåḿé one two]</string>
+    <string name="bad_name_agree_button_label">[Šûɓḿîţ ñåḿé ƒöŕ ŕéVîéŵ one two three]</string>
+    <string name="bad_name_skip_button_label">[Šķîþ Ĝööĝļé+ one two]</string>
+    <string name="photo_title">[Ýöûŕ þĥöţö one two]</string>
+    <string name="photo_text">[Ţĥîš þĥöţö ŵîļļ ɓé ûšéð îñ ýöûŕ çöñţåçţ ŕéçöŕð. Ýöû çåñ çĥåñĝé îţ ļåţéŕ îñ ţĥé Þéöþļé åþþ. one two three four five six seven eight nine ten]</string>
+    <string name="photo_text_es">[Ţåķé å þĥöţö ţĥåţ ýöûŕ ƒŕîéñðš ŵîļļ šéé öñ Ĝööĝļé+. Ýöû çåñ çĥööšé å ñéŵ þîçţûŕé ļåţéŕ. one two three four five six seven eight nine]</string>
+    <string name="photo_button_label">[Ţåķé þĥöţö one two]</string>
+    <string name="retake_photo_button_label">[Ŕéţåķé þĥöţö one two]</string>
+    <string name="photo_failure">"[Çöûļðñ'ţ ļåûñçĥ ţĥé çåḿéŕå. one two three four]"</string>
+    <string name="crop_failure">"[Çöûļðñ'ţ çŕöþ ţĥé þĥöţö. one two three]"</string>
+    <string name="photo_description">[Ýöûŕ þĥöţö one two]</string>
+    <string name="communicating_message">[Ýöûŕ þĥöñé îš çöñţåçţîñĝ Ĝööĝļé ţö šåVé îñƒöŕḿåţîöñ ţö ýöûŕ åççöûñţ. Ţĥîš çåñ ţåķé ûþ ţö 5 ḿîñûţéš. one two three four five six seven eight nine ten eleven]</string>
+    <string name="creating_account_title">[ŠåVîñĝ åççöûñţ… one two three]</string>
+    <string name="checking_username_message">"[Ýöûŕ þĥöñé îš çöñţåçţîñĝ Ĝööĝļé ţö šéé îƒ ýöûŕ ðéšîŕéð ûšéŕñåḿé îš åVåîļåɓļé.
+
+Ţĥîš çåñ ţåķé å çöûþļé öƒ ḿîñûţéš. one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="plus_failure_title">[Ĵöîñ Ĝööĝļé+ ļåţéŕ one two three]</string>
+    <string name="plus_failure_new_account_text">"[Ýöûŕ Ĝööĝļé Åççöûñţ ĥåš ɓééñ çŕéåţéð, ɓûţ ýöûŕ ŕéQûéšţ ţö ĵöîñ Ĝööĝļé+ ðîðñ'ţ ĝö ţĥŕöûĝĥ. Ţŕý åĝåîñ ļåţéŕ ƒŕöḿ åñý ŵéɓ ɓŕöŵšéŕ åţ þļûš.ĝööĝļé.çöḿ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five]"</string>
+    <string name="plus_failure_text">"[Ýöûŕ ŕéQûéšţ ţö ĵöîñ Ĝööĝļé+ ðîðñ'ţ ĝö ţĥŕöûĝĥ. Ţŕý åĝåîñ ļåţéŕ ƒŕöḿ åñý ŵéɓ ɓŕöŵšéŕ åţ þļûš.ĝööĝļé.çöḿ. one two three four five six seven eight nine ten eleven]"</string>
+    <string name="provisioned_login_title">[Éñţéŕ þåššŵöŕð one two three]</string>
+    <string name="provisioned_welcome">[Ĥî, »%s«¡ one]</string>
+    <string name="provisioned_welcome_2">"[Éñţéŕ ýöûŕ þåššŵöŕð ƒöŕ:
+»%s« one two three]"</string>
+    <string name="provisioned_incorrect_login">[Ñöţ »%s«¿ one]</string>
+    <string name="login_title">[Ţýþé Éḿåîļ åñð Þåššŵöŕð one two three]</string>
+    <string name="login_task_title">[Šîĝñîñĝ îñ one two]</string>
+    <string name="password">[Þåššŵöŕð one two]</string>
+    <string name="restore_wifi">[Ŕéšţöŕé åñð çöññéçţ ţö ķñöŵñ Ŵî‑Fî ñéţŵöŕķš. one two three four five]</string>
+    <string name="sign_in_agreement_multi_user">[βý šîĝñîñĝ îñ, ýöû åŕé åĝŕééîñĝ ţö ţĥé Ĝööĝļé <annotation id="tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation>, <annotation id="google_privacy">ÞŕîVåçý Þöļîçý</annotation>, åñð <annotation id="play_tos">Ĝööĝļé Þļåý Ţéŕḿš öƒ ŠéŕVîçé</annotation>". 
+
+Ŕéḿéḿɓéŕ: Åñý öţĥéŕ ûšéŕ çåñ åççéþţ ûþðåţéð åþþ þéŕḿîššîöñš öñ ýöûŕ ɓéĥåļƒ. Åš ŵîţĥ åñý çöḿþûţéŕ, ýöû šĥöûļð öñļý šĥåŕé ţĥîš ţåɓļéţ ŵîţĥ þéöþļé ýöû ţŕûšţ.  one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven]"</string>
+    <string name="sign_in_agreement_with_chrome">[βý šîĝñîñĝ îñ, ýöû åŕé åĝŕééîñĝ ţö ţĥé Ĝööĝļé <annotation id="tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation> åñð <annotation id="google_privacy">ÞŕîVåçý Þöļîçý</annotation>, Çĥŕöḿé <annotation id="chrome_tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation> åñð <annotation id="chrome_privacy">ÞŕîVåçý Ñöţîçé</annotation>, åñð Ĝööĝļé Þļåý <annotation id="play_tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation>".  one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight]"</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">[βý šîĝñîñĝ îñ, ýöû åŕé åĝŕééîñĝ ţö ţĥé Ĝööĝļé <annotation id="tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation> åñð <annotation id="google_privacy">ÞŕîVåçý Þöļîçý</annotation>, Çĥŕöḿé <annotation id="chrome_tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation> åñð <annotation id="chrome_privacy">ÞŕîVåçý Ñöţîçé</annotation>, åñð Ĝööĝļé Þļåý <annotation id="play_tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation>". 
+
+Ŕéḿéḿɓéŕ: Åñý öţĥéŕ ûšéŕ çåñ åççéþţ ûþðåţéð åþþ þéŕḿîššîöñš öñ ýöûŕ ɓéĥåļƒ. Åš ŵîţĥ åñý çöḿþûţéŕ, ýöû šĥöûļð öñļý šĥåŕé ţĥîš ţåɓļéţ ŵîţĥ þéöþļé ýöû ţŕûšţ.  one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen]"</string>
+    <string name="create_prompt">"[ Ðöñ'ţ ĥåVé å Ĝööĝļé åççöûñţ¿ "<annotation id="create_account">Çŕéåţé åñ åççöûñţ ñöŵ</annotation>" .  one two three four five six]"</string>
+    <string name="sign_in_with_google_account_short">[Šîĝñ îñ ŵîţĥ ýöûŕ Ĝööĝļé Åççöûñţ: one two three four]</string>
+    <string name="invalid_username">"[Ţĥé ţéхţ ýöû ţýþéð îšñ'ţ å Våļîð ûšéŕñåḿé. one two three four five]"</string>
+    <string name="captcha_instructions">[Ţýþé ţĥé ţéхţ ýöû šéé ĥéŕé: one two three four]</string>
+    <string name="create_google_account">[Çĥööšé ûšéŕñåḿé one two three]</string>
+    <string name="create_google_account_text">[Ýöûŕ Ĝööĝļé Åççöûñţ çöḿéš ŵîţĥ Ĝḿåîļ, éḿåîļ ƒŕöḿ Ĝööĝļé. Îţ ŵöŕķš öñ åñý ðéVîçé, ɓļöçķš šþåḿ, åñð ḿûçĥ ḿöŕé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twent]</string>
+    <string name="account_already_has_gmail">[Åççöûñţ åļŕéåðý ĥåš Ĝḿåîļ. one two three four]</string>
+    <string name="error_account_disabled">"[Ţĥîš åççöûñţ ĥåš ɓééñ ðîšåɓļéð. 
+
+(Föŕ ðéţåîļš, Vîšîţ ĥţţþš://ĝööĝļé.çöḿ/åççöûñţš ŵîţĥ å ŵéɓ ɓŕöŵšéŕ.) one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]"</string>
+    <string name="no_network">"[Ýöû ðöñ'ţ ĥåVé å ñéţŵöŕķ çöññéçţîöñ. one two three four]"</string>
+    <string name="no_network_help">[Ţĥîš çöûļð ɓé å ţéḿþöŕåŕý þŕöɓļéḿ öŕ ýöûŕ Åñðŕöîð ðéVîçé ḿåý ñöţ ɓé þŕöVîšîöñéð ƒöŕ ðåţå šéŕVîçéš. Ţŕý åĝåîñ ŵĥéñ çöññéçţéð ţö å ḿöɓîļé ñéţŵöŕķ, öŕ çöññéçţ ţö å Ŵî-Fî ñéţŵöŕķ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="no_network_help_wifi_only">[Ţĥîš çöûļð ɓé å ţéḿþöŕåŕý þŕöɓļéḿ. Ţŕý åĝåîñ öŕ çöññéçţ ţö åñöţĥéŕ Ŵî-Fî ñéţŵöŕķ. one two three four five six seven eight nine]</string>
+    <string name="error_login_failed">"[Ýöûŕ ûšéŕñåḿé åñð þåššŵöŕð ðöñ'ţ ḿåţçĥ. Ţŕý åĝåîñ.
+
+Ţö ŕéçöVéŕ ýöûŕ åççöûñţ îñƒö, ĝö ţö ĝööĝļé.çöḿ/åççöûñţš/ŕéçöVéŕý/. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]"</string>
+    <string name="error_account_not_verified">"[Ţĥîš åççöûñţ ĥåšñ'ţ ɓééñ Véŕîƒîéð. Çĥéçķ ýöûŕ éḿåîļ åñð ƒöļļöŵ ţĥé îñçļûðéð ļîñķ ţö Véŕîƒý ţĥîš åççöûñţ. 
+
+(Ţö ŕéçöVéŕ ýöûŕ åççöûñţ îñƒöŕḿåţîöñ, ĝö ţö ĥţţþ://ŵŵŵ.ĝööĝļé.çöḿ/åççöûñţš/ŕéçöVéŕý öñ ýöûŕ çöḿþûţéŕ.) one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen]"</string>
+    <string name="exit_menu_item">[Éхîţ ɓŕöŵšéŕ šîĝñ‑îñ one two three]</string>
+    <string name="creating_profile">[Çŕéåţîñĝ ýöûŕ þŕöƒîļé… one two three]</string>
+    <string name="checking_account">[Çĥéçķîñĝ åVåîļåɓîļîţý… one two three]</string>
+    <string name="is_not_available">[Ţĥé ûšéŕñåḿé <b>^1</b>" îšñ'ţ åVåîļåɓļé. one two three four]"</string>
+    <string name="suggestions_hint">[Ţöûçĥ ƒöŕ šûĝĝéšţîöñš one two three]</string>
+    <string name="suggest_username_next_button_label">[Çĥåñĝé ûšéŕñåḿé one two three]</string>
+    <string name="hint_size">[ <b>^1</b>" çöñţåîñš ļéšš ţĥåñ 6 öŕ ḿöŕé ţĥåñ 30 çĥåŕåçţéŕš.  one two three four five six seven eight nine ten eleven]"</string>
+    <string name="hint_numbers_only">[ <b>^1</b>" ðöéšñ'ţ çöñţåîñ åñý ļéţţéŕš.  one two three four]"</string>
+    <string name="hint_illegal_chars">[ <b>^1</b>" çåñ çöñţåîñ öñļý ļéţţéŕš,
+ñûḿɓéŕš, åñð þéŕîöðš.  one two three four five six]"</string>
+    <string name="doesnt_use_gmail">[ <b>^1</b>" ðöéšñ'ţ ûšé Ĝḿåîļ.  one two three]"</string>
+    <string name="sign_in_browser">[βŕöŵšéŕ šîĝñ‑îñ one two three]</string>
+    <string name="alternatives_list_title">[Šûĝĝéšţéð ûšéŕñåḿéš one two three]</string>
+    <string name="password_title">[Çŕéåţé þåššŵöŕð one two three]</string>
+    <string name="choose_a_password">[Þåššŵöŕð one two]</string>
+    <string name="confirm_password">[Ŕé-ţýþé þåššŵöŕð one two three]</string>
+    <string name="too_short">[Ţöö šĥöŕţ one two]</string>
+    <string name="security_questions_title">[Šéçûŕîţý Qûéšţîöñš one two three]</string>
+    <string name="answer">[ <b>Åñšŵéŕ</b>"  one two]"</string>
+    <string name="password_mismatch">"[Þåššŵöŕðš ðîðñ'ţ ḿåţçĥ. Ţŕý åĝåîñ. one two three four]"</string>
+    <string name="eight_chars_min">[8 çĥåŕåçţéŕš ḿîñîḿûḿ one two three]</string>
+    <string name="verify_your_profile">[νéŕîƒý ýöûŕ þŕöƒîļé one two three]</string>
+    <string name="error_not_logged_in">"[Ûšéŕ îšñ'ţ šîĝñéð îñ. one two three]"</string>
+    <string name="error_username_unavailable">"[Ûšéŕñåḿé îšñ'ţ åVåîļåɓļé. one two three]"</string>
+    <string name="error_bad_password">[Ţĥé þåššŵöŕð îš ţöö ŵéåķ öŕ çöñţåîñš îñVåļîð çĥåŕåçţéŕš. Ţŕý åĝåîñ. one two three four five six seven eight]</string>
+    <string name="error_bad_username">[ÎñVåļîð ûšéŕñåḿé. one two three]</string>
+    <string name="existing_account_error_title">[Åççöûñţ åļŕéåðý éхîšţš one two three]</string>
+    <string name="existing_account_error_text">[ Ţĥéŕé îš åļŕéåðý å ^1 åççöûñţ öñ ţĥîš Åñðŕöîð ðéVîçé. one two three four five six]</string>
+    <string name="submission_title">[Šöŕŕý… one]</string>
+    <string name="submission_error_text">[Ţĥéŕé ŵåš åñ éŕŕöŕ. Ţŕý åĝåîñ. one two three four]</string>
+    <string name="sync_intro_title">[Åççöûñţ Šýñç one two]</string>
+    <string name="account_tos_title">[Fîñîšĥ åççöûñţ one two three]</string>
+    <string name="account_tos_plus_title">[Fîñîšĥ ĵöîñîñĝ Ĝööĝļé+ one two three]</string>
+    <string name="i_accept">[Î åççéþţ one two]</string>
+    <string name="i_decline">"[Ðöñ'ţ çŕéåţé åççöûñţ one two three]"</string>
+    <string name="allow_personalized_content">[Åļļöŵ Ĝööĝļé ţö ûšé ýöûŕ îñƒöŕḿåţîöñ ţö þéŕšöñåļîžé çöñţéñţ åñð åðš öñ ñöñ-Ĝööĝļé ŵéɓ šîţéš. one two three four five six seven eight nine ten]</string>
+    <string name="enable_web_history">[Ţûŕñ öñ ŵéɓ ĥîšţöŕý one two three]</string>
+    <string name="learn_more">[<annotation id="learn_more">Ļéåŕñ ḿöŕé</annotation> one two]</string>
+    <string name="account_creation_tos">[βý çöñţîñûîñĝ, ýöû åŕé åĝŕééîñĝ ţö ţĥé Ĝööĝļé <annotation id="tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation>, <annotation id="google_privacy">ÞŕîVåçý Þöļîçý</annotation>, åñð <annotation id="play_tos">Ĝööĝļé Þļåý Ţéŕḿš öƒ ŠéŕVîçé</annotation>".  one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]"</string>
+    <string name="account_creation_tos_with_chrome">[βý çöñţîñûîñĝ, ýöû åŕé åĝŕééîñĝ ţö ţĥé Ĝööĝļé <annotation id="tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation> åñð <annotation id="google_privacy">ÞŕîVåçý Þöļîçý</annotation>, Çĥŕöḿé <annotation id="chrome_tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation> åñð <annotation id="chrome_privacy">ÞŕîVåçý Ñöţîçé</annotation>, åñð Ĝööĝļé Þļåý <annotation id="play_tos">Ţéŕḿš öƒ ŠéŕVîçé</annotation>".  one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight]"</string>
+    <string name="gender_prompt">[Ĝéñðéŕ one two]</string>
+    <string name="gender_hint">[Ĝéñðéŕ one two]</string>
+    <string name="account_pre_intro_title">[Ĝöţ Ĝööĝļé¿ one two]</string>
+    <string name="account_pre_intro_default_message">"[Ðö ýöû ĥåVé å Ĝööĝļé Åççöûñţ¿
+
+Îƒ ýöû ûšé Ĝḿåîļ öŕ Ĝööĝļé Åþþš, åñšŵéŕ Ýéš. one two three four five six seven eight nine]"</string>
+    <string name="account_pre_intro_yes">[Ýéš one]</string>
+    <string name="account_pre_intro_no">[Ñö one]</string>
+    <string name="account_intro_title">[Ĝööĝļé Åççöûñţ one two three]</string>
+    <string name="account_intro_required_title">[Þöŵéŕéð ɓý Ĝööĝļé one two three]</string>
+    <string name="account_intro_recommended_title">[Ḿåķé îţ Ĝööĝļé one two three]</string>
+    <string name="account_intro_default_message">[ÑéVéŕ ļöšé ýöûŕ šţûƒƒ åĝåîñ. Å Ĝööĝļé Åççöûñţ ķééþš éVéŕýţĥîñĝ šåƒé. one two three four five six seven eight]</string>
+    <string name="account_intro_simple_message">[Ðö ýöû ŵåñţ ţö åðð åñ éхîšţîñĝ åççöûñţ öŕ çŕéåţé å ñéŵ öñé¿ one two three four five six seven]</string>
+    <string name="account_intro_learn_more">[Ļéåŕñ ḿöŕé one two]</string>
+    <string name="learn_more_title">[Ļéåŕñ ḿöŕé one two]</string>
+    <string name="learn_more_account_intro">"[Å Ĝööĝļé Åççöûñţ ļéţš ýöû:
+
+"<li><ul>Šéé åñð öŕĝåñîžé åļļ ýöûŕ îñƒöŕḿåţîöñ—îñçļûðîñĝ ýöûŕ šéåŕçĥ ĥîšţöŕý—ƒŕöḿ åñýŵĥéŕé.</ul></li>"
+
+"<li><ul>Åûţöḿåţîçåļļý ɓåçķ ûþ ýöûŕ ðåţå, ļîķé éḿåîļ, çöñţåçţš, ḿûšîç, åñð þîçţûŕéš.</ul></li>"
+
+"<li><ul>Ûšé Ĝööĝļé šéŕVîçéš éåšîļý ƒŕöḿ åñýŵĥéŕé—îñçļûðîñĝ Çöñţåçţš, Çåļéñðåŕ, Ḿåþš, åñð ḿöŕé.</ul></li> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five]</string>
+    <string name="learn_more_account_intro_title">[Åɓöûţ Ĝööĝļé Åççöûñţš one two three]</string>
+    <string name="learn_more_bad_name">"[Ĝööĝļé+ ŕéQûîŕéš ýöû ţö ûšé ýöûŕ çöḿḿöñ ñåḿé. Ýöûŕ þŕöƒîļé šĥöûļð ŕéþŕéšéñţ öñé þéŕšöñ—ñöţ å ɓûšîñéšš, öŕĝåñîžåţîöñ, öŕ ƒåḿîļý—åñð šĥöûļð îñçļûðé ýöûŕ ƒîŕšţ åñð ļåšţ ñåḿé îñ å šîñĝļé ļåñĝûåĝé ŵîţĥ ñö þŕöƒéššîöñåļ ţîţļéš öŕ ûññéçéššåŕý þûñçţûåţîöñ. Åƒţéŕ šîĝñûþ, ýöû çåñ þļåçé ñîçķñåḿéš öŕ öţĥéŕ ñåḿéš ŵîţĥ ŵĥîçĥ ýöû'ŕé åššöçîåţéð îñ ţĥé Öţĥéŕ Ñåḿéš ƒîéļð îñ ýöûŕ þŕöƒîļé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twent]"</string>
+    <string name="learn_more_bad_name_title">[Åɓöûţ ţĥé Ñåḿéš Þöļîçý one two three]</string>
+    <string name="wait_for_device_country_title">[Åççöûñţ šéţûþ one two]</string>
+    <string name="wait_for_device_country_msg">[Ĝåţĥéŕîñĝ îñƒöŕḿåţîöñ åɓöûţ ýöûŕ þĥöñé. Ţĥîš çöûļð ţåķé ûþ ţö 30 šéçöñðš. one two three four five six seven eight]</string>
+    <string name="recovery_title">[Ĝööĝļé þåššŵöŕð ŕéçöVéŕý one two three]</string>
+    <string name="recovery_wait_title">[Çöñţåçţîñĝ Ĝööĝļé... one two three]</string>
+    <string name="cannot_talk_to_server_msg">"[Ţĥé ðéVîçé çöûļðñ'ţ ŕéåçĥ Ĝööĝļé. one two three four]"</string>
+    <string name="recovery_skip_label">[Šķîþ one]</string>
+    <string name="recovery_retry_label">[Ţŕý Åĝåîñ one two]</string>
+    <string name="recovery_message_set">"[Îƒ ýöû éVéŕ ƒöŕĝéţ ýöûŕ þåššŵöŕð, ýöû'ļļ ŵåñţ å ŵåý ţö ŕéçöVéŕ îţ.
+
+Ĝööĝļé þŕöVîðéš öþţîöñš ƒöŕ ŕéçöVéŕîñĝ ýöûŕ þåššŵöŕð Vîå ŠḾŠ öŕ åñ åļţéŕñåţé éḿåîļ åððŕéšš.
+
+Ţĥîš šţéþ îš šţŕöñĝļý ŕéçöḿḿéñðéð. "<annotation id="help_url">Ļéåŕñ ḿöŕé</annotation> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="recovery_message_verify">"[Þåššŵöŕðš åŕé éåšý ţö ƒöŕĝéţ.
+
+Çöñƒîŕḿ ýöûŕ þĥöñé ñûḿɓéŕ öŕ ɓåçķûþ éḿåîļ åððŕéšš ñöŵ. Ţĥîš ĥéļþš ýöû ŕéçöVéŕ åççéšš ţö ýöûŕ çöñţéñţ öñ Ĝööĝļé åñð Ĝööĝļé Þļåý. "<annotation id="help_url">Ļéåŕñ ḿöŕé</annotation> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="recovery_yes_button_label">[Šéţ ûþ ŕéçöVéŕý öþţîöñš one two three]</string>
+    <string name="recovery_yes_button_label_verify">[Çöñƒîŕḿ ŕéçöVéŕý öþţîöñš one two three]</string>
+    <string name="recovery_later_button_label">[Ñöţ ñöŵ one two]</string>
+    <string name="recovery_input_screen_message">[Ţĥîš ŕéçöVéŕý îñƒöŕḿåţîöñ åþþļîéš ţö %s. one two three four five]</string>
+    <string name="secondary_email_hint">[βåçķûþ éḿåîļ one two]</string>
+    <string name="secondary_email_invalid">[ÎñVåļîð éḿåîļ åððŕéšš one two three]</string>
+    <string name="secondary_email_same_as_primary">[Çåññöţ ɓé šåḿé åš þŕîḿåŕý éḿåîļ one two three four]</string>
+    <string name="phone_number_hint">[Þĥöñé ñûḿɓéŕ one two]</string>
+    <string name="phone_number_invalid_character">[ÎñVåļîð çĥåŕåçţéŕš îñ þĥöñé ñûḿɓéŕ one two three four]</string>
+    <string name="phone_number_invalid">[ÎñVåļîð þĥöñé ñûḿɓéŕ one two three]</string>
+    <string name="country_invalid">[Ţĥîš çöûñţŕý îš ñöţ åļļöŵéð one two three four]</string>
+    <string name="recovery_server_error">[Éŕŕöŕ ţåļķîñĝ ţö šéŕVéŕ. Þļéåšé ţŕý åĝåîñ åƒţéŕ šöḿé ţîḿé. one two three four five six seven]</string>
+    <string name="account_recovery_info">[Îƒ ýöû éVéŕ ļöšé ýöûŕ þåššŵöŕð, ýöû çåñ åñšŵéŕ å šéçûŕîţý Qûéšţîöñ åñð ĥåVé å ŕéšéţ ļîñķ éḿåîļéð ţö å ðîƒƒéŕéñţ åððŕéšš. one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="secondary_email_label">[ŔéçöVéŕý éḿåîļ åððŕéšš one two three]</string>
+    <string name="invalid_email">"[Ţĥé éḿåîļ åððŕéšš ýöû ţýþéð îšñ'ţ Våļîð.
+ Éхåḿþļé: ĵöé@éхåḿþļé.çöḿ one two three four five six seven eight]"</string>
+    <string name="invalid_email_primary">"[ŔéçöVéŕý åððŕéšš çåñ'ţ ɓé ţĥé šåḿé åš ţĥé öñé ýöû'ŕé çŕéåţîñĝ. one two three four five six seven]"</string>
+    <string name="backup_consent_message">"[Ûšé ýöûŕ Ĝööĝļé åççöûñţ ţö ɓåçķ ûþ ýöûŕ åþþš, šéţţîñĝš (šûçĥ åš ɓööķḿåŕķš åñð Ŵî-Fî þåššŵöŕðš), åñð öţĥéŕ ðåţå. Îƒ ýöû þŕéVîöûšļý ɓåçķéð ûþ ýöûŕ åççöûñţ, ýöû çåñ ŕéšţöŕé îţ ţö ţĥîš þĥöñé ñöŵ.
+
+Ýöû çåñ çĥåñĝé ýöûŕ ɓåçķûþ šéţţîñĝš åñýţîḿé îñ Šéţţîñĝš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty]"</string>
+    <string name="backup_consent_message_no_restore">"[Ûšé ýöûŕ Ĝööĝļé åççöûñţ ţö ɓåçķ ûþ ýöûŕ åþþš, šéţţîñĝš (šûçĥ åš ɓööķḿåŕķš åñð Ŵî-Fî þåššŵöŕðš), åñð öţĥéŕ ðåţå.
+
+Ýöû çåñ çĥåñĝé ýöûŕ ɓåçķûþ šéţţîñĝš åñýţîḿé îñ Šéţţîñĝš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine]"</string>
+    <string name="restoring_title">[Ŕéšţöŕîñĝ… one two]</string>
+    <string name="restoring_message">[Ýöûŕ þĥöñé îš çöñţåçţîñĝ Ĝööĝļé ţö ŕéšţöŕé ýöûŕ åççöûñţ. Ţĥîš çåñ ţåķé å ŵĥîļé. one two three four five six seven eight nine]</string>
+    <string name="gls_notification_login_error">[Ţöûçĥ ţö šîĝñ îñ ţö ýöûŕ åççöûñţ. one two three four]</string>
+    <string name="gls_ui_add_account_title">[Åççöûñţ šéţûþ one two]</string>
+    <string name="gls_ui_activity_title">[Šîĝñ îñ one two]</string>
+    <string name="gls_ui_activity_title_browser_signin">[Šîĝñ îñ one two]</string>
+    <string name="gls_ui_activity_title_checking_in">[Þŕéþåŕîñĝ… one two]</string>
+    <string name="gls_ui_activity_authenticating">[Åûţĥéñţîçåţîñĝ… one two three]</string>
+    <string name="gls_dmagent_activity_activate_message">[ Ýöûŕ ðöḿåîñ ŕéQûîŕéš ḿöɓîļé ðéVîçé ḿåñåĝéḿéñţ. ÅçţîVåţé ţĥé \"Ĝööĝļé Åþþš ÐéVîçé Þöļîçý\" åþþ ţö éñƒöŕçé šéçûŕîţý þöļîçîéš ŕéQûîŕéð ɓý ţĥé <b>^1</b>" åççöûñţ.  one two three four five six seven eight nine ten eleven twelve thirteen fourteen]"</string>
+    <string name="gls_dmagent_activity_activate_retry_button">[ÅçţîVåţé one two]</string>
+    <string name="gls_dmagent_activity_download_message">[ Ýöûŕ ðöḿåîñ ŕéQûîŕéš ḿöɓîļé ðéVîçé ḿåñåĝéḿéñţ. Îñšţåļļ ţĥé \"Ĝööĝļé Åþþš ÐéVîçé Þöļîçý\" åþþ ţö éñƒöŕçé šéçûŕîţý þöļîçîéš ŕéQûîŕéð ɓý ţĥé <b>^1</b>" åççöûñţ.  one two three four five six seven eight nine ten eleven twelve thirteen fourteen]"</string>
+    <string name="gls_dmagent_activity_download_retry_button">[Ðöŵñļöåð one two]</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">[Ýöû ţýþéð åñ îñçöŕŕéçţ þåššŵöŕð öŕ ýöûŕ åççöûñţ ĥåš çĥåñĝéð. Ŕé-ţýþé ýöûŕ þåššŵöŕð. one two three four five six seven eight nine]</string>
+    <string name="permlab_googleAuthPassword">[åççéšš ţö þåššŵöŕðš ƒöŕ Ĝööĝļé åççöûñţš one two three four five]</string>
+    <string name="permdesc_googleAuthPassword">[Åļļöŵš åþþš ðîŕéçţ åççéšš ţö ţĥé þåššŵöŕðš ƒöŕ ţĥé Ĝööĝļé åççöûñţ(š) ýöû ĥåVé šéţ ûþ. one two three four five six seven eight nine ten]</string>
+    <string name="permlab_googleMailSwitch">[šéļéçţ Ĝḿåîļ öŕ Ĝööĝļé Ḿåîļ ɓŕåñðîñĝ one two three four five]</string>
+    <string name="permdesc_googleMailSwitch">[Åļļöŵš åþþš ţö šŵîţçĥ ţĥé ðîšþļåýéð ñåḿé ɓéţŵééñ \"Ĝḿåîļ\" åñð \"Ĝööĝļé Ḿåîļ\" ɓŕåñðîñĝ. one two three four five six seven eight nine ten]</string>
+    <string name="sync_item_title">[ Šýñç %s one two]</string>
+    <string name="grant_credentials_permission_message_footer">[Ţĥéý åŕé ŕéQûéšţîñĝ þéŕḿîššîöñ ţö: one two three four]</string>
+    <string name="grant_credentials_permission_message_app">[Ţĥéšé åþþš ŵåñţ åççéšš ţö ýöûŕ Ĝööĝļé åççöûñţ ƒŕöḿ ñöŵ öñ: one two three four five six seven]</string>
+    <string name="grant_permissions_header_text">[Þéŕḿîššîöñ ŕéQûéšţ one two three]</string>
+    <string name="allow">[Åļļöŵ åççéšš one two]</string>
+    <string name="deny">[Ñö ţĥåñķš one two]</string>
+    <string name="permission_request_notification_with_subtitle">"[ Þéŕḿîššîöñ ŕéQûéšţéð
+ƒöŕ åççöûñţ %s one two three four]"</string>
+    <string name="notification_title">[ Šîĝñ‑îñ éŕŕöŕ ƒöŕ %1$s one two three]</string>
+    <string name="account_setup_title">[Ĝööĝļé Åççöûñţ one two three]</string>
+    <string name="login_activity_title">[Šîĝñ îñ one two]</string>
+    <string name="relogin_activity_title">[Ŕé-ţýþé þåššŵöŕð one two three]</string>
+    <string name="show_error_activity_title">"[Çöûļðñ'ţ šîĝñ îñ one two three]"</string>
+    <string name="login_activity_task_title">[Šîĝñîñĝ îñ… one two]</string>
+    <string name="login_activity_task_msg">[Ţĥîš çåñ ţåķé å ƒéŵ ḿîñûţéš. one two three four]</string>
+    <string name="prepare_account_setup_task_title">[Þŕéþåŕîñĝ åççöûñţ šéţûþ… one two three]</string>
+    <string name="prepare_account_setup_task_msg">[Ţĥîš çåñ ţåķé å ƒéŵ ḿîñûţéš. one two three four]</string>
+    <string name="sync_intro_activity_title">[Šýñç ýöûŕ åççöûñţ one two three]</string>
+    <string name="username">[Éḿåîļ one]</string>
+    <string name="error_invalid_second_factor">[Ûšé åñ åþþ-šþéçîƒîç þåššŵöŕð îñšţéåð öƒ ýöûŕ ŕéĝûļåŕ åççöûñţ þåššŵöŕð. one two three four five six seven eight]</string>
+    <string name="error_needs_browser">[Ţö åççéšš ýöûŕ åççöûñţ, ýöû ḿûšţ šîĝñ îñ öñ ţĥé ŵéɓ. Ţöûçĥ Ñéхţ ţö šţåŕţ βŕöŵšéŕ šîĝñ‑îñ. one two three four five six seven eight nine ten]</string>
+    <string name="google_play_opt_in">[Ķééþ ḿé ûþ ţö ðåţé ŵîţĥ ñéŵš åñð öƒƒéŕš ƒŕöḿ Ĝööĝļé Þļåý. one two three four five six seven]</string>
+    <string name="google_settings_header_title">[ÞŕîVåçý one two]</string>
+    <string name="maps_settings_title">[Ḿåþš &amp; Ļåţîţûðé one two three]</string>
+    <string name="location_settings_title">[Ļöçåţîöñ one two]</string>
+    <string name="search_settings_title">[Šéåŕçĥ one two]</string>
+    <string name="plus_settings_title">[Ĝööĝļé+ one two]</string>
+    <string name="ads_settings_title">[Åðš one]</string>
+    <string name="location_network_based">"[Ĝööĝļé'š ļöçåţîöñ šéŕVîçé one two three]"</string>
+    <string name="location_neighborhood_level">[Åļļöŵ åñöñýḿöûš ļöçåţîöñ ðåţå ţö ɓé šéñţ ţö Ĝööĝļé. Åļšö åļļöŵ þéŕḿîţţéð åþþš ţö ûšé ðåţå ƒŕöḿ šöûŕçéš šûçĥ åš Ŵî-Fî åñð ḿöɓîļé ñéţŵöŕķš ţö ðéţéŕḿîñé ýöûŕ åþþŕöхîḿåţé ļöçåţîöñ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="use_location_title">[Ļöçåţîöñ &amp; Ĝööĝļé šéåŕçĥ one two three]</string>
+    <string name="use_location_summary">[Ļéţ Ĝööĝļé ûšé ýöûŕ ļöçåţîöñ ţö îḿþŕöVé šéåŕçĥ ŕéšûļţš åñð öţĥéŕ šéŕVîçéš one two three four five six seven eight]</string>
+    <string name="backup_consent_yes_agree">[Ûšé ýöûŕ Ĝööĝļé Åççöûñţ ţö ɓåçķ ûþ ýöûŕ åþþš, šéţţîñĝš (šûçĥ åš ɓööķḿåŕķš åñð Ŵî-Fî þåššŵöŕðš), åñð öţĥéŕ ðåţå. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]</string>
+    <string name="restore_consent_yes_agree">[βŕîñĝ åþþš, šéţţîñĝš, åñð öţĥéŕ ðåţå ţö ţĥîš þĥöñé ţĥåţ ýöû þŕéVîöûšļý ɓåçķéð ûþ ţö ýöûŕ Ĝööĝļé Åççöûñţ. one two three four five six seven eight nine ten eleven]</string>
+    <string name="audit_logging_summary">[Åûţöḿåţîçåļļý šéñð ðéVîçé éVéñţ åñð ðîåĝñöšţîç îñƒöŕḿåţîöñ ţö Ĝööĝļé ţö ĥéļþ îḿþŕöVé öûŕ þŕöðûçţš åñð þŕöţéçţ ýöûŕ ðéVîçé. one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="no_back_msg">"[Çåñ'ţ ĝö ɓåçķ ţö ţĥé þŕéVîöûš šţéþ. one two three four]"</string>
+    <string name="setup_wizard_title">[Šéţûþ Ŵîžåŕð one two]</string>
+    <string name="setup_wizard_services_activity_title">[Ĝööĝļé šéŕVîçéš one two three]</string>
+    <string name="setup_wizard_services_description">[Ţĥéšé šéŕVîçéš þûţ Ĝööĝļé ţö ŵöŕķ ƒöŕ ýöû, åñð ýöû çåñ ţûŕñ ţĥéḿ öñ öŕ öƒƒ åţ åñý ţîḿé. Ðåţå ŵîļļ ɓé ûšéð îñ åççöŕðåñçé ŵîţĥ Ĝööĝļé’š <annotation id="google_privacy">ÞŕîVåçý Þöļîçý</annotation>. one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="setup_wizard_services_backup_restore_heading">[βåçķûþ &amp; ŕéšţöŕé one two three]</string>
+    <string name="setup_wizard_services_location_heading">[Ļöçåţîöñ one two]</string>
+    <string name="setup_wizard_services_communication_heading">[Çöḿḿûñîçåţîöñ one two]</string>
+    <string name="setup_wizard_services_backup">[<b>βåçķ ûþ ýöûŕ þĥöñé’š åþþš, åþþ ðåţå, šéţţîñĝš, þéŕšöñåļ ðîçţîöñåŕîéš, åñð Ŵî‑Fî þåššŵöŕðš</b> ûšîñĝ ýöûŕ Ĝööĝļé Åççöûñţ šö ýöû çåñ éåšîļý ŕéšţöŕé ļåţéŕ. <annotation id="backup_details">Ļéåŕñ ḿöŕé</annotation> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight]</string>
+    <string name="setup_wizard_services_backup_restore">[<b>βåçķ ûþ ýöûŕ åþþš, åþþ ðåţå, šéţţîñĝš, þéŕšöñåļ ðîçţîöñåŕîéš, åñð Ŵî‑Fî þåššŵöŕðš</b> ûšîñĝ ýöûŕ Ĝööĝļé Åççöûñţ šö ýöû çåñ éåšîļý ŕéšţöŕé ļåţéŕ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four]</string>
+    <string name="setup_wizard_services_backup_restore_footnote">[Ðåţå îñçļûðéš åþþš, åþþ šéţţîñĝš, šýšţéḿ šéţţîñĝš, åñð Ŵî‑Fî þåššŵöŕðš. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">[Ŵĥéñ ýöû ţûŕñ öñ åûţöḿåţîç ɓåçķûþ, ýöûŕ ðéVîçé’š ðåţå îš þéŕîöðîçåļļý šåVéð ţö ýöûŕ Ĝööĝļé Åççöûñţ. βåçķûþš ḿåý îñçļûðé îñƒöŕḿåţîöñ îñ ýöûŕ åþþ ðåţå ƒöļðéŕš, ļîķé þŕéƒéŕéñçéš, šéţţîñĝš, ḿéššåĝéš, þĥöţöš, åñð öţĥéŕ ƒîļéš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen]</string>
+    <string name="setup_wizard_services_location_sharing">[<b>Ûšé Ĝööĝļé’š ļöçåţîöñ šéŕVîçé</b> ţö ĥéļþ åþþš ðéţéŕḿîñé ļöçåţîöñ. Ţĥîš ḿéåñš šéñðîñĝ åñöñýḿöûš ļöçåţîöñ ðåţå ţö Ĝööĝļé, éVéñ ŵĥéñ ñö åþþš åŕé ŕûññîñĝ. <annotation id="location_details">Ļéåŕñ ḿöŕé</annotation> one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">[Ĝööĝļé’š ļöçåţîöñ šéŕVîçé ûšéš šöûŕçéš ļîķé Ŵî‑Fî åñð çéļļûļåŕ ñéţŵöŕķš ţö ĥéļþ éšţîḿåţé ýöûŕ ðéVîçé’š ļöçåţîöñ ƒåšţéŕ åñð ḿöŕé åççûŕåţéļý. Ŵĥéñ ýöû ţûŕñ öñ Ĝööĝļé’š ļöçåţîöñ šéŕVîçéš, ýöûŕ ðéVîçé éñţéŕš å ḿöðé ţĥåţ ûšéš Ŵî‑Fî åñð çéļļûļåŕ ñéţŵöŕķš ţö þŕöVîðé ļöçåţîöñ îñƒöŕḿåţîöñ. Ýöû çåñ ţûŕñ ţĥîš öƒƒ îñ ļöçåţîöñ šéţţîñĝš ɓý çĥööšîñĝ å ḿöðé ţĥåţ ûšéš ĜÞŠ öñļý, šöḿéţîḿéš çåļļéð ÐéVîçé öñļý ḿöðé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five]</string>
+    <string name="setup_wizard_services_location_wifi_scan">[<b>Ĥéļþ îḿþŕöVé ļöçåţîöñ šéŕVîçéš</b> ɓý ļéţţîñĝ åþþš åñð šéŕVîçéš šçåñ ƒöŕ Ŵî‑Fî ñéţŵöŕķš éVéñ ŵĥéñ Ŵî‑Fî îš öƒƒ. one two three four five six seven eight nine ten eleven]</string>
+    <string name="setup_wizard_services_location_footnote">[Ĝööĝļé’š ļöçåţîöñ šéŕVîçé ûšéš Ŵî‑Fî åñð öţĥéŕ šîĝñåļš ţö ðéţéŕḿîñé ļöçåţîöñ ḿöŕé þŕéçîšéļý åñð Qûîçķļý, öƒţéñ ŵîţĥ ļöŵéŕ þöŵéŕ ûšåĝé ţĥåñ ĜÞŠ. Šöḿé ðåţå ḿåý ɓé šţöŕéð öñ ýöûŕ ðéVîçé. Ðåţå ḿåý ɓé çöļļéçţéð éVéñ ŵĥéñ ñö åþþš åŕé ŕûññîñĝ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]</string>
+    <string name="setup_wizard_services_play">[<b>Ķééþ ḿé ûþ ţö ðåţé</b> ŵîţĥ ñéŵš åñð öƒƒéŕš ƒŕöḿ Ĝööĝļé Þļåý. one two three four five six seven]</string>
+    <string name="setup_wizard_services_usage_reporting">[<b>Ĥéļþ îḿþŕöVé ýöûŕ Åñðŕöîð éхþéŕîéñçé</b> ɓý åûţöḿåţîçåļļý šéñðîñĝ ðîåĝñöšţîç åñð ûšåĝé ðåţå ţö Ĝööĝļé. Ţĥîš îñƒöŕḿåţîöñ ŵöñ’ţ ɓé ûšéð ţö îðéñţîƒý ýöû åñð ļéñðš å ĥåñð ţö ţéåḿš ŵöŕķîñĝ öñ ţĥîñĝš ļîķé ɓåţţéŕý ļîƒé, åþþ þéŕƒöŕḿåñçé, åñð ñéŵ Ĝööĝļé ƒéåţûŕéš. <annotation id="usage_reporting_details">Ļéåŕñ ḿöŕé</annotation> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three]</string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"[Ţĥîš îš ĝéñéŕåļ îñƒöŕḿåţîöñ åɓöûţ ýöûŕ ðéVîçé åñð ĥöŵ ýöû ûšé îţ, šûçĥ åš ɓåţţéŕý ļéVéļ, ĥöŵ öƒţéñ ýöû ûšé ýöûŕ åþþš, ţĥé Qûåļîţý åñð ðûŕåţîöñ öƒ ýöûŕ ñéţŵöŕķ çöññéçţîöñš (ļîķé çéļļ, Ŵî‑Fî, åñð βļûéţööţĥ), åñð çŕåšĥ ŕéþöŕţš ŵĥéñ ţĥîñĝš åŕéñ’ţ ŵöŕķîñĝ ţĥé ŵåý ţĥéý šĥöûļð. Îţ ŵîļļ ɓé ûšéð ţö îḿþŕöVé Ĝööĝļé’š þŕöðûçţš åñð šéŕVîçéš ƒöŕ éVéŕýöñé, åñð ŵöñ’ţ ɓé åššöçîåţéð ŵîţĥ ýöûŕ Ĝööĝļé Åççöûñţ. Šöḿé åĝĝŕéĝåţéð îñƒöŕḿåţîöñ ŵîļļ ĥéļþ þåŕţñéŕš, šûçĥ åš Åñðŕöîð ðéVéļöþéŕš, ḿåķé ţĥéîŕ åþþš åñð þŕöðûçţš ɓéţţéŕ, ţöö.
+
+Ýöû çåñ ţûŕñ ţĥîš öñ öŕ öƒƒ åţ åñý ţîḿé îñ ţĥé Ĝööĝļé Šéţţîñĝš åþþ. Ţĥîš ðöéšñ’ţ åƒƒéçţ ýöûŕ ðéVîçé’š åɓîļîţý ţö šéñð ţĥé îñƒöŕḿåţîöñ îţ ñééðš ţö ŕéçéîVé éššéñţîåļ šéŕVîçéš šûçĥ åš šýšţéḿ ûþðåţéš åñð šéçûŕîţý. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen]"</string>
+    <string name="setup_wizard_services_agreement">[Ţĥîš þĥöñé ḿåý åļšö ŕéçéîVé åñð îñšţåļļ ûþðåţéš åñð åþþš ƒŕöḿ Ĝööĝļé, ýöûŕ çåŕŕîéŕ, åñð ýöûŕ þĥöñé’š ḿåñûƒåçţûŕéŕ. Šöḿé åþþš ḿåý ɓé ðöŵñļöåðéð åñð îñšţåļļéð îƒ ýöû çöñţîñûé, åñð ýöû çåñ ŕéḿöVé ţĥéḿ åţ åñý ţîḿé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+</resources>

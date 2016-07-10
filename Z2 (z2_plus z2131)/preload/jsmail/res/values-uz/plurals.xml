@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">"%1$d o'qilmagan maktublar"</item>
+        <item quantity="zero">"%1$d o'qilmagan maktub"</item>
+        <item quantity="one">"%1$d o'qilmagan maktub"</item>
+        <item quantity="two">"%1$d o'qilmagan maktublar"</item>
+        <item quantity="few">"%1$d o'qilmagan maktublar"</item>
+        <item quantity="many">"%1$d o'qilmagan maktublar"</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">%1$d muloqotlarni arxiivlashtirishni istaysizmi?</item>
+        <item quantity="zero">%1$d muloqotni arxivlashtirishni istaysizmi?</item>
+        <item quantity="one">%1$d muloqotni arxiivlashtirishni istaysizmi?</item>
+        <item quantity="two">%1$d muloqotlarni arxiivlashtirishni istaysizmi?</item>
+        <item quantity="few">%1$d muloqotlarni arxiivlashtirishni istaysizmi?</item>
+        <item quantity="many">%1$d muloqotlarni arxiivlashtirishni istaysizmi?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">"%1$d muloqotlarni o'chirishni istaysizmi?"</item>
+        <item quantity="zero">"%1$d muloqotni o'chirishni istaysizmi?"</item>
+        <item quantity="one">"%1$d muloqotni o'chirishni istaysizmi?"</item>
+        <item quantity="two">"%1$d muloqotlarni o'chirishni istaysizmi?"</item>
+        <item quantity="few">"%1$d muloqotlarni o'chirishni istaysizmi?"</item>
+        <item quantity="many">"%1$d muloqotlarni o'chirishni istaysizmi?"</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">"Ushbu muloqotlar yaroqsiz muloqotlarni o'z ichiga oladi. Yaroqsizlarning hammasini o'chirisga aminmisiz?"</item>
+        <item quantity="zero">"Ushbu muloqotlar yaroqsiz muloqotlarni o'z ichiga oladi. Yaroqsizlarning hammasini o'chirisga aminmisiz?"</item>
+        <item quantity="one">"Ushbu muloqotlar yaroqsiz muloqotlarni o'z ichiga oladi. Yaroqsizlarning hammasini o'chirisga aminmisiz?"</item>
+        <item quantity="two">"Ushbu muloqotlar yaroqsiz muloqotlarni o'z ichiga oladi. Yaroqsizlarning hammasini o'chirisga aminmisiz?"</item>
+        <item quantity="few">"Ushbu muloqotlar yaroqsiz muloqotlarni o'z ichiga oladi. Yaroqsizlarning hammasini o'chirisga aminmisiz?"</item>
+        <item quantity="many">"Ushbu muloqotlar yaroqsiz muloqotlarni o'z ichiga oladi. Yaroqsizlarning hammasini o'chirisga aminmisiz?"</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">%1$d muloqotlardagi xomaki maktublarni rad qilishni istaysizmi?</item>
+        <item quantity="zero">%1$d muloqotdagi xomaki maktublarni rad qilishni istaysizmi?</item>
+        <item quantity="one">%1$d muloqotdagi xomaki maktublarni rad qilishni istaysizmi?</item>
+        <item quantity="two">%1$d muloqotlardagi xomaki maktublarni rad qilishni istaysizmi?</item>
+        <item quantity="few">%1$d muloqotlardagi xomaki maktublarni rad qilishni istaysizmi?</item>
+        <item quantity="many">%1$d muloqotlardagi xomaki maktublarni rad qilishni istaysizmi?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d elementlar tanlandi</item>
+        <item quantity="zero">%d element tanlandi</item>
+        <item quantity="one">%d element tanlandi</item>
+        <item quantity="two">%d elementlar tanlandi</item>
+        <item quantity="few">%d elementlar tanlandi</item>
+        <item quantity="many">%d elementlar tanlandi</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> muloqotlar arxivlashtirildi.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> muloqot arxivlashtirildi.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> muloqot arxivlashtirildi.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> muloqotlar arxivlashtirildi.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> muloqotlar arxivlashtirildi.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> muloqotlar arxivlashtirildi.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b>" muloqotlar o'chrildi."</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b>" muloqot o'chrildi."</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>" muloqot o'chrildi."</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b>" muloqotlar o'chrildi."</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b>" muloqotlar o'chrildi."</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>" muloqotlar o'chrildi."</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">"Papkalar o'zgartirildi"</item>
+        <item quantity="zero">"Papka o'zgartirildi"</item>
+        <item quantity="one">"Papka o'zgartirildi"</item>
+        <item quantity="two">"Papkalar o'zgartirildi"</item>
+        <item quantity="few">"Papkalar o'zgartirildi"</item>
+        <item quantity="many">"Papkalar o'zgartirildi"</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> muloqotlar bekor qilindi.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> muloqot bekor qilindi.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> muloqot bekor qilindi.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> muloqotlar bekor qilindi.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> muloqotlar bekor qilindi.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> muloqotlar bekor qilindi.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> muloqotlar ahamiyatsiz deb belgilandi.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> muloqot ahamiyatsiz deb belgilandi.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> muloqot ahamiyatsiz deb belgilandi.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> muloqotlar ahamiyatsiz deb belgilandi.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> muloqotlar ahamiyatsiz deb belgilandi.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> muloqotlar ahamiyatsiz deb belgilandi.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> muloqotlar keraksiz maktub emas deb bildirildi</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> muloqot keraksiz maktub emas deb bildirildi</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> muloqot keraksiz maktub emas deb bildirildi</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> muloqotlar keraksiz maktub emas deb bildirildi</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> muloqotlar keraksiz maktub emas deb bildirildi</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> muloqotlar keraksiz maktub emas deb bildirildi</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> muloqotlar fishing deb bildirildi</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> muloqot fishing deb bildirildi</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> muloqot fishing deb bildirildi</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> muloqotlar fishing deb bildirildi</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> muloqotlar fishing deb bildirildi</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> muloqotlar fishing deb bildirildi</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> muloqotlar spam deb bildirildi</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> muloqot spam deb bildirildi</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> muloqot spam deb bildirildi</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> muloqotlar spam deb bildirildi</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> muloqotlar spam deb bildirildi</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> muloqotlar spam deb bildirildi</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d muloqotlarni yulduzini olib tashlash.</item>
+        <item quantity="zero">%1$d muloqotni yulduzini olib tashlash.</item>
+        <item quantity="one">%1$d muloqotni yulduzini olib tashlash.</item>
+        <item quantity="two">%1$d muloqotlarni yulduzini olib tashlash.</item>
+        <item quantity="few">%1$d muloqotlarni yulduzini olib tashlash.</item>
+        <item quantity="many">%1$d muloqotlarni yulduzini olib tashlash.</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Xomaki maktublar</item>
+        <item quantity="zero">Xomaki maktub</item>
+        <item quantity="one">Xomaki maktub</item>
+        <item quantity="two">Xomaki maktublar</item>
+        <item quantity="few">Xomaki maktublar</item>
+        <item quantity="many">Xomaki maktublar</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">"%1$d maktublar butunlay o'chiriladi."</item>
+        <item quantity="zero">"%1$d maktub butunlay o'chiriladi."</item>
+        <item quantity="one">"%1$d maktub butunlay o'chiriladi."</item>
+        <item quantity="two">"%1$d maktublar butunlay o'chiriladi."</item>
+        <item quantity="few">"%1$d maktublar butunlay o'chiriladi."</item>
+        <item quantity="many">"%1$d maktublar butunlay o'chiriladi."</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="zero">%d B</item>
+        <item quantity="one">%d B</item>
+        <item quantity="two">%d B</item>
+        <item quantity="few">%d B</item>
+        <item quantity="many">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="zero">%d GB</item>
+        <item quantity="one">%d GB</item>
+        <item quantity="two">%d GB</item>
+        <item quantity="few">%d GB</item>
+        <item quantity="many">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="zero">%d KB</item>
+        <item quantity="one">%d KB</item>
+        <item quantity="two">%d KB</item>
+        <item quantity="few">%d KB</item>
+        <item quantity="many">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="zero">%d MB</item>
+        <item quantity="one">%d MB</item>
+        <item quantity="two">%d MB</item>
+        <item quantity="few">%d MB</item>
+        <item quantity="many">%d MB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">"%1$d muloqotlarni ko'chiring"</item>
+        <item quantity="zero">"%1$d muloqotni ko'chiring"</item>
+        <item quantity="one">"%1$d muloqotni ko'chiring"</item>
+        <item quantity="two">"%1$d muloqotlarni ko'chiring"</item>
+        <item quantity="few">"%1$d muloqotlarni ko'chiring"</item>
+        <item quantity="many">"%1$d muloqotlarni ko'chiring"</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">"Maktublarni ko'chiring"</item>
+        <item quantity="zero">"Maktubni ko'chiring"</item>
+        <item quantity="one">"Maktubni ko'chiring"</item>
+        <item quantity="two">"Maktublarni ko'chiring"</item>
+        <item quantity="few">"Maktublarni ko'chiring"</item>
+        <item quantity="many">"Maktublarni ko'chiring"</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">"%1$d yangi keluvchi maktublar. Ko'rsat"</item>
+        <item quantity="zero">"%1$d yangi keluvchi maktub. Ko'rsat"</item>
+        <item quantity="one">"%1$d yangi keluvchi maktub. Ko'rsat"</item>
+        <item quantity="two">"%1$d yangi keluvchi maktublar. Ko'rsat"</item>
+        <item quantity="few">"%1$d yangi keluvchi maktublar. Ko'rsat"</item>
+        <item quantity="many">"%1$d yangi keluvchi maktublar. Ko'rsat"</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d elementlar tanlandi</item>
+        <item quantity="zero">%d element tanlandi</item>
+        <item quantity="one">%d element tanlandi</item>
+        <item quantity="two">%d elementlar tanlandi</item>
+        <item quantity="few">%d elementlar tanlandi</item>
+        <item quantity="many">%d elementlar tanlandi</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">"%1$d o'qilgan maktublar"</item>
+        <item quantity="zero">"%1$d o'qilgan maktub"</item>
+        <item quantity="one">"%1$d o'qilgan maktub"</item>
+        <item quantity="two">"%1$d o'qilgan maktublar"</item>
+        <item quantity="few">"%1$d o'qilgan maktublar"</item>
+        <item quantity="many">"%1$d o'qilgan maktublar"</item>
+    </plurals>
+</resources>

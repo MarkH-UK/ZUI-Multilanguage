@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>బార్</item>
+        <item>కేఫ్</item>
+        <item>గ్యాస్ కేంద్రం</item>
+        <item>చలన చిత్ర థియేటర్</item>
+        <item>బస</item>
+        <item>రాత్రిపూట ఉండే క్లబ్</item>
+        <item>సంగ్రహాలయం</item>
+        <item>రెస్టారెంట్</item>
+        <item>షాపింగ్ కేంద్రం</item>
+        <item>దుకాణం</item>
+        <item>కిరాణా కొట్టు లేదా సూపర్‌మార్కెట్</item>
+        <item>ఇతరం</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>బలహీనం</item>
+        <item>పర్వాలేదు</item>
+        <item>బాగుంది</item>
+        <item>దృఢంగా ఉంది</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>బ్లూటూత్</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>విడుదల</item>
+        <item>డెవలపర్</item>
+        <item>రిటైల్</item>
+        <item>డెమో</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ఫోన్ మరియు కారులో అననుకూల సాఫ్ట్‌వేర్ అమలవుతోంది. వివరాల కోసం, &lt;a href="android.com/auto">android.com/auto&lt;/a> సందర్శించండి</item>
+        <item>కారు చెల్లని ఆడియో మరియు/లేదా వీడియో కాన్ఫిగరేషన్‌ల సెట్‌ను ప్రకటించింది.</item>
+        <item>"USB కనెక్షన్ సరిగ్గా పని చేయడం లేదు. ప్రయత్నించాల్సిన పరిష్కార మార్గాలు: 
+
+• కేబుల్ రెండు వైపులా సరిగ్గా కనెక్ట్ చేయబడిందని నిర్ధారించుకోవాలి. 
+•మీరు డేటా USB కేబుల్ కలిగి ఉన్నట్లు నిర్ధారించుకోవాలి. 
+•కారు మరియు మీ ఫోన్ రెండింటిలో తేదీ మరియు సమయం సరిగ్గా సెట్ చేయబడినట్లు నిర్ధారించుకోవాలి."</item>
+        <item>కారు Android ఆటోను అమలు చేయడం ఆపివేసింది.</item>
+        <item>అభ్యర్థన మేరకు Android ఆటో సెషన్ ఆపివేయబడింది.</item>
+        <item>కారు సాఫ్ట్‌వేర్ కాలం చెల్లినది అయ్యి ఉండవచ్చు. వివరాలు మరియు మద్దతు కోసం, తయారీదారును సంప్రదించండి.</item>
+        <item>మీ కారు సాఫ్ట్‌వేర్ Android ఆటో భద్రతా తనిఖీల్లో ఉత్తీర్ణం కాలేదు. వివరాలు మరియు మద్దతు కోసం, తయారీదారును సంప్రదించండి.</item>
+        <item>మీ కారు సాఫ్ట్‌వేర్ Android ఆటో భద్రతా తనిఖీల్లో ఉత్తీర్ణం కాలేదు. కారు తేదీ మరియు సమయం సరిగ్గా సెట్ చేయబడ్డాయని మరియు Android ఆటో నవీకరించబడిందని నిర్ధారించుకోండి.</item>
+        <item>చర్య గడువు సమయం ముగిసింది. మీరు బగ్ నివేదికను రూపొందించి, అభిప్రాయాన్ని దాఖలు చేయాలి.</item>
+        <item>మీరు లాంచర్‌ను సరిగ్గా ఇన్‌స్టాల్ చేసినట్లుగా కనిపించడం లేదు, మీ ఫోన్‌ను సరిగ్గా సెటప్ చేసారా?</item>
+        <item>గ్రాఫిక్స్ పైప్‌లైన్ ఇప్పుడే నిష్క్రియమైంది. మీరు బగ్ నివేదికను రూపొందించి, అభిప్రాయాన్ని దాఖలు చేయాలి.</item>
+        <item>ఫోన్ నుండి వచ్చే సందేశాలకు కారు ప్రతిస్పందించడం లేదు. కారు తప్పు స్థితిలో ఉండవచ్చు.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>విమానాశ్రయం</item>
+        <item>ATM</item>
+        <item>బ్యాంక్</item>
+        <item>బార్</item>
+        <item>బస్ స్టేషన్</item>
+        <item>కేఫ్</item>
+        <item>క్యాంప్‌గ్రౌండ్</item>
+        <item>శ్మశానం</item>
+        <item>చర్చి</item>
+        <item>సిటీ హాల్</item>
+        <item>సంస్థ</item>
+        <item>గ్యాస్ స్టేషన్</item>
+        <item>కిరాణా దుకాణం లేదా సూపర్‌మార్కెట్</item>
+        <item>హిందూ దేవాలయం</item>
+        <item>ఆసుపత్రి</item>
+        <item>గ్రంథాలయం</item>
+        <item>బస</item>
+        <item>మసీదు</item>
+        <item>సినిమా థియేటర్</item>
+        <item>సంగ్రహాలయం</item>
+        <item>ఉద్యానవనం</item>
+        <item>పార్కింగ్</item>
+        <item>ప్రార్థనా స్థలం</item>
+        <item>పోలీస్ స్టేషన్</item>
+        <item>తపాలా కార్యాలయం</item>
+        <item>రెస్టారెంట్</item>
+        <item>పాఠశాల</item>
+        <item>దుకాణం</item>
+        <item>సబ్‌వే స్టేషన్</item>
+        <item>యూదుల ప్రార్థనా మందిరం</item>
+        <item>రైల్వే స్టేషన్</item>
+        <item>ట్రాన్సిట్ స్టేషన్</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>జనవరి</item>
+        <item>ఫిబ్రవరి</item>
+        <item>మార్చి</item>
+        <item>ఏప్రిల్</item>
+        <item>మే</item>
+        <item>జూన్</item>
+        <item>జూలై</item>
+        <item>ఆగస్ట్</item>
+        <item>సెప్టెంబర్</item>
+        <item>అక్టోబర్</item>
+        <item>నవంబర్</item>
+        <item>డిసెంబర్</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>భాగస్వామ్యం చేయడాన్ని ఆపివేయి</item>
+        <item>15 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+        <item>1 గంట</item>
+        <item>నిరవధికంగా</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>భాగస్వామ్యం చేయడాన్ని ఆపివేయి</item>
+        <item>15 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+        <item>1 గంట</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

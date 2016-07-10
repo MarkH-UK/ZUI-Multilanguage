@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXWeek">
+        <item>रविवार</item>
+        <item>सोमवार</item>
+        <item>मंगलवार</item>
+        <item>बुधवार</item>
+        <item>गुरुवार</item>
+        <item>शुक्रवार</item>
+        <item>शनिवार</item>
+    </string-array>
+    <string-array name="exercise_array">
+        <item>टहलना</item>
+        <item>दौड़ें</item>
+        <item>बाइक</item>
+        <item>सीढ़ियां चढ़ें</item>
+        <item>इनडोर दौड़ें</item>
+        <item>स्पिनिंग</item>
+        <item>रोप स्किपिंग</item>
+        <item>प्लैंक</item>
+        <item>योगा</item>
+        <item>डांस</item>
+        <item>एरोबिक्स</item>
+        <item>तैराकी</item>
+        <item>टेबल टेनिस</item>
+        <item>बैडमिन्टन</item>
+        <item>बास्केटबॉल</item>
+        <item>फुटबॉल</item>
+        <item>टेनिस</item>
+        <item>वॉलीबॉल</item>
+        <item>स्केटिंग</item>
+        <item>स्कीइंग</item>
+    </string-array>
+    <string-array name="exercise_array_healthy_list">
+        <item>टहलना</item>
+        <item>दौड़ें</item>
+        <item>बाइक</item>
+        <item>सीढ़ियां चढ़ें</item>
+        <item>इनडोर दौड़ें</item>
+        <item>स्पिनिंग</item>
+        <item>रोप स्किपिंग</item>
+        <item>प्लैंक</item>
+        <item>योगा</item>
+        <item>डांस</item>
+        <item>एरोबिक्स</item>
+        <item>तैराकी</item>
+        <item>टेबल टेनिस</item>
+        <item>बैडमिन्टन</item>
+        <item>बास्केटबॉल</item>
+        <item>फुटबॉल</item>
+        <item>टेनिस</item>
+        <item>वॉलीबॉल</item>
+        <item>स्केटिंग</item>
+        <item>स्कीइंग</item>
+        <item>वाहन</item>
+    </string-array>
+    <string-array name="gender_lables">
+        <item>महिला</item>
+        <item>पुरूष</item>
+    </string-array>
+    <string-array name="guest_info_more_array">
+        <item>डेटा संशोधित करने के लिए आगंतुक</item>
+        <item>आगंतुकों को हटाएं</item>
+    </string-array>
+    <string-array name="health_array">
+        <item>हृदय गति</item>
+        <item>SpO2</item>
+        <item>वजन</item>
+        <item>रक्त चाप</item>
+    </string-array>
+    <string-array name="health_array_other">
+        <item>हृदय गति</item>
+        <item>ऑक्सीजन सैचुरेशन</item>
+        <item>वजन</item>
+        <item>रक्त चाप</item>
+        <item>हृदय गति एवं ऑक्सीजन सैचुरेशन</item>
+    </string-array>
+    <string-array name="heart_rate_type">
+        <item>विराम</item>
+        <item>सक्रिय</item>
+    </string-array>
+    <string-array name="pace_speed_5">
+        <item>जल्दबाजी में नहीं</item>
+        <item>आनंदपूर्वक</item>
+        <item>घबराया हुआ नहीं</item>
+    </string-array>
+    <string-array name="pace_speed_6">
+        <item>घोंघा-पुस्तक</item>
+        <item>धीमी गति</item>
+        <item>धीमी गति</item>
+    </string-array>
+    <string-array name="products">
+        <item>ZUK</item>
+        <item>Jabra PULSE</item>
+    </string-array>
+    <string-array name="skin_lables">
+        <item>पीला</item>
+        <item>सफेद</item>
+        <item>काला</item>
+    </string-array>
+    <string-array name="step_count_to_food">
+        <item>≈एक अंडा</item>
+        <item>≈5 कैंडी</item>
+        <item>≈एक कार्टन दूध</item>
+        <item>≈एक कोक कैन</item>
+        <item>≈ एक कटोरी चावल</item>
+        <item>≈आधा क्रीम केक</item>
+        <item>≈एक आइसक्रीम</item>
+        <item>≈आधा हैमबर्गर</item>
+        <item>≈आाधा पैकेट आलू चिप्स</item>
+        <item>≈2 कोक कैन</item>
+        <item>≈2 ब्रेड स्लाइस</item>
+        <item>≈ 2 कटोरी चावल</item>
+        <item>≈ एक कटोरी नूडल्स</item>
+        <item>≈एक क्रीम केक</item>
+        <item>≈3 रोस्ट चिकेन विंग्स</item>
+        <item>≈2 आइसक्रीम</item>
+        <item>≈एक टुकड़ा पिज्जा</item>
+        <item>≈एक हैमबर्गर</item>
+    </string-array>
+    <string-array name="trend_day_by_hour">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+</resources>

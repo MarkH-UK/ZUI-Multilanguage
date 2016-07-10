@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.RadioPreference android:title="@string/wifi_setting_frequency_band_auto" android:key="wifi_band_auto" />
+    <com.android.settings.RadioPreference android:title="@string/wifi_setting_frequency_band_5g" android:key="wifi_band_5g" />
+    <com.android.settings.RadioPreference android:title="@string/wifi_setting_frequency_band_24g" android:key="wifi_band_24g" />
+    <PreferenceCategory android:title="" />
+</PreferenceScreen>

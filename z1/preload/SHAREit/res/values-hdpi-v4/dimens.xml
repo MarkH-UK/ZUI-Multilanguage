@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="anyshare_home_btn_width">210.0dip</dimen>
+    <dimen name="anyshare_home_btn_height">47.0dip</dimen>
+    <dimen name="anyshare_home_btn_textsize">20.0sp</dimen>
+    <dimen name="anyshare_home_btn_margin">14.0dip</dimen>
+    <dimen name="photo_grid_column_width">100.0dip</dimen>
+    <dimen name="photo_special_grid_column_width">75.0dip</dimen>
+</resources>

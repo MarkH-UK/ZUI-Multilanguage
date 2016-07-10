@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">வரம்பை விட %1$d எழுத்துக்குறிகள் அதிகமாக உள்ளன</item>
+        <item quantity="one">வரம்பை விட %1$d எழுத்துக்குறி அதிகமாக உள்ளது</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d எழுத்துக்குறிகள் மீதமுள்ளன</item>
+        <item quantity="one">%1$d எழுத்துக்குறி மீதமுள்ளது</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google கணக்குகள்</item>
+        <item quantity="one">%d Google கணக்கு</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">உங்கள் Google கணக்குகள் மற்றும் அவற்றின் தரவின் மூலம் ^1ஐ அமைக்க, இந்தச் சாதனம் பயன்படுத்தப்பட்டது</item>
+        <item quantity="one">உங்கள் Google கணக்கு மற்றும் அதன் தரவின் மூலம் ^1ஐ அமைக்க, இந்தச் சாதனம் பயன்படுத்தப்பட்டது</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d மணிநேரம்</item>
+        <item quantity="one">1 மணிநேரம்</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d நிமிடங்கள்</item>
+        <item quantity="one">1 நிமிடம்</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">பிழையினால் இந்த அழைப்புகள் அனுப்பப்படவில்லை</item>
+        <item quantity="one">பிழையினால் இந்த அழைப்பு அனுப்பப்படவில்லை</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">இந்த அழைப்புகளை தற்போது அனுப்ப முடியாது. Google Play> எனது கணக்கு என்பதற்குச் சென்று அவற்றை மீண்டும் அனுப்பலாம்.</item>
+        <item quantity="one">இந்த அழைப்பை தற்போது அனுப்ப முடியாது. Google Play > எனது கணக்கு என்பதற்குச் சென்று அதை மீண்டும் அனுப்பலாம்.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d அழைப்புகள் மீதமுள்ளன</item>
+        <item quantity="one">%d அழைப்பு மீதமுள்ளது</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d புதிய செய்திகள்</item>
+        <item quantity="one">1 புதிய செய்தி</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">உங்களுக்கு முன் %1$d பேர் உள்ளனர்</item>
+        <item quantity="one">உங்களுக்கு முன் ஒருவர் உள்ளார்</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d வட்டங்கள்</item>
+        <item quantity="one">1 வட்டம்</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d நாட்கள்</item>
+        <item quantity="one">1 நாள்</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d மணிநேரம்</item>
+        <item quantity="one">1 மணிநேரம்</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d நிமிடம்</item>
+        <item quantity="one">1 நிமிடம்</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d நாட்கள்</item>
+        <item quantity="one">1 நாள்</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d மணிநேரம்</item>
+        <item quantity="one">1 மணிநேரம்</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d நிமிடம்</item>
+        <item quantity="one">1 நிமிடம்</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d பேர்</item>
+        <item quantity="one">ஒருவர்</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s, மேலும் %2$d பயன்பாடுகள்</item>
+        <item quantity="one">%1$s, மேலும் %2$d பயன்பாடு</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d நாட்கள்</item>
+        <item quantity="one">%d நாள்</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d மணிநேரம்</item>
+        <item quantity="one">%d மணிநேரம்</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d நிமிடங்கள்</item>
+        <item quantity="one">%d நிமிடம்</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s பேர்</item>
+        <item quantity="one">%1$s நபர்</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d பின்தொடர்பவர்கள்</item>
+        <item quantity="one">ஒரு பின்தொடர்பவர்</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d பார்வைகள்</item>
+        <item quantity="one">ஒரு பார்வை</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">உங்கள் Google கணக்குகளையும் தரவையும் நகலெடுக்கிறது...</item>
+        <item quantity="one">உங்கள் Google கணக்கையும் தரவையும் நகலெடுக்கிறது...</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">உங்கள் Google கணக்குகளையும் தரவையும் கொண்டு ^1 ஐ அமைக்க, இந்தச் சாதனம் பயன்படுத்தப்பட்டது</item>
+        <item quantity="one">உங்கள் Google கணக்கையும் தரவையும் கொண்டு ^1 ஐ அமைக்க, இந்தச் சாதனம் பயன்படுத்தப்பட்டது</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">%d வினாடிகளில் நிறுவ, மீண்டும் தொடங்குகிறது…</item>
+        <item quantity="one">1 வினாடியில் நிறுவ, மீண்டும் தொடங்குகிறது…</item>
+    </plurals>
+</resources>

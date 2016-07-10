@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="x_dialer_green_highlight_bg">#ff0eae14</item>
+    <item type="drawable" name="x_contacts_list_driver_color">@color/x_list_divider_color</item>
+    <item type="drawable" name="x_contacts_detail_head_image_shade_driver">#0c000000</item>
+    <item type="drawable" name="x_contacts_detail_head_image_shade">#99000000</item>
+    <item type="drawable" name="transparent_title">#00000000</item>
+    <item type="drawable" name="xactionbar_press_color">#66000000</item>
+    <item type="drawable" name="navigationbar_background_transparent">@color/background_primary</item>
+    <item type="drawable" name="x_dialpad_driver_vertical">#ff34b338</item>
+    <item type="drawable" name="x_double_card_driver_color">#ff34b338</item>
+    <item type="drawable" name="x_actionbr_bg_color">@color/x_background_actionbar</item>
+    <item type="drawable" name="x_dialer_profile">@color/x_background_pressed</item>
+    <item type="drawable" name="x_dialer_profile_normal">@color/background_primary</item>
+    <item type="drawable" name="merge_bottom_backgroud">#ffffffff</item>
+    <item type="drawable" name="merge_bottom_backgroud_press">#fff3f3f3</item>
+</resources>

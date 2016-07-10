@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Google Play Hizmetleri hatası</string>
+    <string name="z">Bir uygulama, Google Play Hizmetleri için bir güncelleme gerektiriyor.</string>
+    <string name="a0">%1$s, Android Wear uygulamasında güncelleme yapılmasını gerektiriyor.</string>
+    <string name="a1">"Bir uygulama, Google Play Hizmetleri'nin etkin olmasını gerektiriyor."</string>
+    <string name="a2">İstekte bulunan: %1$s</string>
+    <string name="a3">Google Play hizmetlerini edinin</string>
+    <string name="a4">%1$s, şu anda telefonunuzda bulunmayan Google Play hizmetleri olmadan çalışmayacak.</string>
+    <string name="a5">%1$s, şu anda tabletinizde bulunmayan Google Play hizmetleri olmadan çalışmayacak.</string>
+    <string name="a6">Google Play hizmetlerini edin</string>
+    <string name="a7">Google Play hizmetlerini etkinleştir</string>
+    <string name="a8">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmayacak.</string>
+    <string name="a9">Google Play hizmetlerini etkinleştir</string>
+    <string name="a_">Google Play hizmetlerini güncelle</string>
+    <string name="aa">"Android Wear'ı Güncelle"</string>
+    <string name="ab">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string name="ac">%1$s, Android Wear uygulaması güncellenene kadar çalışmayacak.</string>
+    <string name="ad">Google Play hizmetleri güncelleniyor</string>
+    <string name="ae">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmayacak.</string>
+    <string name="af">Ağ Hatası</string>
+    <string name="ag">Google Play hizmetlerine bağlanmak için bir veri bağlantısı gerekiyor.</string>
+    <string name="ah">Geçersiz Hesap</string>
+    <string name="ai">Belirtilen hesap bu cihazda mevcut değil. Lütfen farklı bir hesap seçin.</string>
+    <string name="aj">Google Play hizmetleriyle ilgili bilinmeyen sorun.</string>
+    <string name="ak">Google Play hizmetleri</string>
+    <string name="al">%1$s, cihazınız tarafından desteklenmeyen Google Play hizmetlerine ihtiyaç duyuyor. Yardım için üreticiyle görüşün.</string>
+    <string name="am">Güncelle</string>
+    <string name="an">Oturum aç</string>
+    <string name="ao">"Google'da oturum aç"</string>
+    <string name="ap">Telefonda aç</string>
+    <string name="aq">%1$s şu anda kullanılamayan bir veya daha fazla Google Play hizmetini gerektiriyor. Lütfen yardım için geliştiriciyle iletişime geçin.</string>
+    <string name="ar">Oturum açılamadı</string>
+    <string name="as">Belirtilen hesapta oturum açılırken hata oluştu. Lütfen farklı bir hesap seçin.</string>
+    <string name="cg7">WeChat</string>
+    <string name="cg8">WeChat</string>
+    <string name="cg9">WeChat</string>
+    <string name="cg_">"Anlar'a gönder"</string>
+    <string name="cga">WeChat Sık Kullanılanlar</string>
+    <string name="ctw">file:///android_asset/doc/en/network_warning.htm</string>
+    <string name="ctx">file:///android_asset/doc/default/oauth_network_error.html</string>
+    <string name="cty">file:///android_asset/doc/en/qqsync_intro.htm</string>
+    <string name="ctz">file:///android_asset/doc/en/qqsync_privacy.htm</string>
+    <string name="cu0">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_msgtrans_agreement&amp;lang=en</string>
+    <string name="cu1">http://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/record_sync__course&amp;lang=zh_CN</string>
+    <string name="cu2">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_chat_migration_faq&amp;lang=zh_CN</string>
+    <string name="cu3">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_contract_agreement&amp;lang=en</string>
+    <string name="cu4">\?hl=en</string>
+    <string name="cu5">http://weixin.qq.com/agreement?lang=en</string>
+    <string name="cu6">http://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&amp;check=false&amp;t=weixin_agreement&amp;s=terms</string>
+    <string name="cu7">http://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&amp;check=false&amp;t=weixin_agreement&amp;s=privacy</string>
+    <string name="cu8">http://support.wechat.com/getpassword?lang=en</string>
+    <string name="cu9">https://account.qq.com/cgi-bin/en/index</string>
+    <string name="cu_">http://open.weixin.qq.com/emoticon#wechat_redirect</string>
+    <string name="cua">http://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/payment_security__intro</string>
+    <string name="cub">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_small_pay</string>
+    <string name="cuc">http://action.weixin.qq.com/payact/readtemplate?t=mobile/shuaka/help_tmpl</string>
+    <string name="cud">sound/play_completed.mp3</string>
+    <string name="cue">sound/time_limit.mp3</string>
+    <string name="cuf">sound/after_upload_voice.mp3</string>
+    <string name="cug">sound/qrcode_completed.mp3</string>
+    <string name="cuh">sound/talkroom_begin.mp3</string>
+    <string name="cui">sound/talkroom_press.mp3</string>
+    <string name="cuj">sound/talkroom_sasasa.mp3</string>
+    <string name="cuk">sound/talkroom_othersbegin.mp3</string>
+    <string name="cul">sound/talkroom_up.mp3</string>
+    <string name="cum">sound/shake_sound_male.mp3</string>
+    <string name="cun">sound/shake_nomatch.mp3</string>
+    <string name="cuo">sound/shake_match.mp3</string>
+    <string name="cup">sound/shakelucky_firework_sound.mp3</string>
+    <string name="cuq">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_business_pay&amp;lang=%s</string>
+    <string name="cur">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_business_agreement&amp;lang=%s</string>
+    <string name="cus" formatted="false">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_business_bank&amp;lang=%s&amp;banktype=%s</string>
+    <string name="cut" formatted="false">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_person_pay&amp;lang=%s&amp;banktype=%s</string>
+    <string name="cuu" formatted="false">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_bank_wxcredit&amp;lang=%s&amp;banktype=%s</string>
+    <string name="cuv">http://weixin.qq.com/cgi-bin/readtemplate?&amp;lang=en&amp;check=false&amp;t=weixin_agreement&amp;s=pay#point</string>
+    <string name="cuw">http://weixin.qq.com/cgi-bin/readtemplate?t=weixin_emoji_agreement&amp;lang=</string>
+    <string name="cux">http://weixin.qq.com/cgi-bin/readtemplate?lang=%s&amp;t=weixin_groupOwnerResponsibility</string>
+    <string name="cuy">http://weixin.qq.com/cgi-bin/readtemplate?lang=%s&amp;t=weixin_howToAdjustGroupNum</string>
+    <string name="cuz">http://weixin110.qq.com/?lang=</string>
+    <string name="cv0" formatted="false">https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx10583a7e974992ec&amp;redirect_uri=http%3A%2F%2Fkf.qq.com%2Ftouch%2Fscene_product.html%3Fscene_id%3Dkf338&amp;response_type=code&amp;scope=snsapi_base&amp;state=123#wechat_redirect</string>
+    <string name="cv1" formatted="false">https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx10583a7e974992ec&amp;redirect_uri=http%3A%2F%2Fkf.qq.com%2Ftouch%2Fscene_product.html%3Fscene_id%3Dkf348&amp;response_type=code&amp;scope=snsapi_base&amp;state=123#wechat_redirect</string>
+    <string name="cv2" formatted="false">https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx10583a7e974992ec&amp;redirect_uri=http%3A%2F%2Fkf.qq.com%2Ftouch%2Fscene_product.html%3Fscene_id%3Dkf350&amp;response_type=code&amp;scope=snsapi_base&amp;state=123#wechat_redirect</string>
+    <string name="cv3">file:///android_asset/doc/default/wx_wifi_faq.html</string>
+    <string name="cv4">file:///android_asset/doc/default/wx_wifi_service_terms_chs.html</string>
+    <string name="cv5">Dosya: ///android_asset/doc/default/mig_wifi_service_terms_chs.html</string>
+    <string name="cv6">file:///android_asset/doc/default/wx_feedback_index.html</string>
+    <string name="cv7">https://support.weixin.qq.com/security/readtemplate?t=page/login_optimized__w_index&amp;lang=</string>
+    <string name="cv8">https://support.weixin.qq.com/getpassword?lang=</string>
+    <string name="cv9">http://weixin.qq.com/cgi-bin/readtemplate?t=emotion/wap/complain/msg_tmpl&amp;lang=</string>
+</resources>

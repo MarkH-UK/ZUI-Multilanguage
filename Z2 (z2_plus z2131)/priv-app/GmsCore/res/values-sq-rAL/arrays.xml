@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafe</item>
+        <item>Pikë karburanti</item>
+        <item>Kinema</item>
+        <item>Vendbanim</item>
+        <item>Klub nate</item>
+        <item>Muze</item>
+        <item>Restorant</item>
+        <item>Qendër tregtare</item>
+        <item>Dyqan</item>
+        <item>Dyqan ushqimor ose supermarket</item>
+        <item>Tjetër</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>i dobët</item>
+        <item>jo i dobët</item>
+        <item>i mirë</item>
+        <item>i fortë</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Lësho</item>
+        <item>Programuesi</item>
+        <item>Shitja me pakicë</item>
+        <item>Demonstrimi</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Telefoni dhe makina po ekzekutojnë softuerë të papërputhshëm. Për më shumë detaje, vizito &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Makina ka reklamuar një paketë të pasaktë konfigurimesh të audios dhe/ose videos.</item>
+        <item>"Lidhja e USB-së nuk po funksionon si duhet. Gjërat që mund të provosh: 
+
+• Sigurohu që kablloja të jetë e vendosur mirë në të dyja skajet. 
+•Sigurohu që të kesh një kabllo USB për të dhënat. 
+•Sigurohu që data dhe ora të jenë caktuar saktë si për makinën, ashtu edhe për telefonin."</item>
+        <item>Makina ka ndaluar ekzekutimin e Android Auto.</item>
+        <item>Sesioni i Android Auto ndaloi, siç u kërkua.</item>
+        <item>Softueri i makinës mund të mos jetë i përditësuar. Për detaje dhe mbështetje, kontakto me prodhuesin.</item>
+        <item>Softueri i makinës tënde nuk i kaloi kontrollet e sigurisë së Android Auto. Për detaje dhe mbështetje, kontakto me prodhuesin.</item>
+        <item>Softueri i makinës tënde nuk i kaloi kontrollet e sigurisë së Android Auto. Sigurohu që data dhe ora e makinës të jenë caktuar me saktësi dhe që Android Auto të jetë i përditësuar.</item>
+        <item>Një veprimi i mbaroi koha për ekzekutim. Duhet të hapësh një raportim për defekte në kod dhe të regjistrosh një koment.</item>
+        <item>Duket se nuk ke të instaluar një nisës aplikacionesh. A është konfiguruar si duhet telefoni yt?</item>
+        <item>Kanali i grafikëve sapo u mbyll. Duhet të hapësh një raportim për defekte në kod dhe të regjistrosh një koment.</item>
+        <item>Makina nuk po u përgjigjet mesazheve nga telefoni. Makina mund të jetë në gjendjen e gabuar.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Aeroport</item>
+        <item>ATM</item>
+        <item>Bankë</item>
+        <item>Bar</item>
+        <item>Stacion autobusi</item>
+        <item>Kafene</item>
+        <item>Kampim</item>
+        <item>Varrezë</item>
+        <item>Kishë</item>
+        <item>Bashki</item>
+        <item>Vendbanim</item>
+        <item>Pikë karburanti</item>
+        <item>Dyqan ushqimor ose supermarket</item>
+        <item>Tempull hinduist</item>
+        <item>Spital</item>
+        <item>Bibliotekë</item>
+        <item>Vendbanim</item>
+        <item>Xhami</item>
+        <item>Kinema</item>
+        <item>Muze</item>
+        <item>Park</item>
+        <item>Parkim</item>
+        <item>Vend adhurimi</item>
+        <item>Komisariat policie</item>
+        <item>Postë</item>
+        <item>Restorant</item>
+        <item>Shkollë</item>
+        <item>Dyqan</item>
+        <item>Stacion metroje</item>
+        <item>Sinagogë</item>
+        <item>Stacion treni</item>
+        <item>Stacion transporti publik</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Janar</item>
+        <item>Shkurt</item>
+        <item>Mars</item>
+        <item>Prill</item>
+        <item>Maj</item>
+        <item>Qershor</item>
+        <item>Korrik</item>
+        <item>Gusht</item>
+        <item>Shtator</item>
+        <item>Tetor</item>
+        <item>Nëntor</item>
+        <item>Dhjetor</item>
+    </string-array>
+</resources>

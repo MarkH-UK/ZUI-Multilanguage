@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Javob</item>
+        <item>Barchaga javob</item>
+        <item>"Jo'nating"</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Bir qator</item>
+        <item>Ikki qator</item>
+        <item>Uch qator</item>
+        <item>"To'rt qator"</item>
+        <item>Besh qator</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Mayda</item>
+        <item>Kichik</item>
+        <item>"O'rtacha"</item>
+        <item>Keng</item>
+        <item>Yirik</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Yaqinda kelgan</item>
+        <item>Format</item>
+        <item>Ism</item>
+        <item>Dan</item>
+        <item>Sana</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Tizim</item>
+        <item>Tezkor maktublar</item>
+        <item>Barcha papkalar</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Kelgusi muloqot</item>
+        <item>Avvalgi muloqot</item>
+        <item>"Muloqot ro'yxati"</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>"Arxivlangan elementlarnigina ko'rsating"</item>
+        <item>"O'chirilgan elementlarnigina ko'rsating"</item>
+        <item>"Ham arxivlangan ham o'chirilgan elementlarni ko'rsating"</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>"O'chirganingizdan keyin kelgusi muloqotni ko'rsating"</item>
+        <item>"O'chirganingizdan keyin avvalgi muloqotni ko'rsating"</item>
+        <item>"O'chirganingizdan keyin muloqot ro'yxatini ko'rsating"</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>"Arxivlangan elementlarnigina ko'rsating"</item>
+        <item>"O'chirilgan elementlarnigina ko'rsating"</item>
+        <item>"Ham arxivlangan ham o'chirilgan elementlarni ko'rsating"</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Manzil:</item>
+        <item>Tel:</item>
+        <item>Ism:</item>
+        <item>Elektron pochta:</item>
+        <item>UIyali telefon:</item>
+        <item>WeChat:</item>
+        <item>Faks:</item>
+        <item>Pochta Indeksi:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Raxmat,</item>
+        <item>Ehtirom ila</item>
+        <item>"Menikidan jo'natildi"</item>
+        <item>Asl elektron pochta</item>
+        <item>"Menikidan jo'natildi"</item>
+        <item>"Dan jo'natildi"</item>
+        <item>Dan</item>
+        <item>Bu elektron maktub</item>
+        <item>Yozma rad etish</item>
+        <item>Eleltron pochta yozma rad etuvi</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sinxronlash muvaffaqiyatli kechdi</item>
+        <item>Tarmoq ulanishida xatolik</item>
+        <item>"Qayddan o'tib kirish muvaffaqiyatsiz kechdi"</item>
+        <item>Xavfsiz ulanishda xatolik</item>
+        <item>Sinxronlash muvaffaqiyatsiz kechdi</item>
+        <item>Server xatosi</item>
+    </string-array>
+</resources>

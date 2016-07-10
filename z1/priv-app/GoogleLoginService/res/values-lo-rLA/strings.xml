@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play Services ​ເກີດ​ຄວາມ​ຜິດ​ພາດ</string>
+    <string name="common_google_play_services_notification_needs_installation_title">​ແອັບ​ພ​ລິ​ເຄ​ຊັນ​ຕ້ອງ​ການ​ໃຫ້​ຕິດ​ຕັ້ງ​ບໍ​ລິ​ການ Google Play ກ່ອນ.</string>
+    <string name="common_google_play_services_notification_needs_update_title">​ແອັບ​ພ​ລິ​ເຄ​ຊັນ​ຕ້ອງ​ການ​ໃຫ້​ອັບ​ເດດບໍ​ລິ​ການ Google Play ກ່ອນ.</string>
+    <string name="common_android_wear_notification_needs_update_text">ແອັບະ​ລິ​ເຄ​ຊັນ​ຕ້ອງ​ການ​ໃຫ້​ອັບ​ເດດ​ແອັບຯ Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">ແອັບພລິເຄຊັນຕ້ອງ​ການນຳໃຊ້ Google Play Services.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">ຮ້ອງຂໍໂດຍ %1$s</string>
+    <string name="common_google_play_services_install_title">ຕິດຕັ້ງບໍລິການ Google Play</string>
+    <string name="common_google_play_services_install_text_phone">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ໂດຍທີ່ບໍ່ມີບໍລິການ Google Play ເຊິ່ງຂາດຫາຍໄປໃນໂທລະສັບຂອງທ່ານ.</string>
+    <string name="common_google_play_services_install_text_tablet">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ໂດຍທີ່ບໍ່ມີບໍລິການ Google Play ເຊິ່ງຂາດຫາຍໄປໃນແທັບເລັດຂອງທ່ານ.</string>
+    <string name="common_google_play_services_install_button">ຕິດຕັ້ງບໍລິການ Google Play</string>
+    <string name="common_google_play_services_enable_title">ເປີດໃຊ້ບໍລິການ Google Play</string>
+    <string name="common_google_play_services_enable_text">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະເປີດໃຊ້ບໍລິການ Google Play</string>
+    <string name="common_google_play_services_enable_button">ເປີດໃຊ້ບໍລິການ Google Play</string>
+    <string name="common_google_play_services_update_title">ອັບເດດບໍລິການ Google Play</string>
+    <string name="common_android_wear_update_title">​ອັບ​ເດດ Android Wear</string>
+    <string name="common_google_play_services_update_text">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະອັບເດດບໍລິການ Google Play.</string>
+    <string name="common_android_wear_update_text">ແອັບຯ​ນີ້​ຈະ​ບໍ່​ສາ​ມາດ​ໃຊ້​ໄດ້​ຈົນ​ກວ່າ​ທ່ານ​ຈະ​ອັບ​ເດດ​ແອັບຯ Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">ເຄືອຂ່າຍຜິດພາດ</string>
+    <string name="common_google_play_services_network_error_text">ຕ້ອງໃຊ້ການເຊື່ອມຕໍ່ອິນເຕີເນັດເພື່ອໃຊ້ Google Play Services.</string>
+    <string name="common_google_play_services_invalid_account_title">ບັນຊີບໍ່ຖືກຕ້ອງ</string>
+    <string name="common_google_play_services_invalid_account_text">ບັນຊີທີ່ເລືອກບໍ່ມີໃນອຸປະກອນນີ້. ກະລຸນາເລືອກບັນຊີອື່ນ.</string>
+    <string name="common_google_play_services_unknown_issue">ມີປັນຫາທີ່ບໍ່ຄາດຄິດໃນບໍລິການ Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">ບໍລິການ Google Play</string>
+    <string name="common_google_play_services_unsupported_text">ບໍລິການ Google Play ທີ່ບາງແອັບພລິເຄຊັນຂອງທ່ານຕ້ອງອາໄສນັ້ນ ບໍ່ຖືກຮອງຮັບໃນອຸປະກອນຂອງທ່ານ. ກະລຸນາຕິດຕໍ່ຜູ້ຜະລິດສຳລັບການແນະນຳ.</string>
+    <string name="common_google_play_services_update_button">ອັບເດດ</string>
+    <string name="common_signin_button_text">ເຂົ້າສູ່ລະບົບ</string>
+    <string name="common_signin_button_text_long">ເຂົ້າສູ່ລະບົບດ້ວຍ Google</string>
+    <string name="common_open_on_phone">​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ</string>
+    <string name="setup_wizard_next_button_label">ຖັດໄປ</string>
+    <string name="setup_wizard_back_button_label">ກັບຄືນ</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">ຂ້າມ</string>
+    <string name="down_button_label">ເພີ່ມເຕີມ</string>
+    <string name="cancel_button_label">ຍົກເລີກ</string>
+    <string name="try_again_button_label">ລອງອີກຄັ້ງ</string>
+    <string name="close_button_label">ປິດ</string>
+    <string name="url_load_unsuccessful_message">ອຸປະກອນ Android ຂອງທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບການບໍລິການຂໍ້ມູນ. ເພື່ອເບິ່ງຂໍ້ມູນນີ້, ໃຫ້ໄປທີ່ %s ໃນໂປຣແກຣມທ່ອງເວັບ.</string>
+    <string name="sign_in_agreement">ໂດຍການເຂົ້າສູ່ລະບົບ ແມ່ນຖືວ່າທ່ານຍອມຮັບ <annotation id="tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation>, <annotation id="google_privacy">ນະໂຍບາຍຄວາມເປັນສ່ວຍຕົວ</annotation> ຂອງ Google ແລະ <annotation id="play_tos">ເງື່ອນໄຂການໃຫ້ບໍລິການຂອງ Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວເພີ່ມເຕີມ</string>
+    <string name="google_terms_of_service_title">ເງື່ອນໄຂການໃຫ້ບໍລິການຂອງ Google</string>
+    <string name="google_privacy_policy_title">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ Google</string>
+    <string name="google_plus_privacy_policy_title">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ Google Plus</string>
+    <string name="google_play_tos_title">ເງື່ອນໄຂການໃຫ້ບໍລິການຂອງ Google Play</string>
+    <string name="chrome_tos_title">ເງື່ອນໄຂການໃຫ້ບໍລິການຂອງ Chrome</string>
+    <string name="chrome_privacy_title">ແຈ້ງການກ່ຽວກັບຄວາມເປັນສ່ວນຕົວຂອງ Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">ອຸປະກອນ Android ຂອງທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບ WiFi. ໃນການເບິ່ງຂໍ້ມູນດັ່ງກ່າວຕອນນີ້, ໃຫ້ໄປທີ່ %s ໃນໂປຣແກຣມທ່ອງເວັບ.</string>
+    <string name="services_activity_title">ບໍລິການ Google</string>
+    <string name="services_backup_heading">ສຳຮອງຂໍ້ມູນ</string>
+    <string name="services_location_heading">ສະຖານທີ່</string>
+    <string name="services_security_heading">ຄວາມປອດໄພ</string>
+    <string name="services_personalization_heading">ການປັບແຕ່ງສ່ວນບຸກຄົນ</string>
+    <string name="services_communication_heading">ການສື່ສານ</string>
+    <string name="security_verify_apps_summary">ອະນຸຍາດໃຫ້ Google ກວດສອບເບິ່ງແອັບຯທັງໝົດທີ່ຕິດຕັ້ງຢູ່ ທີ່ອາດມີພຶດຕິກຳໃນທາງສ້າງຄວາມເສຍຫາຍ ທີ່ອາດຈະສົ່ງຜົນຕໍ່ຄວາມປອດໄພຂອງອຸປະກອນ ຫຼື ຂໍ້ມູນຂອງທ່ານ.</string>
+    <string name="name_title">ຊື່ຂອງທ່ານ</string>
+    <string name="name_text">ຊື່ຂອງທ່ານໃຊ້ເພື່ອປັບແຕ່ງໂທລະສັບ ແລະບໍລິການ Google ໃຫ້ເປັນແບບສ່ວນຕົວຂອງທ່ານ.</string>
+    <string name="first_name">ຊື່</string>
+    <string name="last_name">ນາມສະກຸນ</string>
+    <string name="cant_be_blank">ຊ່ອງໃສ່ຂໍ້ມູນບໍ່ສາມາດປ່ອຍໃຫ້ຫວ່າງໄດ້.</string>
+    <string name="sharedUserLabel">ບໍລິການ Google</string>
+    <string name="app_label">Google Account Manager</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">ເຂົ້າສູ່ລະບົບ</string>
+    <string name="create_button_label">ສ້າງບັນຊີ</string>
+    <string name="not_now_button_label">ບໍ່ແມ່ນຕອນນີ້</string>
+    <string name="new_button_label">ໃໝ່</string>
+    <string name="existing_button_label">ທີ່ມີຢູ່ແລ້ວ</string>
+    <string name="done">ຕົກລົງ</string>
+    <string name="edit_text_help">ແຕະໃສ່ຊ່ອງຂໍ້ຄວາມໃດກໍໄດ້ເພື່ອເລີ່ມຕົ້ນພິມ</string>
+    <string name="add_a_google_account">ເພີ່ມບັນຊີ Google</string>
+    <string name="captcha_title">ຕ້ອງການໃຫ້ໃສ່ CAPTCHA</string>
+    <string name="show_error_title">ຜິດພາດ</string>
+    <string name="server_error">ມີບັນຫາໃນການຕິດຕໍ່ສື່ສານກັບເຊີບເວີ Google.</string>
+    <string name="server_error_help">ລອງໃໝ່ອີກຄັ້ງໃນພາຍຫລັງ.</string>
+    <string name="network_unreliable">ບໍ່ສາມາດສ້າງການເຊື່ອມຕໍ່ທີ່ເຊື່ອຖືຫາເຊີບເວີໄດ້.</string>
+    <string name="network_unreliable_help">ນີ້ອາດເປັນປັນຫາໄລຍະສັ້ນ ຫຼື ອຸປະກອນ Android ຂອງທ່ານອາດບໍ່ໄດ້ເປີດໃຫ້ໃຊ້ບໍລິການເຄືອຂ່າຍຂໍ້ມູນ. ຖ້າປັນຫາຍັງສືບຕໍ່, ໃຫ້ໂທຫາສູນບໍລິການລູກຄ້າ.</string>
+    <string name="network_unreliable_help_wifi_only">ນີ້ອາດຈະເປັນບັນຫາຊົ່ວຄາວ. ພະຍາຍາມອີກເທື່ອຫນຶ່ງຫຼືເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi ອື່ນ.</string>
+    <string name="invalid_login_character">ໂຕອັກສອນບໍ່ຖືກຕ້ອງ. ມີພຽງ 0-9, a-z, A-Z ແລະເຄື່ອງໝາຍຈ້ຳເມັດເທົ່ານັ້ນທີ່ສາມາດໃຊ້ໄດ້.</string>
+    <string name="invalid_password_character">ລະຫັດຜ່ານມີໂຕອັກສອນທີ່ບໍ່ຖືກຕ້ອງ.</string>
+    <string name="calendar">Google Calendar</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">ຊ່ອງໃສ່ຂໍ້ມູນບໍ່ສາມາດປ່ອຍໃຫ້ຫວ່າງໄດ້.</string>
+    <string name="plus_query_title">ອັບເກຣດເປັນ Google+</string>
+    <string name="plus_query_text">Google+ ເຮັດໃຫ້ການແບ່ງປັນຢູ່ເທິງເວັບ ຄ້າຍຄືກັບການແບ່ງປັນໃນຊີວິດຈິງຍິ່ງຂຶ້ນ.</string>
+    <string name="circles_subtitle">ສິ່ງຕ່າງໆທີ່ທ່ານກຳລັງເຂົ້າໄປ</string>
+    <string name="circles_text">ເຊື່ອມຕໍ່ກັບໝູ່ສະນິດ ແລະສຳຫຼວດຄວາມສົນໃຈທີ່ຄ້າຍກັນ</string>
+    <string name="uploads_subtitle">ສຳຮອງຮູບພາບອັດຕະໂນມັດ</string>
+    <string name="uploads_text">ສຳຮອງຮູບພາບເມື່ອທ່ານຖ່າຍຮູບ ດ້ວຍບ່ອນຈັດເກັບຂໍ້ມູນສ່ວນໂຕທີ່ໃຊ້ໄດ້ຟຣີ.</string>
+    <string name="huddle_subtitle">ການໂທດ້ວຍວິດີໂອ &amp; ການສົ່ງຂໍ້ຄວາມ</string>
+    <string name="huddle_text">ເພີດເພີນໄປກັບການສົ່ງຂໍ້ຄວາມ, ຮູບພາບ ແລະສົນທະນາເປັນກຸ່ມດ້ວຍວິດີໂອໂດຍໃຊ້ Hangouts.</string>
+    <string name="plus_declined_button_label">ບໍ່ຟ້າວເທື່ອ</string>
+    <string name="plus_accepted_button_label">ເລີ່ມຕົ້ນ</string>
+    <string name="plus_name_check_title">ກຳລັງຕິດຕໍ່ Google+...</string>
+    <string name="plus_name_check_text">ຂັ້ນຕອນນີ້ອາດໃຊ້ເວລາສອງສາມນາທີ.</string>
+    <string name="plus_faq_title">ຍິນດີຕ້ອນຮັບສູ່ Google+!</string>
+    <string name="plus_faq_text" formatted="false">"ໃນ Google+, ທ່ານຈະມີໂປຣໄຟລ໌ສາທາລະນະ ທີ່ຊ່ວຍໃຫ້ໝູ່ຄູ່ຂອງທ່ານສາມາດຊອກຫາທ່ານເຫັນທາງອອນລາຍ. ທຸກຄົນທີ່ຮູ້ອີເມວຂອງທ່ານສາມາດຊອກຫາທ່ານ ແລະ ເຂົ້າເບິ່ງໂປຣໄຟລ໌ຂອງທ່ານໄດ້.
+
+ທ່ານສາມາດໃຊ້ປຸ່ມ +1 ໃນເວັບໄຊທົ່ວໄປ ເພື່ອແນະນຳສິ່ງຕ່າງໆໃຫ້ກັບຜູ່ອື່ນໃນທົ່ວໂລກ. ໂປຣໄຟລ໌ ແລະ +1 ຂອງທ່ານຈະສະແດງແບບສາທາລະນະໃນ ການຊອກຫາ, ໃນໂຄສະນາ ແລະທົ່ວໄປໃນອິນເຕີເນັດ.
+
+ນັບແຕ່ນີ້ໄປ, ໂປຣໄຟລ໌ຂອງທ່ານຈະສະແດງແຕ່ຊື່ຂອງທ່ານເທົ່ານັ້ນ (%s %s). ທ່ານສາມາດເພີ່ມຮູບພາບ, ປະຫວັດ ແລະ ລາຍລະອຽດອື່ນໆໃນພາຍຫຼັງ ເມື່ອທ່ານເລີ່ມນຳໃຊ້ Google+."</string>
+    <string name="dasher_warning">ຜູ່ເບິ່ງແຍງລະບົບຂອງ %s ເປັນເຈົ້າຂອງ ແລະ ຈັດການຂໍ້ມູນຂອງທ່ານທັງໝົດໃນ Google+ ແລະສາມາດລຶບ ຫຼືປັບແຕ່ງໂປຣໄຟລ໌ຂອງທ່ານໄດ້ຕະຫລອດເວລາໂດຍບໍ່ຈຳເປັນຕ້ອງມີການອະນຸຍາດຈາກທ່ານ.</string>
+    <string name="profile_info_title">ໂປຣໄຟລ໌ຂອງທ່ານ</string>
+    <string name="profile_text">ລະບຸຂໍ້ມູນພື້ນຖານໃຫ້ໂປຣໄຟລ໌ຂອງທ່ານ. ທ່ານສາມາດເພີ່ມຮູບພາບ ຫຼືຂໍ້ມູນອື່ນໆໄດ້ໃນພາຍຫລັງເມື່ອທ່ານລືມນຳໃຊ້ Google+.</string>
+    <string name="occupation">ອາຊີບ</string>
+    <string name="current_city">ເມືອງຢູ່ປັດຈຸບັນ</string>
+    <string name="picassa_info_title">Picasa ແລະ Google+</string>
+    <string name="picassa_info_text" formatted="false">ຮູບພາບ ແລະ ວີດີໂອຂອງທ່ານໃນ Picasa Web Albums ຈະມີຢູ່ໃນ Google+ ແລະ ຄຳຄິດເຫັນຂອງທ່ານຈະເປັນໂດຍ %s %s ແທນທີ່ຈະແມ່ນ %s. ເມື່ອທ່ານແບ່ງປັນຮູບຂອງທ່ານໃນ Google+, ຜູ່ໄດ້ຮັບຈະສາມາດແບ່ງປັນພວກມັນຕໍ່ໃຫ້ໃຜກໍໄດ້. ການຕັ້ງຄ່າສິດການເບິ່ງເຫັນອະລະບໍ້າຂອງທ່ານຈະບໍ່ປ່ຽນ ແລະທ່ານສາມາດຈຳກັດມັນໄດ້ຕະຫຼອດເວລາ ເພື່ອບໍ່ໃຫ້ສາມາດແບ່ງປັນພວກມັນຕໍ່ໄດ້ຢ່າງເສລີ.</string>
+    <string name="name_title_plus">ຊື່ Google+ ຂອງທ່ານ</string>
+    <string name="name_title_local">ໂທລະສັບນີ້ເປັນຂອງ...</string>
+    <string name="name_text_local">ໂທລະສັບ​ຈະໃຊ້​ຊື່​ຂອງທ່ານ​ເພື່ອ​ປັບແຕ່ງ​ບາງແອັບຯ.</string>
+    <string name="name_progress_title">ຖ້າຈັກໜ່ອຍ...</string>
+    <string name="bad_name_title">ໃຊ້ຊື່ນີ້ບໍ່?</string>
+    <string name="invalid_name_title">ບໍ່ສາມາດໃຊ້ຊື່ນີ້ໄດ້</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"ຫາກທ່ານຕ້ອງການຊື່ນີ້ເປັນຊື່ Google+ ຂອງທ່ານ, ທີມງານຂອງພວກເຈົາຈະຕ້ອງກວດສອບມັນກ່ອນ ຫາກວ່າມັນລະເມີດນະໂຍບາຍຊື່ຂອງພວກເຮົາ, ໂປຣໄຟລ໌ຂອງທ່ານອາດຖືກລະງັບການໃຊ້ບໍລິການ ແລະທ່ານອາດສູນເສຍການເຂົ້າເຖິງບໍລິການ Google+ ແລະບໍລິການອື່ນໆທີ່ເຊື່ອມໂຍງກັບໂປຣໄຟລ໌ຂອງທ່ານໄດ້.
+
+"<annotation id="learn_more">ສຶກສາເພີ່ມເຕີມ</annotation></string>
+    <string name="invalid_name_text">ທ່ານບໍ່ສາມາດໃຊ້ຊື່ນີ້ໄດ້ກັບ Google+ ເນື່ອງຈາກມັນມີໂຕອັກສອນທີ່ບໍ່ຖືກຕ້ອງ.</string>
+    <string name="invalid_nickname_text">ທ່ານບໍ່ສາມາດໃຊ້ຊື່ນີ້ກັບ Google+ ໄດ້ ເນື່ອງຈາກມັນມີໂຕອັກສອນທີ່ບໍ່ຖືກຕ້ອງ. ກຳລັງພະຍາຍາມໃຊ້ຊື່ຫຼິ້ນ, ຊື່ທີ່ເຄີຍໃຊ້ ຫຼືຕຳແໜ່ງບໍ? ທ່ານສາມາດໃສ່ພວກມັນລົງໄປໄດ້ພາຍຫຼັງ ຫຼັງຈາກທີ່ທ່ານເຂົ້າຮ່ວມແລ້ວ.</string>
+    <string name="invalid_other_text">ຊື່ນີ້ບໍ່ສາມາດໃຊ້ກັບ Google+ ໄດ້.</string>
+    <string name="bad_name_agree_text">ຂ້າພະເຈົ້າເຂົ້າໃຈ ແລະ ຕ້ອງການນຳໃຊ້ຊື່ດັ່ງກ່າວນີ້.</string>
+    <string name="bad_name_decline_button_label">ອັບເດດຊື່</string>
+    <string name="bad_name_agree_button_label">ສົ່ງຊື່ເພື່ອກວດສອບ</string>
+    <string name="bad_name_skip_button_label">ຂ້າມ Google+</string>
+    <string name="photo_title">ຮູບພາບຂອງທ່ານ</string>
+    <string name="photo_text">ຮູບນີ້ຈະຖືກນຳໃຊ້ໃນລາຍຊື່ຜູ່ຕິດຕໍ່ຂອງທ່ານ. ທ່ານສາມາດປ່ຽນມັນໄດ້ໃນພາຍຫຼັງໃນແອັບຯ People.</string>
+    <string name="photo_text_es">ຖ່າຍຮູບທີ່ໝູ່ຄູ່ຂອງທ່ານຈະເຫັນໃນ Google+. ທ່ານສາມາດເລືອກຮູບໃໝ່ໄດ້ໃນພາຍຫຼັງ.</string>
+    <string name="photo_button_label">ຖ່າຍຮູບ</string>
+    <string name="retake_photo_button_label">ຖ່າຍຮູບໃໝ່</string>
+    <string name="photo_failure">ບໍ່ສາມາດເປີດກ້ອງຖ່າຍຮູບໄດ້.</string>
+    <string name="crop_failure">ບໍ່ສາມາດຕັດຂະໜາດຮູບໄດ້.</string>
+    <string name="photo_description">ຮູບພາບຂອງທ່ານ</string>
+    <string name="communicating_message">ໂທລະສັບຂອງທ່ານກຳລັງຕິດຕໍ່ກັບ Google ເພື່ອບັນທຶກຂໍ້ມູນໃສ່ບັນຊີຂອງທ່ານ. ຂັ້ນຕອນນີ້ອາດໃຊ້ເວລາເຖິງ 5 ນາທີ.</string>
+    <string name="creating_account_title">ກຳລັງບັນທຶກບັນຊີ...</string>
+    <string name="checking_username_message">"ໂທລະສັບຂອງທ່ານກຳລັງຕິດຕໍ່ Google ເພື່ອເບິ່ງວ່າຊື່ຂອງຜູ່ໃຊ້ທີ່ທ່ານຕ້ອງການນັ້ນ ສາມາດນຳໃຊ້ໄດ້ຫຼືບໍ່.
+
+ຂັ້ນຕອນນີ້ອາດໃຊ້ເວລາສອງສາມນາທີ."</string>
+    <string name="plus_failure_title">ເຂົ້າຮ່ວມ Google+ ໃນພາຍຫຼັງ</string>
+    <string name="plus_failure_new_account_text">ບັນຊີ Google ຂອງທ່ານໄດ້ຖືກສ້າງຂຶ້ນແລ້ວ, ແຕ່ການຮ້ອງຂໍຂອງທ່ານເພື່ອເຂົ້າຮ່ວມ Google+ ແມ່ນບໍ່ຜ່ານ. ລອງໃໝ່ພາຍຫຼັງ ຈາກໂປຣແກຣມທ່ອງເວັບໃດນຶ່ງທີ່ plus.google.com.</string>
+    <string name="plus_failure_text">ຄຳຂໍເພື່ອເຂົ້າຮ່ວມ Google+ ຂອງທ່ານບໍ່ສາມາດເຮັດໄດ້. ກະລຸນາລອງໃໝ່ໃນພາຍຫລັງດ້ວຍໂປຣແກຣມທ່ອງເວັບໃດກໍໄດ້ທີ່ plus.google.com.</string>
+    <string name="provisioned_login_title">ປ້ອນລະຫັດຜ່ານ</string>
+    <string name="provisioned_welcome">ສະບາຍດີ, %s!</string>
+    <string name="provisioned_welcome_2">"ກະລຸນາລະບຸລະຫັດຜ່ານຂອງທ່ານສຳລັບ:
+%s"</string>
+    <string name="provisioned_incorrect_login">ບໍ່ແມ່ນ %s ບໍ?</string>
+    <string name="login_title">ພິມອີເມວ ແລະ ລະຫັດຜ່ານ</string>
+    <string name="login_task_title">ກຳລັງເຂົ້າສູ່ລະບົບ</string>
+    <string name="password">ລະຫັດຜ່ານ</string>
+    <string name="restore_wifi">ກູ້ຄືນຂໍ້ມູນແລະເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi ທີ່ຮູ້ຈັກ.</string>
+    <string name="sign_in_agreement_multi_user">ໂດຍການເຂົ້າສູ່ລະບົບ ແມ່ນຖືວ່າທ່ານຍອມຮັບ <annotation id="tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation> ຂອງ Google, <annotation id="google_privacy">ນະໂຍບາຍຄວາມເປັນສ່ວນໂຕ</annotation> ແລະ <annotation id="play_tos">ເງື່ອນໄຂການໃຫ້ບໍລິການຂອງ Google Play</annotation>". 
+
+ຈື່ໄວ້ວ່າ: ຜູ່ໃຊ້ອື່ນໆສາມາດຍອມຮັບການອະນຸຍາດແອັບທີ່ອັບເດດແລ້ວໃນນາມຂອງທ່ານໄດ້. ທ່ານຄວນໃຊ້ແທັບເລັດເຄື່ອງນີ້ຮ່ວມກັບຄົນທີ່ທ່ານໄວ້ໃຈເທົ່ານັ້ນ."</string>
+    <string name="sign_in_agreement_with_chrome">ໃນການເຂົ້າສູ່ລະບົບ, ໝາຍຄວາມວ່າທ່ານຍອມຮັບກັບ <annotation id="tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation> ແລະ <annotation id="google_privacy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ Google</annotation>, <annotation id="chrome_tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation> ແລະການແຈ້ງການເຖິງຄວາມເປັນສ່ວນຕົວ<annotation id="chrome_privacy">ຂອງ Chrome</annotation> ແລະ <annotation id="play_tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation>ຂອງGoogle Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">"ໂດຍການເຂົ້າສູ່ລະບົບ ແມ່ນຖືວ່າທ່ານຍອມຮັບກັບ  "<annotation id="tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation> ແລະ <annotation id="google_privacy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</annotation> ຂອງ Google, <annotation id="chrome_tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation> ແລະ <annotation id="chrome_privacy">ປະກາດຄວາມເປັນສ່ວນຕົວ</annotation> ຂອງ Chrome ແລະ <annotation id="play_tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation>" ຂອງ Google Play. 
+
+ຈື່ໄວ້ວ່າ: ຜູ່ໃຊ້ອື່ນສາມາດຍອມຮັບເອົາການອັບເດດສິດ ຂອງແອັບຯໃນນາມຂອງທ່ານໄດ້. ເຊັ່ນດຽວກັບທຸກຄວມພິວເຕີ, ຖ້າທ່ານຕ້ອງການໃຫ້ຜູ່ອື່ນໃຊ້ແທັບເລັດນີ້ຮ່ວມກັບທ່ານ ກໍຄວນເປັນຄົນທີ່ທ່ານໄວ້ໃຈເທົ່ານັ້ນ."</string>
+    <string name="create_prompt">" ບໍ່ມີບັນຊີ Google ບໍ? "<annotation id="create_account">ສ້າງບັນຊີດຽວນີ້ເລີຍ</annotation> .</string>
+    <string name="sign_in_with_google_account_short">ເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີ Google:</string>
+    <string name="invalid_username">ຂໍ້ຄວາມທີ່ທ່ານພິມບໍ່ແມ່ນຊື່ຜູ່ໃຊ້ທີ່ຖືກຕ້ອງ.</string>
+    <string name="captcha_instructions">ພິມຄຳເວົ້າທີ່ທ່ານເຫັນໃສ່ບ່ອນນີ້:</string>
+    <string name="create_google_account">ເລືອກຊື່ຜູ່ໃຊ້</string>
+    <string name="create_google_account_text">ບັນຊີ Google ຂອງທ່ານມາພ້ອມກັບ Gmail ບໍລິການອີເມວຈາກ Google. ມັນເຮັດວຽກໄດ້ກັບທຸກອຸປະກອນ, ປ້ອງກັນສະແປມ ແລະອື່ນໆອີກຫລາຍຢ່າງ.</string>
+    <string name="account_already_has_gmail">ບັນຊີມີ Gmail ແລ້ວ</string>
+    <string name="error_account_disabled">"ບັນຊີນີ້ຖືກປິດໃຊ້ງານແລ້ວ. 
+
+(ສຳລັບລາຍລະອຽດ, ໃຫ້ເຂົ້າເບິ່ງ https://google.com/accounts ດ້ວບເວັບບຣາວເຊີ.)"</string>
+    <string name="no_network">ທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ເຄືອຂ່າຍ.</string>
+    <string name="no_network_help">ນີ້ອາດເປັນປັນຫາໄລຍະສັ້ນ ຫຼື ອຸປະກອນ Android ຂອງທ່ານອາດບໍ່ໄດ້ເປີດໃຫ້ໃຊ້ບໍລິການເຄືອຂ່າຍຂໍ້ມູນ. ລອງໃໝ່ເມື່ອມີການເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມືຖື ຫຼື ເມື່ອມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ Wi-Fi ໃດນຶ່ງ.</string>
+    <string name="no_network_help_wifi_only">ນີ້ອາດຈະເປັນບັນຫາຊົ່ວຄາວ. ພະຍາຍາມອີກເທື່ອຫນຶ່ງຫຼືເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi ອື່ນ.</string>
+    <string name="error_login_failed">"ຊື່ແລະລະຫັດຜ່ານຂອງທ່ານບໍ່ກົງກັນ. ລອງໃໝ່ອີກຄັ້ງ.
+
+ເພື່ອກູ້ຂໍ້ມູນບັນຊີຂອງທ່ານ, ໃຫ້ໄປທີ່ google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"ບັນຊີດັ່ງກ່າວນີ້ຍັງບໍ່ໄດ້ຖືກຢືນຢັນເທື່ອ. ກວດເບິ່ງອີເມວຂອງທ່ານ ແລ້ວຄຼິກທີ່ລິ້ງທີ່ແນບມາເພື່ອຢືນຢັນບັນຊີດັ່ງກ່າວນີ້. 
+
+(ເພື່ອກູ້ຄືນຂໍ້ມູນບັນຊີຂອງທ່ານ, ໃຫ້ໄປທີ່ http://www.google.com/accounts/recovery ໃນຄອມພິວເຕີຂອງທ່ານ.)"</string>
+    <string name="exit_menu_item">ອອກຈາກການເຂົ້າລະບົບທາງໂປຣແກຣມທ່ອງເວັບ</string>
+    <string name="creating_profile">ກຳລັງສ້າງໂປຣໄຟລ໌ຂອງທ່ານ…</string>
+    <string name="checking_account">ກຳລັງກວດວ່າສາມາດນຳໃຊ້ໄດ້ບໍ່...</string>
+    <string name="is_not_available">ຊື່ຜູ່ໃຊ້ <b>^1</b> ບໍ່ສາມາດນຳໃຊ້ໄດ້.</string>
+    <string name="suggestions_hint">ແຕະເພື່ອເບິ່ງຄຳແນະນຳ</string>
+    <string name="suggest_username_next_button_label">ປ່ຽນຊື່ຜູ່ໃຊ້</string>
+    <string name="hint_size">" "<b>^1</b> ມີໂຕອັກສອນໜ້ອຍກວ່າ 6 ໂຕ ຫຼືມີຫຼາຍກວ່າ 30 ໂຕອັກສອນ.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> ບໍ່ມີໂຕໜັງສືຈັກໂຕເລີຍ.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" ສາມາດໃສ່ໄດ້ພຽງໂຕໜັງສື,
+ໂຕເລກ ແລະເຄື່ອງໝາຍຈ້ຳເມັດ."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> ບໍ່ໄດ້ໃຊ້ Gmail.</string>
+    <string name="sign_in_browser">ເຂົ້າສູ່ລະບົບໂປຣແກຣມທ່ອງເວັບ</string>
+    <string name="alternatives_list_title">ຊື່ຜູ່ໃຊ້ທີ່ແນະນຳ</string>
+    <string name="password_title">ສ້າງລະຫັດຜ່ານ</string>
+    <string name="choose_a_password">ລະຫັດຜ່ານ</string>
+    <string name="confirm_password">ພິມລະຫັດຜ່ານຄືນໃໝ່</string>
+    <string name="too_short">ສັ້ນເກີນໄປ</string>
+    <string name="security_questions_title">ຄໍາຖາມຄວາມປອດໄພ</string>
+    <string name="answer">" "<b>ຄຳຕອບ</b></string>
+    <string name="password_mismatch">ລະຫັດຜ່ານບໍ່ກົງກັນ, ລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="eight_chars_min">ຢ່າງໜ້ອຍ 8 ໂຕອັກສອນ</string>
+    <string name="verify_your_profile">ກວດສອບໂປຣໄຟລ໌ຂອງທ່ານ</string>
+    <string name="error_not_logged_in">ຜູ່ໃຊ້ບໍ່ໄດ້ຢູ່ໃນລະບົບ.</string>
+    <string name="error_username_unavailable">ຊື່ຜູ່ໃຊ້ນີ້ບໍ່ສາມາດໃຊ້ໄດ້.</string>
+    <string name="error_bad_password">ລະຫັດຜ່ານງ່າຍເກີນໄປ ຫຼືມີໂຕອັກສອນທີ່ບໍ່ຖືກຕ້ອງ. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="error_bad_username">ຊື່ຜູ່ໃຊ້ບໍ່ຖືກຕ້ອງ.</string>
+    <string name="existing_account_error_title">ມີບັນຊີຢູ່ແລ້ວ</string>
+    <string name="existing_account_error_text">ມີບັນຊີຊື່ ^1 ໃນອຸປະກອນ Android ນີ້ຢູ່ແລ້ວ.</string>
+    <string name="submission_title">ຂໍອະໄພ…</string>
+    <string name="submission_error_text">ມີຂໍ້ຜິດພາດເກີດຂຶ້ນ. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="sync_intro_title">ການຊິ້ງຂໍ້ມູນບັນຊີ</string>
+    <string name="account_tos_title">ສຳເລັດການສ້າງບັນຊີ</string>
+    <string name="account_tos_plus_title">ສຳເລັດການເຂົ້າຮ່ວມ Google+</string>
+    <string name="i_accept">ຂ້າພະເຈົ້າຍອມຮັບ</string>
+    <string name="i_decline">ບໍ່ສ້າງບັນຊີ</string>
+    <string name="allow_personalized_content">ອະນຸຍາດໃຫ້ Google ໃຊ້ຂໍ້ມູນຂອງທ່ານເພື່ອປັບແຕ່ງເນື້ອຫາ ແລະ ໂຄສະນາໃນເວັບໄຊທີ່ບໍ່ແມ່ນຂອງ Google.</string>
+    <string name="enable_web_history">ເປີດປະຫວັດການເຂົ້າເວັບ</string>
+    <string name="learn_more"><annotation id="learn_more">ສຶກສາເພີ່ມເຕີມ</annotation></string>
+    <string name="account_creation_tos">ໂດຍການດຳເນີນການຕໍ່ ແມ່ນຖືວ່າທ່ານຍອມຮັບ <annotation id="tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation>, <annotation id="google_privacy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</annotation> ຂອງ Google ແລະ <annotation id="play_tos">ເງື່ອນໄຂການໃຫ້ບໍລິການຂອງ Google Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">ໂດຍການດຳເນີນການຕໍ່ ແມ່ນຖືວ່າທ່ານຍອມຮັບໃນ <annotation id="tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation> ແລະ <annotation id="google_privacy">ນະໂຍບາຍຄວາມເປັນສ່ວນໂຕ</annotation> ຂອງ Google, <annotation id="chrome_tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation> ແລະ <annotation id="chrome_privacy">ນະໂຍບາຍຄວາມເປັນສ່ວນໂຕ</annotation> ຂອງ Chrome ແລະ <annotation id="play_tos">ເງື່ອນໄຂການໃຫ້ບໍລິການ</annotation> ຂອງ Google Play.</string>
+    <string name="gender_prompt">ເພດ</string>
+    <string name="gender_hint">ເພດ</string>
+    <string name="account_pre_intro_title">ມີ Google ບໍ?</string>
+    <string name="account_pre_intro_default_message">"ທ່ານມີບັນຊີ Google ບໍ່?
+
+ຖ້າທ່ານໃຊ້ Gmail ຫຼື Google Apps, ໃຫ້ຕອບວ່າ ມີ."</string>
+    <string name="account_pre_intro_yes">ມີ</string>
+    <string name="account_pre_intro_no">ບໍ່</string>
+    <string name="account_intro_title">ບັນຊີ Google</string>
+    <string name="account_intro_required_title">ໂດຍ Google</string>
+    <string name="account_intro_recommended_title">ເຮັດໃຫ້ເປັນ Google</string>
+    <string name="account_intro_default_message">ຂໍ້ມູນ​ຂອງ​ທ່ານ​ຈະ​ບໍ່​ເສຍ​ໄປ​ໃສ​ອີກ​ຕໍ່​ໄປ, ບັນ​ຊີ Google ຈະ​ເກັບ​ຮັກ​ສາ​ທຸກຢ່າງ​ໄວ້​ຢ່າງ​ປອດໄພ.</string>
+    <string name="account_intro_simple_message">ທ່ານຕ້ອງການເພີ່ມບັນຊີທີ່ມີຢູ່ແລ້ວ ຫຼືສ້າງອັນໃໝ່?</string>
+    <string name="account_intro_learn_more">ສຶກສາເພີ່ມເຕີມ</string>
+    <string name="learn_more_title">ສຶກສາເພີ່ມເຕີມ</string>
+    <string name="learn_more_account_intro">"ບັນຊີ Google ໃຫ້ທ່ານສາມາດ:
+
+"<li><ul>ເບິ່ງແລະຈັດການຂໍ້ມູນທັງໝົດຂອງທ່ານ—ຮວມທັງປະຫວັດການຊອກຫາຂອງທ່ານ—ຈາກທຸກຫົນແຫ່ງ.</ul></li>"
+
+"<li><ul>ສຳຮອງຂໍ້ມູນຂອງທ່ານໂດຍອັດຕະໂນມັດ ບໍ່ວ່າຈະເປັນ: ອີເມວ, ລາຍຊື່ຜູ່ຕິດຕໍ່, ເພງ ແລະຮູບພາບ.</ul></li>"
+
+"<li><ul>ໃຊ້ບໍລິການ Google ໄດ້ຢ່າງງ່າຍດາຍຈາກທຸກຫົນແຫ່ງ—ຮວມທັງ ລາຍຊື່ຜູ່ຕິດຕໍ່, ປະຕິທິນ, ແຜນທີ່ ແລະອື່ນໆ.</ul></li></string>
+    <string name="learn_more_account_intro_title">ກ່ຽວກັບບັນຊີ Google</string>
+    <string name="learn_more_bad_name">Google+ ຮຽກຮ້ອງໃຫ້ທ່ານໃຊ້ຊື່ທຳມະດາຂອງທ່ານ. ໂປຣໄຟລ໌ຂອງທ່ານຄວນເປັນຕົວແທນໃຫ້ບຸກຄົນໃດນຶ່ງ—ບໍ່ແມ່ນທຸລະກິດ, ອົງກອນ ຫຼື ຄອບຄົວ—ແລະ ຄວນປະກອບມີ ຊື່ ແລະ ນາມສະກຸນຂອງທ່ານ ທີ່ເປັນພາສາດຽວກັນ ແລະ ບໍ່ມີຄຳນຳໜ້າ ຫຼື ເຄື່ອງໝາຍວັກຕອນໃດໆທີ່ບໍ່ຈຳເປັນ. ຫຼັງຈາກລົງທະບຽນແລ້ວ, ທ່ານສາມາດໃຊ້ຊື່ຫຼິ້ນ ຫຼື ຊື່ອື່ນໆ ທີ່ທ່ານໃສ່ໃນປ່ອງ ຊື່ອື່ນ ໃນໂປຣໄຟລ໌ຂອງທ່ານ.</string>
+    <string name="learn_more_bad_name_title">ກ່ຽວກັບນະໂຍບາຍຊື່</string>
+    <string name="wait_for_device_country_title">ຕັ້ງຄ່າບັນຊີ</string>
+    <string name="wait_for_device_country_msg">ກຳລັງດຶງຂໍ້ມູນກ່ຽວກັບໂທລະສັບຂອງທ່ານ. ຂັ້ນຕອນນີ້ອາດໃຊ້ເວລາເຖິງ 30 ວິນາທີ.</string>
+    <string name="recovery_title">ການກູ້ລະຫັດຜ່ານ Google</string>
+    <string name="recovery_wait_title">ກຳລັງຕິດຕໍ່ຫາ Google...</string>
+    <string name="cannot_talk_to_server_msg">ອຸປະກອນດັ່ງກ່າວບໍ່ສາມາດເຂົ້າເຖິງ Google ໄດ້.</string>
+    <string name="recovery_skip_label">ຂ້າມ</string>
+    <string name="recovery_retry_label">ລອງອີກຄັ້ງ</string>
+    <string name="recovery_message_set">"ຫາກທ່ານລືມລະຫັດຜ່ານຂອງທ່ານ ທ່ານຈະຕ້ອງການວິທີກູ້ມັນກັບຄືນມາ.
+
+Google ໃຫ້ທາງເລືອກເພື່ອກູ້ລະຫັດຜ່ານຂອງທ່ານຜ່ານທາງ SMS ຫຼືທີ່ຢູ່ອີເມວສຳຮອງ.
+
+ຂັ້ນຕອນນີ້ເປັນຂັ້ນຕອນທີ່ແນະນຳໃຫ້ເຮັດ. "<annotation id="help_url">ສຶກສາເພີ່ມເຕີມ</annotation></string>
+    <string name="recovery_message_verify">"ລະຫັດຜ່ານເປັນສິ່ງທີ່ລືມໄດ້ງ່າຍ.
+
+ຢືນຢັນເບີໂທລະສັບ ຫຼື ອີເມວສຳຮອງຂອງທ່ານຕອນນີ້ເລີຍ. ສິ່ງນີ້ຈະຊ່ວຍທ່ານໃນການກູ້ຄືນສິດການເຂົ້າເຖິງເນື້ອຫາໃນ Google ແລະ Google Play ຂອງທ່ານ. "<annotation id="help_url">ສຶກສາເພີ່ມເຕີມ</annotation></string>
+    <string name="recovery_yes_button_label">ຕັ້ງຄ່າຕົວເລືອກການກູ້ຂໍ້ມູນ</string>
+    <string name="recovery_yes_button_label_verify">ຢືນຢັນຕົວເລືອກການກູ້ຂໍ້ມູນ</string>
+    <string name="recovery_later_button_label">ບໍ່ຟ້າວເທື່ອ</string>
+    <string name="recovery_input_screen_message">ການກູ້ຂໍ້ມູນນີ້ແມ່ນການກູ້ຂໍ້ມູນຂອງ %s.</string>
+    <string name="secondary_email_hint">ສຳຮອງຂໍ້ມູນອີເມວ</string>
+    <string name="secondary_email_invalid">ທີ່ຢູ່ອີເມວບໍ່ຖືກຕ້ອງ</string>
+    <string name="secondary_email_same_as_primary">ບໍ່ສາມາດເປັນອັນດຽວກັບອີເມວຫຼັກ</string>
+    <string name="phone_number_hint">ເບີໂທລະສັບ</string>
+    <string name="phone_number_invalid_character">ໂຕອັກສອນບໍ່ຖືກຕ້ອງໃນໝາຍເລກໂທລະສັບ</string>
+    <string name="phone_number_invalid">ເບີໂທລະສັບບໍ່ຖືກຕ້ອງ</string>
+    <string name="country_invalid">ບໍ່ອະນຸຍາດໃຫ້ປະເທດດັ່ງກ່າວນີ້</string>
+    <string name="recovery_server_error">ຂໍ້ຜິດພາດໃນການເຊື່ອມຕໍ່ກັບເຊີບເວີ. ກະລຸນາລອງໃໝ່ພາຍຫຼັງ.</string>
+    <string name="account_recovery_info">ຖ້າເມື່ອໃດກໍຕາມທີ່ທ່ານລືມລະຫັດຜ່ານຂອງທ່ານ, ທ່ານສາມາດຕອບຄວາມຖາມຄວາມປອດໄພ ແລະໃຫ້ລະບົບສົ່ງອີເມວພ້ອມດ້ວຍລິ້ງສຳລັບຕັ້ງລະຫັດຜ່ານໃໝ່ໄປຫາທີ່ຢູ່ອີເມວອີກອັນນຶ່ງຂອງທ່ານ.</string>
+    <string name="secondary_email_label">ອີເມວສຳລັບການກູ້ຂໍ້ມູນບັນຊີ</string>
+    <string name="invalid_email">"ທີ່ຢູ່ອີເມວທີ່ທ່ານພິມນັ້ນບໍ່ຖືກຕ້ອງ.
+ ຕົວຢ່າງ: joe@example.com"</string>
+    <string name="invalid_email_primary">ອີເມວກູ້ຂໍ້ມູນບໍ່ສາມາດໃຊ້ອັນດຽວກັບທີ່ທ່ານກຳລັງສ້າງໄດ້.</string>
+    <string name="backup_consent_message">"ໃຊ້ບັນຊີ Google ຂອງທ່ານເພື່ອສຳຮອງຂໍ້ມູນ ແອບຯ, ການຕັ້ງຄ່າ (ເຊັ່ນ: ບຸກມາກ ແລະ ລະຫັດຜ່ານ Wi-Fi) ແລະ ຂໍ້ມູນອື່ນໆຂອງທ່ານ. ຖ້າທ່ານເຄີຍສຳຮອງຂໍ້ມູນບັນຊີຂອງທ່ານມາກ່ອນ, ທ່ານສາມາດກູ້ຂໍ້ມູນດັ່ງກ່າວນັ້ນ ມາໃສ່ໃນໂທລະສັບດັ່ງກ່າວໃນຕອນນີ້ເລີຍ.
+
+ທ່ານສາມາດປ່ຽນການຕັ້ງຄ່າ ການສຳຮອງຂໍ້ມູນຂອງທ່ານໄດ້ຕະຫຼອດເວລາໃນການຕັ້ງຄ່າ."</string>
+    <string name="backup_consent_message_no_restore">"ໃຊ້ບັນຊີ Google ຂອງທ່ານເພື່ອສຳຮອງຂໍ້ມູນແອັບ, ການຕັ້ງຄ່າ (ເຊັ່ນ: ບຸກມາກ ແລະລະຫັດຜ່ານ Wi-Fi) ແລະຂໍ້ມູນອື່ນໆ.
+
+ທ່ານສາມາດປ່ຽນການຕັ້ງຄ່າການສຳຮອງຂໍ້ມູນຂອງທ່ານ ໄດ້ທຸກເວລາໃນເມນູການຕັ້ງຄ່າ."</string>
+    <string name="restoring_title">ກຳລັງກູ້ຂໍ້ມູນ…</string>
+    <string name="restoring_message">ໂທລະສັບຂອງທ່ານກຳລັງຕິດຕໍ່ຫາເຊີບເວີ Google ເພື່ອກູ້ຂໍ້ມູນບັນຊີຂອງທ່ານ. ນີ້ອາດໃຊ້ເວລາພໍສົມຄວນ.</string>
+    <string name="gls_notification_login_error">ແຕະເພື່ອເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານ</string>
+    <string name="gls_ui_add_account_title">ຕັ້ງຄ່າບັນຊີ</string>
+    <string name="gls_ui_activity_title">ເຂົ້າສູ່ລະບົບ</string>
+    <string name="gls_ui_activity_title_browser_signin">ເຂົ້າສູ່ລະບົບ</string>
+    <string name="gls_ui_activity_title_checking_in">ກຳລັງກະກຽມ...</string>
+    <string name="gls_ui_activity_authenticating">ກຳລັງພິສູດຢືນຢັນ...</string>
+    <string name="gls_dmagent_activity_activate_message">" ໂດເມນຂອງທ່ານຮຽກຮ້ອງໃຫ້ມີການຈັດການກ່ຽວກັບອຸປະກອນມືຖື. ເປີດນຳໃຊ້ \"Google Apps Device Policy\" ເພື່ອບັງຄັບໃຊ້ນະໂຍບາຍທາງດ້ານຄວາມປອດໄພທີ່ຈຳເປັນສຳລັບບັນຊີ  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">ເປີດນຳໃຊ້</string>
+    <string name="gls_dmagent_activity_download_message">" ໂດເມນຂອງທ່ານຮຽກຮ້ອງໃຫ້ມີການຈັດການກ່ຽວກັບອຸປະກອນມືຖື. ໃຫ້ຕິດຕັ້ງແອັບຯ \"Google Apps Device Policy\" ເພື່ອບັງຄັບໃຊ້ນະໂຍບາຍທາງດ້ານຄວາມປອດໄພ ທີ່ຈຳເປັນສຳລັບບັນຊີ  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">ດາວໂຫລດ</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">ທ່ານພິມລະຫັດຜ່ານທີ່ບໍ່ຖືກຕ້ອງ ຫຼື ມີການປ່ຽນແປງກັບບັນຊີຂອງທ່ານ. ກະລຸນາພິມລະຫັດຜ່ານຄືນໃໝ່.</string>
+    <string name="permlab_googleAuthPassword">ເຂົ້າເຖິງລະຫັດຜ່ານຂອງບັນຊີ Google</string>
+    <string name="permdesc_googleAuthPassword">ອະນຸຍາດໃຫ້ແອັບເຂົ້າເຖິງລະຫັດຜ່ານສຳລັບບັນຊີ Google ທີ່ທ່ານຕັ້ງຄ່າໄວ້ໄດ້ໂດຍກົງ.</string>
+    <string name="permlab_googleMailSwitch">ເລືອກຍີ່ຫໍ້ເປັນ Gmail ຫຼື Google Mail</string>
+    <string name="permdesc_googleMailSwitch">ອະນຸຍາດໃຫ້ແອັບສະລັບຊື່ທີ່ສະແດງລະຫວ່າງ \"Gmail\" ແລະ \"Google Mail\" ໄດ້.</string>
+    <string name="sync_item_title">ຊິ້ງຂໍ້ມູນ %s</string>
+    <string name="grant_credentials_permission_message_footer">ແອັບເຫລົ່ານັ້ນຮ້ອງຂໍການເຂົ້າເຖິງ:</string>
+    <string name="grant_credentials_permission_message_app">ແອັບເຫລົ່ານີ້ຕ້ອງການເຂົ້າເຖິງບັນຊີ Google ຂອງທ່ານນັບແຕ່ນີ້ເປັນຕົ້ນໄປ:</string>
+    <string name="grant_permissions_header_text">ການອະນຸຍາດຮ້ອງຂໍ</string>
+    <string name="allow">ອະນຸຍາດການເຂົ້າເຖິງ</string>
+    <string name="deny">ບໍ່, ຂອບໃຈ</string>
+    <string name="permission_request_notification_with_subtitle">"ຮ້ອງຂໍການກຳນົດສິດ
+ສຳລັບບັນຊີ %s ແລ້ວ"</string>
+    <string name="notification_title">ການເຂົ້າສູ່ລະບົບ %1$s ເກີດຂໍ້ຜິດພາດ</string>
+    <string name="account_setup_title">ບັນຊີ Google</string>
+    <string name="login_activity_title">ເຂົ້າສູ່ລະບົບ</string>
+    <string name="relogin_activity_title">ພິມລະຫັດຜ່ານອີກຄັ້ງ</string>
+    <string name="show_error_activity_title">ບໍ່ສາມາດເຂົ້າສູ່ລະບົບໄດ້</string>
+    <string name="login_activity_task_title">ກຳລັງເຂົ້າສູ່ລະບົບ...</string>
+    <string name="login_activity_task_msg">ຂັ້ນຕອນນີ້ອາດໃຊ້ເວລາ 2-3 ນາທີ.</string>
+    <string name="prepare_account_setup_task_title">ກຳລັງກະກຽມການຕັ້ງຄ່າບັນຊີ...</string>
+    <string name="prepare_account_setup_task_msg">ຂັ້ນຕອນນີ້ອາດໃຊ້ເວລາ 2-3 ນາທີ.</string>
+    <string name="sync_intro_activity_title">ຊິ້ງ​ຂໍ້​ມູນ​ບັນ​ຊີ​ຂອງ​ທ່ານ</string>
+    <string name="username">ອີເມວ</string>
+    <string name="error_invalid_second_factor">ໃຊ້ລະຫັດສະເພາະຂອງແອັບແທນທີ່ຈະເປັນລະຫັດປົກກະຕິຂອງບັນຊີທ່ານ.</string>
+    <string name="error_needs_browser">ເພື່ອເຂົ້າເຖິງບັນຊີຂອງທ່ານ, ທ່ານຕ້ອງເຂົ້າສູ່ລະບົບຢູ່ເທິງເວັບ. ແຕະ ຕໍ່ໄປ ເພື່ອເລີ່ມການເຂົ້າສູ່ລະບົບທາງໂປຣແກຣມທ່ອງເວັບ.</string>
+    <string name="google_play_opt_in">ສົ່ງຂ່າວສານ ແລະ ຂໍ້ສະເໜີຕ່າງໆຈາກ Google Play ໃຫ້ຂ້ອຍຮູ້ຕະຫລອດ.</string>
+    <string name="google_settings_header_title">ຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="maps_settings_title">ແຜນທີ່ &amp; ລະຕິຈູດ</string>
+    <string name="location_settings_title">ສະຖານທີ່</string>
+    <string name="search_settings_title">ຊອກຫາ</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">ໂຄສະນາ</string>
+    <string name="location_network_based">ບໍລິການສະແດງຕຳແໜ່ງຂອງ Google</string>
+    <string name="location_neighborhood_level">ອະນຸຍາດໃຫ້ສົ່ງຂໍ້ມູນສະຖານທີ່ໂດຍບໍ່ລະບຸໂຕຕົນໄປໃຫ້ Google. ໃຫ້ແອັບຯທີ່ໄດ້ຮັບອະນຸຍາດເພື່ອໃຊ້ຂໍ້ມູນຈາກແຫລ່ງຕ່າງໆ ເຊັ່ນ Wi-Fi ແລະເຄືອຂ່າຍມືຖື ໃຫ້ລະບຸຕຳແໜ່ງຂອງທ່ານໂດຍປະມານໄດ້ນຳ.</string>
+    <string name="use_location_title">ສະຖານທີ່ &amp; Google search</string>
+    <string name="use_location_summary">ອະນຸຍາດໃຫ້ Google ນຳໃຊ້ຕຳແໜ່ງທາງທີ່ຕັ້ງ ເພື່ອໃຫ້ໄດ້ຮັບຜົນການຊອກຫາ ແລະ ບໍລິການອື່ນໆທີ່ດີຂຶ້ນ</string>
+    <string name="backup_consent_yes_agree">ໃຊ້ບັນຊີຂອງທ່ານເພື່ອສຳຮອງແອັບ, ການຕັ້ງຄ່າ (ເຊັ່ນ: ບຸກມາກ ແລະລະຫັດຜ່ານ Wi-Fi) ແລະຂໍ້ມູນອື່ນໆ.</string>
+    <string name="restore_consent_yes_agree">ນຳແອັບຯ, ການຕັ້ງຄ່າ ແລະຂໍ້ມູນຕ່າງໆທີ່ທ່ານໄດ້ສຳຮອງໄວ້ໃນບັນຊີ Google ຂອງທ່ານມາຍັງໂທລະສັບເຄື່ອງນີ້.</string>
+    <string name="audit_logging_summary">ສົ່ງຂໍ້ມູນການເຄື່ອນໄຫວ ແລະ ຂໍ້ມູນການວິເຄາະໃນອຸປະກອນຂອງທ່ານໄປຫາ Google ໂດຍອັດຕະໂນມັດເພື່ອຊ່ວຍປັບປຸງຜະລິດຕະພັນຂອງພວກເຮົາ ແລະ ຊ່ວຍປ້ອງກັນອຸປະກອນຂອງທ່ານ.</string>
+    <string name="no_back_msg">ບໍ່ສາມາດກັບໄປຂັ້ນຕອນກ່ອນໜ້ານີ້ໄດ້.</string>
+    <string name="setup_wizard_title">ໂຕຊ່ວຍການຕິດຕັ້ງ</string>
+    <string name="setup_wizard_services_activity_title">ບໍລິການ Google</string>
+    <string name="setup_wizard_services_description">ບໍລິການ​ເຫຼົ່ານີ້​ຈະເຮັດໃຫ້ Google ເຮັດວຽກ​ໃຫ້ກັບ​ທ່ານ ແລະທ່ານຍັງສາມາດ​ເປີດ ຫຼືປິດ​ການນຳ​ໃຊ້​ໄດ້ຕະ​ຫຼອດ​ເວລາ. ຂໍ້ມູນ​ຂອງທ່ານ​ຈະຖືກ​ນຳໃຊ້​ໂດຍ​ສອດ​ຄ່ອງ​ກັບ <annotation id="google_privacy">ເງື່ອນ​ໄຂຄວາມ​ເປັນສ່ວນ​ຕົວ</annotation> ຂອງ Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">ການສຳຮອງ &amp; ການກູ້ຂໍ້ມູນ</string>
+    <string name="setup_wizard_services_location_heading">ສະຖານທີ່</string>
+    <string name="setup_wizard_services_communication_heading">ການ​ສື່​ສານ</string>
+    <string name="setup_wizard_services_backup"><b>ແບັກ​ອັບ​ແອັບຯ​ຂອງ​ໂທ​ລະ​ສັບຂອງ​ທ່ານ, ຂໍ້​ມູນ​ແອັບ, ການ​ຕັ້ງ​ຄ່າ, ວັດ​ຈະ​ນາ​ນຸ​ກົມ​ສ່ວນ​ຕົວ, ແລະ​ລະ​ຫັດ​ຜ່ານ ແບັກ​ອັບ​ແອັບຯ​ຂອງ​ໂທ​ລະ​ສັບຂອງ​ທ່ານ, ຂໍ້​ມູນ​ແອັບ, ການ​ຕັ້ງ​ຄ່າ, ວັດ​ຈະ​ນາ​ນຸ​ກົມ​ສ່ວນ​ຕົວ, ແລະ​ລະ​ຫັດ​ຜ່ານ</b> ດ້ວຍ​ການ​ໃຊ້ບັນ​ຊີ Google ຂອງ​ທ່ານ ເພື່ອ​ໃຫ້​ທ່ານ​ສາ​ມາດ​ກູ້​ຄືນ​ມາ​ພາຍ​ຫຼັງ​ໄດ້​ງ່າຍ. <annotation id="backup_details">ຮຽນ​ຮູ້​ເພີ່ມ​ເຕີມ</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>ແບັກ​ອັບ​ແອັບຯ​ຂອງ​ທ່ານ, ຂໍ້​ມູນ​ແອັບ, ການ​ຕັ້ງ​ຄ່າ, ວັດ​ຈະ​ນາ​ນຸ​ກົມ​ສ່ວນ​ຕົວ, ແລະ​ລະ​ຫັດ​ຜ່ານ Wi‑Fi </b> ດ້ວຍ​ການ​ໃຊ້ບັນ​ຊີ Google ຂອງ​ທ່ານ ເພື່ອ​ໃຫ້​ທ່ານ​ສາ​ມາດ​ກູ້​ຄືນ​ມາ​ພາຍ​ຫຼັງ​ໄດ້​ງ່າຍ.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">ຂໍ້ມູນຮວມມີ ແອັບຯ, ການຕັ້ງຄ່າແອັບຯ, ການຕັ້ງຄ່າລະບົບ ແລະ ລະຫັດ Wi-Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">ເມື່ອ​ທ່ານ​ເປີດ​ນຳ​ໃຊ​້​ການ​ສຳ​ຮອງ​ຂໍ້​ມູນ​ອັດ​ຕະ​ໂນ​ມັດ​ແລ້ວ, ຂໍ້​ມູນ​ຂອງ​ອຸ​ປະ​ກອນ​ທ່ານ​ຈະ​ຖືກ​ບັນ​ທຶກ​ໄປ​ໃສ່​ບັນ​ຊີ Google ຂອງ​ທ່ານ​ເປັນ​ໄລ​ຍະໆ. ​ການ​ສຳ​ຮອງ​ຂໍ້​ມູນ​ອາດ​ຮວມ​ມີ​ຂໍ້​ມູນ​ທີ່​ຢູ່​ໃນ​​ໂຟນ​ເດີ​ຂໍ້​ມູນ​ແອັບຯ​ຂອງ​ທ່ານ ເຊັ່ນ: ການ​ຕັ້ງ​ຄ່າ, ຂໍ້​ຄວາມ, ຮູບ​ພາບ ແລະ​ໄຟລ໌​ອື່ນໆ​ນຳ.</string>
+    <string name="setup_wizard_services_location_sharing"><b>ໃຊ້​ບໍ​ລິ​ການ​ສະ​ຖານ​ທີ່​ຂອງ Google</b> ເພື່ອ​ຊ່ວຍ​ລະ​ບຸ​ສະ​ຖານ​ທີ່. ນີ້​ໝາຍ​ເຖິງ​ການ​ສົ່ງ​ຂໍ້​ມູນ​ສະ​ຖານ​ທີ່​ທີ່ບໍ່​ລະ​ບຸ​ໂຕ​ຕົນ​ໄປ​ໃຫ້​ກັບ Google ເຖິງ​ແມ່ນ​ວ່າບໍ່​ມີ​ແອັບຯ​ໃດ​ເປີດ​ຢູ່​ກໍ​ຕາມ. <annotation id="location_details">ສຶກ​ສາ​ເພີ່ມ​ເຕີມ</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">ບໍ​ລິ​ການ​ສະ​ຖານ​ທີ່​ຂອງ Google ໃຊ້​ແຫລ່ງ​ຂໍ້​ມູນ​ຕ່າງໆ ເຊັ່ນ: Wi‑Fi ແລະ​ເຄືອ​ຂ່າຍ​ມື​ຖື​ໃນ​ການ​ຊ່ວຍ​ຄາດ​ຄະ​ເນ​ສະ​ຖານ​ທີ່​ຂອງ​ອຸ​ປະ​ກອນ​ທ່ານ​ໃຫ້​ໄວ​ຂຶ້ນ ແລະ​​ຖືກ​ຕ້ອງຫຼາຍ​ຂຶ້ນ. ເມື່ອ​ທ່ານ​ເປີດ​ໃຊ້​ບໍ​ລິ​ການ​ສະ​ຖານ​ທີ່​ຂອງ Google, ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ຈະ​ເຂົ້າ​ສູ່​ໂໝດ​ການ​ນຳ​ໃຊ້ Wi‑Fi ແລະ​ເຄືອ​ຂ່າຍ​ໂທ​ລະ​ສັບ​ເພື່ອ​ລະ​ບຸ​ຕຳ​ແໜ່ງ​ສະ​ຖານ​ທີ່. ທ່ານ​ສາ​ມາດ​ປິດ​​ຄຸນ​ສົມ​ບັດ​ນີ້​ໄດ້​ໃນ​ການ​ຕັ້ງ​ຄ່າ​ສະ​ຖານ​ທີ່ ໂດຍ​ການ​ເລືອກ​ໂໝດ​ທີ່​ໃຊ້ GPS ເທົ່າ​ນັ້ນ. ບາງ​ຄັ້ງ​ໂໝດ​ດັ່ງ​ກ່າວ​ອາດ​ມີ​ຊື່​ວ່າ ໂໝດ​ອຸ​ປະ​ກອນ​ເທົ່າ​ນັ້ນ.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>ຊ່ວຍ​ປັບ​ປຸງ​ບໍ​ລິ​ການ​ສະ​ຖານ​ທີ່</b> ໂດຍ​ການ​ອະ​ນຸ​ຍາດ​ໃຫ້​ແອັບຯ ແລະ​ບໍ​ລິ​ການ​ຕ່າງໆ ສະ​ແກນ​ຫາ​ເຄືອ​ຂ່າຍ​ໄດ້​ເຖິງ​ແມ່ນ​ວ່າ​ຈະ​ປິດ Wi‑Fi ຢູ່​ກໍ​ຕາມ.</string>
+    <string name="setup_wizard_services_location_footnote">ບໍລິການ​ສະຖານທີ່ຂອງ Google ແມ່ນ​ໃຊ້ Wi​-Fi ແລະສັນຍານ​ອື່ນໆ​ເພື່ອລະບຸ​ຕຳແໜ່ງ​ໃຫ້​ຖືກຕ້ອງ​ແລະວ່ອງໄວ ເຊິ່ງສ່ວນໃຫຍ່​ແມ່ນໃຊ້​ພະລັງງານ​ໜ້ອຍ​ກວ່າ GPS. ຂໍ້ມູນ​ບາງອັນ​ອາດ​ຖືກ​ເກັບໄວ້​ໃນ​ອຸປະກອນ​ຂອງທ່ານ​ແລະ​ອາດ​ມີ​ການເກັບ​ຂໍ້ມູນ​ເຖິງ​ແມ່ນວ່າ​ແອັບຯ​ບໍ່ໄດ້​ເປີດນຳໃຊ້​ຢູ່​ກໍຕາມ.</string>
+    <string name="setup_wizard_services_play"><b>ບອກ​ໃຫ້​ຂ້ອຍ​ຮູ້ຕະ​ຫລອດ​ກ່ຽວກັບ</b> ຂ່າວ ແລະ ຂໍ້​ສະເໜີ​ຕ່າງໆ​ຈາກ Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>ຊ່ວຍ​ປັບ​ປຸງ​ປະ​ສົບ​ການ Android ຂອ​ງ​ທ່ານ</b> ​ໂດ​ຍ​ການ​ສົ່ງ​ຂໍ້​ມູນ​ການ​ນຳ​ໃຊ້ ແລະ​ຂໍ້​ມູນ​ວິ​ເຄາະ​ໄປ​ໃຫ້ Google.​ ຂໍ້​ມູນ​ນີ້​ຈະ​ບໍ່​ຖືກ​ນຳ​ໃຊ້​​ເພື່ອ​ລະ​ບຸ​ໂຕ​ຕົນ​ຂອງ​ທ່ານ ແຕ່​ຈະ​ຖືກ​ສົ່ງ​ໃຫ້​ທີມ​ງານ​ທີ່​ເຮັດ​ວຽກ​ກ່ຽວ​ກັບແບັດ​ເຕີ​ຣີ, ປະ​ສິດ​ທິ​ພາບ​ແອັບຯ ແລະ​ຄຸນ​ສົມ​ບັດ​ໃໝ່ໆ ຂອງ Google. <annotation id="usage_reporting_details">ສຶກ​ສາ​ເພີ່ມ​ເຕີມ</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"ຂໍ້​ມູນ​ທົ່ວ​ໄປ​ນີ້​ແມ່ນ​ກ່ຽວ​ກັບ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ແລະ​ວິ​ທີ​ທີ່​ທ່ານ​ນຳ​ໃຊ້​ມັນ ເຊັ່ນ: ລະ​ດັບ​ແບັດ​ເຕີ​ຣີ, ຄວາມ​ຖີ່​ການ​ນຳ​ໃຊ້​ແອັບຯ​ຂອງ​ທ່ານ, ຄຸນ​ນະ​ພາບ ແລະ​ໄລ​ຍະ​ເວ​ລາ​ການ​ເຊື່ອມ​ຕໍ່​ເຄືອ​ຂ່າຍ​ຂອງ​ທ່ານ (ເຊັ່ນ: ໂທ​ລະ​ສັບ, Wi‑Fi ແລະ Bluetooth) ຮວມ​ເຖິງ​ລາຍ​ງານ​ໂປຣ​ແກຣມ​ຄ້າງ​ເມື່ອ​ລະ​ບົບ​ບໍ່​ສາ​ມາດ​ເຮັດ​ວຽກ​ໄດ້​ຕາມ​ທີ່​ຄວນ​ເປັນ. ມັນ​ຈະ​ຖືກ​ນຳ​ໃຊ້​ເພື່ອ​ປັບ​ປຸງ​ຜະ​ລິດ​ຕະ​ພັນ​ ແລະ​ບໍ​ລິ​ການ​ຂອງ Google ເພື່ອ​ທຸກ​ຄົນ ແລະ​ຈະ​ບໍ່​ຖືກ​ເຊື່ອມ​ໂຍງ​ກັບ​ບັນ​ຊີ Google ຂອງ​ທ່ານ. ບາງ​ຂໍ້​ມູນ​ທີ່​ເກັບ​ກຳ​ມາ​ຈະ​ຊ່ວຍ​ໃຫ້​ພາດ​ເນີ ເຊັ່ນ: ນັກ​ພັດ​ທະ​ນາ Android ເຮັດ​ໃຫ້​ແອັບຯ ແລະ​ຜະ​ລິດ​​ຕະ​ພັນ​ຂອງ​ພວກ​ເຂົາ​ດີ​ຂຶ້ນ​ນຳ.
+
+ທ່ານ​ສາ​ມາດ​ປິດ ຫຼື​ເປີດ​ຄຸນ​ສົມ​ບັດ​ນີ້​ໄດ້​ທຸກ​ເວ​ລາ​ໃນ​ແອັບຯ​ການ​ຕັ້ງ​ຄ່າ Google. ນີ້​ຈະ​ບໍ່​​ມີ​ຜົນ​ກັບ​ຄວາມ​ສາ​ມາດ​ຂອງ​ອຸ​ປະ​ກອນ​ທ່ານ​ໃນ​ການ​ສົ່ງ​ຂໍ້​ມູນ​ທີ່​ມັນ​ຕ້ອງ​ໃຊ້​ເພື່ອ​ຮັບ​ບໍ​ລິ​ການ​ສຳ​ຄັນ​ຕ່າງໆ ເຊັ່ນ: ການ​ອັບ​ເດດ​ ແລະ​ຄວາມ​ປອດ​ໄພລະ​ບົບ."</string>
+    <string name="setup_wizard_services_agreement">ໂທ​ລະ​ສັບ​ໜ່ວຍນີ້​ອາດ​ຮັບ​ແລະ​ຕິດ​ຕັ້ງ​ການ​ອັບ​ເດດ ແລະ​ແອັບຯ​ຈາກ Google, ​ຜູ່​ໃຫ້​ບໍ​ລິ​ການ​ເຄືອ​ຂ່າຍ​ຂອງ​ທ່ານ ແລະ​ຜູ່​ຜະ​ລິດ​ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານ. ບາງ​ແອັບຯ​ອາດ​ຖືກ​ດາວ​ໂຫລດ​ແລະ​ຕິດ​ຕັ້ງ​ຫາກ​ທ່ານ​ດຳ​ເນີນ​ການ​ຕໍ່ ແລະ​ທ່ານ​ສາ​ມາດ​ລຶບ​ພວກ​ມັນ​ອອກ​ໄດ້​ທຸກ​ເວ​ລາ.</string>
+</resources>

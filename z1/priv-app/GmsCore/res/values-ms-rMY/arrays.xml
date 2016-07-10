@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafe</item>
+        <item>Stesen Minyak</item>
+        <item>Panggung Wayang</item>
+        <item>Penginapan</item>
+        <item>Kelab Malam</item>
+        <item>Muzium</item>
+        <item>Restoran</item>
+        <item>Pusat Beli-belah</item>
+        <item>Gedung</item>
+        <item>Kedai Runcit / Pasar Raya</item>
+        <item>Lain-lain</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>lemah</item>
+        <item>sederhana</item>
+        <item>bagus</item>
+        <item>kuat</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Keluaran</item>
+        <item>Pembangun</item>
+        <item>Peruncitan</item>
+        <item>Tunjuk cara</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Telefon dan kereta menjalankan perisian yang tidak serasi. Untuk mendapatkan butiran, lawati &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Kereta telah mengiklankan set konfigurasi audio dan/atau video yang tidak betul.</item>
+        <item>"Sambungan USB tidak berfungsi dengan betul. Perkara yang boleh dicuba: 
+
+• Pastikan kabel dipasang dengan kemas pada kedua-dua hujung. 
+• Pastikan anda mempunyai kabel USB data. 
+• Pastikan tarikh dan masa ditetapkan dengan betul untuk kereta dan telefon anda."</item>
+        <item>Kereta telah berhenti menjalankan Android Auto.</item>
+        <item>Sesi Android Auto dihentikan seperti yang diminta.</item>
+        <item>Perisian kereta mungkin telah usang. Untuk mendapatkan butiran dan sokongan, hubungi pengeluar.</item>
+        <item>Perisian kereta anda tidak lulus semakan keselamatan Android Auto. Untuk mendapatkan butiran dan sokongan, hubungi pengeluar.</item>
+        <item>Perisian kereta anda tidak lulus semakan keselamatan Android Auto. Pastikan tarikh dan masa kereta ditetapkan dengan betul dan Android Auto telah dikemas kini.</item>
+        <item>Tindakan telah tamat masa. Anda harus membuat laporan pepijat dan memfailkan maklum balas.</item>
+        <item>Nampaknya anda tidak memasang pelancar, adakah telefon anda disediakan dengan betul?</item>
+        <item>Talian paip grafik baru sahaja mati. Anda harus membuat laporan pepijat dan memfailkan maklum balas.</item>
+        <item>Kereta tidak bertindak balas kepada mesej daripada telefon. Kereta mungkin dalam keadaan yang salah.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Lapangan Terbang</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bar</item>
+        <item>Stesen bas</item>
+        <item>Kafe</item>
+        <item>Tapak Perkhemahan</item>
+        <item>Tanah Perkuburan</item>
+        <item>Gereja</item>
+        <item>Dewan Bandar Raya</item>
+        <item>Unit Perniagaan</item>
+        <item>Stesen Minyak</item>
+        <item>Kedai Runcit atau Pasar Raya</item>
+        <item>Kuil Hindu</item>
+        <item>Hospital</item>
+        <item>Perpustakaan</item>
+        <item>Penginapan</item>
+        <item>Masjid</item>
+        <item>Panggung Wayang</item>
+        <item>Muzium</item>
+        <item>Taman</item>
+        <item>Tempat letak kereta</item>
+        <item>Rumah Ibadat</item>
+        <item>Balai Polis</item>
+        <item>Pejabat Pos</item>
+        <item>Restoran</item>
+        <item>Sekolah</item>
+        <item>Gedung</item>
+        <item>Stesen Kereta Api Bawah Tanah</item>
+        <item>Saumaah</item>
+        <item>Stesen Kereta Api</item>
+        <item>Stesen Transit</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Mac</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Julai</item>
+        <item>Ogos</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Disember</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Berhenti berkongsi</item>
+        <item>15 minit</item>
+        <item>30 minit</item>
+        <item>1 jam</item>
+        <item>Selama-lamanya</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Berhenti berkongsi</item>
+        <item>15 minit</item>
+        <item>30 minit</item>
+        <item>1 jam</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

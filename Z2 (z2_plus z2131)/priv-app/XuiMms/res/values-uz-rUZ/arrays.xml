@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>mavzu yo‘q</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 soniya</item>
+        <item>2 soniya</item>
+        <item>3 soniya</item>
+        <item>4 soniya</item>
+        <item>5 soniya</item>
+        <item>6 soniya</item>
+        <item>7 soniya</item>
+        <item>8 soniya</item>
+        <item>9 soniya</item>
+        <item>10 soniya</item>
+        <item>Boshqa</item>
+    </string-array>
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>بار</item>
+        <item>کافه</item>
+        <item>پمپ بنزین</item>
+        <item>سینما</item>
+        <item>اقامتگاه</item>
+        <item>کلوپ شبانه</item>
+        <item>موزه</item>
+        <item>رستوران</item>
+        <item>مرکز خرید</item>
+        <item>فروشگاه</item>
+        <item>سوپرمارکت یا خواربارفروشی</item>
+        <item>موارد دیگر</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ضعیف</item>
+        <item>متوسط</item>
+        <item>خوب</item>
+        <item>قوی</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>بلوتوث</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>انتشار</item>
+        <item>برنامه‌نویس</item>
+        <item>خرده‌فروشی</item>
+        <item>نسخه نمایشی</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>‏تلفن و خودرو از نرم‌افزار با نسخه‌های ناسازگاری استفاده می‌کنند، از &lt;a href="android.com/auto">android.com/auto&lt;/a> دیدن کنید</item>
+        <item>خودرو مجموعه نادرستی از پیکربندی‌های صوتی و/یا ویدیویی را گزارش کرده است.</item>
+        <item>"‏اتصال USB به درستی کار نمی‌کند. این موارد را امتحان کنید: 
+
+• مطمئن شوید که هر دو طرف کابل به درستی وصل شده است. 
+•از داشتن یک کابل USB داده مطمئن شوید. 
+•مطمئن شوید تاریخ و زمان در خودرو و تلفنتان به درستی تنظیم شده است."</item>
+        <item>‏خودرو برنامه Android Auto را متوقف کرد.</item>
+        <item>‏جلسه Android Auto بنا به درخواست متوقف شد.</item>
+        <item>ممکن است نرم‌افزار خودروی شما قدیمی باشد. برای دریافت جزئیات بیشتر، با سازنده تماس بگیرید.</item>
+        <item>‏نرم‌افزار خودروی شما در بررسی‌های امنیتی Android Auto ناموفق بود. برای اطلاع از جزئيات بیشتر، با سازنده تماس بگیرید.</item>
+        <item>‏نرم‌افزار خودروی شما در بررسی‌های امنیتی Android Auto ناموفق بود. مطمئن شوید که تاریخ و زمان به درستی تنظیم شده است و Android Auto به‌روزرسانی شده است.</item>
+        <item>مهلت زمانی عملکرد تمام شد. باید گزارش اشکال تهیه کنید و بازخورد ارسال نمایید.</item>
+        <item>به نظر نمی‌رسد راه‌انداز برای شما نصب شده باشد، آیا تلفن شما به درستی تنظیم شده است؟</item>
+        <item>پایپ‌لاین کارت گرافیک از کار افتاد. باید یک گزارش اشکال تهیه کنید و بازخورد ارسال نمایید.</item>
+        <item>خودرو به پیام‌های دریافتی از تلفن پاسخ نمی‌دهد. ممکن است خودرو در حالت اشتباه باشد.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>فرودگاه</item>
+        <item>دستگاه خودپرداز</item>
+        <item>بانک</item>
+        <item>بار</item>
+        <item>ایستگاه اتوبوس</item>
+        <item>کافه</item>
+        <item>محل کمپ</item>
+        <item>قبرستان</item>
+        <item>کلیسا</item>
+        <item>شهرداری</item>
+        <item>کارگاه</item>
+        <item>پمپ بنزین</item>
+        <item>سوپرمارکت یا خواربارفروشی</item>
+        <item>معبد هندو</item>
+        <item>بیمارستان</item>
+        <item>کتابخانه</item>
+        <item>اقامتگاه</item>
+        <item>مسجد</item>
+        <item>سالن سینما</item>
+        <item>موزه</item>
+        <item>پارک</item>
+        <item>پارکینگ</item>
+        <item>پرستشگاه</item>
+        <item>ایستگاه پلیس</item>
+        <item>اداره پست</item>
+        <item>رستوران</item>
+        <item>مدرسه</item>
+        <item>فروشگاه</item>
+        <item>ایستگاه مترو</item>
+        <item>کنیسه</item>
+        <item>ایستگاه قطار</item>
+        <item>ایستگاه ترانزیت</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>ژانویه</item>
+        <item>فوریه</item>
+        <item>مارس</item>
+        <item>آوریل</item>
+        <item>مه</item>
+        <item>ژوئن</item>
+        <item>ژوئیه</item>
+        <item>اوت</item>
+        <item>سپتامبر</item>
+        <item>اکتبر</item>
+        <item>نوامبر</item>
+        <item>دسامبر</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>توقف اشتراک‌گذاری</item>
+        <item>۱۵ دقیقه</item>
+        <item>۳۰ دقیقه</item>
+        <item>۱ ساعت</item>
+        <item>نامحدود</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>توقف اشتراک‌گذاری</item>
+        <item>۱۵ دقیقه</item>
+        <item>۳۰ دقیقه</item>
+        <item>۱ ساعت</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>۰</item>
+        <item>۱۵</item>
+        <item>۳۰</item>
+        <item>۴۵</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>یک سؤال امنیتی انتخاب کنید</item>
+        <item>اولین شماره تلفن؟</item>
+        <item>نام بهترین دوست دوران کودکی شما چیست؟</item>
+        <item>نام اولین معلم؟</item>
+        <item>نام مدیر اولین شغل شما؟</item>
+        <item>شماره ثبت خودرو؟</item>
+    </string-array>
+</resources>

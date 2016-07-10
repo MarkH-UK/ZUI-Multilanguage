@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Alp.BaseTheme.Dark" parent="@android:style/Theme" />
+    <style name="Alp.BaseThemeHelper.Dark" parent="@style/Alp.BaseTheme.Dark" />
+    <style name="Alp.Theme.Dark" parent="@style/Alp.BaseThemeHelper.Dark">
+        <item name="android:windowBackground">@color/alp_pattern_activity_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:fadingEdgeLength">0.0dip</item>
+        <item name="alp_drawable_btn_code_lock_touched_holo_default">@drawable/alp_btn_code_lock_touched_holo_light_default</item>
+        <item name="alp_drawable_btn_code_lock_touched_holo_error">@drawable/alp_btn_code_lock_touched_holo_light_error</item>
+        <item name="alp_drawable_indicator_code_lock_point_area_default_holo">@drawable/alp_indicator_code_lock_point_area_default_holo_light</item>
+        <item name="aosp_drawable_indicator_code_lock_point_area_normal">@drawable/aosp_indicator_code_lock_point_area_green_holo</item>
+        <item name="alp_color_pattern_path_default">@color/alp_pattern_path_light_default</item>
+        <item name="alp_color_pattern_path_error">@color/alp_pattern_path_light_error</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:fadingEdgeLength">0.0dip</item>
+        <item name="android:popupMenuStyle">@style/MyPopupMenu</item>
+        <item name="android:textAppearanceLargePopupMenu">@style/MyMenuTextStyle</item>
+    </style>
+    <style name="AppTheme" parent="@style/AppBaseTheme">
+        <item name="android:buttonStyle">@style/CustomHoloLightButtonStyle</item>
+        <item name="android:dropDownListViewStyle">@style/MyDropDownListView</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:actionButtonStyle">@style/MyActionButtonStyle</item>
+        <item name="android:actionModeCloseDrawable">@drawable/img_actionbar_up</item>
+        <item name="android:actionOverflowButtonStyle">@style/MyActionBarOverflow</item>
+    </style>
+    <style name="ComposeListViewStyle" parent="@android:style/Widget.DeviceDefault.ListView">
+        <item name="android:divider">@drawable/common_list_divider</item>
+        <item name="android:dividerHeight">1.0px</item>
+    </style>
+    <style name="ComposeTheme" parent="@style/SingleActionButtonTheme">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:dropDownListViewStyle">@style/ComposeListViewStyle</item>
+    </style>
+    <style name="ConfigWidth">
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    <style name="CustomActionMenuTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Menu">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text_color_top_bar_btn</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="CustomCheckbox" parent="@android:style/Widget.DeviceDefault.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/img_checkbox_round</item>
+    </style>
+    <style name="CustomHoloLightButtonStyle" parent="@android:style/Widget.DeviceDefault.Light.Button">
+        <item name="android:minWidth">1.0dip</item>
+        <item name="android:minHeight">1.0dip</item>
+    </style>
+    <style name="DialogActivityTheme" parent="@android:style/Theme.DeviceDefault.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="ExtendMenuAnimation">
+        <item name="android:windowEnterAnimation">@anim/menu_extend_show</item>
+        <item name="android:windowExitAnimation">@anim/menu_extend_dismiss</item>
+    </style>
+    <style name="ExtendMenuDialog" parent="@android:style/Theme.DeviceDefault.Dialog">
+        <item name="android:windowBackground">@drawable/bg_actionbar_menu_extend</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/ExtendMenuAnimation</item>
+    </style>
+    <style name="GeneralTheme" parent="@style/MailCenterTheme" />
+    <style name="ImageViewTheme" parent="@style/SingleActionButtonTheme">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <style name="IntentHandlerTheme" parent="@style/MailCenterTheme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="LargeButtonStyle">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/largebutton_text</item>
+        <item name="android:background">@drawable/btn_gallerypicker_confirm</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">43.0dip</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+    </style>
+    <style name="LaunchTheme" parent="@style/AppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="LoginListViewStyle" parent="@android:style/Widget.DeviceDefault.ListView">
+        <item name="android:divider">@drawable/login_dropdown_divider</item>
+        <item name="android:dividerHeight">1.0px</item>
+    </style>
+    <style name="LoginTheme" parent="@style/SingleActionButtonTheme">
+        <item name="android:dropDownListViewStyle">@style/LoginListViewStyle</item>
+    </style>
+    <style name="MailCenterTheme" parent="@style/AppTheme" />
+    <style name="MyActionBar" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+        <item name="android:background">@drawable/bg_actionbar</item>
+        <item name="android:height">?android:actionBarSize</item>
+        <item name="android:homeAsUpIndicator">@drawable/img_actionbar_up</item>
+    </style>
+    <style name="MyActionBarOverflow" parent="@android:style/Widget.DeviceDefault.ActionButton.Overflow">
+        <item name="android:src">@drawable/img_actionbar_overflow</item>
+    </style>
+    <style name="MyActionButtonStyle" parent="@android:style/Widget.DeviceDefault.Light.ActionButton">
+        <item name="android:minWidth">64.0dip</item>
+    </style>
+    <style name="MyDropDownListView" parent="@android:style/Widget.DeviceDefault.ListView.DropDown">
+        <item name="android:listSelector">@drawable/bg_actionbar_menu_item</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="MyMenuTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Small">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/actionbar_menu_item_text</item>
+    </style>
+    <style name="MyPopupMenu" parent="@android:style/Widget.DeviceDefault.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/bg_actionbar_menu_dropdown</item>
+        <item name="android:dropDownWidth">177.0dip</item>
+        <item name="android:dropDownHorizontalOffset">0.0dip</item>
+        <item name="android:dropDownVerticalOffset">0.0dip</item>
+    </style>
+    <style name="MySingleActionBar" parent="@style/MyActionBar" />
+    <style name="MySingleActionButtonStyle" parent="@style/MyActionButtonStyle" />
+    <style name="NavPage">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/navpage</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="NoMinWidthHeightButton" parent="@android:style/Widget">
+        <item name="android:textAppearance">?android:textAppearanceButton</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@android:drawable/btn_default</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:minHeight">0.0dip</item>
+    </style>
+    <style name="NotificationText">
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="PopupAnimation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/fade_in_halftime</item>
+        <item name="android:windowExitAnimation">@anim/fade_out_halftime</item>
+    </style>
+    <style name="ProgressBar_Attachment" parent="@android:style/Widget.DeviceDefault.ProgressBar.Horizontal">
+        <item name="android:maxHeight">80.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/progress_attachment</item>
+        <item name="android:minHeight">8.0dip</item>
+    </style>
+    <style name="ProgressBar_Attachment_MailForward" parent="@style/ProgressBar_Attachment">
+        <item name="android:progressDrawable">@drawable/progress_attachment_mailforward</item>
+    </style>
+    <style name="SingleActionButtonTheme" parent="@style/AppTheme">
+        <item name="android:actionBarStyle">@style/MySingleActionBar</item>
+        <item name="android:actionButtonStyle">@style/MySingleActionButtonStyle</item>
+        <item name="android:actionMenuTextAppearance">@style/CustomActionMenuTextStyle</item>
+        <item name="android:actionMenuTextColor">@color/text_color_top_bar_btn</item>
+    </style>
+    <style name="YXButton">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/yx_btn_text</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">40.0dip</item>
+        <item name="android:minHeight">40.0dip</item>
+    </style>
+    <style name="YXLineActionButton" parent="@style/YXLineButton">
+        <item name="android:textColor">@color/yx_style_one_btn_text</item>
+        <item name="android:background">@drawable/btn_style_one</item>
+        <item name="android:shadowColor">#ff000000</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="YXLineButton" parent="@style/YXButton">
+        <item name="android:textColor">@color/yx_style_two_btn_text</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <item type="style" name="alp_button_bar_button_style">@null</item>
+    <item type="style" name="alp_button_bar_style">@null</item>
+    <style name="anim_popup_filterdone">
+        <item name="android:windowEnterAnimation">@anim/popup_filterdone_show_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/popup_filterdone_fade_out</item>
+    </style>
+    <style name="aw_btn_style">
+        <item name="android:textSize">@dimen/aw_btn_text_size</item>
+        <item name="android:textColor">@color/aw_btn_txt</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/aw_btn_height</item>
+    </style>
+    <style name="btn_attach_toolbar">
+        <item name="android:background">@drawable/bg_common_button</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="choose_domain_item">
+        <item name="android:background">@drawable/bg_common_button</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.0dip</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:minHeight">53.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="choose_domain_item_land">
+        <item name="android:background">@drawable/bg_common_button</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:minHeight">53.0dip</item>
+    </style>
+    <style name="dialog_borderless_button_style">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="dialog_button_bar_style">
+        <item name="android:background">@null</item>
+        <item name="android:dividerPadding">0.0dip</item>
+    </style>
+    <style name="dialog_textAppearance1">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:textColorHighlight">#ff000000</item>
+        <item name="android:textColorHint">#ff000000</item>
+        <item name="android:textColorLink">#ff000000</item>
+    </style>
+    <style name="dialog_textAppearance2">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColorHighlight">#ffffffff</item>
+        <item name="android:textColorHint">#ffffffff</item>
+        <item name="android:textColorLink">#ffffffff</item>
+    </style>
+    <style name="mail_dialog" parent="@android:style/Theme.DeviceDefault.Dialog">
+        <item name="android:textAppearance">@style/dialog_textAppearance1</item>
+        <item name="android:textAppearanceInverse">@style/dialog_textAppearance2</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:borderlessButtonStyle">@style/dialog_borderless_button_style</item>
+        <item name="android:buttonBarStyle">@style/dialog_button_bar_style</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:listPreferredItemPaddingLeft">16.0dip</item>
+        <item name="android:listPreferredItemPaddingRight">16.0dip</item>
+        <item name="android:listPreferredItemPaddingStart">16.0dip</item>
+        <item name="android:listPreferredItemPaddingEnd">16.0dip</item>
+    </style>
+    <style name="mailcenterlist" parent="@style/AppTheme">
+        <item name="android:colorBackground">@color/mailcenterlist</item>
+        <item name="android:windowBackground">@color/mailcenterlist</item>
+    </style>
+    <style name="no_dim_dialog" parent="@style/mail_dialog">
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="pref_column_idle">
+        <item name="android:background">@color/transparent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">24.0dip</item>
+    </style>
+    <style name="pref_column_tip">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/pref_item_summary</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">13.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">32.0dip</item>
+    </style>
+    <style name="pref_dialog_btn_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:background">@drawable/dialog_cancel_btn_bg_color</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+    <style name="pref_dialog_ok_btn_style" parent="@style/pref_dialog_btn_style">
+        <item name="android:textColor">@color/pref_input_dialog_btn_text_color</item>
+        <item name="android:background">@drawable/dialog_ok_btn_bg</item>
+    </style>
+    <style name="pref_item_layout" parent="@android:style/Widget.DeviceDefault">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/ripple_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">52.0dip</item>
+    </style>
+    <style name="pref_item_single_text" parent="@style/pref_item_layout">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/pref_item_title</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="pref_item_summary_text">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/pref_item_summary</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="pref_item_thin_line">
+        <item name="android:background">@color/pref_item_line</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+        <item name="android:minHeight">1.0px</item>
+    </style>
+    <style name="pref_item_title_text">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/pref_item_title</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="pref_item_wide_line">
+        <item name="android:background">@color/pref_item_line</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">2.0px</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:minHeight">2.0px</item>
+    </style>
+    <style name="pref_server_item_layout">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@color/pref_item_background</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">52.0dip</item>
+    </style>
+    <style name="progressbar_custom" parent="@android:style/Widget.DeviceDefault.ProgressBar.Horizontal">
+        <item name="android:maxHeight">50.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/progressbar_custom</item>
+        <item name="android:minHeight">2.0dip</item>
+    </style>
+    <style name="register_account_info">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/title_text</item>
+    </style>
+    <style name="register_edit_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/title_text</item>
+        <item name="android:textColorHint">@color/hint_grey</item>
+        <item name="android:background">@drawable/bg_input_box</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:ems">10</item>
+        <item name="android:popupBackground">@drawable/bg_login_dropdown</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:dropDownWidth">fill_parent</item>
+        <item name="android:imeOptions">actionNext|flagNoExtractUi|flagNoFullscreen</item>
+        <item name="android:dropDownHorizontalOffset">-20.0dip</item>
+        <item name="android:dropDownVerticalOffset">2.0dip</item>
+    </style>
+    <style name="register_large_btn" parent="@style/LargeButtonStyle">
+        <item name="android:background">@drawable/btn_login</item>
+        <item name="android:layout_marginTop">27.0dip</item>
+    </style>
+    <style name="spinner_progress">
+        <item name="android:maxWidth">36.0dip</item>
+        <item name="android:maxHeight">36.0dip</item>
+        <item name="android:indeterminateOnly">true</item>
+        <item name="android:indeterminateDrawable">@drawable/spinner_progress</item>
+        <item name="android:minWidth">36.0dip</item>
+        <item name="android:minHeight">36.0dip</item>
+    </style>
+    <style name="spinnerdialog" parent="@android:style/Theme.DeviceDefault.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="topbar_title">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bookmarks_title">
+        <item>百度</item>
+        <item>新浪</item>
+        <item>网易</item>
+        <item>新浪微博</item>
+        <item>开心网</item>
+        <item>人人网</item>
+    </string-array>
+    <string-array name="bookmarks_url">
+        <item>http://m.baidu.com/</item>
+        <item>http://sina.cn/</item>
+        <item>http://3g.163.com/</item>
+        <item>http://m.weibo.cn/</item>
+        <item>http://m.kaixin001.com/</item>
+        <item>http://3g.renren.com/</item>
+    </string-array>
+    <string-array name="emails">
+        <item>\@gmail.com</item>
+        <item>\@hotmail.com</item>
+        <item>\@yahoo.com</item>
+        <item>\@live.com</item>
+    </string-array>
+    <string-array name="bookmarks_title_cmcc">
+        <item>10086门户</item>
+        <item>移动应用商场</item>
+        <item>移动梦网</item>
+        <item>手机阅读</item>
+        <item>手机游戏</item>
+        <item>手机视频</item>
+        <item>无线音乐</item>
+        <item>12580</item>
+    </string-array>
+    <string-array name="bookmarks_title_ctcc">
+        <item>新浪微博</item>
+        <item>淘宝</item>
+        <item>大众点评</item>
+        <item>同花顺</item>
+        <item>有道词典</item>
+        <item>QQ浏览器</item>
+        <item>我查查</item>
+    </string-array>
+    <string-array name="bookmarks_title_cucc">
+        <item>3G</item>
+    </string-array>
+    <string-array name="bookmarks_url_cmcc">
+        <item>http://10086.cn/m</item>
+        <item>a.10086.cn</item>
+        <item>wap.monternet.com</item>
+        <item>wap.cmread.com</item>
+        <item>g.10086.cn</item>
+        <item>wap.cmvideo.cn</item>
+        <item>m.10086.cn</item>
+        <item>12580wap.10086.cn/?pid=PCM002942000</item>
+    </string-array>
+    <string-array name="bookmarks_url_ctcc">
+        <item>weibo.com</item>
+        <item>www.taobao.com</item>
+        <item>www.dianping.com</item>
+        <item>www.10jqka.com.cn</item>
+        <item>dict.youdao.com</item>
+        <item>browser.qq.com</item>
+        <item>www.wochacha.com</item>
+    </string-array>
+    <string-array name="bookmarks_url_cucc">
+        <item>http://www.wo.com.cn</item>
+    </string-array>
+    <string-array name="config_key_system_uuid_mapping">
+        <item>com.oem.test-keysystem,EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED</item>
+    </string-array>
+</resources>

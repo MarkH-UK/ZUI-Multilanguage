@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <Key latin:moreKeys="!text/morekeys_y" latin:keySpec="y" />
+    <Key latin:keySpec="x" />
+    <Key latin:moreKeys="!text/morekeys_c" latin:keySpec="c" />
+    <Key latin:moreKeys="!text/morekeys_v" latin:keySpec="v" />
+    <Key latin:keySpec="b" />
+    <Key latin:moreKeys="!text/morekeys_n" latin:keySpec="n" />
+    <Key latin:keySpec="m" />
+</merge>

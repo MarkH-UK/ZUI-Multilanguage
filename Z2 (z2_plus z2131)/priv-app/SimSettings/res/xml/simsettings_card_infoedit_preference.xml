@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/card_name_title" android:key="lenovo_card_info_edit"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.zui.simsettings.preference.ImagePreference android:persistent="false" android:title="@string/card_name_title" android:key="name" />
+    <com.zui.simsettings.preference.ImagePreference android:persistent="false" android:title="@string/card_number_title" android:key="number" />
+</PreferenceScreen>

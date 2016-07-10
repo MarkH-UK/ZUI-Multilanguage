@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>酒吧</item>
+        <item>咖啡室</item>
+        <item>油站</item>
+        <item>戲院</item>
+        <item>酒店住宿</item>
+        <item>夜總會</item>
+        <item>博物館</item>
+        <item>餐廳酒樓</item>
+        <item>購物中心</item>
+        <item>商店</item>
+        <item>雜貨店或超級市場</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>弱</item>
+        <item>可</item>
+        <item>佳</item>
+        <item>強</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>藍牙</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>發行版本</item>
+        <item>開發人員</item>
+        <item>零售</item>
+        <item>示範</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>手機和汽車執行的軟件不相容。詳情請前往：&lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>汽車的廣告音訊和/或視訊設定不正確。</item>
+        <item>"
+正常連接。您可以嘗試：BRAEK_0
+• 確保連接線兩端均接合穩妥。
+• 確保您有一條 USB 數據連接線。
+• 確保汽車和手機的日期和時間設定正確。"</item>
+        <item>此車已停止執行 Android Auto。</item>
+        <item>Android Auto 的工作階段已按要求停止。</item>
+        <item>此車的軟件可能已過期。請聯絡生產商，以瞭解有關詳情並取得支援。</item>
+        <item>此車的軟件未能通過 Android Auto 的安全檢查。請聯絡生產商，以瞭解有關詳情及取得支援。</item>
+        <item>此車的軟件未能通過 Android Auto 的安全檢查。請確認汽車的日期和時間設定正確，並已更新 Android Auto。</item>
+        <item>操作逾時。請擷取錯誤報告並提交意見反映。</item>
+        <item>您尚未安裝應用程式啟動器，您是否已正確設定手機？</item>
+        <item>圖形管線發生問題，請擷取錯誤報告並提交意見反映。</item>
+        <item>汽車未回應由手機傳送的訊息，汽車可能處於錯誤狀態。</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>機場</item>
+        <item>自動櫃員機</item>
+        <item>銀行</item>
+        <item>酒吧</item>
+        <item>巴士站</item>
+        <item>咖啡室</item>
+        <item>露營地點</item>
+        <item>墳場</item>
+        <item>教堂</item>
+        <item>大會堂</item>
+        <item>建設</item>
+        <item>油站</item>
+        <item>雜貨店或超級市場</item>
+        <item>印度教寺廟</item>
+        <item>醫院</item>
+        <item>圖書館</item>
+        <item>酒店住宿</item>
+        <item>清真寺</item>
+        <item>戲院</item>
+        <item>博物館</item>
+        <item>公園</item>
+        <item>停車場</item>
+        <item>宗教場所</item>
+        <item>警察局</item>
+        <item>郵政局</item>
+        <item>餐廳</item>
+        <item>學校</item>
+        <item>商店</item>
+        <item>地鐵站</item>
+        <item>猶太教堂</item>
+        <item>火車站</item>
+        <item>公共運輸交匯處</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>1 月</item>
+        <item>2 月</item>
+        <item>3 月</item>
+        <item>4 月</item>
+        <item>5 月</item>
+        <item>6 月</item>
+        <item>7 月</item>
+        <item>8 月</item>
+        <item>9 月</item>
+        <item>10 月</item>
+        <item>11 月</item>
+        <item>12 月</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>停止共用</item>
+        <item>15 分鐘</item>
+        <item>30 分鐘</item>
+        <item>1 小時</item>
+        <item>無限期</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>停止分享</item>
+        <item>15 分鐘</item>
+        <item>30 分鐘</item>
+        <item>1 小時</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

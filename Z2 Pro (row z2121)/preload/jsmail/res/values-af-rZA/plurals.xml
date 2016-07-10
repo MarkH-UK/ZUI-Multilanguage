@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ongeleeste posse</item>
+        <item quantity="zero">%1$d ongeleeste pos</item>
+        <item quantity="one">%1$d ongeleeste pos</item>
+        <item quantity="two">%1$d ongeleeste posse</item>
+        <item quantity="few">%1$d ongeleeste posse</item>
+        <item quantity="many">%1$d ongeleeste posse</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Wil jy die %1$d gesprekke argiveer?</item>
+        <item quantity="zero">Is jy seker jy wil die %1$d gesprek argiveer?</item>
+        <item quantity="one">Is jy seker jy wil die %1$d gesprek argiveer?</item>
+        <item quantity="two">Wil jy die %1$d gesprekke argiveer?</item>
+        <item quantity="few">Wil jy die %1$d gesprekke argiveer?</item>
+        <item quantity="many">Wil jy die %1$d gesprekke argiveer?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Is jy seker jy wil die %1$d gesprekke skrap?</item>
+        <item quantity="zero">Is jy seker jy wil die %1$d gesprek skrap?</item>
+        <item quantity="one">Is jy seker jy wil die %1$d gesprek skrap?</item>
+        <item quantity="two">Is jy seker jy wil die %1$d gesprekke skrap?</item>
+        <item quantity="few">Is jy seker jy wil die %1$d gesprekke skrap?</item>
+        <item quantity="many">Is jy seker jy wil die %1$d gesprekke skrap?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Hierdie gesprekke sluit mislukte gesprekke in. Is jy seker om mislukte inskrywings te skrap?</item>
+        <item quantity="zero">Hierdie gesprekke sluit mislukte gesprekke in. Is jy seker om mislukte inskrywings te skrap?</item>
+        <item quantity="one">Hierdie gesprek sluit mislukte gesprekke in. Is jy seker om mislukte inskrywings te skrap?</item>
+        <item quantity="two">Hierdie gesprekke sluit mislukte gesprekke in. Is jy seker om mislukte inskrywings te skrap?</item>
+        <item quantity="few">Hierdie gesprekke sluit mislukte gesprekke in. Is jy seker om mislukte inskrywings te skrap?</item>
+        <item quantity="many">Hierdie gesprekke sluit mislukte gesprekke in. Is jy seker om mislukte inskrywings te skrap?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Wil jy die konsepte in die %1$d gesprekke verwerp?</item>
+        <item quantity="zero">Wil jy die konsepte in die %1$d gesprek verwerp?</item>
+        <item quantity="one">Wil jy die konsepte in die %1$d gesprek verwerp?</item>
+        <item quantity="two">Wil jy die konsepte in die %1$d gesprekke verwerp?</item>
+        <item quantity="few">Wil jy die konsepte in die %1$d gesprekke verwerp?</item>
+        <item quantity="many">Wil jy die konsepte in die %1$d gesprekke verwerp?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d items geselekteer</item>
+        <item quantity="zero">%d item geselekteer</item>
+        <item quantity="one">%d item geselekteer</item>
+        <item quantity="two">%d items geselekteer</item>
+        <item quantity="few">%d items geselekteer</item>
+        <item quantity="many">%d items geselekteer</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekke geargiveer.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek geargiveer.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek geargiveer.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekke geargiveer.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekke geargiveer.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekke geargiveer.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekke geskrap.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek geskrap.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek geskrap.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekke geskrap.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekke geskrap.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekke geskrap.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Vouers verander</item>
+        <item quantity="zero">Vouer verander</item>
+        <item quantity="one">Vouer verander</item>
+        <item quantity="two">Vouers verander</item>
+        <item quantity="few">Vouers verander</item>
+        <item quantity="many">Vouers verander</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekke geïgnoreer.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek geïgnoreer.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek geïgnoreer.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekke geïgnoreer.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekke geïgnoreer.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekke geïgnoreer.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekke gemerk as onbelangrik.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek gemerk as onbelangrik.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek gemerk as onbelangrik.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekke gemerk as onbelangrik.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekke gemerk as onbelangrik.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekke gemerk as onbelangrik.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as nie gemors nie.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek gerapporteer as nie gemors nie.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek gerapporteer as nie gemors nie.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as nie gemors nie.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as nie gemors nie.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as nie gemors nie.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as uitvissing.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek gerapporteer as uitvissing.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek gerapporteer as uitvissing.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as uitvissing.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as uitvissing.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as uitvissing.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as plapos.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> gesprek gerapporteer as plapos.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gesprek gerapporteer as plapos.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as plapos.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as plapos.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> gesprekke gerapporteer as plapos.</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Ontster die %1$d gesprekke.</item>
+        <item quantity="zero">Ontster die %1$d gesprek.</item>
+        <item quantity="one">Ontster die %1$d gesprek.</item>
+        <item quantity="two">Ontster die %1$d gesprekke.</item>
+        <item quantity="few">Ontster die %1$d gesprekke.</item>
+        <item quantity="many">Ontster die %1$d gesprekke.</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Konsepte</item>
+        <item quantity="zero">Konsep</item>
+        <item quantity="one">Konsep</item>
+        <item quantity="two">Konsepte</item>
+        <item quantity="few">Konsepte</item>
+        <item quantity="many">Konsepte</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d posse sal permanent geskrap word.</item>
+        <item quantity="zero">%1$d pos sal permanent geskrap word.</item>
+        <item quantity="one">%1$d pos sal permanent geskrap word.</item>
+        <item quantity="two">%1$d posse sal permanent geskrap word.</item>
+        <item quantity="few">%1$d posse sal permanent geskrap word.</item>
+        <item quantity="many">%1$d posse sal permanent geskrap word.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="zero">%d B</item>
+        <item quantity="one">%d B</item>
+        <item quantity="two">%d B</item>
+        <item quantity="few">%d B</item>
+        <item quantity="many">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="zero">%d GB</item>
+        <item quantity="one">%d GB</item>
+        <item quantity="two">%d GB</item>
+        <item quantity="few">%d GB</item>
+        <item quantity="many">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="zero">%d KB</item>
+        <item quantity="one">%d KB</item>
+        <item quantity="two">%d KB</item>
+        <item quantity="few">%d KB</item>
+        <item quantity="many">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="zero">%d MB</item>
+        <item quantity="one">%d MB</item>
+        <item quantity="two">%d MB</item>
+        <item quantity="few">%d MB</item>
+        <item quantity="many">%d MB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Skuif %1$d gesprekke</item>
+        <item quantity="zero">Skuif %1$d gesprek</item>
+        <item quantity="one">Skuif %1$d gesprek</item>
+        <item quantity="two">Skuif %1$d gesprekke</item>
+        <item quantity="few">Skuif %1$d gesprekke</item>
+        <item quantity="many">Skuif %1$d gesprekke</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Skuif posse</item>
+        <item quantity="zero">Skuif pos</item>
+        <item quantity="one">Skuif pos</item>
+        <item quantity="two">Skuif posse</item>
+        <item quantity="few">Skuif posse</item>
+        <item quantity="many">Skuif posse</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d nuwe inkomende posse. Vertoon</item>
+        <item quantity="zero">%1$d nuwe inkomende pos. Vertoon</item>
+        <item quantity="one">%1$d nuwe inkomende pos. Vertoon</item>
+        <item quantity="two">%1$d nuwe inkomende posse. Vertoon</item>
+        <item quantity="few">%1$d nuwe inkomende posse. Vertoon</item>
+        <item quantity="many">%1$d nuwe inkomende posse. Vertoon</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">(item hoeveelheid=\"ander\")%d items geselekteer</item>
+        <item quantity="zero">(item hoeveelheid=\"nul\")%d item geselekteer</item>
+        <item quantity="one">(item hoeveelheid=\"een\")%d item geselekteer</item>
+        <item quantity="two">(item hoeveelheid=\"twee\")%d items geselekteer</item>
+        <item quantity="few">"(item hoeveelheid=\"'n paar\")%d items geselekteer"</item>
+        <item quantity="many">(item hoeveelheid=\"baie\")%d items geselekteer</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d lees posse</item>
+        <item quantity="zero">%1$d lees pos</item>
+        <item quantity="one">%1$d lees pos</item>
+        <item quantity="two">%1$d lees posse</item>
+        <item quantity="few">%1$d lees posse</item>
+        <item quantity="many">%1$d lees posse</item>
+    </plurals>
+</resources>

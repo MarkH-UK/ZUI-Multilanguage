@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="focused1">#ff333333</color>
+    <color name="statusbar_bg_color">#ff131419</color>
+    <color name="notification_bg_color">#ff131419</color>
+    <color name="preference_summary_bg_color">#000000</color>
+    <color name="notification_setting_summary_textcolor">#454545</color>
+    <color name="notification_setting_explain_textcolor">#454545</color>
+    <color name="statusbar_icon_color">#FFFFFF</color>
+    <color name="notification_app_name_textcolor">#8c8c8c</color>
+    <color name="notification_app_name_status_textcolor">#5c5c5c</color>
+    <color name="listview_x_background">#0b0c0f</color>
+    <color name="edit_title_color_normal">#006798</color>
+    <color name="edit_title_color_pressed">#66006798</color>
+    <color name="title_selected">#006798</color>
+    <color name="title_unselected">#8c8c8c</color>
+    <color name="font_selected">#006798</color>
+    <color name="font_unselected">#8c8c8c</color>
+    <color name="vertical_line">#333333</color>
+    <color name="preferencecategory_bg">#0b0c0f</color>
+    <color name="delete_unselected">#131419</color>
+    <color name="delete_unselected_border">#212227</color>
+    <color name="double_button_bg">#131419</color>
+    <color name="double_button_pressed_bg">#1f2025</color>
+    <color name="double_button_unenable">#1f2025</color>
+    
+    <color name="button_backgroud_enable_false">#121317</color>
+
+    <!-- font begin -->
+    <color name="button_progress_tv">#8c8c8c</color>
+    <color name="button_tv">#006798</color>
+    <color name="cardview_foreground_color">#0dffffff</color>
+    <color name="rc_item_fragme">#151515</color>
+    <color name="tab_bg">#131419</color>
+    <color name="cut_off_rule_color">#1b1e24</color>
+    <color name="detail_bg">#0b0c0f</color>
+    <color name="abstract_bg">#000000</color>
+    <color name="analogy_line_color">#1b1e24</color>
+    <color name="font_name_color">#8c8c8c</color>
+    <color name="font_abstract_color">#5c5c5c</color>
+    <color name="font_button_color">#006798</color>
+    <color name="font_preview_color">#000000</color>
+    <color name="font_actionbar_title">#8c8c8c</color>
+    <color name="font_no_network_tv">#5c5c5c</color>
+    <color name="font_del_line">#212227</color>
+    <color name="font_select_num_text_color">#8c8c8c</color>
+
+</resources>

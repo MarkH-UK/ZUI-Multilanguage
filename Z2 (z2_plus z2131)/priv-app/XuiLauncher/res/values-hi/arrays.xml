@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>डिफ़ॉल्ट</item>
+        <item>घुमाएँ</item>
+        <item>बुलडोज</item>
+        <item>विंडमिल</item>
+        <item>क्यूब</item>
+        <item>साइन वेव</item>
+        <item>सिलेंडर</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>कोई नहीं</item>
+        <item>डेस्कटॉप मेनू खोलें</item>
+        <item>हाल में उपयोग हुए ऐप्स दिखाएँ</item>
+        <item>नोटिफ़िकेशन बार खोलें</item>
+        <item>आइकन खोजें</item>
+        <item>स्क्रीन लॉक करें</item>
+    </string-array>
+</resources>

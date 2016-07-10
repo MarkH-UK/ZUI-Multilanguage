@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/mobile_network_advanced_options_title_open"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:simsettings="http://schemas.android.com/apk/res/com.zui.simsettings">
+    <com.zui.simsettings.preference.ImagePreference android:persistent="false" android:title="@string/carrier_slot0" android:key="carrier_slot0" simsettings:icon="@drawable/simsettings_dialog_card1" />
+    <com.zui.simsettings.preference.ImagePreference android:persistent="false" android:title="@string/carrier_slot1" android:key="carrier_slot1" simsettings:icon="@drawable/simsettings_dialog_card2" />
+</PreferenceScreen>

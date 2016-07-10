@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" ບໍ່ສາມາດໃຊ້ບັນຊີນີ້ໄດ້ ເພາະວ່າແອັບຫາຍໄປ: ^1. ຕິດຕໍ່ຜູ້ບໍລິຫານໂດເມນສຳລັບ "&lt;b>^2&lt;/b>" ຫຼືລົງຊື່ເຂົ້າໂດຍໃຊ້ບັນຊີອື່ນ. "</item>
+        <item quantity="one">" ບໍ່ສາມາດໃຊ້ບັນຊີນີ້ໄດ້ ເພາະວ່າແອັບຫາຍໄປ: ^1. ຕິດຕໍ່ຜູ້ບໍລິຫານໂດເມນສຳລັບ "&lt;b>^2&lt;/b>" ຫຼືລົງຊື່ເຂົ້າໂດຍໃຊ້ບັນຊີອື່ນ. "</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="q4">r/y/q4.xml</item>
+    <item type="layout" name="q5">r/y/q5.xml</item>
+    <item type="layout" name="a0m">r/y/a0m.xml</item>
+    <item type="layout" name="afo">r/y/afo.xml</item>
+    <item type="layout" name="afp">r/y/afp.xml</item>
+</resources>

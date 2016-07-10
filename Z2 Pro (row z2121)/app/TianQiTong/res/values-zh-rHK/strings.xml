@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽主頁</string>
+    <string name="abc_action_bar_home_description_format">%1$s：%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s (%2$s)：%3$s</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">顯示全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">與「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="status_bar_notification_info_overflow">999 +</string>
+    <string name="add_city_confirm">您當前位於%1$s，請確定是否新增?</string>
+    <string name="app_name">天氣</string>
+    <string name="declaration_continue">同意並繼續</string>
+    <string name="declaration_locate_msg">推送實時天氣需要獲取位置資訊</string>
+    <string name="declaration_locate_title">定位</string>
+    <string name="declaration_network_msg">獲取天氣資料需要聯網</string>
+    <string name="declaration_network_title">造訪流動網路</string>
+    <string name="declaration_never_remind">不再提示</string>
+    <string name="declaration_quit">退出</string>
+    <string name="declaration_title">天氣需要使用以下許可權</string>
+    <string name="loading_city">正在載入城市，請稍候...</string>
+    <string name="locate_success_add">確定</string>
+    <string name="locate_success_cancel_add">取消</string>
+    <string name="locate_success_promote">天氣定位提示</string>
+    <string name="locating">正在定位...</string>
+    <string name="weather_updating">正在更新...</string>
+</resources>

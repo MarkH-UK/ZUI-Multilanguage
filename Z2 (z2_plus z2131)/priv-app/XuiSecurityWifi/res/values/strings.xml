@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFiCheck</string>
+    <string name="wifiwarning_notify">WiFi security warning</string>
+    <string name="wifiwarning_content_dns">The current WiFi \"%1$s\" DNS services are malicious tampering, may cause the disclosure of privacy information, account password was stolen, resulting in property damage,Recommended disconnect.</string>
+    <string name="wifiwarning_content_fishing">The current WiFi \"%1$s\" is a false WiFi，may cause the disclosure of privacy information, account password was stolen, resulting in property damage, Recommended disconnect.</string>
+    <string name="wifiwarning_content_arp">The current WiFi \"%1$s\" was ARP deception attack，may cause the disclosure of privacy information, account password was stolen, resulting in property damage, Recommended disconnect.</string>
+    <string name="wifiwarning_btn_goonuse">continue</string>
+    <string name="wifiwarning_btn_closenet">disconnect</string>
+</resources>

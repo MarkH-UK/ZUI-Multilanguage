@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Det går inte att använda det här kontot eftersom apparna ^1 saknas. Kontakta domänadministratören för "&lt;b>^2&lt;/b>" eller logga in med ett annat konto. "</item>
+        <item quantity="one">" Det går inte att använda det här kontot eftersom appen ^1 saknas. Kontakta domänadministratören för "&lt;b>^2&lt;/b>" eller logga in med ett annat konto. "</item>
+    </plurals>
+</resources>

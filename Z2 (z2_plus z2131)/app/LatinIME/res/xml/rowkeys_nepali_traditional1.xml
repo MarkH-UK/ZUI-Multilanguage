@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <switch>
+        <case latin:keyboardLayoutSetElement="alphabetManualShifted|alphabetShiftLocked|alphabetShiftLockShifted">
+            <Key latin:moreKeys="ञ,ज्ञ,॥" latin:keySpec="त्त" latin:keyLabelFlags="followKeyLetterRatio" />
+            <Key latin:moreKeys="ई" latin:keySpec="ड्ढ" latin:keyLabelFlags="followKeyLetterRatio" />
+            <Key latin:moreKeys="घ" latin:keySpec="ऐ" />
+            <Key latin:moreKeys="द्ध" latin:keySpec="द्व" latin:keyLabelFlags="followKeyLetterRatio" />
+            <Key latin:moreKeys="छ" latin:keySpec="ट्ट" latin:keyLabelFlags="followKeyLetterRatio" />
+            <Key latin:moreKeys="ट" latin:keySpec="ठ्ठ" latin:keyLabelFlags="followKeyLetterRatio" />
+            <Key latin:moreKeys="ठ" latin:keySpec="ऊ" />
+            <Key latin:moreKeys="ड" latin:keySpec="क्ष" latin:keyLabelFlags="followKeyLetterRatio" />
+            <Key latin:moreKeys="ढ" latin:keySpec="इ" />
+            <Key latin:moreKeys="ण" latin:keySpec="ए" />
+            <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_vocalic_r" />
+            <Key latin:keyStyle="baseKeyDevanagariVowelSignVocalicR" />
+        </case>
+        <default>
+            <Key latin:additionalMoreKeys="१,1" latin:keySpec="ट" latin:keyHintLabel="1" />
+            <Key latin:additionalMoreKeys="२,2" latin:keySpec="ध" latin:keyHintLabel="2" />
+            <Key latin:additionalMoreKeys="३,3" latin:keySpec="भ" latin:keyHintLabel="3" />
+            <Key latin:additionalMoreKeys="४,4" latin:keySpec="च" latin:keyHintLabel="4" />
+            <Key latin:additionalMoreKeys="५,5" latin:keySpec="त" latin:keyHintLabel="5" />
+            <Key latin:additionalMoreKeys="६,6" latin:keySpec="थ" latin:keyHintLabel="6" />
+            <Key latin:additionalMoreKeys="७,7" latin:keySpec="ग" latin:keyHintLabel="7" />
+            <Key latin:additionalMoreKeys="८,8" latin:keySpec="ष" latin:keyHintLabel="8" />
+            <Key latin:additionalMoreKeys="९,9" latin:keySpec="य" latin:keyHintLabel="9" />
+            <Key latin:additionalMoreKeys="०,0" latin:keySpec="उ" latin:keyHintLabel="0" />
+            <Key latin:moreKeys="औ" latin:keySpec="इ" />
+        </default>
+    </switch>
+</merge>

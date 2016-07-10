@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">%d सेकेन्डमा जडान गर्न पुन: सुरु गरँदै...</item>
+        <item quantity="one">स्थापना गर्नका लागि पुन:बुटिङ १ सेकेण्डमा गर्दै ...</item>
+    </plurals>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">यस खाता प्रयोग गर्न सकिदैन किनकि यस Android उपकरणमा निम्न अनुप्रयोग:^1 छैन।कृपया डोमेन प्रशासकलाई सम्पर्क गर्नुहोस्&lt;b>^2 &lt;/b> का लागि वा अर्को खाता प्रयोग गरी साइन इन गर्नुहोस्।</item>
+        <item quantity="one">यस खाता प्रयोग गर्न सकिदैन किनकि यस Android उपकरणसँग निम्न अनुप्रयोग:^1 छैन। सम्पर्क गर्नुहोस्&lt;b> ^2&lt;/b>का लागि वा अर्को खाता प्रयोग गरी साइन इन गर्नुहोस्।</item>
+    </plurals>
+</resources>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Villa í þjónustu Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Forrit krefst þess að þjónusta Google Play sé sett upp.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Forrit krefst þess að þjónusta Google Play sé uppfærð.</string>
+    <string name="common_android_wear_notification_needs_update_text">Forrit krefst uppfærslu á Android Wear forritinu.</string>
+    <string name="common_google_play_services_needs_enabling_title">Forrit krefst þess að þjónusta Google Play sé virk.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s bað um</string>
+    <string name="common_google_play_services_install_title">Sækja þjónustu Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Þetta forrit getur ekki keyrt án þjónustu Google Play, sem vantar í símann þinn.</string>
+    <string name="common_google_play_services_install_text_tablet">Þetta forrit getur ekki keyrt án þjónustu Google Play, sem vantar í spjaldtölvuna þína.</string>
+    <string name="common_google_play_services_install_button">Sækja þjónustu Google Play</string>
+    <string name="common_google_play_services_enable_title">Virkja þjónustu Google Play</string>
+    <string name="common_google_play_services_enable_text">Þetta forrit virkar ekki nema þú gerir þjónustu Google Play virka.</string>
+    <string name="common_google_play_services_enable_button">Virkja þjónustu Google Play</string>
+    <string name="common_google_play_services_update_title">Uppfæra þjónustu Google Play</string>
+    <string name="common_android_wear_update_title">Uppfærðu Android Wear</string>
+    <string name="common_google_play_services_update_text">Þetta forrit getur ekki keyrt nema þú uppfærir þjónustu Google Play.</string>
+    <string name="common_android_wear_update_text">Þetta forrit getur ekki keyrt nema þú uppfærir Android Wear forritið.</string>
+    <string name="common_google_play_services_network_error_title">Netvilla</string>
+    <string name="common_google_play_services_network_error_text">Gagnatengingar er krafist til að tengjast þjónustu Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Ógildur reikningur</string>
+    <string name="common_google_play_services_invalid_account_text">Tilgreindur reikningur er ekki til staðar í þessu tæki. Veldu annan reikning.</string>
+    <string name="common_google_play_services_unknown_issue">Óþekkt vandamál með þjónustu Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Þjónusta Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Þjónusta Google Play, sem sum forrit reiða sig á, er ekki studd í tækinu þínu. Hafðu samband við framleiðandann til að fá aðstoð.</string>
+    <string name="common_google_play_services_update_button">Uppfæra</string>
+    <string name="common_signin_button_text">Skrá inn</string>
+    <string name="common_signin_button_text_long">Skrá inn með Google</string>
+    <string name="common_open_on_phone">Opna í símanum</string>
+    <string name="setup_wizard_next_button_label">Áfram</string>
+    <string name="setup_wizard_back_button_label">Til baka</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Sleppa</string>
+    <string name="down_button_label">Meira</string>
+    <string name="cancel_button_label">Hætta við</string>
+    <string name="try_again_button_label">Reyna aftur</string>
+    <string name="close_button_label">Loka</string>
+    <string name="url_load_unsuccessful_message">Android tækið þitt er ekki tengt við neina gagnaþjónustu. Ef þú vilt skoða þessar upplýsingar núna skaltu fara á %s í vafra.</string>
+    <string name="sign_in_agreement">Með því að skrá þig inn samþykkirðu <annotation id="tos">þjónustuskilmála</annotation> og <annotation id="google_privacy">persónuverndarstefnu</annotation> Google ásamt <annotation id="play_tos">þjónustuskilmálum Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">Aukaleg persónuverndarstefna</string>
+    <string name="google_terms_of_service_title">Þjónustuskilmálar Google</string>
+    <string name="google_privacy_policy_title">Persónuverndarstefna Google</string>
+    <string name="google_plus_privacy_policy_title">Persónuverndarstefna Google plús</string>
+    <string name="google_play_tos_title">Þjónustuskilmálar Google Play</string>
+    <string name="chrome_tos_title">Þjónustuskilmálar Chrome</string>
+    <string name="chrome_privacy_title">Persónuverndaryfirlýsing Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android tækið er ekki tengt Wi-Fi neti. Til að skoða þessar upplýsingar núna skaltu opna %s í vafra.</string>
+    <string name="services_activity_title">Google þjónustur</string>
+    <string name="services_backup_heading">Afritun</string>
+    <string name="services_location_heading">Staðsetning</string>
+    <string name="services_security_heading">Öryggi</string>
+    <string name="services_personalization_heading">Sérsnið</string>
+    <string name="services_communication_heading">Samskipti</string>
+    <string name="security_verify_apps_summary">Leyfa Google að kanna öll uppsett forrit með tilliti til skaðlegrar virkni sem kann að hafa áhrif á öryggi tækisins eða gagnanna þinna.</string>
+    <string name="name_title">Nafnið þitt</string>
+    <string name="name_text">Nafnið þitt er notað til að sérsníða símann þinn og þjónustu Google.</string>
+    <string name="first_name">Fornafn</string>
+    <string name="last_name">Eftirnafn</string>
+    <string name="cant_be_blank">Reiturinn má ekki vera auður.</string>
+    <string name="sharedUserLabel">Google þjónustur</string>
+    <string name="app_label">Google reikningsstjórnun</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Skrá inn</string>
+    <string name="create_button_label">Fá reikning</string>
+    <string name="not_now_button_label">Ekki núna</string>
+    <string name="new_button_label">Nýr</string>
+    <string name="existing_button_label">Fyrirliggjandi</string>
+    <string name="done">Í lagi</string>
+    <string name="edit_text_help">Snertu hvaða textareit sem er til að byrja að skrifa</string>
+    <string name="add_a_google_account">Bæta við Google reikningi</string>
+    <string name="captcha_title">Þarf að slá inn CAPTCHA</string>
+    <string name="show_error_title">Villa</string>
+    <string name="server_error">Vandamál kom upp í samskiptum við þjóna Google.</string>
+    <string name="server_error_help">Reyndu aftur seinna.</string>
+    <string name="network_unreliable">Ekki tekst að koma á áreiðanlegri tengingu við þjóninn.</string>
+    <string name="network_unreliable_help">Þetta gæti verið tímabundið vandamál, en einnig getur verið að Android tækið þitt uppfylli ekki skilyrði fyrir gagnaþjónustu. Ef vandamálið er viðvarandi skaltu hafa samband við þjónustuver.</string>
+    <string name="network_unreliable_help_wifi_only">Þetta gæti verið tímabundið vandamál. Reyndu aftur eða tengstu öðru Wi-Fi neti.</string>
+    <string name="invalid_login_character">Ógildur stafur. Aðeins er leyfilegt að nota 0–9, a–z, A–Z og punkta.</string>
+    <string name="invalid_password_character">Ógildur stafur í aðgangsorði.</string>
+    <string name="calendar">Google dagatal</string>
+    <string name="talk">Google spjall</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Reiturinn má ekki vera auður.</string>
+    <string name="plus_query_title">Uppfæra í Google+</string>
+    <string name="plus_query_text">Google+ gerir deilingu efnis með öðrum gegnum netið enn líkari raunveruleikanum.</string>
+    <string name="circles_subtitle">Straumur með dóti sem þú fílar</string>
+    <string name="circles_text">Tengstu nánum vinum og ræktið sameiginleg áhugamál</string>
+    <string name="uploads_subtitle">Sjálfvirk afritun mynda</string>
+    <string name="uploads_text">Taktu öryggisafrit af myndum strax að töku lokinni með ókeypis einkageymslu.</string>
+    <string name="huddle_subtitle">Myndsímtöl og -skilaboð</string>
+    <string name="huddle_text">Með Hangouts færðu textaskilaboð, myndir og ókeypis hópsímtöl.</string>
+    <string name="plus_declined_button_label">Ekki núna</string>
+    <string name="plus_accepted_button_label">Hefjast handa</string>
+    <string name="plus_name_check_title">Hefur samband við Google+…</string>
+    <string name="plus_name_check_text">Þetta gæti tekið nokkrar mínútur.</string>
+    <string name="plus_faq_title">Velkomin(n) á Google+!</string>
+    <string name="plus_faq_text" formatted="false">"Á Google+ færð þú opinberan prófil til að vinir þínir geti auðveldlega fundið þig á netinu. Allir sem hafa netfangið þitt geta fundið og skoðað prófílinn þinn.
+
+Þú getur notað +1 hnappa alls staðar á netinu til að mæla með alls konar hlutum við vini og kunningja um heim allan. Prófíllinn þinn og +1 merkingarnar þínar birtast öllum við leit, í auglýsingum og alls staðar á netinu.
+
+Sem stendur birtist aðeins nafnið þitt á prófílnum (%s %s). Seinna, þegar þú byrjar að nota Google+, getur þú bætt við ljósmynd, æviágripi og öðrum persónuupplýsingum."</string>
+    <string name="dasher_warning">Stjórnandi %s á og hefur umsjón með öllum gögnunum þínum á Google+ og getur eytt eða breytt prófílnum þínum hvenær sem er án þinnar heimildar.</string>
+    <string name="profile_info_title">Prófíllinn þinn</string>
+    <string name="profile_text">Gefðu upp grunnupplýsingar fyrir prófílinn þinn. Þú getur bætt mynd og öðrum upplýsingum við síðar þegar þú byrjar að nota Google+.</string>
+    <string name="occupation">Starf</string>
+    <string name="current_city">Núverandi borg</string>
+    <string name="picassa_info_title">Picasa og Google+</string>
+    <string name="picassa_info_text" formatted="false">Myndir og myndskeið frá þér á Picasa vefalbúmum verða tiltæk á Google+ og ummælin þín birtast undir nafninu %s %s en ekki %s. Þegar þú deilir myndum á Google+ geta þeir sem fá þær sendar ekki deilt þeim áfram til annarra. Sýnileikastillingar albúmanna þinna breytast ekkert og þú getur hvenær sem er takmarkað aðgang að þeim þannig að ekki sé hægt að deila þeim áfram að vild.</string>
+    <string name="name_title_plus">Google+ nafnið þitt</string>
+    <string name="name_title_local">Eigandi þessa síma er…</string>
+    <string name="name_text_local">Síminn notar nafnið þitt til að sérsníða sum forrit.</string>
+    <string name="name_progress_title">Augnablik…</string>
+    <string name="bad_name_title">Viltu nota þetta nafn?</string>
+    <string name="invalid_name_title">Ekki er hægt að nota þetta nafn</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Ef þú vilt nota þetta sem Google+ nafnið þitt verður starfsfólk okkar að fá að yfirfara það. Ef nafnið brýtur í bága við nafnastefnu okkar verður hugsanlega lokað á prófílinn þinn, sem takmarkar getu þína til að nýta þér þá þjónustu Google sem krefst virks prófíls.
+
+"<annotation id="learn_more">Frekari upplýsingar</annotation></string>
+    <string name="invalid_name_text">Þú getur ekki notað þetta nafn á Google+ þar sem það inniheldur ógilda stafi.</string>
+    <string name="invalid_nickname_text">Þú getur ekki notað þetta nafn á Google+ þar sem það inniheldur ógilda stafi. Ertu að reyna að nota gælunafn, eldra notandanafn eða starfsheiti? Þú getur bætt þeim við prófílinn þinn að skráningu lokinni.</string>
+    <string name="invalid_other_text">Þú getur ekki notað þetta nafn á Google+.</string>
+    <string name="bad_name_agree_text">Ég skil þetta og vil nota þetta nafn.</string>
+    <string name="bad_name_decline_button_label">Uppfæra nafn</string>
+    <string name="bad_name_agree_button_label">Senda nafnið til yfirferðar</string>
+    <string name="bad_name_skip_button_label">Sleppa Google+</string>
+    <string name="photo_title">Myndin þín</string>
+    <string name="photo_text">Þessi mynd verður notuð í tengiliðaskránni þini. Þú getur breytt henni seinna í forritinu Fólk.</string>
+    <string name="photo_text_es">Taktu mynd sem vinir þínir á Google+ munu sjá. Þú getur valið nýja mynd síðar.</string>
+    <string name="photo_button_label">Taka mynd</string>
+    <string name="retake_photo_button_label">Taka aðra mynd</string>
+    <string name="photo_failure">Ekki tókst að opna myndavélina.</string>
+    <string name="crop_failure">Mistókst að skera myndina.</string>
+    <string name="photo_description">Myndin þín</string>
+    <string name="communicating_message">Síminn þinn er að hafa samband við Google til að vista upplýsingar á reikninginn þinn. Þetta gæti tekið allt að 5 mínútur.</string>
+    <string name="creating_account_title">Vistar reikninginn…</string>
+    <string name="checking_username_message">"Síminn þinn er að athuga hjá Google hvort notandanafnið sem þú baðst um er laust.
+
+Þetta gæti tekið nokkrar mínútur."</string>
+    <string name="plus_failure_title">Skrá þig á Google+ síðar</string>
+    <string name="plus_failure_new_account_text">Búið er að stofna Google reikninginn þinn en beiðni þín um að skrá þig á Google+ fór ekki í gegn. Reyndu aftur síðar í hvaða vafra sem er á plus.google.com.</string>
+    <string name="plus_failure_text">Beiðni þín um að skrá þig á Google+ fór ekki í gegn. Reyndu aftur síðar í hvaða vafra sem er á plus.google.com.</string>
+    <string name="provisioned_login_title">Sláðu inn aðgangsorð</string>
+    <string name="provisioned_welcome">Hæ, %s!</string>
+    <string name="provisioned_welcome_2">"Sláðu inn aðgangsorðið þitt fyrir:
+%s"</string>
+    <string name="provisioned_incorrect_login">Ertu ekki %s?</string>
+    <string name="login_title">Sláðu inn netfang og aðgangsorð</string>
+    <string name="login_task_title">Innskráning</string>
+    <string name="password">Aðgangsorð</string>
+    <string name="restore_wifi">Endurheimta og tengjast þekktum Wi-Fi netum.</string>
+    <string name="sign_in_agreement_multi_user">Með því að skrá þig inn samþykkirðu <annotation id="tos">þjónustuskilmála</annotation> og <annotation id="google_privacy">persónuverndarstefnu</annotation> Google ásamt <annotation id="play_tos">þjónustuskilmálum Google Play</annotation>". 
+
+Mundu: Hvaða annar notandi sem er getur samþykkt uppfærðar forritsheimildir fyrir þína hönd. Eins og gildir um tölvur ættirðu aðeins að deila tækinu með fólki sem þú treystir."</string>
+    <string name="sign_in_agreement_with_chrome">Með því að skrá þig inn samþykkirðu <annotation id="tos">þjónustuskilmála</annotation> og <annotation id="google_privacy">persónuverndarstefnu</annotation> Google, <annotation id="chrome_tos">þjónustuskilmála</annotation> Chrome og <annotation id="chrome_privacy">yfirlýsingu um persónuvernd</annotation> ásamt <annotation id="play_tos">þjónustuskilmálum</annotation> Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Með því að skrá þig inn samþykkirðu <annotation id="tos">þjónustuskilmála</annotation> og <annotation id="google_privacy">persónuverndarstefnu</annotation> Google, <annotation id="chrome_tos">þjónustuskilmála</annotation> Chrome og <annotation id="chrome_privacy">yfirlýsingu um persónuvernd</annotation> ásamt <annotation id="play_tos">þjónustuskilmálum</annotation>" Google Play.
+
+Mundu: Hvaða annar notandi sem er getur samþykkt uppfærðar forritsheimildir fyrir þína hönd. Eins og gildir um tölvur ættirðu aðeins að deila tækinu með fólki sem þú treystir."</string>
+    <string name="create_prompt">" Ertu ekki með Google reikning? "<annotation id="create_account">Stofnaðu reikning núna</annotation> .</string>
+    <string name="sign_in_with_google_account_short">Skráðu þig inn með Google reikningnum þínum:</string>
+    <string name="invalid_username">Textinn sem þú slóst inn er ekki gilt notandanafn.</string>
+    <string name="captcha_instructions">Sláðu inn textann sem þú sérð hér:</string>
+    <string name="create_google_account">Veldu notandanafn</string>
+    <string name="create_google_account_text">Google reikningnum þínum fylgir Gmail, tölvupóstur frá Google. Hann virkar í öllum tækjum, kemur í veg fyrir ruslpóst og margt fleira.</string>
+    <string name="account_already_has_gmail">Reikningurinn er þegar með Gmail.</string>
+    <string name="error_account_disabled">"Þessi reikningur hefur verið gerður óvirkur. 
+
+(Fáðu nánari upplýsingar með því að fara á https://google.com/accounts í vafra.)"</string>
+    <string name="no_network">Engin nettenging er til staðar.</string>
+    <string name="no_network_help">Þetta gæti verið tímabundið vandamál eða gagnaþjónusta hefur ekki verið gerð virk í Android tækinu þínu. Reyndu aftur þegar tenging við farsímakerfi er til staðar eða tengstu Wi-Fi neti.</string>
+    <string name="no_network_help_wifi_only">Þetta gæti verið tímabundið vandamál. Reyndu aftur eða tengstu öðru Wi-Fi neti.</string>
+    <string name="error_login_failed">"Notandanafnið og aðgangsorðið stemma ekki. Reyndu aftur.
+
+Til að endurheimta reikningsupplýsingarnar skaltu fara á google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Þessi reikningur hefur ekki verið staðfestur. Kíktu í pósthólfið þitt og fylgdu tenglinum sem þú fékkst sendan til að staðfesta reikninginn. 
+
+(Ef þú vilt endurheimta upplýsingar um reikninginn skaltu fara á http://www.google.com/accounts/recovery í tölvu.)"</string>
+    <string name="exit_menu_item">Loka innskráningu í vafra</string>
+    <string name="creating_profile">Prófíllinn þinn búinn til…</string>
+    <string name="checking_account">Kannar hvort nafnið er laust…</string>
+    <string name="is_not_available">Notandanafnið <b>^1</b> er ekki laust.</string>
+    <string name="suggestions_hint">Snertu til að fá tillögur</string>
+    <string name="suggest_username_next_button_label">Breyta notandanafni</string>
+    <string name="hint_size">" "<b>^1</b> inniheldur færri en 6 eða fleiri en 30 stafi.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> inniheldur enga bókstafi.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" má aðeins innihalda bókstafi,
+tölustafi og punkta."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> notar ekki Gmail.</string>
+    <string name="sign_in_browser">Innskráning í vafra</string>
+    <string name="alternatives_list_title">Tillögur að notandanöfnum</string>
+    <string name="password_title">Búa til aðgangsorð</string>
+    <string name="choose_a_password">Aðgangsorð</string>
+    <string name="confirm_password">Sláðu aðgangsorðið aftur inn</string>
+    <string name="too_short">Of stutt</string>
+    <string name="security_questions_title">Öryggisspurningar</string>
+    <string name="answer">" "<b>Svar</b></string>
+    <string name="password_mismatch">Aðgangsorðin stemma ekki. Reyndu aftur.</string>
+    <string name="eight_chars_min">8 stafir að lágmarki</string>
+    <string name="verify_your_profile">Staðfestu prófílinn þinn</string>
+    <string name="error_not_logged_in">Notandinn er ekki innskráður.</string>
+    <string name="error_username_unavailable">Þetta notandanafn er ekki laust.</string>
+    <string name="error_bad_password">Aðgangsorðið er ekki nógu sterkt eða inniheldur ógilda stafi. Reyndu aftur.</string>
+    <string name="error_bad_username">Ógilt notandanafn.</string>
+    <string name="existing_account_error_title">Reikningurinn er þegar til</string>
+    <string name="existing_account_error_text">^1 reikningur er þegar til staðar í þessu Android tæki.</string>
+    <string name="submission_title">Því miður…</string>
+    <string name="submission_error_text">Villa kom upp. Reyndu aftur.</string>
+    <string name="sync_intro_title">Samstilling reiknings</string>
+    <string name="account_tos_title">Ljúka við reikninginn</string>
+    <string name="account_tos_plus_title">Ljúka við skráningu á Google+</string>
+    <string name="i_accept">Ég samþykki</string>
+    <string name="i_decline">Ekki stofna reikning</string>
+    <string name="allow_personalized_content">Leyfa Google að nota upplýsingarnar þínar til að sérsníða efni og auglýsingar á vefsvæðum utan Google.</string>
+    <string name="enable_web_history">Kveikja á vefferli</string>
+    <string name="learn_more"><annotation id="learn_more">Frekari upplýsingar</annotation></string>
+    <string name="account_creation_tos">Með því að halda áfram samþykkir þú <annotation id="tos">þjónustuskilmála</annotation> og <annotation id="google_privacy">persónuverndarstefnu</annotation> Google ásamt <annotation id="play_tos">þjónustuskilmálum Google Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Með því að halda áfram samþykkir þú <annotation id="tos">þjónustuskilmála</annotation> og <annotation id="google_privacy">persónuverndarstefnu</annotation> Google, <annotation id="chrome_tos">þjónustuskilmála</annotation> Chrome og <annotation id="chrome_privacy">yfirlýsingu um persónuvernd</annotation> ásamt <annotation id="play_tos">þjónustuskilmálum</annotation> Google Play.</string>
+    <string name="gender_prompt">Kyn</string>
+    <string name="gender_hint">Kyn</string>
+    <string name="account_pre_intro_title">Notarðu Google?</string>
+    <string name="account_pre_intro_default_message">"Ertu með Google reikning?
+
+Ef þú notar Gmail eða Google Apps er svarið já."</string>
+    <string name="account_pre_intro_yes">Já</string>
+    <string name="account_pre_intro_no">Nei</string>
+    <string name="account_intro_title">Google reikningur</string>
+    <string name="account_intro_required_title">Keyrt af Google</string>
+    <string name="account_intro_recommended_title">Hafðu það Google</string>
+    <string name="account_intro_default_message">Nú glatar þú aldrei neinu aftur. Google reikningurinn passar upp á allt.</string>
+    <string name="account_intro_simple_message">Hvort viltu bæta fyrirliggjandi reikningi við eða stofna nýjan?</string>
+    <string name="account_intro_learn_more">Frekari upplýsingar</string>
+    <string name="learn_more_title">Upplýsingar</string>
+    <string name="learn_more_account_intro">"Google reikningur gerir þér kleift að:
+
+"<li><ul>Sjá og hafa umsjón með öllum upplýsingunum þínum hvaðan sem er, þ. á m. leitarferli.</ul></li>"
+
+"<li><ul>Afrita sjálfkrafa gögnin þín, s.s. tölvupóst, tengiliði, tónlist og myndir.</ul></li>"
+
+"<li><ul>Nota þjónustu Google á einfaldan hátt hvaða sem er – þ. á m. tengiliði, dagatal, kort og fleira.</ul></li></string>
+    <string name="learn_more_account_intro_title">Um Google reikninga</string>
+    <string name="learn_more_bad_name">Google+ krefst þess að þú notir þitt rétta nafn. Prófíllinn þinn á að vera fyrir einn einstakling – ekki fyrirtæki, samtök eða fjölskyldu – og ætti að innihalda fornafn þitt og eftirnafn, á sama tungumálinu, án starfs- eða embættisheita og án ónauðsynlegra greinarmerkja. Eftir innskráningu getur þú gefið upp gælunöfn eða önnur nöfn sem tengjast þér í reitnum fyrir önnur nöfn á prófílnum þínum.</string>
+    <string name="learn_more_bad_name_title">Um nafnastefnuna</string>
+    <string name="wait_for_device_country_title">Uppsetning reiknings</string>
+    <string name="wait_for_device_country_msg">Verið er að safna upplýsingum um símann þinn. Þetta gæti tekið allt að 30 sekúndur.</string>
+    <string name="recovery_title">Endurheimt Google aðgangsorða</string>
+    <string name="recovery_wait_title">Hefur samband við Google…</string>
+    <string name="cannot_talk_to_server_msg">Tækið náði ekki sambandi við Google.</string>
+    <string name="recovery_skip_label">Sleppa</string>
+    <string name="recovery_retry_label">Reyna aftur</string>
+    <string name="recovery_message_set">"Ef þú skyldir gleyma aðgangsorðinu er heppilegra að geta endurheimt það.
+
+Google býður upp á leiðir til að endurheimta aðgangsorðið með SMS-skilaboðum eða varanetfangi.
+
+Eindregið er mælt með að þetta skref sé tekið. "<annotation id="help_url">Frekari upplýsingar</annotation></string>
+    <string name="recovery_message_verify">"Auðvelt er að gleyma aðgangsorðum.
+
+Staðfestu símanúmerið þitt eða varanetfang núna. Þetta gerir þér kleift að endurheimta aðganginn að efninu þínu á Google og Google Play. "<annotation id="help_url">Frekari upplýsingar</annotation></string>
+    <string name="recovery_yes_button_label">Setja upp endurheimtarleiðir</string>
+    <string name="recovery_yes_button_label_verify">Staðfesta endurheimtarleiðir</string>
+    <string name="recovery_later_button_label">Ekki núna</string>
+    <string name="recovery_input_screen_message">Þessar endurheimtarupplýsingar gilda um %s.</string>
+    <string name="secondary_email_hint">Varanetfang</string>
+    <string name="secondary_email_invalid">Ógilt netfang</string>
+    <string name="secondary_email_same_as_primary">Getur ekki verið það sama og aðalnetfang</string>
+    <string name="phone_number_hint">Símanúmer</string>
+    <string name="phone_number_invalid_character">Ógildir stafir í símanúmeri</string>
+    <string name="phone_number_invalid">Ógilt símanúmer</string>
+    <string name="country_invalid">Þetta land er ekki leyft</string>
+    <string name="recovery_server_error">Villa í samskiptum við þjón. Reyndu aftur að einhverjum tíma liðnum.</string>
+    <string name="account_recovery_info">Ef þú gleymir aðgangsorðinu geturðu svarað öryggisspurningu og fengið endurstillingartengil sendan í tölvupósti á annað netfang.</string>
+    <string name="secondary_email_label">Endurheimtarnetfang</string>
+    <string name="invalid_email">"Netfangið sem þú gafst upp er ekki gilt.
+ Dæmi: joe@example.com"</string>
+    <string name="invalid_email_primary">Endurheimtarnetfangið þitt má ekki vera það sama og netfangið sem þú ert að stofna.</string>
+    <string name="backup_consent_message">"Notaðu Google reikninginn þinn til að taka öryggisafrit af forritunum þínum, stillingum (svo sem bókamerkjum og Wi-Fi aðgangsorðum) og öðrum gögnum. Ef þú hefur áður tekið öryggisafrit af reikningnum þínum getur þú endurheimt það í þennan síma núna.
+
+Þú getur hvenær sem er breytt stillingum öryggisafritunar í stillingunum."</string>
+    <string name="backup_consent_message_no_restore">"Notaðu Google reikninginn þinn til að taka öryggisafrit af forritunum þínum, stillingum (svo sem bókamerkjum og Wi-Fi aðgangsorðum) og öðrum gögnum.
+
+Þú getur hvenær sem er breytt stillingum öryggisafritunar í stillingunum."</string>
+    <string name="restoring_title">Endurheimtir…</string>
+    <string name="restoring_message">Síminn er að hafa samband við Google til að endurheimta reikninginn þinn. Þetta gæti tekið smá stund.</string>
+    <string name="gls_notification_login_error">Snertu til að skrá þig inn á reikninginn þinn.</string>
+    <string name="gls_ui_add_account_title">Uppsetning reiknings</string>
+    <string name="gls_ui_activity_title">Innskráning</string>
+    <string name="gls_ui_activity_title_browser_signin">Innskráning</string>
+    <string name="gls_ui_activity_title_checking_in">Undirbýr…</string>
+    <string name="gls_ui_activity_authenticating">Auðkennir…</string>
+    <string name="gls_dmagent_activity_activate_message">" Lénið þitt krefst fartækjastjórnunar. Gerðu forritið „Google Apps Device Policy“ virkt til að framfylgja þeim öryggisstefnum sem reikningurinn  "<b>^1</b> krefst.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Virkja</string>
+    <string name="gls_dmagent_activity_download_message">" Lénið þitt krefst fartækjastjórnunar. Settu upp forritið „Google Apps Device Policy“ til að framfylgja þeim öryggisstefnum sem reikningurinn  "<b>^1</b> krefst.</string>
+    <string name="gls_dmagent_activity_download_retry_button">Sækja</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Þú gafst upp rangt aðgangsorð, eða reikningurinn hefur breyst. Sláðu aftur inn aðgangsorðið þitt.</string>
+    <string name="permlab_googleAuthPassword">aðgangur að aðgangsorðum fyrir Google reikninga</string>
+    <string name="permdesc_googleAuthPassword">Leyfir forritum að fá beinan aðgang að aðgangsorðum Google reikningsins/reikninganna sem þú hefur sett upp.</string>
+    <string name="permlab_googleMailSwitch">velja Gmail eða Google Mail sem vörumerki</string>
+    <string name="permdesc_googleMailSwitch">Leyfir forritum að nota til skiptist vöruheitin „Gmail“ og „Google Mail“.</string>
+    <string name="sync_item_title">Samstilla %s</string>
+    <string name="grant_credentials_permission_message_footer">Forritin biðja um heimild til að:</string>
+    <string name="grant_credentials_permission_message_app">Þessi forrit vilja hafa aðgang að Google reikningnum þínum héðan í frá:</string>
+    <string name="grant_permissions_header_text">Beiðni um heimild</string>
+    <string name="allow">Leyfa aðgang</string>
+    <string name="deny">Nei, takk</string>
+    <string name="permission_request_notification_with_subtitle">"Beðið um leyfi
+fyrir reikninginn %s"</string>
+    <string name="notification_title">Innskráningarvilla fyrir %1$s</string>
+    <string name="account_setup_title">Google reikningur</string>
+    <string name="login_activity_title">Innskráning</string>
+    <string name="relogin_activity_title">Sláðu aftur inn aðgangsorðið</string>
+    <string name="show_error_activity_title">Innskráning mistókst</string>
+    <string name="login_activity_task_title">Skráir inn…</string>
+    <string name="login_activity_task_msg">Þetta getur tekið nokkrar mínútur.</string>
+    <string name="prepare_account_setup_task_title">Undirbýr uppsetningu reiknings…</string>
+    <string name="prepare_account_setup_task_msg">Þetta getur tekið nokkrar mínútur.</string>
+    <string name="sync_intro_activity_title">Samstilltu reikninginn</string>
+    <string name="username">Netfang</string>
+    <string name="error_invalid_second_factor">Notaðu sérstakt aðgangsorð fyrir forritið en ekki aðgangsorð reikningsins þíns.</string>
+    <string name="error_needs_browser">Þú þarft að skrá þig inn á vefnum til að fá aðgang að reikningnum þínum. Snertu „Áfram“ til að skrá þig inn úr vafra.</string>
+    <string name="google_play_opt_in">Láta mig vita af nýjustu fréttum og tilboðum á Google Play.</string>
+    <string name="google_settings_header_title">Persónuvernd</string>
+    <string name="maps_settings_title">Kort og Latitude</string>
+    <string name="location_settings_title">Staðsetning</string>
+    <string name="search_settings_title">Leit</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Auglýsingar</string>
+    <string name="location_network_based">Staðsetningarþjónusta Google</string>
+    <string name="location_neighborhood_level">Leyfa að nafnlaus staðsetningargögn séu send Google. Leyfa einnig heimiluðum forritum að nota gögn frá t.d. Wi-Fi og farsímakerfum til að ákvarða staðsetningu þína gróflega.</string>
+    <string name="use_location_title">Staðsetning og Google leit</string>
+    <string name="use_location_summary">Leyfa Google að nota staðsetninguna þína til að bæta leitarniðurstöður og aðra þjónustu</string>
+    <string name="backup_consent_yes_agree">Nota Google reikninginn þinn til að taka afrit af forritunum þínum, stillingum (s.s. bókamerkjum og Wi-Fi aðgangsorðum) og öðrum gögnum.</string>
+    <string name="restore_consent_yes_agree">Færa forrit, stillingar og önnur gögn, sem þú hefur áður afritað á Google reikninginn þinn, yfir í þennan síma.</string>
+    <string name="audit_logging_summary">Senda Google sjálfkrafa upplýsingar um atvik í tækinu og greiningarupplýsingar til að hjálpa okkur að bæta þjónustu okkar og verja tækið þitt.</string>
+    <string name="no_back_msg">Ekki er hægt að fara aftur í fyrra skref.</string>
+    <string name="setup_wizard_title">Uppsetningarhjálp</string>
+    <string name="setup_wizard_services_activity_title">Google þjónusta</string>
+    <string name="setup_wizard_services_description">Þessi þjónusta lætur Google þjóna þér og þú getur kveikt eða slökkt á henni hvenær sem er. Gögn verða notuð í samræmi við <annotation id="google_privacy">persónuverndarstefnu</annotation> Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Afritun og endurheimt</string>
+    <string name="setup_wizard_services_location_heading">Staðsetning</string>
+    <string name="setup_wizard_services_communication_heading">Samskipti</string>
+    <string name="setup_wizard_services_backup"><b>Taka afrit af forritum símans, forritagögnum, stillingum, persónulegum orðabókum og Wi-Fi aðgangsorðum</b> og vista á Google reikningnum þínum svo auðvelt sé að endurheimta gögnin síðar. <annotation id="backup_details">Frekari upplýsingar</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Taka afrit af forritunum þínum, forritagögnum, stillingum, persónulegum orðabókum og Wi-Fi aðgangsorðum</b> og vista á Google reikningnum þínum svo auðvelt sé að endurheimta gögnin síðar.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Gögnin fela í sér forrit, stillingar forrita, kerfisstillingar og Wi-Fi aðgangsorð.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Þegar þú kveikir á sjálfvirkri afritun eru gögn tækisins reglulega vistuð á Google reikningnum þínum. Afrit kunna að fela í sér upplýsingar í gagnamöppum forritanna þinna, s.s. stillingar, skilaboð, myndir og aðrar skrár.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Nota staðsetningarþjónustu Google</b> til að aðstoða forrit við að ákvarða staðsetningu. Þetta felur í sér sendingu nafnlausra gagna til Google, jafnvel þegar engin forrit eru í gangi. <annotation id="location_details">Frekari upplýsingar</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Staðsetningarþjónusta Google notast við staðsetningarbúnað á borð við Wi-Fi og farsímasenda til að aðstoða við að áætla staðsetningu tækisins á hraðvirkari og nákvæmari hátt. Þegar þú kveikir á staðsetningarþjónustu Google fer tækið í stillingu sem notar Wi-Fi og farsímakerfi til að veita upplýsingar um staðsetningu. Þú getur slökkt á þessu í staðsetningarstillingum með því að velja stillingu sem notast eingöngu við GPS, einnig kallaða „Aðeins tæki“.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Hjálpa til við að bæta staðsetningarþjónustuna</b> með því að leyfa forritum og þjónustu að leita að Wi-Fi netum, jafnvel þótt slökkt sé á Wi‑Fi.</string>
+    <string name="setup_wizard_services_location_footnote">Staðsetningarþjónusta Google notar Wi-Fi og aðrar upplýsingar til að ákvarða staðsetningu á nákvæmari og hraðvirkari hátt, gjarnan með minni orkunotkun en GPS krefst. Einhver gögn kunna að verða geymd í tækinu. Gögnum er hugsanlega safnað jafnvel þegar engin forrit eru opin.</string>
+    <string name="setup_wizard_services_play"><b>Senda mér</b> nýjustu fréttir og tilboð af Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Hjálpa til við að bæta upplifun þína af Android</b> með því að senda greiningar- og notkunargögn sjálfkrafa til Google. Þessar upplýsingar verða ekki notaðar til að bera kennsl á þig en hjálpa starfsfólki okkar við að betrumbæta hluti á borð við rafhlöðuendingu og afköst forrita ásamt því að bæta nýjum Google eiginleikum við. <annotation id="usage_reporting_details">Frekari upplýsingar</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Þetta eru almennar upplýsingar um tækið þitt og notkun þína á því, t.a.m. stöðu rafhlöðu, hversu oft þú notar forritin þín, gæði og endingu nettenginga (s.s. farsímakerfi, Wi-Fi og Bluetooth) og tilkynningar um hrun þegar hlutirnir virka ekki sem skyldi. Upplýsingarnar verða notaðar til að bæta vörur og þjónustu Google, öllum til hagsbóta, og verða ekki tengdar Google reikningnum þínum. Sumar uppsafnaðar upplýsingar hjálpa einnig samstarfsaðilum okkar, t.d. Android þróunaraðilum, að gera forrit sín og vörur betri.
+
+Þú getur kveikt eða slökkt á þessu hvenær sem er í forritinu Google stillingar. Þetta hefur ekki áhrif á getu tækisins til að senda upplýsingar sem krafist er til að fá nauðsynlega þjónustu á borð við kerfisuppfærslur og öryggiseiginleika."</string>
+    <string name="setup_wizard_services_agreement">Þessi sími getur einnig móttekið og sett upp uppfærslur og forrit frá Google, símafyrirtækinu þínu og framleiðanda símans. Einhver forrit kunna að verða sótt og sett upp ef þú heldur áfram en þú getur fjarlægt þau hvenær sem er.</string>
+</resources>

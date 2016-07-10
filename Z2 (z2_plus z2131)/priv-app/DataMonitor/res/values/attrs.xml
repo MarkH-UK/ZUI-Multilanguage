@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="layout" format="reference" />
+    <attr name="titleAppearance" format="reference" />
+    <attr name="titleSize" format="reference|dimension" />
+    <attr name="titleColor" format="reference|color" />
+    <attr name="titleText" format="reference|string" localization="suggested" />
+    <attr name="subAppearance" format="reference" />
+    <attr name="subSize" format="reference|dimension" />
+    <attr name="subColor" format="reference|color" />
+    <attr name="subText" format="reference|string" localization="suggested" />
+    <attr name="leftAppearance" format="reference" />
+    <attr name="leftSize" format="reference|dimension" />
+    <attr name="leftColor" format="reference|color" />
+    <attr name="leftText" format="reference|string" localization="suggested" />
+    <attr name="leftBackground" format="reference" />
+    <attr name="rightAppearance" format="reference" />
+    <attr name="rightSize" format="reference|dimension" />
+    <attr name="rightColor" format="reference|color" />
+    <attr name="rightText" format="reference|string" localization="suggested" />
+    <attr name="rightBackground" format="reference" />
+    <attr name="netprogressImg" format="reference|color" />
+    <attr name="netshadeImg" format="reference|color" />
+    <attr name="above_wave_color" format="color" />
+    <attr name="blow_wave_color" format="color" />
+    <attr name="progress" format="float" />
+    <attr name="circle_bg" format="integer" />
+    <attr name="waveViewStyle" format="reference" />
+</resources>

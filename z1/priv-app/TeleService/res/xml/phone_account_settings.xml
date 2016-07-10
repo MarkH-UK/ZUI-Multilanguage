@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/phone_accounts"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <PreferenceCategory android:title="@string/phone_accounts_settings_header" android:key="phone_accounts_accounts_list_category_key">
+        <com.android.phone.settings.AccountSelectionPreference android:persistent="false" android:title="@string/phone_accounts_make_calls_with" android:key="default_outgoing_account" android:order="1" android:defaultValue="" />
+        <PreferenceScreen android:persistent="false" android:title="@string/phone_accounts_all_calling_accounts" android:summary="@string/phone_accounts_all_calling_accounts_summary" android:order="1000">
+            <intent android:targetPackage="com.android.server.telecom" android:action="android.intent.action.MAIN" android:targetClass="com.android.server.telecom.settings.EnableAccountPreferenceActivity" />
+        </PreferenceScreen>
+        <PreferenceScreen android:persistent="false" android:title="@string/xdivert_title" android:key="button_xdivert" android:summary="@string/xdivert_summary" android:order="1500">
+            <intent android:targetPackage="com.qti.xdivert" android:action="android.intent.action.MAIN" android:targetClass="com.qti.xdivert.XDivertSetting" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory android:persistent="false" android:title="@string/sip_settings" android:key="phone_accounts_sip_settings_category_key">
+        <PreferenceScreen android:persistent="false" android:title="@string/sip_accounts">
+            <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.services.telephony.sip.SipSettings" />
+        </PreferenceScreen>
+        <ListPreference android:persistent="true" android:entries="@array/sip_call_options_entries" android:title="@string/sip_call_options_title" android:key="use_sip_calling_options_key" android:entryValues="@array/sip_call_options_values" />
+        <CheckBoxPreference android:persistent="true" android:title="@string/sip_receive_calls" android:key="sip_receive_calls_key" android:summary="@string/sip_receive_calls_summary" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/preferred_duration_title" android:key="duration_enable_key" android:summaryOn="@string/duration_enable_summary" android:summaryOff="@string/duration_disable_summary" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/vibrate_after_connected_title" android:key="button_vibrate_after_connected" android:summary="@string/vibrate_after_connected_summary" android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

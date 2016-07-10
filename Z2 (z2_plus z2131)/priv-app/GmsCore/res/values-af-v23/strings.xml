@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"Hierdie is algemene inligting oor hierdie toestel en hoe dit gebruik word, onder meer batteryvlak, hoe dikwels programme gebruik word, die gehalte en duur van netwerkverbindings (soos sel, Wi‑Fi en Bluetooth) en omvalverslae wanneer dinge nie werk soos dit moet nie. Dit sal gebruik word om Google se produkte en dienste vir almal te verbeter en sal nie met jou kind se Google-rekening geassosieer word nie. Sekere globale inligting sal vennote soos Android-ontwikkelaars help om ook hul programme en produkte te verbeter.
+
+Jy kan dit enige tyd in Instellings > Google aan- of afskakel. Dit beïnvloed nie hierdie toestel se vermoë om die inligting te stuur wat dit nodig het om belangrike dienste soos stelselopdaterings en sekuriteit te ontvang nie."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Rugsteun toesteldata</b> (soos Wi-Fi-wagwoorde en oproepgeskiedenis) en programdata (soos instellings en lêers wat deur programme geberg word) outomaties in Google Drive. <annotation id="backup_details">Kom meer te wete</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"As jy outomatiese rugsteun aanskakel, word toestel- en programdata van tyd tot tyd in 'n private vouer in Google Drive gestoor. Programdata kan enige data wees wat 'n program gestoor het (op grond van ontwikkelaarinstellings), insluitend potensieel sensitiewe data, soos kontakte, boodskappe en foto's.
+
+Rugsteundata sal nie deel vorm van jou Drive-bergingkwota nie. Groot lêers en lêers wat ontwikkelaars gekies het om van hierdie diens uit te sluit, sal nie gerugsteun word nie."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Verbeter liggingakkuraatheid</b> deur programme en dienste toe te laat om vir Wi‑Fi-netwerke en Bluetooth-toestelle te soek selfs as Wi‑Fi en Bluetooth af is.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"Hierdie is algemene inligting oor jou toestel en hoe om dit te gebruik, soos batteryvlak, hoe dikwels jy jou programme gebruik, die gehalte en duur van jou netwerkverbindings (soos sel, Wi‑Fi en Bluetooth) en omvalverslae wanneer dinge nie werk soos dit moet nie. Dit sal gebruik word om Google se produkte en dienste vir almal te verbeter en sal nie met jou Google-rekening geassosieer word nie. Sekere globale inligting sal vennote soos Android-ontwikkelaars help om ook hul programme en produkte te verbeter.
+
+Jy kan dit enige tyd in Instellings > Google aan- of afskakel. Dit beïnvloed nie jou toestel se vermoë om die inligting te stuur wat dit nodig het om belangrike dienste soos stelselopdaterings en sekuriteit te ontvang nie."</string>
+</resources>

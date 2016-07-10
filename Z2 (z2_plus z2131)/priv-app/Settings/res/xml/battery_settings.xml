@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/power_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:layout="@layout/preference_battery_status" android:key="battery_status" />
+    <PreferenceCategory />
+    <SwitchPreference android:title="@string/show_battery_percent_in_status_bar" android:key="show_battery_percent" />
+    <PreferenceCategory android:state_expanded="true" android:summary="@string/battery_status_bar" />
+    <PreferenceCategory android:title="@string/battery_usage_status_section" />
+    <Preference android:title="@string/software_battery_usage_title" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.fuelgauge.SoftWareUsageDetail" />
+    <Preference android:title="@string/hardware_battery_usage_title" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.fuelgauge.HardWareUsageDetail" />
+    <PreferenceCategory android:title="@string/ultra_long_duration_section" />
+    <SwitchPreference android:title="@string/toggle_long_duration_manually_title" android:key="start_long_duration_manually" />
+    <SwitchPreference android:title="@string/start_long_duration_in_low_title" android:key="start_in_low" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/set_low_battery_level_title" android:key="low_battery_level" android:widgetLayout="@layout/preference_widget_forward" android:dependency="start_in_low" android:fragment="com.android.settings.fuelgauge.LowPowerLevelPrefs" />
+    <PreferenceCategory android:state_expanded="true" android:summary="@string/toggle_long_duration_manually_summary" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/battery_optimization_title" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.fuelgauge.BatteryOptimization" />
+    <PreferenceCategory android:summary="@string/battery_optimization_description" />
+    <SwitchPreference android:title="@string/overheat_notify_enable" android:key="overheat_notify" />
+    <PreferenceCategory android:state_expanded="true" android:summary="@string/overheat_notify_summary" />
+</PreferenceScreen>

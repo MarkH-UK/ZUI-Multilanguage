@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>ei aihetta</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunti</item>
+        <item>2 sekuntia</item>
+        <item>3 sekuntia</item>
+        <item>4 sekuntia</item>
+        <item>5 sekuntia</item>
+        <item>6 sekuntia</item>
+        <item>7 sekuntia</item>
+        <item>8 sekuntia</item>
+        <item>9 sekuntia</item>
+        <item>10 sekuntia</item>
+        <item>Muu</item>
+    </string-array>
+</resources>

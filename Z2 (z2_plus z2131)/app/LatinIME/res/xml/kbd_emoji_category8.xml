@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard latin:rowHeight="@fraction/config_emoji_keyboard_row_height" latin:keyWidth="@fraction/config_emoji_keyboard_key_width" latin:keyLetterSize="90.0%p"
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <GridRows latin:codesArray="@array/emoji_eight_smiley_people" latin:backgroundType="empty" latin:keyLabelFlags="fontNormal" />
+</Keyboard>

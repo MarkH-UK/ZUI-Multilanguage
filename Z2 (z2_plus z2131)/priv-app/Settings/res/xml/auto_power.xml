@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="@string/auto_poweron_item" android:key="auto_poweron_item" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/boot_time" android:key="power_time" android:summary="@string/auto_poweroff_item" />
+    <PreferenceCategory />
+    <SwitchPreference android:title="@string/auto_poweroff_item" android:key="auto_poweroff_item" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/off_time" android:key="off_time" android:summary="@string/about_settings" />
+</PreferenceScreen>

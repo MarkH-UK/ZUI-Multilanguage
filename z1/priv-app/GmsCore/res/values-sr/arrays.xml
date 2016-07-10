@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Бар</item>
+        <item>Кафић</item>
+        <item>Бензинска пумпа</item>
+        <item>Биоскоп</item>
+        <item>Смештај</item>
+        <item>Ноћни клуб</item>
+        <item>Музеј</item>
+        <item>Ресторан</item>
+        <item>Трговачки центар</item>
+        <item>Продавница</item>
+        <item>Продавница или супермаркет</item>
+        <item>Друго</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>слаба</item>
+        <item>задовољавајућа</item>
+        <item>добра</item>
+        <item>јака</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Објављена верзија</item>
+        <item>Програмерска верзија</item>
+        <item>Малопродаја</item>
+        <item>Демо верзија</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Телефон и аутомобил користе некомпатибилне верзије софтвера. Детаље потражите на &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Аутомобил је пријавио погрешан скуп аудио и/или видео конфигурација.</item>
+        <item>"USB веза не функционише исправно. Испробајте следеће: 
+
+• Проверите да ли је кабл правилно прикључен на оба краја. 
+• Проверите да ли користите USB кабл за пренос података. 
+• Проверите да ли су датум и време исправно подешени у аутомобилу и на телефону."</item>
+        <item>Android Auto више није покренут на аутомобилу.</item>
+        <item>Сесија услуге Android Auto је заустављена у складу са захтевом.</item>
+        <item>Софтвер у аутомобилу је можда застарео. Контактирајте произвођача да бисте сазнали детаље и добили подршку.</item>
+        <item>Софтвер у аутомобилу није прошао безбедносне провере за Android Auto. Контактирајте произвођача да бисте сазнали детаље и добили подршку.</item>
+        <item>Софтвер у аутомобилу није прошао безбедносне провере за Android Auto. Проверите да ли су датум и време у аутомобилу исправно подешени и да ли је Android Auto ажуриран.</item>
+        <item>Радња је истекла. Требало би да преузмете извештај о грешци и пошаљете повратне информације.</item>
+        <item>Изгледа да нисте инсталирали покретач. Да ли је телефон правилно подешен?</item>
+        <item>Компонента за ажурирање графике је управо отказала. Требало би да преузмете извештај о грешци и пошаљете повратне информације.</item>
+        <item>Аутомобил не одговара на поруке са телефона. Аутомобил је можда у погрешном стању.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Аеродром</item>
+        <item>Банкомат</item>
+        <item>Банка</item>
+        <item>Бар</item>
+        <item>Аутобуска станица</item>
+        <item>Кафић</item>
+        <item>Камп</item>
+        <item>Гробље</item>
+        <item>Црква</item>
+        <item>Градска скупштина</item>
+        <item>Установа</item>
+        <item>Бензинска пумпа</item>
+        <item>Продавница или супермаркет</item>
+        <item>Хиндуистички храм</item>
+        <item>Болница</item>
+        <item>Библиотека</item>
+        <item>Смештајни објекат</item>
+        <item>Џамија</item>
+        <item>Биоскоп</item>
+        <item>Музеј</item>
+        <item>Парк</item>
+        <item>Паркинг</item>
+        <item>Верски објекат</item>
+        <item>Полицијска станица</item>
+        <item>Пошта</item>
+        <item>Ресторан</item>
+        <item>Школа</item>
+        <item>Продавница</item>
+        <item>Станица подземне железнице</item>
+        <item>Синагога</item>
+        <item>Железничка станица</item>
+        <item>Станица јавног превоза</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>јануар</item>
+        <item>фебруар</item>
+        <item>март</item>
+        <item>април</item>
+        <item>мај</item>
+        <item>јун</item>
+        <item>јул</item>
+        <item>август</item>
+        <item>септембар</item>
+        <item>октобар</item>
+        <item>новембар</item>
+        <item>децембар</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Заустави дељење</item>
+        <item>15 минута</item>
+        <item>30 минута</item>
+        <item>1 сат</item>
+        <item>До даљњег</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Заустави дељење</item>
+        <item>15 минута</item>
+        <item>30 минута</item>
+        <item>1 сат</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Изаберите безбедносно питање</item>
+        <item>Први број телефона?</item>
+        <item>Име најбољег друга из детињства?</item>
+        <item>Име прве учитељице?</item>
+        <item>Име шефа на првом послу?</item>
+        <item>Регистарски број возила?</item>
+    </string-array>
+</resources>

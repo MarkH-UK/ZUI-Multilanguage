@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d ta belgi limitdan oshib ketdi</item>
+        <item quantity="one">%1$d ta belgi limitdan oshib ketdi</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d ta belgi qoldi</item>
+        <item quantity="one">%1$d ta belgi qoldi</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d ta Google hisobi</item>
+        <item quantity="one">%d ta Google hisobi</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Google hisoblaringiz va ulardagi ma’lumotlar bu qurilmadan “^1” qurilmasiga nusxalangan</item>
+        <item quantity="one">Google hisobingiz va undagi ma’lumotlar bu qurilmadan “^1” qurilmasiga nusxalangan</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">1 soat</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">1 daqiqa</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Xatolik tufayli ushbu takliflarni yuborib bo‘lmadi</item>
+        <item quantity="one">Xatolik tufayli bu taklifni yuborib bo‘lmadi</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Ushbu takliflarni hozirda yuborib bo‘lmaydi. Ularni Google Play > Mening hisobim sahifasidan qayta yuborishingiz mumkin.</item>
+        <item quantity="one">Ushbu taklifni hozirda yuborib bo‘lmaydi. Uni Google Play > Mening hisobim sahifasidan qayta yuborishingiz mumkin.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d ta taklif qoldi</item>
+        <item quantity="one">%d ta taklif qoldi</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d ta yangi xabar</item>
+        <item quantity="one">1 ta yangi xabar</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">Sizdan oldinda %1$d kishi bor</item>
+        <item quantity="one">Sizdan oldinda 1 kishi bor</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s va yana %2$d ta ilova uchun</item>
+        <item quantity="one">%1$s va yana %2$d ta ilova uchun</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d ta kuzatuvchi</item>
+        <item quantity="one">Bitta kuzatuvchi</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d marta ko‘rilgan</item>
+        <item quantity="one">Bir marta ko‘rilgan</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Google hisoblaringiz va ma’lumotlar nusxalanmoqda…</item>
+        <item quantity="one">Google hisobingiz va ma’lumotlar nusxalanmoqda…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Bu qurilma Google hisoblari va ulardagi ma’lumotlarni ^1 qurilmasiga nusxalashda ishlatilgan.</item>
+        <item quantity="one">Bu qurilma Google hisobi va undagi ma’lumotlarni ^1 qurilmasiga nusxalashda ishlatilgan.</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">O‘rnatish uchun %d soniyadan so‘ng o‘chib yonadi…</item>
+        <item quantity="one">O‘rnatish uchun 1 soniyadan so‘ng o‘chib yonadi…</item>
+    </plurals>
+</resources>

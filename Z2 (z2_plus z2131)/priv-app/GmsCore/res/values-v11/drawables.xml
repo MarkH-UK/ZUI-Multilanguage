@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="wallet_button_background_no_padding">false</item>
+    <item type="drawable" name="wallet_button_background_no_padding_light">false</item>
+</resources>

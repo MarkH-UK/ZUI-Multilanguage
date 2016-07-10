@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="compass_item_height_big">30.0px</dimen>
+    <dimen name="compass_item_height_small">30.0px</dimen>
+    <dimen name="compass_item_width_big">1.0px</dimen>
+    <dimen name="compass_item_width_small">0.5px</dimen>
+    <dimen name="compass_text_gap_big">55.0px</dimen>
+    <dimen name="compass_text_gap_small">150.0px</dimen>
+    <dimen name="compass_text_size_big">50.0px</dimen>
+    <dimen name="compass_text_size_small">30.0px</dimen>
+    <dimen name="compass_text_offset">20.0px</dimen>
+    <dimen name="click_location_size">18.0sp</dimen>
+    <dimen name="orienname_size">30.0sp</dimen>
+    <dimen name="orienvalue_size">18.0sp</dimen>
+</resources>

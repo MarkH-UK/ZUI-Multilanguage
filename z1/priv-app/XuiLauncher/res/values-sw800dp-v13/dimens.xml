@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="theme_local_grid_column_width">400.0dip</dimen>
+    <dimen name="wallpaper_local_grid_column_width">400.0dip</dimen>
+    <dimen name="theme_local_grid_item_width">225.0dip</dimen>
+    <dimen name="theme_local_grid_item_height">375.0dip</dimen>
+    <dimen name="theme_details_rootview_width">375.0dip</dimen>
+    <dimen name="theme_details_rootview_height">630.0dip</dimen>
+    <dimen name="wallpaper_local_grid_item_width">300.0dip</dimen>
+    <dimen name="wallpaper_local_grid_item_height">240.0dip</dimen>
+</resources>

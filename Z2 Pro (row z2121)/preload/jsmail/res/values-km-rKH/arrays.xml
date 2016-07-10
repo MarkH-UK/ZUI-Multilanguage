@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ឆ្លើយ​តប</item>
+        <item>ឆ្លើយ​តប​ទៅ​ទាំង​អស់</item>
+        <item>បញ្ជូន​បន្ត</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>មួយបណ្តាញ</item>
+        <item>ពីរបណ្តាញ</item>
+        <item>បីបណ្តាញ</item>
+        <item>បួនបណ្តាញ</item>
+        <item>ប្រាំបណ្តាញ</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>តូច​ឆ្មារ</item>
+        <item>តូច</item>
+        <item>ធម្មតា</item>
+        <item>ធំ</item>
+        <item>ធំ​ខ្លាំង</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>ថ្មីៗ</item>
+        <item>ទម្រង់</item>
+        <item>ឈ្មោះ</item>
+        <item>ពី</item>
+        <item>កាល​បរិច្ឆេទ</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>ប្រព័ន្ធ</item>
+        <item>សាររហ័ស</item>
+        <item>សឺមី​ទាំង​អស់</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>សន្ទនាបន្ទាប់</item>
+        <item>សន្ទនាពីមុន</item>
+        <item>បញ្ជី​សន្ទនា</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>បង្ហាញតែធាតុដែលបានដាក់ក្នុងប័ណ្ណសារប៉ុណ្ណោះ</item>
+        <item>បង្ហាញតែធាតុដែលបានលុបប៉ុណ្ណោះ</item>
+        <item>បង្ហាញទាំងធាតុដែលបានដាក់ក្នុងប័ណ្ណសារ និងបានលុប</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>បង្ហាញ​សន្ទនា​កាន់​តែ​ថ្មី បន្ទាប់​ពី​អ្នក​លុប</item>
+        <item>បង្ហាញ​​សន្ទនា​កាន់​តែ​ថ្មី បន្ទាប់​ពី​អ្នក​លុប</item>
+        <item>បង្ហាញ​បញ្ជី​សន្ទនា បន្ទាប់​ពី​អ្នក​លុប</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>បង្ហាញតែធាតុដែលបានដាក់ក្នុងប័ណ្ណសារប៉ុណ្ណោះ</item>
+        <item>បង្ហាញតែធាតុដែលបានលុបប៉ុណ្ណោះ</item>
+        <item>បង្ហាញទាំងធាតុដែលបានដាក់ក្នុងប័ណ្ណសារ និងបានលុប</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>អាសយដ្ឋាន៖</item>
+        <item>ទូរ​សព្ទ</item>
+        <item>ឈ្មោះ៖</item>
+        <item>អ៊ីម៉ែល៖</item>
+        <item>ទូរ​សព្ទ​ចល័ត៖</item>
+        <item>WeChat៖</item>
+        <item>ទូរ​សារ៖</item>
+        <item>កូដ​ប្រៃសណីយ៍៖</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>សូម​អរគុណ</item>
+        <item>ដោយ​ក្ដី​រឭក​បំផុត</item>
+        <item>បានផ្ញើពី</item>
+        <item>អ៊ីម៉ែលដើម</item>
+        <item>បានផ្ញើពីរបស់ខ្ញុំ</item>
+        <item>បាន​ផ្ញើ​ពី</item>
+        <item>ពី</item>
+        <item>សារ​នេះ</item>
+        <item>បដិសេធ​ទទួល​ខុស​ត្រូវ</item>
+        <item>បដិសេធ​ទទួល​ខុស​ត្រូវ​នៃ​អ៊ីម៉ែល</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>សមកាលកម្មបានជោគជ័យ</item>
+        <item>កំហុសក្នុងការភ្ជាប់បណ្តាញ។</item>
+        <item>បានបរាជ័យក្នុងការចុះឈ្មោះចូល</item>
+        <item>កំហុសក្នុងការភ្ជាប់សន្តិសុខ។</item>
+        <item>បានបរាជ័យក្នុងការធ្វើសមកាលកម្ម</item>
+        <item>កំហុស​ម៉ាស៊ីន​មេ</item>
+    </string-array>
+</resources>

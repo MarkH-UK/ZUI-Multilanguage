@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">Uzunluk sınırı %1$d karakter aşıldı</item>
+        <item quantity="one">Uzunluk sınırı %1$d karakter aşıldı</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d karakter kaldı</item>
+        <item quantity="one">%1$d karakter kaldı</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google Hesabı</item>
+        <item quantity="one">%d Google Hesabı</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Bu cihaz, Google Hesaplarınız ve verileriyle bir ^1 cihaz kurmak için kullanıldı</item>
+        <item quantity="one">Bu cihaz, Google Hesabınız ve verileriyle bir ^1 cihaz kurmak için kullanıldı</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">1 dakika</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Bir hata nedeniyle bu davetiyeler gönderilmedi</item>
+        <item quantity="one">Bir hata nedeniyle bu davetiye gönderilmedi</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">"Bu davetiyeler şu anda gönderilemiyor. Google Play > Hesabım'a giderek davetiyeleri tekrar gönderebilirsiniz."</item>
+        <item quantity="one">"Bu davetiye şu anda gönderilemiyor. Google Play > Hesabım'a giderek davetiyeyi tekrar gönderebilirsiniz."</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d davetiye kaldı</item>
+        <item quantity="one">%d davetiye kaldı</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d yeni ileti</item>
+        <item quantity="one">1 yeni ileti</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">Sizden önce %1$d kişi var</item>
+        <item quantity="one">Sizden önce 1 kişi var</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d çevre</item>
+        <item quantity="one">1 çevre</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">1 gün</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d sa.</item>
+        <item quantity="one">1 sa.</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d dk.</item>
+        <item quantity="one">1 dk.</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">1 gün</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d sa.</item>
+        <item quantity="one">1 sa.</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d dk.</item>
+        <item quantity="one">1 dk.</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d kullanıcı</item>
+        <item quantity="one">1 kullanıcı</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s ve diğer %2$d uygulama tarafından</item>
+        <item quantity="one">%1$s ve diğer %2$d uygulama tarafından</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d dk.</item>
+        <item quantity="one">%d dk.</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s kullanıcı</item>
+        <item quantity="one">%1$s kullanıcı</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d takipçi</item>
+        <item quantity="one">Bir takipçi</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d görüntüleme</item>
+        <item quantity="one">Bir görüntüleme</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Google Hesaplarınız ve verileriniz kopyalanıyor…</item>
+        <item quantity="one">Google Hesabınız ve verileriniz kopyalanıyor…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Bu cihaz, Google Hesaplarınız ve verilerinizle bir ^1 ayarlamak için kullanıldı</item>
+        <item quantity="one">Bu cihaz, Google Hesabınız ve verilerinizle bir ^1 ayarlamak için kullanıldı</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Yükleme için %d saniye içinde yeniden başlatılıyor...</item>
+        <item quantity="one">Yükleme için 1 saniye içinde yeniden başlatılıyor...</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">%1$d adres seçeneği içeren liste gösteriliyor</item>
+        <item quantity="one">Bir adres seçeneği içeren liste gösteriliyor</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">%1$d öğe içeren liste gösteriliyor.</item>
+        <item quantity="one">Bir öğe içeren liste gösteriliyor.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">%1$d ödeme yöntemi seçeneği içeren liste gösteriliyor</item>
+        <item quantity="one">Bir ödeme yöntemi seçeneği içeren liste gösteriliyor</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">%1$d bağlılık programı seçeneği içeren liste gösteriliyor</item>
+        <item quantity="one">Bir bağlılık programı seçeneği içeren liste gösteriliyor</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">dakika</item>
+        <item quantity="one">dakika</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her %2$d günde bir otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her gün otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, sonraki &amp;lt;duration>%3$d gün&amp;lt;/duration> boyunca sizden &amp;lt;price>%2$d günde bir otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, sonraki &amp;lt;duration>%3$d gün&amp;lt;/duration> boyunca sizden &amp;lt;price>her gün otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her %2$d günde bir otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her gün otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, sonraki &amp;lt;duration>%3$d gün&amp;lt;/duration> boyunca sizden &amp;lt;price>her %2$d günde bir otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, sonraki &amp;lt;duration>%3$d gün&amp;lt;/duration> boyunca sizden &amp;lt;price>her gün otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her %2$d ayda bir otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her ay otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, sonraki &amp;lt;duration>%3$d ay&amp;lt;/duration> boyunca sizden &amp;lt;price>her %2$d ayda bir otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, sonraki &amp;lt;duration>%3$d ay&amp;lt;/duration> boyunca sizden &amp;lt;price>her ay otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her %2$d ayda bir otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her ayda bir otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, sonraki &amp;lt;duration>%3$d ay&amp;lt;/duration> boyunca sizden &amp;lt;price>her %2$d ayda bir otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, sonraki &amp;lt;duration>%3$d ay&amp;lt;/duration> boyunca sizden &amp;lt;price>her ay otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her %2$d yılda bir otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her yıl otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, sonraki &amp;lt;duration>%3$d yıl&amp;lt;/duration> boyunca sizden &amp;lt;price>her %2$d yılda bir otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, &amp;lt;duration>%3$d yıl&amp;lt;/duration> boyunca sizden &amp;lt;price>her yıl otomatik olarak %1$s&amp;lt;/price> tutarında ödeme alınacak.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her %2$d yılda bir otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%3$s&amp;lt;/start_time> tarihinden itibaren, aboneliğinizi iptal edene kadar sizden &amp;lt;price>her yıl otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, sonraki &amp;lt;duration>%3$d yıl&amp;lt;/duration> boyunca sizden &amp;lt;price>her %2$d yılda bir otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time> tarihinden itibaren, sonraki &amp;lt;duration>%3$d yıl&amp;lt;/duration> boyunca sizden &amp;lt;price>her yıl otomatik olarak %1$s ve geçerli tüm vergiler&amp;lt;/price> alınacak.</item>
+    </plurals>
+</resources>

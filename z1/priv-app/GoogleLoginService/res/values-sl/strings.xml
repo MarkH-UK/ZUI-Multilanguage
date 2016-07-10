@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Napaka storitev Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Za delovanje aplikacije morate namestiti storitve Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Za delovanje aplikacije morate posodobiti storitve Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Aplikacija zahteva posodobitev aplikacije Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Za delovanje aplikacije morate omogočiti storitve Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Zahteva aplikacije %1$s</string>
+    <string name="common_google_play_services_install_title">Namestite storitve Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Ta aplikacija ne deluje brez storitev Google Play, ki jih ni v telefonu.</string>
+    <string name="common_google_play_services_install_text_tablet">Ta aplikacija ne deluje brez storitev Google Play, ki jih ni v tabličnem računalniku.</string>
+    <string name="common_google_play_services_install_button">Namestite storitve Google Play</string>
+    <string name="common_google_play_services_enable_title">Omogočite storitve Google Play</string>
+    <string name="common_google_play_services_enable_text">Aplikacija ne bo delovala, če ne omogočite storitev Google Play.</string>
+    <string name="common_google_play_services_enable_button">Omogočite storitve Google Play</string>
+    <string name="common_google_play_services_update_title">Posodobite storitve Google Play</string>
+    <string name="common_android_wear_update_title">Posodobitev aplikacije Android Wear</string>
+    <string name="common_google_play_services_update_text">Ta aplikacija ne deluje, če ne posodobite storitev Google Play.</string>
+    <string name="common_android_wear_update_text">Ta aplikacije ne deluje, če ne posodobite aplikacije Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Omrežna napaka</string>
+    <string name="common_google_play_services_network_error_text">Za povezavo s storitvami Google Play potrebujete internetno povezavo.</string>
+    <string name="common_google_play_services_invalid_account_title">Neveljaven račun</string>
+    <string name="common_google_play_services_invalid_account_text">V tej napravi ne obstaja navedeni račun. Izberite drugega.</string>
+    <string name="common_google_play_services_unknown_issue">Neznana težava s storitvami Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Storitve Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Vaša naprava na podpira storitev Google Play, ki jih potrebujejo nekatere od vaših aplikacij. Za pomoč se obrnite na izdelovalca.</string>
+    <string name="common_google_play_services_update_button">Posodobi</string>
+    <string name="common_signin_button_text">Prijava</string>
+    <string name="common_signin_button_text_long">Prijavite se v Google</string>
+    <string name="common_open_on_phone">Odpiranje v telefonu</string>
+    <string name="setup_wizard_next_button_label">Naprej</string>
+    <string name="setup_wizard_back_button_label">Nazaj</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Preskoči</string>
+    <string name="down_button_label">Več</string>
+    <string name="cancel_button_label">Prekliči</string>
+    <string name="try_again_button_label">Poskusite znova</string>
+    <string name="close_button_label">Zapri</string>
+    <string name="url_load_unsuccessful_message">Vaša naprava Android ni povezana s podatkovno storitvijo. Če želite te podatke videti zdaj, v spletnem brskalniku odprite %s.</string>
+    <string name="sign_in_agreement">S prijavo se strinjate z Googlovimi <annotation id="tos">Pogoji storitve</annotation>, <annotation id="google_privacy">pravilnikom o zasebnosti</annotation> in <annotation id="play_tos">pogoji storitve Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">Dodatni pravilnik o zasebnosti</string>
+    <string name="google_terms_of_service_title">Googlovi pogoji storitve</string>
+    <string name="google_privacy_policy_title">Pravilnik o zasebnosti za Google</string>
+    <string name="google_plus_privacy_policy_title">Pravilnik o zasebnosti storitve Google Plus</string>
+    <string name="google_play_tos_title">Pogoji storitve Google Play</string>
+    <string name="chrome_tos_title">Pogoji storitve za Google Chrome</string>
+    <string name="chrome_privacy_title">Obvestilo o zasebnosti za Google Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Naprava Android ni povezana z omrežjem Wi-Fi. Če si želite ogledati te podatke, odprite %s v brskalniku.</string>
+    <string name="services_activity_title">Googlove storitve</string>
+    <string name="services_backup_heading">Varnostno kopiranje</string>
+    <string name="services_location_heading">Lokacija</string>
+    <string name="services_security_heading">Varnost</string>
+    <string name="services_personalization_heading">Prilagoditev</string>
+    <string name="services_communication_heading">Komunikacija</string>
+    <string name="security_verify_apps_summary">Dovolite Googlu, da za vse nameščene aplikacije preveri, ali lahko s svojim delovanjem ogrozijo varnost naprave ali podatkov.</string>
+    <string name="name_title">Vaše ime</string>
+    <string name="name_text">Vaše ime se uporabi za prilagoditev telefona in Googlovih storitev.</string>
+    <string name="first_name">Ime</string>
+    <string name="last_name">Priimek</string>
+    <string name="cant_be_blank">Polje ne sme biti prazno.</string>
+    <string name="sharedUserLabel">Googlove storitve</string>
+    <string name="app_label">Upravitelj Google Računa</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Prijava</string>
+    <string name="create_button_label">Odprite račun</string>
+    <string name="not_now_button_label">Ne zdaj</string>
+    <string name="new_button_label">Nov</string>
+    <string name="existing_button_label">Obstoječ</string>
+    <string name="done">V redu</string>
+    <string name="edit_text_help">Dotaknite se katerega koli besedilnega polja, da začnete tipkati</string>
+    <string name="add_a_google_account">Dodajanje Google Računa</string>
+    <string name="captcha_title">Vnesti morate znake CAPTCHA</string>
+    <string name="show_error_title">Napaka</string>
+    <string name="server_error">Težava pri komunikaciji z Googlovimi strežniki.</string>
+    <string name="server_error_help">Poskusite znova pozneje.</string>
+    <string name="network_unreliable">Zanesljive povezave s strežnikom ni mogoče vzpostaviti.</string>
+    <string name="network_unreliable_help">Morda gre za začasno težavo ali pa naprava Android ne podpira podatkovnih storitev. Če se težave nadaljujejo, pokličite center za pomoč naročnikom.</string>
+    <string name="network_unreliable_help_wifi_only">To je lahko začasna težava. Poskusite znova ali vzpostavite povezavo z drugim omrežjem Wi-Fi.</string>
+    <string name="invalid_login_character">Neveljaven znak. Dovoljeni so samo znaki 0-9, a-z, A-Z in pike.</string>
+    <string name="invalid_password_character">Neveljaven znak za geslo.</string>
+    <string name="calendar">Google Koledar</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Polje ne sme biti prazno.</string>
+    <string name="plus_query_title">Nadgradnja na Google+</string>
+    <string name="plus_query_text">"Pri Googlu+ je deljenje z drugimi v spletu podobnejše deljenju  v resničnem življenju."</string>
+    <string name="circles_subtitle">Tok stvari, ki vas zanimajo</string>
+    <string name="circles_text">Povežite se z zelo dobrimi prijatelji in raziščite skupne interese.</string>
+    <string name="uploads_subtitle">Samodejno varnostno kopiranje fotografij</string>
+    <string name="uploads_text">V brezplačno in zasebno shrambo varnostno kopirajte pravkar narejene fotografije.</string>
+    <string name="huddle_subtitle">Videoklici in videosporočila</string>
+    <string name="huddle_text">V klepetalnicah Hangouts lahko pošiljate sporočila in fotografije ter brezplačno opravljate skupinske videoklice.</string>
+    <string name="plus_declined_button_label">Ne zdaj</string>
+    <string name="plus_accepted_button_label">Začnite</string>
+    <string name="plus_name_check_title">Vzpostavljanje povezave z Googlom+ ...</string>
+    <string name="plus_name_check_text">To lahko traja nekaj minut.</string>
+    <string name="plus_faq_title">Pozdravljeni v Googlu+!</string>
+    <string name="plus_faq_text" formatted="false">"V Googlu+ boste imeli javni profil, da vas bodo prijatelji laže našli v spletu. Vaš profil bo lahko našel in si ga ogledal vsak, ki pozna vaš e-poštni naslov. 
+
+Z gumbi +1 lahko povsod po spletu priporočite stvari drugim. Vaš profil in oznake +1 bodo javno prikazani pri iskanju, v oglasih in po spletu.
+
+Trenutno je v vašem profilu prikazano le ime (%s %s). Ko boste začeli uporabljati Google+, lahko dodate fotografijo, življenjepis in druge podrobnosti."</string>
+    <string name="dasher_warning">Skrbnik na mestu %s ima v lasti in upravlja vse vaše podatke v Googlu+ in lahko brez vašega dovoljenja kadar koli izbriše ali spremeni vaš profil.</string>
+    <string name="profile_info_title">Vaš profil</string>
+    <string name="profile_text">Navedite osnovne podatke za svoj profil. Fotografijo in druge podrobnosti lahko dodate pozneje, ko boste začeli uporabljati Google+.</string>
+    <string name="occupation">Poklic</string>
+    <string name="current_city">Trenutno mesto</string>
+    <string name="picassa_info_title">Picasa in Google+</string>
+    <string name="picassa_info_text" formatted="false">Vaše fotografije in videoposnetki v Spletnih albumih Picasa bodo na voljo v storitvi Google+ in komentarji bodo objavljeni z imenom %s %s, namesto z uporabniškim imenom %s. Če v Googlu+ delite fotografije z drugimi, jih ti lahko delijo naprej. Nastavitve vidnosti albumov se ne bodo spremenile in lahko jih kadar koli omejite, da jih ni mogoče deliti naprej, če tega ne želite.</string>
+    <string name="name_title_plus">Vaše ime za Google+</string>
+    <string name="name_title_local">Lastnik tega telefona je ...</string>
+    <string name="name_text_local">Telefon prilagodi nekatere aplikacije z vašim imenom.</string>
+    <string name="name_progress_title">Samo trenutek ...</string>
+    <string name="bad_name_title">Želite uporabiti to ime?</string>
+    <string name="invalid_name_title">Tega imena ni mogoče uporabiti</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Če želite to ime uporabljati v storitvi Google+, ga mora naša skupina pregledati. Če krši naš pravilnik o imenih, lahko vaš profil začasno ukinemo. S tem bi vam omejili uporabo Googlovih izdelkov, za katere je potreben aktiven profil.
+
+"<annotation id="learn_more">Več o tem</annotation></string>
+    <string name="invalid_name_text">Tega imena ne morete uporabljati z Googlom+, ker vsebuje neveljavne znake.</string>
+    <string name="invalid_nickname_text">Tega imena ne morete uporabljati z Googlom+, ker vsebuje neveljavne znake. Ali poskušate uporabiti vzdevek, prejšnje ime ali naziv? V svoj profil jih lahko dodate, ko se pridružite storitvi.</string>
+    <string name="invalid_other_text">Tega imena ne morete uporabljati s storitvijo Google+.</string>
+    <string name="bad_name_agree_text">Razumem in želim uporabljati to ime.</string>
+    <string name="bad_name_decline_button_label">Posodobi ime</string>
+    <string name="bad_name_agree_button_label">Pošljite ime v pregled</string>
+    <string name="bad_name_skip_button_label">Preskoči Google+</string>
+    <string name="photo_title">Vaša fotografija</string>
+    <string name="photo_text">Ta fotografija bo uporabljena v zapisu za stik. Spremenite jo lahko v aplikaciji za stike.</string>
+    <string name="photo_text_es">Posnemite fotografijo, ki si jo bodo lahko prijatelji ogledali v Googlu+. Pozneje lahko izberete novo.</string>
+    <string name="photo_button_label">Posnemi fotografijo</string>
+    <string name="retake_photo_button_label">Nova fotografija</string>
+    <string name="photo_failure">Fotoaparata ni bilo mogoče zagnati.</string>
+    <string name="crop_failure">Fotografije ni mogoče obrezati.</string>
+    <string name="photo_description">Vaša fotografija</string>
+    <string name="communicating_message">Telefon vzpostavlja povezavo z Googlom zaradi shranjevanja podatkov v račun. To lahko traja največ 5 minut.</string>
+    <string name="creating_account_title">Shranjevanje računa ...</string>
+    <string name="checking_username_message">"Vaš telefon vzpostavlja povezavo z Googlom, da preveri, ali je želeno uporabniško ime na voljo.
+
+To lahko traja nekaj minut."</string>
+    <string name="plus_failure_title">Pridružite se Googlu+ pozneje</string>
+    <string name="plus_failure_new_account_text">Google Račun je ustvarjen, vendar zahteva za pridružitev Googlu+ ni uspela. Poskusite znova pozneje v katerem koli spletnem brskalniku na plus.google.com.</string>
+    <string name="plus_failure_text">Zahteva za prijavo v Google+ ni uspela. Poskusite znova pozneje v katerem koli spletnem brskalniku na plus.google.com.</string>
+    <string name="provisioned_login_title">Vnesite geslo</string>
+    <string name="provisioned_welcome">Zdravo, %s!</string>
+    <string name="provisioned_welcome_2">"Vnesite geslo za:
+%s"</string>
+    <string name="provisioned_incorrect_login">Niste %s?</string>
+    <string name="login_title">Vnesite e-poštni naslov in geslo</string>
+    <string name="login_task_title">Prijavljanje</string>
+    <string name="password">Geslo</string>
+    <string name="restore_wifi">Obnovitev in vzpostavitev povezave z znanimi omrežji Wi-Fi.</string>
+    <string name="sign_in_agreement_multi_user">S prijavo potrjujete, da se strinjate z Googlovimi <annotation id="tos">pogoji storitve</annotation>, <annotation id="google_privacy">pravilnikom o zasebnosti</annotation> in <annotation id="play_tos">pogoji storitve Google Play</annotation>". 
+
+Ne pozabite: Posodobljena dovoljenja za aplikacije lahko v vašem imenu sprejme kateri koli uporabnik. Kot vsak računalnik tudi ta tablični računalnik delite samo z osebami, ki jim zaupate."</string>
+    <string name="sign_in_agreement_with_chrome">Če se prijavite, se strinjate z Googlovimi <annotation id="tos">pogoji storitve</annotation> in <annotation id="google_privacy">pravilnikom o zasebnosti</annotation>, <annotation id="chrome_tos">pogoji storitve</annotation> in <annotation id="chrome_privacy">obvestilom o zasebnosti</annotation> za Google Chrome ter <annotation id="play_tos">pogoji storitve</annotation> Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">S prijavo potrjujete, da se strinjate z Googlovimi <annotation id="tos">pogoji storitve</annotation> in <annotation id="google_privacy">pravilnikom o zasebnosti</annotation>, s Chromovimi <annotation id="chrome_tos">pogoji storitve</annotation> in <annotation id="chrome_privacy">obvestilom o zasebnosti</annotation> ter s <annotation id="play_tos">pogoji storitve</annotation>" za Google Play. 
+
+Ne pozabite: Posodobljena dovoljenja za aplikacije lahko v vašem imenu sprejme kateri koli uporabnik. Kot vsak računalnik tudi ta tablični računalnik delite samo z osebami, ki jim zaupate."</string>
+    <string name="create_prompt">" Še nimate Google Računa? "<annotation id="create_account">Ustvarite ga</annotation> .</string>
+    <string name="sign_in_with_google_account_short">Prijavite se z Google Računom:</string>
+    <string name="invalid_username">Besedilo, ki ste ga vnesli, ni veljavno uporabniško ime.</string>
+    <string name="captcha_instructions">Vnesite besedilo, ki ga vidite tukaj:</string>
+    <string name="create_google_account">Izberite uporabniško ime</string>
+    <string name="create_google_account_text">Z Google Računom dobite tudi Gmail, Googlovo e-pošto, ki deluje v vsaki napravi, blokira vsiljeno pošto in še veliko več.</string>
+    <string name="account_already_has_gmail">Račun že ima Gmail.</string>
+    <string name="error_account_disabled">"Ta račun je onemogočen. 
+
+(Če želite podrobnejše informacije, v brskalniku obiščite https://google.com/accounts.)"</string>
+    <string name="no_network">Nimate omrežne povezave.</string>
+    <string name="no_network_help">Morda gre za začasno težavo ali pa naprava Android ne podpira podatkovnih storitev. Poskusite znova, ko boste povezani z mobilnim omrežjem, ali pa se povežite z omrežjem Wi-Fi.</string>
+    <string name="no_network_help_wifi_only">To je lahko začasna težava. Poskusite znova ali pa vzpostavite povezavo z drugim omrežjem Wi-Fi.</string>
+    <string name="error_login_failed">"Uporabniško ime in geslo se ne ujemata. Poskusite znova.
+
+Če želite obnoviti podatke o računu, pojdite na google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Ta račun ni potrjen. Preverite e-pošto in sledite povezavi, da potrdite račun. 
+
+(Če želite obnoviti podatke računa, v računalniku obiščite http://www.google.com/accounts/recovery.)"</string>
+    <string name="exit_menu_item">Izhod iz prijave v brskalniku</string>
+    <string name="creating_profile">Ustvarjanje profila…</string>
+    <string name="checking_account">Preverjanje razpoložljivosti ...</string>
+    <string name="is_not_available">Uporabniško ime <b>^1</b> ni na voljo.</string>
+    <string name="suggestions_hint">Dotaknite se za predloge</string>
+    <string name="suggest_username_next_button_label">Sprememba uporabniškega imena</string>
+    <string name="hint_size">" "<b>^1</b> vsebuje manj kot 6 ali več kot 30 znakov.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> ne vsebuje črk.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" lahko vsebuje samo črke,
+številke in pike."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> ne uporablja Gmaila.</string>
+    <string name="sign_in_browser">Prijava v brskalniku</string>
+    <string name="alternatives_list_title">Predlagana uporabniška imena</string>
+    <string name="password_title">Ustvarite geslo</string>
+    <string name="choose_a_password">Geslo</string>
+    <string name="confirm_password">Znova vnesite geslo</string>
+    <string name="too_short">Prekratko</string>
+    <string name="security_questions_title">Varnostna vprašanja</string>
+    <string name="answer">" "<b>Odgovor</b></string>
+    <string name="password_mismatch">Gesli se ne ujemata. Poskusite znova.</string>
+    <string name="eight_chars_min">Najmanj 8 znakov</string>
+    <string name="verify_your_profile">Preverite svoj profil</string>
+    <string name="error_not_logged_in">Uporabnik ni prijavljen.</string>
+    <string name="error_username_unavailable">Uporabniško ime ni na voljo.</string>
+    <string name="error_bad_password">Geslo ni dovolj močno ali vsebuje neveljavne znake. Poskusite znova.</string>
+    <string name="error_bad_username">Neveljavno uporabniško ime.</string>
+    <string name="existing_account_error_title">Račun že obstaja</string>
+    <string name="existing_account_error_text">V tej napravi Android je že račun ^1.</string>
+    <string name="submission_title">Oprostite ...</string>
+    <string name="submission_error_text">Napaka. Poskusite znova.</string>
+    <string name="sync_intro_title">Sinhronizacija računa</string>
+    <string name="account_tos_title">Dokončaj prijavo v račun</string>
+    <string name="account_tos_plus_title">Dokončajte pridružitev Googlu+</string>
+    <string name="i_accept">Sprejmem</string>
+    <string name="i_decline">Ne ustvari računa</string>
+    <string name="allow_personalized_content">Dovoli Googlu, da z mojimi podatki prilagodi vsebino in oglase na spletnih mestih zunaj Googla.</string>
+    <string name="enable_web_history">Vklop spletne zgodovine</string>
+    <string name="learn_more"><annotation id="learn_more">Več o tem</annotation></string>
+    <string name="account_creation_tos">Če boste nadaljevali, pomeni, da se strinjate z Googlovimi <annotation id="tos">pogoji storitve</annotation>, <annotation id="google_privacy">pravilnikom o zasebnosti</annotation> in <annotation id="play_tos">pogoji storitve Google Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Če boste nadaljevali, pomeni, da se strinjate z Googlovimi <annotation id="tos">pogoji storitve</annotation> in <annotation id="google_privacy">pravilnikom o zasebnosti</annotation>, Chromovimi <annotation id="chrome_tos">pogoji storitve</annotation> in <annotation id="chrome_privacy">pravilnikom o zasebnosti</annotation> ter <annotation id="play_tos">pogoji storitve</annotation> Google Play.</string>
+    <string name="gender_prompt">Spol</string>
+    <string name="gender_hint">Spol</string>
+    <string name="account_pre_intro_title">Že imate Google Račun?</string>
+    <string name="account_pre_intro_default_message">"Ali imate Google Račun?
+
+Če uporabljate Gmail ali Google Apps, odgovorite z »Da«."</string>
+    <string name="account_pre_intro_yes">Da</string>
+    <string name="account_pre_intro_no">Ne</string>
+    <string name="account_intro_title">Google Račun</string>
+    <string name="account_intro_required_title">Omogoča Google</string>
+    <string name="account_intro_recommended_title">Naj bo Google</string>
+    <string name="account_intro_default_message">Ničesar več ne boste izgubili. Z Google Računom imate vse na varnem.</string>
+    <string name="account_intro_simple_message">Ali želite dodati obstoječi račun ali ustvariti novega?</string>
+    <string name="account_intro_learn_more">Več o tem</string>
+    <string name="learn_more_title">Več o tem</string>
+    <string name="learn_more_account_intro">"Google Račun omogoča:
+
+"<li><ul>Ogledovanje in urejanje informacij, vključno z zgodovino iskanja, od koder koli.</ul></li>"
+
+"<li><ul>Varnostno kopiranje podatkov, kot so elektronska pošta, stiki, glasba in slike.</ul></li>"
+
+"<li><ul>Preprosto uporabo Googlovih storitev kjer koli – vključno z Google Stiki, Google Koledarjem, Google Zemljevidi ipd.</ul></li></string>
+    <string name="learn_more_account_intro_title">O Google Računih</string>
+    <string name="learn_more_bad_name">Google+ zahteva, da uporabite svoje pravo ime. Vaš profil mora predstavljati eno osebo (ne podjetja, organizacije ali družine) in mora vključevati ime in priimek v enem jeziku brez strokovnih nazivov ali nepotrebnih ločil. Po prijavi lahko v profilu v polje »Druga imena« vnesete vzdevke ali druga imena, s katerimi ste povezani.</string>
+    <string name="learn_more_bad_name_title">O pravilniku za imena</string>
+    <string name="wait_for_device_country_title">Nastavitev računa</string>
+    <string name="wait_for_device_country_msg">Zbiranje podatkov o telefonu. To lahko traja do 30 sekund.</string>
+    <string name="recovery_title">Obnovitev gesla za Google</string>
+    <string name="recovery_wait_title">Vzpost. povezave z Googlom ...</string>
+    <string name="cannot_talk_to_server_msg">Naprava ni mogla vzpostaviti povezave z Googlom.</string>
+    <string name="recovery_skip_label">Preskoči</string>
+    <string name="recovery_retry_label">Poskusi ponovno</string>
+    <string name="recovery_message_set">"Če pozabite geslo, je pametno, da imate možnost njegove obnovitve.
+
+Google omogoča dva načina obnovitve gesla – prek SMS-a ali nadomestnega e-poštnega naslova.
+
+Ta korak je priporočljiv. "<annotation id="help_url">Več o tem</annotation></string>
+    <string name="recovery_message_verify">"Gesla lahko hitro pozabite.
+
+Potrdite telefonsko številko ali nadomestni e-poštni naslov, da boste lahko obnovili dostop do svoje vsebine v Googlu in storitvi Google Play. "<annotation id="help_url">Več o tem</annotation></string>
+    <string name="recovery_yes_button_label">Nastavite možnosti obnovitve</string>
+    <string name="recovery_yes_button_label_verify">Potrdite možnosti obnovitve</string>
+    <string name="recovery_later_button_label">Ne zdaj</string>
+    <string name="recovery_input_screen_message">Ti podatki za obnovitev veljajo za %s.</string>
+    <string name="secondary_email_hint">Rezervni e-poštni naslov</string>
+    <string name="secondary_email_invalid">Neveljaven e-poštni naslov</string>
+    <string name="secondary_email_same_as_primary">Ne sme biti enak primarnemu</string>
+    <string name="phone_number_hint">Telefonska številka</string>
+    <string name="phone_number_invalid_character">Neveljavni znaki v telefonski številki</string>
+    <string name="phone_number_invalid">Neveljavna telefonska številka</string>
+    <string name="country_invalid">Ta država ni dovoljena</string>
+    <string name="recovery_server_error">Napaka pri komuniciranju s strežnikom. Poskusite znova čez nekaj časa.</string>
+    <string name="account_recovery_info">Če izgubite geslo, lahko odgovorite na varnostno vprašanje in na drug naslov vam bomo poslali povezavo za ponastavitev.</string>
+    <string name="secondary_email_label">E-poštni naslov za obnovitev</string>
+    <string name="invalid_email">"Vnesen e-poštni naslov ni veljaven.
+ Primer: janez@example.com"</string>
+    <string name="invalid_email_primary">Obnovitveni naslov ne more biti enak tistemu, ki ga ustvarjate.</string>
+    <string name="backup_consent_message">"Uporabite Google Račun, da naredite varnostno kopijo aplikacij, nastavitev (kot so zaznamki in gesla za Wi-Fi) in drugih podatkov. Če ste predhodno varnostno kopirali ​​račun, ga lahko zdaj obnovite v tem telefonu. 
+
+Nastavitve za varnostno kopiranje lahko kadar koli spremenite v nastavitvah."</string>
+    <string name="backup_consent_message_no_restore">"Uporabite Google Račun, da naredite varnostno kopijo aplikacij, nastavitev (kot so zaznamki in gesla za Wi-Fi) in drugih podatkov.
+
+Nastavitve za varnostno kopiranje lahko kadar koli spremenite v nastavitvah."</string>
+    <string name="restoring_title">Obnavljanje ...</string>
+    <string name="restoring_message">Telefon vzpostavlja povezavo z Googlom za obnovitev računa. To lahko traja nekaj časa.</string>
+    <string name="gls_notification_login_error">Dotaknite se za prijavo v svoj račun.</string>
+    <string name="gls_ui_add_account_title">Namestitev računa</string>
+    <string name="gls_ui_activity_title">Prijava</string>
+    <string name="gls_ui_activity_title_browser_signin">Prijava</string>
+    <string name="gls_ui_activity_title_checking_in">Priprava ...</string>
+    <string name="gls_ui_activity_authenticating">Preverjanje pristnosti ...</string>
+    <string name="gls_dmagent_activity_activate_message">" Vaša domena zahteva upravljanje mobilnih naprav. Vklopite aplikacijo »Google Apps Device Policy«, če želite uveljaviti varnostne pravilnike, ki jih zahteva račun  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Vklopi</string>
+    <string name="gls_dmagent_activity_download_message">" Vaša domena zahteva upravljanje mobilnih naprav. Namestite aplikacijo »Google Apps Device Policy«, če želite uveljaviti varnostne pravilnike, ki jih zahteva račun  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">Prenos</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Vnesli ste napačno geslo ali pa je vaš račun spremenjen. Znova vnesite geslo.</string>
+    <string name="permlab_googleAuthPassword">dostop do gesel za Googlove račune</string>
+    <string name="permdesc_googleAuthPassword">Aplikacijam omogoča neposreden dostop do gesel Google Računov, ki ste jih nastavili.</string>
+    <string name="permlab_googleMailSwitch">izbira blagovne znamke Gmail ali Google Mail</string>
+    <string name="permdesc_googleMailSwitch">Aplikacijam omogoča preklop med imeni prikazanih blagovnih znamk »Gmail« in »Google Mail«.</string>
+    <string name="sync_item_title">Sinhroniziraj %s</string>
+    <string name="grant_credentials_permission_message_footer">Zahtevajo dovoljenje za:</string>
+    <string name="grant_credentials_permission_message_app">Te aplikacije želijo od zdaj naprej imeti dostop do vašega Google Računa:</string>
+    <string name="grant_permissions_header_text">Zahteva za dovoljenje</string>
+    <string name="allow">Dovoli dostop</string>
+    <string name="deny">Ne, hvala</string>
+    <string name="permission_request_notification_with_subtitle">"Zahtevano je dovoljenje
+za račun %s"</string>
+    <string name="notification_title">Napaka pri prijavi v račun %1$s</string>
+    <string name="account_setup_title">Google Račun</string>
+    <string name="login_activity_title">Prijava</string>
+    <string name="relogin_activity_title">Znova vnesite geslo</string>
+    <string name="show_error_activity_title">Prijava ni uspela</string>
+    <string name="login_activity_task_title">Prijava ...</string>
+    <string name="login_activity_task_msg">To lahko traja nekaj minut.</string>
+    <string name="prepare_account_setup_task_title">Pripravljanje nastavitve računa …</string>
+    <string name="prepare_account_setup_task_msg">To lahko traja nekaj minut.</string>
+    <string name="sync_intro_activity_title">Sinhronizacija računa</string>
+    <string name="username">E-pošta</string>
+    <string name="error_invalid_second_factor">Uporabite geslo za dostop do aplikacije namesto običajnega gesla za račun.</string>
+    <string name="error_needs_browser">Za dostop do računa se prijavite v spletu. Dotaknite se »Naprej« in začnite prijavo v brskalniku.</string>
+    <string name="google_play_opt_in">Obveščajte me o novicah in ponudbah storitve Google Play.</string>
+    <string name="google_settings_header_title">Zasebnost</string>
+    <string name="maps_settings_title">Google Zemljevidi in Google Latitude</string>
+    <string name="location_settings_title">Lokacija</string>
+    <string name="search_settings_title">Iskanje</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Oglasi</string>
+    <string name="location_network_based">Googlova lokacijska storitev</string>
+    <string name="location_neighborhood_level">Dovoli pošilj. anon. lok. pod. Googlu. Odobr. aplikac. dov. upor. pod. iz virov, kot so Wi-Fi in mob. omr., za dol. pribl. lokac.</string>
+    <string name="use_location_title">Lokacija in Iskanje Google</string>
+    <string name="use_location_summary">Dovolite Googlu, da uporablja podatke o lokaciji za boljše rezultate iskanja in druge storitve.</string>
+    <string name="backup_consent_yes_agree">Z Google Računom lahko varnostno kopirate aplikacije, nastavitve (kot so zaznamki in gesla za Wi-Fi) in druge podatke.</string>
+    <string name="restore_consent_yes_agree">V telefon prenesite aplikacije, nastavitve in druge podatke, ki ste jih varnostno kopirali z Google Računom.</string>
+    <string name="audit_logging_summary">S samodejnim pošiljanjem podatkov o dogodkih v napravi in diagnostičnih podatkov Googlu nam pomagate izboljšati izdelke in zaščititi svojo napravo.</string>
+    <string name="no_back_msg">Premik na prejšnji korak ni mogoč.</string>
+    <string name="setup_wizard_title">Čarovnik za namestitev</string>
+    <string name="setup_wizard_services_activity_title">Googlove storitve</string>
+    <string name="setup_wizard_services_description">S temi storitvami Google dela za vas, vklopite ali izklopite pa jih lahko kadar koli. Podatke bomo uporabljali v skladu z Googlovim <annotation id="google_privacy">pravilnikom o zasebnosti</annotation>.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Varnostno kopiranje in obnovitev</string>
+    <string name="setup_wizard_services_location_heading">Lokacija</string>
+    <string name="setup_wizard_services_communication_heading">Komunikacija</string>
+    <string name="setup_wizard_services_backup"><b>Z Google Računom lahko varnostno kopirate aplikacije, podatke o aplikacijah, nastavitve, osebne slovarje in gesla za Wi-Fi v telefonu</b>, tako da jih lahko pozneje preprosto obnovite. <annotation id="backup_details">Več o tem</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Z Google Računom lahko varnostno kopirate aplikacije, podatke o aplikacijah, nastavitve, osebne slovarje in gesla za Wi-Fi</b>, tako da jih lahko pozneje preprosto obnovite.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Podatki vključujejo aplikacije, nastavitve aplikacij, sistemske nastavitve in gesla za Wi‑Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Če vklopite samodejno varnostno kopiranje, se podatki v napravi redno shranjujejo v Google Račun. Med varnostno kopiranimi podatki so morda podatki iz map s podatki aplikacij, kot so izbire, nastavitve, sporočila, fotografije in druge datoteke.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Z uporabo Googlove lokacijske storitve</b> pomagajte aplikacijam določati lokacijo. S tem se pošiljajo Googlu pošiljajo anonimni lokacijski podatki, tudi ko se ne izvaja nobena aplikacija. <annotation id="location_details">Več o tem</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Googlova lokacijska storitev si pomaga z viri, kot so omrežja Wi-Fi in mobilna omrežja, za hitrejše in natančnejše določanje lokacije. Ko vklopite Googlove lokacijske storitve, vaša naprava preklopi v način, ki uporablja omrežja Wi-Fi in mobilna omrežja za posredovanje podatkov o lokaciji. Lahko ga izklopite v nastavitvah za lokacijo, tako da izberete način, ki uporablja samo GPS in mu včasih rečemo način »Samo v napravi«.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Pomagajte izboljšati lokacijske storitve</b>, tako da aplikacijam in storitvam omogočite iskanje omrežij Wi-Fi, tudi ko je povezava Wi-Fi izklopljena.</string>
+    <string name="setup_wizard_services_location_footnote">Googlova lokacijska storitev za natančnejše in hitrejše ugotavljanje lokacije uporablja signale omrežij Wi‑Fi in druge signale ter tako pogosto porabi manj energije, kot če bi uporabljala GPS. Nekateri podatki se lahko shranijo v vaši napravi. Podatki se lahko zbirajo tudi, ko se ne izvaja nobena aplikacija.</string>
+    <string name="setup_wizard_services_play"><b>Obveščajte me</b> o novostih in ponudbi v Googlu Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Pomagajte izboljšati izkušnjo z Androidom</b> s samodejnim pošiljanjem diagnostičnih podatkov in podatkov o uporabi Googlu. Teh podatkov ne bomo uporabljali, da bi vas prepoznali, temveč si bodo z njimi pomagale skupine, ki se ukvarjajo s časom delovanja akumulatorja, delovanjem aplikacij in novimi Googlovimi funkcijami. <annotation id="usage_reporting_details">Več o tem</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"To so splošni podatki o vaši napravi in njeni uporabi, na primer raven napolnjenosti akumulatorja, pogostost uporabe aplikacij, kakovost in trajanje omrežnih povezav (mobilna omrežja, Wi-Fi in Bluetooth) ter poročila o zrušitvah za primere, ko vse ne deluje tako, kot je treba. Uporabljali jih bomo za izboljševanje Googlovih izdelkov in storitev za vse – podatki ne bodo povezani z vašim Google Računom. Nekateri združeni podatki bodo tudi v pomoč partnerjem, kot so razvijalci aplikacij, pri izboljševanju aplikacij in izdelkov.
+
+To funkcijo lahko kadar koli izklopite v aplikaciji Nastavitve za Google. Ne vpliva na zmožnost naprave glede pošiljanja zahtevanih podatkov zaradi prejemanja osnovnih storitev, kot so sistemske posodobitve in varnost."</string>
+    <string name="setup_wizard_services_agreement">Ta telefon lahko prejme in namesti posodobitve in aplikacije od Googla, vašega operaterja in proizvajalca telefona. Če nadaljujete, bodo morda prenesene in nameščene nekatere aplikacije. Kadar koli jih lahko odstranite.</string>
+</resources>

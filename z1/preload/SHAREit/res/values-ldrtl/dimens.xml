@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_grid_column_width">100.0dip</dimen>
+    <dimen name="photo_grid_column_padding">2.0dip</dimen>
+    <dimen name="photo_special_grid_column_width">75.0dip</dimen>
+    <dimen name="photo_special_grid_column_padding">4.0dip</dimen>
+    <dimen name="content_item_check_size">26.0dip</dimen>
+    <dimen name="util_setting_tab_hight">33.0dip</dimen>
+    <dimen name="util_setting_item_hight">64.0dip</dimen>
+    <dimen name="util_setting_slip_item_paddingleft">24.0dip</dimen>
+    <dimen name="util_setting_slip_item_paddingright">99.0dip</dimen>
+    <dimen name="slip_button_width">48.0dip</dimen>
+    <dimen name="slip_button_height">22.0dip</dimen>
+    <dimen name="common_listview_divider_height">0.0dip</dimen>
+    <dimen name="content_title_bar_tab_width">110.0dip</dimen>
+    <dimen name="history_popup_menu_width">103.0dip</dimen>
+    <dimen name="history_popup_menu_item_height">40.0dip</dimen>
+    <dimen name="history_popup_menu_offset1">24.0dip</dimen>
+    <dimen name="history_popup_menu_offset2">8.0dip</dimen>
+    <dimen name="sliding_menu_host_offset">60.0dip</dimen>
+    <dimen name="common_activity_framework_menu_group_height">44.0dip</dimen>
+    <dimen name="common_activity_framework_menu_child_height">52.0dip</dimen>
+    <dimen name="common_navigator_arrow_width">20.0dip</dimen>
+</resources>

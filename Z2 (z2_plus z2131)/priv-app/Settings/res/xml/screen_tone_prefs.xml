@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/xui_screen_color_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:layout="@layout/preference_image_screen_tone" android:selectable="false" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/protection_eyes_mode" android:key="protection_eyes_mode" android:summary="" android:widgetLayout="@layout/preference_widget_forward" />
+    <PreferenceCategory android:state_expanded="true" android:title="@string/xui_screen_color_temperature" />
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/xui_screen_color_temperature_warm" android:key="color_temperature_warm" />
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/xui_screen_color_temperature_normal" android:key="color_temperature_normal" />
+    <com.android.settings.RadioPreference android:persistent="false" android:title="@string/xui_screen_color_temperature_cold" android:key="color_temperature_cold" />
+    <PreferenceCategory android:state_expanded="true" android:title="@string/saturation_mode" android:key="saturation_category">
+        <com.android.settings.RadioPreference android:persistent="false" android:title="@string/saturation_mode_strong" android:key="saturation_mode_normal" />
+        <com.android.settings.RadioPreference android:persistent="false" android:title="@string/saturation_mode_soft" android:key="saturation_mode_soft" />
+    </PreferenceCategory>
+</PreferenceScreen>

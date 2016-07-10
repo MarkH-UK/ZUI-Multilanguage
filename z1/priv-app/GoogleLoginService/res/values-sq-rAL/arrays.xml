@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Zgjidh një pyetje sigurie</item>
+        <item>Numri i parë i telefonit?</item>
+        <item>Emri i shokut të ngushtë të fëmijërisë?</item>
+        <item>Emri i mësuesit të parë?</item>
+        <item>Emri i menaxherit në punën e parë?</item>
+        <item>Targa e makinës?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>i dobët</item>
+        <item>jo i dobët</item>
+        <item>i mirë</item>
+        <item>i fortë</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Mashkull</item>
+        <item>Femër</item>
+        <item>Tjetër</item>
+    </string-array>
+</resources>

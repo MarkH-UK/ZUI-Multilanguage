@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bár</item>
+        <item>Kávézó</item>
+        <item>Benzinkút</item>
+        <item>Mozi</item>
+        <item>Szállás</item>
+        <item>Szórakozóhely</item>
+        <item>Múzeum</item>
+        <item>Étterem</item>
+        <item>Bevásárlóközpont</item>
+        <item>Áruház</item>
+        <item>Vegyesbolt/szupermarket</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>gyenge</item>
+        <item>közepes</item>
+        <item>megfelelő</item>
+        <item>erős</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Kiadásra</item>
+        <item>Fejlesztői</item>
+        <item>Kiskereskedelem</item>
+        <item>Demó</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>A telefon és az autó egymással nem kompatibilis szoftvereket futtat. A részletekkel kapcsolatban nyissa meg a következő webhelyet: &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Az autó helytelen hang- és/vagy videobeállítási készletet hirdetett meg.</item>
+        <item>"Az USB-kapcsolat nem működik megfelelően. Próbálkozzon a következőkkel: 
+
+• Győződjön meg róla, hogy a kábel mindkét vége jól van bedugva. 
+•Győződjön meg róla, hogy adatátvitelre szolgáló USB-kábelt használ. 
+•Győződjön meg róla, hogy a dátum és az idő az autón és a telefonján is helyesen van beállítva."</item>
+        <item>Az autó leállította az Android Auto futtatását.</item>
+        <item>Az Android Auto-munkamenet – kérésének megfelelően – leállt.</item>
+        <item>Előfordulhat, hogy az autó szoftvere elavult. Részletes információkért és ügyfélszolgálati támogatásért forduljon a gyártóhoz.</item>
+        <item>Autója szoftvere nem felelt meg az Android Auto biztonsági ellenőrzésén. Részletes információkért és ügyfélszolgálati támogatásért forduljon a gyártóhoz.</item>
+        <item>Autója szoftvere nem felelt meg az Android Auto biztonsági ellenőrzésén. Győződjön meg róla, hogy az autón helyesen van beállítva a dátum és az idő, továbbá hogy az Android Auto frissítve van.</item>
+        <item>Egy művelet időtúllépést ért el. Egy hibajelentést és egy visszajelző fájlt kell kapnia.</item>
+        <item>Úgy tűnik, hogy Önnél nincs telepítve indító. Helyesek a telefonja beállításai?</item>
+        <item>A grafikus adatcsatorna szétesett. Egy hibajelentést és egy visszajelző fájlt kell kapnia.</item>
+        <item>Az autó nem reagál a telefontól érkező üzenetekre. Lehetséges, hogy az autó nem a megfelelő állapotban van.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Repülőtér</item>
+        <item>Bankautomata</item>
+        <item>Bank</item>
+        <item>Bár</item>
+        <item>Buszmegálló</item>
+        <item>Kávézó</item>
+        <item>Kemping</item>
+        <item>Temető</item>
+        <item>Templom</item>
+        <item>Városháza</item>
+        <item>Intézmény</item>
+        <item>Benzinkút</item>
+        <item>Vegyesbolt/szupermarket</item>
+        <item>Hindu templom</item>
+        <item>Kórház</item>
+        <item>Könyvtár</item>
+        <item>Szállás</item>
+        <item>Mecset</item>
+        <item>Mozi</item>
+        <item>Múzeum</item>
+        <item>Park</item>
+        <item>Parkoló</item>
+        <item>Kegyhely</item>
+        <item>Rendőrség</item>
+        <item>Posta</item>
+        <item>Étterem</item>
+        <item>Iskola</item>
+        <item>Áruház</item>
+        <item>Metróállomás</item>
+        <item>Zsinagóga</item>
+        <item>Vasútállomás</item>
+        <item>Állomás</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>január</item>
+        <item>február</item>
+        <item>március</item>
+        <item>április</item>
+        <item>május</item>
+        <item>június</item>
+        <item>július</item>
+        <item>augusztus</item>
+        <item>szeptember</item>
+        <item>október</item>
+        <item>november</item>
+        <item>december</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Megosztás megszüntetése</item>
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>1 óra</item>
+        <item>Határozatlan</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Megosztás megszüntetése</item>
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>1 óra</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Válasszon egy biztonsági kérdést</item>
+        <item>Első telefonszáma?</item>
+        <item>Mi gyermekkori legjobb barátja neve?</item>
+        <item>Első tanárának neve?</item>
+        <item>Főnöke neve az első munkahelyén?</item>
+        <item>Járműve rendszáma?</item>
+    </string-array>
+</resources>

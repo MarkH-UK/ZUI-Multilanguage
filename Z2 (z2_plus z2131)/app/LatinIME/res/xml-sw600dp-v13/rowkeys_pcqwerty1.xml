@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <switch>
+        <case latin:keyboardLayoutSetElement="alphabet|alphabetAutomaticShifted|alphabetShiftLocked">
+            <Key latin:additionalMoreKeys="~" latin:keySpec="`" latin:keyHintLabel="~" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="!text/morekeys_exclamation,!text/morekeys_symbols_1" latin:additionalMoreKeys="!" latin:keySpec="1" latin:keyHintLabel="!" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="!text/morekeys_symbols_2" latin:additionalMoreKeys="\@" latin:keySpec="2" latin:keyHintLabel="\@" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="!text/morekeys_symbols_3" latin:additionalMoreKeys="\#" latin:keySpec="3" latin:keyHintLabel="\#" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="!text/morekeys_symbols_4" latin:additionalMoreKeys="$" latin:keySpec="4" latin:keyHintLabel="$" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="!text/morekeys_symbols_5" latin:additionalMoreKeys="\\%" latin:keySpec="5" latin:keyHintLabel="%" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="!text/morekeys_symbols_6" latin:additionalMoreKeys="^" latin:keySpec="6" latin:keyHintLabel="^" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="!text/morekeys_symbols_7" latin:additionalMoreKeys="&amp;" latin:keySpec="7" latin:keyHintLabel="&amp;" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="!text/morekeys_symbols_8" latin:additionalMoreKeys="*" latin:keySpec="8" latin:keyHintLabel="*" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="!text/morekeys_symbols_9" latin:additionalMoreKeys="(" latin:keySpec="9" latin:keyHintLabel="(" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="!text/morekeys_symbols_0" latin:additionalMoreKeys=")" latin:keySpec="0" latin:keyHintLabel=")" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="–,—,·" latin:additionalMoreKeys="_" latin:keySpec="-" latin:keyHintLabel="_" latin:keyStyle="hasShiftedLetterHintStyle" />
+            <Key latin:moreKeys="∞,≠,≈" latin:additionalMoreKeys="+" latin:keySpec="=" latin:keyHintLabel="+" latin:keyStyle="hasShiftedLetterHintStyle" />
+        </case>
+        <default>
+            <include latin:keyboardLayout="@xml/rowkeys_pcqwerty1_shift" />
+        </default>
+    </switch>
+</merge>

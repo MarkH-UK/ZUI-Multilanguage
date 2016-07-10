@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="level_bubble">#ffaa0000</color>
+    <color name="level_cross">#ffc377a7</color>
+    <color name="transparent">#00000000</color>
+    <color name="direction_span">#ffe74a1a</color>
+    <color name="compass_wheel_color">#ff999999</color>
+    <color name="error_title_color">#80ffffff</color>
+    <color name="solid_white_color">#ffffffff</color>
+    <color name="error_context_color">#80ffffff</color>
+    <color name="streetview_titlebar_color">#ff191b24</color>
+    <color name="net_setting_button_color">#ffdedede</color>
+    <color name="common_button_color">#ccffffff</color>
+    <color name="locationing_text_color">#fffafafa</color>
+    <color name="streetview_error_text_color">#26ffffff</color>
+    <color name="guide_bottom_tip_text_color">#ffa8a8a8</color>
+    <color name="guide_bubble_color">#fff34d32</color>
+    <color name="guide_bubble_color_green">#ff40bf45</color>
+    <color name="compass_location_text_color">#ffa8a8a8</color>
+    <color name="compass_calibration_text_color">#ff808080</color>
+    <color name="compass_calibration_text_color_40">#66808080</color>
+    <color name="compass_outside_direction_color">#ffb3b3b3</color>
+    <color name="compass_dot_bg_color">#b2959595</color>
+    <color name="compass_dot_bg_color_current">#ff959595</color>
+</resources>

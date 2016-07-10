@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">"Vous ne pouvez pas utiliser ce compte, car les applications suivantes ne sont pas installées : ^1. Communiquez avec l'administrateur du domaine pour "&lt;b>^&lt;/b>" ou connectez-vous avec un autre compte. "</item>
+        <item quantity="one">"Vous ne pouvez pas utiliser ce compte, car l'application suivante n'est pas installée : ^1. Communiquez avec l'administrateur du domaine pour "&lt;b>^&lt;/b>" ou connectez-vous avec un autre compte. "</item>
+    </plurals>
+</resources>

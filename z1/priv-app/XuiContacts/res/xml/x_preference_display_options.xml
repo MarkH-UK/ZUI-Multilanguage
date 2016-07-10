@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:persistent="false" android:title="@string/call_setting_category_display_title" android:key="call_setting_display_category" />
+    <com.android.newcontact.callsetting.XCallsettingSwitchPerference android:persistent="false" android:title="@string/call_setting_mark_unkown_number_title" android:key="call_setting_preference_mark_number" android:defaultValue="false" />
+    <com.android.newcontact.contacts_settings.XPreference android:title="@string/dial_search_display_other_contact_way" android:key="dial_search_setting_preference" />
+    <PreferenceCategory android:persistent="false" android:state_expanded="true" android:title="@string/call_setting_category_call_title" android:key="call_setting_call_category" />
+    <com.android.newcontact.contacts_settings.XPreference android:title="@string/call_setting_keytone_title" android:key="call_setting_dial_tone" />
+    <com.android.newcontact.callsetting.XCallsettingSwitchPerference android:persistent="false" android:title="@string/call_setting_ignore_first_ring" android:key="call_setting_preference_ignore_first_ring" android:defaultValue="false" />
+    <com.android.newcontact.callsetting.XCallsettingSwitchPerference android:persistent="false" android:title="@string/call_setting_auto_redial_title" android:key="call_setting_preference_auto_redial" android:defaultValue="false" />
+    <com.android.newcontact.contacts_settings.XPreference android:title="@string/call_setting_call_forward_voicemail_title" android:key="call_setting_preference_call_forward_voicemail">
+        <intent android:targetPackage="com.zui.contacts" android:targetClass="com.android.newcontact.callsetting.XCallSettingCallForward" />
+    </com.android.newcontact.contacts_settings.XPreference>
+    <com.android.newcontact.contacts_settings.XPreference android:title="@string/call_setting_call_record_title" android:key="call_setting_preference_call_record" />
+    <com.android.newcontact.callsetting.XCallsettingSwitchPerference android:persistent="false" android:title="@string/call_setting_call_recoder_notify_title" android:key="call_setting_preference_call_recoder_notify" android:defaultValue="true" />
+    <com.android.newcontact.callsetting.XCallsettingSwitchPerference android:persistent="false" android:title="@string/call_setting_vibrate_answer_or_hungup_title" android:key="call_setting_preference_vibrate" android:defaultValue="false" />
+    <com.android.newcontact.contacts_settings.XPreference android:title="@string/call_setting_via_sms_response_title" android:key="call_setting_preference_quick_response" />
+    <com.android.newcontact.contacts_settings.XPreference android:persistent="false" android:title="@string/call_setting_sim_app" android:key="call_setting_preference_sim_app" android:widgetLayout="@layout/x_preference_widget_call_setting" />
+    <com.android.newcontact.contacts_settings.XPreference android:title="@string/call_setting_harass" android:key="call_setting_harass" />
+    <PreferenceCategory android:persistent="false" android:state_expanded="true" android:key="call_setting_display_category_harass" android:summary="@string/call_setting_harass_summary" />
+    <com.android.newcontact.callsetting.XCallsettingSwitchPerference android:persistent="false" android:title="@string/call_setting_flip_silence_title" android:key="call_setting_preference_flip_silence" android:defaultValue="false" />
+</PreferenceScreen>

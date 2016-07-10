@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Cafè</item>
+        <item>Gasolinera</item>
+        <item>Cinema</item>
+        <item>Allotjament</item>
+        <item>Sala de festes</item>
+        <item>Museu</item>
+        <item>Restaurant</item>
+        <item>Centre comercial</item>
+        <item>Botiga</item>
+        <item>Botiga o supermercat</item>
+        <item>Altres</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>baixa</item>
+        <item>normal</item>
+        <item>bona</item>
+        <item>segura</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Versió</item>
+        <item>Desenvolupador</item>
+        <item>Comerç al detall</item>
+        <item>Demostració</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>El telèfon i el cotxe executen programari no admès. Per obtenir més detalls, visita &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>"El cotxe ha detectat un conjunt de configuracions d'àudio o de vídeo incorrectes."</item>
+        <item>"La connexió USB no funciona correctament. Pots provar el següent: 
+
+• Comprova que el cable estigui introduït correctament pels dos extrems. 
+• Comprova que disposes d'un cable de dades USB. 
+• Comprova que la data i l'hora estiguin definides correctament al cotxe i al telèfon."</item>
+        <item>"El cotxe ha aturat l'execució d'Android Auto."</item>
+        <item>"S'ha aturat la sessió d'Android Auto, com s'ha sol·licitat."</item>
+        <item>És possible que el programari del cotxe estigui obsolet. Si et cal més informació o assistència, contacta amb el fabricant.</item>
+        <item>"El programari del cotxe no ha passat les comprovacions de seguretat d'Android Auto. Si et cal més informació o assistència, contacta amb el fabricant."</item>
+        <item>"El programari del cotxe no ha passat les comprovacions de seguretat d'Android Auto. Assegura't que la data i l'hora estiguin definides correctament i que Android Auto s'hagi actualitzat."</item>
+        <item>"S'ha esgotat el temps d'espera de l'acció. Envia suggeriments amb un informe d'errors."</item>
+        <item>Sembla que no tens cap launcher instal·lat. El telèfon està configurat correctament?</item>
+        <item>"El canal de gràfics s'ha espatllat. Envia suggeriments amb un informe d'errors."</item>
+        <item>El cotxe no respon als missatges del telèfon. És possible que el cotxe tingui algun error.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Aeroport</item>
+        <item>Caixer</item>
+        <item>Banc</item>
+        <item>Bar</item>
+        <item>"Estació d'autobusos"</item>
+        <item>Cafè</item>
+        <item>Càmping</item>
+        <item>Cementiri</item>
+        <item>Església</item>
+        <item>Ajuntament</item>
+        <item>Establiment</item>
+        <item>Gasolinera</item>
+        <item>Botiga o supermercat</item>
+        <item>Temple hindú</item>
+        <item>Hospital</item>
+        <item>Música</item>
+        <item>Allotjament</item>
+        <item>Mesquita</item>
+        <item>Cinema</item>
+        <item>Museu</item>
+        <item>Parc</item>
+        <item>Aparcament</item>
+        <item>Lloc de culte</item>
+        <item>Comissaria de policia</item>
+        <item>Oficina de correus</item>
+        <item>Restaurant</item>
+        <item>Escola</item>
+        <item>Botiga</item>
+        <item>Parada de metro</item>
+        <item>Sinagoga</item>
+        <item>Estació de tren</item>
+        <item>Estació de transport públic</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Gener</item>
+        <item>Febrer</item>
+        <item>Març</item>
+        <item>Abril</item>
+        <item>Maig</item>
+        <item>Juny</item>
+        <item>Juliol</item>
+        <item>Agost</item>
+        <item>Setembre</item>
+        <item>Octubre</item>
+        <item>Novembre</item>
+        <item>Desembre</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Deixa de compartir</item>
+        <item>15 minuts</item>
+        <item>30 minuts</item>
+        <item>1 hora</item>
+        <item>Indefinidament</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Deixa de compartir</item>
+        <item>15 minuts</item>
+        <item>30 minuts</item>
+        <item>1 hora</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Tria una pregunta de seguretat</item>
+        <item>El teu primer número de telèfon?</item>
+        <item>"Com es diu el teu millor amic d'infantesa?"</item>
+        <item>Com es deia el teu primer mestre?</item>
+        <item>Com es deia el cap de la teva primera feina?</item>
+        <item>Quina és la matrícula del teu vehicle?</item>
+    </string-array>
+</resources>

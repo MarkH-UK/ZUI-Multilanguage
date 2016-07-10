@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bārs</item>
+        <item>Kafejnīca</item>
+        <item>DUS</item>
+        <item>Kinoteātris</item>
+        <item>Apmešanās vieta</item>
+        <item>Naktsklubs</item>
+        <item>Muzejs</item>
+        <item>Restorāns</item>
+        <item>Tirdzniecības centrs</item>
+        <item>Veikals</item>
+        <item>Pārtika vai lielveikals</item>
+        <item>Cits</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>nedroša</item>
+        <item>vidēja</item>
+        <item>laba</item>
+        <item>droša</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Versija</item>
+        <item>Izstrādātājs</item>
+        <item>Mazumtirdzniecība</item>
+        <item>Demonstrācija</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Tālruņa un automašīnas programmatūra nav saderīga. Lai iegūtu detalizētu informāciju, apmeklējiet vietni &lt;a href="android.com/auto">android.com/auto&lt;/a>.</item>
+        <item>Automašīna ziņoja par nepareizu audio un/vai video konfigurāciju kopu.</item>
+        <item>"USB savienojums nedarbojas pareizi. Izmēģiniet tālāk norādītās darbības. 
+
+• Kabelim ir jābūt pareizi pievienotam abos galos. 
+• Ir jāizmanto datu USB kabelis. 
+• Automašīnā un tālrunī ir jābūt iestatītam pareizam datumam un laikam."</item>
+        <item>Automašīna pārtrauca Android Auto darbību.</item>
+        <item>Android Auto sesija apturēta pēc pieprasījuma.</item>
+        <item>Iespējams, automašīnas programmatūra ir novecojusi. Lai iegūtu detalizētu informāciju un atbalstu, sazinieties ar ražotāju.</item>
+        <item>Automašīnas programmatūra neizturēja Android Auto drošības pārbaudes. Lai iegūtu detalizētu informāciju un atbalstu, sazinieties ar ražotāju.</item>
+        <item>Automašīnas programmatūra neizturēja Android Auto drošības pārbaudes. Automašīnas datumam un laikam ir jābūt iestatītiem pareizi, un lietotnei Android Auto ir jābūt atjauninātai.</item>
+        <item>Iestājās darbības noildze. Izveidojiet kļūdu pārskatu un iesniedziet atsauksmes.</item>
+        <item>Šķiet, ka nav instalēta palaišanas programma. Vai tālrunis ir iestatīts pareizi?</item>
+        <item>Radās grafikas konveijera kļūda. Izveidojiet kļūdu pārskatu un iesniedziet atsauksmes.</item>
+        <item>Automašīna neatbild uz ziņojumiem no tālruņa. Iespējams, automašīnas sistēma nedarbojas pareizi.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Lidosta</item>
+        <item>Bankomāts</item>
+        <item>Banka</item>
+        <item>Bārs</item>
+        <item>Autobusa pietura</item>
+        <item>Kafejnīca</item>
+        <item>Kempings</item>
+        <item>Kapsēta</item>
+        <item>Baznīca</item>
+        <item>Pilsētas dome</item>
+        <item>Uzņēmums</item>
+        <item>Degvielas uzpildes stacija</item>
+        <item>Pārtika vai lielveikals</item>
+        <item>Hinduistu templis</item>
+        <item>Slimnīca</item>
+        <item>Bibliotēka</item>
+        <item>Apmešanās vieta</item>
+        <item>Mošeja</item>
+        <item>Kinoteātris</item>
+        <item>Muzejs</item>
+        <item>Parks</item>
+        <item>Autostāvvieta</item>
+        <item>Godināšanas vieta</item>
+        <item>Policijas iecirknis</item>
+        <item>Pasta nodaļa</item>
+        <item>Restorāns</item>
+        <item>Skola</item>
+        <item>Veikals</item>
+        <item>Metro pietura</item>
+        <item>Sinagoga</item>
+        <item>Dzelzceļa pietura</item>
+        <item>Sabiedriskā transporta pietura</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Janvāris</item>
+        <item>Februāris</item>
+        <item>Marts</item>
+        <item>Aprīlis</item>
+        <item>Maijs</item>
+        <item>Jūnijs</item>
+        <item>Jūlijs</item>
+        <item>Augusts</item>
+        <item>Septembris</item>
+        <item>Oktobris</item>
+        <item>Novembris</item>
+        <item>Decembris</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Pārtraukt koplietošanu</item>
+        <item>15 minūtes</item>
+        <item>30 minūtes</item>
+        <item>1 stunda</item>
+        <item>Bez ierobežojuma</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Pārtraukt kopīgošanu</item>
+        <item>15 minūtes</item>
+        <item>30 minūtes</item>
+        <item>1 stunda</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Izvēlēties drošības jautājumu</item>
+        <item>Kāds ir jūsu pirmais tālruņa numurs?</item>
+        <item>Kāds ir jūsu bērnības labākā drauga vārds?</item>
+        <item>Kāds ir jūsu pirmā skolotāja vārds un uzvārds?</item>
+        <item>Kāds ir vadītāja vārds un uzvārds jūsu pirmajā darba vietā?</item>
+        <item>Kāds ir jūsu transportlīdzekļa reģistrācijas numurs?</item>
+    </string-array>
+</resources>

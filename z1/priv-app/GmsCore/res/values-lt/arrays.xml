@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Baras</item>
+        <item>Kavinė</item>
+        <item>Degalinė</item>
+        <item>Kino teatras</item>
+        <item>Apgyvendinimas</item>
+        <item>Naktinis klubas</item>
+        <item>Muziejus</item>
+        <item>Restoranas</item>
+        <item>Prekybos centras</item>
+        <item>Parduotuvė</item>
+        <item>Bakal. pard. ar prek. c.</item>
+        <item>Kita</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>silpnas</item>
+        <item>vidutiniškas</item>
+        <item>geras</item>
+        <item>stiprus</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>ALR</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Laidos versija</item>
+        <item>Kūrėjo versija</item>
+        <item>Mažmeninė prekyba</item>
+        <item>Demonstracinė versija</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Telefone ir automobilyje veikia nesuderinama programinė įranga. Daugiau informacijos pateikiama apsilankius adresu &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Automobilyje nurodytas netinkamas garso ir (arba) vaizdo įrašų konfigūracijų rinkinys.</item>
+        <item>"USB jungtis netinkamai veikia. Išbandykite šiuos veiksmus: 
+
+• Įsitikinkite, kad abu laido galai tinkamai prijungti. 
+• Įsitikinkite, kad naudojate duomenų USB laidą. 
+• Įsitikinkite, kad tiek automobilio, tiek telefono data ir laikas nustatyti tinkamai."</item>
+        <item>Automobilyje nustojo veikti „Android Auto“.</item>
+        <item>„Android Auto“ sesija sustabdyta, kaip nurodyta.</item>
+        <item>Gali būti, kad automobilio programinė įranga pasenusi. Išsamios informacijos ir pagalbos galite gauti susisiekę su gamintoju.</item>
+        <item>Automobilio programinė įranga neatitiko „Android Auto“ saugos patikros reikalavimų. Išsamios informacijos ir pagalbos galite gauti susisiekę su gamintoju.</item>
+        <item>Automobilio programinė įranga neatitiko „Android Auto“ saugos patikros reikalavimų. Įsitikinkite, kad automobilio data ir laikas nustatyti tinkamai, o „Android Auto“ atnaujinta.</item>
+        <item>Baigėsi veiksmo skirtasis laikas. Turėtumėte užfiksuoti trikties ataskaitą ir pateikti atsiliepimą.</item>
+        <item>Panašu, kad nesate įdiegę paleidimo priemonės. Ar telefonas tinkamai nustatytas?</item>
+        <item>Grafikos komandų grandinė ką tik išnyko. Turėtumėte užfiksuoti trikties ataskaitą ir pateikti atsiliepimą.</item>
+        <item>Automobilyje neatsakoma į pranešimus iš telefono. Gali būti, kad automobilis netinkamos būsenos.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Oro uostas</item>
+        <item>Bankomatas</item>
+        <item>Bankas</item>
+        <item>Baras</item>
+        <item>Autobusų stotis</item>
+        <item>Kavinė</item>
+        <item>Stovyklavietė</item>
+        <item>Kapinės</item>
+        <item>Bažnyčia</item>
+        <item>Rotušė</item>
+        <item>Įmonė</item>
+        <item>Degalinė</item>
+        <item>Bakalėjos parduotuvė ar didelis prekybos centras</item>
+        <item>Induistų šventykla</item>
+        <item>Ligoninė</item>
+        <item>Biblioteka</item>
+        <item>Būstas</item>
+        <item>Mečetė</item>
+        <item>Kino teatras</item>
+        <item>Muziejus</item>
+        <item>Parkas</item>
+        <item>Automobilių stovėjimo aikštelė</item>
+        <item>Maldos namai</item>
+        <item>Policijos nuovada</item>
+        <item>Paštas</item>
+        <item>Restoranas</item>
+        <item>Mokykla</item>
+        <item>Parduotuvė</item>
+        <item>Metro stotis</item>
+        <item>Sinagoga</item>
+        <item>Traukinių stotis</item>
+        <item>Viešojo transporto stotis</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>sausio mėn.</item>
+        <item>vasario mėn.</item>
+        <item>kovo mėn.</item>
+        <item>balandžio mėn.</item>
+        <item>gegužės mėn.</item>
+        <item>birželio mėn.</item>
+        <item>liepos mėn.</item>
+        <item>rugpjūčio mėn.</item>
+        <item>rugsėjo mėn.</item>
+        <item>spalio mėn.</item>
+        <item>lapkričio mėn.</item>
+        <item>gruodžio mėn.</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Nebebendrinti</item>
+        <item>15 min.</item>
+        <item>30 min.</item>
+        <item>1 val.</item>
+        <item>Neribotas laikas</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Nebebendrinti</item>
+        <item>15 min.</item>
+        <item>30 min.</item>
+        <item>1 val.</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Pasirinkite saugos klausimą</item>
+        <item>Pirmojo telefono numeris?</item>
+        <item>Geriausio vaikystės draugo vardas?</item>
+        <item>Pirmosios mokytojos vardas?</item>
+        <item>Pirmojo darbo vadovo vardas?</item>
+        <item>Transporto priemonės registracijos numeris?</item>
+    </string-array>
+</resources>

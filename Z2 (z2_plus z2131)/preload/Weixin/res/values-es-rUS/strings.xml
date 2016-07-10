@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Error de Google Play Services</string>
+    <string name="z">Una aplicación requiere que se actualice Google Play Services</string>
+    <string name="a0">%1$s requiere una actualización de la aplicación Android Wear.</string>
+    <string name="a1">Una aplicación requiere que se habilite Google Play Services</string>
+    <string name="a2">Solicitada por %1$s</string>
+    <string name="a3">Obtener Google Play Services</string>
+    <string name="a4">%1$s no se ejecutará si no instalas los servicios de Google Play en el teléfono.</string>
+    <string name="a5">%1$s no se ejecutará si no instalas los servicios de Google Play en la tablet.</string>
+    <string name="a6">Descargar Google Play Services</string>
+    <string name="a7">Activar Google Play Services</string>
+    <string name="a8">%1$s no funcionará a menos que habilites los servicios de Google Play.</string>
+    <string name="a9">Activar Google Play Services</string>
+    <string name="a_">Actualizar Google Play Services</string>
+    <string name="aa">Actualizar Android Wear</string>
+    <string name="ab">%1$s no se ejecutará a menos que actualices los servicios de Google Play.</string>
+    <string name="ac">%1$s no se ejecutará a menos que actualices la aplicación Android Wear.</string>
+    <string name="ad">Actualización servicios de Google Play</string>
+    <string name="ae">%1$s no se ejecutará sin los servicios de Google Play. La plataforma se está actualizando en este momento.</string>
+    <string name="af">Error de red</string>
+    <string name="ag">Se necesita una conexión de datos para establecer conexión con Google Play Services.</string>
+    <string name="ah">Cuenta no válida</string>
+    <string name="ai">La cuenta especificada no existe en este dispositivo. Elige otra cuenta.</string>
+    <string name="aj">Error desconocido relacionado con Google Play Services</string>
+    <string name="ak">Google Play Services</string>
+    <string name="al">%1$s depende de los servicios de Google Play, que no son compatibles con tu dispositivo. Para obtener ayuda, comunícate con el fabricante.</string>
+    <string name="am">Actualizar</string>
+    <string name="an">Acceder</string>
+    <string name="ao">Acceder con Google</string>
+    <string name="ap">Abrir en el teléfono</string>
+    <string name="aq">%1$s requiere uno o más servicios de Google Play que no están disponibles en este momento. Comunícate con el programador para obtener ayuda.</string>
+    <string name="ar">Error al acceder</string>
+    <string name="as">Se produjo un error al acceder con la cuenta especificada. Selecciona otra cuenta.</string>
+</resources>

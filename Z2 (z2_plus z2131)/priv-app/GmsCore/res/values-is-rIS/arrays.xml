@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kaffihús</item>
+        <item>Bensínstöð</item>
+        <item>Kvikmyndahús</item>
+        <item>Gisting</item>
+        <item>Næturklúbbur</item>
+        <item>Safn</item>
+        <item>Veitingastaður</item>
+        <item>Verslunarmiðstöð</item>
+        <item>Verslun</item>
+        <item>Matvöru- eða stórmarkaður</item>
+        <item>Annað</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>lítill</item>
+        <item>sæmilegur</item>
+        <item>ágætur</item>
+        <item>mikill</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Útgáfa</item>
+        <item>Þróunarútgáfa</item>
+        <item>Smásala</item>
+        <item>Prufuútgáfa</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Hugbúnaðarútgáfur símans og bílsins eru ekki samhæfar. Frekari upplýsingar eru á &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Bíllinn hefur tilkynnt um rangt safn hljóð- og/eða myndstillinga.</item>
+        <item>"USB-tengingin virkar ekki rétt. Það sem þú getur prófað: 
+
+• Gakktu úr skugga um að snúran sé rétt tengd beggja vegna. 
+• Gakktu úr skugga um að þú sért að nota USB-gagnasnúru. 
+• Gakktu úr skugga um að dagsetning og tími séu rétt stillt bæði í bílnum og símanum."</item>
+        <item>Bíllinn hætti að keyra Android Auto.</item>
+        <item>Android Auto lotan var stöðvuð eins og beðið var um.</item>
+        <item>Hugbúnaður bílsins kann að vera úreltur. Hafðu samband við framleiðandann til að fá frekari upplýsingar og aðstoð.</item>
+        <item>Hugbúnaður bílsins þíns stenst ekki öryggispróf Android Auto. Hafðu samband við framleiðandann til að fá frekari upplýsingar og aðstoð.</item>
+        <item>Hugbúnaður bílsins þíns stenst ekki öryggispróf Android Auto. Gakktu úr skugga um að dagsetning og tími bílsins séu rétt stillt og að Android Auto hafi verið uppfært.</item>
+        <item>Aðgerð rann út á tíma. Þú ættir að næla þér í villuskýrslu og tilkynna okkur.</item>
+        <item>Þú virðist ekki vera með ræsiforrit uppsett. Er síminn rétt settur upp?</item>
+        <item>Gagnatenging myndefnis rofnaði. Þú ættir að næla þér í villuskýrslu og tilkynna okkur.</item>
+        <item>Bíllinn svarar ekki skilaboðum símans. Bíllinn kann að vera í rangri stöðu.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Flugvöllur</item>
+        <item>Hraðbanki</item>
+        <item>Banki</item>
+        <item>Krá</item>
+        <item>Strætóstöð</item>
+        <item>Kaffihús</item>
+        <item>Tjaldstæði</item>
+        <item>Kirkjugarður</item>
+        <item>Kirkja</item>
+        <item>Ráðhús</item>
+        <item>Fyrirtæki</item>
+        <item>Bensínstöð</item>
+        <item>Matvöru- eða stórmarkaður</item>
+        <item>Musteri hindúa</item>
+        <item>Sjúkrahús</item>
+        <item>Bókasafn</item>
+        <item>Gisting</item>
+        <item>Moska</item>
+        <item>Kvikmyndahús</item>
+        <item>Safn</item>
+        <item>Almenningsgarður</item>
+        <item>Bílastæði</item>
+        <item>Trúarsamkomuhús</item>
+        <item>Lögreglustöð</item>
+        <item>Pósthús</item>
+        <item>Veitingastaður</item>
+        <item>Skóli</item>
+        <item>Verslun</item>
+        <item>Neðanjarðarlestarstöð</item>
+        <item>Samkunduhús gyðinga</item>
+        <item>Lestarstöð</item>
+        <item>Umferðarmiðstöð</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Janúar</item>
+        <item>Febrúar</item>
+        <item>Mars</item>
+        <item>Apríl</item>
+        <item>Maí</item>
+        <item>Júní</item>
+        <item>Júlí</item>
+        <item>Ágúst</item>
+        <item>September</item>
+        <item>Október</item>
+        <item>Nóvember</item>
+        <item>Desember</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Hætta að deila</item>
+        <item>15 mínútur</item>
+        <item>30 mínútur</item>
+        <item>1 klukkustund</item>
+        <item>Án tímamarka</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Hætta að deila</item>
+        <item>15 mínútur</item>
+        <item>30 mínútur</item>
+        <item>1 klukkustund</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

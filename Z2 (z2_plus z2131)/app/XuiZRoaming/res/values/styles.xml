@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/title_bg</item>
+    </style>
+    <style name="AppTheme2" parent="@android:style/Theme.Material.NoActionBar" />
+    <style name="TranslucentTheme">
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:clipToPadding">false</item>
+    </style>
+    <style name="animation_fade">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+    <style name="contactFieldStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:textColorHint">@color/hint_color</item>
+        <item name="android:background">@drawable/input_field_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:paddingStart">7.0dip</item>
+        <item name="android:paddingEnd">7.0dip</item>
+    </style>
+    <style name="contentText">
+        <item name="android:textSize">@dimen/font_normal</item>
+        <item name="android:textColor">@color/dark_text</item>
+    </style>
+    <style name="dark_background_text">
+        <item name="android:textSize">@dimen/font_small</item>
+        <item name="android:textColor">@color/gray_deep</item>
+        <item name="android:paddingStart">@dimen/padding_normal</item>
+    </style>
+    <style name="dividerLineStyle">
+        <item name="android:background">@color/divider_line_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/divider_line_height</item>
+    </style>
+    <style name="gray_header_title">
+        <item name="android:textSize">13.0dip</item>
+        <item name="android:textColor">@color/bottom_hint</item>
+        <item name="android:layout_marginBottom">7.0dip</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_marginStart">@dimen/padding_normal</item>
+    </style>
+    <style name="largeBlueButton">
+        <item name="android:background">@drawable/btn_large_round</item>
+        <item name="android:layout_width">@dimen/button_width_tall</item>
+        <item name="android:layout_height">@dimen/button_height_normal</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="largeBlueButtonText">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textColor">@color/blue_button</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="largeGrayButton">
+        <item name="android:background">@drawable/gray_button</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/button_height_tall</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <style name="largeGrayButtonText">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textColor">@color/gray_button</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="largerBlackText">
+        <item name="android:textSize">@dimen/font_larger</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="light_background_text">
+        <item name="android:textSize">@dimen/font_small</item>
+        <item name="android:textColor">@color/gray_little</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="middleGrayButton">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">@drawable/round_white_bg</item>
+        <item name="android:layout_width">222.0dip</item>
+        <item name="android:layout_height">@dimen/button_height_short</item>
+    </style>
+    <style name="middleGrayButtonText">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="normalGrayButton">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">@drawable/round_white_bg</item>
+    </style>
+    <style name="normalGrayButtonText">
+        <item name="android:textSize">@dimen/font_normal</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="payCheckboxStyle">
+        <item name="android:layout_gravity">center|right</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="payIconStyle">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">24.0dip</item>
+        <item name="android:layout_height">24.0dip</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="payTextStyle">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textColor">@color/gray_button</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/spacing_small</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="profileTopButtonStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:background">@drawable/red_button</item>
+        <item name="android:layout_width">115.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="progressBarHorizontal" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">@dimen/message_progress_bg_height</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/progress_horizontal</item>
+        <item name="android:minHeight">@dimen/message_progress_bg_height</item>
+    </style>
+    <style name="qa_answer_style">
+        <item name="android:textSize">@dimen/QA_answer_text_size</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/gap_size_dp</item>
+        <item name="android:layout_marginTop">5.0dip</item>
+        <item name="android:layout_marginRight">@dimen/gap_size_dp</item>
+    </style>
+    <style name="qa_question_style">
+        <item name="android:textSize">@dimen/QA_quetion_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/gap_size_dp</item>
+        <item name="android:layout_marginTop">@dimen/gap_size_dp</item>
+        <item name="android:layout_marginRight">@dimen/gap_size_dp</item>
+    </style>
+    <style name="right_text">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">@color/red_button</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/default_padding</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="rowTitleText">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textColor">@color/dark_text</item>
+    </style>
+    <style name="settingArrowStyle">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="settingPrimaryTextStyle">
+        <item name="android:textSize">@dimen/font_large</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="settingSecondaryTextStyle">
+        <item name="android:textSize">@dimen/font_small</item>
+        <item name="android:textColor">@color/gray_list</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="settingsRowStyle">
+        <item name="android:background">@drawable/setting_row_bg</item>
+        <item name="android:paddingLeft">@dimen/padding_normal</item>
+        <item name="android:paddingRight">@dimen/padding_normal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">52.0dip</item>
+    </style>
+    <style name="tabIconStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="tabLayoutStyle">
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="tabTextStyle">
+        <item name="android:textSize">@dimen/font_small</item>
+        <item name="android:textColor">@color/tab_text</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/spacing_tiny</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+</resources>

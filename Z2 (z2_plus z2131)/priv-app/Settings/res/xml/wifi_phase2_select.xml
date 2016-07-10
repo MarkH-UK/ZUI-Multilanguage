@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/please_select_phase2"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.RadioPreference android:key="wifi_phase2_none" />
+    <com.android.settings.RadioPreference android:key="wifi_phase2_pap" />
+    <com.android.settings.RadioPreference android:key="wifi_phase2_mschap" />
+    <com.android.settings.RadioPreference android:key="wifi_phase2_mschapv2" />
+    <com.android.settings.RadioPreference android:key="wifi_phase2_gtc" />
+    <PreferenceCategory android:title="" />
+</PreferenceScreen>

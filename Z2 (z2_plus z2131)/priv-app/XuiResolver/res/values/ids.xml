@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="target_badge">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="extend_name">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="resolver_list">false</item>
+    <item type="id" name="empty">false</item>
+    <item type="id" name="resolver_more">false</item>
+    <item type="id" name="button_bar">false</item>
+    <item type="id" name="button_once">false</item>
+    <item type="id" name="button_always">false</item>
+    <item type="id" name="button_resolver_cancel">false</item>
+</resources>

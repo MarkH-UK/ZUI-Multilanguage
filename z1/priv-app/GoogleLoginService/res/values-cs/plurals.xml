@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Tento účet nelze použít, protože v něm chybí aplikace (^1). Kontaktujte administrátora domény "&lt;b>^2&lt;/b>" nebo se přihlaste pomocí jiného účtu. "</item>
+        <item quantity="one">" Tento účet nelze použít, protože v něm chybí aplikace (^1). Kontaktujte administrátora domény "&lt;b>^2&lt;/b>" nebo se přihlaste pomocí jiného účtu. "</item>
+        <item quantity="few">" Tento účet nelze použít, protože v něm chybí aplikace (^1). Kontaktujte administrátora domény "&lt;b>^2&lt;/b>" nebo se přihlaste pomocí jiného účtu. "</item>
+        <item quantity="many">" Tento účet nelze použít, protože v něm chybí aplikace (^1). Kontaktujte administrátora domény "&lt;b>^2&lt;/b>" nebo se přihlaste pomocí jiného účtu. "</item>
+    </plurals>
+</resources>

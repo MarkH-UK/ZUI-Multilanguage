@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/device_double_msim_status_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:persistent="false" android:title="@string/device_double_msim_mobile_status_title" android:key="first_sim_status" android:widgetLayout="@layout/preference_widget_forward" />
+    <PreferenceScreen android:persistent="false" android:title="@string/device_double_msim_unicom_status_title" android:key="second_sim_status" android:widgetLayout="@layout/preference_widget_forward" />
+</PreferenceScreen>

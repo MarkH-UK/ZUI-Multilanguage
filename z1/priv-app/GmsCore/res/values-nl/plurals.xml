@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d tekens te veel</item>
+        <item quantity="one">%1$d teken te veel</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d tekens over</item>
+        <item quantity="one">%1$d teken over</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google-accounts</item>
+        <item quantity="one">%d Google-account</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Dit apparaat is gebruikt om een ^1 te configureren met je Google-accounts en de bijbehorende gegevens</item>
+        <item quantity="one">Dit apparaat is gebruikt om een ^1 te configureren met je Google-account en de bijbehorende gegevens</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">1 minuut</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Deze uitnodigingen zijn niet verzonden vanwege een fout</item>
+        <item quantity="one">Deze uitnodiging is niet verzonden vanwege een fout</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Deze uitnodigingen kunnen nu niet worden verzonden. Je kunt ze opnieuw verzenden in Google Play > Mijn account.</item>
+        <item quantity="one">Deze uitnodiging kan nu niet worden verzonden. Je kunt de uitnodiging opnieuw verzenden in Google Play > Mijn account.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">Nog %d uitnodigingen over</item>
+        <item quantity="one">Nog %d uitnodiging over</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d nieuwe berichten</item>
+        <item quantity="one">1 nieuw bericht</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d mensen vóór je</item>
+        <item quantity="one">1 persoon vóór je</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d kringen</item>
+        <item quantity="one">1 kring</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d u.</item>
+        <item quantity="one">1 u.</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">1 min.</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">1 dag</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d u.</item>
+        <item quantity="one">1 u.</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">1 min.</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d mensen</item>
+        <item quantity="one">1 persoon</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Door %1$s en %2$d andere apps</item>
+        <item quantity="one">Door %1$s en %2$d andere app</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s mensen</item>
+        <item quantity="one">%1$s persoon</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d volgers</item>
+        <item quantity="one">Eén volger</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d weergaven</item>
+        <item quantity="one">Eén weergave</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Je Google-accounts en gegevens kopiëren…</item>
+        <item quantity="one">Je Google-account en gegevens kopiëren…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Dit apparaat is gebruikt om een ^1 in te stellen met je Google-accounts en gegevens</item>
+        <item quantity="one">Dit apparaat is gebruikt om een ^1 in te stellen met je Google-account en gegevens</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Opnieuw opstarten voor installatie over %d seconden…</item>
+        <item quantity="one">Opnieuw opstarten voor installatie over 1 seconde…</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">Lijst met %1$d adresopties wordt weergegeven</item>
+        <item quantity="one">Lijst met één adresoptie wordt weergegeven</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">Lijst met %1$d items wordt weergegeven.</item>
+        <item quantity="one">Lijst met één item wordt weergegeven.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">Lijst met %1$d opties voor betaalmethoden wordt weergegeven</item>
+        <item quantity="one">Lijst met één betaalmethode wordt weergegeven</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">"Lijst met %1$d opties voor loyaliteitsprogramma's wordt weergegeven"</item>
+        <item quantity="one">Lijst met één loyaliteitsprogramma wordt weergegeven</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">minuten</item>
+        <item quantity="one">minuut</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt &amp;lt;price>elke %2$d dagen automatisch %1$s&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt &amp;lt;price>elke dag automatisch %1$s&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt &amp;lt;price>elke %2$d dagen automatisch %1$s&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d dagen&amp;lt;/duration>.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt &amp;lt;price>elke dag automatisch %1$s&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d dagen&amp;lt;/duration>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt er &amp;lt;price>elke %2$d dagen automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt er &amp;lt;price>elke dag automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt er &amp;lt;price>elke %2$d dagen automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d dagen&amp;lt;/duration>.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt er &amp;lt;price>elke dag automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d dagen&amp;lt;/duration>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt er &amp;lt;price>elke %2$d maanden automatisch %1$s&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt er &amp;lt;price>elke maand automatisch %1$s&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt er &amp;lt;price>elke %2$d maanden automatisch %1$s&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d maanden&amp;lt;/duration>.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt er &amp;lt;price>elke maand automatisch %1$s&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d maanden&amp;lt;/duration>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt er &amp;lt;price>elke %2$d maanden automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt er &amp;lt;price>elke maand automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt er &amp;lt;price>elke %2$d maanden automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d maanden&amp;lt;/duration>.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt er &amp;lt;price>elke maand automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d maanden&amp;lt;/duration>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt er &amp;lt;price>elke %2$d jaar automatisch %1$s&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt er &amp;lt;price>elk jaar automatisch %1$s&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt er &amp;lt;price>elke %2$d jaar automatisch %1$s&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d jaar&amp;lt;/duration>.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt er &amp;lt;price>elk jaar automatisch %1$s&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d jaar&amp;lt;/duration>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt er &amp;lt;price>elke %2$d jaar automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%3$s&amp;lt;/start_time> wordt er &amp;lt;price>elk jaar automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht totdat u uw abonnement opzegt.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt er &amp;lt;price>elke %2$d jaar automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d jaar&amp;lt;/duration>.</item>
+        <item quantity="one">Vanaf &amp;lt;start_time>%4$s&amp;lt;/start_time> wordt er &amp;lt;price>elk jaar automatisch %1$s plus toepasselijke btw&amp;lt;/price> in rekening gebracht gedurende de komende &amp;lt;duration>%3$d jaar&amp;lt;/duration>.</item>
+    </plurals>
+</resources>

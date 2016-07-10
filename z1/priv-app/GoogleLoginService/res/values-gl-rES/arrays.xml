@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Escolle unha pregunta de seguranza</item>
+        <item>Primeiro número de teléfono?</item>
+        <item>Nome do teu mellor amigo da infancia?</item>
+        <item>Nome do teu primeiro profesor?</item>
+        <item>Nome do xefe no teu primeiro traballo?</item>
+        <item>Matrícula do vehículo?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>pouco seguro</item>
+        <item>aceptable</item>
+        <item>seguro</item>
+        <item>moi seguro</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Home</item>
+        <item>Muller</item>
+        <item>Outro</item>
+    </string-array>
+</resources>

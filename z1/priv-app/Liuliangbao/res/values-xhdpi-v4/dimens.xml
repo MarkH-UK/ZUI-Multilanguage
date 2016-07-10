@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_8">15.0sp</dimen>
+    <dimen name="text_size_9">10.0sp</dimen>
+    <dimen name="text_size_10">14.0sp</dimen>
+    <dimen name="oupeng_notification_title_text_size">16.0sp</dimen>
+    <dimen name="oupeng_notification_message_text_size">13.0sp</dimen>
+</resources>

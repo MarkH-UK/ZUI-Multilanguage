@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="wifiPanel">false</item>
+    <item type="id" name="wifiCheck">false</item>
+    <item type="id" name="checkbox">false</item>
+</resources>

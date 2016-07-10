@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="account_option_checkout_height">@dimen/single_line_height</item>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="push_progressBar_image">false</item>
+    <item type="id" name="push_progressBar_right_layout">false</item>
+    <item type="id" name="push_progressBar_center_up">false</item>
+    <item type="id" name="push_progressBar_title">false</item>
+    <item type="id" name="push_progressBar_status">false</item>
+    <item type="id" name="push_progressBar">false</item>
+    <item type="id" name="push_progressBar_percent">false</item>
+    <item type="id" name="push_progressBar_net">false</item>
+    <item type="id" name="push_notif_big_color">false</item>
+    <item type="id" name="push_notif_big_image">false</item>
+    <item type="id" name="push_notif_big_btn_layout">false</item>
+    <item type="id" name="push_notif_big_btn">false</item>
+    <item type="id" name="push_notif_big_btn_image">false</item>
+    <item type="id" name="push_notif_big_download_btn_text">false</item>
+    <item type="id" name="push_notif_normal_background_color">false</item>
+    <item type="id" name="push_notif_normal_icon">false</item>
+    <item type="id" name="push_notif_normal_title">false</item>
+    <item type="id" name="push_notif_normal_content">false</item>
+    <item type="id" name="push_notif_normal_time">false</item>
+    <item type="id" name="push_popup_img">false</item>
+    <item type="id" name="push_popup_close">false</item>
+    <item type="id" name="push_popup_close_txt">false</item>
+    <item type="id" name="push_popup_btn">false</item>
+    <item type="id" name="push_popup_btn_txt">false</item>
+    <item type="id" name="push_popup_btn_right">false</item>
+    <item type="id" name="push_popup_btn_right_txt">false</item>
+</resources>

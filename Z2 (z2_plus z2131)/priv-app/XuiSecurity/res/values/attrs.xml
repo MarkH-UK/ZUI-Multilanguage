@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="selectorViewStyle" format="reference" />
+    <attr name="refreshableViewStyle" format="reference" />
+    <attr name="maxVisibleCount" format="integer" />
+    <attr name="layoutId" format="integer" />
+    <attr name="swipeOpenOnLongPress" format="boolean" />
+    <attr name="swipeAnimationTime" format="integer" />
+    <attr name="swipeOffsetLeft" format="dimension" />
+    <attr name="swipeOffsetRight" format="dimension" />
+    <attr name="swipeCloseAllItemsWhenMoveList" format="boolean" />
+    <attr name="swipeFrontView" format="reference" />
+    <attr name="swipeBackView" format="reference" />
+    <attr name="swipeMode">
+        <enum name="none" value="0" />
+        <enum name="both" value="1" />
+        <enum name="right" value="2" />
+        <enum name="left" value="3" />
+    </attr>
+    <attr name="swipeActionLeft">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="swipeActionRight">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="swipeDrawableChecked" format="reference" />
+    <attr name="swipeDrawableUnchecked" format="reference" />
+    <attr name="swipeWithPinnerHeaderOpenOnLongPress" format="boolean" />
+    <attr name="swipeWithPinnerHeaderAnimationTime" format="integer" />
+    <attr name="swipeWithPinnerHeaderOffsetLeft" format="dimension" />
+    <attr name="swipeWithPinnerHeaderOffsetRight" format="dimension" />
+    <attr name="swipeWithPinnerHeaderCloseAllItemsWhenMoveList" format="boolean" />
+    <attr name="swipeWithPinnerHeaderFrontView" format="reference" />
+    <attr name="swipeWithPinnerHeaderBackView" format="reference" />
+    <attr name="swipeWithPinnerHeaderMode">
+        <enum name="none" value="0" />
+        <enum name="both" value="1" />
+        <enum name="right" value="2" />
+        <enum name="left" value="3" />
+    </attr>
+    <attr name="swipeWithPinnerHeaderActionLeft">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="swipeWithPinnerHeaderActionRight">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="swipeWithPinnerHeaderDrawableChecked" format="reference" />
+    <attr name="swipeWithPinnerHeaderDrawableUnchecked" format="reference" />
+    <attr name="roundColor" format="color" />
+    <attr name="roundWidth" format="dimension" />
+    <attr name="arcWidth" format="dimension" />
+    <attr name="text" format="string" />
+    <attr name="style">
+        <enum name="STROKE" value="0" />
+        <enum name="FILL" value="1" />
+    </attr>
+    <attr name="stuckShadowHeight" format="dimension" />
+    <attr name="stuckShadowDrawable" format="reference" />
+    <attr name="actionSheetStyle" format="reference" />
+    <attr name="actionSheetBackground" format="reference|color" />
+    <attr name="cancelButtonBackground" format="reference|color" />
+    <attr name="otherButtonTopBackground" format="reference|color" />
+    <attr name="otherButtonMiddleBackground" format="reference|color" />
+    <attr name="otherButtonBottomBackground" format="reference|color" />
+    <attr name="otherButtonSingleBackground" format="reference|color" />
+    <attr name="textBackground" format="reference|color" />
+    <attr name="cancelButtonTextColor" format="reference|color" />
+    <attr name="otherButtonTextColor" format="reference|color" />
+    <attr name="actionSheetPadding" format="reference|dimension" />
+    <attr name="otherButtonSpacing" format="reference|dimension" />
+    <attr name="cancelButtonMarginTop" format="reference|dimension" />
+    <attr name="actionSheetTextSize" format="reference|dimension" />
+    <attr name="DeepCleanTabPageIndicatorStyle" format="reference" />
+    <attr name="umanoPanelHeight" format="dimension" />
+    <attr name="umanoShadowHeight" format="dimension" />
+    <attr name="umanoParalaxOffset" format="dimension" />
+    <attr name="umanoFadeColor" format="color" />
+    <attr name="umanoFlingVelocity" format="integer" />
+    <attr name="umanoDragView" format="reference" />
+    <attr name="umanoOverlay" format="boolean" />
+    <attr name="umanoAnchorPoint" format="float" />
+    <attr name="umanoInitialState">
+        <enum name="expanded" value="0" />
+        <enum name="collapsed" value="1" />
+        <enum name="anchored" value="2" />
+        <enum name="hidden" value="3" />
+    </attr>
+    <attr name="animation" format="boolean" />
+    <attr name="round" format="boolean" />
+    <attr name="shadow" format="boolean" />
+    <attr name="showTitle" format="boolean" />
+    <attr name="shadowColor" format="color" />
+    <attr name="background" format="color" />
+    <attr name="inside_radius" format="dimension" />
+    <attr name="shadow_radius" format="dimension" />
+    <attr name="max_value" format="integer" />
+    <attr name="backgroundcolor" format="color" />
+    <attr name="speedup_selectorViewStyle" format="reference" />
+    <attr name="speedup_refreshableViewStyle" format="reference" />
+    <attr name="speedup_maxVisibleCount" format="integer" />
+    <attr name="speedup_textSize" format="integer" />
+    <attr name="speedup_layoutId" format="integer" />
+    <attr name="speedup_swipeOpenOnLongPress" format="boolean" />
+    <attr name="speedup_swipeAnimationTime" format="integer" />
+    <attr name="speedup_swipeOffsetLeft" format="dimension" />
+    <attr name="speedup_swipeOffsetRight" format="dimension" />
+    <attr name="speedup_swipeCloseAllItemsWhenMoveList" format="boolean" />
+    <attr name="speedup_swipeFrontView" format="reference" />
+    <attr name="speedup_swipeBackView" format="reference" />
+    <attr name="speedup_swipeMode">
+        <enum name="none" value="0" />
+        <enum name="both" value="1" />
+        <enum name="right" value="2" />
+        <enum name="left" value="3" />
+    </attr>
+    <attr name="speedup_swipeActionLeft">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="speedup_swipeActionRight">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="speedup_swipeDrawableChecked" format="reference" />
+    <attr name="speedup_swipeDrawableUnchecked" format="reference" />
+    <attr name="speedup_swipeWithPinnerHeaderOpenOnLongPress" format="boolean" />
+    <attr name="speedup_swipeWithPinnerHeaderAnimationTime" format="integer" />
+    <attr name="speedup_swipeWithPinnerHeaderOffsetLeft" format="dimension" />
+    <attr name="speedup_swipeWithPinnerHeaderOffsetRight" format="dimension" />
+    <attr name="speedup_swipeWithPinnerHeaderCloseAllItemsWhenMoveList" format="boolean" />
+    <attr name="speedup_swipeWithPinnerHeaderFrontView" format="reference" />
+    <attr name="speedup_swipeWithPinnerHeaderBackView" format="reference" />
+    <attr name="speedup_swipeWithPinnerHeaderMode">
+        <enum name="none" value="0" />
+        <enum name="both" value="1" />
+        <enum name="right" value="2" />
+        <enum name="left" value="3" />
+    </attr>
+    <attr name="speedup_swipeWithPinnerHeaderActionLeft">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="speedup_swipeWithPinnerHeaderActionRight">
+        <enum name="reveal" value="0" />
+        <enum name="dismiss" value="1" />
+        <enum name="choice" value="2" />
+    </attr>
+    <attr name="speedup_swipeWithPinnerHeaderDrawableChecked" format="reference" />
+    <attr name="speedup_swipeWithPinnerHeaderDrawableUnchecked" format="reference" />
+</resources>

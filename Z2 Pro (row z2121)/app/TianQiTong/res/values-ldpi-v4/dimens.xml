@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="settings_about_top_margin">25.0dip</dimen>
+    <dimen name="app_update_dialog_height">300.0dip</dimen>
+    <dimen name="app_update_dialog_width">300.0dip</dimen>
+    <dimen name="baselayout_title_height">48.659973dip</dimen>
+</resources>

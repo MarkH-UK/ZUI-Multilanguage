@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CredentialsTypographyBase">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#de000000</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Games.AlertDialog" parent="@style/Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textAppearance">@style/Games.AlertDialog.Body</item>
+        <item name="android:windowTitleStyle">@style/Games.AlertDialog.Title</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="colorAccent">@color/play_games_theme_primary</item>
+        <item name="buttonBarPositiveButtonStyle">@style/Games.AlertDialog.PositiveButton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/Games.AlertDialog.NegativeButton</item>
+        <item name="buttonBarNeutralButtonStyle">@style/Games.AlertDialog.NeutralButton</item>
+    </style>
+    <style name="Games.AlertDialog.Body" parent="@style/Games.AlertDialog">
+        <item name="android:textSize">@dimen/games_dialog_body_font_size</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">@color/games_dialog_body_color</item>
+        <item name="android:fontFamily">@string/games_font_roboto_medium</item>
+    </style>
+    <style name="Games.AlertDialog.NegativeButton" parent="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">@color/games_dialog_btn_negative</item>
+    </style>
+    <style name="Games.AlertDialog.NeutralButton" parent="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">@color/games_dialog_btn_negative</item>
+    </style>
+    <style name="Games.AlertDialog.PositiveButton" parent="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">@color/games_dialog_btn_positive</item>
+    </style>
+    <style name="Games.AlertDialog.Title" parent="@style/Games.AlertDialog">
+        <item name="android:textSize">@dimen/games_dialog_title_font_size</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">@color/games_dialog_title_color</item>
+        <item name="android:gravity">left</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">@string/games_font_roboto_medium</item>
+    </style>
+    <style name="GrantCredentialsTextCaps">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/auth_grant_credentials_secondary_text_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="GrantCredentialsTextTitle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/auth_grant_credentials_text_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="PlaceAutocompleteErrorButtonText" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/place_autocomplete_error_button</item>
+        <item name="android:fontFamily">Roboto-Medium</item>
+    </style>
+    <style name="TextAppearance.FamilyManagement.FlowTitle" parent="@style/Base.TextAppearance.FamilyManagement.FlowTitle">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="auth_signin_text.error.font" parent="@style/auth_signin_text.error">
+        <item name="android:fontFamily">Roboto-Regular</item>
+    </style>
+    <style name="auth_signin_text.header.font" parent="@style/auth_signin_text.header">
+        <item name="android:fontFamily">Roboto-Medium</item>
+    </style>
+    <style name="auth_signin_text.light_text.font" parent="@style/auth_signin_text.light_text">
+        <item name="android:fontFamily">Roboto-Regular</item>
+    </style>
+    <style name="auth_signin_text.normal_text.font" parent="@style/auth_signin_text.normal_text">
+        <item name="android:fontFamily">Roboto-Regular</item>
+    </style>
+    <style name="auth_signin_text.small_light_text.font" parent="@style/auth_signin_text.small_light_text">
+        <item name="android:fontFamily">Roboto-Regular</item>
+    </style>
+    <style name="auth_signin_text_input_base.text" parent="@style/auth_signin_text_input_base">
+        <item name="android:fontFamily">Roboto-Regular</item>
+    </style>
+    <style name="gh_browseAllArticlesTitleStyle" parent="@style/common.Widget.SelectableItem">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ff3d81f7</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="gh_cardTitleStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/gh_black_opacity_54_percent</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="TrustAgentTrustedPlacesPopupWindowMenuItem">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">48.0dip</item>
+        <item name="android:drawablePadding">32.0dip</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+</resources>

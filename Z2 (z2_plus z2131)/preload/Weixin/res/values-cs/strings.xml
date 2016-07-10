@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Chyba služeb Google Play</string>
+    <string name="z">Aplikace vyžaduje aktualizaci služeb Google Play.</string>
+    <string name="a0">Aplikace %1$s vyžaduje aktualizaci aplikace Android Wear.</string>
+    <string name="a1">Aplikace vyžaduje aktivaci služeb Google Play.</string>
+    <string name="a2">Požadováno aplikací %1$s</string>
+    <string name="a3">Instalovat služby Google Play</string>
+    <string name="a4">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v telefonu nemáte.</string>
+    <string name="a5">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v tabletu nemáte.</string>
+    <string name="a6">Instalovat služby Google Play</string>
+    <string name="a7">Aktivovat služby Google Play</string>
+    <string name="a8">Ke spuštění aplikace %1$s je třeba aktivovat služby Google Play.</string>
+    <string name="a9">Aktivovat služby Google Play</string>
+    <string name="a_">Aktualizace služeb Google Play</string>
+    <string name="aa">Aktualizujte aplikaci Android Wear</string>
+    <string name="ab">Ke spuštění aplikace %1$s je třeba aktualizovat služby Google Play.</string>
+    <string name="ac">Aplikace %1$s bude fungovat po aktualizaci aplikace Android Wear.</string>
+    <string name="ad">Probíhá aktualizace služeb Google Play</string>
+    <string name="ae">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které jsou právě aktualizovány.</string>
+    <string name="af">Chyba sítě</string>
+    <string name="ag">Připojení ke službám Google Play vyžaduje datové připojení.</string>
+    <string name="ah">Neplatný účet</string>
+    <string name="ai">Zadaný účet v tomto zařízení neexistuje. Zvolte prosím jiný účet.</string>
+    <string name="aj">Nastal neznámý problém se službami Google Play.</string>
+    <string name="ak">Služby Google Play</string>
+    <string name="al">Aplikace %1$s vyžaduje služby Google Play, které ve vašem zařízení nejsou podporovány. Kontaktujte výrobce zařízení.</string>
+    <string name="am">Aktualizovat</string>
+    <string name="an">Přihlásit se</string>
+    <string name="ao">Přihlásit se účtem Google</string>
+    <string name="ap">Otevřít v telefonu</string>
+    <string name="aq">Aplikace %1$s vyžaduje jednu nebo více služeb Google Play, které aktuálně nejsou k dispozici. S žádostí o pomoc se obraťte na vývojáře.</string>
+    <string name="ar">Přihlášení se nezdařilo</string>
+    <string name="as">Při přihlašování k uvedenému účtu došlo k chybě. Zvolte prosím jiný účet.</string>
+</resources>

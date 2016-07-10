@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-authenticator android:label="@string/auth_work_account_label" android:icon="@drawable/auth_ic_work_account" android:accountType="com.google.work" android:smallIcon="@drawable/auth_ic_work_account_small" android:customTokens="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

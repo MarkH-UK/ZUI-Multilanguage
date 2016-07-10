@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>መጠጥ ቤት</item>
+        <item>ሻይ ቤት</item>
+        <item>ነዳጅ ማደያ</item>
+        <item>ሲነማ አዳራሽ</item>
+        <item>መኖሪያ</item>
+        <item>የምሽት ክለብ</item>
+        <item>ቤተ መዘክር</item>
+        <item>ምግብ ቤት</item>
+        <item>የገበያ ማዕከል</item>
+        <item>መደብር</item>
+        <item>ግሮሰሪ ወይም የገበያ ማዕከል</item>
+        <item>ሌላ</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ደካማ</item>
+        <item>ደህና</item>
+        <item>ጥሩ</item>
+        <item>ጠንካራ</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>ብሉቱዝ</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>የተለቀቀ</item>
+        <item>ገንቢ</item>
+        <item>ችርቻሮ</item>
+        <item>ቅንጭብ ማሳያ</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ስልኩ እና መኪናው ተኳሃኝ ያልሆኑ ሶፍትዌሮችን ነው እያሄዱ ያሉት። ዝርዝሮችን ለማግኘት &lt;a href="android.com/auto">android.com/auto&lt;/a> ይጎብኙ</item>
+        <item>መኪናው ትክክል ያልሆነ የኦዲዮ እና/ወይም ቪድዮ ውቅሮች ማስታወቂያ አሳይቷል።</item>
+        <item>"የዩኤስቢ ግንኙነት በትክክል እየሰራ አይደለም። የሚሞክሯቸው ነገሮች፦ 
+
+• ገመዱ በሁለቱም ጫፎች በኩል በትክክል መግጠሙን ያረጋግጡ። 
+•የዩኤስቢ ገመድ እንዳለዎት ያረጋግጡ። 
+•በሁለቱም በመኪናው እና በስልክዎ ላይ ቀኑ እና ሰዓቱ በትክክል መዘጋጀታቸውን ያረጋግጡ።"</item>
+        <item>መኪናው Android Autoን ማሄድ አቁሟል።</item>
+        <item>የAndroid Auto ክፍለ-ጊዜ ቆሟል፣ በተጠየቀው መሠረት።</item>
+        <item>የመኪናው ሶፍትዌር ጊዜው ያለፈበት ሊሆን ይችላል። ዝርዝሮችን እና ድጋፍ ለማግኘት አምራቹን ያነጋግሩ።</item>
+        <item>የመኪናዎ ሶፍትዌር የAndroid Auto ደህንነት ፍተሻዎችን አላለፈም። ዝርዝሮችን እና ድጋፍን ለማግኘት አምራቹን ያነጋግሩ።</item>
+        <item>የመኪናዎ ሶፍትዌር የAndroid Auto ደህንነት ፍተሻዎችን አላለፈም። የመኪናው ቀን እና ሰዓት በትክክል መዘጋጀቱን እና Android Auto መዘመኑን ያረጋግጡ።</item>
+        <item>አንድ እርምጃ እረፍት ወስዷል። የሳንካ ሪፖርት መያዝ እና ግብረመልስ መስጠት አለብዎት።</item>
+        <item>ማስጀመሪያ የጫኑ አይመስልም፣ ስልክዎ በትክክል ተዋቅሯል?</item>
+        <item>የግራፊክስ ቧንቧው አሁን ሞተ። የሳንካ ሪፖርት መያዝ እና ግብረመልስ መስጠት አለብዎት።</item>
+        <item>መኪና ከስልክ ለሚመጡ መልዕክቶች ምላሽ አይሰጥም። መኪና ስህተት በሆነ ሁኔታ ውስጥ ሊሆን ይችላል።</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>የአየር ማረፊያ</item>
+        <item>ኤቲኤም</item>
+        <item>ባንክ</item>
+        <item>መጠጥ ቤት</item>
+        <item>የአውቶቡስ ጣቢያ</item>
+        <item>ሻይ ቤት</item>
+        <item>የመስፈሪያ ቦታ</item>
+        <item>የመቃብር ስፍራ</item>
+        <item>ቤተ ክርስቲያን</item>
+        <item>ማዘጋጃ ቤት</item>
+        <item>ተቋም</item>
+        <item>ነዳጅ ማደያ</item>
+        <item>ግሮሰሪ ወይም የገበያ ማዕከል</item>
+        <item>የሂንዱ መቅደስ</item>
+        <item>ሆስፒታል</item>
+        <item>ቤተመጻሕፍት</item>
+        <item>መኖሪያ</item>
+        <item>መስጊድ</item>
+        <item>ፊልም ቤት</item>
+        <item>ቤተ መዘክር</item>
+        <item>መናፈሻ</item>
+        <item>የመኪና ማቆሚያ</item>
+        <item>የማምለኪያ ስፍራ</item>
+        <item>ፖሊስ ጣቢያ</item>
+        <item>ፖስታ ቤት</item>
+        <item>ምግብ ቤት</item>
+        <item>ትምህርት ቤት</item>
+        <item>መደብር</item>
+        <item>የመሿለኪያ ጣቢያ</item>
+        <item>ምኩራብ</item>
+        <item>የባቡር ጣቢያ</item>
+        <item>መሸጋገሪያ ጣቢያ</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>ጃኑዋሪ</item>
+        <item>ፌብሩዋሪ</item>
+        <item>ማርች</item>
+        <item>ኤፕሪል</item>
+        <item>ሜይ</item>
+        <item>ጁን</item>
+        <item>ጁላይ</item>
+        <item>ኦገስት</item>
+        <item>ሴፕቴምበር</item>
+        <item>ኦክቶበር</item>
+        <item>ኖቬምበር</item>
+        <item>ዲሴምበር</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>ማጋራት አቁም</item>
+        <item>15 ደቂቃዎች</item>
+        <item>30 ደቂቃዎች</item>
+        <item>1 ሰዓት</item>
+        <item>ያለጊዜ ገደብ</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>ማጋራት አቁም</item>
+        <item>15 ደቂቃዎች</item>
+        <item>30 ደቂቃዎች</item>
+        <item>1 ሰዓት</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>የድኅንነት ጥበቃ ጥያቄ ይምረጡ</item>
+        <item>የመጀመሪያ ስልክ ቁጥር?</item>
+        <item>የልጅነት ቅርብ ጓደኛ ስም?</item>
+        <item>የመጀመሪያ አስተማሪ ስም?</item>
+        <item>የመጀመሪያ ስራዎ ስራ አስኪያጅ ስም?</item>
+        <item>የተሽከርካሪ ምዝገባ ቁጥር?</item>
+    </string-array>
+</resources>

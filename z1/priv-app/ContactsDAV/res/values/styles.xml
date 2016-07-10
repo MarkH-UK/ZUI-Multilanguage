@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault" />
+    <style name="AppTheme" parent="@style/AppBaseTheme">
+        <item name="android:actionMenuTextAppearance">@style/MenuTextStyle</item>
+    </style>
+    <style name="Common" />
+    <style name="Common.EditText" parent="@style/Common">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40.0dip</item>
+        <item name="android:layout_marginTop">16.0dip</item>
+        <item name="android:paddingStart">8.0dip</item>
+    </style>
+    <style name="EditTextStyle" parent="@style/Common.EditText">
+        <item name="android:layout_marginTop">0.0dip</item>
+    </style>
+    <style name="MenuTextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/option_menu_text</item>
+    </style>
+    <style name="TextView.Heading" parent="@style/AppTheme">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">#ff7ca42b</item>
+        <item name="android:padding">5.0dip</item>
+    </style>
+</resources>

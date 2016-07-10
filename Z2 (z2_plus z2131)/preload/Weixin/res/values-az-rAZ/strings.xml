@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Google Play xidmətləri xətası</string>
+    <string name="z">Bir tətbiq Google Play Xidmətləri üçün güncəlləşmə tələb edir.</string>
+    <string name="a0">%1$s Android Wear tətbiqi üçün güncəlləşmə tələb edir.</string>
+    <string name="a1">Tətbiq Google Play Xidmətlərinin aktivləşməsini tələb edir.</string>
+    <string name="a2">%1$s tərəfindən tələb edilib</string>
+    <string name="a3">Google Play xidmətləri əldə et</string>
+    <string name="a4">%1$s Sizin telefon itkin Google Play xidmətləri olmadan çalışmaz.</string>
+    <string name="a5">%1$s tablet itkin Google Play xidmətləri olmadan çalışmaz.</string>
+    <string name="a6">Google Play xidmətlərini əldə et</string>
+    <string name="a7">Google Play xidmətlərini aktiv et</string>
+    <string name="a8">Google Play xidmətlərini aktiv etməsəniz, %1$s işləməyəcək.</string>
+    <string name="a9">Google Play xidmətlərini aktiv et</string>
+    <string name="a_">Update Google Play xidmətlərini güncəlllə</string>
+    <string name="aa">"Android Wear'i güncəlləşdirin"</string>
+    <string name="ab">%1$s Google Play xidmətləri yeniləmə halda çalışmaz.</string>
+    <string name="ac">Android Wear güncəlləşməsə, %1$s işləməyəcək.</string>
+    <string name="ad">Google Play xidmətləri təzələyirik</string>
+    <string name="ae">%1$s Hal-hazırda təzələyirik Google Play xidmətləri olmadan çalışmaz.</string>
+    <string name="af">Şəbəkə Xətası</string>
+    <string name="ag">Google Play xidmətlərinə qoşulmaq üçün data bağlantısı tələb olunur.</string>
+    <string name="ah">Etibarsız Hesab</string>
+    <string name="ai">Göstərilmiş hesab bu cihazda mövcud deyil. Fərqli hesab seçin.</string>
+    <string name="aj">Google Play xidmətləri ilə bağlı naməlum problem</string>
+    <string name="ak">Google Play xidmətləri</string>
+    <string name="al">%1$s Sizin cihaz tərəfindən dəstəklənən deyil ki, Google Play xidmətləri, əsaslanır. Yardım üçün istehsalçısı ilə əlaqə saxlayın.</string>
+    <string name="am">Güncəllə</string>
+    <string name="an">Giriş</string>
+    <string name="ao">Google ilə daxil ol</string>
+    <string name="ap">Telefonda açın</string>
+    <string name="aq">%1$s hazırda əlçatmaz olan bir və ya daha çox Google Play xidməti tələb edir.</string>
+    <string name="ar">Daxil olmadı</string>
+    <string name="as">Göstərilən hesaba daxil olarkən səhv baş verdi. Lütfən fərqli bir hesab seçin.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <include latin:keyboardLayout="@xml/keys_arabic3_left" />
+    <Key latin:keySpec="ء" />
+    <Key latin:keySpec="ؤ" />
+    <Key latin:keySpec="ر" />
+    <Key latin:moreKeys="ئ" latin:keySpec="ى" />
+    <Key latin:keySpec="ة" />
+    <Key latin:keySpec="و" />
+    <Key latin:moreKeys="ژ" latin:keySpec="ز" />
+    <Key latin:keySpec="ظ" />
+    <Key latin:keySpec="د" />
+</merge>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#adc4d4</color>
+    <color name="black">#8c8c8c</color>
+    <color name="statusbar_bg_color">#ff131419</color>
+    <color name="backup_bg">#ff070707</color>
+    <color name="statusbar_icon_color">#FFFFFF</color>
+
+</resources>

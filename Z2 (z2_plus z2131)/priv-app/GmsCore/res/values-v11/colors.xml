@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="profile_background_color">#ff000000</color>
+    <color name="wallet_button_pressed_overlay">#4d000000</color>
+    <color name="wallet_button_primary">@color/wallet_primary_dark</color>
+    <color name="wallet_ocr_button_background_light">#ffeeeeee</color>
+    <color name="wallet_ocr_button_border_light">#ffc2c2c2</color>
+    <color name="wallet_accent">@color/wallet_primary_dark</color>
+    <color name="wallet_action_bar_foreground_disabled">#40ffffff</color>
+    <color name="wallet_action_bar_foreground_normal">@android:color/white</color>
+    <color name="wallet_background">#ff333333</color>
+    <color name="wallet_background_light">#fffafafa</color>
+    <color name="wallet_background_pressed">#ff257390</color>
+    <color name="wallet_bright_foreground">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_disabled">#ff4c4c4c</color>
+    <color name="wallet_bright_foreground_disabled_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_light">@color/wallet_black</color>
+    <color name="wallet_button_disabled">#1acccccc</color>
+    <color name="wallet_button_disabled_light">#1a999999</color>
+    <color name="wallet_button_highlight">#40ffffff</color>
+    <color name="wallet_button_highlight_light">#40444444</color>
+    <color name="wallet_button_pressed">#ff4da2d2</color>
+    <color name="wallet_button_pressed_light">#ff2177a6</color>
+    <color name="wallet_button_text_disabled">#31ffffff</color>
+    <color name="wallet_button_text_disabled_light">#45000000</color>
+    <color name="wallet_button_text_primary">#deffffff</color>
+    <color name="wallet_dim_foreground">#ffbebebe</color>
+    <color name="wallet_dim_foreground_disabled">#80bebebe</color>
+    <color name="wallet_dim_foreground_disabled_light">#80323232</color>
+    <color name="wallet_dim_foreground_light">@color/wallet_dark_grey</color>
+    <color name="wallet_flat_button_pressed_light">#ffc7c7c7</color>
+    <color name="wallet_flat_button_primary_light">#20999999</color>
+    <color name="wallet_highlight">#661686c3</color>
+    <color name="wallet_link_default">@color/wallet_primary_dark</color>
+    <color name="wallet_link_disabled">#311686c3</color>
+    <color name="wallet_link_disabled_light">#1a1686c3</color>
+    <color name="wallet_material_accent">@color/wallet_google_blue</color>
+    <color name="wallet_material_button_primary">@color/wallet_material_accent</color>
+    <color name="wallet_material_link_default">@color/wallet_material_accent</color>
+    <color name="wallet_material_link_disabled">#314285f4</color>
+    <color name="wallet_material_primary">#ff455a64</color>
+    <color name="wallet_material_primary_dark">#ff303f45</color>
+    <color name="wallet_ocr_button_background_dark">#ff4c4c4c</color>
+    <color name="wallet_ocr_button_border_dark">#ff6a6a6a</color>
+    <color name="wallet_ocr_button_pressed_background">#ff767676</color>
+    <color name="wallet_ocr_button_pressed_background_light">#ffb6b6b6</color>
+    <color name="wallet_primary">#ff1ca8f4</color>
+    <color name="wallet_primary_dark">#ff1686c3</color>
+    <color name="wallet_selectable_item_highlight">#40ffffff</color>
+    <color name="wallet_selectable_item_highlight_light">#40000000</color>
+    <color name="wallet_subheader_background">#ff4c4c4c</color>
+    <color name="wallet_subheader_background_light">#ffeeeeee</color>
+    <color name="wallet_subheader_foreground">#ffcccccc</color>
+    <color name="wallet_subheader_foreground_light">#ff999999</color>
+    <item type="color" name="wallet_important_text_light">false</item>
+    <item type="color" name="wallet_normal_text_light">false</item>
+</resources>

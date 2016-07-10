@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">Rakstzīmju ierobežojums ir pārsniegts par %1$d rakstzīmēm.</item>
+        <item quantity="zero">Rakstzīmju ierobežojums ir pārsniegts par %1$d rakstzīmēm.</item>
+        <item quantity="one">Rakstzīmju ierobežojums ir pārsniegts par %1$d rakstzīmi.</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">Atlikušas %1$d rakstzīmes</item>
+        <item quantity="zero">Atlikušas %1$d rakstzīmes</item>
+        <item quantity="one">Atlikusi %1$d rakstzīme</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google konti</item>
+        <item quantity="zero">%d Google konti</item>
+        <item quantity="one">%d Google konts</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Šī ierīce tika izmantota, lai iestatītu ^1 ierīci ar jūsu Google kontiem un to datiem.</item>
+        <item quantity="zero">Šī ierīce tika izmantota, lai iestatītu ^1 ierīci ar jūsu Google kontiem un to datiem.</item>
+        <item quantity="one">Šī ierīce tika izmantota, lai iestatītu ^1 ierīci ar jūsu Google kontiem un to datiem.</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="zero">%d minūtes</item>
+        <item quantity="one">%d minūte</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Šie uzaicinājumi netika nosūtīti kļūdas dēļ.</item>
+        <item quantity="one">Šis uzaicinājums netika nosūtīts kļūdas dēļ.</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Šos uzaicinājumus pašlaik nevar nosūtīt. Varat sūtīt tos vēlreiz, izmantojot izvēlni Google Play > Mans konts.</item>
+        <item quantity="one">Šo uzaicinājumu pašlaik nevar nosūtīt. Varat sūtīt to vēlreiz, izmantojot izvēlni Google Play > Mans konts.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">Palikuši vēl %d uzaicinājumi</item>
+        <item quantity="one">Palicis vēl %d uzaicinājums</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d jauni ziņojumi</item>
+        <item quantity="zero">%1$d jaunu ziņojumu</item>
+        <item quantity="one">%1$d jauns ziņojums</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d personas gaida rindā pirms jums</item>
+        <item quantity="zero">%1$d personas gaida rindā pirms jums</item>
+        <item quantity="one">%1$d persona gaida rindā pirms jums</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d loki</item>
+        <item quantity="zero">%d loki</item>
+        <item quantity="one">%d loks</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d dienas</item>
+        <item quantity="zero">%d dienas</item>
+        <item quantity="one">%d diena</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="zero">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="zero">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d dienas</item>
+        <item quantity="zero">%d dienas</item>
+        <item quantity="one">%d diena</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="zero">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="zero">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d personas</item>
+        <item quantity="zero">%d personas</item>
+        <item quantity="one">%d persona</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Lietotnē %1$s un vēl %2$d lietotnēs</item>
+        <item quantity="zero">Lietotnē %1$s un vēl %2$d lietotnēs</item>
+        <item quantity="one">Lietotnē %1$s un vēl %2$d lietotnē</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dienas</item>
+        <item quantity="zero">%d dienas</item>
+        <item quantity="one">%d diena</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="zero">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s personas</item>
+        <item quantity="zero">%1$s personas</item>
+        <item quantity="one">%1$s persona</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d sekotāji</item>
+        <item quantity="zero">%1$,d sekotāju</item>
+        <item quantity="one">%1$,d sekotājs</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d skatījumi</item>
+        <item quantity="zero">Nav skatījumu</item>
+        <item quantity="one">%1$,d skatījums</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Notiek jūsu Google kontu un datu kopēšana…</item>
+        <item quantity="zero">Notiek jūsu Google kontu un datu kopēšana…</item>
+        <item quantity="one">Notiek jūsu Google konta un datu kopēšana…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Šī ierīce tika izmantota, lai iestatītu ierīci ^1, izmantojot jūsu Google kontus un datus</item>
+        <item quantity="zero">Šī ierīce tika izmantota, lai iestatītu ierīci ^1, izmantojot jūsu Google kontus un datus</item>
+        <item quantity="one">Šī ierīce tika izmantota, lai iestatītu ierīci ^1, izmantojot jūsu Google kontu un datus</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Pēc %d sekundēm notiks atkārtota palaišana, lai instalētu…</item>
+        <item quantity="one">Pēc 1 sekundes notiks atkārtota palaišana, lai instalētu…</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">Tiek rādīts saraksts ar %1$d adresēm</item>
+        <item quantity="zero">Tiek rādīts saraksts ar %1$d adresēm</item>
+        <item quantity="one">Tiek rādīts saraksts ar %1$d adresi</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">Tiek rādīts saraksts ar %1$d vienumiem.</item>
+        <item quantity="zero">Tiek rādīts saraksts ar %1$d vienumiem.</item>
+        <item quantity="one">Tiek rādīts saraksts ar %1$d vienumu.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">Tiek rādīts saraksts ar %1$d maksājuma veidiem</item>
+        <item quantity="zero">Tiek rādīts saraksts ar %1$d maksājuma veidiem</item>
+        <item quantity="one">Tiek rādīts saraksts ar %1$d maksājuma veidu</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">Tiek rādīts saraksts ar %1$d lojalitātes programmām</item>
+        <item quantity="zero">Tiek rādīts saraksts ar %1$d lojalitātes programmām</item>
+        <item quantity="one">Tiek rādīts saraksts ar %1$d lojalitātes programmu</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">minūtes</item>
+        <item quantity="zero">minūtes</item>
+        <item quantity="one">minūte</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d dienās&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d dienās&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d dienā&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d dienās&amp;lt;/price> nākamajās &amp;lt;duration>%3$d dienās&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d dienās&amp;lt;/price> nākamajās &amp;lt;duration>%3$d dienās&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d dienā&amp;lt;/price> nākamajās &amp;lt;duration>%3$d dienās&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d dienās&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d dienās&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d dienā&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d dienās&amp;lt;/price> nākamajās &amp;lt;duration>%3$d dienās&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi katru %2$d dienu&amp;lt;/price> nākamajās &amp;lt;duration>%3$d dienās&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d dienā&amp;lt;/price> nākamajās &amp;lt;duration>%3$d dienās&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d mēnešos&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d mēnešos&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d mēnesī&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d mēnešos&amp;lt;/price> nākamajos &amp;lt;duration>%3$d mēnešos&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d mēnešos&amp;lt;/price> nākamajos &amp;lt;duration>%3$d mēnešos&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d mēnesī&amp;lt;/price> nākamajos &amp;lt;duration>%3$d mēnešos&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d mēnešos&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d mēnešos&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d mēnesī&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d mēnešos&amp;lt;/price> nākamajos &amp;lt;duration>%3$d mēnešos&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d mēnešos&amp;lt;/price> nākamajos &amp;lt;duration>%3$d mēnešos&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d mēnesī&amp;lt;/price> nākamajos &amp;lt;duration>%3$d mēnešos&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d gados&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d gados&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d gadā&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d gados&amp;lt;/price> nākamajos &amp;lt;duration>%3$d gados&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d gados&amp;lt;/price> nākamajos &amp;lt;duration>%3$d gados&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s reizi %2$d gadā&amp;lt;/price> nākamajos &amp;lt;duration>%3$d gados&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d gados&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d gados&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Kamēr neanulēsiet abonementu, no jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d gadā&amp;lt;/price>, sākot no šāda datuma: &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d gados&amp;lt;/price> nākamajos &amp;lt;duration>%3$d gados&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="zero">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d gados&amp;lt;/price> nākamajos &amp;lt;duration>%3$d gados&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">No jums tiks automātiski iekasēta maksa &amp;lt;price>%1$s un visi piemērojamie nodokļi reizi %2$d gadā&amp;lt;/price> nākamajos &amp;lt;duration>%3$d gados&amp;lt;/duration>, sākot no šāda datuma: &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+</resources>

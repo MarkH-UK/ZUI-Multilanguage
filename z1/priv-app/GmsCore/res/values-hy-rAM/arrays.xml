@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Բար</item>
+        <item>Սրճարան</item>
+        <item>Բենզալցակայան</item>
+        <item>Կինոթատրոն</item>
+        <item>Կացարան</item>
+        <item>Գիշերային ակումբ</item>
+        <item>Թանգարան</item>
+        <item>Ռեստորան</item>
+        <item>Առևտրի կենտրոն</item>
+        <item>Խանութ</item>
+        <item>Մթերային կամ սուպերմարկետ</item>
+        <item>Այլ</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>թույլ</item>
+        <item>բավարար</item>
+        <item>Լավ</item>
+        <item>ամուր</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Թողարկում</item>
+        <item>Մշակող</item>
+        <item>Մանրածախ</item>
+        <item>Ներկայացում</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Հեռախոսում և մեքենայում աշխատող ծրագրերն անհամատեղելի են: Մանրամասների համար այցելեք &lt;a href="android.com/auto">TAG_Aandroid.com/auto&lt;/a>:</item>
+        <item>Մեքենան ուղարկել է աուդիո և/կամ վիդեո կարգավորումների սխալ լրակազմ:</item>
+        <item>"USB կապակցումը սխալ է աշխատում: Փորձեք հետևյալը՝ 
+
+•Համոզվեք, որ մալուխը երկու կողմից էլ ճիշտ է ամրացված: 
+•Համոզվեք, որ օգտագործում եք տվյալների USB մալուխ: 
+•Համոզվեք, որ մեքենայում և հեռախոսում ամսաթիվը և ժամանակը ճիշտ են կարգավորված:"</item>
+        <item>Android Auto-ի աշխատանքը մեքենայում դադարեցվել է:</item>
+        <item>Android Auto-ի աշխատաշրջանը ձեր պահանջով ընդհատվել է:</item>
+        <item>Մեքենայի ծրագրակազմը, հավանաբար, հնացել է: Մանրամասներ իմանալու և օգնություն ստանալու համար դիմեք արտադրողին:</item>
+        <item>Ձեր մեքենայի ծրագրակազմը Android Auto-ի անվտանգության ստուգումներ չի անցել: Մանրամասներ իմանալու և օգնություն ստանալու համար դիմեք արտադրողին:</item>
+        <item>Ձեր մեքենայի ծրագրակազմը Android Auto-ի անվտանգության ստուգումներ չի անցել: Համոզվեք, որ մեքենայի ամսաթիվը և ժամանակը ճիշտ են կարգավորված, և որ Android Auto-ն թարմացվել է:</item>
+        <item>Գործողության սպասելաժամանակը սպառվեց: Դուք պետք է ստեղծեք վրիպակի զեկույց և ուղարկեք այն:</item>
+        <item>Կարծես թե դուք չեք տեղադրել գործարկիչը: Ձեր հեռախոսը ճի՞շտ է կարգավորված:</item>
+        <item>Գրաֆիկայի հոսքագիծը խափանվեց: Դուք պետք է ստեղծեք վրիպակի զեկույց և ուղարկեք այն:</item>
+        <item>Մեքենան չի արձագանքում հեռախոսի հաղորդագրություններին: Հնարավոր է, որ այն սխալ ռեժիմում է:</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Օդանավակայան</item>
+        <item>Բանկոմատ</item>
+        <item>Բանկ</item>
+        <item>Բար</item>
+        <item>Ավտոկայան</item>
+        <item>Սրճարան</item>
+        <item>Քեմփինգ</item>
+        <item>Գերեզմանոց</item>
+        <item>Եկեղեցի</item>
+        <item>Քաղաքապետարան</item>
+        <item>Հաստատություն</item>
+        <item>Բենզալցակայան</item>
+        <item>Մթերային խանութ կամ սուպերմարկետ</item>
+        <item>Հնդկական տաճար</item>
+        <item>Հիվանդանոց</item>
+        <item>Դարան</item>
+        <item>Կացարան</item>
+        <item>Մզկիթ</item>
+        <item>Կինոթատրոն</item>
+        <item>Թանգարան</item>
+        <item>Զբոսայգի</item>
+        <item>Կայանում</item>
+        <item>Պաշտամունքի վայր</item>
+        <item>Ոստիկանություն</item>
+        <item>Փոստ</item>
+        <item>Ռեստորան</item>
+        <item>Դպրոց</item>
+        <item>Խանութ</item>
+        <item>Մետրոյի կայարան</item>
+        <item>Սինագոգ</item>
+        <item>Կայարան</item>
+        <item>Տարանցիկ գոտու կայան</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>հունվար</item>
+        <item>փետրվար</item>
+        <item>մարտ</item>
+        <item>ապրիլ</item>
+        <item>մայիս</item>
+        <item>հունիս</item>
+        <item>հուլիս</item>
+        <item>օգոստոս</item>
+        <item>սեպտեմբեր</item>
+        <item>հոկտեմբեր</item>
+        <item>նոյեմբեր</item>
+        <item>դեկտեմբեր</item>
+    </string-array>
+</resources>

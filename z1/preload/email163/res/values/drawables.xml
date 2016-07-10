@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="text_blue_default">#ff70a9ff</item>
+    <item type="drawable" name="text_blue_pressed">#ff2c66bd</item>
+    <item type="drawable" name="text_red_default">#fff64746</item>
+    <item type="drawable" name="text_red_pressed">#ffd11d21</item>
+    <item type="drawable" name="text_white_default">#ffffffff</item>
+    <item type="drawable" name="text_white_pressed">#ff666666</item>
+</resources>

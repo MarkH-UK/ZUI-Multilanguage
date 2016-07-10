@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="bottom_padding">0</integer>
+    <integer name="default_stroke_width">6</integer>
+    <integer name="left_padding">0</integer>
+    <integer name="right_padding">0</integer>
+    <integer name="top_padding">0</integer>
+    <integer name="attachment_thumbnail_height">125</integer>
+    <integer name="attachment_thumbnail_width">125</integer>
+    <integer name="quick_reply_max_line">4</integer>
+    <integer name="quick_reply_min_line">2</integer>
+</resources>

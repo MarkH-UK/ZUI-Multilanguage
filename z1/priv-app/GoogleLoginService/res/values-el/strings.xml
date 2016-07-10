@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Σφάλμα Υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Μια εφαρμογή απαιτεί την εγκατάσταση των Υπηρεσιών Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Μια εφαρμογή απαιτεί την ενημέρωση των Υπηρεσιών Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Μια εφαρμογή απαιτεί την ενημέρωση της εφαρμογής Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Μια εφαρμογή απαιτεί την ενεργοποίηση των Υπηρεσιών Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Υποβλήθηκε αίτημα από την εφαρμογή %1$s</string>
+    <string name="common_google_play_services_install_title">Λήψη υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το τηλέφωνό σας.</string>
+    <string name="common_google_play_services_install_text_tablet">Αυτή η εφαρμογή δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας.</string>
+    <string name="common_google_play_services_install_button">Λήψη υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_enable_title">Ενεργοποίηση υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_enable_text">Αυτή η εφαρμογή δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play.</string>
+    <string name="common_google_play_services_enable_button">Ενεργοπ. υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_update_title">Ενημέρωση υπηρεσιών Google Play</string>
+    <string name="common_android_wear_update_title">Ενημέρωση Android Wear</string>
+    <string name="common_google_play_services_update_text">Αυτή η εφαρμογή θα εκτελεστεί αφού ενημερώσετε τις υπηρεσίες Google Play.</string>
+    <string name="common_android_wear_update_text">Αυτή η εφαρμογή δεν θα εκτελεστεί εάν δεν ενημερώσετε την εφαρμογή Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Σφάλμα δικτύου</string>
+    <string name="common_google_play_services_network_error_text">Απαιτείται σύνδεση δεδομένων για να συνδεθείτε με τις Υπηρεσίες Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Μη έγκυρος λογαριασμός</string>
+    <string name="common_google_play_services_invalid_account_text">Ο συγκεκριμένος λογαριασμός δεν υπάρχει σε αυτήν τη συσκευή. Επιλέξτε έναν διαφορετικό λογαριασμό.</string>
+    <string name="common_google_play_services_unknown_issue">Άγνωστο πρόβλημα με τις υπηρεσίες Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Υπηρεσίες Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Οι υπηρεσίες Google Play, στις οποίες βασίζονται ορισμένες από τις εφαρμογές σας, δεν υποστηρίζονται στη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή για υποστήριξη.</string>
+    <string name="common_google_play_services_update_button">Ενημέρωση</string>
+    <string name="common_signin_button_text">Σύνδεση</string>
+    <string name="common_signin_button_text_long">Συνδεθείτε στο Google</string>
+    <string name="common_open_on_phone">Άνοιγμα στο τηλέφωνο</string>
+    <string name="setup_wizard_next_button_label">Επόμενο</string>
+    <string name="setup_wizard_back_button_label">Πίσω</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Παράλειψη</string>
+    <string name="down_button_label">Περισσότερα</string>
+    <string name="cancel_button_label">Ακύρωση</string>
+    <string name="try_again_button_label">Δοκιμάστε ξανά</string>
+    <string name="close_button_label">Κλείσιμο</string>
+    <string name="url_load_unsuccessful_message">Η συσκευή σας Android δεν είναι συνδεδεμένη σε υπηρεσία δεδομένων. Για να προβάλετε τώρα αυτές τις πληροφορίες, επισκεφθείτε τη διεύθυνση %s με ένα πρόγραμμα περιήγησης ιστού.</string>
+    <string name="sign_in_agreement">Εφόσον συνδεθείτε, αποδέχεστε τους <annotation id="tos">Όρους Παροχής Υπηρεσιών</annotation> της Google, την <annotation id="google_privacy">Πολιτική Απορρήτου</annotation>, και τους <annotation id="play_tos">Όρους Παροχής Υπηρεσιών του Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">Επιπρόσθετη Πολιτική Απορρήτου</string>
+    <string name="google_terms_of_service_title">Όροι Παροχής Υπηρεσιών της Google</string>
+    <string name="google_privacy_policy_title">Πολιτική Απορρήτου της Google</string>
+    <string name="google_plus_privacy_policy_title">Πολιτική Απορρήτου Google Plus</string>
+    <string name="google_play_tos_title">Όροι Παροχής Υπηρεσιών του Google Play</string>
+    <string name="chrome_tos_title">Όροι Παροχής Υπηρεσιών του Chrome</string>
+    <string name="chrome_privacy_title">Σημείωση απορρήτου του Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Η συσκευή σας Android δεν είναι συνδεδεμένη σε δίκτυο Wi-Fi. Για να δείτε τώρα αυτές τις πληροφορίες, επισκεφθείτε τη διεύθυνση %s με ένα πρόγραμμα περιήγησης ιστού.</string>
+    <string name="services_activity_title">Υπηρεσίες Google</string>
+    <string name="services_backup_heading">Αντίγραφο ασφαλείας</string>
+    <string name="services_location_heading">Τοποθεσία</string>
+    <string name="services_security_heading">Ασφάλεια</string>
+    <string name="services_personalization_heading">Εξατομίκευση</string>
+    <string name="services_communication_heading">Επικοινωνία</string>
+    <string name="security_verify_apps_summary">Επιτρέψτε στην Google να ελέγξει όλες τις εγκατεστημένες εφαρμογές για τυχόν κακόβουλη συμπεριφορά η οποία μπορεί να επηρεάσει την ασφάλεια της συσκευής ή των δεδομένων σας.</string>
+    <string name="name_title">Το όνομά σας</string>
+    <string name="name_text">Το όνομά σας χρησιμοποιείται για την εξατομίκευση των υπηρεσιών Google και του τηλεφώνου σας.</string>
+    <string name="first_name">Όνομα</string>
+    <string name="last_name">Επώνυμο</string>
+    <string name="cant_be_blank">Το πεδίο δεν μπορεί να είναι κενό.</string>
+    <string name="sharedUserLabel">Υπηρεσίες Google</string>
+    <string name="app_label">Διαχειριστής Λογαριασμού Google</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Σύνδεση</string>
+    <string name="create_button_label">Λήψη λογαριασμού</string>
+    <string name="not_now_button_label">Όχι τώρα</string>
+    <string name="new_button_label">Νέος</string>
+    <string name="existing_button_label">Υπάρχων</string>
+    <string name="done">ΟΚ</string>
+    <string name="edit_text_help">Αγγίξτε ένα πλαίσιο κειμένου για να ξεκινήσετε την πληκτρολόγηση</string>
+    <string name="add_a_google_account">Προσθήκη Λογαριασμού Google</string>
+    <string name="captcha_title">Πρέπει να εισαγάγετε το CAPTCHA</string>
+    <string name="show_error_title">Σφάλμα</string>
+    <string name="server_error">Προέκυψε πρόβλημα επικοινωνίας με τους διακομιστές Google.</string>
+    <string name="server_error_help">Προσπαθήστε ξανά αργότερα.</string>
+    <string name="network_unreliable">Δεν είναι δυνατή η δημιουργία αξιόπιστης σύνδεσης με τον διακομιστή.</string>
+    <string name="network_unreliable_help">Αυτό ενδέχεται να είναι ένα προσωρινό πρόβλημα ή η συσκευή Android δεν υποστηρίζει υπηρεσίες δεδομένων. Εάν δεν επιλυθεί το πρόβλημα, επικοινωνήστε με την Εξυπηρέτηση πελατών.</string>
+    <string name="network_unreliable_help_wifi_only">Μπορεί να πρόκειται για προσωρινό πρόβλημα. Δοκιμάστε ξανά ή συνδεθείτε σε άλλο δίκτυο Wi-Fi.</string>
+    <string name="invalid_login_character">Μη έγκυρος χαρακτήρας. Επιτρέπονται μόνο οι χαρακτήρες 0-9, a-z, A-Z και οι τελείες.</string>
+    <string name="invalid_password_character">Μη έγκυρος χαρακτήρας κωδικού πρόσβασης.</string>
+    <string name="calendar">Ημερολόγιο Google</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Το πεδίο δεν μπορεί να είναι κενό.</string>
+    <string name="plus_query_title">Αναβάθμιση σε Google+</string>
+    <string name="plus_query_text">Με το Google+ η κοινή χρήση στον ιστό μοιάζει σαν αληθινή.</string>
+    <string name="circles_subtitle">Μια ροή ή περιεχόμενο που σας ενδιαφέρει</string>
+    <string name="circles_text">Συνδεθείτε με στενούς φίλους και εξερευνήστε κοινά ενδιαφέροντα.</string>
+    <string name="uploads_subtitle">Αυτόμ. δημ. αντ. ασφ. φωτογραφιών</string>
+    <string name="uploads_text">Δημιουργήστε αντίγραφα ασφαλείας για τις φωτογραφίες, καθώς τις τραβάτε στον δωρεάν και ιδιωτικό αποθηκευτικό σας χώρο.</string>
+    <string name="huddle_subtitle">Κλήσεις βίντεο και ανταλλαγή μηνυμάτων</string>
+    <string name="huddle_text">Απολαύστε ανταλλαγή γραπτών μηνυμάτων, φωτογραφίες και δωρεάν ομαδικές κλήσεις βίντεο με το Hangouts.</string>
+    <string name="plus_declined_button_label">Όχι τώρα</string>
+    <string name="plus_accepted_button_label">Έναρξη</string>
+    <string name="plus_name_check_title">Επικοινωνία με το Google+...</string>
+    <string name="plus_name_check_text">Αυτό ενδέχεται να διαρκέσει μερικά λεπτά.</string>
+    <string name="plus_faq_title">Καλώς ορίσατε στο Google+!</string>
+    <string name="plus_faq_text" formatted="false">"Στο Google+, έχετε ένα δημόσιο προφίλ, για να μπορούν οι φίλοι σας να σας βρίσκουν πιο εύκολα στο διαδίκτυο. Όποιος γνωρίζει τη διεύθυνση του ηλεκτρονικού σας ταχυδρομείου μπορεί να βρει και να δει το προφίλ σας.
+
+Μπορείτε να χρησιμοποιήσετε τα κουμπιά +1 στον ιστό για να προτείνετε πράγματα στον κόσμο. Οι επισημάνσεις +1 και το προφίλ σας θα εμφανίζονται δημόσια στην αναζήτηση, σε διαφημίσεις και στον ιστό.
+
+Προς το παρόν, το προφίλ σας θα εμφανίζει απλώς το όνομά σας (%s %s). Αργότερα, μπορείτε να προσθέσετε φωτογραφίες, βιογραφικά στοιχεία και άλλες λεπτομέρειες όταν ξεκινήσετε να χρησιμοποιείτε το Google+."</string>
+    <string name="dasher_warning">Ο διαχειριστής στο %s κατέχει και διαχειρίζεται όλα τα δεδομένα σας στο Google+ και μπορεί να διαγράψει ή να τροποποιήσει το προφίλ σας οποιαδήποτε στιγμή χωρίς την άδειά σας.</string>
+    <string name="profile_info_title">Το προφίλ σας</string>
+    <string name="profile_text">Παρέχετε ορισμένες βασικές πληροφορίες σχετικά με το προφίλ σας. Μπορείτε να προσθέσετε μια φωτογραφία και άλλα στοιχεία αργότερα, μόλις ξεκινήσετε τη χρήση του Google+.</string>
+    <string name="occupation">Επάγγελμα</string>
+    <string name="current_city">Ισχύουσα πόλη</string>
+    <string name="picassa_info_title">Picasa και Google+</string>
+    <string name="picassa_info_text" formatted="false">Οι φωτογραφίες και τα βίντεό σας στα Λευκώματα Ιστού Picasa θα είναι διαθέσιμα στο Google+ και στα σχόλιά σας θα εμφανίζεται το όνομα %s %s αντί για το όνομα χρήστη %s. Όταν μοιράζεστε φωτογραφίες στο Google+, οι παραλήπτες μπορούν να τις αναδημοσιεύσουν σε οποιονδήποτε. Οι ρυθμίσεις προβολής των λευκωμάτων σας δεν θα αλλάξουν και θα μπορείτε να τα περιορίσετε οποιαδήποτε στιγμή, ώστε να μην είναι δυνατή η αναδημοσίευσή τους ελεύθερα.</string>
+    <string name="name_title_plus">Το όνομά σας στο Google+</string>
+    <string name="name_title_local">Αυτό το τηλέφωνο ανήκει στο χρήστη...</string>
+    <string name="name_text_local">Το τηλέφωνο χρησιμοποιεί το όνομά σας για την εξατομίκευση ορισμένων εφαρμογών.</string>
+    <string name="name_progress_title">Μισό λεπτό…</string>
+    <string name="bad_name_title">Να χρησιμοποιηθεί αυτό το όνομα;</string>
+    <string name="invalid_name_title">Δεν είναι δυνατή η χρήση του ονόματος</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Αν θέλετε να το χρησιμοποιήσετε ως το όνομα σας στο Google+, η ομάδα μας θα πρέπει να το ελέγξει. Αν παραβιάζει την Πολιτική ονομάτων, το προφίλ σας ενδέχεται να τεθεί σε αναστολή. Αυτό θα περιορίσει τη δυνατότητά σας να χρησιμοποιείτε προϊόντα Google που απαιτούν ενεργό προφίλ.
+
+"<annotation id="learn_more">Μάθετε περισσότερα</annotation></string>
+    <string name="invalid_name_text">Δεν είναι δυνατή η χρήση αυτού του ονόματος με το Google+ επειδή περιέχει μη έγκυρους χαρακτήρες.</string>
+    <string name="invalid_nickname_text">Δεν μπορείτε να χρησιμοποιήσετε αυτό το όνομα με το Google+, επειδή περιέχει μη έγκυρους χαρακτήρες. Μήπως προσπαθείτε να χρησιμοποιήσετε κάποιο ψευδώνυμο, προηγούμενο όνομα ή τίτλο; Μπορείτε να τα προσθέσετε στο προφίλ σας αφού συνδεθείτε.</string>
+    <string name="invalid_other_text">Αυτό το όνομα δεν μπορεί να χρησιμοποιηθεί με το Google+.</string>
+    <string name="bad_name_agree_text">Καταλαβαίνω και θέλω να χρησιμοποιήσω αυτό το όνομα.</string>
+    <string name="bad_name_decline_button_label">Ενημέρωση ονόματος</string>
+    <string name="bad_name_agree_button_label">Υποβολή ονόματος για έλεγχο</string>
+    <string name="bad_name_skip_button_label">Παράλειψη του Google+</string>
+    <string name="photo_title">Η φωτογραφία σας</string>
+    <string name="photo_text">Αυτή η φωτογραφία θα χρησιμοποιηθεί στην εγγραφή επαφής σας. Μπορείτε να την αλλάξετε αργότερα από την εφαρμογή Άτομα.</string>
+    <string name="photo_text_es">Τραβήξτε μια φωτογραφία την οποία θα βλέπουν οι φίλοι σας στο Google+. Μπορείτε να επιλέξετε νέα φωτογραφία αργότερα.</string>
+    <string name="photo_button_label">Λήψη φωτογραφίας</string>
+    <string name="retake_photo_button_label">Επανάλ. λήψης φωτογρ.</string>
+    <string name="photo_failure">Αδύνατη η εκκίνηση της φωτογρ. μηχανής.</string>
+    <string name="crop_failure">Αδύνατη η περικοπή της φωτογραφίας.</string>
+    <string name="photo_description">Η φωτογραφία σας</string>
+    <string name="communicating_message">Το τηλέφωνό σας επικοινωνεί με την Google προκειμένου να συνδεθεί στον λογαριασμό σας. Αυτό μπορεί να διαρκέσει έως 5 λεπτά.</string>
+    <string name="creating_account_title">Αποθήκευση λογαριασμού...</string>
+    <string name="checking_username_message">"Το τηλέφωνό σας επικοινωνεί με την Google για να διαπιστώσει αν το όνομα χρήστη που επιθυμείτε είναι διαθέσιμο.
+
+Η διαδικασία αυτή μπορεί να διαρκέσει λίγα λεπτά."</string>
+    <string name="plus_failure_title">Συνδεθείτε στο Google+ αργότερα</string>
+    <string name="plus_failure_new_account_text">Ο Λογαριασμός σας Google δημιουργήθηκε, αλλά το αίτημά σας για εγγραφή στο Google+ δεν στάλθηκε. Προσπαθήστε ξανά αργότερα από οποιοδήποτε πρόγραμμα περιήγησης ιστού στη διεύθυνση plus.google.com.</string>
+    <string name="plus_failure_text">Το αίτημά σας για εγγραφή στο Google+ δεν στάλθηκε. Προσπαθήστε ξανά αργότερα από οποιοδήποτε πρόγραμμα περιήγησης ιστού στη διεύθυνση plus.google.com.</string>
+    <string name="provisioned_login_title">Εισαγάγετε τον κωδικό πρόσβασης</string>
+    <string name="provisioned_welcome">Γεια σας, %s!</string>
+    <string name="provisioned_welcome_2">"Πληκτρολογήστε τον κωδικό πρόσβασης για:
+%s"</string>
+    <string name="provisioned_incorrect_login">Δεν είστε ο/η %s;</string>
+    <string name="login_title">Πληκτρολογήστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου και τον κωδικό πρόσβασης</string>
+    <string name="login_task_title">Σύνδεση</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string name="restore_wifi">Επαναφορά και σύνδεση με γνωστά δίκτυα Wi-Fi.</string>
+    <string name="sign_in_agreement_multi_user">Εάν συνδεθείτε, αποδέχεστε τους <annotation id="tos">Όρους Παροχής Υπηρεσιών</annotation> της Google, την <annotation id="google_privacy">Πολιτική Απορρήτου</annotation> της Google και τους <annotation id="play_tos">Όρους Παροχής Υπηρεσιών του Google Play</annotation>". 
+
+Μην ξεχνάτε: Οποιοσδήποτε χρήστης μπορεί να αποδέχεται ενημερωμένες άδειες εφαρμογής εκ μέρους σας. Όπως με κάθε υπολογιστή, συνιστάται να μοιράζεστε αυτό το tablet μόνο με άτομα που εμπιστεύεστε."</string>
+    <string name="sign_in_agreement_with_chrome">Εάν συνδεθείτε, αποδέχεστε τους <annotation id="tos">Όρους Παροχής Υπηρεσιών</annotation> και την <annotation id="google_privacy">Πολιτική Απορρήτου</annotation> της Google, τους <annotation id="chrome_tos">Όρους Παροχής Υπηρεσιών</annotation> και τη <annotation id="chrome_privacy">Σημείωση Απορρήτου</annotation> του Chrome καθώς και τους <annotation id="play_tos">Όρους Παροχής Υπηρεσιών</annotation> του Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Εάν συνδεθείτε, αποδέχεστε τους <annotation id="tos">Όρους Παροχής Υπηρεσιών</annotation> και την <annotation id="google_privacy">Πολιτική Απορρήτου</annotation> της Google, τους <annotation id="chrome_tos">Όρους Παροχής Υπηρεσιών</annotation> και τη <annotation id="chrome_privacy">Σημείωση απορρήτου</annotation> του Chrome, καθώς και τους <annotation id="play_tos">Όρους Παροχής Υπηρεσιών του Google Play</annotation>". 
+
+Μην ξεχνάτε: Οποιοσδήποτε χρήστης μπορεί να αποδέχεται ενημερωμένες άδειες εφαρμογής εκ μέρους σας. Όπως με κάθε υπολογιστή, συνιστάται να μοιράζεστε αυτό το tablet μόνο με άτομα που εμπιστεύεστε."</string>
+    <string name="create_prompt">" Δεν διαθέτετε λογαριασμό Google; "<annotation id="create_account">Δημιουργία λογαριασμού τώρα</annotation></string>
+    <string name="sign_in_with_google_account_short">Συνδεθείτε με το Λογαριασμό σας Google:</string>
+    <string name="invalid_username">Το κείμενο που πληκτρολογήσατε δεν αποτελεί έγκυρο όνομα χρήστη.</string>
+    <string name="captcha_instructions">Πληκτρολογήστε το κείμενο που βλέπετε εδώ:</string>
+    <string name="create_google_account">Επιλέξτε όνομα χρήστη</string>
+    <string name="create_google_account_text">Ο Λογαριασμός σας Google περιλαμβάνει το Gmail, την υπηρεσία ηλεκτρονικού ταχυδρομείου από την Google. Λειτουργεί σε κάθε συσκευή, αποκλείει τα ανεπιθύμητα μηνύματα και πολλά άλλα.</string>
+    <string name="account_already_has_gmail">Ο λογαριασμός διαθέτει ήδη Gmail.</string>
+    <string name="error_account_disabled">"Αυτός ο λογαριασμός απενεργοποιήθηκε. 
+
+(Για λεπτομέρειες, επισκεφτείτε τη διεύθυνση https://google.com/accounts με ένα πρόγραμμα περιήγησης ιστού.)"</string>
+    <string name="no_network">Δεν διαθέτετε σύνδεση δικτύου.</string>
+    <string name="no_network_help">Αυτό ενδέχεται να είναι προσωρινό πρόβλημα ή η συσκευή σας Android ενδεχομένως να μην υποστηρίζει υπηρεσίες δεδομένων. Δοκιμάστε ξανά όταν είστε συνδεδεμένοι σε ένα δίκτυο κινητής τηλεφωνίας ή σε ένα δίκτυο Wi-Fi.</string>
+    <string name="no_network_help_wifi_only">Μπορεί να πρόκειται για προσωρινό πρόβλημα. Δοκιμάστε ξανά ή συνδεθείτε σε άλλο δίκτυο Wi-Fi.</string>
+    <string name="error_login_failed">"Το όνομα χρήστη και ο κωδικός πρόσβασης δεν συμφωνούν. Δοκιμάστε ξανά.
+
+Για να ανακτήσετε τις πληροφορίες λογαριασμού σας, μεταβείτε στη διεύθυνση google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Δεν έχει γίνει επαλήθευση αυτού του λογαριασμού. Ελέγξτε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας και ακολουθήστε το σύνδεσμο για να επαληθεύσετε το λογαριασμό. 
+
+(Για να ανακτήσετε τα στοιχεία του λογαριασμού σας, μεταβείτε στη διεύθυνση http://www.google.com/accounts/recovery στον υπολογιστή σας.)"</string>
+    <string name="exit_menu_item">Έξοδος από σύνδεση σε πρόγρ. περιήγησης</string>
+    <string name="creating_profile">Δημιουργία του προφίλ σας…</string>
+    <string name="checking_account">Έλεγχος διαθεσιμότητας...</string>
+    <string name="is_not_available">Το όνομα χρήστη <b>^1</b> δεν είναι διαθέσιμο.</string>
+    <string name="suggestions_hint">Αγγίξτε για να δείτε προτάσεις</string>
+    <string name="suggest_username_next_button_label">Αλλαγή ονόματος χρήστη</string>
+    <string name="hint_size">" Το όνομα χρήστη "<b>^1</b> περιέχει λιγότερους από 6 ή περισσότερους από 30 χαρακτήρες.</string>
+    <string name="hint_numbers_only">" Το "<b>^1</b> δεν περιέχει γράμματα.</string>
+    <string name="hint_illegal_chars">" To"<b>^1</b>" μπορεί να περιέχει μόνο γράμματα,
+αριθμούς και τελείες."</string>
+    <string name="doesnt_use_gmail">" Ο χρήστης "<b>^1</b> δεν χρησιμοποιεί το Gmail</string>
+    <string name="sign_in_browser">Σύνδεση σε πρόγραμμα περιήγησης</string>
+    <string name="alternatives_list_title">Προτεινόμενα ονόματα χρήστη</string>
+    <string name="password_title">Δημιουργία κωδ. πρόσβ.</string>
+    <string name="choose_a_password">Κωδικός πρόσβασης</string>
+    <string name="confirm_password">Πληκτρολογήστε ξανά τον κωδικό πρόσβασης</string>
+    <string name="too_short">Πολύ μικρό</string>
+    <string name="security_questions_title">Ερωτήσεις ασφάλειας</string>
+    <string name="answer">" "<b>Απάντηση</b></string>
+    <string name="password_mismatch">Οι κωδικοί πρόσβασης δεν ταιριάζουν. Δοκιμάστε ξανά.</string>
+    <string name="eight_chars_min">Τουλάχιστον 8 χαρακτήρες</string>
+    <string name="verify_your_profile">Επαλήθευση του προφίλ σας</string>
+    <string name="error_not_logged_in">Ο χρήστης δεν έχει συνδεθεί.</string>
+    <string name="error_username_unavailable">Το όνομα χρήστη δεν είναι διαθέσιμο.</string>
+    <string name="error_bad_password">Ο κωδικός πρόσβασης είναι πολύ αδύναμος ή περιέχει μη έγκυρους χαρακτήρες. Δοκιμάστε ξανά.</string>
+    <string name="error_bad_username">Μη έγκυρο όνομα χρήστη.</string>
+    <string name="existing_account_error_title">Ο λογαριασμός υπάρχει ήδη</string>
+    <string name="existing_account_error_text">Υπάρχει ήδη ένας λογαριασμός ^1 σε αυτήν τη συσκευή Android.</string>
+    <string name="submission_title">Λυπούμαστε...</string>
+    <string name="submission_error_text">Παρουσιάστηκε σφάλμα. Προσπαθήστε ξανά.</string>
+    <string name="sync_intro_title">Συγχρονισμός λογαριασμού</string>
+    <string name="account_tos_title">Ολοκλήρωση λογαριασμού</string>
+    <string name="account_tos_plus_title">Ολοκλήρωση εγγραφής στο Google+</string>
+    <string name="i_accept">Αποδέχομαι</string>
+    <string name="i_decline">Να μη δημιουργηθεί λογαριασμός</string>
+    <string name="allow_personalized_content">Επιτρέψτε στην Google τη χρήση των πληροφοριών σας για την εξατομίκευση του περιεχομένου και των διαφημίσεων σε ιστότοπους που δεν ανήκουν στην Google.</string>
+    <string name="enable_web_history">Ενεργοποίηση ιστορικού ιστού</string>
+    <string name="learn_more"><annotation id="learn_more">Μάθετε περισσότερα</annotation></string>
+    <string name="account_creation_tos">Εάν συνεχίσετε, αποδέχεστε τους <annotation id="tos">Όρους Παροχής Υπηρεσιών</annotation> της Google, την <annotation id="google_privacy">Πολιτική Απορρήτου</annotation>, και τους <annotation id="play_tos">Όρους Παροχής Υπηρεσιών του Google Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Εάν συνεχίσετε, αποδέχεστε τους <annotation id="tos">Όρους Παροχής Υπηρεσιών</annotation> και την <annotation id="google_privacy">Πολιτική Απορρήτου</annotation> της Google, τους <annotation id="chrome_tos">Όρους Παροχής Υπηρεσιών</annotation> και τη <annotation id="chrome_privacy">Σημείωση Απορρήτου</annotation> του Chrome καθώς και τους <annotation id="play_tos">Όρους Παροχής Υπηρεσιών</annotation> του Google Play.</string>
+    <string name="gender_prompt">Φύλο</string>
+    <string name="gender_hint">Φύλο</string>
+    <string name="account_pre_intro_title">Έχετε Λογαριασμό Google;</string>
+    <string name="account_pre_intro_default_message">"Έχετε Λογαριασμό Google;
+
+Αν χρησιμοποιείτε το Gmail ή το Google Apps, απαντήστε Ναι."</string>
+    <string name="account_pre_intro_yes">Ναι</string>
+    <string name="account_pre_intro_no">Όχι</string>
+    <string name="account_intro_title">Λογαριασμός Google</string>
+    <string name="account_intro_required_title">Με την υποστήριξη της Google</string>
+    <string name="account_intro_recommended_title">Δημιουργία Google</string>
+    <string name="account_intro_default_message">Χάρη στον Λογαριασμό Google δεν θα χάσετε ποτέ ξανά τα στοιχεία σας.</string>
+    <string name="account_intro_simple_message">Θέλετε να προσθέσετε έναν υπάρχοντα λογαριασμό ή να δημιουργήσετε ένα νέο;</string>
+    <string name="account_intro_learn_more">Μάθετε περισσότερα</string>
+    <string name="learn_more_title">Μάθετε περισσότερα</string>
+    <string name="learn_more_account_intro">"Ένας Λογαριασμός Google σας επιτρέπει:
+
+"<li><ul>Να βλέπετε και να οργανώνετε όλες τις πληροφορίες, συμπεριλαμβανομένου του ιστορικού αναζήτησής σας από οπουδήποτε.</ul></li>"
+
+"<li><ul>Να δημιουργείτε αυτόματα αντίγραφα ασφαλείας για τα δεδομένα σας, όπως αλληλογραφία, επαφές, μουσική και φωτογραφίες.</ul></li>"
+
+"<li><ul>Να χρησιμοποιείτε τις υπηρεσίες Google εύκολα και από οποιοδήποτε σημείο, συμπεριλαμβανομένων των Επαφών, του Ημερολογίου, των Χαρτών και άλλων.</ul></li></string>
+    <string name="learn_more_account_intro_title">Σχετικά με τους Λογαριασμούς Google</string>
+    <string name="learn_more_bad_name">Για το Google+ απαιτείται η χρήση του κανονικού σας ονόματος. Το προφίλ σας θα πρέπει να αντιπροσωπεύει ένα άτομο (και όχι επιχείρηση, οργανισμό ή οικογένεια) και θα πρέπει να περιλαμβάνει το όνομα και το επώνυμό σας σε μία γλώσσα χωρίς επαγγελματικούς τίτλους ή περιττά σημεία στίξης. Μετά την εγγραφή, μπορείτε να προσθέσετε ψευδώνυμα ή άλλα ονόματα τα οποία χρησιμοποιείτε, στο πεδίο \"Άλλα ονόματα\" του προφίλ σας.</string>
+    <string name="learn_more_bad_name_title">Σχετικά με την πολιτική ονομάτων</string>
+    <string name="wait_for_device_country_title">Ρύθμιση λογαριασμού</string>
+    <string name="wait_for_device_country_msg">Συγκέντρωση πληροφοριών σχετικά με το τηλέφωνό σας. Αυτό μπορεί να διαρκέσει έως 30 δευτερόλεπτα.</string>
+    <string name="recovery_title">Ανάκτηση κωδικού πρόσβασης Google</string>
+    <string name="recovery_wait_title">Επικοινωνία με την Google…</string>
+    <string name="cannot_talk_to_server_msg">Δεν ήταν δυνατή η επικοινωνία της συσκευής με την Google.</string>
+    <string name="recovery_skip_label">Παράβλεψη</string>
+    <string name="recovery_retry_label">Δοκιμάστε ξανά</string>
+    <string name="recovery_message_set">"Αν ξεχάσετε κάποια στιγμή τον κωδικό πρόσβασής σας, θα θέλετε έναν τρόπο για να τον ανακτήσετε.
+
+Η Google προσφέρει επιλογές για την ανάκτηση του κωδικού πρόσβασής σας μέσω SMS ή μια εναλλακτική διεύθυνση ηλεκτρονικού ταχυδρομείου.
+
+Αυτό το βήμα συνιστάται ανεπιφύλακτα. "<annotation id="help_url">Μάθετε περισσότερα</annotation></string>
+    <string name="recovery_message_verify">"Είναι εύκολο να ξεχάσετε τον κωδικό πρόσβασης.
+
+Επιβεβαιώστε τον αριθμό τηλεφώνου ή την εφεδρική διεύθυνση ηλεκτρονικού ταχυδρομείου σας τώρα. Αυτό θα σας βοηθήσει να επανακτήσετε πρόσβαση στο περιεχόμενό σας στο Google και στο Google Play. "<annotation id="help_url">Μάθετε περισσότερα</annotation></string>
+    <string name="recovery_yes_button_label">Ρύθμιση επιλογών ανάκτησης</string>
+    <string name="recovery_yes_button_label_verify">Επιβεβαίωση επιλογών ανάκτησης</string>
+    <string name="recovery_later_button_label">Όχι τώρα</string>
+    <string name="recovery_input_screen_message">Αυτά τα στοιχεία ανάκτησης ισχύουν για την εφαρμογή %s.</string>
+    <string name="secondary_email_hint">Εφεδρική διεύθ.ηλ.ταχ.</string>
+    <string name="secondary_email_invalid">Μη έγκυρη διεύθ.ηλ.ταχυδρ.</string>
+    <string name="secondary_email_same_as_primary">Να μην ταυτ. με το κύριο email</string>
+    <string name="phone_number_hint">Αριθμός τηλεφώνου</string>
+    <string name="phone_number_invalid_character">Μη έγκυροι χαρακτήρες στον αρ. τηλεφώνου</string>
+    <string name="phone_number_invalid">Μη έγκυρος αριθμός τηλεφώνου</string>
+    <string name="country_invalid">Αυτή η χώρα δεν επιτρέπεται</string>
+    <string name="recovery_server_error">Σφάλμα κατά την επικοινωνία με το διακομιστή. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="account_recovery_info">Σε περίπτωση που χάσετε τον κωδικό πρόσβασής σας, μπορείτε να απαντήσετε σε μια ερώτηση ασφαλείας για να σας αποσταλεί ένας σύνδεσμος επαναφοράς σε διαφορετική διεύθυνση ηλεκτρονικού ταχυδρομείου.</string>
+    <string name="secondary_email_label">Διεύθυνση ηλ. ταχυδρομείου ανάκτησης</string>
+    <string name="invalid_email">"Η διεύθυνση ηλεκτρονικού ταχυδρομείου που πληκτρολογήσατε δεν είναι έγκυρη.
+ Παράδειγμα: joe@example.com"</string>
+    <string name="invalid_email_primary">Η διεύθυνση ανάκτησης δεν μπορεί να ταυτίζεται με αυτήν που δημιουργείτε.</string>
+    <string name="backup_consent_message">"Με τον Λογαριασμό σας Google μπορείτε να δημιουργήσετε αντίγραφα ασφαλείας για τις εφαρμογές σας, τις ρυθμίσεις κ.λπ. Σε περίπτωση που έχετε ήδη δημιουργήσει αντίγραφα ασφαλείας για τον λογαριασμό σας, μπορείτε να τα επαναφέρετε τώρα σε αυτό το τηλέφωνο.
+
+Μπορείτε να αλλάξετε τις επιλογές δημιουργίας αντιγράφων ασφαλείας από τις Ρυθμίσεις."</string>
+    <string name="backup_consent_message_no_restore">"Με τον Λογαριασμό σας Google μπορείτε να δημιουργήσετε αντίγραφα ασφαλείας για τις εφαρμογές σας, τις ρυθμίσεις κ.λπ. 
+
+Μπορείτε να αλλάξετε τις επιλογές δημιουργίας αντιγράφων ασφαλείας από τις Ρυθμίσεις."</string>
+    <string name="restoring_title">Γίνεται επαναφορά...</string>
+    <string name="restoring_message">Το τηλέφωνό σας επικοινωνεί με τη Google προκειμένου να επαναφέρει τον λογαριασμό σας. Αυτό μπορεί να χρειαστεί αρκετή ώρα.</string>
+    <string name="gls_notification_login_error">Αγγίξτε για να συνδεθείτε στον λογαριασμό σας.</string>
+    <string name="gls_ui_add_account_title">Ρύθμιση λογαριασμού</string>
+    <string name="gls_ui_activity_title">Σύνδεση</string>
+    <string name="gls_ui_activity_title_browser_signin">Σύνδεση</string>
+    <string name="gls_ui_activity_title_checking_in">Προετοιμασία...</string>
+    <string name="gls_ui_activity_authenticating">Έλεγχος ταυτότητας...</string>
+    <string name="gls_dmagent_activity_activate_message">" Ο τομέας σας απαιτεί τη διαχείριση της κινητής συσκευής. Ενεργοποιήστε την εφαρμογή \"Πολιτική συσκευών του Google Apps\" για την επιβολή πολιτικών ασφαλείας που απαιτούνται από τον λογαριασμό  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Ενεργοποίηση</string>
+    <string name="gls_dmagent_activity_download_message">" Ο τομέας σας απαιτεί τη διαχείριση της κινητής συσκευής. Εγκαταστήστε την εφαρμογή \"Πολιτική συσκευών του Google Apps\" για την επιβολή πολιτικών ασφαλείας που απαιτούνται από τον λογαριασμό  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">Λήψη</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Πληκτρολογήσατε μη έγκυρο κωδικό πρόσβασης ή άλλαξε ο λογαριασμός. Πληκτρολογήστε ξανά τον κωδικό πρόσβασης.</string>
+    <string name="permlab_googleAuthPassword">πρόσβαση στους κωδικούς πρόσβασης για τους λογαριασμούς Google</string>
+    <string name="permdesc_googleAuthPassword">Επιτρέπει στις εφαρμογές την άμεση πρόσβαση στους κωδικούς πρόσβασης των Λογαριασμών Google που έχετε ρυθμίσει.</string>
+    <string name="permlab_googleMailSwitch">επιλέξτε την επωνυμία Gmail ή Google Mail</string>
+    <string name="permdesc_googleMailSwitch">Επιτρέπει στις εφαρμογές την εναλλαγή της επωνυμίας μεταξύ \"Gmail\" και \"Google Mail\".</string>
+    <string name="sync_item_title">Συγχρονισμός %s</string>
+    <string name="grant_credentials_permission_message_footer">Ζητούν άδεια για:</string>
+    <string name="grant_credentials_permission_message_app">Οι εφαρμογές αυτές επιθυμούν να έχουν πρόσβαση στον Λογαριασμό σας Google από τώρα και στο εξής:</string>
+    <string name="grant_permissions_header_text">Αίτημα άδειας</string>
+    <string name="allow">Να επιτρέπεται η πρόσβαση</string>
+    <string name="deny">Όχι, ευχαριστώ</string>
+    <string name="permission_request_notification_with_subtitle">"Ζητήθηκε άδεια
+για τον λογαριασμό %s"</string>
+    <string name="notification_title">Σφάλμα σύνδεσης για τον λογαριασμό %1$s</string>
+    <string name="account_setup_title">Λογαριασμός Google</string>
+    <string name="login_activity_title">Σύνδεση</string>
+    <string name="relogin_activity_title">Πληκτρολογήστε ξανά τον κωδικό πρόσβασης</string>
+    <string name="show_error_activity_title">Δεν ήταν δυνατή η σύνδεση</string>
+    <string name="login_activity_task_title">Σύνδεση...</string>
+    <string name="login_activity_task_msg">Αυτή η ενέργεια ενδέχεται να διαρκέσει μερικά λεπτά.</string>
+    <string name="prepare_account_setup_task_title">Προετοιμασία ρύθμισης λογαριασμού…</string>
+    <string name="prepare_account_setup_task_msg">Αυτή η ενέργεια ενδέχεται να διαρκέσει μερικά λεπτά.</string>
+    <string name="sync_intro_activity_title">Συγχρονισμός του λογαριασμού σας</string>
+    <string name="username">Διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+    <string name="error_invalid_second_factor">Χρησιμοποιήστε έναν κωδικό πρόσβασης για συγκεκριμένη εφαρμογή αντί για τον τυπικό κωδικό πρόσβασης του λογαριασμού σας.</string>
+    <string name="error_needs_browser">Για να αποκτήσετε πρόσβαση στον λογαριασμό σας, πρέπει να συνδεθείτε στον ιστό. Αγγίξτε την επιλογή \"Επόμενο\" για να ξεκινήσει η σύνδεση μέσω του προγράμματος περιήγησης.</string>
+    <string name="google_play_opt_in">Θέλω να ενημερώνομαι για τα νέα και τις προσφορές του Google Play.</string>
+    <string name="google_settings_header_title">Απόρρητο</string>
+    <string name="maps_settings_title">Χάρτες και Latitude</string>
+    <string name="location_settings_title">Τοποθεσία</string>
+    <string name="search_settings_title">Αναζήτηση</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Διαφημίσεις</string>
+    <string name="location_network_based">Υπηρεσία τοποθεσίας της Google</string>
+    <string name="location_neighborhood_level">Επιτρέπεται αποστ. ανών. δεδ. τοποθ. στην Google και χρήση δεδ. Wi-Fi και δικτ. κιν. τηλ. από εφαρμ. για εντοπισμό της τοποθ. σας.</string>
+    <string name="use_location_title">Τοποθεσία και Αναζήτηση Google</string>
+    <string name="use_location_summary">Να επιτρέπεται στην Google η χρήση της τοποθεσίας σας για βελτίωση αποτ. αναζ. και άλλων υπηρεσιών</string>
+    <string name="backup_consent_yes_agree">Χρησιμοποιήστε το Λογαριασμό σας Google, για να δημιουργήσετε αντίγραφα ασφαλείας των εφαρμογών, των ρυθμίσεων (όπως σελιδοδείκτες και κωδικούς πρόσβασης Wi-Fi), καθώς και άλλων δεδομένων σας.</string>
+    <string name="restore_consent_yes_agree">Μεταφέρετε σε αυτό το τηλέφωνο τις εφαρμογές, τις ρυθμίσεις και άλλα δεδομένα για τα οποία είχατε δημιουργήσει αντίγραφο ασφαλείας στο Λογαριασμό σας Google.</string>
+    <string name="audit_logging_summary">Αυτόματη αποστολή συμβάντων συσκευής και διαγνωστικών πληροφοριών στην Google για τη βελτίωση των προϊόντων και την προστασία της συσκευής σας.</string>
+    <string name="no_back_msg">Δεν είναι δυνατή η επιστροφή στο προηγούμενο βήμα.</string>
+    <string name="setup_wizard_title">Οδηγός ρύθμισης</string>
+    <string name="setup_wizard_services_activity_title">Υπηρεσίες Google</string>
+    <string name="setup_wizard_services_description">Αυτές οι υπηρεσίες υποδεικνύουν στην Google με ποιον τρόπο μπορεί να σας εξυπηρετήσει, και μπορείτε να τις ενεργοποιήσετε ή να τις απενεργοποιήσετε ανά πάσα στιγμή. Τα δεδομένα θα χρησιμοποιούνται σε συμμόρφωση με την <annotation id="google_privacy">Πολιτική Απορρήτου</annotation> της Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Αντίγραφα ασφαλείας και επαναφορά</string>
+    <string name="setup_wizard_services_location_heading">Τοποθεσία</string>
+    <string name="setup_wizard_services_communication_heading">Επικοινωνία</string>
+    <string name="setup_wizard_services_backup"><b>Δημιουργήστε αντίγραφα ασφαλείας για τις εφαρμογές του τηλεφώνου σας, τα δεδομένα εφαρμογών, τις ρυθμίσεις, τα προσωπικά λεξικά και τους κωδικούς πρόσβασης Wi-Fi</b> μέσω του Λογαριασμού σας Google, έτσι ώστε να μπορείτε εύκολα να τα επαναφέρετε αργότερα. <annotation id="backup_details">Μάθετε περισσότερα</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Δημιουργήστε αντίγραφα ασφαλείας για τις εφαρμογές, τα δεδομένα εφαρμογών, τις ρυθμίσεις, τα προσωπικά λεξικά και τους κωδικούς πρόσβασης Wi-Fi</b> μέσω του Λογαριασμού σας Google, έτσι ώστε να μπορείτε εύκολα να τα επαναφέρετε αργότερα.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Τα δεδομένα περιλαμβάνουν εφαρμογές, ρυθμίσεις εφαρμογών, ρυθμίσεις συστήματος, καθώς και κωδικούς πρόσβασης Wi-Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Όταν ενεργοποιείτε την αυτόματη δημιουργία αντιγράφων ασφαλείας, τα δεδομένα της συσκευής σας αποθηκεύονται κατά περιόδους στο Λογαριασμό σας Google. Στα αντίγραφα ασφαλείας ενδέχεται να συμπεριλαμβάνονται πληροφορίες σχετικά με τους φακέλους δεδομένων εφαρμογών, όπως προτιμήσεις, ρυθμίσεις, μηνύματα, φωτογραφίες και άλλα αρχεία.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Χρησιμοποιήστε την υπηρεσία τοποθεσίας της Google</b>, για να βοηθήσετε τις εφαρμογές να καθορίσουν την τοποθεσία. Αυτό σημαίνει ότι θα αποστέλλονται ανώνυμα δεδομένα τοποθεσίας στην Google, ακόμα και όταν δεν εκτελούνται εφαρμογές. <annotation id="location_details">Μάθετε περισσότερα</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Η υπηρεσία τοποθεσίας της Google χρησιμοποιεί πόρους όπως δίκτυα Wi‑Fi και κινητής τηλεφωνίας, για να μπορέσει να εκτιμήσει την τοποθεσία της συσκευής σας με μεγαλύτερη ταχύτητα και ακρίβεια. Όταν ενεργοποιήσετε τις υπηρεσίες τοποθεσίας της Google, η συσκευή σας θα εισέλθει σε μια κατάσταση λειτουργίας που χρησιμοποιεί δίκτυα Wi‑Fi και κινητής τηλεφωνίας για την παροχή πληροφοριών τοποθεσίας. Μπορείτε να την απενεργοποιήσετε στις ρυθμίσεις τοποθεσίας, επιλέγοντας μια κατάσταση λειτουργίας που χρησιμοποιεί μόνο GPS, η οποία ορισμένες φορές ονομάζεται \"Μόνο συσκευή\".</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Βελτιώστε τις υπηρεσίες τοποθεσίας</b>, επιτρέποντας στις εφαρμογές και τις υπηρεσίες να πραγματοποιούν σάρωση για δίκτυα Wi‑Fi, ακόμα και όταν το Wi‑Fi είναι απενεργοποιημένο.</string>
+    <string name="setup_wizard_services_location_footnote">Η υπηρεσία τοποθεσίας της Google χρησιμοποιεί Wi‑Fi και άλλα σήματα για να καθορίσει με μεγαλύτερη ταχύτητα και ακρίβεια την τοποθεσία σας, συχνά με χαμηλότερη κατανάλωση ενέργειας σε σχέση με το GPS. Ορισμένα δεδομένα, ενδέχεται να αποθηκεύονται στη συσκευή σας. Τα δεδομένα ενδέχεται να συλλέγονται ακόμη και όταν δεν εκτελείται καμία εφαρμογή.</string>
+    <string name="setup_wizard_services_play"><b>Διατηρήστε με ενημερωμένο</b> για τις τελευταίες ειδήσεις και προσφορές του Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Βελτιώστε την εμπειρία σας με το Android</b>, με την αυτόματη αποστολή δεδομένων διάγνωσης και χρήσης στην Google. Αυτά τα στοιχεία δεν θα χρησιμοποιηθούν για την ταυτοποίησή σας και βοηθούν τις ομάδες που καταβάλλουν προσπάθειες για τη βελτίωση της διάρκειας ζωής των μπαταριών, της απόδοσης των εφαρμογών και των νέων δυνατοτήτων της Google. <annotation id="usage_reporting_details">Μάθετε περισσότερα</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Πρόκειται για γενικές πληροφορίες σχετικά με τη συσκευή σας και τον τρόπο χρήσης της, όπως είναι το επίπεδο της μπαταρίας, η συχνότητα χρήσης των εφαρμογών σας, η ποιότητα και η διάρκεια των συνδέσεων του δικτύου σας (όπως οι συνδέσεις κινητής τηλεφωνίας, Wi‑Fi και Bluetooth), καθώς και οι αναφορές σφαλμάτων, όταν παρουσιάζονται προβλήματα. Χρησιμοποιούνται για τη βελτίωση των προϊόντων και των υπηρεσιών της Google για όλους και δεν σχετίζονται με το Λογαριασμό σας Google. Επίσης, κάποιες συγκεντρωτικές πληροφορίες βοηθούν τους συνεργάτες, όπως τους προγραμματιστές του Android, να βελτιώσουν τις εφαρμογές και τα προϊόντα τους.
+
+Μπορείτε να ενεργοποιήσετε ή να απενεργοποιήσετε αυτήν τη δυνατότητα ανά πάσα στιγμή στην εφαρμογή \"Ρυθμίσεις Google\". Αυτό δεν επηρεάζει τη δυνατότητα της συσκευής σας να στέλνει τις πληροφορίες που χρειάζεται για τη λήψη βασικών υπηρεσιών, όπως οι υπηρεσίες για την ασφάλεια και τις ενημερώσεις του συστήματος."</string>
+    <string name="setup_wizard_services_agreement">Επίσης, αυτό το τηλέφωνο μπορεί να λάβει και να εγκαταστήσει ενημερώσεις και εφαρμογές από την Google, την εταιρεία κινητής τηλεφωνίας που χρησιμοποιείτε και τον κατασκευαστή της συσκευής σας. Αν συνεχίσετε, ενδέχεται να γίνει λήψη και εγκατάσταση μερικών εφαρμογών, τις οποίες μπορείτε να καταργήσετε ανά πάσα στιγμή.</string>
+</resources>

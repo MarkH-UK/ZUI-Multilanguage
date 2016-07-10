@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>ಸುರಕ್ಷತಾ ಪ್ರಶ್ನೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</item>
+        <item>ಮೊದಲ ಫೋನ್ ಸಂಖ್ಯೆ?</item>
+        <item>ಬಾಲ್ಯದ ಉತ್ತಮ ಸ್ನೇಹಿತರ ಹೆಸರು?</item>
+        <item>ಮೊದಲ ಅಧ್ಯಾಪಕರ ಹೆಸರು?</item>
+        <item>ಮೊದಲ ಮ್ಯಾನೇಜರ್‌ ಹೆಸರು?</item>
+        <item>ವಾಹನ ನೋಂದಣಿ ಸಂಖ್ಯೆ?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>ಕಳಪೆ</item>
+        <item>ಅತ್ಯುತ್ತಮ</item>
+        <item>ಉತ್ತಮ</item>
+        <item>ಗಟ್ಟಿ</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>ಪುರುಷ</item>
+        <item>ಸ್ತ್ರೀ</item>
+        <item>ಇತರೆ</item>
+    </string-array>
+</resources>

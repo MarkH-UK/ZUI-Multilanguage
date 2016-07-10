@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>ບາ</item>
+        <item>ຄາເຟ່</item>
+        <item>ປ້ຳນ້ຳມັນ</item>
+        <item>ໂຮງຮູບເງົາ</item>
+        <item>ບ່ອນພັກ</item>
+        <item>ໄນຄລັບ</item>
+        <item>ຫໍພິພິດຕະພັນ</item>
+        <item>ຮ້ານ​ອາ​ຫານ</item>
+        <item>ສູນ​ການ​ຄ້າ</item>
+        <item>ຮ້ານຄ້າ</item>
+        <item>​ຮ້ານ​ຂາຍ​ເຄື່ອງ​ຍ່ອຍ ຫຼື​ຊູ​ເປີ​ມາ​ເກັດ</item>
+        <item>ອື່ນໆ</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ມັນງ່າຍຫຼາຍ</item>
+        <item>ປານກາງ</item>
+        <item>ດີ</item>
+        <item>ດີຫລາຍ</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>​ເວີ​ຊັນ​ເຕັມ</item>
+        <item>ນັກພັດທະນາ</item>
+        <item>ຂາຍ​ຍ່ອນ</item>
+        <item>ສາ​ທິດ</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ໂທ​ລະ​ສັບ ແລະ​ລົດ​ກຳ​ລັງ​ໃຊ້ງານ​ສອບແວຣ​ບໍ່​ເຂົ້າ​ກັນ. ສຳ​ລັບ​ລາຍ​ລະ​ອຽດ, ເຂົ້າ​ເບິ່ງ &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>ລົດ​ແຈ້ງ​ການ​ຕັ້ງ​ຄ່າ​ຂອງ​ສຽງ ແລະ/ຫຼື​ວິດ​ີ​ໂອ​ທີ່ບໍ່​ຖືກ​ຕ້ອງ</item>
+        <item>"ການ​ເຊື່ອມ​ຕໍ່ USB ບໍ່​ເຮັດ​ວຽກ​ຖືກ​ຕ້ອງ. ສິ່ງ​ທີ່​ຕ້ອງ​ລອງ​ເບິ່ງ: 
+
+• ເບິ່ງ​ໃຫ້​ແນ່​ໃຈ​ວ່າ ສາຍ​ຕໍ່​ພໍ​ດີ​ຢູ່​ທັງ​ສອງ​ສົ້ນ​ແລ້ວ. 
+•ເບິ່ງ​ໃຫ້​ແນ່​ໃຈ​ວ່າ​ມີ​ສາຍ USB ຂໍ້​ມູນ​ແລ້ວ. 
+•ເບິ່ງ​ໃຫ້​ແນ່​ໃຈ​ວ່າ ຕັ້ງ​ຄ່າ​ວັນ​ທີ ແລະ​ເວ​ລາ​ຖືກ​ຕ້ອງ​ແລ້ວ​ສຳ​ລັບ​ທັງ​ລົດ​ ແລະ​ໂທ​ລະ​ສັບ."</item>
+        <item>"ລົດ​ໄດ້ຢຸດການໃຊ້ງານ  Android Auto​ ແລ້ວ."</item>
+        <item>"ເຊສຊັນ  Android Auto​ ໄດ້ຢຸດ, ຕາມທີ່ຮ້ອງ​ຂໍ​ແລ້ວ."</item>
+        <item>ສອບແວຣ​ຂອງ​ລົດ​ອາດ​ຈະ​ລ້າ​ສະ​ໄໝ​ດ​ແລ້ວ. ສຳ​ລັບ​ລາຍ​ລະ​ອຽດ ແລະ​ການ​ຊ່ວຍ​ເຫຼືອ, ຕິດ​ຕໍ່​ຜູ້​ຜະ​ລິດ.</item>
+        <item>"ສອບແວຣ​ລົດ​ຂອງ​ທ່ານ​ບໍ່​ຜ່ານ​ການກວດ​ຄວາມ​ປອດ​ໄພ  Android Auto. ສຳ​ລັບ​ລາຍ​ລະ​ອຽດ ແລະ​ການ​ຊ່ວຍ​ເຫຼືອ, ຕິດ​ຕໍ່​ຜູ້​ຜະ​ລິດ.."</item>
+        <item>"ສອບແວຣ​ລົດ​ຂອງ​ທ່ານ​ບໍ່​ຜ່ານ​ການກວດ​ຄວາມ​ປອດ​ໄພ  Android Auto. ເບິ່ງ​ໃຫ້​ແນ່​ໃຈ​ວ່າ ວັນ​ທີ ແລະ​ເວ​ລາ​ຂອງ​ລົດ​ໄດ້​ຕັ້ງ​ຖືກ​ຕ້ອງ​ແລ້ວ, ແລະ  Android Autoໄດ້​ຮັບ​ການ​ອັບ​ເດດ​ແລ້ວ."</item>
+        <item>​ຄຳ​ສັ່ງ​ໝົດ​ເວ​ລາ. ທ່ານ​ຄວນ​ຈະ​ລາຍ​ງານ​ຂໍ້​ຜິດ​ພາດ ແລະ​ສົ່ງ​ຄຳ​ຕິ​ຊົມ.</item>
+        <item>ທ່ານບໍ່​ມີ​ຕົວ​ເປີດ​ໃຊ້​ຕິດ​ຕັ້ງ​ໄວ້ເລີຍ, ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານ​ໄດ້​ຮັບ​ການ​ຕັ້ງ​ຄ່າ​ຖືກ​ຕ້ອງ​ແລ້ວບໍ?</item>
+        <item>ຊ່ອງ​ທາງຂອງກຣາບ​ຟິກ​ຕາຍ. ທ່ານ​ຄວນ​ຈະ​ລາຍ​ງານ​ຂໍ້​ຜິດ​ພາດ ແລະ​ສົ່ງ​ຄຳ​ຕິ​ຊົມ.</item>
+        <item>ລົດ​ບໍ່​ຕອບ​ສະ​ໜອງ​ຂໍ້​ຄວາມ​ຈາກ​ໂທ​ລະ​ສັບ. ເປັນ​ໄປ​ໄດ້​ວ່າ​ລົດ​ຢູ່​ໃນ​ສະ​ຖາ​ນະ​ທີ່​ບໍ່​ຖືກ​ຕ້ອງ.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>ສະ​ໜາມ​ບິນ</item>
+        <item>ATM</item>
+        <item>​ທະ​ນາ​ຄານ</item>
+        <item>ບາ</item>
+        <item>ສະຖານີລົດເມ</item>
+        <item>ຄາເຟ່</item>
+        <item>ບ່ອນ​ຕັ້ງ​ແຄ້ມ</item>
+        <item>ປ່າ​ຊ້າ</item>
+        <item>ໂບດ</item>
+        <item>ຫໍ​ປະ​ຊຸມ</item>
+        <item>ການ​ສ້າງ​ຕັ້ງ</item>
+        <item>ປ້ຳນ້ຳມັນ</item>
+        <item>​ຮ້ານ​ຂາຍ​ເຄື່ອງ​ຍ່ອຍ ຫຼື​ຊູ​ບເປີ​ມາ​ເກັດ</item>
+        <item>ວັດ​ຮິນ​ດູ</item>
+        <item>​ໂຮງ​ໝໍ</item>
+        <item>ຫ້ອງສະໝຸດ</item>
+        <item>ບ່ອນພັກ</item>
+        <item>ວັດ​ມຸດ​ສະ​ລິມ</item>
+        <item>ໂຮງ​ໜັງ</item>
+        <item>ຫໍພິພິດຕະພັນ</item>
+        <item>ສວນ​ສາ​ທາ​ລະ​ນະ</item>
+        <item>ບ່ອນຈອດລົດ</item>
+        <item>ບ່ອນ​ກາບ​ໄຫວ້</item>
+        <item>ສະ​ຖາ​ນີ​ຕຳ​ຫຼວດ</item>
+        <item>ໂຮງ​ການ​ໄປ​ສະ​ນີ</item>
+        <item>ຮ້ານ​ອາ​ຫານ</item>
+        <item>ໂຮງຮຽນ</item>
+        <item>ຮ້ານຄ້າ</item>
+        <item>ສະຖານີລົດໄຟໃຕ້ດິນ</item>
+        <item>ວັດ​ຢິວ</item>
+        <item>ສະຖານີລົດໄຟ</item>
+        <item>ສະຖານີໂດຍສານ</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>ມັງກອນ</item>
+        <item>ກຸມພາ</item>
+        <item>ມີນາ</item>
+        <item>ເມສາ</item>
+        <item>ພຶດສະພາ</item>
+        <item>ມິຖຸນາ</item>
+        <item>ກໍລະກົດ</item>
+        <item>ສິງຫາ</item>
+        <item>ກັນຍາ</item>
+        <item>ຕຸລາ</item>
+        <item>ພະຈິກ</item>
+        <item>ທັນວາ</item>
+    </string-array>
+</resources>

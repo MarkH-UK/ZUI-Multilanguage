@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <switch>
+        <case latin:keyboardLayoutSet="hindi">
+            <key-style latin:moreKeys="◌ॅ|ॅ" latin:styleName="moreKeysDevanagariSignCandrabindu" />
+        </case>
+        <default>
+            <key-style latin:styleName="moreKeysDevanagariSignCandrabindu" />
+        </default>
+    </switch>
+    <key-style latin:keySpec="◌ँ|ँ" latin:keyLabelFlags="followKeyLetterRatio" latin:styleName="baseKeyDevanagariSignCandrabindu" latin:parentStyle="moreKeysDevanagariSignCandrabindu" />
+</merge>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bar_background">#ff131419</color>
+    <color name="app_background">#ff131419</color>
+    <color name="hor_line">#ff1b1e24</color>
+    <color name="list_item">#ff070707</color>
+    <color name="list_item_press">#ff0d0d0d</color>
+    <color name="list_item_null">#ff0b0c0f</color>
+    <color name="item_bcg">#ff070707</color>
+    <color name="item_font">#8c8c8c</color>
+    <color name="app_title">#8c8c8c</color>
+    <color name="status_bar_icon_color">#ffffff</color>
+    <color name="empty_text">#5c5c5c</color>
+</resources>

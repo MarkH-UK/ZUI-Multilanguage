@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXWeek">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="exercise_array">
+        <item>健走</item>
+        <item>跑步</item>
+        <item>騎行</item>
+        <item>爬樓梯</item>
+        <item>室內跑步</item>
+        <item>動感單車</item>
+        <item>跳繩</item>
+        <item>平板支撐</item>
+        <item>瑜伽</item>
+        <item>跳舞</item>
+        <item>健身操</item>
+        <item>游泳</item>
+        <item>乒乓球</item>
+        <item>羽毛球</item>
+        <item>籃球</item>
+        <item>足球</item>
+        <item>網球</item>
+        <item>排球</item>
+        <item>滑冰</item>
+        <item>滑雪</item>
+    </string-array>
+    <string-array name="exercise_array_healthy_list">
+        <item>健走</item>
+        <item>跑步</item>
+        <item>騎行</item>
+        <item>爬樓梯</item>
+        <item>室內跑步</item>
+        <item>動感單車</item>
+        <item>跳繩</item>
+        <item>平板支撐</item>
+        <item>瑜伽</item>
+        <item>跳舞</item>
+        <item>健身操</item>
+        <item>游泳</item>
+        <item>乒乓球</item>
+        <item>羽毛球</item>
+        <item>籃球</item>
+        <item>足球</item>
+        <item>網球</item>
+        <item>排球</item>
+        <item>滑冰</item>
+        <item>滑雪</item>
+        <item>交通工具</item>
+    </string-array>
+    <string-array name="gender_lables">
+        <item>女</item>
+        <item>男</item>
+    </string-array>
+    <string-array name="guest_info_more_array">
+        <item>修改訪客資料</item>
+        <item>刪除訪客</item>
+    </string-array>
+    <string-array name="health_array">
+        <item>心率</item>
+        <item>血氧</item>
+        <item>體重</item>
+        <item>血壓</item>
+    </string-array>
+    <string-array name="health_array_other">
+        <item>心率</item>
+        <item>血氧</item>
+        <item>体重</item>
+        <item>血压</item>
+        <item>心率血氧</item>
+    </string-array>
+    <string-array name="heart_rate_type">
+        <item>安靜</item>
+        <item>運動</item>
+    </string-array>
+    <string-array name="pace_speed_5">
+        <item>不疾不徐</item>
+        <item>不慌不忙</item>
+        <item>不緊不慢</item>
+    </string-array>
+    <string-array name="pace_speed_6">
+        <item>蝸行牛步</item>
+        <item>慢條斯理</item>
+        <item>施施而行</item>
+    </string-array>
+    <string-array name="products">
+        <item>ZUK</item>
+        <item>Jabra PULSE</item>
+    </string-array>
+    <string-array name="skin_lables">
+        <item>黃色皮膚</item>
+        <item>白色皮膚</item>
+        <item>黑色皮膚</item>
+    </string-array>
+    <string-array name="step_count_to_food">
+        <item>≈1枚雞蛋</item>
+        <item>≈5塊奶糖</item>
+        <item>≈1盒牛奶</item>
+        <item>≈1罐可樂</item>
+        <item>≈1碗米飯</item>
+        <item>≈半塊奶油蛋糕</item>
+        <item>≈1盒冰淇淋</item>
+        <item>≈半個漢堡</item>
+        <item>≈半包薯片</item>
+        <item>≈2罐可樂</item>
+        <item>≈2片麵包</item>
+        <item>≈2碗米飯</item>
+        <item>≈1碗麵條</item>
+        <item>≈1塊奶油蛋糕</item>
+        <item>≈3個烤雞翅</item>
+        <item>≈2盒冰淇淋</item>
+        <item>≈1塊披薩</item>
+        <item>≈1個漢堡</item>
+    </string-array>
+    <string-array name="trend_day_by_hour">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+</resources>

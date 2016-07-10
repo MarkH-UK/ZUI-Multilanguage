@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play सेवा त्रुटी</string>
+    <string name="common_google_play_services_notification_needs_installation_title">अनुप्रयोगासाठी Google Play सेवांची स्थापना आवश्यक आहे.</string>
+    <string name="common_google_play_services_notification_needs_update_title">अनुप्रयोगासाठी Google Play सेवांचे अद्यतन आवश्यक आहे.</string>
+    <string name="common_android_wear_notification_needs_update_text">अनुप्रयोगास Android Wear अॅप अद्यतनित करण्याची आवश्यकता आहे.</string>
+    <string name="common_google_play_services_needs_enabling_title">अनुप्रयोगासाठी Google Play सेवा सक्षम केलेल्या असणे आवश्यक आहे.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s द्वारे विनंती केली</string>
+    <string name="common_google_play_services_install_title">Google Play सेवा मिळवा</string>
+    <string name="common_google_play_services_install_text_phone">हा अॅप Google Play सेवांशिवाय चालणार नाही, ज्या आपल्या फोनवरून गहाळ झाल्या आहेत.</string>
+    <string name="common_google_play_services_install_text_tablet">हा अॅप Google Play सेवांशिवाय चालणार नाही, ज्या आपल्या टॅब्लेटवरून गहाळ आहेत.</string>
+    <string name="common_google_play_services_install_button">Google Play सेवा मिळवा</string>
+    <string name="common_google_play_services_enable_title">Google Play सेवा सक्षम करा</string>
+    <string name="common_google_play_services_enable_text">आपण Google Play सेवा सक्षम केल्याशिवाय हा अॅप कार्य करणार नाही.</string>
+    <string name="common_google_play_services_enable_button">Google Play सेवा सक्षम करा</string>
+    <string name="common_google_play_services_update_title">Google Play सेवा अद्यतनित करा</string>
+    <string name="common_android_wear_update_title">Android Wear अद्यतनित करा</string>
+    <string name="common_google_play_services_update_text">आपण Google Play सेवा अद्यतनित केल्याशिवाय हा अॅप चालणार नाही.</string>
+    <string name="common_android_wear_update_text">आपण Android Wear अॅप अद्यतनित केल्याशिवाय हा अॅप कार्य करणार नाही.</string>
+    <string name="common_google_play_services_network_error_title">नेटवर्क त्रुटी</string>
+    <string name="common_google_play_services_network_error_text">Google Play सेवांशी कनेक्ट होण्यासाठी डेटा कनेक्शन आवश्यक आहे.</string>
+    <string name="common_google_play_services_invalid_account_title">अवैध खाते</string>
+    <string name="common_google_play_services_invalid_account_text">निर्दिष्ट केलेले खाते या डिव्हाइसवर अस्तित्वात नाही. कृपया एक भिन्न खाते निवडा.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play सेवांसह अज्ञात समस्या.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play सेवा</string>
+    <string name="common_google_play_services_unsupported_text">आपले काही अनुप्रयोग ज्यावर अवलंबून आहेत अशी, Google Play सेवा, आपल्या डिव्हाइसद्वारे समर्थित नाही. कृपया सहाय्यासाठी निर्मात्याशी संपर्क साधा.</string>
+    <string name="common_google_play_services_update_button">अद्यतनित करा</string>
+    <string name="common_signin_button_text">साइन इन करा</string>
+    <string name="common_signin_button_text_long">Google सह साइन इन करा</string>
+    <string name="common_open_on_phone">फोनवर उघडा</string>
+    <string name="setup_wizard_next_button_label">पुढील</string>
+    <string name="setup_wizard_back_button_label">परत</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">वगळा</string>
+    <string name="down_button_label">अधिक</string>
+    <string name="cancel_button_label">रद्द करा</string>
+    <string name="try_again_button_label">पुन्हा प्रयत्न करा</string>
+    <string name="close_button_label">बंद करा</string>
+    <string name="url_load_unsuccessful_message">आपले Android डिव्हाइस डेटा सेवेशी कनेक्ट केलेले नाही. ही माहिती आता पाहण्यासाठी, वेब ब्राउझरसह %s ला भेट द्या.</string>
+    <string name="sign_in_agreement">साइन इन करून, आपण Google <annotation id="tos">सेवा अटी</annotation>, <annotation id="google_privacy">गोपनीयता धोरण</annotation>, आणि <annotation id="play_tos">Google Play सेवा अटी</annotation> यांना सहमती देत आहात.</string>
+    <string name="android_privacy_policy_title">अतिरिक्त गोपनीयता धोरण</string>
+    <string name="google_terms_of_service_title">Google सेवा अटी</string>
+    <string name="google_privacy_policy_title">Google गोपनीयता धोरण</string>
+    <string name="google_plus_privacy_policy_title">Google प्लस गोपनीयता धोरण</string>
+    <string name="google_play_tos_title">Google Play सेवा अटी</string>
+    <string name="chrome_tos_title">Chrome सेवा अटी</string>
+    <string name="chrome_privacy_title">Chrome गोपनीयता सूचना</string>
+    <string name="url_load_unsuccessful_message_wifi_only">आपले Android डिव्हाइस वाय-फाय नेटवर्कवर कनेक्ट केलेले नाही. आता ही माहिती पाहण्यासाठी, वेब ब्राउझरसह %s ला भेट द्या.</string>
+    <string name="services_activity_title">Google सेवा</string>
+    <string name="services_backup_heading">बॅकअप घ्‍या</string>
+    <string name="services_location_heading">स्थान</string>
+    <string name="services_security_heading">सुरक्षितता</string>
+    <string name="services_personalization_heading">वैयक्तिकरण</string>
+    <string name="services_communication_heading">संप्रेषण</string>
+    <string name="security_verify_apps_summary">आपल्या डिव्हाइसची किंवा डेटाची सुरक्षितता प्रभावित करू शकणार्‍या संभाव्यतः हानिकारक वर्तनाकरिता सर्व स्थापित केलेले अॅप्स Google ला तपासू द्या.</string>
+    <string name="name_title">आपले नाव</string>
+    <string name="name_text">आपले नाव आपला टॅब्‍लेट आणि Google सेवा वैयक्तिकृत करण्‍यासाठी वापरले आहे.</string>
+    <string name="first_name">प्रथम</string>
+    <string name="last_name">अंतिम</string>
+    <string name="cant_be_blank">फील्ड रिक्त असू शकत नाही.</string>
+    <string name="sharedUserLabel">Google सेवा</string>
+    <string name="app_label">Google खाते व्यवस्थापक</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">साइन इन करा</string>
+    <string name="create_button_label">खाते मिळवा</string>
+    <string name="not_now_button_label">आत्ता नाही</string>
+    <string name="new_button_label">नवीन</string>
+    <string name="existing_button_label">अस्तित्वात असलेले</string>
+    <string name="done">ठीक आहे</string>
+    <string name="edit_text_help">टाईप करणे प्रारंभ करण्यासाठी कोणत्याही मजकूर बॉक्सला स्पर्श करा</string>
+    <string name="add_a_google_account">Google खाते जोडा</string>
+    <string name="captcha_title">कॅप्चा प्रविष्ट करणे आवश्यक आहे</string>
+    <string name="show_error_title">त्रुटी</string>
+    <string name="server_error">Google सर्व्हरसह संप्रेषण करण्यात एक समस्या आली.</string>
+    <string name="server_error_help">नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="network_unreliable">सर्व्हरवर विश्वसनीय कनेक्शन स्थापन करू शकत नाही.</string>
+    <string name="network_unreliable_help">ही एक तात्पुरती समस्या असू शकते किंवा डेटा सेवांसाठी आपल्या Android डिव्हाइसची तरतूद केलेली नसू शकते. हे सुरु राहिल्यास, ग्राहक सेवेस कॉल करा.</string>
+    <string name="network_unreliable_help_wifi_only">ही एक तात्पुरती समस्या असू शकते. पुन्हा प्रयत्न करा किंवा दुसर्‍या वाय-फाय नेटवर्कशी कनेक्ट करा.</string>
+    <string name="invalid_login_character">अवैध वर्ण. फक्त 0-9, a-z, A-Z, आणि पूर्णविरामचिन्हे अनुमत आहेत.</string>
+    <string name="invalid_password_character">अवैध संकेतशब्द वर्ण.</string>
+    <string name="calendar">Google कॅलेंडर</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">फील्ड रिक्त असू शकत नाही.</string>
+    <string name="plus_query_title">Google+ वर श्रेणीसुधारित करा</string>
+    <string name="plus_query_text">Google+ वेबवर सामायिक करणे अधिकतर वास्तविक-जीवनात सामायिक करण्यासारखेच बनवते.</string>
+    <string name="circles_subtitle">आपण ज्या सामग्रीत आहात त्याचा प्रवाह</string>
+    <string name="circles_text">जीवलग मित्रांशी कनेक्ट करा आणि सामान्य स्वारस्ये एक्सप्लोर करा.</string>
+    <string name="uploads_subtitle">स्वयंचलित फोटो बॅकअप</string>
+    <string name="uploads_text">आपण फोटो घेता तसेच विनामूल्य आणि खाजगी संचयनासह, त्यांचा बॅकअप घ्या.</string>
+    <string name="huddle_subtitle">व्हिडिओ कॉलिंग आणि संदेशन</string>
+    <string name="huddle_text">Hangouts सह मजकूर पाठवणे, फोटो आणि विनामूल्य गट व्हिडिओंचा आनंद घ्या.</string>
+    <string name="plus_declined_button_label">आत्ता नाही</string>
+    <string name="plus_accepted_button_label">प्रारंभ करा</string>
+    <string name="plus_name_check_title">Google+ शी संपर्क साधत आहे…</string>
+    <string name="plus_name_check_text">यास काही मिनिटे लागू शकतात.</string>
+    <string name="plus_faq_title">Google+ वर आपले स्वागत आहे!</string>
+    <string name="plus_faq_text" formatted="false">"Google+ वर, आपल्या मित्रांना आपल्याला ऑनलाइन शोधण्यात मदत करण्यासाठी आपल्याकडे एक सार्वजनिक प्रोफाईल असेल. आपला ईमेल पत्ता माहित असलेले कोणीही आपले प्रोफाईल शोधू आणि पाहू शकतो.
+
+ आपण जगास गोष्टींची शिफारस करण्यासाठी संपूर्ण वेबवर +1 बटणे वापरू शकता. आपले प्रोफाईल आणि +1 शोध मध्ये, जाहिरातींमध्ये आणि वेबवर सार्वजनिकपणे दिसेल.
+
+आत्ता, आपले प्रोफाईल फक्त आपले (%s %s) नाव दर्शवेल. आपण एक फोटो, स्वतःबद्दलची माहिती आणि अन्य तपशील नंतर जेव्हा Google+ वापरणे प्रारंभ कराल तेव्हा जोडू शकता."</string>
+    <string name="dasher_warning">%s वरील प्रशासक Google+ वरील आपल्‍या सर्व डेटाचा मालक आहे आणि तो त्‍यास व्यवस्थापित करतो आणि आपल्या परवानगीशिवाय कोणत्याही वेळी आपले प्रोफाईल हटवू किंवा सुधारित करू शकतो.</string>
+    <string name="profile_info_title">आपले प्रोफाईल</string>
+    <string name="profile_text">आपल्या प्रोफाईलसाठी काही मूलभूत माहिती प्रदान करा. नंतर जेव्हा आपण Google+ वापरणे प्रारंभ कराल तेव्हा आपण फोटो आणि अन्य तपशील जोडू शकता.</string>
+    <string name="occupation">व्यवसाय</string>
+    <string name="current_city">वर्तमान शहर</string>
+    <string name="picassa_info_title">Picasa आणि Google+</string>
+    <string name="picassa_info_text" formatted="false">Picasa Web Albums वरील आपले फोटो आणि व्‍हिडिओ Google+ वर उपलब्‍ध असतील आणि आपल्‍या टिप्पण्‍या %s ऐवजी %s %s नावाने असतील. आपण Google+ वर फोटो सामायिक करता तेव्‍हा, प्राप्तकर्ते ते इतर कोणासहही पुन्‍हा सामायिक करू शकतात. आपल्‍या अल्‍बमच्या दृश्‍यमानता सेटिंग्‍ज बदलणार नाहीत आणि आपण कोणत्याही वेळी त्‍यांना मर्यादा घालू शकता जेणे करून त्‍या मुक्तपणे पुन्‍हा सामायिक केल्‍या जाऊ शकत नाहीत.</string>
+    <string name="name_title_plus">आपले Google+ नाव</string>
+    <string name="name_title_local">हा फोन यांच्या मालकीचा आहे…</string>
+    <string name="name_text_local">फोन काही अॅप्स वैयक्तिकृत करण्यासाठी आपले नाव वापरतो.</string>
+    <string name="name_progress_title">फक्त एक सेकंद…</string>
+    <string name="bad_name_title">हे नाव वापरायचे?</string>
+    <string name="invalid_name_title">हे नाव वापरू शकत नाही</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"हे आपले Google+ नाव असावे असे आपण इच्‍छित असल्‍यास, आमच्या कार्यसंघास त्‍याचे पुनरावलोकन करण्‍याची आवश्‍यकता असेल. हे आमच्या नावे धोरणाचे उल्‍लंघन करीत असल्‍यास, आपले प्रोफाईल निलंबित केले जाईल. सक्रिय प्रोफाईल आवश्‍यक असणारी Google उत्‍पादने वापरण्‍याच्‍या आपल्‍या क्षमतेवर हे मर्यादा घालेल.
+
+"<annotation id="learn_more">अधिक जाणून घ्‍या</annotation></string>
+    <string name="invalid_name_text">या नावात अवैध वर्ण असल्‍याने आपण ते Google+ सह वापरू शकत नाही.</string>
+    <string name="invalid_nickname_text">या नावात अवैध वर्ण असल्‍याने आपण ते Google+ सह वापरू शकत नाही. टोपणनाव, पूर्वीचे नाव किंवा शीर्षक वापरण्‍याचा प्रयत्न करीत आहात? आपण सामील झाल्‍यानंतर आपण ते आपल्‍या प्रोफाईलमध्‍ये जोडू शकता.</string>
+    <string name="invalid_other_text">हे नाव Google+ सह वापरता येऊ शकत नाही</string>
+    <string name="bad_name_agree_text">मला हे समजते आणि हे नाव वापरू इच्छितो.</string>
+    <string name="bad_name_decline_button_label">नाव अद्यतनित करा</string>
+    <string name="bad_name_agree_button_label">पुनरावलोकनासाठी नाव सबमिट करा</string>
+    <string name="bad_name_skip_button_label">Google+ वगळा</string>
+    <string name="photo_title">आपला फोटो</string>
+    <string name="photo_text">हा फोटो आपल्या संपर्क रेकॉर्डमध्ये वापरला जाईल. आपण लोक अॅप मध्ये नंतर तो बदलू शकता.</string>
+    <string name="photo_text_es">Google+ वर आपले मित्र पाहतील असा फोटो घ्या. आपण नंतर एक नवीन चित्र निवडू शकता.</string>
+    <string name="photo_button_label">फोटो घ्‍या</string>
+    <string name="retake_photo_button_label">फोटो पुन्हा घ्या</string>
+    <string name="photo_failure">कॅमेरा लाँच करू शकलो नाही.</string>
+    <string name="crop_failure">फोटो कापू शकलो नाही.</string>
+    <string name="photo_description">आपला फोटो</string>
+    <string name="communicating_message">आपल्‍या खात्‍यावर माहिती जतन करण्‍यासाठी आपला फोन Google शी संपर्क साधत आहे. यासाठी सुमारे 5 मिनिटे लागू शकतात.</string>
+    <string name="creating_account_title">खाते जतन करीत आहे...</string>
+    <string name="checking_username_message">"आपले इच्‍छित वापरकर्तानाव उपलब्‍ध आहे किंवा नाही ते पाहण्‍यासाठी आपला फोन Google शी संपर्क साधत आहे.
+
+यासाठी काही मिनिटे लागू शकतात."</string>
+    <string name="plus_failure_title">Google+ मध्ये नंतर सामील व्हा</string>
+    <string name="plus_failure_new_account_text">आपले Google खाते तयार केले गेले आहे, परंतु आपली Google+ मध्ये सामील होण्याची विनंती त्याद्वारे गेली नाही. कोणत्याही वेब ब्राउझरवरून plus.google.com वर नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="plus_failure_text">आपली Google+ मध्ये सामील होण्याची विनंती त्याद्वारे गेली नाही. कोणत्याही वेब ब्राउझरवरून plus.google.com वर नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="provisioned_login_title">संकेतशब्द प्रविष्ट करा</string>
+    <string name="provisioned_welcome">हाय, %s!</string>
+    <string name="provisioned_welcome_2">"यासाठी आपला संकेतशब्द प्रविष्ट करा:
+%s"</string>
+    <string name="provisioned_incorrect_login">%s नाही?</string>
+    <string name="login_title">ईमेल आणि संकेतशब्‍द टाईप करा</string>
+    <string name="login_task_title">साइन इन करीत आहे</string>
+    <string name="password">संकेतशब्द</string>
+    <string name="restore_wifi">ज्ञात वाय-फाय नेटवर्कवर पुनर्संचयित करा आणि कनेक्ट करा.</string>
+    <string name="sign_in_agreement_multi_user">साइन इन करून, आपण Google <annotation id="tos">सेवा अटी</annotation>, <annotation id="google_privacy">गोपनीयता धोरण</annotation>, आणि <annotation id="play_tos">Google Play सेवा अटी</annotation>" यांना सहमती देत आहात. 
+
+लक्षात ठेवा: आपल्या वतीने कोणताही अन्य वापरकर्ता अद्यतनित केलेल्या अॅप परवानग्या स्वीकारू शकतो. कोणत्याही संगणकाप्रमाणेच, आपण केवळ आपला विश्वास असलेल्या लोकांसह हा टॅब्लेट सामायिक करू शकता."</string>
+    <string name="sign_in_agreement_with_chrome">साइन इन करून, आपण Google <annotation id="tos">सेवा अटी</annotation> आणि <annotation id="google_privacy">गोपनीयता धोरण</annotation>, Chrome <annotation id="chrome_tos">सेवा अटी</annotation> आणि <annotation id="chrome_privacy">गोपनीयता सूचना</annotation>, आणि Google Play <annotation id="play_tos">सेवा अटी</annotation> यांना सहमती देत आहात.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">साइन इन करून, आपण Google <annotation id="tos">सेवा अटी</annotation> आणि <annotation id="google_privacy">गोपनीयता धोरण</annotation>, Chrome <annotation id="chrome_tos">सेवा अटी</annotation> आणि <annotation id="chrome_privacy">गोपनीयता सूचना</annotation>, आणि Google Play <annotation id="play_tos">सेवा अटी</annotation>" यांना सहमती देत आहात. 
+
+लक्षात ठेवा: कोणताही अन्य वापरकर्ता आपल्या वतीने अद्यतनित केलेल्या अॅप परवानग्या स्वीकार करू शकतो. कोणत्याही संगणकाप्रमाणेच, आपण केवळ आपला विश्वास असलेल्या लोकांसह हा टॅब्लेट सामायिक करावा."</string>
+    <string name="create_prompt">" Google खाते नाही? "<annotation id="create_account">आता एक खाते तयार करा</annotation>.</string>
+    <string name="sign_in_with_google_account_short">आपल्या Google खात्यासह साइन इन करा:</string>
+    <string name="invalid_username">आपण टाईप केलेला मजकूर वैध वापरकर्ता नाव नाही.</string>
+    <string name="captcha_instructions">आपण येथे पाहता तो मजकूर टाइप करा:</string>
+    <string name="create_google_account">वापरकर्तानाव निवडा</string>
+    <string name="create_google_account_text">आपले Google खाते Gmail, Google वरील ईमेलसह येते. ते कोणत्याही डिव्हाइसवर कार्य करते, स्पॅम अवरोधित करते आणि अधिक.</string>
+    <string name="account_already_has_gmail">खात्यामध्ये आधीपासून Gmail आहे.</string>
+    <string name="error_account_disabled">"हे खाते अक्षम केले गेले आहे. 
+
+(तपशीलांसाठी, एका वेब ब्राउझरवरून https://google.com/accounts ला भेट द्या.)"</string>
+    <string name="no_network">आपल्याकडे नेटवर्क कनेक्शन नाही.</string>
+    <string name="no_network_help">ही एक तात्पुरती समस्या असू शकते किंवा डेटा सेवांसाठी आपल्या Android डिव्हाइसची तरतूद केलेली नसू शकते. मोबाईल नेटवर्कला कनेक्ट केलेले असताना पुन्हा प्रयत्न करा किंवा वाय-फाय नेटवर्कशी कनेक्ट करा.</string>
+    <string name="no_network_help_wifi_only">ही एक तात्पुरती समस्या असू शकते. पुन्हा प्रयत्न करा किंवा दुसर्‍या वाय-फाय नेटवर्कशी कनेक्ट करा.</string>
+    <string name="error_login_failed">"आपले वापरकर्तानाव आणि संकेतशब्द जुळत नाही. पुन्हा प्रयत्न करा.
+
+आपली खाते माहिती पुनर्प्राप्त करण्यासाठी, google.com/accounts/recovery/ वर जा."</string>
+    <string name="error_account_not_verified">"हे खाते सत्‍यापित केले गेले नाही. आपले ईमेल तपासा आणि हे खाते सत्‍यापित करण्‍यासाठी समाविष्‍ट केलेल्‍या दुव्‍याचे अनुसरण करा.  
+
+(आपली खाते माहिती पुनर्प्राप्त करण्यासाठी, आपल्या संगणकावरील http://www.google.com/accounts/recovery वर जा.)"</string>
+    <string name="exit_menu_item">ब्राउझर साइन-इन च्या बाहेर पडा</string>
+    <string name="creating_profile">आपले प्रोफाईल तयार करीत आहे…</string>
+    <string name="checking_account">उपलब्धता तपासत आहे…</string>
+    <string name="is_not_available">वापरकर्तानाव <b>^1</b> उपलब्ध नाही.</string>
+    <string name="suggestions_hint">सूचनांसाठी स्पर्श करा</string>
+    <string name="suggest_username_next_button_label">वापरकर्तानाव बदला</string>
+    <string name="hint_size">" "<b>^1</b> मध्ये 6 पेक्षा कमी किंवा 30 पेक्षा अधिक वर्ण असतात.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> मध्‍ये कोणतीही अक्षरे नसतात.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" मध्ये फक्त अक्षरे,
+संख्या आणि पूर्णविरामचिन्हे असू शकतात."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> Gmail चा वापर करीत नाही.</string>
+    <string name="sign_in_browser">ब्राउझर साइन-इन</string>
+    <string name="alternatives_list_title">सुचविलेली वापरकर्तानावे</string>
+    <string name="password_title">संकेतशब्द तयार करा</string>
+    <string name="choose_a_password">संकेतशब्द</string>
+    <string name="confirm_password">संकेतशब्द पुन्हा-टाइप करा</string>
+    <string name="too_short">खूपच लहान</string>
+    <string name="security_questions_title">सुरक्षितता प्रश्न</string>
+    <string name="answer">" "<b>उत्तर</b></string>
+    <string name="password_mismatch">संकेतशब्द जुळला नाही. पुन्हा प्रयत्न करा.</string>
+    <string name="eight_chars_min">किमान 8 वर्ण</string>
+    <string name="verify_your_profile">आपले प्रोफाईल सत्यापित करा</string>
+    <string name="error_not_logged_in">वापरकर्त्याने साइन इन केलेले नाही.</string>
+    <string name="error_username_unavailable">वापरकर्तानाव उपलब्ध नाही.</string>
+    <string name="error_bad_password">संकेतशब्द खूप कमकुवत आहे किंवा त्यात अवैध वर्ण आहेत. पुन्हा प्रयत्न करा.</string>
+    <string name="error_bad_username">अवैध वापरकर्तानाव.</string>
+    <string name="existing_account_error_title">खाते आधीपासून अस्तित्वात आहे</string>
+    <string name="existing_account_error_text">या Android डिव्हाइसवर आधीपासून एक ^1 खाते आहे.</string>
+    <string name="submission_title">क्षमस्व...</string>
+    <string name="submission_error_text">एक त्रुटी आली. पुन्हा प्रयत्न करा.</string>
+    <string name="sync_intro_title">खाते संकालन</string>
+    <string name="account_tos_title">खाते समाप्त करा</string>
+    <string name="account_tos_plus_title">Google+ मध्ये सामील होणे समाप्त करा</string>
+    <string name="i_accept">मी स्वीकारत आहे</string>
+    <string name="i_decline">खाते तयार करू नका</string>
+    <string name="allow_personalized_content">Google ला गैर-Google वेबसाइट वरील सामग्री आणि जाहिराती वैयक्तिकृत करण्यासाठी आपली माहिती वापरण्याची अनुमती द्या.</string>
+    <string name="enable_web_history">वेब इतिहास चालू करा</string>
+    <string name="learn_more"><annotation id="learn_more">अधिक जाणून घ्या</annotation></string>
+    <string name="account_creation_tos">सुरु ठेवून, आपण Google <annotation id="tos">सेवा अटी</annotation>, <annotation id="google_privacy">गोपनीयता धोरण</annotation>, आणि <annotation id="play_tos">Google Play सेवा अटी</annotation> यांना सहमती देत आहात.</string>
+    <string name="account_creation_tos_with_chrome">सुरु ठेवून, आपण Google <annotation id="tos">सेवा अटी</annotation> आणि <annotation id="google_privacy">गोपनीयता धोरण</annotation>, Chrome <annotation id="chrome_tos">सेवा अटी</annotation> आणि <annotation id="chrome_privacy">गोपनीयता सूचना</annotation>, आणि Google Play <annotation id="play_tos">सेवा अटी</annotation> यांना सहमती देत आहात.</string>
+    <string name="gender_prompt">लिंग</string>
+    <string name="gender_hint">लिंग</string>
+    <string name="account_pre_intro_title">Google मिळाले?</string>
+    <string name="account_pre_intro_default_message">"आपल्याकडे Google खाते आहे?
+
+आपण Gmail किंवा Google Apps वापरत असल्यास, होय उत्तर द्या."</string>
+    <string name="account_pre_intro_yes">होय</string>
+    <string name="account_pre_intro_no">नाही</string>
+    <string name="account_intro_title">Google खाते</string>
+    <string name="account_intro_required_title">Google कडून समर्थित</string>
+    <string name="account_intro_recommended_title">यास Google बनवा</string>
+    <string name="account_intro_default_message">आपली सामग्री पुन्हा कधीही गमावू नका. Google खाते प्रत्येकगोष्ट सुरक्षित ठेवते.</string>
+    <string name="account_intro_simple_message">आपण अस्तित्वात असलेले खाते जोडू इच्‍छिता किंवा एक नवीन तयार करू इच्छिता?</string>
+    <string name="account_intro_learn_more">अधिक जाणून घ्या</string>
+    <string name="learn_more_title">अधिक जाणून घ्या</string>
+    <string name="learn_more_account_intro">"Google खाते आपल्याला हे करू देते:
+
+"<li><ul>आपली सर्व माहिती पहा आणि व्यवस्थापित करा—आपल्या शोध इतिहासासह—कुठूनही.</ul></li>"
+
+"<li><ul>ईमेल, संपर्क, संगीत आणि चित्रे यासारख्या, आपल्या डेटाचा बॅकअप स्वयंचलितपणे घ्या.</ul></li>"
+
+"<li><ul>कुठूनही Google सेवा सुलभपणे वापरा—संपर्क, कॅलेंडर, नकाशे आणि अधिकसह.</ul></li></string>
+    <string name="learn_more_account_intro_title">Google खात्यांविषयी</string>
+    <string name="learn_more_bad_name">Google+ ला आपण आपले सामान्‍य नाव वापरण्‍याची आवश्‍यकता असते. आपल्‍या प्रोफाईलने एका व्‍यक्तीचे प्रतिनिधीत्‍व करावे—व्‍यवसाय, संस्‍था किंवा कुटुंबाचे नाही—आणि अनावश्‍यक विरामचिन्‍हे किंवा व्‍यावसायिक शीर्षकांशिवाय एकाच भाषेतील आपले नाव आणि आडनाव समाविष्‍ट करावे. साइनअप केल्‍यानंतर, आपल्‍या प्रोफाईल मधील अन्‍य नावे फील्‍ड मध्ये आपण संबद्ध आहात ती टोपणनावे किंवा इतर नावे आपण ठेवू शकता.</string>
+    <string name="learn_more_bad_name_title">नावे धोरणाविषयी</string>
+    <string name="wait_for_device_country_title">खाते सेटअप</string>
+    <string name="wait_for_device_country_msg">आपल्या फोनविषयी माहिती एकत्र करत आहे. यास सुमारे 30 सेकंद लागू शकतात.</string>
+    <string name="recovery_title">Google संकेतशब्द पुनर्प्राप्ती</string>
+    <string name="recovery_wait_title">Google शी संपर्क साधत आहे...</string>
+    <string name="cannot_talk_to_server_msg">डिव्हाइस Google पर्यंत पोहोचू शकले नाही.</string>
+    <string name="recovery_skip_label">वगळा</string>
+    <string name="recovery_retry_label">पुन्हा प्रयत्न करा</string>
+    <string name="recovery_message_set">"आपण आपला संकेतशब्द कधीकाळी विसरल्यास, आपण तो पुनर्प्राप्त करण्याचा मार्ग शोधाल.
+
+आपला संकेतशब्द SMS द्वारे किंवा वैकल्पिक ईमेलद्वारे पुनर्प्राप्त करण्यासाठी Google पर्याय प्रदान करते.
+
+या चरणाची खंबीरपणे शिफारस केली आहे. "<annotation id="help_url">अधिक जाणून घ्या</annotation></string>
+    <string name="recovery_message_verify">"संकेतशब्द सहजपणे विसरले जातात.
+
+आता आपल्या फोन नंबरची पुष्टी करा किंवा ईमेल पत्त्याचा बॅकअप घ्या. हे Google आणि Google Play वर आपल्या सामग्रीवरील प्रवेश पुनर्प्राप्त करण्यास आपल्याला मदत करते. "<annotation id="help_url">अधिक जाणून घ्या</annotation></string>
+    <string name="recovery_yes_button_label">पुनर्प्राप्ती पर्याय सेट करा</string>
+    <string name="recovery_yes_button_label_verify">पुनर्प्राप्ती पर्यायांची पुष्टी करा</string>
+    <string name="recovery_later_button_label">आत्ता नाही</string>
+    <string name="recovery_input_screen_message">ही पुनर्प्राप्ती माहिती %s ला लागू होते.</string>
+    <string name="secondary_email_hint">बॅकअप ईमेल</string>
+    <string name="secondary_email_invalid">अवैध ईमेल पत्ता</string>
+    <string name="secondary_email_same_as_primary">प्राथमिक ईमेलसारखाच असू शकत नाही</string>
+    <string name="phone_number_hint">फोन नंबर</string>
+    <string name="phone_number_invalid_character">फोन नंबरमध्ये अवैध वर्ण</string>
+    <string name="phone_number_invalid">अवैध फोन नंबर</string>
+    <string name="country_invalid">हा देश अनुमत नाही</string>
+    <string name="recovery_server_error">सर्व्हरशी संवाद साधताना त्रुटी. कृपया काही वेळानंतर पुन्हा प्रयत्न करा.</string>
+    <string name="account_recovery_info">आपण आपला संकेतशब्द कधीकाळी गमावल्यास, आपण एका सुरक्षितता प्रश्नाचे उत्तर देऊ शकता आणि एका भिन्न पत्त्यावर ईमेल केलेला रीसेट दुवा प्राप्त करू शकता.</string>
+    <string name="secondary_email_label">पुनर्प्राप्ती ईमेल पत्ता</string>
+    <string name="invalid_email">"आपण टाईप केलेला ईमेल पत्ता वैध नाही.
+ उदाहरण: joe@example.com"</string>
+    <string name="invalid_email_primary">पुनर्प्राप्ती पत्ता आपण तयार करत आहात त्यासारखाच असू शकत नाही.</string>
+    <string name="backup_consent_message">"आपल्‍या Google खात्‍याचा आपले अ‍ॅप्‍स, सेटिंग्‍ज (जसे की बुकमार्क आणि वाय-फाय संकेतशब्‍द) आणि इतर डेटाचा बॅक अप घेण्‍यासाठी वापर करा. आपण आपल्‍या खात्‍याचा पूर्वी बॅक अप घेतला असल्‍यास, आपण आता या फोनवर तो पुनर्संचयित करू शकता.
+
+आपण कोणत्‍याही वेळी सेटिंग्‍जमध्‍ये आपल्‍या बॅकअप सेटिंग्‍ज बदलू शकता."</string>
+    <string name="backup_consent_message_no_restore">"आपल्‍या Google खात्‍याचा आपले अ‍ॅप्‍स, सेटिंग्‍ज (जसे की बुकमार्क आणि वाय-फाय संकेतशब्‍द) आणि इतर डेटाचा बॅक अप घेण्‍यासाठी वापर करा. 
+
+आपण कोणत्‍याही वेळी सेटिंग्‍जमध्‍ये आपल्‍या बॅकअप सेटिंग्‍ज बदलू शकता."</string>
+    <string name="restoring_title">पुनर्संचयित करत आहे…</string>
+    <string name="restoring_message">आपले खाते पुनर्संचयित करण्यासाठी आपला फोन Google शी संपर्क साधत आहे. यास थोडा वेळ लागू शकतो.</string>
+    <string name="gls_notification_login_error">आपल्या खात्यामध्‍ये साइन इन करण्यासाठी स्पर्श करा.</string>
+    <string name="gls_ui_add_account_title">खाते सेटअप</string>
+    <string name="gls_ui_activity_title">साइन इन करा</string>
+    <string name="gls_ui_activity_title_browser_signin">साइन इन करा</string>
+    <string name="gls_ui_activity_title_checking_in">तयार करीत आहे…</string>
+    <string name="gls_ui_activity_authenticating">प्रमाणीकरण करत आहे…</string>
+    <string name="gls_dmagent_activity_activate_message">" आपल्या डोमेनसाठी मोबाईल डिव्हाइस व्यवस्थापन आवश्यक आहे.  "<b>^1</b> खात्यासाठी आवश्यक असलेल्या सुरक्षितता धोरणांची अंमलबजावणी करण्यासाठी \"Google Apps डिव्हाइस धोरण\" अॅप सक्रिय करा.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">सक्रिय करा</string>
+    <string name="gls_dmagent_activity_download_message">" आपल्या डोमेनसाठी मोबाईल डिव्हाइस व्यवस्थापनाची आवश्यकता आहे.  "<b>^1</b> खात्यासाठी आवश्यक केलेल्या सुरक्षितता धोरणांची अंमलबजावणी करण्यासाठी \"Google Apps डिव्हाइस धोरण\" अॅप स्थापित करा.</string>
+    <string name="gls_dmagent_activity_download_retry_button">डाउनलोड करा</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">आपण एक चुकीचा संकेतशब्द टाईप केला किंवा आपले खाते बदलले आहे. आपला संकेतशब्द पुन्हा टाईप करा.</string>
+    <string name="permlab_googleAuthPassword">Google खात्यांसाठी संकेतशब्दांमध्ये प्रवेश करा</string>
+    <string name="permdesc_googleAuthPassword">अ‍ॅप्‍सना आपण सेट केलेल्‍या Google खात्‍या(त्‍यां) च्‍या संकेतशब्‍दांवर थेट प्रवेशाची अनुमती देते.</string>
+    <string name="permlab_googleMailSwitch">Gmail किंवा Google मेल ब्रँडिंग निवडा</string>
+    <string name="permdesc_googleMailSwitch">\"Gmail\" आणि \"Google Mail\" ब्रँडिंग मध्‍ये प्रदर्शित नाव स्‍विच करण्‍यासाठी अ‍ॅप्‍सना अनुमती देते.</string>
+    <string name="sync_item_title">%s संकालित करा</string>
+    <string name="grant_credentials_permission_message_footer">ते हे करण्‍यासाठी परवानगीची विनंती करीत आहे:</string>
+    <string name="grant_credentials_permission_message_app">हे अ‍ॅप्‍स यापुढे आपल्‍या Google खात्‍यावर प्रवेश इच्छितात:</string>
+    <string name="grant_permissions_header_text">परवानगीची विनंती</string>
+    <string name="allow">प्रवेशासाठी अनुमती द्या</string>
+    <string name="deny">नाही धन्यवाद</string>
+    <string name="permission_request_notification_with_subtitle">"%s खात्यासाठी
+परवानगीची विनंती केली."</string>
+    <string name="notification_title">%1$s करिता साइन-इन त्रुटी</string>
+    <string name="account_setup_title">Google खाते</string>
+    <string name="login_activity_title">साइन इन करा</string>
+    <string name="relogin_activity_title">संकेतशब्द पुन्हा-टाइप करा</string>
+    <string name="show_error_activity_title">साइन इन करू शकलो नाही</string>
+    <string name="login_activity_task_title">साइन इन करीत आहे...</string>
+    <string name="login_activity_task_msg">यास काही मिनिटे लागू शकतात.</string>
+    <string name="prepare_account_setup_task_title">खाते सेटअप तयार करत आहे…</string>
+    <string name="prepare_account_setup_task_msg">यास काही मिनिटे लागू शकतात.</string>
+    <string name="sync_intro_activity_title">आपल्या खात्याचे संकालन करा</string>
+    <string name="username">ईमेल</string>
+    <string name="error_invalid_second_factor">आपल्‍या नियमित खाते संकेतशब्दाऐवजी अ‍ॅप-निर्दिष्‍ट संकेतशब्‍द वापरा.</string>
+    <string name="error_needs_browser">आपल्या खात्यावर प्रवेश करण्यासाठी, आपण वेबवर साइन इन करणे आवश्यक आहे. ब्राउझर साइन-इन प्रारंभ करण्यासाठी पुढील ला स्पर्श करा.</string>
+    <string name="google_play_opt_in">मला बातम्यांसह आणि Google Play वरील ऑफरसह अद्ययावत ठेवा.</string>
+    <string name="google_settings_header_title">गोपनीयता</string>
+    <string name="maps_settings_title">नकाशे आणि अक्षांश</string>
+    <string name="location_settings_title">स्थान</string>
+    <string name="search_settings_title">शोधा</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">जाहिराती</string>
+    <string name="location_network_based">Google ची स्थान सेवा</string>
+    <string name="location_neighborhood_level">Google कडे अनामित स्थान डेटा पाठविण्यास अनुमती द्या. तसेच आपले अंदाजे स्थान निर्धारित करण्यासाठी वाय-फाय आणि मोबाईल नेटवर्क यासारख्या स्त्रोतांकडील डेटा वापरण्यास परवानगी दिलेल्या अॅप्स ला अनुमती द्या.</string>
+    <string name="use_location_title">स्थान आणि Google शोध</string>
+    <string name="use_location_summary">शोध परिणाम आणि अन्य सेवांमध्ये सुधारणा करण्यासाठी Google ला आपले स्थान वापरू द्या</string>
+    <string name="backup_consent_yes_agree">आपले अॅप्स, सेटिंग्ज (जसे की बुकमार्क आणि वाय-फाय संकेतशब्द) आणि अन्य डेटा यांचा बॅकअप घेण्यासाठी आपले Google खाते वापरा.</string>
+    <string name="restore_consent_yes_agree">आपण यापूर्वी आपल्या Google खात्यावर बॅकअप घेतलेले अॅप्स, सेटिंग्ज आणि अन्य डेटा या फोनवर आणा.</string>
+    <string name="audit_logging_summary">आमची उत्पादने सुधारण्यात आणि आपले डिव्हाइस संरक्षित करण्यात मदत करण्यासाठी Google कडे डिव्हाइस इव्हेंट आणि निदान माहिती स्वयंचलितपणे पाठवा.</string>
+    <string name="no_back_msg">मागील चरणावर परत जाऊ शकत नाही.</string>
+    <string name="setup_wizard_title">सेटअप विझार्ड</string>
+    <string name="setup_wizard_services_activity_title">Google सेवा</string>
+    <string name="setup_wizard_services_description">या सेवा आपल्‍यासाठी Google ला कामावर लावतात आणि आपण त्या कधीही चालू किंवा बंद करू शकता. डेटा Google च्या <annotation id="google_privacy">गोपनीयता धोरणानुसार</annotation> वापरला जाईल.</string>
+    <string name="setup_wizard_services_backup_restore_heading">बॅकअप घ्या आणि पुनर्संचयित करा</string>
+    <string name="setup_wizard_services_location_heading">स्थान</string>
+    <string name="setup_wizard_services_communication_heading">संप्रेषण</string>
+    <string name="setup_wizard_services_backup">आपले Google खाते वापरून <b>आपल्या फोनचे अॅप्स, अॅप डेटा, सेटिंग्ज, वैयक्तिक शब्दकोश आणि वायफाय संकेतशब्दांचा बॅकअप घ्या</b> जेणेकरून आपण नंतर सहज पुनर्संचयित करू शकता. <annotation id="backup_details">अधिक जाणून घ्या</annotation></string>
+    <string name="setup_wizard_services_backup_restore">आपले Google खाते वापरून <b>आपल्या अॅप्स, अॅप डेटा, सेटिंग्ज, वैयक्तिक शब्दकोश आणि वायफाय संकेतशब्दांचा बॅकअप घ्या</b> जेणेकरून आपण नंतर सहज पुनर्संचयित करू शकता.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">डेटामध्ये अॅप्स, अॅप सेटिंग्ज, सिस्टम सेटिंग्ज आणि वाय-फाय संकेतशब्द समाविष्ट होतात.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">जेव्हा आपण स्वयंचलित बॅक अप चालू करता, तेव्हा आपल्या Google खात्यावर आपल्या डिव्हाइसचा डेटा मधुनमधुन जतन केला जातो. बॅक अप मध्ये प्राधान्ये, सेटिंग्ज, संदेश, फोटो आणि अन्य फायली यासारख्या, आपल्या अॅप डेटा फोल्डरमधील माहिती समाविष्ट असू शकते.</string>
+    <string name="setup_wizard_services_location_sharing">अ‍ॅप्सना स्थान निर्धारित करण्‍यात मदत करण्‍यासाठी <b>Google च्या स्थान सेवांचा वापर करा</b>. याचा अर्थ कोणतेही अ‍ॅप्स चालत नसताना देखील अनामित स्थान डेटा Google कडे पाठवला जाईल.<annotation id="location_details">अधिक जाणून घ्‍या</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google ची स्‍थान सेवा आपल्या डिव्हाइसच्या स्थानाचा अधिक जलद आणि अधिक अचूकपणे अंदाज लावण्यात मदत करण्‍यासाठी वाय-फाय आणि सेल्युलर नेटवर्क सारख्या स्त्रोतांचा वापर करते. आपण Google च्या स्थान सेवा चालू करता तेव्हा, स्थान माहिती प्रदान करण्‍यासाठी आपले डिव्हाइस वाय-फाय आणि सेल्युलर नेटवर्क वापरणार्‍या मोडमध्ये प्रवेश करते. काहीवेळा डिव्हाइस केवळ मोड म्हणविला जाणारा, फक्त GPS चा वापर करणारा मोड निवडून आपण हे स्थान सेटिंग्जमध्ये बंद करु शकता.</string>
+    <string name="setup_wizard_services_location_wifi_scan">"अ‍ॅप्स आणि सेवांना वाय-फाय बंद असताना देखील वाय-फाय  नेटवर्कसाठी स्कॅन करु देऊन "<b>स्‍थान सेवा सुधारण्‍यात मदत करा</b>.</string>
+    <string name="setup_wizard_services_location_footnote">Google ची स्थान सेवा स्थान अधिक अचूकपणे आणि द्रुतपणे निर्धारित करण्यासाठी वाय-फाय आणि अन्य सिग्नल वापरते, ते ही अनेकदा GPS पेक्षा कमी उर्जा वापरून. काही डेटा आपल्या डिव्हाइसवर संचयित केला जाऊ शकतो. कोणतेही अॅप्स चालत नसतात तेव्हा देखील डेटा संकलित केला जाऊ शकतो.</string>
+    <string name="setup_wizard_services_play">Google Play वरील बातम्यांबद्दल आणि ऑफरबद्दल <b>मला अद्ययावत ठेवा</b>.</string>
+    <string name="setup_wizard_services_usage_reporting">Google कडे स्वयंचलितपणे निदान आणि वापर डेटा पाठवून <b>आपला Android अनुभव सुधारण्‍यात मदत करा</b>. ही माहिती आपल्याला ओळखण्यासाठी वापरली जाणार नाही आणि बॅटरी लाइफ, अ‍ॅप कार्यप्रदर्शन आणि नवीन Google वैशिष्ट्ये यासारख्या गोष्‍टींवर कार्य करणार्‍या कार्यसंघांना मदत करते. <annotation id="usage_reporting_details">अधिक जाणून घ्‍या</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"वस्तूंनी जसे कार्य करावे त्याप्रकारे त्या करत नसल्यास आपल्या डिव्हाइसविषयी आणि आपण ते कसे वापरता याविषयी ही सामान्य माहिती आहे, जसे की बॅटरीची पातळी, आपण आपले अ‍ॅप्स किती वारंवार वापरता, आपल्या नेटवर्क कनेक्शनची गुणवत्ता आणि कालावधी (सेल, वाय-फाय आणि ब्लूटुथ यासारख्या) क्रॅश अहवाल. प्रत्येकासाठी Google ची उत्पादने आणि सेवा सुधारण्यासाठी ही वापरली जाईल आणि आपल्या Google खात्याशी संबद्ध राहणार नाही. काही एकत्र केलेल्या माहितीमुळे भागीदारांना मदत होईल, जसे की Android विकासक, त्यांचे अ‍ॅप्स आणि उत्पादने देखील, उत्कृष्ट बनवितात.
+
+आपण Google सेटिंग्‍ज अ‍ॅप मध्ये कोणत्याही वेळी हे चालू किंवा बंद करू शकता. हे सिस्‍टम अद्यतन आणि सुरक्षितता सारख्या आवश्‍यक सेवा प्राप्त करण्‍यासाठी आवश्‍यक असलेली माहिती पाठविण्‍याच्या डिव्हाइसच्या क्षमतेस प्रभावित करीत नाही."</string>
+    <string name="setup_wizard_services_agreement">हा फोन Google, आपला वाहक आणि आपल्या फोनच्या निर्मात्याकडून अद्यतने आणि अ‍ॅप्स प्राप्त देखील करु शकतो आणि स्थापित करु शकतो. आपण सुरु ठेवल्यास, काही अ‍ॅप्स डाउनलोड आणि स्थापित होऊ शकतात आणि आपण ते कोणत्याही वेळी काढू शकता.</string>
+</resources>

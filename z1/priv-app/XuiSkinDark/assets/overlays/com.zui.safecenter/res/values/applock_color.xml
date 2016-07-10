@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name ="applock_normal_bg_color">#000000</color> 
+    <color name="applock_statusbar_icon_color">#ffffff</color>
+    <color name="applock_statusbar_color">#131419</color>
+    <color name="applock_listview_divider_color">#151515</color>
+    <color name="applock_title_text_color">#8c8c8c</color>
+     <color name="applock_title_bg">#131419</color>
+</resources>

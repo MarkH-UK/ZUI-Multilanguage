@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="separator_background">#151515</color>
+<color name="separator_background_text">#0b0c0f</color>
+	<color name="app_name_color">#8c8c8c</color>
+	<color name="app_size_color">#5c5c5c</color>
+	<color name="label_name_color">#8c8c8c</color>
+    <color name="label_desc_color">#f2ffffff</color>
+	<color name="notification_bg_color">#ff131419</color>
+	<color name="perm_name_color">#8c8c8c</color>
+	<color name="perm_desc_color">#f2ffffff</color>
+	<color name="perm_background_color">#000000</color>
+        <color name="notification_icon_color">#ffffffff</color>
+        <color name="process_runtime_color">#5c5c5c</color>
+<color name="sub_title_color">#5c5c5c</color>
+</resources>

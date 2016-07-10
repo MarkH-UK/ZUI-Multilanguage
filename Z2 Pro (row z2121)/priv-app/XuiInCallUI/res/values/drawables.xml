@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="x_contacts_list_driver_color">#ffeaeaea</item>
+    <item type="drawable" name="x_contacts_detail_head_image_shade_driver">#0c000000</item>
+    <item type="drawable" name="x_contacts_detail_card_color">#fff4f4f4</item>
+    <item type="drawable" name="x_contacts_detail_head_image_shade">#99000000</item>
+    <item type="drawable" name="grayBg">#ff333333</item>
+</resources>

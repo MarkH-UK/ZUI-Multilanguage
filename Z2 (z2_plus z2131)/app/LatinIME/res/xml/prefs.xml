@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="english_ime_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <PreferenceScreen android:title="@string/settings_screen_preferences" android:key="screen_preferences" android:fragment="com.android.inputmethod.latin.settings.PreferencesSettingsFragment" />
+    <PreferenceScreen android:title="@string/settings_screen_accounts" android:key="screen_accounts" android:fragment="com.android.inputmethod.latin.settings.AccountsSettingsFragment" />
+    <PreferenceScreen android:title="@string/settings_screen_appearance" android:key="screen_appearance" android:fragment="com.android.inputmethod.latin.settings.AppearanceSettingsFragment" />
+    <PreferenceScreen android:title="@string/settings_screen_gesture" android:key="screen_gesture" android:fragment="com.android.inputmethod.latin.settings.GestureSettingsFragment" />
+    <PreferenceScreen android:title="@string/settings_screen_correction" android:key="screen_correction" android:fragment="com.android.inputmethod.latin.settings.CorrectionSettingsFragment" />
+    <PreferenceScreen android:title="@string/settings_screen_advanced" android:key="screen_advanced" android:fragment="com.android.inputmethod.latin.settings.AdvancedSettingsFragment" />
+</PreferenceScreen>

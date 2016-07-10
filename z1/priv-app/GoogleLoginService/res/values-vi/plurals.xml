@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Không sử dụng được tài khoản này vì tài khoản thiếu ứng dụng: ^1. Liên hệ với quản trị viên miền cho "&lt;b>^2&lt;/b>" hoặc đăng nhập bằng một tài khoản khác. "</item>
+        <item quantity="one">" Không sử dụng được tài khoản này vì tài khoản thiếu ứng dụng: ^1. Liên hệ với quản trị viên miền cho "&lt;b>^2&lt;/b>" hoặc đăng nhập bằng một tài khoản khác. "</item>
+    </plurals>
+</resources>

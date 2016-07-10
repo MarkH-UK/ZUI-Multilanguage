@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="channel_pressed">#ffe3e3e3</item>
+    <item type="drawable" name="home_menu_divider">#ff3d3d3d</item>
+    <item type="drawable" name="hot_word_pressed">#fff5f5f5</item>
+    <item type="drawable" name="menu_item_pressed">#fff0f0f0</item>
+    <item type="drawable" name="transparent_drawable">#00000000</item>
+</resources>

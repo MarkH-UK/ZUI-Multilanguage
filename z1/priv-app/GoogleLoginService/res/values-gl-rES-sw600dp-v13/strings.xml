@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">O teu nome úsase para personalizar o tablet e os servizos de Google.</string>
+    <string name="name_title_local">Este tablet pertence a…</string>
+    <string name="name_text_local">O tablet usa o teu nome para personalizar algunhas aplicacións.</string>
+    <string name="communicating_message">O tablet está contactando con Google para gardar a información na túa conta. Pode tardar ata 5 minutos.</string>
+    <string name="checking_username_message">"O tablet está tentando contactar con Google para comprobar se o nome de usuario que escolliches está dispoñible.
+
+O proceso pode tardar un par de minutos."</string>
+    <string name="wait_for_device_country_msg">Estase recompilando información sobre o tablet. Pode tardar ata 30 segundos.</string>
+    <string name="backup_consent_message">"Usa a túa conta de Google para facer unha copia de seguranza das túas aplicacións, da túa configuración (como dos marcadores e dos contrasinais da wifi) e doutros datos. Se creaches previamente unha copia de seguranza da túa conta, podes restablecela neste tablet agora.
+
+Podes cambiar a configuración da túa copia de seguranza cando queiras en Configuración."</string>
+    <string name="backup_consent_message_no_restore">"Usa a túa conta de Google para facer unha copia de seguranza das túas aplicacións, da túa configuración (como dos marcadores e dos contrasinais da wifi) e doutros datos. 
+
+Podes cambiar a configuración da túa copia de seguranza en calquera momento en Configuración."</string>
+    <string name="restoring_message">O tablet está contactando con Google para restablecer a túa conta. Pode tardar ata 5 minutos.</string>
+    <string name="restore_consent_yes_agree">Transferir a este tablet as aplicacións, a configuración e os datos dos que fixeses copia de seguranza anteriormente na túa conta de Google.</string>
+</resources>

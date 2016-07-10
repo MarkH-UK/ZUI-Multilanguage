@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/call_barring"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <com.android.phone.CallBarringCheckBoxPreference android:persistent="false" android:title="@string/all_outgoing" android:key="button_all_outgoing_key" android:summaryOn="@string/enable" android:summaryOff="@string/disable" android:disableDependentsState="true" />
+    <com.android.phone.CallBarringCheckBoxPreference android:persistent="false" android:title="@string/outgoing_international" android:key="button_outgoing_international_key" android:dependency="button_all_outgoing_key" android:summaryOn="@string/enable" android:summaryOff="@string/disable" />
+    <com.android.phone.CallBarringCheckBoxPreference android:persistent="false" android:title="@string/outgoing_international_roaming" android:key="button_international_roaming_key" android:dependency="button_all_outgoing_key" android:summaryOn="@string/enable" android:summaryOff="@string/disable" />
+    <com.android.phone.CallBarringCheckBoxPreference android:persistent="false" android:title="@string/all_incoming" android:key="button_all_incoming_key" android:summaryOn="@string/enable" android:summaryOff="@string/disable" android:disableDependentsState="true" />
+    <com.android.phone.CallBarringCheckBoxPreference android:persistent="false" android:title="@string/incoming_calls_when_roaming" android:key="button_incoming_calls_when_roaming_key" android:dependency="button_all_incoming_key" android:summaryOn="@string/enable" android:summaryOff="@string/disable" />
+    <com.android.phone.EditBarPasswordPreference android:persistent="false" android:title="@string/cancel_all_bar" android:key="button_cancel_all_bar_key" />
+    <com.android.phone.EditBarPasswordPreference android:persistent="false" android:title="@string/update_bar_pwd_title" android:key="button_update_pwd_bar_key" />
+    <PreferenceCategory />
+</PreferenceScreen>

@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="cleanmgr_listview_title_layout">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@drawable/cleanmgr_list_title_bg</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:layout_height">24.0dip</item>
+    </style>
+    <style name="cleanmgr_mylistitem_rightitem">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/cleanmgr_listitem_comment</item>
+        <item name="android:gravity">center|right</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_mylistitem_comment">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/cleanmgr_listitem_comment</item>
+        <item name="android:gravity">left</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_dialog_button_green" parent="@style/cleanmgr_dialog_button_green">
+        <item name="android:textColor">@color/cleanmgr_list_bottom_btn_text</item>
+        <item name="android:background">@drawable/cleanmgr_dialog_btn_green_bg</item>
+    </style>
+    <style name="cleanmgr_mytheme" parent="@android:style/Theme.Dialog">
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/cleanmgr_transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@color/cleanmgr_transparent</item>
+    </style>
+    <style name="cleanmgr_f24_normal">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/cleanmgr_normal_text</item>
+    </style>
+    <style name="cleanmgr_f22_secondary_s">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">@color/cleanmgr_secondary_text</item>
+    </style>
+    <style name="cleanmgr_f18_normal">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@color/cleanmgr_normal_text</item>
+    </style>
+    <style name="cleanmgr_f16_secondary">
+        <item name="android:textSize">11.0dip</item>
+        <item name="android:textColor">@color/cleanmgr_secondary_text</item>
+    </style>
+    <style name="cleanmgr_listitem_rightbutton" parent="@style/cleanmgr_btn_light">
+        <item name="android:textSize">@dimen/cleanmgr_text_medium</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center|right</item>
+        <item name="android:layout_width">83.0dip</item>
+        <item name="android:layout_height">36.0dip</item>
+        <item name="android:layout_marginRight">5.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_listitem_icon_small" parent="@style/cleanmgr_listitem_icon">
+        <item name="android:layout_width">24.0dip</item>
+        <item name="android:layout_height">24.0dip</item>
+    </style>
+    <style name="cleanmgr_btn_light">
+        <item name="android:textColor">@color/cleanmgr_dialog_bottom_btn</item>
+        <item name="android:background">@drawable/cleanmgr_btn_common_bg</item>
+    </style>
+    <style name="cleanmgr_listview_main" parent="@style/cleanmgr_listview_apk">
+        <item name="android:listSelector">@color/cleanmgr_transparent</item>
+    </style>
+    <style name="cleanmgr_scan_layout" parent="@style/cleanmgr_listitem_layout_1">
+        <item name="android:paddingTop">0.0dip</item>
+    </style>
+    <style name="cleanmgr_scan_text">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">@color/cleanmgr_black</item>
+    </style>
+    <style name="cleanmgr_green_btn">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@drawable/cleanmgr_btn_green_text_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/cleanmgr_green_btn_selector</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingRight">5.0dip</item>
+    </style>
+    <style name="cleanmgr_CustomDialogButtonTextStyle">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/cleanmgr_customdialog_button_selector</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_common_title_layout">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/cleanmgr_title_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/cleanmgr_actionbar_height</item>
+    </style>
+    <style name="cleanmgr_common_title_text">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="cleanmgr_common_title_button">
+        <item name="android:layout_width">48.0dip</item>
+        <item name="android:layout_height">48.0dip</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+    </style>
+    <style name="cleanmgr_dialogWindowAnimRightTop" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/cleanmgr_dialog_enter_from_right_top_anim</item>
+        <item name="android:windowExitAnimation">@anim/cleanmgr_dialog_exit_from_right_top_anim</item>
+    </style>
+    <style name="cleanmgr_dialog_layout">
+        <item name="android:layout_width">300.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="cleanmgr_dialog_title">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@color/cleanmgr_dialog_title_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">60.0dip</item>
+    </style>
+    <style name="cleanmgr_dialog_content">
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingTop">12.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="cleanmgr_dialog_title_text">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textColor">#ff191919</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="cleanmgr_dialog_msg_text">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/cleanmgr_dialog_msg_text</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lineSpacingExtra">2.0dip</item>
+    </style>
+    <style name="cleanmgr_dialog_msg_text_ellipsize" parent="@style/cleanmgr_dialog_msg_text">
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_dialog_msg_text_small" parent="@style/cleanmgr_dialog_msg_text">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_dialog_button_layout">
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:paddingBottom">14.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">61.0dip</item>
+    </style>
+    <style name="cleanmgr_dialog_button">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">@color/cleanmgr_dialog_bottom_btn</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/cleanmgr_dialog_btn_common_bg</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">2.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_listview_title_text_singleline">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">#ff949494</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">24.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_listview_title_text">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_listview_title_text_highlight">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_listview_apk">
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:clickable">false</item>
+        <item name="android:listSelector">@null</item>
+        <item name="android:cacheColorHint">#ff000000</item>
+        <item name="android:divider">@null</item>
+        <item name="android:fastScrollEnabled">false</item>
+    </style>
+    <style name="cleanmgr_listview_empty_text">
+        <item name="android:textSize">@dimen/cleanmgr_text_large</item>
+        <item name="android:textColor">@color/cleanmgr_black</item>
+    </style>
+    <style name="cleanmgr_listview_bottom_layout">
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/cleanmgr_bottom_btn_bg</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">64.0dip</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <style name="cleanmgr_bottom_button">
+        <item name="android:textSize">@dimen/cleanmgr_text_large</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">44.0dip</item>
+        <item name="android:layout_margin">2.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_listview_bottom_button" parent="@style/cleanmgr_bottom_button">
+        <item name="android:textColor">@color/cleanmgr_dialog_bottom_btn</item>
+        <item name="android:background">@drawable/cleanmgr_btn_common_bg</item>
+    </style>
+    <style name="cleanmgr_listview_bottom_checkbox">
+        <item name="android:button">@drawable/cleanmgr_appmgr_selector_checkbox</item>
+    </style>
+    <style name="cleanmgr_listitem_layout">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    <style name="cleanmgr_listitem_layout_1">
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">48.0dip</item>
+    </style>
+    <style name="cleanmgr_listitem_layout_2" parent="@style/cleanmgr_listitem_layout">
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_height">64.0dip</item>
+    </style>
+    <style name="cleanmgr_listitem_icon">
+        <item name="android:layout_width">36.0dip</item>
+        <item name="android:layout_height">36.0dip</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="cleanmgr_listitem_content_layout">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="cleanmgr_listitem_title">
+        <item name="android:textSize">@dimen/cleanmgr_text_large</item>
+        <item name="android:textColor">@color/cleanmgr_listitem_title</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_listitem_comment">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@color/cleanmgr_listitem_comment</item>
+        <item name="android:gravity">left</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_listitem_comment2" parent="@style/cleanmgr_listitem_comment">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <style name="cleanmgr_listitem_checkbox">
+        <item name="android:layout_width">32.0dip</item>
+        <item name="android:layout_height">32.0dip</item>
+        <item name="android:layout_marginLeft">4.0dip</item>
+        <item name="android:button">@drawable/cleanmgr_appmgr_selector_checkbox</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="cleanmgr_mainscreen_title_icon">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">36.0dip</item>
+        <item name="android:layout_height">36.0dip</item>
+    </style>
+    <style name="cleanmgr_menu_item_text">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff252525</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_menu_layout">
+        <item name="android:background">@drawable/cleanmgr_menu_bg</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:layout_width">120.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="cleanmgr_menu_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="cleanmgr_tab_layout">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">32.0dip</item>
+        <item name="android:baselineAligned">false</item>
+    </style>
+    <style name="cleanmgr_tab_item">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@drawable/cleanmgr_selector_tab_text</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/cleanmgr_selector_tab_btn</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingBottom">3.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="cleanmgr_title_tab_button">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/cleanmgr_selector_tab_title_btn</item>
+        <item name="android:layout_width">50.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="cleanmgr_title_text_button">
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/cleanmgr_title_btn_bg_selector</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+    </style>
+    <style name="cleanmgr_toast_text">
+        <item name="android:textSize">@dimen/cleanmgr_text_medium</item>
+        <item name="android:textColor">@color/cleanmgr_toast_txt</item>
+    </style>
+    <style name="cleanmgr_listitem_rightitem">
+        <item name="android:textSize">@dimen/cleanmgr_text_small</item>
+        <item name="android:textColor">@color/cleanmgr_listitem_comment</item>
+        <item name="android:gravity">center|right</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_new_listitem_checkbox">
+        <item name="android:layout_width">32.0dip</item>
+        <item name="android:layout_height">32.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:button">@drawable/cleanmgr_new_selector_checkbox</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="cleanmgr_new_listgroupitem_checkbox">
+        <item name="android:layout_width">32.0dip</item>
+        <item name="android:layout_height">32.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:button">@drawable/cleanmgr_new_selector_checkbox</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="cleanmgr_new_listitem_checkbox1">
+        <item name="android:layout_width">24.0dip</item>
+        <item name="android:layout_height">24.0dip</item>
+        <item name="android:layout_marginLeft">14.0dip</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="cleanmgr_new_ball_text">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:shadowColor">#ff0069a0</item>
+        <item name="android:shadowDy">6.0</item>
+        <item name="android:shadowRadius">12.0</item>
+    </style>
+    <style name="cleanmgr_new_ball_finish_text">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:shadowDy">3.0</item>
+        <item name="android:shadowRadius">6.0</item>
+    </style>
+    <style name="cleanmanager_green_btn">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@drawable/cleanmgr_btn_green_text_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/cleanmgr_green_btn_selector</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingRight">5.0dip</item>
+    </style>
+    <style name="cleanmgr_AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="cleanmgr_AppTheme" parent="@style/cleanmgr_AppBaseTheme" />
+    <style name="cleanmgr_ListBackContent">
+        <item name="android:background">@drawable/cleanmgr_clean_title_background_img</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/cleanmgr_height_list</item>
+    </style>
+    <style name="cleanmgr_ListFrontContent">
+        <item name="android:background">@drawable/cleanmgr_listview_child_bg_selector</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/cleanmgr_height_list</item>
+    </style>
+    <style name="cleanmgr_ListChildFrontContent">
+        <item name="android:background">@drawable/cleanmgr_listview_child_bg_selector</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/cleanmgr_height_list_child</item>
+    </style>
+    <style name="cleanmgr_ListImage">
+        <item name="android:layout_width">@dimen/cleanmgr_size_list_image</item>
+        <item name="android:layout_height">@dimen/cleanmgr_size_list_image</item>
+        <item name="android:scaleGravity">fill</item>
+    </style>
+    <style name="cleanmgr_ListTitle">
+        <item name="android:textSize">@dimen/cleanmgr_font_size_title</item>
+        <item name="android:textColor">@drawable/cleanmgr_listtitle</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="cleanmgr_ListDescription">
+        <item name="android:textSize">@dimen/cleanmgr_font_size_description</item>
+        <item name="android:textColor">@drawable/cleanmgr_listdescription</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cleanmgr_ListButtonAction">
+        <item name="android:layout_margin">10.0dip</item>
+    </style>
+    <style name="cleanmgr_SettingTitle">
+        <item name="android:textSize">@dimen/cleanmgr_font_size_title</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/cleanmgr_text_title</item>
+    </style>
+    <style name="cleanmgr_SettingContent">
+        <item name="android:paddingBottom">@dimen/cleanmgr_padding_default</item>
+        <item name="android:layout_marginLeft">@dimen/cleanmgr_margin_setting</item>
+    </style>
+    <style name="cleanmgr_SettingText">
+        <item name="android:textSize">@dimen/cleanmgr_font_size_description</item>
+        <item name="android:textColor">@color/cleanmgr_text_description</item>
+        <item name="android:layout_marginRight">@dimen/cleanmgr_margin_default</item>
+    </style>
+    <style name="cleanmgr_Line">
+        <item name="android:background">@color/cleanmgr_line</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/cleanmgr_line_default</item>
+    </style>
+    <style name="cleanmgr_myDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="cleanmgr_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="cleanmgr_TitleLayout">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">48.0dip</item>
+    </style>
+    <style name="leupdate_AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="leupdate_AppTheme" parent="@style/leupdate_AppBaseTheme" />
+    <style name="UtilStyle" />
+    <style name="UtilStyle.AboutGroupItem" parent="@style/UtilStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff191919</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">37.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">52.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="UtilStyle.AboutChildItem" parent="@style/UtilStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff191919</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">30.0dip</item>
+        <item name="android:paddingRight">37.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">52.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="UtilStyle.HelpTitle" parent="@style/UtilStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingRight">37.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="UtilStyle.HelpContent" parent="@style/UtilStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingRight">37.0dip</item>
+        <item name="android:paddingBottom">7.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="UtilStyle.HelpTitleBig" parent="@style/UtilStyle">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">15.0dip</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingRight">53.0dip</item>
+        <item name="android:paddingBottom">7.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="UtilStyle.HelpContentBig" parent="@style/UtilStyle">
+        <item name="android:textSize">21.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">18.0dip</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingRight">53.0dip</item>
+        <item name="android:paddingBottom">7.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="UtilStyle.SettingsTabText" parent="@style/UtilStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff484848</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/anyshare_util_setting_tab</item>
+        <item name="android:paddingLeft">@dimen/util_setting_slip_item_paddingleft</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/util_setting_tab_hight</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="UtilStyle.SettingsBigText" parent="@style/UtilStyle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff484848</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@drawable/anyshare_util_setting_items_bg</item>
+        <item name="android:paddingLeft">@dimen/util_setting_slip_item_paddingleft</item>
+        <item name="android:paddingRight">51.0dip</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/util_setting_item_hight</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="UtilStyle.SettingsSlipItem" parent="@style/UtilStyle">
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@drawable/anyshare_util_setting_items_bg</item>
+        <item name="android:paddingLeft">@dimen/util_setting_slip_item_paddingleft</item>
+        <item name="android:paddingRight">@dimen/util_setting_slip_item_paddingright</item>
+        <item name="android:clickable">false</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/util_setting_item_hight</item>
+    </style>
+    <style name="UtilStyle.SettingsSummaryText" parent="@style/UtilStyle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff484848</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:clickable">false</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="UtilStyle.SettingsDetailText" parent="@style/UtilStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/common_detail_text_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:clickable">false</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="AccountStyle" />
+    <style name="AnyShareRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:maxHeight">18.0dip</item>
+        <item name="android:progressDrawable">@drawable/widget_ratingbar</item>
+        <item name="android:minHeight">16.0dip</item>
+    </style>
+    <style name="PaintViewStyle" />
+    <style name="PaintViewStyle.BottonLayout" parent="@style/PaintViewStyle">
+        <item name="android:background">@drawable/anyshare_null</item>
+        <item name="android:layout_width">65.0dip</item>
+        <item name="android:layout_height">65.0dip</item>
+        <item name="android:layout_marginLeft">0.0dip</item>
+        <item name="android:layout_marginRight">0.0dip</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="ShapSelect">
+        <item name="android:layout_width">60.0dip</item>
+        <item name="android:layout_height">60.0dip</item>
+        <item name="android:button">@null</item>
+    </style>
+    <style name="Pen">
+        <item name="android:layout_width">42.0dip</item>
+        <item name="android:layout_height">42.0dip</item>
+        <item name="android:layout_marginLeft">2.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+        <item name="android:button">@null</item>
+    </style>
+    <style name="EraserSize">
+        <item name="android:layout_width">42.0dip</item>
+        <item name="android:layout_height">42.0dip</item>
+        <item name="android:layout_marginLeft">2.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+        <item name="android:button">@null</item>
+    </style>
+    <style name="AnimationFade">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+    <style name="AnyshareEntryTileText">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:id">@id/title</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">55.0dip</item>
+        <item name="android:layout_marginRight">55.0dip</item>
+    </style>
+    <style name="AnyshareEntryTileTextBig">
+        <item name="android:textSize">33.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:id">@id/title</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">83.0dip</item>
+        <item name="android:layout_marginRight">83.0dip</item>
+    </style>
+    <style name="UserLevelLayout">
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">73.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="UserLevelText">
+        <item name="android:textSize">8.0dip</item>
+        <item name="android:textColor">#ff191919</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">3</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="UserLevelLayoutBig">
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">110.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="UserLevelTextBig">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">#ff191919</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">3</item>
+        <item name="android:singleLine">false</item>
+    </style>
+</resources>

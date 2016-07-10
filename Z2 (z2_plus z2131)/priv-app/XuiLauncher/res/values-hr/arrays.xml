@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>Zadano</item>
+        <item>Zakreni</item>
+        <item>Bulldoze</item>
+        <item>Vjetrenjača</item>
+        <item>Kocka</item>
+        <item>Sine Wave</item>
+        <item>Valjak</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Ništa</item>
+        <item>Otvori izbornik radne površine</item>
+        <item>Pokaži nedavno korištene aplikacije</item>
+        <item>Otvori traku s obavijestima</item>
+        <item>Pronađi ikonu</item>
+        <item>Zaključani zaslon</item>
+    </string-array>
+    <string-array name="pref_text_color_choices">
+        <item>Dizajn teme</item>
+        <item>Crni</item>
+        <item>Bijeli</item>
+    </string-array>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d stöfum of langt</item>
+        <item quantity="one">%1$d staf of langt</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d stafir eftir</item>
+        <item quantity="one">%1$d stafur eftir</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google reikningar</item>
+        <item quantity="one">%d Google reikningur</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Þetta tæki var notað til að setja ^1 upp með Google reikningunum þínum og gögnum þeirra</item>
+        <item quantity="one">Þetta tæki var notað til að setja ^1 upp með Google reikningunum þínum og gögnum þeirra</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d klukkustundir</item>
+        <item quantity="one">%d klukkustund</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d mínútur</item>
+        <item quantity="one">%d mínúta</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Þessi boð voru ekki send vegna þess að villa kom upp</item>
+        <item quantity="one">Þetta boð var ekki sent vegna þess að villa kom upp</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Þessi boð er ekki hægt að senda núna. Hægt er að senda þau aftur úr Google Play > Reikningurinn minn.</item>
+        <item quantity="one">Þetta boð er ekki hægt að senda núna. Hægt er að senda það aftur úr Google Play > Reikningurinn minn.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d boð eftir</item>
+        <item quantity="one">%d boð eftir</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d ný skilaboð</item>
+        <item quantity="one">%1$d ný skilaboð</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d aðilar á undan þér</item>
+        <item quantity="one">%1$d aðili á undan þér</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d hringjum</item>
+        <item quantity="one">%d hring</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d dagar</item>
+        <item quantity="one">dagur</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d klst.</item>
+        <item quantity="one">%d klst.</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d mín.</item>
+        <item quantity="one">%d mín.</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d dagar</item>
+        <item quantity="one">dagur</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d klst.</item>
+        <item quantity="one">%d klst.</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d mín.</item>
+        <item quantity="one">%d mín.</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d aðilum</item>
+        <item quantity="one">%d aðila</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Frá %1$s og %2$d forritum í viðbót</item>
+        <item quantity="one">Frá %1$s og %2$d forriti í viðbót</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dögum</item>
+        <item quantity="one">%d degi</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d klst.</item>
+        <item quantity="one">%d klst.</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d mín.</item>
+        <item quantity="one">%d mín.</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s aðilar</item>
+        <item quantity="one">%1$s aðili</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d fylgjendur</item>
+        <item quantity="one">%1$,d fylgjandi</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">Skoðaður %1$,d sinnum</item>
+        <item quantity="one">Skoðaður %1$,d sinni</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Afritar Google reikningana þína og gögnin…</item>
+        <item quantity="one">Afritar Google reikningana þína og gögnin…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Þetta tæki var notað til að setja ^1 upp með Google reikningunum þínum og gögnum þeirra</item>
+        <item quantity="one">Þetta tæki var notað til að setja ^1 upp með Google reikningunum þínum og gögnum þeirra</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Endurræsir og fer í uppsetningu eftir %d sekúndur…</item>
+        <item quantity="one">Endurræsir og fer í uppsetningu eftir 1 sekúndu…</item>
+    </plurals>
+</resources>

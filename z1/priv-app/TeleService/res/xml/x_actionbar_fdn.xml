@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:layout_gravity="center|left" android:id="@id/action_cancel" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fdn_add_actionbar_title_cancel" />
+    <TextView android:gravity="center" android:layout_gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_fdn_contact" />
+    <TextView android:gravity="center" android:layout_gravity="center|right" android:id="@id/action_ok" android:paddingRight="10.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fdn_add_actionbar_title_ok" />
+</FrameLayout>

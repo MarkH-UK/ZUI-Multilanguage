@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Café</item>
+        <item>Estação de serviço</item>
+        <item>Cinema</item>
+        <item>Alojamento</item>
+        <item>Discoteca</item>
+        <item>Museu</item>
+        <item>Restaurante</item>
+        <item>Centro comercial</item>
+        <item>Loja</item>
+        <item>Mercearia ou supermercado</item>
+        <item>Outro</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>fraco</item>
+        <item>razoável</item>
+        <item>bom</item>
+        <item>forte</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Lançamento</item>
+        <item>Programador</item>
+        <item>Retalho</item>
+        <item>Demonstração</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>O telemóvel e o automóvel têm versões de software incompatíveis. Para obter detalhes, aceda a &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>O carro tem anunciado um conjunto incorreto de configurações de áudio e/ou de vídeo.</item>
+        <item>"A ligação USB não está a funcionar corretamente. Experimente os seguintes passos: 
+
+• Certifique-se de que o cabo está bem encaixado em ambas as extremidades. 
+•Certifique-se de que tem um cabo de dados USB. 
+•Certifique-se de que a data e a hora estão definidas corretamente no automóvel e no telemóvel."</item>
+        <item>O automóvel deixou de executar o Android Auto.</item>
+        <item>A sessão do Android Auto parou, conforme solicitado.</item>
+        <item>O software do automóvel pode estar desatualizado. Para obter detalhes e apoio técnico, contacte o fabricante.</item>
+        <item>O software do automóvel não passou nas verificações de segurança do Android Auto. Para obter detalhes e apoio técnico, contacte o fabricante.</item>
+        <item>O software do automóvel não passou nas verificações de segurança do Android Auto. Certifique-se de que a data e a hora do automóvel estão definidas corretamente e que o Android Auto foi atualizado.</item>
+        <item>Terminou o tempo limite de uma ação. Deve utilizar um relatório de erros e solicitar comentários.</item>
+        <item>Não parece ter um iniciador instalado. O seu telemóvel está configurado corretamente?</item>
+        <item>O pipeline gráfico bloqueou. Deve utilizar um relatório de erro e solicitar comentários.</item>
+        <item>O carro não está a responder às mensagem do telemóvel. O carro pode estar num estado errado.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Aeroporto</item>
+        <item>Multibanco</item>
+        <item>Banco</item>
+        <item>Bar</item>
+        <item>Paragem de autocarros</item>
+        <item>Café</item>
+        <item>Parque de campismo</item>
+        <item>Cemitério</item>
+        <item>Igreja</item>
+        <item>Câmara Municipal</item>
+        <item>Estabelecimento</item>
+        <item>Estação de serviço</item>
+        <item>Mercearia ou supermercado</item>
+        <item>Templo hindu</item>
+        <item>Hospital</item>
+        <item>Biblioteca</item>
+        <item>Alojamento</item>
+        <item>Mesquita</item>
+        <item>Cinema</item>
+        <item>Museu</item>
+        <item>Parque</item>
+        <item>Estacionamento</item>
+        <item>Local de culto</item>
+        <item>Esquadra de polícia</item>
+        <item>Estação de correios</item>
+        <item>Restaurante</item>
+        <item>Escola</item>
+        <item>Loja</item>
+        <item>Estação de metropolitano</item>
+        <item>Sinagoga</item>
+        <item>Estação de comboios</item>
+        <item>Estação de transportes públicos</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>janeiro</item>
+        <item>fevereiro</item>
+        <item>março</item>
+        <item>abril</item>
+        <item>maio</item>
+        <item>junho</item>
+        <item>julho</item>
+        <item>agosto</item>
+        <item>setembro</item>
+        <item>outubro</item>
+        <item>novembro</item>
+        <item>dezembro</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Parar a partilha</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>Indefinidamente</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Parar a partilha</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Escolher uma pergunta de segurança</item>
+        <item>Primeiro número do telefone?</item>
+        <item>Nome do melhor amigo de infância?</item>
+        <item>Nome do primeiro professor?</item>
+        <item>Nome do diretor do seu primeiro emprego?</item>
+        <item>Número da matrícula do seu automóvel?</item>
+    </string-array>
+</resources>

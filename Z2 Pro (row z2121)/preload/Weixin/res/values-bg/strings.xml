@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Грешка в услугите за Google Play</string>
+    <string name="z">Приложение изисква актуализирането на услугите за Google Play.</string>
+    <string name="a0">%1$s изисква актуализиране на приложението Android Wear.</string>
+    <string name="a1">Приложение изисква активирането на услугите за Google Play.</string>
+    <string name="a2">Заявено от %1$s</string>
+    <string name="a3">Изтегляне на услугите за Google Play</string>
+    <string name="a4">%1$s няма да се изпълнява, тъй като услугите за Google Play не са инсталирани на телефона ви.</string>
+    <string name="a5">%1$s няма да се изпълнява, тъй като услугите за Google Play не са инсталирани на таблета ви.</string>
+    <string name="a6">Услуги за Google Play: Изтегл.</string>
+    <string name="a7">Активиране на услугите за Google Play</string>
+    <string name="a8">%1$s няма да работи, освен ако не активирате услугите за Google Play.</string>
+    <string name="a9">Услуги за Google Play: Актив.</string>
+    <string name="a_">Актуализиране на услугите за Google Play</string>
+    <string name="aa">Актуализиране на Android Wear</string>
+    <string name="ab">%1$s няма да се изпълнява, освен ако не актуализирате услугите за Google Play.</string>
+    <string name="ac">%1$s няма да стартира, освен ако не актуализирате приложението Android Wear.</string>
+    <string name="ad">Услугите за Google Play се актуализират</string>
+    <string name="ae">%1$s няма да се изпълнява без услугите за Google Play. Понастоящем те се актуализират.</string>
+    <string name="af">Грешка в мрежата</string>
+    <string name="ag">За свързване с услугите за Google Play се изисква връзка за данни.</string>
+    <string name="ah">Невалиден профил</string>
+    <string name="ai">Посоченият профил не съществува на това устройство. Моля, изберете друг.</string>
+    <string name="aj">Неизвестен проблем с услугите за Google Play.</string>
+    <string name="ak">Услуги за Google Play</string>
+    <string name="al">%1$s разчита на услугите за Google Play, които не се поддържат от устройството ви. Свържете се с производителя за съдействие.</string>
+    <string name="am">Актуализиране</string>
+    <string name="an">Вход</string>
+    <string name="ao">Вход с Google</string>
+    <string name="ap">Отваряне в телефона</string>
+    <string name="aq">%1$s изисква една или повече услуги за Google Play, които понастоящем не са налице. Моля, свържете се с програмиста за съдействие.</string>
+    <string name="ar">Влизането в профила не бе успешно</string>
+    <string name="as">При влизането в посочения профил възникна грешка. Моля, изберете друг.</string>
+</resources>

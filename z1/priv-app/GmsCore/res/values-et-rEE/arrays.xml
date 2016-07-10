@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Baar</item>
+        <item>Kohvik</item>
+        <item>Bensiinijaam</item>
+        <item>Kino</item>
+        <item>Majutus</item>
+        <item>Ööklubi</item>
+        <item>Muuseum</item>
+        <item>Restoran</item>
+        <item>Kaubanduskeskus</item>
+        <item>Pood</item>
+        <item>Toidupoed</item>
+        <item>Muu</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>kehv</item>
+        <item>rahuldav</item>
+        <item>hea</item>
+        <item>tugev</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Väljalase</item>
+        <item>Arendaja</item>
+        <item>Jaemüük</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Telefon ja auto kasutavad mitteühilduvat tarkvara. Lisateabe saamiseks külastage saiti &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Auto esitas vale heli- ja/või videoseadistuse komplekti.</item>
+        <item>"USB-ühendus ei tööta korralikult. Võite proovida järgmist. 
+
+• Veenduge, et kaabel oleks mõlemasse pistikusse korralikult ühendatud. 
+• Veenduge, et kasutaksite andmete edastamiseks mõeldud USB-kaablit. 
+• Veenduge, et nii autos kui ka telefonis oleks kuupäev ja kellaaeg õigesti seadistatud."</item>
+        <item>Auto peatas Android Auto töö.</item>
+        <item>Android Auto seanss peatus käskluse alusel.</item>
+        <item>Auto tarkvara võib olla aegunud. Lisateabe ja toe saamiseks võtke ühendust tootjaga.</item>
+        <item>Auto tarkvara ei läbinud Android Auto turvakontrolle. Lisateabe ja toe saamiseks võtke ühendust tootjaga.</item>
+        <item>Auto tarkvara ei läbinud Android Auto turvakontrolle. Veenduge, et autos oleks kuupäev ja kellaaeg õigesti seadistatud ning Android Auto oleks värskendatud.</item>
+        <item>Toiming aegus. Salvestage veaaruanne ja esitage tagasiside.</item>
+        <item>Tundub, et käivitusprogrammi pole installitud. Kas teie telefon on õigesti seadistatud?</item>
+        <item>Graafikaüksus jooksis kokku. Salvestage veaaruanne ja esitage tagasiside.</item>
+        <item>Auto ei reageeri telefoni sõnumitele. Auto võib olla vales olekus.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Lennujaam</item>
+        <item>Pangaautomaat</item>
+        <item>Pank</item>
+        <item>Baar</item>
+        <item>Bussijaam</item>
+        <item>Kohvik</item>
+        <item>Telkimisplats</item>
+        <item>Surnuaed</item>
+        <item>Kirik</item>
+        <item>Linnavalitsus</item>
+        <item>Asutus</item>
+        <item>Bensiinijaam</item>
+        <item>Toidupood või supermarket</item>
+        <item>Hinduistlik tempel</item>
+        <item>Haigla</item>
+        <item>Raamatukogu</item>
+        <item>Majutusasutus</item>
+        <item>Mošee</item>
+        <item>Kino</item>
+        <item>Muuseum</item>
+        <item>Park</item>
+        <item>Parkimine</item>
+        <item>Pühapaik</item>
+        <item>Politseijaoskond</item>
+        <item>Postkontor</item>
+        <item>Restoran</item>
+        <item>Kool</item>
+        <item>Pood</item>
+        <item>Metroojaam</item>
+        <item>Sünagoog</item>
+        <item>Rongijaam</item>
+        <item>Ühistranspordijaam</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Jaanuar</item>
+        <item>Veebruar</item>
+        <item>Märts</item>
+        <item>Aprill</item>
+        <item>Mai</item>
+        <item>Juuni</item>
+        <item>Juuli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktoober</item>
+        <item>November</item>
+        <item>Detsember</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Lõpeta jagamine</item>
+        <item>15 minutit</item>
+        <item>30 minutit</item>
+        <item>1 tund</item>
+        <item>Määramata aja jooksul</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Lõpeta jagamine</item>
+        <item>15 minutit</item>
+        <item>30 minutit</item>
+        <item>1 tund</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

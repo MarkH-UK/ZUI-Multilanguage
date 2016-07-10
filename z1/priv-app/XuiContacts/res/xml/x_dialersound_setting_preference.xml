@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="@string/dialer_sound_effect_switch" android:key="pref_dial_sound" />
+    <Preference android:title="@string/sound_effect" android:key="pref_dial_sound_effect" android:dependency="pref_dial_sound" />
+</PreferenceScreen>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">កំហុស​​សេវាកម្ម​ Google កម្សាន្ត</string>
+    <string name="common_google_play_services_notification_needs_installation_title">កម្មវិធី​ទាមទារ​ឲ្យ​ដំឡើង​សេវាកម្ម​ Google កម្សាន្ត។</string>
+    <string name="common_google_play_services_notification_needs_update_title">កម្មវិធី​ទាមទារ​​ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម ​Google កម្សាន្ត។</string>
+    <string name="common_android_wear_notification_needs_update_text">កម្មវិធី​ទាមទារ​បច្ចុប្បន្នភាព​ចំពោះ​កម្មវិធី Android Wear ។</string>
+    <string name="common_google_play_services_needs_enabling_title">កម្មវិធី​ទាមទារ​ឲ្យ​បើក​សេវាកម្ម​ Google កម្សាន្ត។</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">បាន​ស្នើ​ដោយ %1$s</string>
+    <string name="common_google_play_services_install_title">ទទួល​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_google_play_services_install_text_phone">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​ទូរស័ព្ទ​របស់​​អ្នក​មិន​មាន។</string>
+    <string name="common_google_play_services_install_text_tablet">​​កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​​កុំព្យូទ័រ​បន្ទះ​របស់​អ្នក​មិន​មាន។</string>
+    <string name="common_google_play_services_install_button">ទទួល​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_google_play_services_enable_title">បើក​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_google_play_services_enable_text">កម្ម​វិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ​ លុះត្រាតែ​អ្នក​បើក​សេវាកម្ម​​កម្សាន្ត​ Google ។</string>
+    <string name="common_google_play_services_enable_button">បើក​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_google_play_services_update_title">ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_android_wear_update_title">ធ្វើ​បច្ចុប្បន្នភាព Android Wear</string>
+    <string name="common_google_play_services_update_text">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ​ លុះត្រាតែ​អ្នក​ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម​កម្សាន្ត Google ។</string>
+    <string name="common_android_wear_update_text">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ លុះ​ត្រា​តែ​អ្នក​ធ្វើ​បច្ចុប្បន្នភាព​​កម្មវិធី Android Wear ។</string>
+    <string name="common_google_play_services_network_error_title">កំហុស​​បណ្ដាញ</string>
+    <string name="common_google_play_services_network_error_text">បាន​ទាមទារ​ការ​តភ្ជាប់​ទិន្នន័យ ដើម្បី​ភ្ជាប់​សេវាកម្ម​ឃ្លាំង​កម្មវិធី។</string>
+    <string name="common_google_play_services_invalid_account_title">គណនី​មិន​ត្រឹមត្រូវ</string>
+    <string name="common_google_play_services_invalid_account_text">គណនី​ដែល​បាន​បញ្ជាក់​មិន​មាន​នៅ​លើ​ឧបករណ៍​នេះ​ទេ។ សូម​ជ្រើស​គណនី​ផ្សេង​។</string>
+    <string name="common_google_play_services_unknown_issue">មិន​ស្គាល់​បញ្ហា​ជាមួយ​សេវាកម្ម​កម្សាន្ត Google ។</string>
+    <string name="common_google_play_services_unsupported_title">សេវាកម្ម​កម្សាន្ត​ Google</string>
+    <string name="common_google_play_services_unsupported_text">សេវាកម្ម​កម្សាន្ត Google អាស្រ័យ​លើ​កម្មវិធី​របស់​អ្នក មិន​ត្រូវ​បាន​គាំទ្រ​ដោយ​ឧបករណ៍​របស់​អ្នក។ សូម​ទាក់ទង​ក្រុមហ៊ុន​ផលិត​សម្រាប់​ជំនួយ។</string>
+    <string name="common_google_play_services_update_button">ធ្វើ​បច្ចុប្បន្នភាព</string>
+    <string name="common_signin_button_text">ចូល</string>
+    <string name="common_signin_button_text_long">ចូល​ដោយ​ប្រើ​ Google</string>
+    <string name="common_open_on_phone">បើក​តាម​ទូរស័ព្ទ</string>
+    <string name="setup_wizard_next_button_label">បន្ទាប់</string>
+    <string name="setup_wizard_back_button_label">ថយក្រោយ</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">រំលង</string>
+    <string name="down_button_label">ច្រើន</string>
+    <string name="cancel_button_label">បោះ​បង់​</string>
+    <string name="try_again_button_label">ព្យាយាម​ម្ដងទៀត</string>
+    <string name="close_button_label">បិទ​</string>
+    <string name="url_load_unsuccessful_message">ឧបករណ៍ Android របស់​អ្នក​មិន​បាន​តភ្ជាប់​ទៅ​សេវា​ទិន្នន័យ​ទេ។ ដើម្បី​មើល​ព័ត៌មាន​នេះ សូម​ទស្សនា %s ក្នុង​​កម្មវិធី​អ៊ីនធឺណិត។</string>
+    <string name="sign_in_agreement">ដើម្បី​ចូល អ្នក​ត្រូវតែ​យល់ព្រម​ជាមួយ​លក្ខខណ្ឌ​ប្រើប្រាស់ <annotation id="tos">របស់ Google</annotation>, <annotation id="google_privacy">គោលនយោបាយ​ភាព​ឯកជន</annotation>, និង <annotation id="play_tos">លក្ខខណ្ឌ​ប្រើប្រាស់​របស់​ឃ្លាំង​កម្មវិធី</annotation>។</string>
+    <string name="android_privacy_policy_title">គោលការណ៍​ភាព​ឯកជន​បន្ថែម​</string>
+    <string name="google_terms_of_service_title">លក្ខខណ្ឌ​ប្រើប្រាស់ Google</string>
+    <string name="google_privacy_policy_title">គោលនយោបាយ​ភាព​ឯកជន​របស់ Google</string>
+    <string name="google_plus_privacy_policy_title">គោលនយោបាយ​ភាព​ឯកជន​របស់ Google+</string>
+    <string name="google_play_tos_title">លក្ខខណ្ឌ​ការ​ប្រើប្រាស់​ឃ្លាំង​កម្មវិធី Google</string>
+    <string name="chrome_tos_title">លក្ខខណ្ឌ​ប្រើប្រាស់ Chrome</string>
+    <string name="chrome_privacy_title">ការ​ជូនដំណឹង​ភាព​ឯកជន​របស់ Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">ឧបករណ៍ Android របស់​អ្នក​មិន​បាន​តភ្ជាប់​ទៅ​បណ្ដាញ​វ៉ាយហ្វាយ​ទេ។ ដើម្បី​មើល​ព័ត៌មាន​នេះ សូម​ទស្សនា %s ក្នុង​កម្មវិធី​អ៊ីនធឺណិត។</string>
+    <string name="services_activity_title">សេវាកម្ម​ Google</string>
+    <string name="services_backup_heading">បម្រុងទុក</string>
+    <string name="services_location_heading">ទី​តាំង​</string>
+    <string name="services_security_heading">សុវត្ថិភាព</string>
+    <string name="services_personalization_heading">តម្រូវ​តាម​បុគ្គល</string>
+    <string name="services_communication_heading">ទំនាក់ទំនង</string>
+    <string name="security_verify_apps_summary">ឲ្យ Google ពិនិត្យមើល​កម្មវិធី​ដែល​បាន​ដំឡើង​ទាំងអស់​សម្រាប់​ឥរិយា​បទ​បង្ក​អន្តរាយ​ណាមួយ​ដែល​អាច​ប៉ះ​ពាល់​ដល់​សុវត្ថិភាព​ឧបករណ៍ ឬ​ទិន្នន័យ​របស់​អ្នក។</string>
+    <string name="name_title">ឈ្មោះ​របស់​អ្នក</string>
+    <string name="name_text">​ឈ្មោះ​របស់​អ្នក​នឹងត្រូវ​ប្រើ​​ដើម្បី​សម្គាល់​ទូរស័ព្ទ​របស់​អ្នក និង​សេវាកម្ម Google ។</string>
+    <string name="first_name">នាម​ខ្លួន</string>
+    <string name="last_name">នាម​ត្រកូល</string>
+    <string name="cant_be_blank">វាល​មិន​អាច​ទទេ​ទេ។</string>
+    <string name="sharedUserLabel">សេវាកម្ម Google</string>
+    <string name="app_label">កម្មវិធី​គ្រប់គ្រង​គណនី Google</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">ចូល</string>
+    <string name="create_button_label">យក​គណនី</string>
+    <string name="not_now_button_label">មិនមែន​ឥឡូវ</string>
+    <string name="new_button_label">ថ្មី</string>
+    <string name="existing_button_label">មាន​ស្រាប់</string>
+    <string name="done">យល់​ព្រម​</string>
+    <string name="edit_text_help">ប៉ះ​ប្រអប់​អត្ថបទ​ដើម្បី​ចាប់​ផ្ដើម​វាយ​</string>
+    <string name="add_a_google_account">បន្ថែម​គណនី​ Google</string>
+    <string name="captcha_title">ត្រូវ​បញ្ចូល CAPTCHA</string>
+    <string name="show_error_title">កំហុស</string>
+    <string name="server_error">បញ្ហា​បាន​កើត​ឡើង​ខណៈ​កំពុង​ទាក់ទង​ជាមួយ​ម៉ាស៊ីន​មេ​ Google ។</string>
+    <string name="server_error_help">ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ក្រោយ។</string>
+    <string name="network_unreliable">មិន​អាច​បង្កើត​ការ​តភ្ជាប់​ដែល​ទុកចិត្ត​ទៅកាន់​ម៉ាស៊ីន​មេ។</string>
+    <string name="network_unreliable_help">នេះ​អាច​ជា​បញ្ហា​បណ្ដោះ​អាសន្ន ឬ​ឧបករណ៍ Android របស់​អ្នក​មិន​អាច​ផ្ដល់​សេវា​ទិន្នន័យ។ បើ​បញ្ហា​នៅតែ​បន្ត សូម​ហៅ​ទៅ​ផ្នែក​សេវា​អតិថិជន។</string>
+    <string name="network_unreliable_help_wifi_only">នេះ​អាច​ជា​បញ្ហា​បណ្ដោះអាសន្ន។ សូម​ព្យាយាម​ម្ដងទៀត ឬ​តភ្ជាប់​ទៅ​បណ្ដាញ​វ៉ាយហ្វាយ​ផ្សេង។</string>
+    <string name="invalid_login_character">តួអក្សរ​មិន​ត្រឹមត្រូវ។ មាន​តែ 0-9, a-z, A-Z និង​សញ្ញា​ចុច​ប៉ុណ្ណោះ​ដែល​បាន​អនុញ្ញាត។</string>
+    <string name="invalid_password_character">តួអក្សរ​ពាក្យសម្ងាត់​មិន​ត្រឹមត្រូវ។</string>
+    <string name="calendar">ប្រតិទិន Google</string>
+    <string name="talk">ការ​ជជែក Google</string>
+    <string name="email">អ៊ីមែល Google</string>
+    <string name="field_cant_be_blank">វាល​មិន​អាច​ទទេ។</string>
+    <string name="plus_query_title">ធ្វើ​​បច្ចុប្បន្ន​ភាព​ទៅ​ Google+</string>
+    <string name="plus_query_text">Google+ ធ្វើ​ឱ្យ​មាន​ការ​ចែករំលែក​នៅ​លើ​បណ្ដាញ​យ៉ាង​ពិតប្រាកដ។</string>
+    <string name="circles_subtitle">លំហូរ​នៃ​វត្ថុ​មួយ​អ្នក​ចូល​ទៅ​ក្នុង</string>
+    <string name="circles_text">ភ្ជាប់​ជាមួយ​មិត្ត​ភក្តិ​ជិតស្និទ្ធ​ និង​ស្វែង​រក​ផល​ប្រយោជន៍​រួម​។</string>
+    <string name="uploads_subtitle">ការ​បម្រុង​ទុក​រូបថត​ដោយ​ស្វ័យ​ប្រវត្តិ</string>
+    <string name="uploads_text">បម្រុង​ទុក​​រូបថត​ដែល​អ្នក​បាន​ថត​ជា​មួយ​ទំហំ​ផ្ទុក​​​ដោយ​ឥត​គិត​ថ្លៃ ​និង​ឯកជន​។</string>
+    <string name="huddle_subtitle">ការ​ហៅ​ជា​វីដេអូ &amp; ការ​ផ្ញើ​សារ</string>
+    <string name="huddle_text">សូម​រីករាយ​ជា​មួយ​ការ​ផ្ញើ​សារ​​អត្ថបទ ​រូបភាព​ និង​វីដេអូ​ជា​ក្រុម​ដោយ​ឥត​គិត​ថ្លៃ​ជា​មួយ​ Hangouts ។</string>
+    <string name="plus_declined_button_label">មិនមែន​ឥឡូវ</string>
+    <string name="plus_accepted_button_label">ចាប់ផ្ដើម</string>
+    <string name="plus_name_check_title">កំពុង​ទាក់ទង Google+...</string>
+    <string name="plus_name_check_text">វា​អាច​ប្រើ​ពេល​ពីរ​ ឬ​បី​នាទី។</string>
+    <string name="plus_faq_title">សូម​ស្វាគមន៍​មក​កាន់ Google+!</string>
+    <string name="plus_faq_text" formatted="false">"នៅ​លើ Google+ អ្នក​នឹង​មាន​ប្រវត្តិរូប​សាធារណៈ​ដើម្បី​ជួយ​ដល់​មិត្តភ័ក្ដិ​របស់​អ្នក​ឲ្យ​រក​ឃើញ​អ្នក​នៅ​លើ​បណ្ដាញ។ អ្នក​ដែល​ស្គាល់​អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក​អាច​រក​ឃើញ និង​មើល​ប្រវត្តិរូប​របស់​អ្នក​បាន។ 
+ 
+ អ្នក​អាច​ប្រើ​ប៊ូតុង +1 នៅ​ទូទាំង​បណ្ដាញ​ដើម្បី​ផ្ដល់​មតិយោបល់។ ប្រវត្តិរូប​របស់​អ្នក និង +1's នឹង​បង្ហាញ​ជា​សាធារណៈ​នៅ​ក្នុង​ការ​ស្វែងរក​នៅ​លើ​ការ​ឃោសនា​ពាណិជ្ជកម្ម​ទូទាំង​បណ្ដាញ។ 
+ 
+ ឥឡូវនេះ​ប្រវត្តិរូប​របស់​អ្នក​នឹង​បង្ហាញ​ត្រឹមតែ​ឈ្មោះ​របស់​អ្នក​ប៉ុណ្ណោះ (%s %s)។ អ្នក​អាច​បន្ថែម​រូប​ថត ជី​ប្រវត្តិ និង​ព័ត៌មាន​លម្អិត​ផ្សេងទៀត​តាម​ក្រោយ​នៅ​ពេល​ដែល​អ្នក​ចាប់ផ្ដើម​ប្រើ Google+ ។"</string>
+    <string name="dasher_warning">អ្នក​គ្រប់គ្រង​ជា​ម្ចាស់​នៅ %s គឺ​អាច​គ្រប់គ្រង​ទិន្នន័យ​ទាំងអស់​របស់​អ្នក​នៅ​លើ Google+ ហើយ​អាច​លុប ឬ​កែ​ប្រវត្តិរូប​របស់​អ្នក​ពេល​ក៏បាន​ដោយ​មិន​ចាំបាច់​មាន​ការ​អនុញ្ញាត​ពី​អ្នក​ឡើយ។</string>
+    <string name="profile_info_title">ប្រវត្តិរូប​របស់​អ្នក</string>
+    <string name="profile_text">ផ្ដល់​ព័ត៌មាន​មូលដ្ឋាន​មួយ​ចំនួន​សម្រាប់​ប្រវត្តិរូប​របស់​អ្នក។ អ្នក​អាច​បន្ថែម​រូប​ថត និង​សេចក្ដី​លម្អិត​ផ្សេង​ទៀត​តាម​ក្រោយ​នៅ​ពេល​អ្នក​ចាប់ផ្ដើម​ប្រើ Google+ ។</string>
+    <string name="occupation">មុខរបរ</string>
+    <string name="current_city">ទីក្រុង​បច្ចុប្បន្ន</string>
+    <string name="picassa_info_title">Picasa និង Google+</string>
+    <string name="picassa_info_text" formatted="false">រូបថត និង​វីដេអូ​របស់​អ្នក​នៅ​លើ​អាល់ប៊ុម​បណ្ដាញ Picasa នឹង​មាន​នៅ​លើ Google+ ហើយ​មតិ​យោបល់​របស់​អ្នក​នឹង %s %s ជំនួស​ឲ្យ %s។ ពេល​អ្នក​ចែករំលែក​រូបថត​នៅ​លើ Google+ អ្នក​ទទួល​អាច​ចែករំលែក​បន្ត​ជាមួយ​អ្នក​ផ្សេង​បាន។ ការ​កំណត់​ភាព​មើល​ឃើញ​អាល់ប៊ុម​របស់​អ្នក នឹង​មិន​ផ្លាស់ប្ដូរ​ទេ ហើយ​​អ្នក​អាច​កំណត់​ព្រំដែន​ពួកគេ​នៅ​ពេល​ណា​ក៏​បាន ដូច្នេះ​ពួក​គេ​មិន​អាច​ចែករំលែក​បន្ត​ដោយ​សេរី​បាន​ទៀត​ឡើយ។</string>
+    <string name="name_title_plus">ឈ្មោះ Google+ របស់​អ្នក</string>
+    <string name="name_title_local">ទូរស័ព្ទ​នេះ​ជា​កម្មសិទ្ធិ​របស់...</string>
+    <string name="name_text_local">ទូរស័ព្ទ​ប្រើ​ឈ្មោះ​របស់​អ្នក​ដើម្បី​សម្គាល់​កម្មវិធី​មួយ​ចំនួន។</string>
+    <string name="name_progress_title">ចាំ​មួយ​ភ្លែត​…</string>
+    <string name="bad_name_title">ប្រើ​ឈ្មោះ​នេះ?</string>
+    <string name="invalid_name_title">មិន​អាច​ប្រើ​ឈ្មោះ​នេះ</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"បើ​អ្នក​ចង់​បាន​វា​ជា​ឈ្មោះ Google+ របស់​អ្នក ក្រុម​របស់​យើង​នឹង​ពិនិត្យ​វា​ឡើងវិញ។ បើ​វា​បំពាន​លើ​គោលការណ៍​ដាក់​ឈ្មោះ​របស់​យើង នោះ​ប្រវត្តិរូប​របស់​អ្នក​អាច​នឹង​ត្រូវ​​ព្យួរ។ វា​គឺ​កំណត់​ថា​អ្នក​ត្រូវតែ​ធ្វើឲ្យ​ប្រវត្តិរូប​របស់​អ្នក​សកម្ម​សិន ទើប​អាច​ប្រើ​ផលិតផល Google បាន។ 
+ 
+ "<annotation id="learn_more"> ស្វែងយល់​បន្ថែម </annotation></string>
+    <string name="invalid_name_text">អ្នក​មិន​អាច​ប្រើ​ឈ្មោះ​នេះ​ជាមួយ Google+ ព្រោះ​វា​មាន​តួអក្សរ​មិន​ត្រឹមត្រូវ។</string>
+    <string name="invalid_nickname_text">អ្នក​មិន​អាច​ប្រើ​ឈ្មោះ​នេះ​ជាមួយ Google+ បាន​ទេ ព្រោះ​វា​មាន​តួអក្សរ​ដែល​មិន​ត្រឹមត្រូវ។ សាកល្បង​ប្រើ​សម្មតិនាម, ឈ្មោះ​ពីមុន ​ឬ​ងារ? អ្នក​អាច​បន្ថែម​វា​ទៅ​កាន់​ប្រវត្តិរូប​របស់​អ្នក​បាន​បន្ទាប់ពី​អ្នក​ចូលរួម។</string>
+    <string name="invalid_other_text">ឈ្មោះ​នេះ​មិន​អាច​ប្រើ​ជាមួយ Google+ បាន​ទេ។</string>
+    <string name="bad_name_agree_text">ខ្ញុំ​យល់ និង​ចង់​ប្រើ​ឈ្មោះ​នេះ។</string>
+    <string name="bad_name_decline_button_label">ធ្វើ​បច្ចុប្បន្នភាព​ឈ្មោះ</string>
+    <string name="bad_name_agree_button_label">ដាក់​​​ស្នើ​ឈ្មោះ​សម្រាប់​ការពិនិត្យ​ឡើងវិញ</string>
+    <string name="bad_name_skip_button_label">រំលង Google+</string>
+    <string name="photo_title">រូបថត​អ្នក</string>
+    <string name="photo_text">រូបថត​នេះ​នឹង​ត្រូវ​បាន​​ប្រើ​ក្នុង​កំណត់​ត្រា​ទំនាក់ទំនង​របស់​អ្នក។ អ្នក​អាច​ប្ដូរ​វា​បាន​នៅ​ពេលក្រោយ​ក្នុង​កម្មវិធី​មនុស្ស។</string>
+    <string name="photo_text_es">ថត​រូប​ដែល​មិត្តភ័ក្ដិ​របស់​អ្នក​នឹង​មើល​ឃើញ​នៅ​លើ Google+ ។ អ្នក​អាច​ជ្រើស​រូបភាព​ថ្មី​បាន​នៅ​ពេល​ក្រោយ។</string>
+    <string name="photo_button_label">ថតរូប</string>
+    <string name="retake_photo_button_label">ថតរូប​ឡើងវិញ</string>
+    <string name="photo_failure">មិន​អាច​ចាប់ផ្ដើម​ម៉ាស៊ីន​ថត។</string>
+    <string name="crop_failure">មិន​អាច​ច្រឹប​រូបថត។</string>
+    <string name="photo_description">រូបថត​អ្នក</string>
+    <string name="communicating_message">ទូរស័ព្ទ​របស់​អ្នក​កំពុង​ទាក់ទង Google ដើម្បី​រក្សាទុក​ព័ត៌មាន​ទៅ​ក្នុង​គណនី​របស់​អ្នក។ វា​អាច​ប្រើ​ពេល​ប្រហែល​៥នាទី​។</string>
+    <string name="creating_account_title">កំពុង​រក្សាទុក​គណនី...</string>
+    <string name="checking_username_message">"កុំព្យូទ័រ​បន្ទះ​របស់​អ្នក​កំពុង​ទាក់ទង Google ដើម្បី​មើល​ថា​តើ​ឈ្មោះ​ដែល​អ្នក​ចង់​បាន​មាន ឬ​មិន​មាន។ 
+ 
+ វា​អាច​ប្រើ​ពេល​ពីរ​បី​នាទី។"</string>
+    <string name="plus_failure_title">ចូលរួម Google+ ​​ពេល​ក្រោយ</string>
+    <string name="plus_failure_new_account_text">គណនី Google របស់​អ្នក​ត្រូវ​បាន​បង្កើត​ឡើង​ហើយ ប៉ុន្តែ​សំណើ​របស់​អ្នក​ដើម្បី​ចូលរួម Google+ មិន​បាន​ជោគជ័យ​ទេ។ សូម​ព្យាយាម​ម្ដង​ទៀត​នៅ​ពេល​ក្រោយ​ជាមួយ​កម្មវិធី​អ៊ីនធឺណិត​នៅ plus.google.com ។</string>
+    <string name="plus_failure_text">សំណើ​របស់​អ្នក​ដើម្បី​ចូល​រួម Google+ មិន​បាន​ជោគជ័យ​ទេ។ សូម​ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ក្រោយ​ជាមួយ​កម្មវិធី​អ៊ីនធឺណិត​នៅ plus.google.com ។</string>
+    <string name="provisioned_login_title">បញ្ចូល​ពាក្យសម្ងាត់</string>
+    <string name="provisioned_welcome">សួស្ដី, %s!</string>
+    <string name="provisioned_welcome_2">"បញ្ចូល​ពាក្យសម្ងាត់​សម្រាប់៖
+%s"</string>
+    <string name="provisioned_incorrect_login">មិនមែន %s?</string>
+    <string name="login_title">បញ្ចូល​អ៊ីមែល និង​ពាក្យសម្ងាត់</string>
+    <string name="login_task_title">កំពុង​ចូល...</string>
+    <string name="password">ពាក្យសម្ងាត់​</string>
+    <string name="restore_wifi">ស្ដារ និង​ភ្ជាប់​ទៅ​បណ្ដាញ​វ៉ាយហ្វាយ​ដែល​ស្គាល់។</string>
+    <string name="sign_in_agreement_multi_user">ដើម្បី​ចូល អ្នក​ត្រូវតែ​យល់ព្រម​ជាមួយ​លក្ខខណ្ឌ​ប្រើប្រាស់ <annotation id="tos"> របស់ Google </annotation> , <annotation id="google_privacy"> គោលនយោបាយ​ភាព​ឯកជន </annotation> និង <annotation id="play_tos"> លក្ខខណ្ឌ​ប្រើប្រាស់​ឃ្លាំង​កម្មវិធី</annotation>" ។ 
+ 
+ ចងចាំ​ថា៖ អ្នកប្រើ​ផ្សេងទៀត​អាច​ព្រម​ទទួល​សិទ្ធិ​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ជំនួស​អ្នក​បាន។ ក្រៅពី​កុំព្យូទ័រ អ្នក​គួរតែ​ចែករំលែក​កុំព្យូទ័រ​បន្ទះ​នេះ​ជាមួយ​មនុស្ស​ដែល​អ្នក​ទុកចិត្ត​ប៉ុណ្ណោះ។"</string>
+    <string name="sign_in_agreement_with_chrome">ដើម្បី​ចូល អ្នក​ត្រូវ​យល់ព្រម​ជាមួយ​លក្ខខណ្ឌ​ប្រើប្រាស់ <annotation id="tos">របស់ Google</annotation> និង <annotation id="google_privacy"> គោលនយោបាយ​ភាព​ឯកជន</annotation>, លក្ខខណ្ឌ​ប្រើប្រាស់ <annotation id="chrome_tos"> របស់ Chrome</annotation> និង <annotation id="chrome_privacy"> ការ​ជូនដំណឹង​ភាព​ឯកជន </annotation>, និង​លក្ខខណ្ឌ​ប្រើប្រាស់<annotation id="play_tos">របស់​ឃ្លាំង​កម្មវិធី</annotation> ។</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">ដើម្បី​ចូល អ្នក​ត្រូវ​យល់ព្រម​ជាមួយ​លក្ខខណ្ឌ​ប្រើប្រាស់ <annotation id="tos">របស់ Google</annotation> និង <annotation id="google_privacy"> គោលនយោបាយ​ភាព​ឯកជន </annotation>, លក្ខខណ្ឌ​ប្រើប្រាស់<annotation id="chrome_tos"> របស់ Chrome </annotation> និង <annotation id="chrome_privacy"> ការ​ជូនដំណឹង​ភាព​ឯកជន </annotation>, និង​លក្ខខណ្ឌ​ប្រើប្រាស់ <annotation id="play_tos"> របស់​ឃ្លាំង​កម្មវិធី </annotation>" ។ 
+ 
+ ចងចាំ​ថា៖ អ្នកប្រើ​ផ្សេងទៀត​អាច​ព្រម​ទទួល​សិទ្ធិ​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ជំនួស​អ្នក​បាន។ ជា​មួយ​​​កុំព្យូទ័រ​ផ្សេង​ អ្នក​គួរតែ​ចែករំលែក​កុំព្យូទ័រ​បន្ទះ​នេះ​ជាមួយ​មនុស្ស​ដែល​អ្នក​ទុកចិត្ត​ប៉ុណ្ណោះ។"</string>
+    <string name="create_prompt">" មិន​ទាន់​មាន​គណនី Google? "<annotation id="create_account"> បង្កើត​គណនី​ឥឡូវ</annotation> ។</string>
+    <string name="sign_in_with_google_account_short">ចូល​គណនី Google របស់​អ្នក៖</string>
+    <string name="invalid_username">អត្ថបទ​ដែល​បាន​បញ្ចូល​គឺ​មិនមែន​ជា​ឈ្មោះ​អ្នកប្រើ​ដែល​ត្រឹមត្រូវ។</string>
+    <string name="captcha_instructions">បញ្ចូល​អត្ថបទ​ដែល​អ្នក​ឃើញ​នៅ​ទីនេះ៖</string>
+    <string name="create_google_account">ជ្រើស​ឈ្មោះ​អ្នក​ប្រើ</string>
+    <string name="create_google_account_text">គណនី Google របស់​អ្នក​គឺ​មក​ជាមួយ Gmail​, អ៊ីមែល​ពី Google ។ វា​ដំណើរការ​ជាមួយ​គ្រប់​ឧបករណ៍, ​អាច​ទប់ស្កាត់​សារ​ឥតបានការ និង​ច្រើន​ទៀត។</string>
+    <string name="account_already_has_gmail">គណនី​មាន​អ៊ីមែល Google រួចហើយ។</string>
+    <string name="error_account_disabled">"គណនីនេះត្រូវបានបិទដំណើរការ។ 
+
+(សម្រាប់ព័ត៌មានលម្អិត សូមចូលទៅកាន់ https://google.com/accounts ដោយប្រើកម្មវិធីរុករកគេហទំព័រ។)"</string>
+    <string name="no_network">អ្នក​មិន​មាន​ការ​តភ្ជាប់​បណ្ដាញ។</string>
+    <string name="no_network_help">នេះ​អាច​ជា​បញ្ហា​បណ្ដោះ​អាសន្ន ឬ​ឧបករណ៍ Android របស់​អ្នក​មិន​អាច​ផ្ដល់​សេវា​ទិន្នន័យ។ សូម​ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ដែល​បាន​តភ្ជាប់​ទៅ​បណ្ដាញ​ចល័ត ឬ​បណ្ដាញ​វ៉ាយហ្វាយ។</string>
+    <string name="no_network_help_wifi_only">នេះ​អាច​ជា​បញ្ហា​បណ្ដោះ​អាសន្ន ។ ព្យាយាម​ម្ដងទៀត ឬ​តភ្ជាប់​ទៅ​បណ្ដាញ​វ៉ាយហ្វាយ​ផ្សេង។</string>
+    <string name="error_login_failed">"ឈ្មោះ​អ្នកប្រើ និង​ពាក្យសម្ងាត់​របស់​អ្នក​មិន​ផ្គូផ្គង​គ្នា​ទេ។ សូម​ព្យាយាម​ម្ដងទៀត។ 
+
+ (ដើម្បី​សង្គ្រោះ​ព័ត៌មាន​គណនី​របស់​អ្នក​ សូម​ចូល​ទៅ google.com/accounts/recovery/"</string>
+    <string name="error_account_not_verified">"គណនី​នេះ​មិន​បាន​ផ្ទៀងផ្ទាត់​ទេ។ សូម​ពិនិត្យ​អ៊ីមែល​របស់​អ្នក រួច​អនុវត្ត​តាម​តំណ​ដែល​បាន​ភ្ជាប់​ដើម្បី​​ផ្ទៀងផ្ទាត់​គណនី​នេះ។ 
+ 
+ (ដើម្បី​សង្គ្រោះ​ព័ត៌មាន​គណនី​របស់​អ្នក​ សូម​ចូល​ទៅ http://www.google.com/accounts/recovery នៅ​លើ​កុំព្យូទ័រ​របស់​អ្នក។)"</string>
+    <string name="exit_menu_item">ចេញពី​ការ​ចូល​កម្មវិធី​អ៊ីនធឺណិត</string>
+    <string name="creating_profile">កំពុង​បង្កើត​ប្រវត្តិរូប​អ្នក...</string>
+    <string name="checking_account">កំពុង​ពិនិត្យ​ភាព​ដែល​អាច​ប្រើ​បាន...</string>
+    <string name="is_not_available">ឈ្មោះ​អ្នកប្រើ <b>^1</b> ​មិន​អាច​ប្រើ​បាន។</string>
+    <string name="suggestions_hint">ប៉ះ​ ដើម្បី​មើល​ការ​ផ្ដល់​យោបល់</string>
+    <string name="suggest_username_next_button_label">ប្ដូរ​ឈ្មោះ​អ្នកប្រើ</string>
+    <string name="hint_size">" "<b>^1</b> មាន​តិច​ជាង៦ ឬ​ច្រើន​ជាង៣០​តួអក្សរ។</string>
+    <string name="hint_numbers_only">" "<b>^1</b> មិន​មាន​តួអក្សរ។</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" អាច​មាន​តែ​អក្សរ, 
+ លេខ និង​សញ្ញា​ចុច​ប៉ុណ្ណោះ។"</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> មិន​ប្រើ​ Gmail ។</string>
+    <string name="sign_in_browser">ចូល​កម្មវិធី​អ៊ីនធឺណិត</string>
+    <string name="alternatives_list_title">ឈ្មោះ​អ្នកប្រើ​ដែល​បាន​ស្នើ</string>
+    <string name="password_title">បង្កើត​ពាក្យសម្ងាត់</string>
+    <string name="choose_a_password">ពាក្យសម្ងាត់​</string>
+    <string name="confirm_password">បញ្ចូល​ពាក្យសម្ងាត់​ឡើងវិញ</string>
+    <string name="too_short">ខ្លី​ពេក</string>
+    <string name="security_questions_title">សំណួរ​សុវត្ថិភាព</string>
+    <string name="answer">" "<b>ចម្លើយ​</b></string>
+    <string name="password_mismatch">ពាក្យសម្ងាត់​មិន​​ដូច​គ្នា។ សូម​ព្យាយាម​ម្ដងទៀត។</string>
+    <string name="eight_chars_min">អប្បបរមា ៨តួ​អក្សរ</string>
+    <string name="verify_your_profile">ផ្ទៀងផ្ទាត់​ប្រវត្តិរូប​របស់​អ្នក​</string>
+    <string name="error_not_logged_in">អ្នកប្រើ​មិន​បាន​ចូល។</string>
+    <string name="error_username_unavailable">ឈ្មោះ​អ្នកប្រើ​គឺ​មិន​មាន។</string>
+    <string name="error_bad_password">ពាក្យសម្ងាត់​គឺ​ខ្សោយ ឬ​មាន​តួ​អក្សរ​មិន​ត្រឹមត្រូវ។ សូម​ព្យាយាម​ម្ដងទៀត។</string>
+    <string name="error_bad_username">ឈ្មោះ​អ្នកប្រើ​មិន​ត្រឹមត្រូវ។</string>
+    <string name="existing_account_error_title">គណនី​មាន​រួចហើយ</string>
+    <string name="existing_account_error_text">មាន​គណនី ^1 រួចហើយ​នៅ​លើ​ឧបករណ៍ Android នេះ។</string>
+    <string name="submission_title">សូមទោស​…</string>
+    <string name="submission_error_text">មាន​កំហុស សូម​ព្យាយាម​ម្ដង​ទៀត។</string>
+    <string name="sync_intro_title">ធ្វើ​សមកាលកម្ម​គណនី</string>
+    <string name="account_tos_title">បញ្ចប់​គណនី</string>
+    <string name="account_tos_plus_title">បញ្ចប់​ការ​ចូលរួម Google+</string>
+    <string name="i_accept">ខ្ញុំ​ព្រម​ទទួល</string>
+    <string name="i_decline">កុំ​បង្កើត​គណនី</string>
+    <string name="allow_personalized_content">អនុញ្ញាត​ឲ្យ Google ប្រើ​ព័ត៌មាន​របស់​អ្នក​ដើម្បី​សម្គាល់​​មាតិកា​ និង​ផ្សាយ​ពាណិជ្ជកម្ម​លើ​តំបន់បណ្ដាញ​ក្រៅ​ពី Google ។​</string>
+    <string name="enable_web_history">បើក​ប្រវត្តិ​បណ្ដាញ</string>
+    <string name="learn_more"><annotation id="learn_more">ស្វែងយល់​បន្ថែម</annotation></string>
+    <string name="account_creation_tos">ដើម្បី​បន្ត អ្នក​ត្រូវ​យល់ព្រម​ជាមួយ​លក្ខខ័ណ្ឌ​ប្រើប្រាស់ <annotation id="tos"> របស់ Google</annotation>, <annotation id="google_privacy"> គោលនយោបាយ​ភាព​ឯកជន</annotation> និង <annotation id="play_tos"> លក្ខខ័ណ្ឌ​ប្រើប្រាស់​របស់​ឃ្លាំង​កម្មវិធី</annotation> ។</string>
+    <string name="account_creation_tos_with_chrome">ដើម្បី​បន្ត អ្នក​ត្រូវតែ​យល់ព្រម​ជាមួយ​លក្ខខណ្ឌ​ប្រើប្រាស់ <annotation id="tos"> របស់ Google </annotation> និង <annotation id="google_privacy"> គោលនយោបាយ​ភាព​ឯកជន </annotation>, លក្ខខណ្ឌ​ប្រើប្រាស់ <annotation id="chrome_tos"> របស់ Chrome </annotation> និង <annotation id="chrome_privacy"> ការ​ជូនដំណឹង​ភាព​ឯកជន </annotation>, និង​លក្ខខណ្ឌ​ប្រើប្រាស់ <annotation id="play_tos"> របស់​ឃ្លាំង​កម្មវិធី</annotation> ។</string>
+    <string name="gender_prompt">ភេទ</string>
+    <string name="gender_hint">ភេទ</string>
+    <string name="account_pre_intro_title">មានគណនី Google ហើយ?</string>
+    <string name="account_pre_intro_default_message">"តើ​អ្នក​មាន​គណនី Google ទេ?
+ 
+ បើ​អ្នក​ប្រើ Gmail ឬ​កម្មវិធី​របស់ Google, សូម​ឆ្លើយ​បាទ/ចាស។"</string>
+    <string name="account_pre_intro_yes">បាទ/ចាស</string>
+    <string name="account_pre_intro_no">ទេ</string>
+    <string name="account_intro_title">គណនី Google</string>
+    <string name="account_intro_required_title">ដំណើរការ​ដោយ Google</string>
+    <string name="account_intro_recommended_title">ធ្វើឲ្យ​វា​ជា Google</string>
+    <string name="account_intro_default_message">នឹង​លែង​បាត់បង់​អ្វីៗ​របស់​អ្នក​ទៀត​ហើយ ព្រោះ​គណនី Google នឹង​រក្សា​អ្វីៗ​គ្រប់យ៉ាង​របស់​អ្នក​យ៉ាង​មាន​សុវត្ថិភាព។</string>
+    <string name="account_intro_simple_message">តើ​អ្នក​ចង់​បន្ថែម​គណនី​ដែល​មាន​ស្រាប់ ឬ​បង្កើត​ថ្មី?</string>
+    <string name="account_intro_learn_more">ស្វែងយល់​បន្ថែម</string>
+    <string name="learn_more_title">ស្វែងយល់​បន្ថែម</string>
+    <string name="learn_more_account_intro">"គណនី Google អនុញ្ញាត​ឲ្យ​អ្នក៖ 
+
+"<li><ul> មើល និង​រៀបចំ​ព័ត៌មាន​ទាំងអស់​រួម​ទាំង​ប្រវត្តិ​ស្វែងរក​របស់​អ្នក​ពី​គ្រប់​កន្លែង។ </ul></li>"
+
+"<li><ul> បម្រុងទុក​ទិន្នន័យ​របស់​អ្នក​ដោយ​ស្វ័យប្រវត្តិ ដូចជា​អ៊ីមែល, ទំនាក់ទំនង, តន្ត្រី និង​រូបភាព។ </ul></li>"
+
+"<li><ul> ប្រើ​សេវា​កម្ម Google យ៉ាង​ងាយស្រួល​ពី​គ្រប់​ទី​កន្លែង​រួម​មាន​ទំនាក់ទំនង, ប្រតិទិន, ផែនទី និង​ច្រើន​ទៀត។ </ul></li></string>
+    <string name="learn_more_account_intro_title">អំពី​គណនី Google</string>
+    <string name="learn_more_bad_name">Google+ តម្រូវ​ឲ្យ​អ្នក​ប្រើ​ឈ្មោះ​ធម្មតា​របស់​អ្នក។ ប្រវត្តិរូប​​របស់​អ្នក​គួរ​តែ​តំណាង​ឲ្យ​មនុស្ស​-មិនមែន​តំណាង​ឲ្យ​អាជីវកម្ម អង្គការ ឬ​គ្រួសារ​នោះ​ទេ ហើយ​គួរតែ​មាន​នាមត្រកូល និង​នាម​ខ្លួន​របស់​អ្នក​នៅ​ក្នុង​ភាសា​តែ​មួយ​ជាមួយ​ងារ​ច្បាស់លាស់ ឬ​វណ្ណយុត្ត​មិន​ចាំបាច់។ បន្ទាប់ពី​ចុះឈ្មោះ​ហើយ អ្នក​អាច​ដាក់​សម្មតិនាម ឬ​ឈ្មោះ​ផ្សេង​បាន​នៅ​ក្នុង​វាល​ឈ្មោះ​ផ្សេង​នៃ​ប្រវត្តិរូប​របស់​អ្នក។</string>
+    <string name="learn_more_bad_name_title">អំពី​គោលការណ៍​ដាក់ឈ្មោះ</string>
+    <string name="wait_for_device_country_title">រៀបចំ​គណនី</string>
+    <string name="wait_for_device_country_msg">កំពុង​ប្រមូល​ព័ត៌មាន​ទូរស័ព្ទ​អ្នក។ វា​អាច​ប្រើ​ពេល​ប្រហែល ៣០ វិនាទី។</string>
+    <string name="recovery_title">ការ​សង្គ្រោះ​ពាក្យសម្ងាត់ Google</string>
+    <string name="recovery_wait_title">កំពុង​ទាក់ទង Google...</string>
+    <string name="cannot_talk_to_server_msg">ឧបករណ៍​នេះ​មិន​អាច​ទៅ​ដល់ Google ។</string>
+    <string name="recovery_skip_label">រំលង</string>
+    <string name="recovery_retry_label">ព្យាយាម​ម្ដងទៀត</string>
+    <string name="recovery_message_set">"បើ​អ្នក​ធ្លាប់​ភ្លេច​ពាក្យសម្ងាត់ អ្នក​ពិតជា​ចង់​បាន​វិធី​សង្គ្រោះ​វា។ 
+ 
+ Google បាន​ផ្ដល់​ជម្រើស​សម្រាប់​ការសង្គ្រោះ​ពាក្យសម្ងាត់​របស់​អ្នក​តាមរយៈ​សារ SMS ឬ​អាសយដ្ឋាន​អ៊ីមែល​ផ្សេង។ 
+ 
+ ជំហាន​នេះ​គឺ​បាន​ផ្ដល់​​ការ​ណែនាំ​យ៉ាង​ខ្លាំង។ "<annotation id="help_url"> ស្វែងយល់​បន្ថែម </annotation></string>
+    <string name="recovery_message_verify">"ពាក្យសម្ងាត់​គឺ​ងាយស្រួល​ភ្លេច។
+ 
+ បញ្ជាក់​​លេខ​ទូរស័ព្ទ ឬ​បម្រុងទុក​អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក​ឥឡូវ។ វា​អាច​ជួយ​អ្នក​ដើម្បី​សង្គ្រោះ​ការ​ចូល​ដំណើរ​ការ​មាតិកា​របស់​អ្នក​នៅ​លើ Google និង​ឃ្លាំង​កម្មវិធី។ "<annotation id="help_url"> សិក្សា​បន្ថែម </annotation></string>
+    <string name="recovery_yes_button_label">កំណត់​ជម្រើស​សង្គ្រោះ</string>
+    <string name="recovery_yes_button_label_verify">បញ្ជាក់​​ជម្រើស​សង្គ្រោះ</string>
+    <string name="recovery_later_button_label">មិនមែន​ឥឡូវ</string>
+    <string name="recovery_input_screen_message">ព័ត៌មាន​សង្គ្រោះ​នេះ​អនុវត្ត​ទៅ %s ។</string>
+    <string name="secondary_email_hint">អ៊ីមែល​បម្រុងទុក</string>
+    <string name="secondary_email_invalid">អាសយដ្ឋាន​អ៊ីមែល​មិន​ត្រឹមត្រូវ</string>
+    <string name="secondary_email_same_as_primary">មិន​អាច​ដូច​គ្នា​អ៊ីមែល​ចម្បង​បាន​ទេ</string>
+    <string name="phone_number_hint">លេខទូរស័ព្ទ</string>
+    <string name="phone_number_invalid_character">តួអក្សរ​មិន​ត្រឹមត្រូវ​នៅ​ក្នុង​លេខ​ទូរស័ព្ទ</string>
+    <string name="phone_number_invalid">លេខទូរស័ព្ទ​មិន​ត្រឹមត្រូវ</string>
+    <string name="country_invalid">ប្រទេស​នេះ​មិន​ត្រូវ​បាន​អនុញ្ញាត</string>
+    <string name="recovery_server_error">កំហុស​ក្នុង​ការ​និយាយ​ទៅ​កាន់​ម៉ាស៊ីន​មេ។ សូម​ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ក្រោយ។</string>
+    <string name="account_recovery_info">បើ​អ្នក​ធ្លាប់​បាត់​ពាក្យសម្ងាត់ អ្នក​អាច​ឆ្លើយ​សំណួរ​សុវត្ថិភាព រួច​កំណត់​តំណ​អ៊ីមែល​ឡើងវិញ​ទៅ​អាសយដ្ឋាន​ផ្សេង​បាន។</string>
+    <string name="secondary_email_label">អាសយដ្ឋាន​អ៊ីមែល​សង្គ្រោះ</string>
+    <string name="invalid_email">"បាន​បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល​មិន​ត្រឹមត្រូវ។ 
+ ឧទាហរណ៍៖ joe@example.com"</string>
+    <string name="invalid_email_primary">អាសយដ្ឋាន​សង្គ្រោះ​មិន​អាច​ដូច​គ្នា​ជា​មួយ​អាសយដ្ឋាន​ដែល​អ្នក​កំពុង​បង្កើត​ឡើយ។</string>
+    <string name="backup_consent_message">"ប្រើ​គណនី Google របស់​អ្នក​ដើម្បី​បម្រុងទុក​កម្មវិធី ការ​កំណត់​ផ្សេងៗ (ដូចជា​ចំណាំ និង​ពាក្យសម្ងាត់​វ៉ាយហ្វាយ) និង​ទិន្នន័យ​ផ្សេងទៀត។ បើ​អ្នក​បាន​បម្រុងទុក​គណនី​របស់​អ្នក​ពីមុន នោះ​អ្នក​នឹង​អាច​ស្ដារ​វា​ទៅកាន់​ទូរស័ព្ទ​ឥឡូវ​បាន។ 
+ 
+ អ្នក​អាច​ប្ដូរ​ការ​កំណត់​ការ​បម្រុង​ទុក​របស់​អ្នក​ពេល​ណា​ក៏​បាន​នៅ​ក្នុង​ការ​កំណត់។"</string>
+    <string name="backup_consent_message_no_restore">"ប្រើ​គណនី Google របស់​អ្នក​ដើម្បី​បម្រុងទុក​កម្មវិធី ការ​កំណត់​ផ្សេងៗ (ដូច​ជា​ចំណាំ និង​ពាក្យ​សម្ងាត់​វ៉ាយហ្វាយ​) និង​ទិន្នន័យ​ផ្សេងទៀត។
+
+អ្នក​អាច​ប្ដូរ​ការ​កំណត់​ការ​បម្រុងទុក​របស់​អ្នក​នៅ​ពេល​ណា​ក៏​បាន​ក្នុង​ការ​កំណត់។"</string>
+    <string name="restoring_title">កំពុង​ស្ដារ...</string>
+    <string name="restoring_message">ទូរស័ព្ទ​របស់​អ្នក​កំពុង​ទាក់ទង Google ដើម្បី​ស្ដារ​គណនី​របស់​អ្នក។ វា​អាច​ប្រើ​ពេល​បន្តិចបន្តួច។</string>
+    <string name="gls_notification_login_error">ប៉ះ​ដើម្បី​ចូល​គណនី​របស់​អ្នក។</string>
+    <string name="gls_ui_add_account_title">រៀបចំ​គណនី</string>
+    <string name="gls_ui_activity_title">ចូល</string>
+    <string name="gls_ui_activity_title_browser_signin">ចូល</string>
+    <string name="gls_ui_activity_title_checking_in">កំពុង​រៀបចំ...</string>
+    <string name="gls_ui_activity_authenticating">កំពុង​ផ្ទៀងផ្ទាត់...</string>
+    <string name="gls_dmagent_activity_activate_message">" ដែន​របស់​អ្នក​ទាមទារ​ការ​គ្រប់​គ្រង​ឧបករណ៍​ចល័ត។ ធ្វើឲ្យ​កម្មវិធី \"គោលនយោបាយ​ឧបករណ៍​កម្មវិធី​​របស់ Google​\" សកម្ម​ដើម្បី​បង្ខំ​គោលនយោបាយ​សុវត្ថិភាព​ដែល​បាន​ទាមទារ​ដោយ​គណនី  "<b>^1</b> ។</string>
+    <string name="gls_dmagent_activity_activate_retry_button">ធ្វើឲ្យ​សកម្ម</string>
+    <string name="gls_dmagent_activity_download_message">" ដែន​របស់​អ្នក​ទាមទារ​ការ​គ្រប់​គ្រង​ឧបករណ៍​ចល័ត។ ដំឡើង​កម្មវិធី \"គោលការណ៍​ឧបករណ៍​កម្មវិធី​​របស់ Google​\" ដើម្បី​បង្ខំ​គោលការណ៍​ដែល​បាន​ទាមទារ​ដោយ​គណនី  "<b>^1</b> ។</string>
+    <string name="gls_dmagent_activity_download_retry_button">ទាញ​យក</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">អ្នក​បាន​បញ្ចូល​ពាក្យសម្ងាត់​មិន​ត្រឹមត្រូវ ឬ​គណនី​របស់​អ្នក​បាន​ប្ដូរ។ បញ្ចូល​ពាក្យសម្ងាត់​ម្ដងទៀត។</string>
+    <string name="permlab_googleAuthPassword">ចូល​ប្រើ​ពាក្យសម្ងាត់​គណនី Google</string>
+    <string name="permdesc_googleAuthPassword">ឲ្យ​កម្ម​វិធី​ចូល​ដំណើរការ​ពាក្យសម្ងាត់​ដោយ​ផ្ទាល់​សម្រាប់​គណនី Google ដែល​អ្នក​បាន​រៀបចំ។</string>
+    <string name="permlab_googleMailSwitch">ជ្រើស Gmail ឬ​អ៊ីមែល Google</string>
+    <string name="permdesc_googleMailSwitch">ឲ្យ​កម្មវិធី​​ប្ដូរ​ឈ្មោះ​បង្ហាញ​រវាង \"Gmail\" និង \"អ៊ីមែល Google\" ។</string>
+    <string name="sync_item_title">ធ្វើ​សម​កាល​កម្ម %s</string>
+    <string name="grant_credentials_permission_message_footer">ពួក​គេ​កំពុង​ស្នើ​សិទ្ធិ​ដើម្បី៖</string>
+    <string name="grant_credentials_permission_message_app">កម្ម​វិធី​ទាំង​នេះ​ចង់​ចូល​ដំណើរ​ការ​គណនី Google របស់​អ្នក​ពី​ឥឡូវ​នេះ​តទៅ៖</string>
+    <string name="grant_permissions_header_text">សំណើ​សុំ​សិទ្ធិ</string>
+    <string name="allow">អនុញ្ញាត​ឲ្យ​ប្រើ</string>
+    <string name="deny">ទេ អរគុណ</string>
+    <string name="permission_request_notification_with_subtitle">"បាន​ស្នើសុំ​សិទ្ធិ
+សម្រាប់​គណនី %s"</string>
+    <string name="notification_title">កំហុស​ក្នុង​ការ​ចូល %1$s</string>
+    <string name="account_setup_title">គណនី Google</string>
+    <string name="login_activity_title">ចូល</string>
+    <string name="relogin_activity_title">វាយ​ពាក្យសម្ងាត់​ឡើងវិញ</string>
+    <string name="show_error_activity_title">មិន​អាច​ចូល</string>
+    <string name="login_activity_task_title">កំពុង​ចូល...</string>
+    <string name="login_activity_task_msg">វា​អាច​ប្រើ​ពេល​ពីរ​ ឬ​បី​នាទី។</string>
+    <string name="prepare_account_setup_task_title">កំពុង​រៀបចំ​ការ​រៀបចំ​គណនី ...</string>
+    <string name="prepare_account_setup_task_msg">វា​អាច​ប្រើ​ពេល​ពីរ​ ឬ​បី​នាទី។</string>
+    <string name="sync_intro_activity_title">ធ្វើ​សម​កាល​កម្ម​គណនី​របស់​អ្នក</string>
+    <string name="username">អ៊ីមែល</string>
+    <string name="error_invalid_second_factor">ប្រើ​ពាក្យសម្ងាត់​កម្មវិធី​ជាក់លាក់​ជំនួស​ឲ្យ​ពាក្យសម្ងាត់​គណនី​ធម្មតា​របស់​អ្នក។</string>
+    <string name="error_needs_browser">ដើម្បី​ប្រើ​គណនី​របស់​អ្នក អ្នក​ត្រូវតែ​ចូល​នៅ​លើ​តំបន់​បណ្ដាញ។ ប៉ះ​បន្ទាប់ ​ដើម្បី​ចាប់ផ្ដើម​ចូល​កម្មវិធី​អ៊ីនធឺណិត។</string>
+    <string name="google_play_opt_in">ធ្វើ​បច្ចុប្បន្នភាព​ខ្ញុំ​រហូត​នូវ​ព័ត៌មាន និង​ការ​ផ្ដល់​ពី​ Google កម្សាន្ត។</string>
+    <string name="google_settings_header_title">ភាព​ឯកជន</string>
+    <string name="maps_settings_title">ផែនទី &amp; រយៈទទឹង</string>
+    <string name="location_settings_title">ទី​តាំង​</string>
+    <string name="search_settings_title">ស្វែងរក</string>
+    <string name="plus_settings_title">Google+​​</string>
+    <string name="ads_settings_title">ផ្សាយ​ពាណិជ្ជកម្ម</string>
+    <string name="location_network_based">សេវាកម្ម​ទីតាំង​របស់ Google</string>
+    <string name="location_neighborhood_level">អនុញ្ញាត​ឲ្យ​ផ្ញើ​ទិន្នន័យ​ទីតាំង​អនាមិក​ទៅ Google ។ អនុញ្ញាត​កម្មវិធី​ដែល​មាន​សិទ្ធិ​ឲ្យ​ប្រើ​ទិន្នន័យ​ពី​ប្រភព​ផ្សេងៗ​​ដូចជា វ៉ាយហ្វាយ និង​បណ្ដាញ​ចល័ត​ដើម្បី​កំណត់​ទីតាំង​ប្រហាក់ប្រហែល​របស់​អ្នក។</string>
+    <string name="use_location_title">ទីតាំង &amp; ការ​ស្វែងរក​តាម Google</string>
+    <string name="use_location_summary">ឲ្យ Google ប្រើ​ទីតាំង​អ្នក ដើម្បី​ធ្វើឲ្យ​ការ​ស្វែងរក និង​សេវាកម្ម​ផ្សេង​ប្រសើរ​ឡើង</string>
+    <string name="backup_consent_yes_agree">ប្រើ​គណនី Google របស់​អ្នក​ដើម្បី​បម្រុងទុក​កម្មវិធី ការ​កំណត់​ផ្សេងៗ (ដូច​ជា​ចំណាំ និង​ពាក្យ​សម្ងាត់​វ៉ាយហ្វាយ​) និង​ទិន្នន័យ​ផ្សេងទៀត។</string>
+    <string name="restore_consent_yes_agree">នាំ​យក​កម្ម​វិធី, ការ​កំណត់ និង​ទិន្នន័យ​ផ្សេងទៀត​ដែល​អ្នក​បាន​បម្រុងទុក​ក្នុង​គណនី Google របស់​អ្នក​ពីមុន​មកកាន់​កុំព្យូទ័រ​បន្ទះ​នេះ។</string>
+    <string name="audit_logging_summary">ផ្ញើ​ព្រឹត្តិការ​ឧបករណ៍​ និង​ព័ត៌មាន​វិនិច្ឆ័យ​ដោយ​ស្វ័យប្រវត្តិ​ទៅ Google ដើម្បី​ជួយ​ឲ្យ​ផលិតផល​យើង​ប្រសើរ​ឡើង និង​ជួយ​ការពារ​ឧបករណ៍​របស់​អ្នក។</string>
+    <string name="no_back_msg">មិន​អាច​ត្រឡប់​ទៅ​ជំហាន​មុន។</string>
+    <string name="setup_wizard_title">អ្នកជំនួយ​ការ​រៀបចំ</string>
+    <string name="setup_wizard_services_activity_title">សេវាកម្ម​ Google</string>
+    <string name="setup_wizard_services_description">សេវាកម្ម​ទាំង​នេះ​ដាក់ Google ដើម្បី​ធ្វើការ​ឲ្យ​អ្នក ហើយ​អ្នក​អាច​បើក ឬ​បិទ​វា​នៅ​ពេល​ណា​ក៏បាន។ ទិន្នន័យ​នឹង​ត្រូវ​បាន​ប្រើ​ដោយ​យោង​តាម <annotation id="google_privacy">គោលនយោបាយ​ភាព​ឯកជន</annotation> របស់ Google ។</string>
+    <string name="setup_wizard_services_backup_restore_heading">ការ​បម្រុង​ទុក &amp; ស្ដារ</string>
+    <string name="setup_wizard_services_location_heading">ទីតាំង</string>
+    <string name="setup_wizard_services_communication_heading">ទំនាក់ទំនង</string>
+    <string name="setup_wizard_services_backup"><b>បម្រុងកម្មវិធី ទិន្នន័យកម្មវិធី ការកំណត់ ថតផ្ទាល់ខ្លួន និងពាក្យសម្ងាត់ Wi-Fi ទូរស័ព្ទរបស់អ្នក</b> ដោយប្រើ គណនី Google របស់អ្នក ដូច្នេះអ្នកអាចស្តារវាបាននាពេលក្រោយយ៉ាងងាយស្រួល។ <annotation id="backup_details">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>បម្រុងកម្មវិធី ទិន្នន័យកម្មវិធី ការកំណត់ ថតផ្ទាល់ខ្លួន និងពាក្យសម្ងាត់ Wi-Fi</b> ដោយប្រើ គណនី Google របស់អ្នក ដូច្នេះអ្នកអាចស្តារវាបាននាពេលក្រោយយ៉ាងងាយស្រួល។</string>
+    <string name="setup_wizard_services_backup_restore_footnote">ទិន្នន័យ​រួម​​មាន ​កម្មវិធី​, ការ​កំណត់​កម្មវិធី​, ការ​កំណត់​ប្រព័ន្ធ​, និង​ពាក្យ​សម្ងាត់​វ៉ាយហ្វាយ។</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">ពេល​អ្នក​បើក​ការ​បម្រុង​ទុក​ស្វ័យ​ប្រវត្តិ ទិន្នន័យ​ក្នុង​ឧបករណ៍​របស់​អ្នក​ត្រូវ​បាន​រក្សាទុក​យ៉ាង​ទៀងទាត់​ក្នុង​គណនី Google របស់​អ្នក។ ការ​បម្រុងទុក​អាច​មាន​ព័ត៌មាន​ក្នុង​ថត​ទិន្នន័យ​កម្មវិធី​ដូច​ជា ចំណូលចិត្ត, ការ​កំណត់, សារ, រូបថត និង​ឯកសារ​ផ្សេង​ៗ​ទៀត។</string>
+    <string name="setup_wizard_services_location_sharing"><b> ប្រើ​សេវា​ទីតាំង​របស់ Google </b> ដើម្បី​ជួយ​កំណត់​ទីតាំង​។ នេះ​មាន​ន័យ​ថា​មាន​ការ​ផ្ញើ​ទិន្នន័យ​ទីតាំង​ជា​អនាមិក​ទៅ​ Google សូម្បី​តែ​នៅ​ពេល​មិន​មាន​កម្មវិធី​កំពុង​ដំណើរការ​ក៏​ដោយ​។ <annotation id="location_details"> ស្វែងយល់​បន្ថែម </annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">សេវា​ទីតាំង​របស់ Google ប្រើប្រាស់​ប្រភព​ដូច​ជា​វ៉ាយហ្វាយ និង​​បណ្ដាញ​ចល័ត​ដើម្បី​ជួយ​ប៉ាន់ស្មាន​ទីតាំង​ឧបករណ៍​របស់​អ្នក​កាន់​តែ​បាន​​លឿន​ និង​កាន់​តែ​ត្រឹមត្រូវ​។ នៅ​ពេល​ដែល​អ្នក​បើក​សេវា​ទីតាំង​របស់ Google​, ឧបករណ៍​របស់​អ្នក​ចូល​ក្នុង​របៀប​ដែល​ប្រើ​វ៉ាយហ្វាយ និង​បណ្ដាញ​ចល័ត​​ដើម្បី​ផ្ដល់​ព័ត៌មាន​ទីតាំង​។ អ្នក​អាច​បិទ​វា​នៅ​ក្នុង​ការ​កំណត់​ទីតាំង​ដោយ​ជ្រើស​របៀប​ដែល​ប្រើ​ប្រព័ន្ធ​ជីភីអេស​តែ​ប៉ុណ្ណោះ ពេល​ខ្លះ​បាន​តែ​របៀប​ឧបករណ៍។</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b> ជួយ​ធ្វើ​ឲ្យ​សេវា​ទីតាំង​ល្អ​ប្រសើរ</b> ដោយ​ឲ្យ​កម្មវិធី និង​សេវា​វិភាគ​រក​បណ្ដាញ​វ៉ាយហ្វាយ សូម្បីតែ​នៅ​ពេល​វ៉ាហ្វាយ​បិទ​ក៏​ដោយ។</string>
+    <string name="setup_wizard_services_location_footnote">សេវាកម្ម​ទីតាំង​របស់ Google ប្រើ​វ៉ាយហ្វាយ និង​សញ្ញា​ផ្សេង​ទៀត ដើម្បី​កំណត់​ទីតាំង​កាន់តែ​ច្បាស់ និង​លឿន ជា​ធម្មតា​ប្រើ​ថាមពល​ថ្ម​តិច​ជាង GPS ។ ទិន្នន័យ​មួយ​ចំនួន​អាច​ត្រូវ​​បាន​​រក្សាទុក​លើ​ឧបករណ៍​របស់​អ្នក។ ទិន្នន័យ​អាច​ត្រូវ​បាន​ប្រមូល​សូម្បី​តែ​គ្មាន​កម្មវិធី​កំពុង​ដំណើរការ​ក៏​ដោយ។</string>
+    <string name="setup_wizard_services_play"><b>ធ្វើ​បច្ចុប្បន្នភាព​ខ្ញុំ​រហូត</b> ជាមួយ​ព័ត៌មាន និង​ការ​ផ្ដល់​ពី Google កម្សាន្ត។</string>
+    <string name="setup_wizard_services_usage_reporting"><b> ជួយ​បង្កើន​បទ​ពិសោធ​ន៍ Android របស់​អ្នក </b> ដោយ​ការ​ផ្ញើ​​ទិន្នន័យ​កំណត់​រោគ​វិនិច្ឆ័យ ​និង​ទិន្នន័យ​​ប្រើ​ប្រាស់​ដោយ​ស្វ័យ​ប្រវត្តិ​ទៅ​ក្រុមហ៊ុន Google ។ ព័ត៌មាន​នេះ​នឹង​មិន​ត្រូវ​បាន​ប្រើ ​ដើម្បី​កំណត់​អត្តសញ្ញាណ​អ្នក​ និង​ផ្ដល់​ឲ្យ​​ក្រុម​ធ្វើ​ការ​លើ​​វត្ថុ​ដូច​ជា​អាយុកាល​ថ្ម​, ការ​ប្រតិបត្តិ​កម្មវិធី ​និង​លក្ខណៈ​ពិសេស​ថ្មី​របស់ Google ។ <annotation id="usage_reporting_details"> ស្វែងយល់​បន្ថែម </annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"នេះ​ជា​ព័ត៌មាន​​ទូទៅ​អំពី​ឧបករណ៍​របស់​អ្នក ​និង​របៀប​ដែល​អ្នក​ប្រើ​វា ​ដូចជា​កម្រិត​ថ្ម​, ភាព​​ញឹកញាប់​​ដែល​អ្នក​ប្រើ​កម្មវិធី​​, ​គុណភាព​ និង​រយៈពេល​នៃ​ការ​តភ្ជាប់​បណ្ដាញ​របស់​អ្នក (ដូច​ជា​បណ្ដាញ​ចល័ត, វ៉ាយហ្វាយ និង​ប៊្លូធូស​) និង​របាយការណ៍​គាំង​ នៅ​ពេល​ឧបករណ៍​មិន​កំពុង​ដំណើរការ​​តាម​វិធី​ដែល​​ពួកគេ​​គួរ​ធ្វើ​។ វា​នឹង​ត្រូវ​បាន​ប្រើ ​ដើម្បី​​ធ្វើ​ឲ្យ​​ផលិតផល​ និង​សេវាកម្ម​របស់​ Google កាន់​តែ​ល្អ​ប្រសើរ​សម្រាប់​អ្នក​រាល់​គ្នា ​ហើយ​នឹង​មិន​ត្រូវ​បាន​ភ្ជាប់​​ជាមួយ​​ក្រុមហ៊ុន Google គណនី​របស់​អ្នក​។ ​ព័ត៌មាន​ដែល​បាន​ប្រមូល​មួយ​ចំនួន​​នឹង​ជួយ​​ដល់​​ដៃ​គូ ​ដូច​ជា​អ្នក​អភិវឌ្ឍន៍​ Android ធ្វើ​ឲ្យ​​កម្មវិធី​​និង​ផលិតផល​របស់​ពួក​គេ​កាន់​តែ​ល្អ​ប្រសើរ​។ 
+
+ អ្នក​អាច​បើក​ ឬ​បិទ​វា​​នៅ​ពេល​ណា​មួយ​នៅ​ក្នុង​កម្មវិធី​ការ​កំណត់​របស់ Google ។ នេះ​មិន​ប៉ះ​ពាល់​ដល់​សមត្ថភាព​ឧបករណ៍​របស់​អ្នក​​ក្នុង​ការ​ផ្ញើ​ព័ត៌មាន​​ឡើយ ​វា​ត្រូវ​ការ​ដើម្បី​ទទួល​បាន​សេវា​ចាំបាច់​ដូច​ជា​​បច្ចុប្បន្នភាព ​និង​សន្តិសុខ​ប្រព័ន្ធ​។"</string>
+    <string name="setup_wizard_services_agreement">ទូរស័ព្ទ​នេះ​ក៏​អាច​នឹង​ទទួល​បាន​ និង​​​ដំឡើង​បច្ចុប្បន្នភាព ​និង​កម្មវិធី​ពី Google​, ក្រុមហ៊ុន​បញ្ជូន​ ​និង​ក្រុមហ៊ុន​ផលិត​ទូរស័ព្ទ​របស់​អ្នក​។ កម្មវិធី​ខ្លះ​អាច​នឹង​ត្រូវ​បាន​ទាញ​យក​ហើយ​​ដំឡើង ​ប្រសិន​បើ​អ្នក​បន្ត ​អ្នក​អាច​លុប​​វា​ចេញ​នៅ​ពេល​ណា​មួយ​។</string>
+</resources>

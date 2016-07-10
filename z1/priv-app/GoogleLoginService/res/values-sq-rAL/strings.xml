@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_wizard_next_button_label">Përpara</string>
+    <string name="setup_wizard_back_button_label">Prapa</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Kapërce</string>
+    <string name="down_button_label">Më shumë</string>
+    <string name="cancel_button_label">Anulo</string>
+    <string name="try_again_button_label">Provo përsëri</string>
+    <string name="close_button_label">Mbyll</string>
+    <string name="url_load_unsuccessful_message">Pajisja jote Android nuk është e lidhur me ndonjë shërbim të dhënash celulare. Për të parë këto informacione tani, vizito %s nga një shfletues uebi.</string>
+    <string name="sign_in_agreement">Duke u identifikuar, ti pranon <annotation id="tos">\"Kushtet e shërbimit\"</annotation>, <annotation id="google_privacy">\"Politikën e privatësisë\"</annotation>, dhe <annotation id="play_tos">\"Kushtet e shërbimit\" të \"Luaj me Google\"</annotation>.</string>
+    <string name="android_privacy_policy_title">Politika shtesë e privatësisë</string>
+    <string name="google_terms_of_service_title">Kushtet e shërbimit të Google</string>
+    <string name="google_privacy_policy_title">Politikat e privatësisë së Google</string>
+    <string name="google_plus_privacy_policy_title">Politika e privatësisë së Google Plus</string>
+    <string name="google_play_tos_title">Kushtet e shërbimit të \"Luaj me Google\"</string>
+    <string name="chrome_tos_title">Kushtet e shërbimit të Chrome</string>
+    <string name="chrome_privacy_title">Deklarata e privatësisë e Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Pajisja jote Android nuk është e lidhur me ndonjë rrjet Wi-Fi. Për të parë këto informacione tani, vizito %s nga një shfletues uebi.</string>
+    <string name="services_activity_title">Shërbimet e Google</string>
+    <string name="services_backup_heading">Rezervimi</string>
+    <string name="services_location_heading">Vendndodhja</string>
+    <string name="services_security_heading">Siguria</string>
+    <string name="services_personalization_heading">Personalizimi</string>
+    <string name="services_communication_heading">Komunikimi</string>
+    <string name="security_verify_apps_summary">Lejo Google që të kontrollojë të gjitha aplikacionet e instaluara për sjellje mundësisht të rrezikshme që mund të ndikojnë te siguria e pajisjes ose të të dhënave të tua.</string>
+    <string name="name_title">Emri yt</string>
+    <string name="name_text">Emri yt përdoret për të personalizuar telefonin tënd dhe shërbimet e Google.</string>
+    <string name="first_name">Emri</string>
+    <string name="last_name">Mbiemri</string>
+    <string name="cant_be_blank">Fusha nuk mund të lihet bosh.</string>
+    <string name="sharedUserLabel">Shërbimet e Google</string>
+    <string name="app_label">Menaxheri i llogarisë së Google</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Identifikohu</string>
+    <string name="create_button_label">Merr një llogari</string>
+    <string name="not_now_button_label">Jo tani!</string>
+    <string name="new_button_label">E re</string>
+    <string name="existing_button_label">Ekzistuese</string>
+    <string name="done">Në rregull</string>
+    <string name="edit_text_help">Prek një kuti teksti që të fillosh të shkruash</string>
+    <string name="add_a_google_account">Shto një llogari të Google</string>
+    <string name="captcha_title">Duhet të futësh tekstin CAPTCHA</string>
+    <string name="show_error_title">Gabim</string>
+    <string name="server_error">Kishte një problem me komunikimin me serverët e Google.</string>
+    <string name="server_error_help">Provo përsëri më vonë</string>
+    <string name="network_unreliable">Nuk mund të vendoset një lidhje e qëndrueshme me serverin.</string>
+    <string name="network_unreliable_help">Ky mund të jetë një problem i përkohshëm ose pajisja jote \"android\" mund të mos jetë e përgatitur për shërbimet e të dhënave. Nëse kjo vazhdon, telefono \"Kujdesin ndaj klientit\".</string>
+    <string name="network_unreliable_help_wifi_only">Ky mund të jetë një problem i përkohshëm. Provo përsëri ose lidhu me një rrjet tjetër Wi-Fi.</string>
+    <string name="invalid_login_character">Karakteri është i pavlefshëm. Lejohen vetëm 0-9, a-z, A-Z dhe pikat.</string>
+    <string name="invalid_password_character">Karakter fjalëkalimi i pavlefshëm.</string>
+    <string name="calendar">Kalendari i Google</string>
+    <string name="talk">Bisedo me Google</string>
+    <string name="email">Posta e Google</string>
+    <string name="field_cant_be_blank">Fusha nuk mund të lihet bosh.</string>
+    <string name="plus_query_title">Përmirëso me Google+</string>
+    <string name="plus_query_text">"Google+ e bën ndarjen në ueb t'i ngjajë ndarjes së gjerave sikurse në jetën reale."</string>
+    <string name="circles_subtitle">Një lumë gjërash ku je i zhytur</string>
+    <string name="circles_text">Lidhu me shokët e ngushtë dhe eksploro interesat e përbashkëta.</string>
+    <string name="uploads_subtitle">Rezervimi automatik i fotografive</string>
+    <string name="uploads_text">Krijo kopje rezervë të fotografive, me hapësirën ruajtëse private dhe falas.</string>
+    <string name="huddle_subtitle">Telefonatat me video dhe mesazhet</string>
+    <string name="huddle_text">Provo mesazhet me tekst, fotografitë dhe telefonatat me video në grup, pa pagesë me \"Hangouts\".</string>
+    <string name="plus_declined_button_label">Jo tani!</string>
+    <string name="plus_accepted_button_label">Fillo</string>
+    <string name="plus_name_check_title">Po kontakton me Google+…</string>
+    <string name="plus_name_check_text">Kjo mund të zgjasë disa minuta.</string>
+    <string name="plus_faq_title">Mirë se erdhe në Google+!</string>
+    <string name="plus_faq_text" formatted="false">"Në Google+, do të kesh një profil publik për t'i ndihmuar shokët e tu të të gjejnë në linjë. Kushdo që e di adresën tënde të mail-it mund të të gjejë dhe të shikojë profilin tënd.
+
+Mund të përdorësh butonat +1 kudo në ueb për të rekomanduar gjëra për të gjithë botën. Profili yt dhe shenjat +1 do të shfaqen publikisht në kërkim, në reklama dhe në ueb.
+
+Aktualisht, profili yt do të tregojë vetëm emrin tënd (%s %s). Mund të shtosh një fotografi, një biografi dhe detaje të tjera më vonë kur të fillosh të përdorësh Google+."</string>
+    <string name="dasher_warning">Administratori në %s zotëron dhe menaxhon të gjitha të dhënat e tua në Google+ dhe mund të fshijë ose të modifikojë profilin tënd në çdo kohë pa lejen tënde.</string>
+    <string name="profile_info_title">Profili yt</string>
+    <string name="profile_text">Jep disa informacione bazë për profilin tënd. Mund të shtosh fotografi dhe detaje të tjera më vonë kur të fillosh të përdorësh Google+.</string>
+    <string name="occupation">Profesioni</string>
+    <string name="current_city">Qyteti aktual</string>
+    <string name="picassa_info_title">Picasa dhe Google+</string>
+    <string name="picassa_info_text" formatted="false">"Fotografitë dhe videot e tua në \"Albumet e uebit të Picasa-s\" do të gjenden edhe në Google+ dhe komentet e tua do të jenë nga %s %s dhe jo nga %s. Kur i ndan fotografitë në Google+, marrësit mund t'i ndajnë ato përsëri me këdo tjetër. Cilësimet e shikueshmërisë së albumeve të tua nuk do të ndryshojnë dhe mund t'i kufizosh në çdo moment, në mënyrë që të mos ndahen përsëri lirisht."</string>
+    <string name="name_title_plus">Emri yt i Google+</string>
+    <string name="name_title_local">Ky telefon i përket…</string>
+    <string name="name_text_local">Telefoni përdor emrin tënd për të personalizuar disa aplikacione.</string>
+    <string name="name_progress_title">Pritni një sekondë…</string>
+    <string name="bad_name_title">Të përdoret ky emër?</string>
+    <string name="invalid_name_title">Ky emër nuk mund të përdoret</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Nëse dëshiron që ky të jetë emri yt në Google+, ekipi ynë do të duhet ta rishikojë atë. Nëse ai shkel \"Politikën tonë për emrat\", profili yt mund të pezullohet. Kjo do të kufizonte aftësinë tënde për të përdorur produktet e Google që kërkojnë një profil aktiv.
+
+"<annotation id="learn_more">Mëso më shumë</annotation></string>
+    <string name="invalid_name_text">Nuk mund ta përdorësh këtë emër me Google+ sepse përmban karaktere të pavlefshme.</string>
+    <string name="invalid_nickname_text">"Nuk mund ta përdorësh këtë emër me Google+ sepse përmban karaktere të pavlefshme. Po përpiqesh të përdorësh një pseudonim, emër ose titull të mëparshëm? Mund t'i shtosh te profili yt pasi të regjistrohesh."</string>
+    <string name="invalid_other_text">Ky emër nuk mund të përdoret me Google+.</string>
+    <string name="bad_name_agree_text">E kuptoj por prapëseprapë dua ta përdor këtë emër</string>
+    <string name="bad_name_decline_button_label">Përditëso emrin</string>
+    <string name="bad_name_agree_button_label">Paraqit emrin për shqyrtim</string>
+    <string name="bad_name_skip_button_label">Kapërceje Google+</string>
+    <string name="photo_title">Fotografia jote</string>
+    <string name="photo_text">Kjo fotografi do të përdoret në të dhënat e tua të regjistruara të kontaktit. Mund ta ndryshosh atë më vonë tek aplikacioni \"Kontaktet\".</string>
+    <string name="photo_text_es">Shkrep një fotografi që shokët e tu ta shikojnë në Google+. Mund të zgjedhësh një fotografi të re më vonë.</string>
+    <string name="photo_button_label">Shkrep një fotografi</string>
+    <string name="retake_photo_button_label">Shkrep sërish fotografi</string>
+    <string name="photo_failure">Kamera nuk mund të hapej.</string>
+    <string name="crop_failure">Fotografia nuk mund të pritej.</string>
+    <string name="photo_description">Fotografia jote</string>
+    <string name="communicating_message">Telefoni yt po kontakton me Google për të ruajtur informacionet në llogarinë tënde. Kjo mund të zgjasë deri në 5 minuta.</string>
+    <string name="creating_account_title">Po ruan llogarinë…</string>
+    <string name="checking_username_message">"Telefoni yt po kontakton me Google për të parë nëse emri i përdoruesit që dëshiron, mundësohet.
+
+Kjo mund të zgjasë disa minuta."</string>
+    <string name="plus_failure_title">Bashkohu me Google+ më vonë</string>
+    <string name="plus_failure_new_account_text">"Llogaria jote e Google është krijuar por kërkesa jote për t'u bashkuar me Google+ nuk u transmetua. Provo përsëri më vonë nga çdo shfletues uebi në plus.google.com."</string>
+    <string name="plus_failure_text">"Kërkesa jote për t'u bashkuar me Google+ nuk u transmetua. Provo përsëri më vonë nga çdo shfletues uebi në plus.google.com."</string>
+    <string name="provisioned_login_title">Fut fjalëkalimin</string>
+    <string name="provisioned_welcome">Përshëndetje, %s!</string>
+    <string name="provisioned_welcome_2">"Fut fjalëkalimin tënd për:
+%s"</string>
+    <string name="provisioned_incorrect_login">Nuk je %s?</string>
+    <string name="login_title">Shkruaj mail-in dhe fjalëkalimin</string>
+    <string name="login_task_title">Po identifikohet</string>
+    <string name="password">Fjalëkalimi</string>
+    <string name="restore_wifi">Restauro dhe lidhu me rrjetet e njohura Wi‑Fi.</string>
+    <string name="sign_in_agreement_multi_user">Duke u identifikuar, ti pranon <annotation id="tos">\"Kushtet e shërbimit\"</annotation>, <annotation id="google_privacy">\"Politikën e privatësisë\"</annotation> së Google dhe <annotation id="play_tos">\"Kushtet e shërbimit\" të \"Luaj me Google\"</annotation>". 
+
+Mos harro se çdo përdorues tjetër mund t'i pranojë lejet e përditësuara të aplikacioneve në emrin tënd. Si me çdo kompjuter, duhet ta ndash këtë tablet vetëm me personat të cilëve iu beson."</string>
+    <string name="sign_in_agreement_with_chrome">Duke u identifikuar, ti pranon <annotation id="tos">\"Kushtet e shërbimit\"</annotation> dhe <annotation id="google_privacy">\"Politikën e privatësisë\"</annotation> së Google, <annotation id="chrome_tos">\"Kushtet e shërbimit\"</annotation> dhe <annotation id="chrome_privacy">\"Deklaratën e privatësisë\"</annotation> së Chrome dhe <annotation id="play_tos">\"Kushtet e shërbimit\"</annotation> të \"Luaj me Google\".</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Duke u identifikuar, ti pranon <annotation id="tos">\"Kushtet e shërbimit\"</annotation> dhe <annotation id="google_privacy">\"Politikën e privatësisë\"</annotation> së Google, <annotation id="chrome_tos">\"Kushtet e shërbimit\"</annotation> dhe <annotation id="chrome_privacy">\"Deklaratën e privatësisë\"</annotation> së Chrome dhe <annotation id="play_tos">\"Kushtet e shërbimit\"</annotation>" të \"Luaj me Google\". 
+
+Mos harro se çdo përdorues tjetër mund t'i pranojë lejet e përditësuara të aplikacioneve në emrin tënd. Si me çdo kompjuter, duhet ta ndash këtë tablet vetëm me personat të cilëve iu beson."</string>
+    <string name="create_prompt">" Nuk ke llogari në Google? "<annotation id="create_account">Krijo një llogari tani</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Identifikohu me llogarinë tënde të Google:</string>
+    <string name="invalid_username">Teksti që shkrove nuk është emër përdoruesi i vlefshëm.</string>
+    <string name="captcha_instructions">Shkruaj tekstin që shikon këtu:</string>
+    <string name="create_google_account">Zgjidh një emër përdoruesi</string>
+    <string name="create_google_account_text">Llogaria jote e Google vjen bashkë me Gmail-in, postën e Google. Ai funksionon në çdo pajisje, bllokon mail-at e padëshiruar etj.</string>
+    <string name="account_already_has_gmail">Llogaria ka tashmë \"Gmail\".</string>
+    <string name="error_account_disabled">"Kjo llogari është çaktivizuar. 
+
+(Për detaje, vizito https://google.com/accounts në një shfletues uebi.)"</string>
+    <string name="no_network">Nuk ke një lidhje rrjeti.</string>
+    <string name="no_network_help">Ky mund të jetë një problem i përkohshëm ose pajisja jote \"android\" mund të mos jetë e përgatitur për shërbimet e të dhënave. Provo përsëri kur të jesh i lidhur me një rrjet celular ose lidhu me një rrjet Wi-Fi.</string>
+    <string name="no_network_help_wifi_only">Ky mund të jetë një problem i përkohshëm. Provo përsëri ose lidhu me një rrjet tjetër Wi-Fi.</string>
+    <string name="error_login_failed">"Emri i përdoruesit dhe fjalëkalimi yt nuk përputhen. Provo përsëri.
+
+Për të rikuperuar informacionet e llogarisë tënde, shko te google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Kjo llogari nuk është verifikuar. Kontrollo mail-in tënd dhe ndiq lidhjen e përfshirë për ta verifikuar këtë llogari. 
+
+(Për të rikuperuar informacionet e llogarisë tënde, shko te http://www.google.com/accounts/recovery në kompjuterin tënd.)"</string>
+    <string name="exit_menu_item">Dil nga identifikimi te shfletuesi</string>
+    <string name="creating_profile">Po krijon profilin tënd…</string>
+    <string name="checking_account">Po kontrollon vlefshmërinë…</string>
+    <string name="is_not_available">Emri i përdoruesit <b>^1</b> nuk mundësohet.</string>
+    <string name="suggestions_hint">Prek për sugjerimet</string>
+    <string name="suggest_username_next_button_label">Ndrysho emrin e përdoruesit</string>
+    <string name="hint_size">" "<b>^1</b> përmban më pak se 6 ose më shumë se 30 karaktere.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> nuk përmban asnjë shkronjë.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" mund të përmbajnë vetëm shkronja,
+numra dhe pika."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> nuk e përdor Gmail-in.</string>
+    <string name="sign_in_browser">Identifikimi te shfletuesi</string>
+    <string name="alternatives_list_title">Emrat e sugjeruar të përdoruesit</string>
+    <string name="password_title">Krijo një fjalëkalim</string>
+    <string name="choose_a_password">Fjalëkalimi</string>
+    <string name="confirm_password">Shkruaj përsëri fjalëkalimin</string>
+    <string name="too_short">Shumë i shkurtër</string>
+    <string name="security_questions_title">Pyetjet e sigurisë</string>
+    <string name="answer">" "<b>Përgjigjja</b></string>
+    <string name="password_mismatch">Fjalëkalimet nuk u përputhën. Provo përsëri.</string>
+    <string name="eight_chars_min">Minimumi 8 karaktere</string>
+    <string name="verify_your_profile">Verifiko profilin tënd</string>
+    <string name="error_not_logged_in">Përdoruesi nuk është identifikuar.</string>
+    <string name="error_username_unavailable">Emri i përdoruesit nuk mundësohet</string>
+    <string name="error_bad_password">Fjalëkalimi është shumë i dobët ose përmban karaktere të pavlefshme. Provo përsëri.</string>
+    <string name="error_bad_username">Emri i përdoruesit është i pavlefshëm.</string>
+    <string name="existing_account_error_title">Llogaria ekziston tashmë</string>
+    <string name="existing_account_error_text">Ka tashmë një llogari ^1 në këtë pajisje \"androidi\".</string>
+    <string name="submission_title">Na vjen keq...</string>
+    <string name="submission_error_text">Ndodhi një gabim! Provo përsëri.</string>
+    <string name="sync_intro_title">Sinkronizimi i llogarisë</string>
+    <string name="account_tos_title">Përfundo llogarinë</string>
+    <string name="account_tos_plus_title">Përfundo bashkimin me Google+</string>
+    <string name="i_accept">Pranoj</string>
+    <string name="i_decline">Mos krijo llogari</string>
+    <string name="allow_personalized_content">Lejo Google-in që të përdorë informacionet e tua për të personalizuar përmbajtjen dhe reklamat në sajtet uebi që nuk i përkasin Google-it.</string>
+    <string name="enable_web_history">Aktivizo historikun e uebit</string>
+    <string name="learn_more"><annotation id="learn_more">Mëso më shumë</annotation></string>
+    <string name="account_creation_tos">Duke vazhduar, ti pranon <annotation id="tos">\"Kushtet e shërbimit\"</annotation>, <annotation id="google_privacy">\"Politikën e privatësisë\"</annotation> së Google dhe <annotation id="play_tos">\"Kushtet e shërbimit\" të \"Luaj me Google\"</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Duke vazhduar, ti pranon <annotation id="tos">\"Kushtet e shërbimit\"</annotation> dhe <annotation id="google_privacy">\"Politikën e privatësisë\"</annotation> së Google, <annotation id="chrome_tos">\"Kushtet e shërbimit\"</annotation> dhe <annotation id="chrome_privacy">\"Deklaratën e privatësisë\"</annotation> së Chrome, si dhe <annotation id="play_tos">\"Kushtet e shërbimit\"</annotation> të \"Luaj me Google\".</string>
+    <string name="gender_prompt">Gjinia</string>
+    <string name="gender_hint">Gjinia</string>
+    <string name="account_pre_intro_title">Ke Google?</string>
+    <string name="account_pre_intro_default_message">"Ke llogari në Google?
+
+Nëse përdor \"Gmail\" ose \"Aplikacionet Google\", përgjigju \"Po\"."</string>
+    <string name="account_pre_intro_yes">Po</string>
+    <string name="account_pre_intro_no">Jo</string>
+    <string name="account_intro_title">Llogaria e Google</string>
+    <string name="account_intro_required_title">Mundësuar nga Google</string>
+    <string name="account_intro_recommended_title">Bëje si Google</string>
+    <string name="account_intro_default_message">Mos i humb më gjërat e tua. Llogaria në Google i mban të gjitha të sigurta.</string>
+    <string name="account_intro_simple_message">Dëshiron që të shtosh një llogari ekzistuese ose të krijosh një llogari të re?</string>
+    <string name="account_intro_learn_more">Mëso më shumë</string>
+    <string name="learn_more_title">Mëso më shumë</string>
+    <string name="learn_more_account_intro">"Llogaria e Google të lejon që:
+
+"<li><ul>Të shikosh dhe të organizosh të gjitha informacionet e tua nga çdo vend.</ul></li>"
+
+"<li><ul>Të rezervosh automatikisht të dhënat e tua, si mail-i, kontaktet, muzika dhe fotografitë.</ul></li>"
+
+"<li><ul>Të përdorësh me lehtësi shërbimet e Google nga çdo vend - duke përfshirë kontaktet, kalendarin, hartat etj.</ul></li></string>
+    <string name="learn_more_account_intro_title">Rreth llogarive të Google</string>
+    <string name="learn_more_bad_name">Google+ kërkon që të përdorësh emrin tënd të zakonshëm. Profili yt duhet të përfaqësojë një person - jo një biznes, organizatë ose familje - dhe duhet të përfshijë emrin dhe mbiemrin tënd në të njëjtën gjuhë, pa tituj profesionalë dhe pa pikësim të panevojshëm. Pas regjistrimit, mund të vendosësh pseudonime ose emra të tjerë me të cilët je i lidhur te fusha \"Emrat e tjerë\" në profilin tënd.</string>
+    <string name="learn_more_bad_name_title">Rreth \"Politikës për emrat\"</string>
+    <string name="wait_for_device_country_title">Konfigurimi i llogarisë</string>
+    <string name="wait_for_device_country_msg">Po mbledh informacion për telefonin tënd. Kjo mund të zgjasë deri në 30 sekonda.</string>
+    <string name="recovery_title">Rikuperimi i fjalëkalimit të Google</string>
+    <string name="recovery_wait_title">Po kontakton me Google…</string>
+    <string name="cannot_talk_to_server_msg">Pajisja nuk mund të kontaktonte me Google.</string>
+    <string name="recovery_skip_label">Kapërce</string>
+    <string name="recovery_retry_label">Provo përsëri</string>
+    <string name="recovery_message_set">"Nëse e harron ndonjëherë fjalëkalimin tënd, do të të duhet një mënyrë për ta rikuperuar.
+
+Google siguron opsione për rikuperimin e fjalëkalimit tënd nëpërmjet SMS-ve ose një adrese alternative mail-i.
+
+Ky hap rekomandohet më së tepërmi. "<annotation id="help_url">Mëso më shumë</annotation></string>
+    <string name="recovery_message_verify">"Fjalëkalimet harrohen lehtë.
+
+Konfirmo tani numrin tënd të telefonit ose adresën e mail-it rezervë. Kjo të ndihmon të rikuperosh qasjen te përmbajtjet e tua në Google dhe në \"Luaj me Google\". "<annotation id="help_url">Mëso më shumë</annotation></string>
+    <string name="recovery_yes_button_label">Konfiguro opsionet e rikuperimit</string>
+    <string name="recovery_yes_button_label_verify">Konfirmo opsionet e rikuperimit</string>
+    <string name="recovery_later_button_label">Jo tani!</string>
+    <string name="recovery_input_screen_message">Këto informacione rikuperimi janë të vlefshme për %s.</string>
+    <string name="secondary_email_hint">Mail-i i kopjes rezervë</string>
+    <string name="secondary_email_invalid">Adresa e mail-it është e pavlefshme</string>
+    <string name="secondary_email_same_as_primary">Nuk mund të jetë i njëjtë me mail-in parësor</string>
+    <string name="phone_number_hint">Numri i telefonit</string>
+    <string name="phone_number_invalid_character">Në numrin e telefonit ka karaktere të pavlefshme</string>
+    <string name="phone_number_invalid">Numri i telefonit është i pavlefshëm</string>
+    <string name="country_invalid">Ky shtet nuk lejohet</string>
+    <string name="recovery_server_error">Gabim gjatë kontaktit me serverin. Provo përsëri pas pak.</string>
+    <string name="account_recovery_info">"Nëse e humbet ndonjëherë fjalëkalimin tënd, mund t'i përgjigjesh një pyetjeje sigurie dhe të bësh që të të dërgohet një lidhje rivendosjeje te një adresë tjetër."</string>
+    <string name="secondary_email_label">Adresa e mail-it të rikuperimit</string>
+    <string name="invalid_email">"Adresa e mail-it që shkrove nuk është e vlefshme.
+ Shembull: admir@shembull.com"</string>
+    <string name="invalid_email_primary">Adresa e rikuperimit nuk mund të jetë e njëjtë me atë që po krijon.</string>
+    <string name="backup_consent_message">"Përdor llogarinë tënde të Google për të krijuar kopje rezervë të aplikacioneve, cilësimeve të tua (si faqet e regjistruara dhe fjalëkalimet e Wi-Fi), si dhe të të dhënave të tjera. Nëse ke krijuar më parë një kopje rezervë të llogarisë tënde, mund ta restaurosh te ky telefon tani.
+
+Mund t'i ndryshosh cilësimet e tua të kopjes rezervë në çdo kohë te \"Cilësimet\"."</string>
+    <string name="backup_consent_message_no_restore">"Përdor llogarinë tënde të Google për të rezervuar aplikacionet, cilësimet e tua (si faqet e regjistruara dhe fjalëkalimet e Wi-Fi), si dhe të të dhënave të tjera.
+
+Mund t'i ndryshosh cilësimet e tua të kopjes rezervë në çdo kohë te \"Cilësimet\"."</string>
+    <string name="restoring_title">Po restauron…</string>
+    <string name="restoring_message">Telefoni yt po kontakton me Google për të restauruar llogarinë tënde. Kjo mund të zgjasë pak.</string>
+    <string name="gls_notification_login_error">"Prek për t'u identifikuar në llogarinë tënde."</string>
+    <string name="gls_ui_add_account_title">Konfigurimi i llogarisë</string>
+    <string name="gls_ui_activity_title">Identifikohu</string>
+    <string name="gls_ui_activity_title_browser_signin">Identifikohu</string>
+    <string name="gls_ui_activity_title_checking_in">Po përgatit…</string>
+    <string name="gls_ui_activity_authenticating">Po vërteton…</string>
+    <string name="gls_dmagent_activity_activate_message">" Domeni yt kërkon menaxhimin e pajisjes celulare. Aktivizo aplikacionin \"Politika e pajisjes së aplikacioneve të Google\" për të zbatuar politikat e sigurisë që kërkohen nga llogaria e  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Aktivizo</string>
+    <string name="gls_dmagent_activity_download_message">" Domeni yt kërkon menaxhimin e pajisjes celulare. Instalo aplikacionin \"Politika e pajisjes së aplikacioneve të Google\" për të zbatuar politikat e sigurisë që kërkohen nga llogaria e  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">Shkarko</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Shkrove fjalëkalim të pasaktë ose llogaria jote është ndryshuar. Shkruaj përsëri fjalëkalimin tënd.</string>
+    <string name="permlab_googleAuthPassword">qasja te fjalëkalimet për llogaritë e Google</string>
+    <string name="permdesc_googleAuthPassword">U lejon aplikacioneve qasje të drejtpërdrejtë te fjalëkalimet për llogarinë(të) e Google që ke konfiguruar.</string>
+    <string name="permlab_googleMailSwitch">zgjidh markën e Gmail ose Postës së Google</string>
+    <string name="permdesc_googleMailSwitch">I lejon aplikacionet të ndërrojnë emrin e shfaqur mes markës \"Gmail\" dhe \"Posta e Google\".</string>
+    <string name="sync_item_title">Sinkronizo %s</string>
+    <string name="grant_credentials_permission_message_footer">Ato kërkojnë leje që:</string>
+    <string name="grant_credentials_permission_message_app">Këto aplikacione kërkojnë qasje në llogarinë tënde të Google që nga ky moment e në vazhdim:</string>
+    <string name="grant_permissions_header_text">Kërkesa e lejes</string>
+    <string name="allow">Lejo qasjen</string>
+    <string name="deny">Jo, faleminderit!</string>
+    <string name="permission_request_notification_with_subtitle">"Kërkohet leje
+për llogarinë %s"</string>
+    <string name="notification_title">Gabim identifikimi për %1$s</string>
+    <string name="account_setup_title">Llogaria e Google</string>
+    <string name="login_activity_title">Identifikohu</string>
+    <string name="relogin_activity_title">Shkruaj përsëri fjalëkalimin</string>
+    <string name="show_error_activity_title">Nuk mund të identifikohej</string>
+    <string name="login_activity_task_title">Po identifikohet…</string>
+    <string name="login_activity_task_msg">Kjo mund të zgjasë disa minuta.</string>
+    <string name="prepare_account_setup_task_title">Po përgatit konfigurimin e llogarisë…</string>
+    <string name="prepare_account_setup_task_msg">Kjo mund të zgjasë disa minuta.</string>
+    <string name="sync_intro_activity_title">Sinkronizo llogarinë tënde</string>
+    <string name="username">Mail-i</string>
+    <string name="error_invalid_second_factor">Përdor një fjalëkalim specifik aplikacioni në vend të fjalëkalimit të zakonshëm të llogarisë.</string>
+    <string name="error_needs_browser">Për të pasur qasje te llogaria jote, duhet të identifikohesh në ueb. Trokit \"Tjetër\" për të filluar identifikimin te \"Shfletuesi\".</string>
+    <string name="google_play_opt_in">Më mbaj të përditësuar me lajmet dhe ofertat nga \"Luaj me Google\".</string>
+    <string name="google_settings_header_title">Privatësia</string>
+    <string name="maps_settings_title">Hartat dhe Gjerësia gjeografike</string>
+    <string name="location_settings_title">Vendndodhja</string>
+    <string name="search_settings_title">Kërko</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Reklamat</string>
+    <string name="location_network_based">Shërbimi i vendndodhjes i Google</string>
+    <string name="location_neighborhood_level">Lejo që të dhënat anonime të vendndodhjes të dërgohen te Google. Lejo po ashtu aplikacionet e lejuara që të përdorin të dhënat nga burimet si rrjetet Wi-Fi dhe rrjetet celulare për të përcaktuar vendndodhjen tënde të përafërt.</string>
+    <string name="use_location_title">Vendndodhja dhe kërkimi në Google</string>
+    <string name="use_location_summary">Lejoje Google të përdorë vendndodhjen tënde për të përmirësuar rezultatet e kërkimit dhe shërbimet e tjera</string>
+    <string name="backup_consent_yes_agree">Përdor llogarinë tënde të Google për të rezervuar aplikacionet, cilësimet e tua (si faqet e regjistruara dhe fjalëkalimet e Wi-Fi), si dhe të të dhënave të tjera.</string>
+    <string name="restore_consent_yes_agree">Silli te ky telefon aplikacionet, cilësimet dhe të dhënat e tjera për të cilat ke krijuar më parë kopje rezervë te llogaria jote e Google.</string>
+    <string name="audit_logging_summary">Dërgo automatikisht te Google, informacione diagnostikuese dhe ato mbi ngjarjet e pajisjes për të ndihmuar në përmirësimin e produkteve tona dhe për të mbrojtur pajisjen tënde.</string>
+    <string name="no_back_msg">Nuk mund të kthehesh prapa te hapi i mëparshëm.</string>
+    <string name="setup_wizard_title">Eksperti i konfigurimit</string>
+    <string name="setup_wizard_services_activity_title">Shërbimet e Google</string>
+    <string name="setup_wizard_services_description">"Këto shërbime e bëjnë Google të punojë për ty, dhe ti mund t'i aktivizosh ose t'i çaktivizosh ato në çdo kohë. Të dhënat do të përdoren në përputhje me "<annotation id="google_privacy">Politikën e privatësisë</annotation> së Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Rezervo dhe restauro</string>
+    <string name="setup_wizard_services_location_heading">Vendndodhja</string>
+    <string name="setup_wizard_services_communication_heading">Komunikimi</string>
+    <string name="setup_wizard_services_backup"><b>Rezervo aplikacionet e telefonit, të dhënat e aplikacioneve, cilësimet, fjalorët personalë dhe fjalëkalimet e Wi‑Fi</b>" duke përdorur llogarinë tënde të Google, në mënyrë që të mund t'i restaurosh me lehtësi më vonë. "<annotation id="backup_details">Mëso më shumë</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Rezervo aplikacionet e tua, të dhënat e aplikacioneve, fjalorët personalë dhe fjalëkalimet e Wi‑Fi</b>" duke përdorur llogarinë tënde të Google, në mënyrë që të mund t'i restaurosh me lehtësi më vonë."</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Të dhënat përfshijnë aplikacionet, cilësimet e aplikacioneve, cilësimet e sistemit dhe fjalëkalimet e Wi‑Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Kur aktivizon rezervimin automatik, të dhënat e pajisjes tënde ruhen periodikisht në llogarinë tënde të Google. Rezervimet mund të përfshijnë informacione në dosjet e të dhënave të aplikacioneve, si p.sh. preferencat, cilësimet, mesazhet, fotografitë dhe skedarë të tjerë.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Përdor shërbimin e vendndodhjes të Google</b>" për t'i ndihmuar aplikacionet të përcaktojnë vendndodhjen. Kjo nënkupton dërgimin e të dhënave anonime të vendndodhjes te Google, edhe kur nuk ka aplikacione në punë. "<annotation id="location_details">Mëso më shumë</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Shërbimi i vendndodhjes i Google përdor burime si Wi‑Fi dhe rrjetet celulare për të ndihmuar në vlerësimin më të shpejtë dhe më të saktë të vendndodhjes së pajisjes tënde. Kur aktivizon shërbimet e vendndodhjes së Google, pajisja jote kalon në një modalitet që përdor Wi‑Fi dhe rrjetet celulare për të siguruar informacionet e vendndodhjes. Këtë mund ta çaktivizosh te \"Cilësimet e vendndodhjes\" duke zgjedhur një modalitet që përdor vetëm GPS, i cili ndonjëherë quhet modaliteti \"Vetëm pajisja\".</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Ndihmo në përmirësimin e shërbimeve të vendndodhjes</b> duke i lejuar aplikacionet dhe shërbimet të skanojnë për rrjete Wi‑Fi edhe kur Wi‑Fi është i çaktivizuar.</string>
+    <string name="setup_wizard_services_location_footnote">Shërbimi i vendndodhjes i Google përdor Wi‑Fi dhe sinjale të tjera për të përcaktuar vendndodhjen me më shumë saktësi dhe shpejtësi, shpesh me një përdorim më të ulët të energjisë se sa sistemi GPS. Disa të dhëna mund të ruhen në pajisjen tënde. Të dhënat mund të mblidhen edhe kur nuk ka aplikacione në punë.</string>
+    <string name="setup_wizard_services_play"><b>Më mbaj të përditësuar</b> me lajmet dhe ofertat nga \"Luaj me Google\".</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Ndihmo me përmirësimin e përvojës tënde me pajisjet Android</b> duke dërguar automatikisht në Google, të dhënat diagnostikuese dhe ato të përdorimit. Këto informacione nuk do të përdoren për të të identifikuar ty, por thjesht ndihmojnë ekipet që punojnë me çështje të tilla si kohëzgjatja e baterisë, veprimtaria e aplikacioneve dhe funksionet e reja të Google. <annotation id="usage_reporting_details">Mëso më shumë</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Këto janë informacione të përgjithshme mbi pajisjen tënde dhe mënyrën si si e përdor ti atë, si p.sh. niveli i baterisë, sa shpesh i përdor aplikacionet e tua, cilësia dhe kohëzgjatja e lidhjeve të rrjetit (si të dhënat celulare, Wi‑Fi dhe Bluetooth-in), si dhe raportet e ndërprerjeve aksidentale kur proceset nuk realizohen si duhet. Ato do të përdoren për të përmirësuar produktet dhe shërbimet e Google dhe nuk do të lidhen me llogarinë tënde të Google. Disa informacione agregate do të ndihmojnë partnerët, si p.sh. zhvilluesit e Androidit, për të përmirësuar po ashtu aplikacionet dhe produktet e tyre.
+
+Këtë leje mund ta aktivizosh ose çaktivizosh në çdo kohë në aplikacionin Cilësimet e Google. Kjo nuk ndikon në aftësinë e pajisjes tënde për të dërguar informacionet që i duhen për të marrë shërbimet themelore, si për shembull përditësimet e sistemit dhe sigurinë."</string>
+    <string name="setup_wizard_services_agreement">"Ky telefon mund të marrë dhe të instalojë po ashtu përditësime dhe aplikacione nga Google, operatori yt celular dhe prodhuesi i telefonit tënd. Mund të shkarkohen dhe të instalohen disa aplikacione nëse vazhdon, ndërkohë që mund t'i heqësh ato në çdo kohë."</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">នឹង​លុប​ការ​សន្ទនា %1$s ។</item>
+        <item quantity="one">នឹង​លុប​ការ​សន្ទនា​មួយ​។</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s វិនាទី</item>
+        <item quantity="one">%s វិនាទី</item>
+        <item quantity="few">%s វិនាទី</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s លទ្ធផល​សម្រាប់ \"%2$s\"</item>
+        <item quantity="one">%1$s លទ្ធផល​សម្រាប់ \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">សារ​ផ្សេង​ទៀត +%1$s</item>
+        <item quantity="one">សារ​ផ្សេង​ទៀត +%1$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">មនុស្ស %1$s នាក់</item>
+    </plurals>
+</resources>

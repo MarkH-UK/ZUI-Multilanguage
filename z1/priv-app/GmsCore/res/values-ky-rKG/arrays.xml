@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Бар</item>
+        <item>Кафе</item>
+        <item>Май куюу бекети</item>
+        <item>Кинотеатр</item>
+        <item>Турак-жай</item>
+        <item>Түнкү клуб</item>
+        <item>Музей</item>
+        <item>Ресторан</item>
+        <item>Соода борбору</item>
+        <item>Дүкөн</item>
+        <item>Азык-түлүк дүкөнү же супермаркет</item>
+        <item>Башка</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>начар</item>
+        <item>орто</item>
+        <item>жакшы</item>
+        <item>күчтүү</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Чыгарылыш</item>
+        <item>Иштеп чыгуучу</item>
+        <item>Чекене</item>
+        <item>Демо</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Телефон менен унаада бири-бирине дал келбеген программа иштеп жатат. Кенен маалымат үчүн &lt;a href="android.com/auto">android.com/auto&lt;/a> дарегине баш багыңыз</item>
+        <item>Унаа аудио жана/же видео конфигурацияларынын туура эмес топтомун жарыялады.</item>
+        <item>"USB туташуу талаптагыдай иштебей жатат. Буларды кылып көрүңүз: 
+
+• Кабелдин эки учу тең туура сайылганын текшериңиз. 
+•Сизде дайындардын USB кабели турганын тактаңыз. 
+•Унаа менен телефонуңузда күн жана убакыт туура коюлганын тактаңыз."</item>
+        <item>Унаада Android Авто иштебей калды.</item>
+        <item>Android Авто сеансы талап боюнча токтотулду.</item>
+        <item>Унаанын программасы эскирген окшойт. Кенен маалымат жана колдоо үчүн өндүрүүчүгө кайрылыңыз.</item>
+        <item>Унааңыздын программасы Android Авто коопсуздук текшерүүсүнөн өткөн жок. Кенен маалымат жана колдоо үчүн өндүрүүчүгө кайрылыңыз.</item>
+        <item>Унааңыздын программасы Android Авто коопсуздук текшерүүсүнөн өткөн жок. Унаанын күнү менен убакыты туура коюлганын жана Android Авто жаңыртылганын тактаңыз.</item>
+        <item>Аракетти күтүү убакыты аяктады. Ката жөнүндө кабарды чогултуп, жооп пикир жөнөтүшүңүз керек.</item>
+        <item>Ишке киргизүү жабдыгы орнотулган эмес окшойт, телефонуңуз туура коюлду беле?</item>
+        <item>Графикалык түтүктөр бузулуп калды. Ката жөнүндө кабарларды чогултуп, пикир жөнөтүшүңүз керек.</item>
+        <item>Телефондон келген билдирүүлөргө унаа жооп бербей жатат. Унаанын маанайы пас окшойт.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Аэропорт</item>
+        <item>ATM</item>
+        <item>Банк</item>
+        <item>Бар</item>
+        <item>Автобус бекети</item>
+        <item>Кафе</item>
+        <item>Чатыр лагери</item>
+        <item>Мүрзө</item>
+        <item>Чиркөө</item>
+        <item>Мэрия</item>
+        <item>Мекеме</item>
+        <item>Май куюу бекети</item>
+        <item>Азык-түлүк дүкөнү же супермаркет</item>
+        <item>Хинди сыйынуучу жайы</item>
+        <item>Оорукана</item>
+        <item>Китепкана</item>
+        <item>Турак-жай</item>
+        <item>Мечит</item>
+        <item>Кинотеатр</item>
+        <item>Музей</item>
+        <item>Парк</item>
+        <item>Унаа токтоочу жай</item>
+        <item>Сыйынуу жайы</item>
+        <item>Милиция</item>
+        <item>Почта</item>
+        <item>Ресторан</item>
+        <item>Мектеп</item>
+        <item>Дүкөн</item>
+        <item>Метро бекети</item>
+        <item>Синагога</item>
+        <item>Поезд бекети</item>
+        <item>Коомдук унаалар аялдамасы</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+</resources>

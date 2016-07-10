@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/mobile_network_advanced_options_title_open"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:mobileNetworkSettings="http://schemas.android.com/apk/res/com.lenovo.leos.mobileNetworkSettings">
+    <com.lenovo.leos.mobileNetworkSettings.imagepreference.ImagePreference android:persistent="false" android:title="@string/carrier_slot0" android:key="carrier_slot0" mobileNetworkSettings:icon="@drawable/simgsettings_card1" />
+    <com.lenovo.leos.mobileNetworkSettings.imagepreference.ImagePreference android:persistent="false" android:title="@string/carrier_slot1" android:key="carrier_slot1" mobileNetworkSettings:icon="@drawable/simgsettings_card2" />
+</PreferenceScreen>

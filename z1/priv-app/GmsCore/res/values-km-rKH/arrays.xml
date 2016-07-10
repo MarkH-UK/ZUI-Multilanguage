@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>បារ</item>
+        <item>​ហាង​កាហ្វេ</item>
+        <item>ស្ថានីយ​ប្រេងឥន្ធនៈ​</item>
+        <item>រោង​ភាពយន្ត</item>
+        <item>កន្លែង​ស្នាក់​នៅ</item>
+        <item>ក្លឹប​រាត្រី​</item>
+        <item>សារមន្ទីរ</item>
+        <item>ភោជនីយដ្ឋាន</item>
+        <item>មជ្ឈមណ្ឌល​ទិញទំនិញ</item>
+        <item>ហាង</item>
+        <item>ហាងលក់គ្រឿងទេសឬផ្សារទំនើប</item>
+        <item>ផ្សេងៗ</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ខ្សោយ​</item>
+        <item>មធ្យម​</item>
+        <item>ល្អ​</item>
+        <item>ខ្លាំង​</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>ប៊្លូធូស</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>ការចេញផ្សាយ</item>
+        <item>អ្នកអភិវឌ្ឍន៍</item>
+        <item>លក់រាយ</item>
+        <item>ការបង្ហាញសាកល្បង</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ទូរស័ព្ទ និងរថយន្តកំពុងដំណើរការកម្មវិធីដែលមិនត្រូវគ្នា។ សម្រាប់ព័ត៌មានលម្អិត សូមចូលទៅកាន់&lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>រថយន្តបានផ្សាយការកំណត់សំណុំវិទ្យុ និង/ឬវីដេអូមិនត្រឹមត្រូវ។</item>
+        <item>"ការភ្ជាប់យូអេសប៊ីកំពុងដំណើរការមិនប្រក្រតីទេ។ សាកល្បងដំណោះស្រាយទាំងនេះ៖ 
+
+• សូមប្រាកដថាខ្សែទាំងសងខាងបានដោតត្រឹមត្រូវ 
+•សូមប្រាកដថាខ្សែដែលអ្នកប្រើជាខ្សែទិន្នន័យយូអេសប៊ី។ 
+•សូមប្រាកដថាម៉ោង និងកាលបរិចេ្ឆទលើរថយន្ត និងលើទូរស័ព្ទបានកំណត់ត្រឹមត្រូវ។"</item>
+        <item>រថយន្តបានឈប់ដំណើរការ Android Auto។</item>
+        <item>ពេលវាលា Android Auto បានឈប់តាមការស្នើ។</item>
+        <item>កម្មវិធីរបស់រថយន្តអាចនឹងហួសសម័យ។ សំរាប់ព័ត៌មានលម្អិត និងការគាំទ្រ សូមទាក់ទងទៅក្រុមហ៊ុនផលិត។</item>
+        <item>កម្មវិធីរបស់រថយន្តរបស់អ្នកមិនឆ្លងផុតការត្រួតពិនិត្យសុវត្ថិភាព Android Auto ទេ។ សំរាប់ព័ត៌មានលម្អិត និងការគាំទ្រ សូមទាក់ទងទៅក្រុមហ៊ុនផលិត។</item>
+        <item>កម្មវិធីរបស់រថយន្តរបស់អ្នកមិនឆ្លងផុតការត្រួតពិនិត្យសុវត្ថិភាព Android Auto ទេ។ សូមប្រាកដថាម៉ោង និងកាលបរិច្ឆេទរបស់រថយន្តរបស់អ្នកបានកំណត់ត្រឹមត្រូវ ហើយ Android Auto នោះបានធ្វើបច្ចុប្បន្នភាពរួចហើយ។</item>
+        <item>សកម្មភាពអស់ពេល។ អ្នកគួរទទួលរបាយការណ៍កំហុស ហើយផ្ញើមតិស្ថាបនា។</item>
+        <item>អ្នកហាក់បីដូចជាមិនបានដំឡើងកម្មវិធីចាប់ផ្ដើមទេ តើទូរស័ព្ទរបស់អ្នកបានដំឡើងត្រឹមត្រូវឬទេ?</item>
+        <item>ក្រាហ្វិកបានខូចហើយ។ អ្នកគួរទទួលរបាយការណ៍កំហុស ហើយផ្ដល់មតិស្ថាបនា។</item>
+        <item>រថយន្តមិនឆ្លើយតបសារពីទូរស័ព្ទ។ រថយន្តប្រហែលជាមានស្ថានភាពមិនត្រឹមត្រូវ។</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>អាកាសយានដ្ឋាន</item>
+        <item>ATM</item>
+        <item>ធនាគារ</item>
+        <item>បារ</item>
+        <item>ស្ថានីយរថយន្តក្រុង</item>
+        <item>ហាងកាហ្វេ</item>
+        <item>កន្លែងបោះជំរុំ</item>
+        <item>កន្លែងបញ្ចុះសព</item>
+        <item>វិហារសាសនាគ្រីស្ទ</item>
+        <item>សាលាក្រុង</item>
+        <item>ស្ថាប័ន</item>
+        <item>ស្ថានីយ៍ប្រេងឥន្ធនៈ</item>
+        <item>ហាងលក់គ្រឿងទេស ឬផ្សារទំនើប</item>
+        <item>វិហារសាសនាហិណ្ឌូ</item>
+        <item>មន្ទីរពេទ្យ</item>
+        <item>បណ្ណាល័យ</item>
+        <item>កន្លែង​ស្នាក់​នៅ</item>
+        <item>វិហារសាសនាអ៊ីស្លាម</item>
+        <item>រោងភាពយន្ត</item>
+        <item>សារមន្ទីរ</item>
+        <item>សួន</item>
+        <item>ចំណតយានយន្ត</item>
+        <item>ទីកន្លែងសក្ការៈ</item>
+        <item>ស្ថានីយ៍ប៉ូលីស</item>
+        <item>ប្រៃសណីយ៍</item>
+        <item>ភោជនីយដ្ឋាន</item>
+        <item>សាលារៀន</item>
+        <item>ហាង</item>
+        <item>ស្ថានីយ៍ផ្លូវក្រោមដី</item>
+        <item>វិហារសាសនាយូដា</item>
+        <item>ស្ថានីយ៍រថភ្លើង</item>
+        <item>ស្ថានីយ៍ឆ្លងកាត់</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>មករា</item>
+        <item>កុម្ភៈ</item>
+        <item>មីនា</item>
+        <item>មេសា</item>
+        <item>ឧសភា</item>
+        <item>មិថុនា</item>
+        <item>កក្កដា</item>
+        <item>សីហា</item>
+        <item>កញ្ញា</item>
+        <item>តុលា</item>
+        <item>វិច្ឆិកា</item>
+        <item>ធ្នូ</item>
+    </string-array>
+</resources>

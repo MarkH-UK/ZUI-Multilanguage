@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>ബാര്‍</item>
+        <item>കഫേ</item>
+        <item>ഗ്യാസ് സ്റ്റേഷൻ</item>
+        <item>സിനിമാ തിയറ്റർ</item>
+        <item>താമസസൗകര്യം</item>
+        <item>നിശാക്ലബ്</item>
+        <item>കാഴ്ചബംഗ്ലാവ്</item>
+        <item>ഭക്ഷണശാല</item>
+        <item>ഷോപ്പിംഗ് കേന്ദ്രം</item>
+        <item>സ്റ്റോർ</item>
+        <item>പലചരക്കുകട അല്ലെങ്കിൽ സൂപ്പർമാർക്കറ്റ്</item>
+        <item>മറ്റുള്ളവ</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>മോശം</item>
+        <item>തൃപ്‌തികരം</item>
+        <item>നല്ലത്</item>
+        <item>ശക്തം</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>ബ്ലൂടൂത്ത്</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>റിലീസ് ചെയ്യുക</item>
+        <item>ഡെവലപ്പർ</item>
+        <item>റീട്ടെയ്‌ൽ</item>
+        <item>ഡെമോ</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ഫോണും കാറും അനുയോജ്യമല്ലാത്ത സോഫ്‌റ്റ്‌വയറിലാണ് പ്രവർത്തിക്കുന്നത്. വിശദാംശങ്ങൾക്ക്, &lt;a href="android.com/auto">android.com/auto&lt;/a> സന്ദർശിക്കുക</item>
+        <item>കാറിൽ ഒരുകൂട്ടം തെറ്റായ ഓഡിയോ കൂടാതെ/അല്ലെങ്കിൽ വീഡിയോ കോൺഫിഗറേഷനുകളുള്ളതായി അറിയിച്ചു.</item>
+        <item>"USB കണക്ഷൻ ശരിയായി പ്രവർത്തിക്കുന്നില്ല. ഇവ ശ്രമിച്ചുനോക്കൂ: 
+
+•രണ്ട് വശങ്ങളിലും കേബിൾ ശരിയായി ഘടിപ്പിച്ചിട്ടുണ്ട് എന്ന് തീർച്ചപ്പെടുത്തുക. 
+•നിങ്ങൾക്ക് ഒരു ഡാറ്റ USB കേബിൾ ഉണ്ടെന്ന് തീർച്ചപ്പെടുത്തുക. 
+•കാറിലും നിങ്ങളുടെ ഫോണിലും തീയതിയും സമയവും കൃത്യമായി ക്രമീകരിച്ചിട്ടുണ്ടെന്ന് തീർച്ചപ്പെടുത്തുക."</item>
+        <item>കാർ Android Auto പ്രവർത്തിപ്പിക്കുന്നത് അവസാനിപ്പിച്ചു.</item>
+        <item>അഭ്യർത്ഥിച്ച പോലെ, Android Auto സെഷൻ നിർത്തി.</item>
+        <item>കാറിലെ സോഫ്‌റ്റ്‌വെയർ കാലാവധി കഴിഞ്ഞതാകാം. കൂടുതൽ വിശദാംശങ്ങൾക്ക്, നിർമ്മാതാവിനെ ബന്ധപ്പെടുക.</item>
+        <item>നിങ്ങളുടെ കാറിലെ സോഫ്‌റ്റ്‌വെയർ Android Auto സുരക്ഷാ പരിശോധനകളിൽ പരാജയപ്പെട്ടു. കൂടുതൽ വിശദാംശങ്ങൾക്കും പിന്തുണയ്‌ക്കും, നിർമ്മാതാവിനെ ബന്ധപ്പെടുക.</item>
+        <item>നിങ്ങളുടെ കാറിലെ സോഫ്‌റ്റ്‌വെയർ Android Auto സുരക്ഷാ പരിശോധനകളിൽ പരാജയപ്പെട്ടു. നിങ്ങളുടെ കാറിലെ തീയതിയും സമയവും കൃത്യമാണോയെന്നും Android Auto അപ്‌ഡേറ്റുചെയ്‌തിട്ടുണ്ടെന്നും തീർച്ചപ്പെടുത്തുക.</item>
+        <item>പ്രവർത്തനം കാലഹരണപ്പെട്ടു. ബഗ് റിപ്പോർട്ട് എടുത്ത് ഫീഡ്‌ബാക്ക് ഫയൽ ചെയ്യണം.</item>
+        <item>നിങ്ങൾ ലോഞ്ചർ ഇൻസ്റ്റാളുചെയ്‌തതായി തോന്നുന്നില്ല, നിങ്ങളുടെ ഫോൺ ശരിയായി സജ്ജീകരിച്ചിട്ടുണ്ടോ?</item>
+        <item>ഗ്രാഫിക്‌സ് പൈപ്പ്‌ലൈൻ നിലച്ചു. ബഗ് റിപ്പോർട്ട് എടുത്ത് ഫീഡ്‌ബാക്ക് ഫയൽ ചെയ്യണം.</item>
+        <item>ഫോണിൽ നിന്നുള്ള സന്ദേശങ്ങളോട് കാർ പ്രതികരിക്കുന്നില്ല. കാർ തെറ്റായ നിലയിലാവാം.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>വിമാനത്താവളം</item>
+        <item>ATM</item>
+        <item>ബാങ്ക്</item>
+        <item>ബാര്‍</item>
+        <item>ബസ് സ്റ്റേഷൻ</item>
+        <item>കഫേ</item>
+        <item>ക്യാമ്പ്ഗ്രൗണ്ട്</item>
+        <item>ശ്‌മശാനം</item>
+        <item>ക്രിസ്ത്യൻ ദേവാലയം</item>
+        <item>സിറ്റി ഹാൾ</item>
+        <item>സ്ഥാപനം</item>
+        <item>ഗ്യാസ് സ്റ്റേഷൻ</item>
+        <item>പലചരക്കുകട അല്ലെങ്കിൽ സൂപ്പർമാർക്കറ്റ്</item>
+        <item>അമ്പലം</item>
+        <item>ആശുപത്രി</item>
+        <item>ലൈബ്രറി</item>
+        <item>താമസസൗകര്യം</item>
+        <item>മുസ്ലീം പള്ളി</item>
+        <item>സിനിമ തീയറ്റർ</item>
+        <item>മ്യൂസിയം</item>
+        <item>പാര്‍ക്ക്</item>
+        <item>പാർക്ക് ചെയ്യാനുള്ള സ്ഥലം</item>
+        <item>ആരാധനാലയം</item>
+        <item>പോലീസ് സ്റ്റേഷൻ</item>
+        <item>തപാൽ ഓഫീസ്</item>
+        <item>ഭക്ഷണശാല</item>
+        <item>സ്‌കൂൾ</item>
+        <item>സ്റ്റോർ</item>
+        <item>സബ്‌വേ സ്റ്റേഷന്‍</item>
+        <item>ജൂതദേവാലയം</item>
+        <item>ട്രെയിന്‍ സ്റ്റേഷന്‍</item>
+        <item>ട്രാൻസിറ്റ് സ്റ്റേഷൻ</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>ജനുവരി</item>
+        <item>ഫെബ്രുവരി</item>
+        <item>മാര്‍ച്ച്</item>
+        <item>ഏപ്രിൽ</item>
+        <item>മെയ്</item>
+        <item>ജൂൺ</item>
+        <item>ജൂലൈ</item>
+        <item>ഓഗസ്റ്റ്</item>
+        <item>സെപ്‌റ്റംബർ</item>
+        <item>ഒക്‌ടോബർ</item>
+        <item>നവംബർ</item>
+        <item>ഡിസംബർ</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>പങ്കിടൽ നിർത്തുക</item>
+        <item>15 മിനിറ്റ്</item>
+        <item>30 മിനിറ്റ്</item>
+        <item>ഒരു മണിക്കൂർ</item>
+        <item>കാലഹരണപ്പെടില്ല</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>പങ്കിടൽ നിർത്തുക</item>
+        <item>15 മിനിറ്റ്</item>
+        <item>30 മിനിറ്റ്</item>
+        <item>ഒരു മണിക്കൂർ</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

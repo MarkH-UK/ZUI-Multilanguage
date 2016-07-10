@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafe</item>
+        <item>Yanacaq Stansiyası</item>
+        <item>Kinoteatr</item>
+        <item>Yaşayış yeri</item>
+        <item>Gecə Klubu</item>
+        <item>Muzey</item>
+        <item>Restoran</item>
+        <item>Ticarət Mərkəzi</item>
+        <item>Mağaza</item>
+        <item>Dükan və ya Supermarket</item>
+        <item>Digər</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>zəif</item>
+        <item>kafi</item>
+        <item>yaxşı</item>
+        <item>güclü</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Buraxılış</item>
+        <item>Hazırlayan</item>
+        <item>Pərakəndə</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Telefon və avtomobil uyğun olmayan proqram təminatı versiyaları istifadə edir. Ətraflı məlumat üçün &lt;a href="android.com/auto">android.com/auto&lt;/a> daxil olun</item>
+        <item>Avtomobil yanlış audio və ya video sazlama haqqında məlumat verdi.</item>
+        <item>"USB bağlantısı düzgün işləmir. Həll yolları: 
+
+• Kabelin hə iki tərəfdən düzgün taxıldğına əmin olun. 
+•Data USB kabelin olduğuna əmin olun. 
+•Telefon və avtomobilinizdə tarix və saatın düzgün quraşdırıldığına əmin olun."</item>
+        <item>Avtomobildə Android Avto dayandı.</item>
+        <item>Android Avto sessiyası sorğuya əsasən dayandırıldı.</item>
+        <item>Avtomobilin proqram təminatı köhnə ola bilər. Ətraflı məlumat və dəstək üçün istehsalçı ilə əlaqə saxlayın.</item>
+        <item>Avtomobilinizin proqram təminatı Android Avto təhlükəsizlik yoxlanışından keçməyib. Ətraflı məlumat və dəstək üçün istehsalçı ilə əlaqə saxlayın.</item>
+        <item>Avtomobilinizin proqram təminatı Android Avto təhlükəsizlik yoxlanışından keçməyib. Avtomobildə saat və tarixin düzgün olduğuna və Android Avtonun güncəl olduğuna əmin olun.</item>
+        <item>Əməliyyatın vaxtı bitdi. Baq hesabatını alıb geri əlaqə göndərməyiniz lazımdır.</item>
+        <item>Deyəsən başladıcı quraşdırılmayıb, telefon düzgün quraşdırılıb?</item>
+        <item>Qrafika xətti işləmir. Baq hesabatını alıb geri əlaqə göndərməyiniz lazımdır</item>
+        <item>Avtomobil telefondan olan mesajlara cavab vermir. Bəlkə də avtomobilin ayarları səhvdir.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Aeroport</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bar</item>
+        <item>Avtovağzal</item>
+        <item>Kafe</item>
+        <item>Lager</item>
+        <item>Qəbirstanlıq</item>
+        <item>Kilsə</item>
+        <item>Bələdiyyə Binası</item>
+        <item>Təşkilat</item>
+        <item>Yanacaq Stansiyası</item>
+        <item>Dükan və ya Supermarket</item>
+        <item>Hindu Məbədi</item>
+        <item>Hospital</item>
+        <item>Kitabxana</item>
+        <item>Yaşayış yeri</item>
+        <item>Məscid</item>
+        <item>Kinoteatr</item>
+        <item>Muzey</item>
+        <item>Park</item>
+        <item>Dayanacaq</item>
+        <item>İbadət Yerləri</item>
+        <item>Polis Şöbəsi</item>
+        <item>Poçt İdarəsi</item>
+        <item>Restoran</item>
+        <item>Məktəb</item>
+        <item>Mağaza</item>
+        <item>Metro Stansiyası</item>
+        <item>Sinaqoq</item>
+        <item>Qatar Stansiyası</item>
+        <item>Tranzit stansiyası</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Yanvar</item>
+        <item>Fevral</item>
+        <item>Mart</item>
+        <item>Aprel</item>
+        <item>May</item>
+        <item>İyun</item>
+        <item>İyul</item>
+        <item>Avqust</item>
+        <item>Sentyabr</item>
+        <item>Oktyabr</item>
+        <item>Noyabr</item>
+        <item>Dekabr</item>
+    </string-array>
+</resources>

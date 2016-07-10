@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d სიმბოლოთი მეტია ლიმიტზე</item>
+        <item quantity="one">%1$d სიმბოლოთი მეტია ლიმიტზე</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d სიმბოლო მარცხნივ</item>
+        <item quantity="one">%1$d სიმბოლო მარცხნივ</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google ანგარიში</item>
+        <item quantity="one">%d Google ანგარიში</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">ეს მოწყობილობა გამოყენებული იყო ^1-ზე თქვენი Google ანგარიშებისა და მათი მონაცემების დასაყენებლად</item>
+        <item quantity="one">ეს მოწყობილობა გამოყენებული იყო ^1-ზე თქვენი Google ანგარიშისა და მისი მონაცემების დასაყენებლად</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d საათი</item>
+        <item quantity="one">1 საათი</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d წუთი</item>
+        <item quantity="one">1 წუთი</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">ეს მოსაწვევები არ გაგზავნილა შეცდომის გამო</item>
+        <item quantity="one">ეს მოსაწვევი არ გაგზავნილა შეცდომის გამო</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">ეს მოსაწვევები ახლა ვერ გაიგზავნება. შეგიძლიათ გაგზავნოთ ხელახლა აქედან: Google Play > ჩემი ანგარიში.</item>
+        <item quantity="one">ეს მოსაწვევი ახლა ვერ გაიგზავნება. შეგიძლიათ გაგზავნოთ ხელახლა აქედან: Google Play > ჩემი ანგარიში.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">დარჩა %d მოსაწვევი</item>
+        <item quantity="one">დარჩა %d მოსაწვევი</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d ახალი შეტყობინება</item>
+        <item quantity="one">1 ახალი შეტყობინება</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d ადამიანია თქვენს წინ</item>
+        <item quantity="one">1 ადამიანია თქვენს წინ</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s-ის და %2$d სხვა აპის მიერ</item>
+        <item quantity="one">%1$s-ის და %2$d სხვა აპის მიერ</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d მიმდევარი</item>
+        <item quantity="one">ერთი მიმდევარი</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d ნახვა</item>
+        <item quantity="one">ერთი ნახვა</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">თქვენი Google ანგარიშისა და მონაცემების კოპირება…</item>
+        <item quantity="one">თქვენი Google ანგარიშისა და მონაცემების კოპირება…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">ეს მოწყობილობა გამოყენებული იყო ^1-ზე თქვენი Google ანგარიშისა და მონაცემების დასაყენებლად</item>
+        <item quantity="one">ეს მოწყობილობა გამოყენებული იყო ^1-ზე თქვენი Google ანგარიშისა და მონაცემების დასაყენებლად</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">გადატვირთვა მოხდება %d წამში…</item>
+        <item quantity="one">გადატვირთვა მოხდება 1 წამში…</item>
+    </plurals>
+</resources>

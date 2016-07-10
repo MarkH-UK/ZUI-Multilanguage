@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_type_choices">
+        <item>4G</item>
+        <item>3G</item>
+        <item>2G</item>
+    </string-array>
+    <string-array name="network_type_choices_4G3G">
+        <item>4G/3G</item>
+        <item>2G</item>
+    </string-array>
+    <string-array name="network_type_values_cmcc">
+        <item>20</item>
+        <item>18</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="network_type_values_cu">
+        <item>20</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="network_type_values_ct">
+        <item>10</item>
+        <item>7</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="network_type_values">
+        <item>10</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="network_type_choices_no_lte">
+        <item>3G</item>
+        <item>2G</item>
+    </string-array>
+    <string-array name="network_type_values_no_lte_cmcc">
+        <item>18</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="network_type_values_no_lte_cu">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="network_type_values_no_lte_ct">
+        <item>7</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="network_type_values_no_lte">
+        <item>7</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>None</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="apn_auth_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="apn_protocol_values">
+        <item>IP</item>
+        <item>IPV6</item>
+        <item>IPV4V6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Unspecified</item>
+    </string-array>
+    <string-array name="bearer_values">
+        <item>14</item>
+        <item>13</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>None</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="mvno_type_values">
+        <item></item>
+        <item>spn</item>
+        <item>imsi</item>
+        <item>gid</item>
+    </string-array>
+    <string-array name="apn_carrier_enabled_entries">
+        <item>APN disabled</item>
+        <item>APN enabled</item>
+    </string-array>
+    <string-array name="apn_carrire_enabled_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="network_type_values_ct_roaming">
+        <item>10</item>
+        <item>7</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>4G/3G/2G(4G preferred)</item>
+        <item>3G/2G</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>20</item>
+        <item>18</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values_cu">
+        <item>9</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values_ct">
+        <item>10</item>
+        <item>7</item>
+    </string-array>
+    <integer-array name="color_array">
+        <item>0xff1c95c2</item>
+        <item>0xffc19379</item>
+        <item>0xff89ad41</item>
+        <item>0xfff68100</item>
+        <item>0xff80b69f</item>
+        <item>0xfffe4a93</item>
+        <item>0xff6897b3</item>
+        <item>0xffc751b2</item>
+    </integer-array>
+    <string-array name="entries_show_type_array">
+        <item>First 4 digits</item>
+        <item>Last 4 digits</item>
+        <item>Do not display</item>
+    </string-array>
+    <string-array name="entries_show_type_value_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="show_roaming_tips_entries">
+        <item>Once</item>
+        <item>Always</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="show_roaming_tips_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="entries_dual_sim_array">
+        <item>CDMA</item>
+        <item>GSM</item>
+    </string-array>
+    <string-array name="entries_dual_sim_value_array">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="need_show_dialpad_number_values">
+        <item>95105105</item>
+        <item>02896006</item>
+        <item>02996688</item>
+        <item>073196020088</item>
+        <item>95530</item>
+        <item>95583</item>
+        <item>950718</item>
+        <item>950712</item>
+        <item>95539</item>
+        <item>95080</item>
+        <item>95071999</item>
+        <item>950710</item>
+        <item>95071095</item>
+        <item>95557</item>
+        <item>95071950</item>
+        <item>95500</item>
+        <item>95505</item>
+        <item>95510</item>
+        <item>95511</item>
+        <item>95512</item>
+        <item>95515</item>
+        <item>95516</item>
+        <item>95517</item>
+        <item>95518</item>
+        <item>95519</item>
+        <item>95521</item>
+        <item>95522</item>
+        <item>95525</item>
+        <item>95527</item>
+        <item>95528</item>
+        <item>95529</item>
+        <item>95533</item>
+        <item>95536</item>
+        <item>95538</item>
+        <item>95550</item>
+        <item>95553</item>
+        <item>95555</item>
+        <item>95556</item>
+        <item>95558</item>
+        <item>95559</item>
+        <item>95561</item>
+        <item>95565</item>
+        <item>95566</item>
+        <item>95567</item>
+        <item>95568</item>
+        <item>95569</item>
+        <item>95575</item>
+        <item>95577</item>
+        <item>95578</item>
+        <item>95579</item>
+        <item>95580</item>
+        <item>95585</item>
+        <item>95587</item>
+        <item>95588</item>
+        <item>95589</item>
+        <item>95590</item>
+        <item>95593</item>
+        <item>02195511</item>
+        <item>95597</item>
+        <item>11185</item>
+        <item>12117</item>
+        <item>12121</item>
+        <item>12306</item>
+        <item>12309</item>
+        <item>12315</item>
+        <item>12320</item>
+        <item>12333</item>
+        <item>12336</item>
+        <item>12348</item>
+        <item>12355</item>
+        <item>12365</item>
+        <item>12366</item>
+        <item>12371</item>
+        <item>12380</item>
+        <item>95188</item>
+        <item>057188158198</item>
+        <item>057188157858</item>
+        <item>95572</item>
+        <item>95598</item>
+        <item>10000</item>
+        <item>10001</item>
+        <item>10010</item>
+        <item>10011</item>
+        <item>10015</item>
+        <item>10016</item>
+        <item>10018</item>
+        <item>10050</item>
+        <item>10086</item>
+        <item>11888</item>
+        <item>12580</item>
+        <item>116114</item>
+        <item>118114</item>
+        <item>13800138000</item>
+        <item>043185166420</item>
+        <item>02087110000</item>
+        <item>01084025890</item>
+        <item>02152504617</item>
+        <item>01082872688</item>
+        <item>02082253777</item>
+        <item>01062789888</item>
+    </string-array>
+</resources>

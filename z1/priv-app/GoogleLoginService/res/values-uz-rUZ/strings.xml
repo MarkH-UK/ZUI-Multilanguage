@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play xizmatlari xatosi</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Ilova Google Play xizmatlarining o‘rnatilishini talab qiladi.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Ilova Google Play xizmatlarining yangilanishini talab qiladi.</string>
+    <string name="common_android_wear_notification_needs_update_text">Ilovadan foydalanish uchun Android Wear ilovasini yangilash lozim.</string>
+    <string name="common_google_play_services_needs_enabling_title">Ilova Google Play xizmatlarining yoqilishini talab qiladi.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">So‘rov manbasi: %1$s</string>
+    <string name="common_google_play_services_install_title">Google Play xizmatlarini yuklab oling</string>
+    <string name="common_google_play_services_install_text_phone">Ushbu ilova ishlashi uchun telefoningizga Google Play xizmatlarini o‘rnatish lozim.</string>
+    <string name="common_google_play_services_install_text_tablet">Ushbu ilova ishlashi uchun planshetingizga Google Play xizmatlarini o‘rnatish lozim.</string>
+    <string name="common_google_play_services_install_button">Google Play xizmatlarini yuklab oling</string>
+    <string name="common_google_play_services_enable_title">Google Play xizmatlarini yoqish</string>
+    <string name="common_google_play_services_enable_text">Ushbu ilova Google Play xizmatlari yoqilmaguncha ishlamaydi.</string>
+    <string name="common_google_play_services_enable_button">Google Play xizmatlarini yoqish</string>
+    <string name="common_google_play_services_update_title">Google Play xizmatlarini yangilash</string>
+    <string name="common_android_wear_update_title">Android Wear ilovasini yangilash</string>
+    <string name="common_google_play_services_update_text">Ushbu ilova Google Play xizmatlari yangilanmaguncha ishlamaydi.</string>
+    <string name="common_android_wear_update_text">Ushbu ilova Android Wear ilovasi yangilanmaguncha ishlamaydi.</string>
+    <string name="common_google_play_services_network_error_title">Tarmoq xatosi</string>
+    <string name="common_google_play_services_network_error_text">Google Play xizmatlariga ulanish uchun internet zarur.</string>
+    <string name="common_google_play_services_invalid_account_title">Hisob haqiqiy emas</string>
+    <string name="common_google_play_services_invalid_account_text">Ushbu qurilmada ko‘rsatilgan hisob mavjud emas. Boshqa hisobni tanlang.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play xizmatlari bilan bog‘liq noma’lum muammo yuz berdi.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play xizmatlari</string>
+    <string name="common_google_play_services_unsupported_text">Ba’zi ilovalarning ishlashi uchun zarur hisoblangan Google Play xizmatlari qurilmangizda qo‘llab-quvvatlanmaydi. Yordam olish uchun ishlab chiqaruvchiga murojaat qiling.</string>
+    <string name="common_google_play_services_update_button">Yangilash</string>
+    <string name="common_signin_button_text">Kirish</string>
+    <string name="common_signin_button_text_long">Google orqali kirish</string>
+    <string name="common_open_on_phone">Telefonda ochish</string>
+    <string name="setup_wizard_next_button_label">Keyingi</string>
+    <string name="setup_wizard_back_button_label">Orqaga</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">O‘tkazib yuborish</string>
+    <string name="down_button_label">Ko‘proq</string>
+    <string name="cancel_button_label">Bekor qilish</string>
+    <string name="try_again_button_label">Qaytadan urining</string>
+    <string name="close_button_label">Yopish</string>
+    <string name="url_load_unsuccessful_message">Android qurilmangiz internetga ulanmagan. Ushbu ma’lumotni hozir ko‘rish uchun biror veb-brauzer orqali %s veb-sahifasiga tashrif buyuring.</string>
+    <string name="sign_in_agreement">Kirish orqali siz Google <annotation id="tos">Foydalanish shartlari</annotation>, <annotation id="google_privacy">Maxfiylik siyosati</annotation> va <annotation id="play_tos">Google Play Foydalanish shartlariga</annotation> rozi ekanligingizni bildirasiz.</string>
+    <string name="android_privacy_policy_title">Qo‘shimcha maxfiylik siyosati</string>
+    <string name="google_terms_of_service_title">Foydalanish shartlari</string>
+    <string name="google_privacy_policy_title">Google maxfiylik siyosati</string>
+    <string name="google_plus_privacy_policy_title">Google Plus maxfiylik siyosati</string>
+    <string name="google_play_tos_title">Google Play Foydalanish shartlari</string>
+    <string name="chrome_tos_title">Chrome Foydalanish shartlari</string>
+    <string name="chrome_privacy_title">Chrome Maxfiylik eslatmasi</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android qurilmangiz Wi-Fi tarmoqqa ulanmagan. Ushbu ma’lumotni hozir ko‘rish uchun brauzer bilan %sga kiring.</string>
+    <string name="services_activity_title">Google xizmatlari</string>
+    <string name="services_backup_heading">Zaxiralash</string>
+    <string name="services_location_heading">Joylashuv</string>
+    <string name="services_security_heading">Xavfsizlik</string>
+    <string name="services_personalization_heading">Moslashtirish</string>
+    <string name="services_communication_heading">Aloqa</string>
+    <string name="security_verify_apps_summary">O‘rnatilgan ilovalar qurilma va ma’lumotlarning xavfsizligiga tahdid solmasligi uchun Google ularni nazorat qilib turadi.</string>
+    <string name="name_title">To‘liq ismingiz</string>
+    <string name="name_text">Ismingiz telefon va Google xizmatlarini o‘zingizga moslashtirish uchun ishlatiladi.</string>
+    <string name="first_name">Ism</string>
+    <string name="last_name">Familiya</string>
+    <string name="cant_be_blank">Satr bo‘sh qoldirilishi mumkin emas.</string>
+    <string name="sharedUserLabel">Google xizmatlari</string>
+    <string name="app_label">Google hisobini boshqarish</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Kirish</string>
+    <string name="create_button_label">Hisob yaratish</string>
+    <string name="not_now_button_label">Hozir emas</string>
+    <string name="new_button_label">Yangi</string>
+    <string name="existing_button_label">Mavjud</string>
+    <string name="done">OK</string>
+    <string name="edit_text_help">Yozishni boshlash uchun xohlagan matn katakchasini bosing</string>
+    <string name="add_a_google_account">Google hisobini qo‘shish</string>
+    <string name="captcha_title">CAPTCHAni kiritish zarur</string>
+    <string name="show_error_title">Xato</string>
+    <string name="server_error">Google serverlari bilan bog‘lanishda muammo yuz berdi.</string>
+    <string name="server_error_help">Keyinroq qaytadan urining.</string>
+    <string name="network_unreliable">Server bilan ishonchli aloqa o‘rnatib bo‘lmadi.</string>
+    <string name="network_unreliable_help">Bu vaqtinchalik muammo yoki Android qurilmangiz internet xizmati bilan ta’minlanmagan bo‘lishi mumkin. Agar muammo yana qaytarilsa, Xaridorlarni qo‘llab-quvvatlash xizmatiga murojaat qiling.</string>
+    <string name="network_unreliable_help_wifi_only">Bu vaqtinchalik muammo bo‘lishi mumkin. Qaytadan urining yoki boshqa Wi-Fi tarmog‘iga ulanib ko‘ring.</string>
+    <string name="invalid_login_character">Nojoiz belgi kiritilgan. Faqat 0-9, a-z, A-Z va nuqtalarni kiritish mumkin.</string>
+    <string name="invalid_password_character">Parolga nojoiz belgi kiritilgan.</string>
+    <string name="calendar">Google Calender</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Maydoncha bo‘sh qoldirilishi mumkin emas.</string>
+    <string name="plus_query_title">Google+’ga o‘tish</string>
+    <string name="plus_query_text">Google+ internetda biror narsani ulashish jarayonini xuddi haqiqiy hayotdagidek qilib ifodalaydi.</string>
+    <string name="circles_subtitle">Qiziqarli muloqot</string>
+    <string name="circles_text">Odamlarni o‘z davralaringizga qo‘shing va umumiy qiziqishlaringizni toping.</string>
+    <string name="uploads_subtitle">Rasm va videolarni avtomatik yuklash</string>
+    <string name="uploads_text">O‘zingiz suratga olgan rasm va videolarni internetdagi bepul maxfiy albomingizga osongina yuklang.</string>
+    <string name="huddle_subtitle">Videomuloqot va xabar almashish</string>
+    <string name="huddle_text">Hangouts orqali SMS va rasmlar yuborish, bepul videomuloqotlardan bahra oling.</string>
+    <string name="plus_declined_button_label">Hozir emas</string>
+    <string name="plus_accepted_button_label">Ishni boshlash</string>
+    <string name="plus_name_check_title">Google+ bilan bog‘lanmoqda.</string>
+    <string name="plus_name_check_text">Bu bir necha daqiqa vaqt olishi mumkin.</string>
+    <string name="plus_faq_title">Google+ xizmatiga xush kelibsiz!</string>
+    <string name="plus_faq_text" formatted="false">"Do‘stlaringiz sizni internetdan topishiga yordam berish uchun Google+ xizmatidagi profilingiz ochiq bo‘ladi. E-pochta manzilingizni bilgan har kim sizni topishi va profilingizni ko‘rishi mumkin.
+
+Internetdagi narsalarni butun dunyoga tavsiya qilish uchun +1 tugmasidan foydalanishingiz mumkin. Profil va +1 tavsiyalaringiz internet bo‘ylab qidiruv va reklamalarda ochiq holatda ko‘rinadi.
+
+Hozircha, profilingizda faqat ism-familiyangiz (%s %s) ko‘rinadi xolos. Keyinroq Google+ xizmatidan foydalanishni boshlaganingizda rasm, o‘zingiz haqida va boshqa ma’lumotlarni qo‘shishingiz mumkin."</string>
+    <string name="dasher_warning">%s administratori Google+’dagi barcha ma’lumotlaringizga egalik qiladi va ularni boshqaradi. U sizning ruxsatingizsiz profilingizni xohlagan vaqtda o‘chirib tashlashi yoki tahrirlashi mumkin.</string>
+    <string name="profile_info_title">Profilingiz</string>
+    <string name="profile_text">Profilingizga o‘zingiz haqida ba’zi asosiy ma’lumotlarni kiriting. Rasm va boshqa ma’lumotlarni keyinroq Google+ bilan ishlash vaqtida qo‘shishingiz mumkin.</string>
+    <string name="occupation">Lavozim</string>
+    <string name="current_city">Joriy shahar</string>
+    <string name="picassa_info_title">Picasa va Google+</string>
+    <string name="picassa_info_text" formatted="false">Picasa veb-albomlaridagi rasm va videolaringiz Google+ xizmatiga chiqariladi va bildirgan fikrlaringiz %s o‘rniga %s %s nomidan ko‘rsatiladi. Google+ xizmatiga rasm ulashsangiz do‘stlaringiz uni boshqa har kimga qayta ulashishi mumkin. Albomingizning ko‘rinish sozlamalari o‘zgarmaydi, va siz xohlagan vaqtda ularni qayta ulashishni cheklab qo‘yishingiz mumkin.</string>
+    <string name="name_title_plus">Google+’dagi to‘liq ismingiz</string>
+    <string name="name_title_local">Ushbu telefon egasi:</string>
+    <string name="name_text_local">Telefon ba’zi ilovalarni o‘zingizga moslashtirish uchun ismingizdan foydalanadi.</string>
+    <string name="name_progress_title">Bir soniya…</string>
+    <string name="bad_name_title">Ushbu ism ishlatilsinmi?</string>
+    <string name="invalid_name_title">Ushbu ismdan foydalanib bo‘lmaydi</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Agar bundan Google+ ismingiz sifatida foydalanmoqchi bo‘lsangiz, jamoamiz uni ko‘rib chiqishi lozim. Agar u Ismlarga oid siyosatimizni buzsa, profilingiz vaqtinchalik yopib qo‘yiladi. Bu esa faol profilni talab qiladigan Google mahsulotlaridan foydalanish imkoniyatingizni cheklab qo‘yadi.
+
+"<annotation id="learn_more">Batafsil ma’lumot</annotation></string>
+    <string name="invalid_name_text">Ushbu ismdan Google+’da foydalana olmaysiz, chunki unda nojoiz belgilar bor.</string>
+    <string name="invalid_nickname_text">Ushbu ismdan Google+ xizmatida foydalana olmaysiz, chunki unda nojoiz belgilar bor. Laqab, avvalgi ism yoki mansabingizni kiritmayapsizmi? Ularni tarmoqqa a’zo bo‘lgandan keyin ham profilingizga qo‘shishingiz mumkin.</string>
+    <string name="invalid_other_text">Ushbu ismdan Google+ xizmatida foydalanib bo‘lmaydi.</string>
+    <string name="bad_name_agree_text">Men roziman va ushbu ismdan foydalanmoqchiman.</string>
+    <string name="bad_name_decline_button_label">Ismni yangilash</string>
+    <string name="bad_name_agree_button_label">Ismni ko‘rib chiqish uchun yuborish</string>
+    <string name="bad_name_skip_button_label">Google+’ni o‘tkazib yuborish</string>
+    <string name="photo_title">O‘z rasmingiz</string>
+    <string name="photo_text">Ushbu rasm sizning aloqa qaydingizda ishlatiladi. Uni keyinroq Odamlar ilovasidan o‘zgartirishingiz mumkin.</string>
+    <string name="photo_text_es">Do‘stlaringiz sizni Google+ xizmatida ko‘rishi uchun rasmga oling. Keyinroq yangi rasm tanlashingiz mumkin.</string>
+    <string name="photo_button_label">Rasmga olish</string>
+    <string name="retake_photo_button_label">Rasmni qayta olish</string>
+    <string name="photo_failure">Kamerani ishga tushirib bo‘lmadi.</string>
+    <string name="crop_failure">Rasmni qirqib bo‘lmadi.</string>
+    <string name="photo_description">O‘z rasmingiz</string>
+    <string name="communicating_message">Telefon ma’lumotlarni hisobingizga saqlash uchun Google bilan bog‘lanmoqda. Bu 5 daqiqagacha vaqt olishi mumkin.</string>
+    <string name="creating_account_title">Hisob saqlanmoqda...</string>
+    <string name="checking_username_message">"Telefoningiz siz xohlagan nom bo‘sh ekanligini tekshirish uchun Google bilan bog‘lanmoqda.
+
+Bu bir-ikki daqiqa vaqt olishi mumkin."</string>
+    <string name="plus_failure_title">Google+ xizmatiga keyinroq a’zo bo‘ling</string>
+    <string name="plus_failure_new_account_text">Google hisobingiz yaratildi, ammo Google+ xizmatiga a’zo bo‘lish talabingiz bajarilmadi. Keyinroq biror veb-brauzer orqali plus.google.com veb-saytiga tashrif buyurib, qaytadan urinib ko‘ring.</string>
+    <string name="plus_failure_text">Google+ xizmatiga a’zo bo‘lish talabingiz bajarilmadi. Keyinroq biror veb-brauzer orqali plus.google.com veb-saytiga tashrif buyurib, qaytadan urinib ko‘ring.</string>
+    <string name="provisioned_login_title">Parolni kiriting</string>
+    <string name="provisioned_welcome">Salom, %s!</string>
+    <string name="provisioned_welcome_2">"Quyidagi uchun parolni kiriting:
+%s"</string>
+    <string name="provisioned_incorrect_login">%s emasmi?</string>
+    <string name="login_title">E-pochta va parolni kiriting</string>
+    <string name="login_task_title">Tizimga kirish</string>
+    <string name="password">Parol</string>
+    <string name="restore_wifi">Ma’lumotlar qayta tiklansin va ma’lum Wi-Fi tarmoqlariga ulansin.</string>
+    <string name="sign_in_agreement_multi_user">Kirish orqali siz Google <annotation id="tos">Foydalanish shartlari</annotation>, <annotation id="google_privacy">Maxfiylik siyosati</annotation> va <annotation id="play_tos">Google Play Foydalanish shartlariga</annotation>" rozi ekanligingizni bildirasiz. 
+
+Esda tuting: Xohlagan foydalanuvchi sizning nomingizdan yangilangan ilova ruxsatnomalarni qabul qilishi mumkin. Kompyuteringizga o‘xshab, ushbu planshetni ham faqat o‘zingiz ishongan odamlarga bering."</string>
+    <string name="sign_in_agreement_with_chrome">Kirish orqali siz Google <annotation id="tos">Foydalanish shartlari</annotation> va <annotation id="google_privacy">Maxfiylik siyosati</annotation>, Chrome <annotation id="chrome_tos">Foydalanish shartlari</annotation> va <annotation id="chrome_privacy">Maxfiylik eslatmasi</annotation>, Google Play <annotation id="play_tos">Foydalanish shartlariga</annotation> rozi ekanligingizni bildirasiz.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Kirish orqali siz Google <annotation id="tos">Foydalanish shartlari</annotation> va <annotation id="google_privacy">Maxfiylik siyosati</annotation>, Chrome <annotation id="chrome_tos">Foydalanish shartlari</annotation> va <annotation id="chrome_privacy">Maxfiylik eslatmasi</annotation>, Google Play <annotation id="play_tos">Foydalanish shartlariga</annotation>" rozi ekanligingizni bildirasiz. 
+
+Esda tuting: Xohlagan foydalanuvchi sizning nomingizdan yangilangan ilova ruxsatnomalarni qabul qilishi mumkin. Kompyuteringizga o‘xshab, ushbu planshetni ham faqat o‘zingiz ishongan odamlarga bering."</string>
+    <string name="create_prompt">" Google hisobingiz yo‘qmi? "<annotation id="create_account">Hoziroq yangi hisob yarating</annotation> .</string>
+    <string name="sign_in_with_google_account_short">Google hisobi orqali kirish:</string>
+    <string name="invalid_username">Siz kiritgan foydalanuvchi nomi to‘g‘ri kelmaydi.</string>
+    <string name="captcha_instructions">Ko‘rsatilgan matnni mana bu yerga kiriting:</string>
+    <string name="create_google_account">Foydalanuvchi nomini tanlash</string>
+    <string name="create_google_account_text">Google hisobingiz yordamida siz Gmail – Google’ning e-pochta xizmatidan ham foydalanishingiz mumkin. U barcha qurilmalarda ishlaydi, spamdan ishonchli himoya qiladi va boshqa ko‘plab afzalliklarga ega.</string>
+    <string name="account_already_has_gmail">Ushbu hisob bilan bog‘liq Gmail hisobi allaqachon mavjud.</string>
+    <string name="error_account_disabled">"Bu hisob o‘chirib qo‘yilgan. 
+
+(Tafsilotlarni ko‘rish uchun veb-brauzer orqali https://google.com/accounts sahifasiga tashrif buyuring.)"</string>
+    <string name="no_network">Siz internetga ulanmagansiz.</string>
+    <string name="no_network_help">Bu vaqtinchalik muammo yoki Android qurilmangiz internet xizmati bilan ta’minlanmagan bo‘lishi mumkin. Uyali tarmoqqa ulanganda qaytadan urining yoki biror Wi-Fi tarmog‘iga ulanib ko‘ring.</string>
+    <string name="no_network_help_wifi_only">Bu vaqtinchalik muammo bo‘lishi mumkin. Qaytadan urining yoki boshqa Wi-Fi tarmog‘iga ulanib ko‘ring.</string>
+    <string name="error_login_failed">"Foydalanuvchi nomi va parol bir-biriga mos kelmadi. Qaytadan urining.
+
+Hisobingiz ma’lumotlarini qayta tiklash uchun google.com/accounts/recovery/ veb-sahifasiga tashrif buyuring."</string>
+    <string name="error_account_not_verified">"Ushbu hisob tasdiqlanmagan. Hisobni tasdiqlash uchun e-pochtangizni tekshiring va undagi linkga o‘ting. 
+
+(Hisobingiz ma’lumotlarini qayta tiklash uchun kompyuteringiz orqali http://www.google.com/accounts/recovery veb-sahifasiga tashrif buyuring.)"</string>
+    <string name="exit_menu_item">Brauzer orqali kirish sahifasidan chiqish</string>
+    <string name="creating_profile">Profilingiz yaratilmoqda...</string>
+    <string name="checking_account">Mavjudligi tekshirilmoqda...</string>
+    <string name="is_not_available"><b>^1</b> nomi bo‘sh emas.</string>
+    <string name="suggestions_hint">Takliflarni ko‘rish uchun bosing</string>
+    <string name="suggest_username_next_button_label">Foydalanuvchi nomini o‘zgartirish</string>
+    <string name="hint_size">" "<b>^1</b> tarkibida 6 tadan kam yoki 30 tadan ko‘p belgi bor.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> tarkibida hech qanday harf yo‘q.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" faqat harf,
+raqam va nuqtalardan iborat bo‘lishi mumkin."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> Gmail’dan foydalanmaydi.</string>
+    <string name="sign_in_browser">Brauzer orqali kirish</string>
+    <string name="alternatives_list_title">Foydalanuvchi uchun taklif qilingan nomlar</string>
+    <string name="password_title">Parol yaratish</string>
+    <string name="choose_a_password">Parol</string>
+    <string name="confirm_password">Parolni qayta kiriting</string>
+    <string name="too_short">Juda qisqa</string>
+    <string name="security_questions_title">Xavfsizlik savollari</string>
+    <string name="answer">" "<b>Javob</b></string>
+    <string name="password_mismatch">Parollar bir-biriga mos kelmadi. Qaytadan urining.</string>
+    <string name="eight_chars_min">Eng kamida 8 ta belgi</string>
+    <string name="verify_your_profile">Profilingizni tasdiqlang</string>
+    <string name="error_not_logged_in">Foydalanuvchi tizimga kirmagan.</string>
+    <string name="error_username_unavailable">Bunday nomni tanlab bo‘lmaydi.</string>
+    <string name="error_bad_password">Parol juda kuchsiz yoki unda mumkin bo‘lmagan belgilar mavjud. Qaytadan urining.</string>
+    <string name="error_bad_username">Mumkin bo‘lmagan nom.</string>
+    <string name="existing_account_error_title">Bunday hisob allaqachon mavjud</string>
+    <string name="existing_account_error_text">Ushbu Android qurilmada ^1 hisobi allaqachon mavjud.</string>
+    <string name="submission_title">Kechirasiz...</string>
+    <string name="submission_error_text">Xatolik yuz berdi. Qaytadan urining.</string>
+    <string name="sync_intro_title">Hisobni sinxronlash</string>
+    <string name="account_tos_title">Hisob yaratishni yakunlash</string>
+    <string name="account_tos_plus_title">Google+’ga a’zo bo‘lishni yakunlash</string>
+    <string name="i_accept">Qabul qilaman</string>
+    <string name="i_decline">Hisob yaratilmasin</string>
+    <string name="allow_personalized_content">Turli ma’lumotlar va Google bilan bog‘liq bo‘lmagan veb-saytlardagi reklamalarni o‘zingizga moslashtirish uchun Google’ga ma’lumotlaringizdan foydalanishga ruxsat bering.</string>
+    <string name="enable_web_history">Veb-qidiruv tarixini yoqish</string>
+    <string name="learn_more"><annotation id="learn_more">Batafsil ma’lumot</annotation></string>
+    <string name="account_creation_tos">Davom ettirish orqali siz Google <annotation id="tos">Foydalanish shartlari</annotation>, <annotation id="google_privacy">Maxfiylik siyosati</annotation> va <annotation id="play_tos">Google Play Foydalanish shartlariga</annotation> rozi ekanligingizni bildirasiz.</string>
+    <string name="account_creation_tos_with_chrome">Davom ettirish orqali siz Google <annotation id="tos">Foydalanish shartlari</annotation> va <annotation id="google_privacy">Maxfiylik siyosati</annotation>, Chrome <annotation id="chrome_tos">Foydalanish shartlari</annotation> va <annotation id="chrome_privacy">Maxfiylik eslatmasi</annotation> va Google Play <annotation id="play_tos">Foydalanish shartlariga</annotation> rozi ekanligingizni bildirasiz.</string>
+    <string name="gender_prompt">Jins</string>
+    <string name="gender_hint">Jins</string>
+    <string name="account_pre_intro_title">Google hisobingiz bormi?</string>
+    <string name="account_pre_intro_default_message">"Google hisobingiz bormi?
+
+Agar Gmail yoki Google Apps xizmatlaridan foydalansangiz, demak, bor ekan."</string>
+    <string name="account_pre_intro_yes">Ha</string>
+    <string name="account_pre_intro_no">Yo‘q</string>
+    <string name="account_intro_title">Google hisobi</string>
+    <string name="account_intro_required_title">Google tomonidan ishlab chiqilgan</string>
+    <string name="account_intro_recommended_title">Uni Google bilan bog‘lang</string>
+    <string name="account_intro_default_message">Ma’lumotlaringizni endi hech qachon yo‘qotmaysiz. Google hisobingiz hamma narsani xavfsiz saqlaydi.</string>
+    <string name="account_intro_simple_message">Mavjud hisobingizni qo‘shmoqchimisiz yoki yangi yaratmoqchimisiz?</string>
+    <string name="account_intro_learn_more">Batafsil ma’lumot</string>
+    <string name="learn_more_title">Batafsil ma’lumot</string>
+    <string name="learn_more_account_intro">"Google hisobi sizga quyidagi imkoniyatlarni beradi:
+
+"<li><ul>Barcha ma’lumotlaringizga dunyoning istalgan joyidan kirish va ularni boshqarish.</ul></li>"
+
+"<li><ul>E-pochta, aloqalar, musiqa va rasm kabi ma’lumotlaringizning zaxira nusxasini avtomatik ravishda yaratish.</ul></li>"
+
+"<li><ul>Google xizmatlaridan, jumladan Kontaktlar, Taqvim, Xaritalar va boshqalardan dunyoning istalgan joyidan turib osongina foydalaning.</ul></li></string>
+    <string name="learn_more_account_intro_title">Google hisoblari haqida</string>
+    <string name="learn_more_bad_name">Google+ sizdan haqiqiy ismingizni kiritishni talab qiladi. Profilingiz bitta shaxsni ifodalashi lozim — biznes, tashkilot yoki oilani emas — va unda ism-familiyangiz bitta tilda yozilgan bo‘lishi, lavozimingiz yoki ortiqcha tinish belgilari bo‘lmasligi lozim. Laqab yoki sizga aloqador boshqa ismlaringizni tarmoqqa a’zo bo‘lgandan so‘ng profilingizdagi Boshqa ismlar maydonchasiga kiritib qo‘yishingiz mumkin.</string>
+    <string name="learn_more_bad_name_title">Ismlar siyosati haqida</string>
+    <string name="wait_for_device_country_title">Hisobni sozlash</string>
+    <string name="wait_for_device_country_msg">Telefoningiz haqidagi ma’lumotlar to‘planmoqda. Bu 30 soniyagacha vaqt olishi mumkin.</string>
+    <string name="recovery_title">Google parolini qayta tiklash</string>
+    <string name="recovery_wait_title">Iltimos, kuting…</string>
+    <string name="cannot_talk_to_server_msg">Qurilma Google bilan bog‘lana olmadi.</string>
+    <string name="recovery_skip_label">O‘tkazib yub-sh</string>
+    <string name="recovery_retry_label">Qayta urinish</string>
+    <string name="recovery_message_set">"Qachondir parolingizni esdan chiqarib qo‘ysangiz, albatta, uni qayta tiklash ehtiyoji paydo bo‘ladi.
+
+Google esa parolingizni SMS yoki muqobil e-pochta manzilingizga xabar yubori tiklash imkoniyatini beradi.
+
+Ushbu bosqichni diqqat bilan to‘ldirish tavsiya etiladi. "<annotation id="help_url">Batafsil ma’lumot</annotation></string>
+    <string name="recovery_message_verify">"Har kim ham parolini esdan chiqarib qo‘yishi mumkin.
+
+Zarurat tug‘ilganda Google va Google Play’dagi ma’lumotlaringizga kirish parolini osongina qayta tiklash uchun telefon raqamingiz yoki qo‘shimcha e-pochta manzilingizni kiriting. "<annotation id="help_url">Batafsil ma’lumot</annotation></string>
+    <string name="recovery_yes_button_label">Qayta tiklash usullarini sozlash</string>
+    <string name="recovery_yes_button_label_verify">Qayta tiklash usullarini tasdiqlang</string>
+    <string name="recovery_later_button_label">Hozir emas</string>
+    <string name="recovery_input_screen_message">Ushbu qayta tiklash ma’lumoti %s ilovasiga nisbatan qo‘llaniladi.</string>
+    <string name="secondary_email_hint">Qo‘shimcha e-pochta</string>
+    <string name="secondary_email_invalid">E-pochta manzili noto‘g‘ri</string>
+    <string name="secondary_email_same_as_primary">Asosiy e-pochta bilan bir xil bo‘lmasin</string>
+    <string name="phone_number_hint">Telefon raqami</string>
+    <string name="phone_number_invalid_character">Telefon raqamida nojoiz belgilar mavjud</string>
+    <string name="phone_number_invalid">Telefon raqami noto‘g‘ri</string>
+    <string name="country_invalid">Boshqa mamlakatni tanlang</string>
+    <string name="recovery_server_error">Serverga bog‘lanishda xatolik yuz berdi. Keyinroq qayta urinib ko‘ring</string>
+    <string name="account_recovery_info">Agar qachondir parolingizni esdan chiqarsangiz, xavfsizlik savoliga javob berasiz va boshqa elektron pochtangizga parolni tiklashga oid link yuboriladi.</string>
+    <string name="secondary_email_label">E-pochta manzillarini tiklash</string>
+    <string name="invalid_email">"Siz kiritgan e-pochta manzili to‘g‘ri kelmaydi.
+ Masalan: joe@example.com"</string>
+    <string name="invalid_email_primary">Ikkilamchi e-pochta manzili siz hozir yaratayotgan bilan bir xil bo‘lishi mumkin emas.</string>
+    <string name="backup_consent_message">"Ilovalar, sozlamalar (masalan, xatcho‘plar va Wi-Fi parollari) va boshqa ma’lumotlaringiz nusxasini zaxiralash uchun Google hisobingizdan foydalaning. Agar hisobingizni oldin zaxiralagan bo‘lsangiz, uni hozir ushbu telefonga tiklashingiz mumkin.
+
+Zaxiralash sozlamalarini xohlagan vaqtda Sozlamalar menyusidan o‘zgartirishingiz mumkin."</string>
+    <string name="backup_consent_message_no_restore">"Ilovalar, sozlamalar (masalan, xatcho‘plar va Wi-Fi parollari) va boshqa ma’lumotlaringiz nusxasini zaxiralash uchun Google hisobingizdan foydalaning.
+
+Zaxiralash sozlamalarini xohlagan vaqtda Sozlamalar menyusidan o‘zgartirishingiz mumkin."</string>
+    <string name="restoring_title">Qayta tiklanmoqda...</string>
+    <string name="restoring_message">Telefon hisobingizni qayta tiklash uchun Google bilan bog‘lanmoqda. Bu biroz vaqt olishi mumkin.</string>
+    <string name="gls_notification_login_error">Hisobingizga kirish uchun bosing.</string>
+    <string name="gls_ui_add_account_title">Hisobni sozlash</string>
+    <string name="gls_ui_activity_title">Kirish</string>
+    <string name="gls_ui_activity_title_browser_signin">Kirish</string>
+    <string name="gls_ui_activity_title_checking_in">Tayyorlanmoqda...</string>
+    <string name="gls_ui_activity_authenticating">Tasdiqlanmoqda...</string>
+    <string name="gls_dmagent_activity_activate_message">" Domeningiz mobil qurilmalarni boshqarish tizimini talab qiladi.  "<b>^1</b> hisobi uchun zarur bo‘lgan xavfsizlik qoidalarini joriy etish uchun Google Apps Device Policy ilovasini o‘rnating.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Faollashtirish</string>
+    <string name="gls_dmagent_activity_download_message">" Domeningiz mobil qurilmalarni boshqarish tizimini talab qiladi.  "<b>^1</b> hisobi uchun zarur bo‘lgan xavfsizlik qoidalarini joriy etish uchun Google Apps Device Policy ilovasini o‘rnating.</string>
+    <string name="gls_dmagent_activity_download_retry_button">Yuklab olish</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Parol noto‘g‘ri kiritildi yoki hisobingiz o‘zgargan. Parolni qaytadan kiriting.</string>
+    <string name="permlab_googleAuthPassword">Google hisoblari parollaridan foydalanish</string>
+    <string name="permdesc_googleAuthPassword">Ilovalar siz sozlagan Google hisob(lar)ining parollaridan bevosita foydalanishi mumkin.</string>
+    <string name="permlab_googleMailSwitch">Gmail yoki Google Mail brendini tanlash</string>
+    <string name="permdesc_googleMailSwitch">Ilovalarga ko‘rsatilgan nomni \"Gmail\" va \"Google Mail\" brendlari o‘rtasida almashtirishga ruxsat beradi.</string>
+    <string name="sync_item_title">%sni sinxronlash</string>
+    <string name="grant_credentials_permission_message_footer">Ular quyidagilar uchun ruxsat so‘ramoqda:</string>
+    <string name="grant_credentials_permission_message_app">Ushbu ilovalar hozirdan boshlab Google hisobingizdan foydalanmoqchi:</string>
+    <string name="grant_permissions_header_text">Ruxsatnoma talabi</string>
+    <string name="allow">Ruxsat berish</string>
+    <string name="deny">Yo‘q, rahmat</string>
+    <string name="permission_request_notification_with_subtitle">"%s uchun 
+ruxsat talab qilindi."</string>
+    <string name="notification_title">%1$s hisobiga kirishda xatolik yuz berdi</string>
+    <string name="account_setup_title">Google hisobi</string>
+    <string name="login_activity_title">Kirish</string>
+    <string name="relogin_activity_title">Parolni qayta kiriting</string>
+    <string name="show_error_activity_title">Tizimga kirib bo‘lmadi</string>
+    <string name="login_activity_task_title">Tizimga kirilmoqda...</string>
+    <string name="login_activity_task_msg">Bu bir necha daqiqa vaqt olishi mumkin.</string>
+    <string name="prepare_account_setup_task_title">Hisob sozlashga tayyorlanmoqda…</string>
+    <string name="prepare_account_setup_task_msg">Bu bir necha daqiqa vaqt olishi mumkin.</string>
+    <string name="sync_intro_activity_title">Hisobingizni sinxronlash</string>
+    <string name="username">E-pochta</string>
+    <string name="error_invalid_second_factor">Doimiy hisobingiz parolidan foydalanmay, ushbu ilova uchun xos parol tanlang.</string>
+    <string name="error_needs_browser">Hisobingizdan foydalanish uchun tizimga internet orqali kirishingiz lozim. Brauzer orqali kirish uchun “Keyingi” tugmasini bosing.</string>
+    <string name="google_play_opt_in">Google Play takliflari va yangiliklaridan xabardor bo‘lib turishni xohlayman.</string>
+    <string name="google_settings_header_title">Maxfiylik</string>
+    <string name="maps_settings_title">Xaritalar va Lokator</string>
+    <string name="location_settings_title">Joylashuv</string>
+    <string name="search_settings_title">Qidiruv</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Reklamalar</string>
+    <string name="location_network_based">Google joylashuv xizmatlari</string>
+    <string name="location_neighborhood_level">Joylashuv ma’lumotlarini maxfiy ravishda Google’ga yuborishga va ilovalarga joylashuvni Wi-Fi va mobil tarmoqlar orqali aniqlashga ruxsat berish.</string>
+    <string name="use_location_title">Joylashuv va Google qidiruvi</string>
+    <string name="use_location_summary">Google’ga joylashuvingiz ma’l-dan qidiruv va boshqa xizmatlarni takom-sh uchun foyd-ga ruxsat bering</string>
+    <string name="backup_consent_yes_agree">Ilovalar, sozlamalar (m-n, xatcho‘plar va Wi-Fi parollari) va boshqa ma’lumotlaringiz nusxasini zaxiralash uchun Google hisobingizdan foydalaning.</string>
+    <string name="restore_consent_yes_agree">Google hisobingizga avval zaxiralab qo‘ygan ilovalar, sozlamalar va boshqa ma’lumotlarni ushbu telefonga qayta tiklang.</string>
+    <string name="audit_logging_summary">Mahsulotlarimizni takomillashtirishda yordam berish va qurilmangizni himoya qilish uchun Google’ga qurilmangizdagi hodisalar va tashxis ma’lumotlarini avtomatik ravishda jo‘natadi.</string>
+    <string name="no_back_msg">Avvalgi bosqichga qaytib bo‘lmaydi.</string>
+    <string name="setup_wizard_title">O‘rnatish yordamchisi</string>
+    <string name="setup_wizard_services_activity_title">Google xizmatlari</string>
+    <string name="setup_wizard_services_description">Ushbu Google xizmatlarini xohlagan vaqtda yoqish yoki o‘chirib qo‘yishingiz mumkin. Ma’lumotlardan <annotation id="google_privacy">Google Maxfiylik siyosatiga</annotation> muvofiq foydalaniladi.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Zahiralang va tiklang</string>
+    <string name="setup_wizard_services_location_heading">Joylashuv</string>
+    <string name="setup_wizard_services_communication_heading">Aloqa</string>
+    <string name="setup_wizard_services_backup">Google hisobingiz yordamida <b>telefoningizdagi ilovalar, ilova ma’lumotlari, sozlamalar, shaxsiy lug‘atlar va Wi-Fi parollari nusxasini zaxiralang</b> va keyinchalik ularni osongina qayta tiklab oling. <annotation id="backup_details">Batafsil ma’lumot</annotation></string>
+    <string name="setup_wizard_services_backup_restore">Google hisobingiz yordamida <b>ilovalar, ilova ma’lumotlari, sozlamalar, shaxsiy lug‘atlar va Wi-Fi parollaringiz nusxasini zaxiralang</b> va keyinchalik ularni osongina qayta tiklab oling.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Ma’lumotga ilovalar, ilova sozlamalari, tizim sozlamalari va Wi‑Fi parollari ham kiradi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Agar avtoyuklash funksiyasini yoqsangiz, qurilmangizdagi ma’lumotlar nusxasi vaqti-vaqti bilan Google hisobingizga saqlanadi. Bunda, ilovalarga oid shaxsiy sozlamalar, umumiy sozlamalar, xabarlar, rasmlar va boshqa fayllarning nusxasini zaxiralash mumkin.</string>
+    <string name="setup_wizard_services_location_sharing">Ilovalarga joylashuvni aniqlashda yordam berish uchun <b>Google joylashuvni aniqlash xizmatidan foydalaning</b>. Bu shuni bildiradiki, hech qanday ilova ishlamayotgan bo‘la ham, joylashuv haqidagi ma’lumotlar maxfiy tarzda Google’ga yuboriladi. <annotation id="location_details">Batafsil ma’lumot</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google joylashuvni aniqlash xizmati qurilmangizning joylashuvini tezroq va nisbatan aniqroq aniqlash uchun Wi-Fi va uyali aloqa tarmoqlari kabi manbalardan foydalanadi. Google joylashuvni aniqlash xizmati yoqilganidan so‘ng, qurilmangiz joylashuv ma’lumotini taqdim etish uchun Wi-Fi va uyali aloqa tarmoqlaridan foydalanish rejimiga o‘tadi. Buni joylashuv sozlamalaridan o‘chirib qo‘yishingiz hamda joylashuvni faqat GPS orqali aniqlash rejimiga (ba’zan “Faqat qurilma bo‘yicha” deb nomlanadi) o‘tishingiz mumkin.</string>
+    <string name="setup_wizard_services_location_wifi_scan">Wi-Fi o‘chiq bo‘lganda ham ilova va xizmatlarga Wi-Fi tarmoqlarini qidirishga ruxsat berish orqali <b>joylashuvni aniqlash xizmatlarini takomillashtirishga yordam bering</b>.</string>
+    <string name="setup_wizard_services_location_footnote">Google’ning joylashuv xizmati Wi-Fi va boshqa signallardan joylashuvlarni aniq va tez topishda (tez-tez GPS’dan ko‘ra past quvvat sarflab) foydalanadi. Ba’zi ma’lumotlar qurilmangizga saqlanishi mumkin. Birorta ilova ishga tushirilmasa ham, ma’lumotlar yig‘ilishi mumkin.</string>
+    <string name="setup_wizard_services_play">Google Play yangiliklari va takliflaridan <b>xabardor bo‘lib turishni xohlayman</b>.</string>
+    <string name="setup_wizard_services_usage_reporting">Tashxis va ilovalardan foydalanish to‘g‘risidagi ma’lumotlarni avtomatik tarzda Google’ga yuborish orqali <b>Androiddan foydalanish tajribangizni yaxshilashga yordam bering</b>. Ushbu ma’lumotlar sizning shaxsingizni aniqlash uchun ishlatilmaydi. Ular batareya quvvatini uzoqroq vaqtga yetkazish, ilovalar unumdorligi va Google’ning yangi xususiyatlarini takomillashtirish uchun ishlatiladi. <annotation id="usage_reporting_details">Batafsil ma’lumot</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Bunga qurilmangiz va undan qanday foydalanishingiz haqidagi umumiy ma’lumotlar, masalan, batareya quvvati darajasi, ilovalardan qanchalik foydalanishingiz, tarmoq ulanishlarining sifati va davomoiyligi (uyali aloqa, Wi-Fi va Bluetooth), narsalar ishlamay qolgan vaqtdagi ishdan chiqish hisobotlari kiradi. Ushbu ma’lumotlardan Google mahsulotlari va xizmatlarini takomillashtirish uchun foydalanilib, u Google hisobingiz bilan bog‘liq bo‘lmaydi. Ba’zi to‘plangan ma’lumotlar Android dasturchilar kabi hamkorlarimizga ham o‘z ilovalari va mahsulotlarini yanada yaxshilashga yordam beradi.
+
+Uni xohlagan vaqtda “Google sozlamalari” ilovasi orqali o‘chirib qo‘yishingiz yoki yoqishingiz mumkin. U tizim yangilanishlari va xavfsizlik kabi asosiy xizmatlarni olish uchun zarur bo‘lgan ma’lumotlarni yuborishga to‘sqinlik qilmaydi."</string>
+    <string name="setup_wizard_services_agreement">Ushbu telefon Google, aloqa operatoringiz va telefon ishlab chiqaruvchisidan dasturiy yangilanishlarni olishi va ilovalarni o‘rnatishi mumkin. Ba’zi ilovalar yuklab olinishi va agar davom ettirsangiz, o‘rnatilishi ham mumkin. Ularni xohlagan vaqtda o‘chirib tashlashingiz mumkin.</string>
+</resources>

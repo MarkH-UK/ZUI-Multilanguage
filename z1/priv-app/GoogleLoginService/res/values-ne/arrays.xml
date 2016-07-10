@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>एउटा सुरक्षा प्रश्न चयन गर्नुहोस्</item>
+        <item>पहिलो फोन नम्बर?</item>
+        <item>बाल्यकालको सब भन्दा मिल्ने साथीको नाम?</item>
+        <item>सब भन्दा पहिलो शिक्षकको नाम?</item>
+        <item>पहिलो काममा प्रबन्धकको नाम?</item>
+        <item>गाडी दर्ता संख्या?</item>
+    </string-array>
+</resources>

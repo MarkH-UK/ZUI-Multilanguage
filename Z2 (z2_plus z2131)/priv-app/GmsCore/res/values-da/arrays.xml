@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Café</item>
+        <item>Tankstation</item>
+        <item>Biograf</item>
+        <item>Logi</item>
+        <item>Natklub</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Indkøbscenter</item>
+        <item>Butik</item>
+        <item>Købmand eller supermarked</item>
+        <item>Andet</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>dårlig</item>
+        <item>rimelig</item>
+        <item>god</item>
+        <item>stærk</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Udgivelse</item>
+        <item>Udvikler</item>
+        <item>Detailhandel</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Telefonen og bilens software er ikke kompatible. Hvis du vil have flere oplysninger, kan du gå til &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Bilen har rapporteret et forkert sæt lyd- eller videokonfigurationer.</item>
+        <item>"USB-forbindelsen fungerer ikke korrekt. Mulige løsninger: 
+
+• Sørg for, at kablet sidder korrekt i begge ender. 
+• Sørg for, at du har et USB-datakabel. 
+• Sørg for, at dato og klokkeslæt er indstillet korrekt for både bilen og telefonen."</item>
+        <item>Bilen er holdt op med at køre Android Auto.</item>
+        <item>Android Auto-sessionen stoppede, som ønsket.</item>
+        <item>Bilens software kan være forældet. Hvis du vil have flere oplysninger eller support, skal du kontakte producenten.</item>
+        <item>Bilens software bestod ikke sikkerhedskontrollen for Android Auto. Hvis du vil have flere oplysninger eller support, skal du kontakte producenten.</item>
+        <item>Bilens software bestod ikke sikkerhedskontrollen for Android Auto. Sørg for, at bilens dato og klokkeslæt er indstillet korrekt, og at Android Auto er blevet opdateret.</item>
+        <item>En handling fik timeout. Få fat i en fejlrapport, og send feedback.</item>
+        <item>Du lader ikke til at have en starter installeret. Er din telefon konfigureret korrekt?</item>
+        <item>Softwarekomponenten, der opdaterer skærmen, er gået ned. Få fat i en fejlrapport, og send feedback.</item>
+        <item>Bilen reagerer ikke på beskeder fra telefonen. Bilen kan være i en forkert tilstand.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Lufthavn</item>
+        <item>Pengeautomat</item>
+        <item>Bank</item>
+        <item>Bar</item>
+        <item>Busstation</item>
+        <item>Café</item>
+        <item>Campingplads</item>
+        <item>Kirkegård</item>
+        <item>Kirke</item>
+        <item>Rådhus</item>
+        <item>Virksomhed</item>
+        <item>Tankstation</item>
+        <item>Købmand eller supermarked</item>
+        <item>Hindutempel</item>
+        <item>Sygehus</item>
+        <item>Bibliotek</item>
+        <item>Logi</item>
+        <item>Moské</item>
+        <item>Biograf</item>
+        <item>Museum</item>
+        <item>Park</item>
+        <item>Parkering</item>
+        <item>Bedested</item>
+        <item>Politistation</item>
+        <item>Posthus</item>
+        <item>Restaurant</item>
+        <item>Skole</item>
+        <item>Butik</item>
+        <item>Metrostation</item>
+        <item>Synagoge</item>
+        <item>Togstation</item>
+        <item>Station</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>Marts</item>
+        <item>April</item>
+        <item>Maj</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Stop deling</item>
+        <item>15 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>På ubestemt tid</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Stop deling</item>
+        <item>15 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Vælg et hemmeligt spørgsmål</item>
+        <item>Første telefonnummer?</item>
+        <item>Navnet på din bedste barndomsven?</item>
+        <item>Navnet på din første lærer?</item>
+        <item>Navnet på din første chef?</item>
+        <item>Køretøjets registreringsnummer?</item>
+    </string-array>
+</resources>

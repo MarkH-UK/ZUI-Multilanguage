@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/sounds_headset" android:key="noise_canceling_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/noise_canceling_title" android:key="noise_canceling_volume" />
+    <com.android.settings.notification.NoiseCancelingSeekBarPreference android:title="@string/noise_canceling_title" android:key="noisecanceling_volume" android:summary="@string/noise_canceling_volume_summary" />
+    <PreferenceCategory android:title="@string/noise_canceling_volume_summary" />
+    <com.android.settings.notification.NoiseCancelingSwitchPreference android:title="@string/noise_canceling_switch_title" android:key="noisecanceling" />
+    <PreferenceCategory android:title="@string/noise_canceling_switch_summary" />
+</PreferenceScreen>

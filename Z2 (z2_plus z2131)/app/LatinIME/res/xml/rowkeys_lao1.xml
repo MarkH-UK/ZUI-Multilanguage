@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <switch>
+        <case latin:keyboardLayoutSetElement="alphabetManualShifted|alphabetShiftLocked|alphabetShiftLockShifted">
+            <Key latin:keySpec="໑" />
+            <Key latin:keySpec="໒" />
+            <Key latin:keySpec="໓" />
+            <Key latin:keySpec="໔" />
+            <Key latin:keySpec="໌" />
+            <Key latin:keySpec="ຼ" />
+            <Key latin:keySpec="໕" />
+            <Key latin:keySpec="໖" />
+            <Key latin:keySpec="໗" />
+            <Key latin:keySpec="໘" />
+            <Key latin:keySpec="໙" />
+            <Key latin:keySpec="ໍ່" latin:keyLabelFlags="followKeyLetterRatio" />
+        </case>
+        <default>
+            <Key latin:moreKeys="໑" latin:additionalMoreKeys="1" latin:keySpec="ຢ" latin:keyHintLabel="1" />
+            <Key latin:moreKeys="໒" latin:additionalMoreKeys="2" latin:keySpec="ຟ" latin:keyHintLabel="2" />
+            <Key latin:moreKeys="໓" latin:additionalMoreKeys="3" latin:keySpec="ໂ" latin:keyHintLabel="3" />
+            <Key latin:moreKeys="໔" latin:additionalMoreKeys="4" latin:keySpec="ຖ" latin:keyHintLabel="4" />
+            <Key latin:keySpec="ຸ" />
+            <Key latin:keySpec="ູ" />
+            <Key latin:moreKeys="໕" latin:additionalMoreKeys="5" latin:keySpec="ຄ" latin:keyHintLabel="5" />
+            <Key latin:moreKeys="໖" latin:additionalMoreKeys="6" latin:keySpec="ຕ" latin:keyHintLabel="6" />
+            <Key latin:moreKeys="໗" latin:additionalMoreKeys="7" latin:keySpec="ຈ" latin:keyHintLabel="7" />
+            <Key latin:moreKeys="໘" latin:additionalMoreKeys="8" latin:keySpec="ຂ" latin:keyHintLabel="8" />
+            <Key latin:moreKeys="໙" latin:additionalMoreKeys="9" latin:keySpec="ຊ" latin:keyHintLabel="9" />
+            <Key latin:keySpec="ໍ" />
+        </default>
+    </switch>
+</merge>

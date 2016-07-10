@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>လုံခြုံရေး မေးခွန်းကို ရွေးရန်</item>
+        <item>ပထမ ဖုန်း၏ နံပါတ်လား?</item>
+        <item>ကလေးဘဝက အကောင်းဆုံး သူငယ်ချင်း အမည်လား?</item>
+        <item>ပထမဦးဆုံး ဆရာ အမည်လား?</item>
+        <item>ပထမဦးဆုံး အလုပ်တုန်းက မန်နေဂျာ အမည်လား?</item>
+        <item>ယာဉ်၏ မှတ်ပုံတင် နံပါတ်လား?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>အားနည်း</item>
+        <item>သင့်တင့်</item>
+        <item>ကောင်း</item>
+        <item>အားကောင်း</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>ကျား</item>
+        <item>မ</item>
+        <item>အခြား</item>
+    </string-array>
+</resources>

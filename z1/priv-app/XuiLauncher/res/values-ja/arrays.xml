@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>デフォルトの市区町村として設定</item>
+        <item>この市区町村を削除</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>デフォルト アニメーション</item>
+        <item>回転</item>
+        <item>ブルドーザー</item>
+        <item>風車</item>
+        <item>キューブ</item>
+        <item>正弦波</item>
+        <item>シリンダー</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>なし</item>
+        <item>デスクトップ・メニューを開く</item>
+        <item>最近使用したアプリを表示</item>
+        <item>通知バーを開く</item>
+        <item>検索アイコン</item>
+        <item>ロック画面</item>
+    </string-array>
+</resources>

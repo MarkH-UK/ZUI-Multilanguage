@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="TextViewLargePicture">false</item>
+    <item type="id" name="Btn1">false</item>
+    <item type="id" name="Btn2">false</item>
+    <item type="id" name="Btn3">false</item>
+    <item type="id" name="rlParent">false</item>
+    <item type="id" name="BtnClose">false</item>
+    <item type="id" name="textViewTitle">false</item>
+    <item type="id" name="upSplitter">false</item>
+    <item type="id" name="TextViewLongText">false</item>
+    <item type="id" name="belowSplitter">false</item>
+    <item type="id" name="buttonSplitter">false</item>
+    <item type="id" name="buttonN1">false</item>
+    <item type="id" name="ButtonN2">false</item>
+    <item type="id" name="llUpBar">false</item>
+    <item type="id" name="BtnNull">false</item>
+    <item type="id" name="flContent">false</item>
+    <item type="id" name="rlWebContent">false</item>
+    <item type="id" name="webView">false</item>
+    <item type="id" name="llLoadError">false</item>
+    <item type="id" name="ivLoadError">false</item>
+    <item type="id" name="textViewLoadError">false</item>
+    <item type="id" name="BtnReload">false</item>
+    <item type="id" name="imageViewLarge">false</item>
+    <item type="id" name="imageViewSmall">false</item>
+    <item type="id" name="textViewContent">false</item>
+    <item type="id" name="info_layout">false</item>
+    <item type="id" name="buttonBack">false</item>
+    <item type="id" name="webView_content">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>

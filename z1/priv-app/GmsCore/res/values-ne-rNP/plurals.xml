@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d वर्णहरू सीमा भन्दा बढी</item>
+        <item quantity="one">%1$d वर्ण सीमा भन्दा बढी</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d वर्णहरू बाँकी</item>
+        <item quantity="one">%1$d वर्ण बाँकी</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google खाताहरू</item>
+        <item quantity="one">%d Google खाता</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">तपाईँको Google खाताहरू र तिनीहरूको डेटामार्फत ^1 सेट गर्न यो यन्त्र प्रयोग गरियो</item>
+        <item quantity="one">तपाईँको Google खाता र यसको डेटामार्फत ^1 सेट गर्न यो यन्त्र प्रयोग गरियो</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d घन्टा</item>
+        <item quantity="one">१ घन्टा</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d मिनेट</item>
+        <item quantity="one">१ मिनेट</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">यी निमन्त्रणाहरु कुनै त्रूटिको कारण पठाइएको थिएन</item>
+        <item quantity="one">यो निमन्त्रणा त्रूटिको कारण पठाइएन</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">यी निमन्त्रणाहरू अहिले पठाउन सकिँदैन। तपाईँ तिनीहरूलाई फेरि Google Play र मेरो खाताबाट पठाउन सक्नुहुन्छ।</item>
+        <item quantity="one">यो निमन्त्रणा अहिले पठाउन सकिँदैन। तपाईँ यसलाई फेरि Google Play र मेरो खाताबाट पठाउन सक्नुहुन्छ।</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d निमन्त्रणाहरू बाँकी</item>
+        <item quantity="one">%d निमन्त्रणा बाँकी</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d नयाँ सन्देशहरू</item>
+        <item quantity="one">१ नयाँ सन्देश</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d तपाईँभन्दा अगाडि व्यक्तिहरू</item>
+        <item quantity="one">तपाईँभन्दा अगाडि १ व्यक्ति</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s र %2$d अन्य अनुप्रयोगहरूद्वारा</item>
+        <item quantity="one">%1$s र %2$d अन्य अनुप्रयोगद्वारा</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d हालखबरबारे जानकारी राख्ने व्यक्तिहरू</item>
+        <item quantity="one">एउटा हालखबरबारे जानकारी राख्ने व्यक्ति</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d दृश्यहरू</item>
+        <item quantity="one">एउटा दृश्य</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">तपाईँको Google खाताहरू र डेटा प्रतिलिपि गर्दै ...</item>
+        <item quantity="one">तपाईँको Google खाता र डेटा प्रतिलिपि गर्दै ...</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">यो यन्त्र एउटा ^1 लाई तपाईँको Google खाता र डेटामार्फत सेटअप गर्न प्रयोग गरियो।</item>
+        <item quantity="one">यो यन्त्र एउटा ^1 लाई तपाईँको Google खाता र डेटामार्फत सेटअप गर्न प्रयोग गरियो।</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">%d सेकेण्डमा स्थापना गर्नका लागि पुन:बुटिङ गर्दै...</item>
+        <item quantity="one">१ सेकेण्डमा स्थापना गर्नका लागि पुन:बुटिङ गर्दै...</item>
+    </plurals>
+</resources>

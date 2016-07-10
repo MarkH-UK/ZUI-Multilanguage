@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/settings_screen_appearance" android:key="screen_appearance"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="@string/settings_screen_theme" android:key="screen_theme" android:fragment="com.android.inputmethod.latin.settings.ThemeSettingsFragment" />
+    <PreferenceScreen android:title="@string/custom_input_styles_title" android:key="custom_input_styles" android:fragment="com.android.inputmethod.latin.settings.CustomInputStyleSettingsFragment" />
+    <CheckBoxPreference android:persistent="true" android:title="@string/enable_split_keyboard" android:key="pref_split_keyboard" android:defaultValue="false" />
+</PreferenceScreen>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="plugin_downloading_height">160.0px</dimen>
+    <dimen name="meizu_point_margin_right">16.0dip</dimen>
+</resources>

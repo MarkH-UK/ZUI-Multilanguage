@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d simvol limitdən çoxdur</item>
+        <item quantity="one">%1$d simvol limitdən çoxdur</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d simvol qalıb</item>
+        <item quantity="one">%1$d simvol qalıb</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google Hesabı</item>
+        <item quantity="one">%d Google Hesabı</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Bu cihaz ^1 cihazını Google Hesablarıı və onların datalarını quraşdırmaq üçün işlədilib.</item>
+        <item quantity="one">Bu cihaz ^1 cihazını Google Hesabı və onun datalarını quraşdırmaq üçün işlədilib.</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d dəqiqə</item>
+        <item quantity="one">1 dəqiqə</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Bu dəvətlər xəta səbəbindən göndərilmədi</item>
+        <item quantity="one">Bu dəvət xəta səbəbindən göndərilmədi</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Bu dəvətlər indi göndərilə bilməz. Onları yenidən Google Play > Hesabım ilə göndərə bilərsiniz.</item>
+        <item quantity="one">Bu dəvət indi göndərilə bilməz. Onu yenidən Google Play > Hesabım ilə göndərə bilərsiniz.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d dəvət qalıb</item>
+        <item quantity="one">%d dəvət qalıb</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d yeni mesaj</item>
+        <item quantity="one">1 yeni mesaj</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">sizdən öncə %1$d nəfər</item>
+        <item quantity="one">sizdən öncə 1 nəfər</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s və %2$d digər tətbiq tərəfindən</item>
+        <item quantity="one">%1$s və %2$d digər tətbiq tərəfindən</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d izləyici</item>
+        <item quantity="one">Bir izləyici</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d baxış</item>
+        <item quantity="one">Bir baxış</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Google Hesablarınız və datanız kopyalanır...</item>
+        <item quantity="one">Google Hesabınız və datanız kopyalanır...</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Bu cihaz Google Hesabları və datanız ilə ^1 cihazını quraşdırmaq üçün işlədilib.</item>
+        <item quantity="one">Bu cihaz Google Hesabı və datanız ilə ^1 cihazını quraşdırmaq üçün işlədilib.</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Quraşdırmaq üçün %d saniyə ərzində yenidən yüklənir...</item>
+        <item quantity="one">1 saniyədə quraşdırmaq üçün yenidən yüklənir...</item>
+    </plurals>
+</resources>

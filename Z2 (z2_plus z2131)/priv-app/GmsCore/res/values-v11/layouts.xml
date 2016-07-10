@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="tp_view_use_first_card_dialog">false</item>
+</resources>

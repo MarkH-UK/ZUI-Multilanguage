@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:lenovo="http://schemas.android.com/apk/res-auto">
+    <com.lenovo.xuieasysync.main.view.SyncSwithPreference android:layout="@layout/preference_label_switch" android:title="@string/search_phone" android:key="search_phone" />
+    <com.lenovo.xuieasysync.main.view.MainSyncTipPreference lenovo:type="2" lenovo:textContent="@string/main_searchphone_item_desc" />
+</PreferenceScreen>

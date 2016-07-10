@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d نہ پڑھی ہوئی میلز</item>
+        <item quantity="zero">%1$d نہ پڑھی ہوئی میل</item>
+        <item quantity="one">%1$d نہ پڑھی ہوئی میل</item>
+        <item quantity="two">%1$d نہ پڑھی ہوئی میلز</item>
+        <item quantity="few">%1$d نہ پڑھی ہوئی میلز</item>
+        <item quantity="many">%1$d نہ پڑھی ہوئی میلز</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">کیا آپ ان %1$d گفتگو کو محفوظ کرنا چاہتے ہیں؟</item>
+        <item quantity="zero">کیا آپ اس %1$d گفتگو کو محفوظ کرنا چاہتے ہیں؟</item>
+        <item quantity="one">کیا آپ اس %1$d گفتگو کو محفوظ کرنا چاہتے ہیں؟</item>
+        <item quantity="two">کیا آپ ان %1$d گفتگو کو محفوظ کرنا چاہتے ہیں؟</item>
+        <item quantity="few">کیا آپ ان %1$d گفتگو کو محفوظ کرنا چاہتے ہیں؟</item>
+        <item quantity="many">کیا آپ ان %1$d گفتگو کو محفوظ کرنا چاہتے ہیں؟</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$d کیا آپ مکالمے حذف کرنا چاہتے ہیں؟</item>
+        <item quantity="zero">%1$d کیا آپ مکالمہ حذف کرنا چاہتے ہیں؟</item>
+        <item quantity="one">%1$d کیا آپ مکالمہ حذف کرنا چاہتے ہیں؟</item>
+        <item quantity="two">%1$d کیا آپ مکالمے حذف کرنا چاہتے ہیں؟</item>
+        <item quantity="few">%1$d کیا آپ مکالمے حذف کرنا چاہتے ہیں؟</item>
+        <item quantity="many">%1$d کیا آپ مکالمے حذف کرنا چاہتے ہیں؟</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">ان مکالمات میں تفصیل غائب شدہ مکالمات بھی شامل ہیں۔ کیا آپ تفصیل غائب شدہ اندراجات کو حذف کرنے کے بارے میں پر یقین ہیں؟</item>
+        <item quantity="zero">ان مکالمات میں تفصیل غائب شدہ مکالمات بھی شامل ہیں۔ کیا آپ تفصیل غائب شدہ اندراجات کو حذف کرنے کے بارے میں پر یقین ہیں؟</item>
+        <item quantity="one">اس مکالمہ میں تفصیل غائب شدہ مکالمہ بھی شامل ہے۔ کیا آپ تفصیل غائب شدہ اندراجات کو حذف کرنے کے بارے میں پر یقین ہیں؟</item>
+        <item quantity="two">ان مکالمات میں تفصیل غائب شدہ مکالمات بھی شامل ہیں۔ کیا آپ تفصیل غائب شدہ اندراجات کو حذف کرنے کے بارے میں پر یقین ہیں؟</item>
+        <item quantity="few">ان مکالمات میں تفصیل غائب شدہ مکالمات بھی شامل ہیں۔ کیا آپ تفصیل غائب شدہ اندراجات کو حذف کرنے کے بارے میں پر یقین ہیں؟</item>
+        <item quantity="many">ان مکالمات میں تفصیل غائب شدہ مکالمات بھی شامل ہیں۔ کیا آپ تفصیل غائب شدہ اندراجات کو حذف کرنے کے بارے میں پر یقین ہیں؟</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">کیا آپ %1$d کی گفتگو میں مسودات کو مسترد کرنا چاہتے ہیں؟</item>
+        <item quantity="zero">کیا آپ %1$d کی گفتگو میں مسودات کو مسترد کرنا چاہتے ہیں؟</item>
+        <item quantity="one">کیا آپ %1$d کی گفتگو میں مسودات کو مسترد کرنا چاہتے ہیں؟</item>
+        <item quantity="two">کیا آپ %1$d کی گفتگو میں مسودات کو مسترد کرنا چاہتے ہیں؟</item>
+        <item quantity="few">کیا آپ %1$d کی گفتگو میں مسودات کو مسترد کرنا چاہتے ہیں؟</item>
+        <item quantity="many">کیا آپ %1$d کی گفتگو میں مسودات کو مسترد کرنا چاہتے ہیں؟</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d منتخب شدہ اشیاء</item>
+        <item quantity="zero">%d منتخب شدہ شے</item>
+        <item quantity="one">%d منتخب شدہ شے</item>
+        <item quantity="two">%d منتخب شدہ اشیاء</item>
+        <item quantity="few">%d منتخب شدہ اشیاء</item>
+        <item quantity="many">%d منتخب شدہ اشیاء</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> گفتگوئیں محفوظ کی گئیں۔</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> گفتگو محفوظ کی گئی۔</item>
+        <item quantity="one">" "&lt;b>%1$d&lt;/b> گفتگو محفوظ کی گئی۔</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> گفتگوئیں محفوظ کی گئیں۔</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> گفتگوئیں محفوظ کی گئیں۔</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> گفتگوئیں محفوظ کی گئیں۔</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> گفتگوئیں حذف کی گئیں۔</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> گفتگو حذف کی گئی۔</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> گفتگو حذف کی گئی۔</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> گفتگوئیں حذف کی گئیں۔</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> گفتگوئیں حذف کی گئیں۔</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> گفتگوئیں حذف کی گئیں۔</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">فولڈرز تبدیل کیے گئے</item>
+        <item quantity="zero">فولڈر تبدیل کیا گیا</item>
+        <item quantity="one">فولڈر تبدیل کیا گیا</item>
+        <item quantity="two">فولڈرز تبدیل کیے گئے</item>
+        <item quantity="few">فولڈرز تبدیل کیے گئے</item>
+        <item quantity="many">فولڈرز تبدیل کیے گئے</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> گفتگو نظر انداز شدہ۔</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> گفتگو نظر انداز شدہ۔</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> گفتگو نظر انداز شدہ۔</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> گفتگو نظر انداز شدہ۔</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> گفتگو نظر انداز شدہ۔</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> گفتگو نظر انداز شدہ۔</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> گفتگوئیں بطور غیر اہم نشان زدہ کی گئیں۔</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> گفتگو بطور غیر اہم نشان زدہ کی گئی۔</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> گفتگو بطور غیر اہم نشان زدہ کی گئی۔</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> گفتگوئیں بطور غیر اہم نشان زدہ کی گئیں۔</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> گفتگوئیں بطور غیر اہم نشان زدہ کی گئیں۔</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> گفتگوئیں بطور غیر اہم نشان زدہ کی گئیں۔</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> گفتگوئیں بطور ردی رپورٹ نہیں کی گئیں۔</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> گفتگو بطور ردی رپورٹ نہیں کی گئی۔</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> گفتگو بطور ردی رپورٹ نہیں کی گئی۔</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> گفتگوئیں بطور ردی رپورٹ نہیں کی گئیں۔</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> گفتگوئیں بطور ردی رپورٹ نہیں کی گئیں۔</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> گفتگوئیں بطور ردی رپورٹ نہیں کی گئیں۔</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> گفتگو بطور فشنگ رپورٹ کردہ۔</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> گفتگو بطور فشنگ رپورٹ کردہ.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> گفتگو بطور فشنگ رپورٹ کردہ.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> گفتگو بطور فشنگ رپورٹ کردہ۔</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> گفتگو بطور فشنگ رپورٹ کردہ۔</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> گفتگو بطور فشنگ رپورٹ کردہ۔</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> گفتگوئیں بطور سپام رپورٹ کی گئیں۔</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> گفتگو بطور سپام رپورٹ کی گئی۔</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> گفتگو بطور سپام رپورٹ کی گئی۔</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> گفتگوئیں بطور سپام رپورٹ کی گئیں۔</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> گفتگوئیں بطور سپام رپورٹ کی گئیں۔</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> گفتگوئیں بطور سپام رپورٹ کی گئیں۔</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">گفتگو %1$d سے ستارہ ہٹانا۔</item>
+        <item quantity="zero">گفتگو %1$d سے ستارہ ہٹانا۔</item>
+        <item quantity="one">گفتگو %1$d سے ستارہ ہٹانا۔</item>
+        <item quantity="two">گفتگو %1$d سے ستارہ ہٹانا۔</item>
+        <item quantity="few">گفتگو %1$d سے ستارہ ہٹانا۔</item>
+        <item quantity="many">گفتگو %1$d سے ستارہ ہٹانا۔</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">مسودات</item>
+        <item quantity="zero">مسودہ</item>
+        <item quantity="one">مسودہ</item>
+        <item quantity="two">مسودات</item>
+        <item quantity="few">مسودات</item>
+        <item quantity="many">مسودات</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d میلز مستقل طور پر حذف کر دی جائیں گی۔</item>
+        <item quantity="zero">%1$d میل مستقل طور پر حذف کر دی جائے گی۔</item>
+        <item quantity="one">%1$d میل مستقل طور پر حذف کر دی جائے گی۔</item>
+        <item quantity="two">%1$d میلز مستقل طور پر حذف کر دی جائیں گی۔</item>
+        <item quantity="few">%1$d میلز مستقل طور پر حذف کر دی جائیں گی۔</item>
+        <item quantity="many">%1$d میلز مستقل طور پر حذف کر دی جائیں گی۔</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="zero">%d B</item>
+        <item quantity="one">%d B</item>
+        <item quantity="two">%d B</item>
+        <item quantity="few">%d B</item>
+        <item quantity="many">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="zero">%d GB</item>
+        <item quantity="one">%d GB</item>
+        <item quantity="two">%d GB</item>
+        <item quantity="few">%d GB</item>
+        <item quantity="many">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="zero">%d KB</item>
+        <item quantity="one">%d KB</item>
+        <item quantity="two">%d KB</item>
+        <item quantity="few">%d KB</item>
+        <item quantity="many">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="zero">%d MB</item>
+        <item quantity="one">%d MB</item>
+        <item quantity="two">%d MB</item>
+        <item quantity="few">%d MB</item>
+        <item quantity="many">%d MB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d مکالمہ منتقل کریں</item>
+        <item quantity="zero">%1$d مکالمہ منتقل کریں</item>
+        <item quantity="one">%1$d مکالمہ منتقل کریں</item>
+        <item quantity="two">%1$d مکالمہ منتقل کریں</item>
+        <item quantity="few">%1$d مکالمہ منتقل کریں</item>
+        <item quantity="many">%1$d مکالمہ منتقل کریں</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">میلز منتقل کریں</item>
+        <item quantity="zero">میل منتقل کریں</item>
+        <item quantity="one">میل منتقل کریں</item>
+        <item quantity="two">میلز منتقل کریں</item>
+        <item quantity="few">میلز منتقل کریں</item>
+        <item quantity="many">میلز منتقل کریں</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d نئی موصولہ میلز۔ دھائیں</item>
+        <item quantity="zero">%1$d نئی موصولہ میل۔ دکھائیں</item>
+        <item quantity="one">%1$d نئی موصولہ میل۔ دکھائیں</item>
+        <item quantity="two">%1$d نئی موصولہ میلز۔ دھائیں</item>
+        <item quantity="few">%1$d نئی موصولہ میلز۔ دھائیں</item>
+        <item quantity="many">%1$d نئی موصولہ میلز۔ دھائیں</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d منتخب شدہ اشیاء</item>
+        <item quantity="zero">%d منتخب شدہ شے</item>
+        <item quantity="one">%d منتخب شدہ شے</item>
+        <item quantity="two">%d منتخب شدہ اشیاء</item>
+        <item quantity="few">%d منتخب شدہ اشیاء</item>
+        <item quantity="many">%d منتخب شدہ اشیاء</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d پڑھی ہوئی میلز</item>
+        <item quantity="zero">%1$d پڑھی ہوئی میل</item>
+        <item quantity="one">%1$d پڑھی ہوئی میل</item>
+        <item quantity="two">%1$d پڑھی ہوئی میلز</item>
+        <item quantity="few">%1$d پڑھی ہوئی میلز</item>
+        <item quantity="many">%1$d پڑھی ہوئی میلز</item>
+    </plurals>
+</resources>

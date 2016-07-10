@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Відповісти</item>
+        <item>Відповісти всім</item>
+        <item>Пересилати</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Одна лінія</item>
+        <item>Дві лінії</item>
+        <item>Три лінії</item>
+        <item>Чотири лінії</item>
+        <item>"П'ять ліній"</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Крихітний</item>
+        <item>Маленький</item>
+        <item>Нормальний</item>
+        <item>Великий</item>
+        <item>Величезний</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Недавні</item>
+        <item>Формат</item>
+        <item>"Ім'я"</item>
+        <item>Від</item>
+        <item>Дата</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Система</item>
+        <item>Швидкі повідомлення</item>
+        <item>Усі папки</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Наступна розмова</item>
+        <item>Попередня розмова</item>
+        <item>Список розмов</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Показати тільки архівні елементи</item>
+        <item>Показати тільки вилучені елементи</item>
+        <item>Показати і архівні та вилучені елементи</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Показати наступню розмову після видалення</item>
+        <item>Показати попередню розмову після видалення</item>
+        <item>Показати список розмов після видалення</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Показати тільки архівні елементи</item>
+        <item>Показати тільки вилучені елементи</item>
+        <item>Показати і архівні та вилучені елементи</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Адрес:</item>
+        <item>Тел:</item>
+        <item>"Ім'я:"</item>
+        <item>електронної пошти:</item>
+        <item>Мобільний телефон:</item>
+        <item>WeChat:</item>
+        <item>Факс:</item>
+        <item>Поштовий індекс:</item>
+        <item>Postal Code:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Дякую,</item>
+        <item>З найкращими побажаннями</item>
+        <item>Відправлено з мого</item>
+        <item>Оригінальний адрес електронної пошти</item>
+        <item>Відправлено з мого</item>
+        <item>Відправлено з</item>
+        <item>З</item>
+        <item>Цей лист</item>
+        <item>Відмова від відповідальності</item>
+        <item>Лист Відмова від відповідальності</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Синхронізація проведена</item>
+        <item>"Помилка в мережевому з'єднанні"</item>
+        <item>Не вдалося увійти</item>
+        <item>"Помилка в безпечному з'єднанні"</item>
+        <item>Не вдалося синхронізувати</item>
+        <item>Помилка сервера</item>
+    </string-array>
+</resources>

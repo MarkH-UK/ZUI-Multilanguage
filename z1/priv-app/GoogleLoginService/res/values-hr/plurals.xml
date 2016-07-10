@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Račun nije moguće upotrebljavati jer mu nedostaju aplikacije: ^1. Obratite se administratoru domene za "&lt;b>^2&lt;/b>" ili se prijavite putem nekog drugog računa. "</item>
+        <item quantity="one">" Račun nije moguće upotrebljavati jer mu nedostaju aplikacije: ^1. Obratite se administratoru domene za "&lt;b>^2&lt;/b>" ili se prijavite putem nekog drugog računa. "</item>
+        <item quantity="few">" Račun nije moguće upotrebljavati jer mu nedostaju aplikacije: ^1. Obratite se administratoru domene za "&lt;b>^2&lt;/b>" ili se prijavite putem nekog drugog računa. "</item>
+    </plurals>
+</resources>

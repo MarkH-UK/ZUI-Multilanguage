@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>inget ämne</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekund</item>
+        <item>2 sekunder</item>
+        <item>3 sekunder</item>
+        <item>4 sekunder</item>
+        <item>5 sekunder</item>
+        <item>6 sekunder</item>
+        <item>7 sekunder</item>
+        <item>8 sekunder</item>
+        <item>8 sekunder</item>
+        <item>10 sekunder</item>
+        <item>Övrigt</item>
+    </string-array>
+</resources>

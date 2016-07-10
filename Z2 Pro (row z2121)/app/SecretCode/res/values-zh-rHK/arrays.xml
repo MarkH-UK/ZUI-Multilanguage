@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appLogType">
+        <item>系統日誌</item>
+        <item>內核日誌</item>
+        <item>網路日誌</item>
+        <item>無線日誌</item>
+        <item>藍牙日誌</item>
+        <item>ramdump日誌</item>
+        <item>功耗效能</item>
+    </string-array>
+</resources>

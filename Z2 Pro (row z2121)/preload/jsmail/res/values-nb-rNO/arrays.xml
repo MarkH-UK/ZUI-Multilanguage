@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Svar</item>
+        <item>Svar til alle</item>
+        <item>Videresend</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Én linje</item>
+        <item>To linjer</item>
+        <item>Tre linjer</item>
+        <item>Fire linjer</item>
+        <item>Fem linjer</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Svært liten</item>
+        <item>Liten</item>
+        <item>Normal</item>
+        <item>Stor</item>
+        <item>Svært stor</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Nylige</item>
+        <item>Format</item>
+        <item>Navn</item>
+        <item>Fra</item>
+        <item>Dato</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Hurtigmeldinger</item>
+        <item>Alle mapper</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Neste samtale</item>
+        <item>Forrige samtale</item>
+        <item>Samtaleliste</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Vis bare arkiverte elementer</item>
+        <item>Vis bare slettede elementer</item>
+        <item>Vis både arkiverte og slettede elementer</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Vis neste samtale etter sletting</item>
+        <item>Vis forrige samtale etter sletting</item>
+        <item>Vis samtaleliste etter sletting</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Vis bare arkiverte elementer</item>
+        <item>Vis bare slettede elementer</item>
+        <item>Vis både arkiverte og slettede elementer</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresse:</item>
+        <item>Tlf:</item>
+        <item>Navn:</item>
+        <item>E-post:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Faks:</item>
+        <item>Postnummer:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Takk,</item>
+        <item>Med vennlig hilsen</item>
+        <item>Sendt fra min</item>
+        <item>Opprinnelig e-post</item>
+        <item>Sendt fra min</item>
+        <item>Sendt fra</item>
+        <item>Fra</item>
+        <item>Denne e-posten</item>
+        <item>Fraskrivelse</item>
+        <item>Fraskrivelse for e-post</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Synkronisering vellykket</item>
+        <item>Feil i nettverkstilkobling</item>
+        <item>Kan ikke logge på</item>
+        <item>Feil i sikker tilkobling</item>
+        <item>Kan ikke synkronisere</item>
+        <item>Serverfeil</item>
+    </string-array>
+</resources>

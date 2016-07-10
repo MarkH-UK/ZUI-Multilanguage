@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nv_para_choices">
+        <item>Read</item>
+        <item>Write</item>
+    </string-array>
+    <string-array name="nv_para_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="efs_para_choices">
+        <item>Read</item>
+        <item>Write</item>
+        <item>Delete</item>
+        <item>Copy</item>
+        <item>Create</item>
+    </string-array>
+    <string-array name="efs_para_values">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>აირჩიეთ უსაფრთხოების შეკითხვა</item>
+        <item>თქვენი პირველი ტელეფონის ნომერი?</item>
+        <item>ბავშვობის საუკეთესო მეგობრის სახელი?</item>
+        <item>პირველი მასწავლებლის სახელი?</item>
+        <item>პირველი სამსახურის ხელმძღვანელის სახელი?</item>
+        <item>ავტომობილის სარეგისტრაციო ნომერი?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>სუსტი</item>
+        <item>შედარებით საიმედო</item>
+        <item>კარგი</item>
+        <item>საიმედო</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>მამრობითი</item>
+        <item>მდედრობითი</item>
+        <item>სხვა</item>
+    </string-array>
+</resources>

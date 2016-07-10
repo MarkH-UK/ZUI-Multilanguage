@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d znakov prekračuje limit</item>
+        <item quantity="one">%1$d znak prekračuje limit</item>
+        <item quantity="few">%1$d znaky prekračujú limit</item>
+        <item quantity="many">%1$d znaku prekračuje limit</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">Zostáva %1$d znakov</item>
+        <item quantity="one">Zostáva %1$d znak</item>
+        <item quantity="few">Zostávajú %1$d znaky</item>
+        <item quantity="many">Zostáva %1$d znaku</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d účtov Google</item>
+        <item quantity="one">%d účet Google</item>
+        <item quantity="few">%d účty Google</item>
+        <item quantity="many">%d účtu Google</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Pomocou tohto zariadenia boli na zariadení ^1 zriadené účty Google spolu s údajmi</item>
+        <item quantity="one">Pomocou tohto zariadenia bol na zariadení ^1 zriadený váš účet Google spolu s údajmi</item>
+        <item quantity="few">Pomocou tohto zariadenia boli na zariadení ^1 zriadené účty Google spolu s údajmi</item>
+        <item quantity="many">Pomocou tohto zariadenia boli na zariadení ^1 zriadené účty Google spolu s údajmi</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d hodín</item>
+        <item quantity="one">1 hodina</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="many">%d hodiny</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d minút</item>
+        <item quantity="one">1 minúta</item>
+        <item quantity="few">%d minúty</item>
+        <item quantity="many">%d minúty</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Tieto pozvánky neboli odoslané, pretože sa vyskytla chyba</item>
+        <item quantity="one">Táto pozvánka nebola odoslaná, pretože sa vyskytla chyba</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Tieto pozvánky nie je teraz možné odoslať. Pozvánky môžete znova odoslať v ponuke Google Play > Môj účet.</item>
+        <item quantity="one">Túto pozvánku nie je teraz možné odoslať. Pozvánku môžete znova odoslať v ponuke Google Play > Môj účet.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">Zostávajúce pozvánky: %d</item>
+        <item quantity="one">Zostávajúce pozvánky: %d</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d nových správ</item>
+        <item quantity="one">1 nová správa</item>
+        <item quantity="few">%1$d nové správy</item>
+        <item quantity="many">%1$d novej správy</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">Pred vami je %1$d osôb</item>
+        <item quantity="one">Pred vami je 1 osoba</item>
+        <item quantity="few">Pred vami sú %1$d osoby</item>
+        <item quantity="many">Pred vami je %1$d osoby</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d kruhov</item>
+        <item quantity="one">1 kruh</item>
+        <item quantity="few">%d kruhy</item>
+        <item quantity="many">%d kruhu</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">1 deň</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dňa</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">1 h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">1 deň</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dňa</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">1 h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d ľudí</item>
+        <item quantity="one">1 osoba</item>
+        <item quantity="few">%d ľudia</item>
+        <item quantity="many">%d people</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Z aplikácie %1$s a %2$d ďalších aplikácií</item>
+        <item quantity="one">Z aplikácie %1$s a %2$d ďalšej aplikácie</item>
+        <item quantity="few">Z aplikácie %1$s a %2$d ďalších aplikácií</item>
+        <item quantity="many">Z aplikácie %1$s a %2$d ďalšej aplikácie</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">%d deň</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dňa</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d hodín</item>
+        <item quantity="one">%d hodina</item>
+        <item quantity="few">%d hodiny</item>
+        <item quantity="many">%d hodiny</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d minút</item>
+        <item quantity="one">%d minúta</item>
+        <item quantity="few">%d minúty</item>
+        <item quantity="many">%d minúty</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s ľudí</item>
+        <item quantity="one">%1$s osoba</item>
+        <item quantity="few">%1$s ľudia</item>
+        <item quantity="many">%1$s ľudí</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d sledovateľov</item>
+        <item quantity="one">1 sledovateľ</item>
+        <item quantity="few">%1$,d sledovatelia</item>
+        <item quantity="many">%1$,d sledovateľa</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d zobrazení</item>
+        <item quantity="one">1 zobrazenie</item>
+        <item quantity="few">%1$,d zobrazenia</item>
+        <item quantity="many">%1$,d zobrazenia</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Kopírujú sa vaše účty Google a údaje…</item>
+        <item quantity="one">Kopíruje sa váš účet Google a údaje…</item>
+        <item quantity="few">Kopírujú sa vaše účty Google a údaje…</item>
+        <item quantity="many">Kopírujú sa vaše účty Google a údaje…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Toto zariadenie bolo použité na nastavenie zariadenia ^1 s vašimi účtami Google a ich údajmi</item>
+        <item quantity="one">Toto zariadenie bolo použité na nastavenie zariadenia ^1 s vaším účtom Google a jeho údajmi</item>
+        <item quantity="few">Toto zariadenie bolo použité na nastavenie zariadenia ^1 s vašimi účtami Google a ich údajmi</item>
+        <item quantity="many">Toto zariadenie bolo použité na nastavenie zariadenia ^1 s vašimi účtami Google a ich údajmi</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Systém sa pre inštaláciu čoskoro reštartuje. Zostávajúci čas: %d s</item>
+        <item quantity="one">O jednu sekundu sa systém pre inštaláciu reštartuje…</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">Zobrazenie zoznamu s %1$d adresami</item>
+        <item quantity="one">Zobrazenie zoznamu s jednou adresou</item>
+        <item quantity="few">Zobrazenie zoznamu s %1$d adresami</item>
+        <item quantity="many">Zobrazenie zoznamu s %1$d adresy</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">Zobrazenie zoznamu s %1$d položkami</item>
+        <item quantity="one">Zobrazenie zoznamu s jednou položkou</item>
+        <item quantity="few">Zobrazenie zoznamu s %1$d položkami</item>
+        <item quantity="many">Zobrazenie zoznamu s %1$d položky</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">Zobrazenie zoznamu s %1$d spôsobmi platby</item>
+        <item quantity="one">Zobrazenie zoznamu s jedným spôsobom platby</item>
+        <item quantity="few">Zobrazenie zoznamu s %1$d spôsobmi platby</item>
+        <item quantity="many">Zobrazenie zoznamu s %1$d spôsobu platby</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">Zobrazenie zoznamu s %1$d vernostnými programami</item>
+        <item quantity="one">Zobrazenie zoznamu s jedným vernostným programom</item>
+        <item quantity="few">Zobrazenie zoznamu s %1$d vernostnými programami</item>
+        <item quantity="many">Zobrazenie zoznamu s %1$d vernostného programu</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">minút</item>
+        <item quantity="one">minúta</item>
+        <item quantity="few">minúty</item>
+        <item quantity="many">minúty</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každých %2$d dní&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="one">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každý deň&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="few">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každé %2$d dni&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="many">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každého %2$d dňa&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d dní každých %2$d dní&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="one">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d dní každý deň&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="few">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d dní každé %2$d dni&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="many">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d dní každého %2$d dňa&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každých %2$d dní&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="one">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každý deň&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="few">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každé %2$d dni&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="many">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každého %2$d dňa&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d dní každých %2$d dní&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="one">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d dní každý deň &amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="few">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d dní každé %2$d dni&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="many">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d dní každého %2$d dňa&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každých %2$d mesiacov&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="one">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každý mesiac&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="few">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každé %2$d mesiace&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="many">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každého %2$d mesiaca&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d mesiacov každých %2$d mesiacov&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="one">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d mesiacov každý mesiac &amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="few">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d mesiacov každé %2$d mesiace&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="many">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d mesiacov každého %2$d mesiaca&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každých %2$d mesiacov&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="one">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každý mesiac&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="few">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každé %2$d mesiace&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="many">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každého %2$d mesiaca&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d mesiacov každých %2$d mesiacov&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="one">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d mesiacov každý mesiac &amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="few">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d mesiacov každé %2$d mesiace&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="many">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d mesiacov každého %2$d mesiaca&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každých %2$d rokov&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="one">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každý rok&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="few">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každé %2$d roky&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="many">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každého %2$d roka&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d rokov každých %2$d rokov&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="one">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d rokov každý rok &amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="few">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d rokov každé %2$d roky&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+        <item quantity="many">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d rokov každého %2$d roka&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každých %2$d rokov&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="one">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každý rok&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="few">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každé %2$d roky&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="many">Kým odber nezrušíte, počnúc dňom &amp;lt;start_time>%3$s sa vám každého %2$d roka&amp;lt;/start_time> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d rokov každých %2$d rokov&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="one">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d rokov každý rok &amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="few">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d rokov každé %2$d roky&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+        <item quantity="many">Počnúc dňom &amp;lt;start_time>%4$s&amp;lt;/start_time> sa vám po dobu &amp;lt;duration>%3$d rokov každého %2$d roka&amp;lt;/duration> automaticky naúčtuje suma &amp;lt;price>%1$s&amp;lt;/price> a príslušná daň.</item>
+    </plurals>
+</resources>

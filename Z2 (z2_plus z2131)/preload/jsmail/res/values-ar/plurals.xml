@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d رسائل بريد غير مقروءة</item>
+        <item quantity="zero">%1$d بريد غير مقروء</item>
+        <item quantity="one">%1$d بريد غير مقروء</item>
+        <item quantity="two">%1$d رسائل بريد غير مقروءة</item>
+        <item quantity="few">%1$d رسائل بريد غير مقروءة</item>
+        <item quantity="many">%1$d رسائل بريد غير مقروءة</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">هل ترغب في أرشفة المحادثات %1$d?</item>
+        <item quantity="zero">هل ترغب في أرشفة المحادثة %1$d?</item>
+        <item quantity="one">هل ترغب في أرشفة المحادثة %1$d?</item>
+        <item quantity="two">هل ترغب في أرشفة المحادثات %1$d?</item>
+        <item quantity="few">هل ترغب في أرشفة المحادثات %1$d?</item>
+        <item quantity="many">هل ترغب في أرشفة المحادثات %1$d?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">هل ترغب في حذف المحادثات %1$d?</item>
+        <item quantity="zero">هل ترغب في حذف المحادثة %1$d?</item>
+        <item quantity="one">هل ترغب في حذف المحادثة %1$d?</item>
+        <item quantity="two">هل ترغب في حذف المحادثات %1$d?</item>
+        <item quantity="few">هل ترغب في حذف المحادثات %1$d?</item>
+        <item quantity="many">هل ترغب في حذف المحادثات %1$d?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">تتضمن هذه المحادثات محادثات مطوية. هل أنت متأكد من أنك ترغب في حذف المدخلات المطوية؟</item>
+        <item quantity="zero">تتضمن هذه المحادثات محادثات مطوية. هل أنت متأكد من أنك ترغب في حذف المدخلات المطوية؟</item>
+        <item quantity="one">تتضمن هذه المحادثة محادثات مطوية. هل أنت متأكد من أنك ترغب في حذف المدخلات المطوية؟</item>
+        <item quantity="two">تتضمن هذه المحادثات محادثات مطوية. هل أنت متأكد من أنك ترغب في حذف المدخلات المطوية؟</item>
+        <item quantity="few">تتضمن هذه المحادثات محادثات مطوية. هل أنت متأكد من أنك ترغب في حذف المدخلات المطوية؟</item>
+        <item quantity="many">تتضمن هذه المحادثات محادثات مطوية. هل أنت متأكد من أنك ترغب في حذف المدخلات المطوية؟</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">هل ترغب في تجاهل المسودات الموجودة في المحادثات %1$d?</item>
+        <item quantity="zero">هل ترغب في تجاهل المسودات الموجودة في المحادثة %1$d?</item>
+        <item quantity="one">هل ترغب في تجاهل المسودات الموجودة في المحادثة %1$d?</item>
+        <item quantity="two">هل ترغب في تجاهل المسودات الموجودة في المحادثات %1$d?</item>
+        <item quantity="few">هل ترغب في تجاهل المسودات الموجودة في المحادثات %1$d?</item>
+        <item quantity="many">هل ترغب في تجاهل المسودات الموجودة في المحادثات %1$d?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d العناصر المحددة</item>
+        <item quantity="zero">%d العنصر المحدد</item>
+        <item quantity="one">%d العنصر المحدد</item>
+        <item quantity="two">%d العناصر المحددة</item>
+        <item quantity="few">%d العناصر المحددة</item>
+        <item quantity="many">%d العناصر المحددة</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> تمت أرشفة المحادثات.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> تمت أرشفة المحادثة.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> تمت أرشفة المحادثة.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> تمت أرشفة المحادثات.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> تمت أرشفة المحادثات.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> تمت أرشفة المحادثات.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> تم حذف المحادثات.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> تم حذف المحادثة.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> تم حذف المحادثة.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> تم حذف المحادثات.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> تم حذف المحادثات.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> تم حذف المحادثات.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">تم تغيير المجلدات</item>
+        <item quantity="zero">تم تغيير المجلد</item>
+        <item quantity="one">تم تغيير المجلد</item>
+        <item quantity="two">تم تغيير المجلدات</item>
+        <item quantity="few">تم تغيير المجلدات</item>
+        <item quantity="many">تم تغيير المجلدات</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> تم تجاهل المحادثات.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> تم تجاهل المحادثة.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> تم تجاهل المحادثة.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> تم تجاهل المحادثات.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> تم تجاهل المحادثات.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> تم تجاهل المحادثات.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> تم تمييز المحادثات باعتبارها غير هامة.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> تم تمييز المحادثة باعتبارها غير هامة.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> تم تمييز المحادثة باعتبارها غير هامة.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> تم تمييز المحادثات باعتبارها غير هامة.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> تم تمييز المحادثات باعتبارها غير هامة.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> تم تمييز المحادثات باعتبارها غير هامة.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات باعتبارها لا تنتمي إلى بريد إلكتروني غير هام.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثة باعتبارها لا تنتمي إلى بريد إلكتروني غير هام.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثة باعتبارها لا تنتمي إلى بريد إلكتروني غير هام.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات باعتبارها لا تنتمي إلى بريد إلكتروني غير هام.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات باعتبارها لا تنتمي إلى بريد إلكتروني غير هام.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات باعتبارها لا تنتمي إلى بريد إلكتروني غير هام.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات كتصيد احتيالي.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثة كتصيد احتيالي.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثة كتصيد احتيالي.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات كتصيد احتيالي.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات كتصيد احتيالي.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات كتصيد احتيالي.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات كبريد إلكتروني غير هام.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثة كبريد إلكتروني غير هام.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثة كبريد إلكتروني غير هام.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات كبريد إلكتروني غير هام.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات كبريد إلكتروني غير هام.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> تم الإبلاغ عن المحادثات كبريد إلكتروني غير هام.</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">إزالة نجمة المحادثات %1$d.</item>
+        <item quantity="zero">إزالة نجمة المحادثة %1$d.</item>
+        <item quantity="one">إزالة نجمة المحادثة %1$d.</item>
+        <item quantity="two">إزالة نجمة المحادثات %1$d.</item>
+        <item quantity="few">إزالة نجمة المحادثات %1$d.</item>
+        <item quantity="many">إزالة نجمة المحادثات %1$d.</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">المسودات</item>
+        <item quantity="zero">مسودة</item>
+        <item quantity="one">مسودة</item>
+        <item quantity="two">المسودات</item>
+        <item quantity="few">المسودات</item>
+        <item quantity="many">المسودات</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d سيتم حذف رسائل البريد بشكل دائم.</item>
+        <item quantity="zero">%1$d سيتم حذف البريد بشكل دائم.</item>
+        <item quantity="one">%1$d سيتم حذف البريد بشكل دائم.</item>
+        <item quantity="two">%1$d سيتم حذف رسائل البريد بشكل دائم.</item>
+        <item quantity="few">%1$d سيتم حذف رسائل البريد بشكل دائم.</item>
+        <item quantity="many">%1$d سيتم حذف رسائل البريد بشكل دائم.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d بايت</item>
+        <item quantity="zero">%d بايت</item>
+        <item quantity="one">%d بايت</item>
+        <item quantity="two">%d بايت</item>
+        <item quantity="few">%d بايت</item>
+        <item quantity="many">%d بايت</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d جيجابايت</item>
+        <item quantity="zero">%d جيجابايت</item>
+        <item quantity="one">%d جيجابايت</item>
+        <item quantity="two">%d جيجابايت</item>
+        <item quantity="few">%d جيجابايت</item>
+        <item quantity="many">%d جيجابايت</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d كيلوبايت</item>
+        <item quantity="zero">%d كيلوبايت</item>
+        <item quantity="one">%d كيلوبايت</item>
+        <item quantity="two">%d كيلوبايت</item>
+        <item quantity="few">%d كيلوبايت</item>
+        <item quantity="many">%d كيلوبايت</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d ميجابايت</item>
+        <item quantity="zero">%d ميجابايت</item>
+        <item quantity="one">%d ميجابايت</item>
+        <item quantity="two">%d ميجابايت</item>
+        <item quantity="few">%d ميجابايت</item>
+        <item quantity="many">%d ميجابايت</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">نقل المحادثات %1$d</item>
+        <item quantity="zero">نقل المحادثة %1$d</item>
+        <item quantity="one">نقل المحادثة %1$d</item>
+        <item quantity="two">نقل المحادثات %1$d</item>
+        <item quantity="few">نقل المحادثات %1$d</item>
+        <item quantity="many">نقل المحادثات %1$d</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">نقل رسائل البريد</item>
+        <item quantity="zero">نقل البريد</item>
+        <item quantity="one">نقل البريد</item>
+        <item quantity="two">نقل رسائل البريد</item>
+        <item quantity="few">نقل رسائل البريد</item>
+        <item quantity="many">نقل رسائل البريد</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d رسائل البريد الواردة الجديدة. العرض</item>
+        <item quantity="zero">%1$d بريد وارد جديد. العرض</item>
+        <item quantity="one">%1$d بريد وارد جديد. العرض</item>
+        <item quantity="two">%1$d رسائل البريد الواردة الجديدة. العرض</item>
+        <item quantity="few">%1$d رسائل البريد الواردة الجديدة. العرض</item>
+        <item quantity="many">%1$d رسائل البريد الواردة الجديدة. العرض</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d العناصر المحددة</item>
+        <item quantity="zero">%d العنصر المحدد</item>
+        <item quantity="one">%d العنصر المحدد</item>
+        <item quantity="two">%d العناصر المحددة</item>
+        <item quantity="few">%d العناصر المحددة</item>
+        <item quantity="many">%d العناصر المحددة</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d رسائل بريد مقروءة</item>
+        <item quantity="zero">%1$d بريد مقروء</item>
+        <item quantity="one">%1$d بريد مقروء</item>
+        <item quantity="two">%1$d رسائل بريد مقروءة</item>
+        <item quantity="few">%1$d رسائل بريد مقروءة</item>
+        <item quantity="many">%1$d رسائل بريد مقروءة</item>
+    </plurals>
+</resources>

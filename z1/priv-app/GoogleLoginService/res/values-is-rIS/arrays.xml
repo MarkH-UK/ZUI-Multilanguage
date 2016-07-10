@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Veldu öryggisspurningu</item>
+        <item>Hvert var fyrsta símanúmerið þitt?</item>
+        <item>Hvað hét besti vinur þinn í æsku?</item>
+        <item>Hvað hét fyrsti kennarinn þinn?</item>
+        <item>Hvað hét yfirmaðurinn á fyrsta vinnustaðnum?</item>
+        <item>Hvert var skráningarnúmer fyrsta bílsins þíns?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>lélegt</item>
+        <item>sæmilegt</item>
+        <item>gott</item>
+        <item>mjög gott</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Karl</item>
+        <item>Kona</item>
+        <item>Annað</item>
+    </string-array>
+</resources>

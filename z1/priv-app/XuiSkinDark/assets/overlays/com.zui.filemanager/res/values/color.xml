@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="main_page_title_text_color">#5c5c5c</color>
+    <!--导航栏背景色-->
+    <color name="notification_bg_color">#ff131419</color>
+    <!--背景色-->
+    <color name="main_bg">#070707</color>
+    <color name="line_color">#eaeaea</color>
+    <color name="entry_item_bg">#fafafa</color>
+	<color name="selections_listview_bg">#00fafafa</color>
+    <color name="entry_item_bg_pressed">#efefef</color>
+    <color name="unavailable_text">#ffcccccc</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#000000</color>
+    <color name="floating_toolbar_bg">#ff131419</color>
+    <color name="floating_toolbar_line">#1b1e24</color>
+    <color name="font_button">#ff808080</color>
+    <color name="font_button_pressed">#ff333333</color>
+    <!--ListView进入编辑模式标题文字颜色-->
+    <color name="font_title">#8c8c8c</color>
+    <color name="font_list_title">#5c5c5c</color>
+    <color name="font_storage_name">#8c8c8c</color>
+    <color name="font_list_secondary">#5c5c5c</color>
+    <color name="font_highlight_red">#ffe04e0e</color>
+    <color name="thumb_checked_cover">#66000000</color>
+    <color name="font_install">#006798</color>
+    <color name="font_pic_folder_name">#8c8c8c</color>
+    <color name="font_modified_time">#5c5c5c</color>
+    <color name="font_dir_is_empty">#5c5c5c</color>
+    <color name="font_storage_available">#8c8c8c</color>
+    <color name="font_storage_available_other">#8c8c8c</color>
+    <color name="query_text_edit_color">#8c8c8c</color>
+    <color name="apk_installed_blue">#006798</color>
+    <color name="apk_installed_grey">#5c5c5c</color>
+    <color name="font_list_title_installation_package">#8c8c8c</color>
+    <color name="font_storage_name_installation_package">#006798</color>
+    <color name="pasteBar_text_color">#8c8c8c</color>
+    <color name="pasteBar_vertical_line_color">#212227</color>
+    
+    <!--ListView进入编辑模式左右文字按钮颜色-->
+    <color name="button_bg_normal_color">#131419</color>
+    <color name="button_bg_pressed_ccolor">#0dffffff</color>
+    
+    <color name="search_no_result_color">#ff8c8c8c</color>
+    
+    <!-- 自定义ActionBar左右按钮文字颜色-->
+    <color name="actionmode_bt_pressed_f">#ff006798</color>
+    <color name="actionmode_bt_pressed_t">#66006798</color>
+    <color name="actionmode_bt_enabled">#66666666</color>
+    
+    <!--搜索栏取消文字颜色-->
+    <color name="clickable_t_pressed_f">#ff8c8c8c</color>
+    <color name="clickable_t_pressed_t">#668c8c8c</color>
+    
+    <color name="link_t_pressed_f">#ff006798</color>
+    <color name="link_t_pressed_t">#66006798</color>
+    
+    <color name="navbar_t_pressed_t">#665c5c5c</color>
+    <color name="navbar_t_focused_t">#665c5c5c</color>
+    <color name="navbar_t_enabled_f">#5c5c5c</color>
+    <color name="navbar_t_default">#5c5c5c</color>
+    
+    <color name="toolbar_t_pressed_f">#ff8c8c8c</color>
+    <color name="toolbar_t_pressed_t">#998c8c8c</color>
+    
+</resources>

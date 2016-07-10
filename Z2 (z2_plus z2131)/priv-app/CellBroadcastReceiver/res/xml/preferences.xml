@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/emergency_alert_settings_title" android:key="category_alert_settings">
+        <CheckBoxPreference android:title="@string/enable_cmas_extreme_threat_alerts_title" android:key="enable_cmas_extreme_threat_alerts" android:summary="@string/enable_cmas_extreme_threat_alerts_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/enable_cmas_severe_threat_alerts_title" android:key="enable_cmas_severe_threat_alerts" android:summary="@string/enable_cmas_severe_threat_alerts_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/enable_cmas_amber_alerts_title" android:key="enable_cmas_amber_alerts" android:summary="@string/enable_cmas_amber_alerts_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/enable_emergency_alerts_title" android:key="enable_emergency_alerts" android:summary="@string/enable_emergency_alerts_summary" android:defaultValue="true" />
+        <ListPreference android:entries="@array/alert_sound_duration_entries" android:title="@string/alert_sound_duration_title" android:key="alert_sound_duration" android:defaultValue="4" android:dialogTitle="@string/alert_sound_duration_title" android:entryValues="@array/alert_sound_duration_values" />
+        <ListPreference android:entries="@array/alert_reminder_interval_entries" android:title="@string/alert_reminder_interval_title" android:key="alert_reminder_interval" android:defaultValue="0" android:dialogTitle="@string/alert_reminder_interval_title" android:entryValues="@array/alert_reminder_interval_values" />
+        <CheckBoxPreference android:title="@string/enable_alert_vibrate_title" android:key="enable_alert_vibrate" android:summary="@string/enable_alert_vibrate_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/enable_alert_speech_title" android:key="enable_alert_speech" android:summary="@string/enable_alert_speech_summary" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/category_etws_settings_title" android:key="category_etws_settings">
+        <CheckBoxPreference android:title="@string/enable_etws_test_alerts_title" android:key="enable_etws_test_alerts" android:summary="@string/enable_etws_test_alerts_summary" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/category_brazil_settings_title" android:key="category_brazil_settings">
+        <CheckBoxPreference android:title="@string/enable_channel_50_alerts_title" android:key="enable_channel_50_alerts" android:summary="@string/enable_channel_50_alerts_summary" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/category_india_settings_title" android:key="category_india_settings">
+        <CheckBoxPreference android:title="@string/enable_channel_60_alerts_title" android:key="enable_channel_60_alerts" android:summary="@string/enable_channel_60_alerts_summary" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/category_dev_settings_title" android:key="category_dev_settings">
+        <CheckBoxPreference android:title="@string/enable_cmas_test_alerts_title" android:key="enable_cmas_test_alerts" android:summary="@string/enable_cmas_test_alerts_summary" android:defaultValue="false" />
+        <CheckBoxPreference android:title="@string/show_cmas_opt_out_title" android:key="show_cmas_opt_out_dialog" android:summary="@string/show_cmas_opt_out_summary" android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

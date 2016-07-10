@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Ezt a fiókot nem lehet használni, mert hiányoznak belőle a következő alkalmazások: ^1. Vegye fel a kapcsolatot a(z) "&lt;b>^2&lt;/b>" domain rendszergazdájával, vagy jelentkezzen be egy másik fiókkal. "</item>
+        <item quantity="one">" Ezt a fiókot nem lehet használni, mert hiányzik belőle a következő alkalmazás: ^1. Vegye fel a kapcsolatot a(z) "&lt;b>^2&lt;/b>" domain rendszergazdájával, vagy jelentkezzen be egy másik fiókkal. "</item>
+    </plurals>
+</resources>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">મર્યાદાથી વધુ %1$d અક્ષર</item>
+        <item quantity="one">મર્યાદાથી વધુ %1$d અક્ષર</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d અક્ષર બાકી</item>
+        <item quantity="one">%1$d અક્ષર બાકી</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google એકાઉન્ટ્સ</item>
+        <item quantity="one">%d Google એકાઉન્ટ્સ</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">આ ઉપકરણનો ઉપયોગ ^1 ને તમારા Google એકાઉન્ટ અને તેમના ડેટા સાથે સેટ કરવા માટે થયો હતો</item>
+        <item quantity="one">આ ઉપકરણનો ઉપયોગ ^1 ને તમારા Google એકાઉન્ટ અને તેમના ડેટા સાથે સેટ કરવા માટે થયો હતો</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d કલાક</item>
+        <item quantity="one">%d કલાક</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d મિનિટ</item>
+        <item quantity="one">%d મિનિટ</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">ભૂલને કારણે આ આમંત્રણો મોકલવામાં આવ્યાં ન હતાં</item>
+        <item quantity="one">ભૂલને કારણે આ આમંત્રણ મોકલવામાં આવ્યું ન હતું</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">અત્યારે આ આમંત્રણો મોકલી શકાતાં નથી. તમે તેમને Google Play > મારું એકાઉન્ટમાંથી ફરીથી મોકલી શકો છો.</item>
+        <item quantity="one">અત્યારે આ આમંત્રણ મોકલી શકાતું નથી. તમે તેને Google Play > મારું એકાઉન્ટમાંથી ફરીથી મોકલી શકો છો.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d આમંત્રણ બાકી</item>
+        <item quantity="one">%d આમંત્રણ બાકી</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d નવા સંદેશા</item>
+        <item quantity="one">%1$d નવા સંદેશા</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d લોકો તમારી આગળ છે</item>
+        <item quantity="one">%1$d લોકો તમારી આગળ છે</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d વર્તુળ</item>
+        <item quantity="one">%d વર્તુળ</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d દિવસ</item>
+        <item quantity="one">%d દિવસ</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d કલાક</item>
+        <item quantity="one">%d કલાક</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d મિનિટ</item>
+        <item quantity="one">%d મિનિટ</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d દિવસ</item>
+        <item quantity="one">%d દિવસ</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d કલાક</item>
+        <item quantity="one">%d કલાક</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d મિનિટ</item>
+        <item quantity="one">%d મિનિટ</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d લોકો</item>
+        <item quantity="one">%d લોકો</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s અને %2$d અન્ય એપ્લિકેશનો દ્વારા</item>
+        <item quantity="one">%1$s અને %2$d અન્ય એપ્લિકેશનો દ્વારા</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d દિવસ</item>
+        <item quantity="one">%d દિવસ</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d કલાક</item>
+        <item quantity="one">%d કલાક</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d મિનિટ</item>
+        <item quantity="one">%d મિનિટ</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s લોકો</item>
+        <item quantity="one">%1$s લોકો</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d અનુયાયીઓ</item>
+        <item quantity="one">%1$,d અનુયાયીઓ</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d દૃશ્યો</item>
+        <item quantity="one">%1$,d દૃશ્યો</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">તમારા Google એકાઉન્ટ્સ અને ડેટા કૉપિ કરી રહ્યું છે…</item>
+        <item quantity="one">તમારા Google એકાઉન્ટ્સ અને ડેટા કૉપિ કરી રહ્યું છે…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">આ ઉપકરણનો ઉપયોગ તમારા Google એકાઉન્ટ્સ અને ડેટા સાથે એક ^1 સેટ કરવા માટે થયો હતો</item>
+        <item quantity="one">આ ઉપકરણનો ઉપયોગ તમારા Google એકાઉન્ટ્સ અને ડેટા સાથે એક ^1 સેટ કરવા માટે થયો હતો</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="notification_bg_color">#131419</color>
+    <color name="transfer_page_color">#0b0c0f</color>
+    <color name="transfer_page_divider_color">#1b1e24</color>
+    <color name="transfer_page_cacheColorHint">#00000000</color>
+    <color name="transfer_title">#8c8c8c</color>
+    <color name="targetdevice">#454545</color>
+    <color name="complete_text">#454545</color>
+    <color name="complete_date">#454545</color>
+    <color name="actionBartitle">#1499f7</color>
+    <color name="secondary_text">#454545</color>
+    <color name="primary_text">#8c8c8c</color>
+    <color name="no_transfer_textColor">#5c5c5c</color>
+    <color name="status_bar_icon_color">#ffffff</color>
+    <color name="list_item_nopressed">#070707</color>
+    <color name="list_item_pressed">#0d0d0d</color>
+</resources>

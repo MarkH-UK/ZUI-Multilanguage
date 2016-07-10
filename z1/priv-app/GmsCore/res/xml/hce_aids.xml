@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<host-apdu-service android:description="@string/tp_payments_application_name" android:requireDeviceUnlock="false" android:apduServiceBanner="@drawable/tp_android_pay_hce_banner_color_260x96dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <aid-group android:category="payment">
+        <aid-filter android:name="325041592E5359532E4444463031" />
+        <aid-filter android:name="A0000000041010" />
+        <aid-filter android:name="A0000000042203" />
+        <aid-filter android:name="A0000000031010" />
+        <aid-filter android:name="A0000000980840" />
+        <aid-filter android:name="A0000000032010" />
+        <aid-filter android:name="A0000000032020" />
+        <aid-filter android:name="A0000003241010" />
+        <aid-filter android:name="A00000002501" />
+        <aid-filter android:name="A000000025011001" />
+        <aid-filter android:name="A000000025010801" />
+        <aid-filter android:name="A000000025" />
+        <aid-filter android:name="A0000000250000" />
+    </aid-group>
+</host-apdu-service>

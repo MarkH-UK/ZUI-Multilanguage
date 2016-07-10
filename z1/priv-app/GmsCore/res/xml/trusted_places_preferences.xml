@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:id="@id/auth_trusted_places_preference_screen" android:title="@string/auth_trust_agent_pref_trusted_places_title" android:key="auth_trust_agent_pref_trusted_places_preference_screen_key"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <com.google.android.gms.auth.trustagent.TrustedPlacesHomePreference android:enabled="true" android:id="@id/auth_trusted_home_preference" android:title="@string/auth_trust_agent_pref_trusted_places_home_title" android:key="auth_trust_agent_pref_trusted_places_home_key" android:summary="@string/auth_trust_agent_pref_trusted_places_home_work_default_summary" android:order="0" custom:addressEnabled="true" />
+    <Preference android:icon="@drawable/auth_btn_add_trusted" android:enabled="false" android:title="@string/auth_trust_agent_pref_trusted_places_add_trusted_place_title" android:key="auth_trust_agent_pref_trusted_places_add_trusted_place_key" android:order="0xff" />
+</PreferenceScreen>

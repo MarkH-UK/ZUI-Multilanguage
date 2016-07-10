@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFiCheck</string>
+    <string name="wifiwarning_notify">WIFI安全警告</string>
+    <string name="wifiwarning_content_dns">當前WiFi\"%1$s\"的DNS服務被惡意篡改，可能導致隱私信息泄露、賬號密碼被竊取，造成財產損失，建議斷開連接。</string>
+    <string name="wifiwarning_content_fishing">當前WiFi\"%1$s\"是虛假釣魚WiFi，可能導致隱私信息泄露、賬號密碼被竊取，造成財產損失，建議斷開連接。</string>
+    <string name="wifiwarning_content_arp">當前WiFi\"%1$s\"遭到ARP欺騙攻擊，可能導致隱私信息泄露、賬號密碼被竊取，造成財產損失，建議斷開連接。</string>
+    <string name="wifiwarning_btn_goonuse">繼續使用</string>
+    <string name="wifiwarning_btn_closenet">删除網絡</string>
+</resources>

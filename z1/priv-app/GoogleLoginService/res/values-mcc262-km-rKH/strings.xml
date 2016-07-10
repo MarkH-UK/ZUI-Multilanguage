@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_already_has_gmail">គណនី​មាន​អ៊ីមែល Google រួចហើយ</string>
+    <string name="doesnt_use_gmail">មិន​ប្រើ​សំបុត្រ​របស់ Google</string>
+</resources>

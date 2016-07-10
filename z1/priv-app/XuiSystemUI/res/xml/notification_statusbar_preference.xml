@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="pref_senior_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/notification_setting_category" android:key="notification_setting" />
+    <Preference android:title="@string/notification_manange_title" android:key="notification_manager" android:widgetLayout="@layout/sec_pref_widget_more">
+        <intent android:targetPackage="com.android.systemui" android:action="android.intent.action.MAIN" android:targetClass="com.android.systemui.notification.setting.AppNotificationListActivity" />
+    </Preference>
+    <SwitchPreference android:title="@string/enable_dragdown_when_lockscreen_title" android:key="enable_dragdown_when_lockscreen" android:defaultValue="true" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
+    <SwitchPreference android:title="@string/show_notification_icon_title" android:key="show_notification_icon" android:defaultValue="true" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
+    <SwitchPreference android:title="@string/show_power_percent_title" android:key="show_power_percent" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
+</PreferenceScreen>

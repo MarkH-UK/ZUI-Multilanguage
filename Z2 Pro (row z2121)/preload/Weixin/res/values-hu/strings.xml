@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Google Play-szolgáltatások – hiba</string>
+    <string name="z">Egy alkalmazás Google Play-szolgáltatások frissítését kéri.</string>
+    <string name="a0">A(z) %1$s alkalmazás az Android Wear alkalmazás frissítését igényli.</string>
+    <string name="a1">Egy alkalmazás Google Play-szolgáltatások engedélyezését kéri.</string>
+    <string name="a2">A(z) %1$s kérésére</string>
+    <string name="a3">Play-szolgáltatások telepítése</string>
+    <string name="a4">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a telefonjáról.</string>
+    <string name="a5">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a táblagépéről.</string>
+    <string name="a6">Play-szolgáltatások telepítése</string>
+    <string name="a7">Google Play-szolgáltatások aktiválása</string>
+    <string name="a8">A(z) %1$s alkalmazás csak akkor működik, ha Ön engedélyezi a Google Play-szolgáltatásokat.</string>
+    <string name="a9">Play-szolgáltatások aktiválása</string>
+    <string name="a_">Play-szolgáltatások frissítése</string>
+    <string name="aa">Az Android Wear frissítése</string>
+    <string name="ab">A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
+    <string name="ac">A(z) %1$s alkalmazás csak az Android Wear alkalmazás frissítését követően fog működni.</string>
+    <string name="ad">A Google Play-szolgáltatások frissülnek</string>
+    <string name="ae">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek éppen frissülnek.</string>
+    <string name="af">Hálózati hiba</string>
+    <string name="ag">A Google Play-szolgáltatásokhoz történő kapcsolódáshoz adatkapcsolat szükséges.</string>
+    <string name="ah">Érvénytelen fiók</string>
+    <string name="ai">A megadott fiók nem létezik ezen az eszközön. Kérjük, válasszon másik fiókot.</string>
+    <string name="aj">Ismeretlen hiba a Google Play-szolgáltatásokban.</string>
+    <string name="ak">Google Play-szolgáltatások</string>
+    <string name="al">A(z) %1$s használatához olyan Google Play-szolgáltatásokra lesz szüksége, amelyeket eszköze nem támogat. Ha segítségre van szüksége, lépjen kapcsolatba a gyártóval.</string>
+    <string name="am">Frissítés</string>
+    <string name="an">Belépés</string>
+    <string name="ao">Google-bejelentkezés</string>
+    <string name="ap">Megnyitás a telefonon</string>
+    <string name="aq">A(z) %1$s alkalmazásnak szüksége van egy vagy több, jelenleg nem elérhető Google Play-szolgáltatásra. További segítségért vegye fel a kapcsolatot a fejlesztővel.</string>
+    <string name="ar">Sikertelen bejelentkezés</string>
+    <string name="as">Hiba a megadott fiókba való bejelentkezéskor. Kérjük, válasszon egy másik fiókot.</string>
+</resources>

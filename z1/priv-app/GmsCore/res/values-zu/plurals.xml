@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d izinhlamvu ezingaphezulu komkhawulo</item>
+        <item quantity="one">%1$d izinhlamvu ezingaphezulu komkhawulo</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d izinhlamvu ezisele</item>
+        <item quantity="one">%1$d izinhlamvu ezisele</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d I-akhawunti ye-Google</item>
+        <item quantity="one">%d I-akhawunti ye-Google</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Le divayisi yasetshenziselwa ukusetha i-^1 ngama-akhawunti wakho we-Google nedatha yakhona</item>
+        <item quantity="one">Le divayisi yasetshenziselwa ukusetha i-^1 ngama-akhawunti wakho we-Google nedatha yakhona</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d amahora</item>
+        <item quantity="one">%d amahora</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d amaminithi</item>
+        <item quantity="one">%d amaminithi</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Lezi zimemo azithunyelwanga ngenxa yephutha</item>
+        <item quantity="one">Lesi simemo asithunyelwanga ngenxa yephutha</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Lezi zimemo azikwazi ukuthunyelwa njengamanje. Ungakwazi ukuzithumela futhi ukusuka ku-Google Play > I-akhawunti yami.</item>
+        <item quantity="one">Lesi simemo asikwazi ukuthunyelwa njengamanje. Ungakwazi ukusithumela futhi ukusuka ku-Google Play > I-akhawunti yami.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d izimemo ezisele</item>
+        <item quantity="one">%d isimemo esisele</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d imilayezo emisha</item>
+        <item quantity="one">%1$d imilayezo emisha</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d abantu abaphambi kwakho</item>
+        <item quantity="one">%1$d abantu abaphambi kwakho</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d imibuthano</item>
+        <item quantity="one">%d imibuthano</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d izinsuku</item>
+        <item quantity="one">%d izinsuku</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d ihora</item>
+        <item quantity="one">%d ihora</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d iminithi</item>
+        <item quantity="one">%d iminithi</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d izinsuku</item>
+        <item quantity="one">%d izinsuku</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d ihora</item>
+        <item quantity="one">%d ihora</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d iminithi</item>
+        <item quantity="one">%d iminithi</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d abantu</item>
+        <item quantity="one">%d abantu</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Ngo-%1$s nezingi izinhlelo zokusebenza ezingu-%2$d</item>
+        <item quantity="one">Ngo-%1$s nezinye izinhlelo zokusebenza ezingu-%2$d</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d izinsuku</item>
+        <item quantity="one">%d izinsuku</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d amahora</item>
+        <item quantity="one">%d amahora</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d amaminithi</item>
+        <item quantity="one">%d amaminithi</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s abantu</item>
+        <item quantity="one">%1$s abantu</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">Abalandeli abangu-%1$,d</item>
+        <item quantity="one">Abalandeli abangu-%1$,d</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">Ukubukwa okungu-%1$,d</item>
+        <item quantity="one">Ukubukwa okungu-%1$,d</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Ikopisha ama-Akhawunti wakho we-Google nedatha…</item>
+        <item quantity="one">Ikopisha ama-Akhawunti wakho we-Google nedatha…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Le divayisi isetshenziselwe ukusetha i-^1 nama-Akhawunti wakho we-Google nedatha</item>
+        <item quantity="one">Le divayisi isetshenziselwe ukusetha i-^1 nama-Akhawunti wakho we-Google nedatha</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Iqalisa phansi ukufaka emasekhondini angu-%d...</item>
+        <item quantity="one">Iqalisa phansi ukufaka esekhendini eyi-1...</item>
+    </plurals>
+</resources>

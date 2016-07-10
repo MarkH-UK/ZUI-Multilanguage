@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="AppTheme.NoTitle" parent="@style/AppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="MonthView_DayLabel">
+        <item name="android:textAppearance">@style/TextAppearance.MonthView_DayLabel</item>
+        <item name="android:gravity">right</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingBottom">2.0dip</item>
+        <item name="android:layout_width">29.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="TextAppearance.MonthView_DayLabel" parent="@style/TextAppearance">
+        <item name="android:textSize">@dimen/day_label_text_size</item>
+        <item name="android:textColor">@color/month_workday</item>
+    </style>
+    <style name="TextAppearance.YearMonthView_DayLabel" parent="@style/TextAppearance">
+        <item name="android:textSize">@dimen/year_label_text_size</item>
+        <item name="android:textColor">@color/month_day_number_color</item>
+    </style>
+    <style name="TextAppearance" parent="@android:style/TextAppearance" />
+    <style name="EditEventCustomActionButtonTitle">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:actionMenuTextColor</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="NotificationPrimaryText" parent="@android:style/TextAppearance.StatusBar.EventContent.Title" />
+    <style name="NotificationSecondaryText" parent="@android:style/TextAppearance.Holo">
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="SettingCheckBoxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/calendar_select_selector</item>
+    </style>
+    <style name="NaviTextViewStyle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_dp_15</item>
+        <item name="android:textColor">@color/navi_text_btn_selector</item>
+    </style>
+    <style name="NewContentTextStyle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_15</item>
+        <item name="android:textColor">@color/custom_item_left_text</item>
+    </style>
+    <style name="NewContentMoreDetail" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_15</item>
+        <item name="android:textColor">@color/setting_set_account_sync_text_n</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/new_more_option_selector</item>
+    </style>
+    <style name="NewIconCheckBoxStyle" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">@dimen/text_size_dp_10</item>
+        <item name="android:textColor">@color/add_icon_text_color_selector</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:button">@null</item>
+        <item name="android:drawablePadding">5.0dip</item>
+    </style>
+    <style name="NewItemRightTextStyle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_dp_12</item>
+        <item name="android:textColor">@color/month_not_today_circle_color</item>
+    </style>
+    <style name="DetailItemTextStyle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_15</item>
+        <item name="android:textColor">@color/agenda_list_item_time_lunar_color</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginStart">4.0dip</item>
+    </style>
+    <style name="NewLocationTextStyle" parent="@android:style/Widget.EditText">
+        <item name="android:textSize">@dimen/text_size_15</item>
+        <item name="android:textColor">@color/new_event_title_color</item>
+        <item name="android:textColorHint">@color/new_event_location_hint_color</item>
+    </style>
+    <style name="CalanderStyle" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:actionBarStyle">@style/CalanderBarStyle</item>
+        <item name="android:actionModeBackground">@null</item>
+        <item name="android:actionModeCloseDrawable">@null</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:titleTextStyle">@style/CalanderTitleStyle</item>
+        <item name="android:actionModeSplitBackground">@null</item>
+        <item name="android:colorPrimary">@color/transparent</item>
+        <item name="android:colorPrimaryDark">@color/transparent</item>
+        <item name="numberPickerStyle">@style/NPWidget.Holo.NumberPicker</item>
+    </style>
+    <style name="DateTimePickerStyle" parent="@style/CalanderStyle">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:actionBarStyle">@style/CalanderBarStyle</item>
+        <item name="android:actionModeBackground">@null</item>
+        <item name="android:actionModeCloseDrawable">@null</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:titleTextStyle">@style/CalanderTitleStyle</item>
+        <item name="android:actionModeSplitBackground">@null</item>
+        <item name="android:colorPrimary">@color/transparent</item>
+        <item name="android:colorPrimaryDark">@color/transparent</item>
+    </style>
+    <style name="CalanderTitleStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="CalanderBarStyle" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@color/transparent</item>
+        <item name="android:backgroundStacked">@null</item>
+        <item name="android:backgroundSplit">@null</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@android:style/Theme.DeviceDefault.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="ProgressBarStyle" parent="@android:style/Widget.Holo.ProgressBar" />
+    <style name="dialog_animation_style" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+    <style name="SettingCategory">
+        <item name="android:textSize">@dimen/setting_category_size</item>
+        <item name="android:textColor">@color/setting_category_text_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:layout_marginTop">8.0dip</item>
+    </style>
+    <style name="SettingItemText">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/setting_category_detail_text_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginStart">16.0dip</item>
+    </style>
+    <style name="SettingItemTextRight">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/setting_item_right_text</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:drawablePadding">12.0dip</item>
+        <item name="android:layout_marginEnd">16.0dip</item>
+    </style>
+    <style name="SettingDivider">
+        <item name="android:background">@color/divide_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.70000005dip</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+    </style>
+    <style name="SettingItems">
+        <item name="android:textColor">@color/setting_item_left_text_color</item>
+        <item name="android:background">@drawable/new_item_bkg_selector</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">52.0dip</item>
+    </style>
+    <style name="Switch">
+        <item name="android:layout_gravity">end|center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginEnd">16.0dip</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="ActivityTransitionTheme" parent="@style/CalanderStyle">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementEnterTransition">@transition/transition_style</item>
+        <item name="android:windowSharedElementExitTransition">@transition/transition_style</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowSharedElementReturnTransition">@transition/transition_style</item>
+        <item name="android:windowSharedElementReenterTransition">@transition/transition_style</item>
+    </style>
+    <style name="DateTimePickerDialogTheme" parent="@style/CalanderStyle">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="ScreenLockedNotifyStyle" parent="@style/CalanderStyle">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="AgendaDetialTimeStyle">
+        <item name="android:textSize">@dimen/text_size_12</item>
+        <item name="android:textColor">@color/setting_category_text_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="AgendaDetialDivideLineStyle">
+        <item name="android:background">@color/divide_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">2.0px</item>
+        <item name="android:layout_marginStart">7.0dip</item>
+    </style>
+    <style name="AlertDialogActivityStyle" parent="@android:style/Theme.Translucent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="AlertDialogNoTitle" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:background">@null</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="NPWidget">
+        <item name="android:textAppearance">?android:textAppearance</item>
+    </style>
+    <style name="NPWidget.NumberPicker" parent="@style/NPWidget">
+        <item name="android:orientation">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:fadingEdgeLength">50.0dip</item>
+    </style>
+    <style name="NPWidget.Holo.NumberPicker" parent="@style/NPWidget.NumberPicker">
+        <item name="solidColor">@android:color/transparent</item>
+        <item name="selectionDivider">@drawable/np_numberpicker_selection_divider</item>
+        <item name="selectionDividerHeight">2.0dip</item>
+        <item name="internalMaxHeight">180.0dip</item>
+        <item name="internalMinWidth">64.0dip</item>
+        <item name="internalLayout">@layout/number_picker_with_selector_wheel</item>
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_dark</item>
+    </style>
+    <style name="NPWidget.Holo.Light.NumberPicker" parent="@style/NPWidget.Holo.NumberPicker">
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_light</item>
+    </style>
+</resources>

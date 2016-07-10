@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Acest cont nu poate fi folosit, deoarece lipsesc aplicațiile: ^1. Contactați administratorul de domeniu pentru "&lt;b>^2&lt;/b>" sau conectați-vă folosind alt cont. "</item>
+        <item quantity="one">" Acest cont nu poate fi folosit, deoarece lipsește aplicația: ^1. Contactați administratorul de domeniu pentru "&lt;b>^2&lt;/b>" sau conectați-vă folosind alt cont. "</item>
+        <item quantity="few">" Acest cont nu poate fi folosit, deoarece lipsesc aplicațiile: ^1. Contactați administratorul de domeniu pentru "&lt;b>^2&lt;/b>" sau conectați-vă folosind alt cont. "</item>
+    </plurals>
+</resources>

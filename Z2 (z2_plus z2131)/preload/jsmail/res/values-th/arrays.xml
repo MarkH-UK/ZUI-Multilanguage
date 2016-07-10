@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ตอบ</item>
+        <item>ตอบทั้งหมด</item>
+        <item>ส่งต่อ</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>หนึ่งบรรทัด</item>
+        <item>สองบรรทัด</item>
+        <item>สามบรรทัด</item>
+        <item>สี่บรรทัด</item>
+        <item>ห้าบรรทัด</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>เล็กมาก</item>
+        <item>เล็ก</item>
+        <item>ปกติ</item>
+        <item>ใหญ่</item>
+        <item>ใหญ่มาก</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>ล่าสุด</item>
+        <item>รูปแบบ</item>
+        <item>ชื่อ</item>
+        <item>จาก</item>
+        <item>วันที่</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>ระบบ</item>
+        <item>ข้อความด่วน</item>
+        <item>โฟลเดอร์ทั้งหมด</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>การสนทนาถัดไป</item>
+        <item>การสนทนาก่อนหน้า</item>
+        <item>รายการการสนทนา</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>แสดงเฉพาะรายการที่เก็บถาวรแล้วเท่านั้น</item>
+        <item>แสดงเฉพาะรายการที่ลบแล้วเท่านั้น</item>
+        <item>แสดงทั้งรายการที่เก็บถาวรและลบแล้ว</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>แสดงการสนทนาถัดไปหลังจากลบ</item>
+        <item>แสดงการสนทนาก่อนหน้าหลังจากลบ</item>
+        <item>แสดงรายการการสนทนาหลังจากลบ</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>แสดงเฉพาะรายการที่เก็บถาวรแล้วเท่านั้น</item>
+        <item>แสดงเฉพาะรายการที่ลบแล้วเท่านั้น</item>
+        <item>แสดงทั้งรายการที่เก็บถาวรและลบแล้ว</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>ที่อยู่:</item>
+        <item>โทรศัพท์:</item>
+        <item>ชื่อ:</item>
+        <item>อีเมล:</item>
+        <item>โทรศัพท์มือถือ:</item>
+        <item>WeChat:</item>
+        <item>โทรสาร:</item>
+        <item>รหัสไปรษณีย์:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>ขอบคุณ</item>
+        <item>ขอแสดงความนับถือ</item>
+        <item>ส่งจาก</item>
+        <item>อีเมลเดิม</item>
+        <item>ส่งจาก</item>
+        <item>ส่งจาก</item>
+        <item>จาก</item>
+        <item>อีเมลนี้</item>
+        <item>คำแถลงการณ์ปฏิเสธความรับผิดชอบ</item>
+        <item>คำแถลงการณ์ปฏิเสธความรับผิดชอบของอีเมล</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ซิงค์สำเร็จแล้ว</item>
+        <item>ข้อผิดพลาดในการเชื่อมต่อเครือข่าย</item>
+        <item>การลงชื่อเข้าใช้ล้มเหลว</item>
+        <item>ข้อผิดพลาดในการเชื่อมต่อที่ปลอดภัย</item>
+        <item>การซิงค์ล้มเหลว</item>
+        <item>เกิดข้อผิดพลาดในเซิร์ฟเวอร์</item>
+    </string-array>
+</resources>

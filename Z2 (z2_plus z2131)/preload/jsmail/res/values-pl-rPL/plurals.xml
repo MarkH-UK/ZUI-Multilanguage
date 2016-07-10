@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d nieprzeczytanych wiadomości</item>
+        <item quantity="zero">%1$d nieprzeczytanych wiadomości</item>
+        <item quantity="one">%1$d nieprzeczytana wiadomość</item>
+        <item quantity="two">%1$d nieprzeczytane wiadomości</item>
+        <item quantity="few">%1$d nieprzeczytanych wiadomości</item>
+        <item quantity="many">%1$d nieprzeczytanych wiadomości</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Czy chcesz zarchiwizować %1$d rozmów?</item>
+        <item quantity="zero">Czy chcesz zarchiwizować %1$d rozmów?</item>
+        <item quantity="one">Czy chcesz zarchiwizować %1$d rozmowę?</item>
+        <item quantity="two">Czy chcesz zarchiwizować %1$d rozmowy?</item>
+        <item quantity="few">Czy chcesz zarchiwizować %1$d rozmów?</item>
+        <item quantity="many">Czy chcesz zarchiwizować %1$d rozmów?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Czy chcesz usunąć %1$d rozmów?</item>
+        <item quantity="zero">Czy chcesz usunąć %1$d rozmów?</item>
+        <item quantity="one">Czy chcesz usunąć %1$d rozmowę?</item>
+        <item quantity="two">Czy chcesz usunąć %1$d rozmowy?</item>
+        <item quantity="few">Czy chcesz usunąć %1$d rozmów?</item>
+        <item quantity="many">Czy chcesz usunąć %1$d rozmów?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Obejmuje to rozmowy zwinięte. Czy na pewno chcesz usunąć zwinięte pozycje?</item>
+        <item quantity="zero">Obejmuje to rozmowy zwinięte. Czy na pewno chcesz usunąć zwinięte pozycje?</item>
+        <item quantity="one">Obejmuje to rozmowy zwinięte. Czy na pewno chcesz usunąć zwinięte pozycje?</item>
+        <item quantity="two">Obejmuje to rozmowy zwinięte. Czy na pewno chcesz usunąć zwinięte pozycje?</item>
+        <item quantity="few">Obejmuje to rozmowy zwinięte. Czy na pewno chcesz usunąć zwinięte pozycje?</item>
+        <item quantity="many">Obejmuje to rozmowy zwinięte. Czy na pewno chcesz usunąć zwinięte pozycje?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Czy chcesz odrzucić wersje robocze w %1$d rozmowach?</item>
+        <item quantity="zero">Czy chcesz odrzucić wersje robocze w %1$d rozmowach?</item>
+        <item quantity="one">Czy chcesz odrzucić wersje robocze w %1$d rozmowie?</item>
+        <item quantity="two">Czy chcesz odrzucić wersje robocze w %1$d rozmowach?</item>
+        <item quantity="few">Czy chcesz odrzucić wersje robocze w %1$d rozmowach?</item>
+        <item quantity="many">Czy chcesz odrzucić wersje robocze w %1$d rozmowach?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d wybranych pozycji</item>
+        <item quantity="zero">%d wybranych pozycji</item>
+        <item quantity="one">%d wybrana pozycja</item>
+        <item quantity="two">%d wybrane pozycje</item>
+        <item quantity="few">%d wybranych pozycji</item>
+        <item quantity="many">%d wybranych pozycji</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> rozmów zostało zarchiwizowanych.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> rozmów została zarchiwizowanych.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> rozmowa została zarchiwizowana.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> rozmowy zostały zarchiwizowane.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> rozmów została zarchiwizowanych.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> rozmów zostało zarchiwizowanych.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> rozmów zostało usuniętych.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> rozmów zostało usuniętych.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> rozmowa została usunięta.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> rozmowy zostały usunięte.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> rozmów zostało usuniętych.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> rozmów zostało usuniętych.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Foldery zostały zmienione</item>
+        <item quantity="zero">Folder został zmieniony</item>
+        <item quantity="one">Folder został zmieniony</item>
+        <item quantity="two">Foldery zostały zmienione</item>
+        <item quantity="few">Foldery zostały zmienione</item>
+        <item quantity="many">Foldery zostały zmienione</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> rozmów zostało zignorowanych.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> rozmów zostało zignorowanych.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> rozmowa została zignorowana.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> rozmowy zostały zignorowane.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> rozmów zostało zignorowanych.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> rozmów zostało zignorowanych.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> rozmów zostało oznaczonych jako nieważne.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> rozmów zostało oznaczonych jako nieważne.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> rozmowa została oznaczona jako nieważna.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> rozmowy zostały oznaczone jako nieważne.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> rozmów zostało oznaczonych jako nieważne.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> rozmów zostało oznaczonych jako nieważne.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako niebędące spamem.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako niebędąca spamem.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> rozmowa została zgłoszona jako niebędąca spamem.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> rozmowy zostały zgłoszone jako niebędące spamem.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako niebędące spamem.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako niebędące spamem.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako phishing.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako phishing.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> rozmowa została zgłoszona jako phishing.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> rozmowy zostały zgłoszone jako phishing.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako phishing.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako phishing.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako spam.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako spam.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> rozmowa została zgłoszona jako spam.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> rozmowy zostały zgłoszone jako spam.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako spam.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> rozmów zostało zgłoszonych jako spam.</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Cofanie oznaczenia gwiazdką %1$d rozmów.</item>
+        <item quantity="zero">Cofanie oznaczenia gwiazdką %1$d rozmów.</item>
+        <item quantity="one">Cofanie oznaczenia gwiazdką %1$d rozmowy.</item>
+        <item quantity="two">Cofanie oznaczenia gwiazdką %1$d rozmów.</item>
+        <item quantity="few">Cofanie oznaczenia gwiazdką %1$d rozmów.</item>
+        <item quantity="many">Cofanie oznaczenia gwiazdką %1$d rozmów.</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Projektów</item>
+        <item quantity="zero">Projektów</item>
+        <item quantity="one">Projekt</item>
+        <item quantity="two">Projekty</item>
+        <item quantity="few">Projektów</item>
+        <item quantity="many">Projektów</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d wiadomości zostanie trwale usuniętych.</item>
+        <item quantity="zero">%1$d wiadomości zostanie trwale usuniętych.</item>
+        <item quantity="one">%1$d wiadomość zostanie trwale usunięta.</item>
+        <item quantity="two">%1$d wiadomości zostaną trwale usunięte.</item>
+        <item quantity="few">%1$d wiadomości zostanie trwale usuniętych.</item>
+        <item quantity="many">%1$d wiadomości zostanie trwale usuniętych.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="zero">%d B</item>
+        <item quantity="one">%d B</item>
+        <item quantity="two">%d B</item>
+        <item quantity="few">%d B</item>
+        <item quantity="many">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="zero">%d GB</item>
+        <item quantity="one">%d GB</item>
+        <item quantity="two">%d GB</item>
+        <item quantity="few">%d GB</item>
+        <item quantity="many">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="zero">%d KB</item>
+        <item quantity="one">%d KB</item>
+        <item quantity="two">%d KB</item>
+        <item quantity="few">%d KB</item>
+        <item quantity="many">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="zero">%d MB</item>
+        <item quantity="one">%d MB</item>
+        <item quantity="two">%d MB</item>
+        <item quantity="few">%d MB</item>
+        <item quantity="many">%d MB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Przenieś %1$d rozmów</item>
+        <item quantity="zero">Przenieś %1$d rozmów</item>
+        <item quantity="one">Przenieś %1$d rozmowę</item>
+        <item quantity="two">Przenieś %1$d rozmowy</item>
+        <item quantity="few">Przenieś %1$d rozmów</item>
+        <item quantity="many">Przenieś %1$d rozmów</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Przenieś wiadomości</item>
+        <item quantity="zero">Przenieś wiadomości</item>
+        <item quantity="one">Przenieś wiadomość</item>
+        <item quantity="two">Przenieś wiadomości</item>
+        <item quantity="few">Przenieś wiadomości</item>
+        <item quantity="many">Przenieś wiadomości</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d nowych wiadomości. Wyświetl</item>
+        <item quantity="zero">%1$d nowych wiadomości. Wyświetl</item>
+        <item quantity="one">%1$d nowa wiadomość. Wyświetl</item>
+        <item quantity="two">%1$d nowe wiadomości. Wyświetl</item>
+        <item quantity="few">%1$d nowych wiadomości. Wyświetl</item>
+        <item quantity="many">%1$d nowych wiadomości. Wyświetl</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d wybranych pozycji</item>
+        <item quantity="zero">%d wybranych pozycji</item>
+        <item quantity="one">%d wybrana pozycja</item>
+        <item quantity="two">%d wybrane pozycje</item>
+        <item quantity="few">%d wybranych pozycji</item>
+        <item quantity="many">%d wybranych pozycji</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d przeczytanych wiadomości</item>
+        <item quantity="zero">%1$d przeczytanych wiadomości</item>
+        <item quantity="one">%1$d przeczytana wiadomość</item>
+        <item quantity="two">%1$d przeczytane wiadomości</item>
+        <item quantity="few">%1$d przeczytanych wiadomości</item>
+        <item quantity="many">%1$d przeczytanych wiadomości</item>
+    </plurals>
+</resources>

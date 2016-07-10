@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play ծառայությունների սխալ կա</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Ինչ-որ հավելված պահանջում է տեղադրել Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_notification_needs_update_title">Ինչ-որ հավելված պահանջում է թարմացնել Google Play ծառայությունները:</string>
+    <string name="common_android_wear_notification_needs_update_text">Ծրագիրը պահանջում է թարմացնել Android Wear-ը:</string>
+    <string name="common_google_play_services_needs_enabling_title">Ինչ-որ հավելված պահանջում է միացնել Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s-ի հարցմամբ</string>
+    <string name="common_google_play_services_install_title">Տեղադրեք Google Play ծառայությունները</string>
+    <string name="common_google_play_services_install_text_phone">Այս հավելվածը չի գործարկվի առանց Google Play ծառայությունների, որոնք բացակայում են ձեր հեռախոսում:</string>
+    <string name="common_google_play_services_install_text_tablet">Այս հավելվածը չի գործարկվի առանց Google Play ծառայությունների, որոնք բացակայում են ձեր գրասալիկում:</string>
+    <string name="common_google_play_services_install_button">Տեղադրել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_enable_title">Միացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_enable_text">Այս ծրագիրը չի աշխատի, եթե դուք չմիացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_enable_button">Միացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_update_title">Նորացրեք Google Play ծառայությունները</string>
+    <string name="common_android_wear_update_title">Թարմացնել Android Wear-ը</string>
+    <string name="common_google_play_services_update_text">Այս ծրագիրը չի գործարկվի, եթե դուք չնորացնեք Google Play ծառայությունները:</string>
+    <string name="common_android_wear_update_text">Այս ծրագիրը չի գործարկվի, եթե չթարմացնեք Android Wear-ը:</string>
+    <string name="common_google_play_services_network_error_title">Ցանցի սխալ կա</string>
+    <string name="common_google_play_services_network_error_text">Պահանջվում է տվյալների կապ` Google Play ծառայություններին միանալու համար:</string>
+    <string name="common_google_play_services_invalid_account_title">Հաշիվն անվավեր է</string>
+    <string name="common_google_play_services_invalid_account_text">Նշված հաշիվը գոյություն չունի այս սարքում: Ընտրեք այլ հաշիվ:</string>
+    <string name="common_google_play_services_unknown_issue">Անհայտ խնդիր՝ Google Play ծառայություններում:</string>
+    <string name="common_google_play_services_unsupported_title">Google Play ծառայություններ</string>
+    <string name="common_google_play_services_unsupported_text">Google Play ծառայությունները, որոնց ապավինում են ձեր ծրագրերից որոշները, չեն աջակցվում ձեր սարքի կողմից: Խնդրում ենք կապվել արտադրողի հետ օգնության համար:</string>
+    <string name="common_google_play_services_update_button">Նորացնել</string>
+    <string name="common_signin_button_text">Մուտք գործել</string>
+    <string name="common_signin_button_text_long">Մուտք գործեք Google-ով</string>
+    <string name="common_open_on_phone">Բացել հեռախոսում</string>
+    <string name="setup_wizard_next_button_label">Հաջորդը</string>
+    <string name="setup_wizard_back_button_label">Հետ</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Բաց թողնել</string>
+    <string name="down_button_label">Ավելին</string>
+    <string name="cancel_button_label">Չեղարկել</string>
+    <string name="try_again_button_label">Կրկին փորձել</string>
+    <string name="close_button_label">Փակել</string>
+    <string name="url_load_unsuccessful_message">Ձեր Android սարքը միացված չէ տվյալների ծառայությանը: Այս տեղեկությունը տեսնելու համար վեբ դիտարկիչով այցելեք %s:</string>
+    <string name="sign_in_agreement">Մուտք գործելով՝ դուք համաձայնվում եք Google-ի <annotation id="tos">Ծառայությունների մատուցման պայմաններին</annotation>, <annotation id="google_privacy">Գաղտնիության քաղաքականությանը</annotation> և <annotation id="play_tos">Google Play-ի Ծառայությունների մատուցման պայմաններին</annotation>:</string>
+    <string name="android_privacy_policy_title">Հավելյալ Գաղտնիության քաղաքականություն</string>
+    <string name="google_terms_of_service_title">Google-ի Ծառայությունների մատուցման պայմաններ</string>
+    <string name="google_privacy_policy_title">Google-ի Գաղտնիության քաղաքականություն</string>
+    <string name="google_plus_privacy_policy_title">Google Plus-ի Գաղտնիության քաղաքականություն</string>
+    <string name="google_play_tos_title">Google Play-ի Ծառայությունների Մատուցման Պայմաններ</string>
+    <string name="chrome_tos_title">Chrome-ի Ծառայությունների մատուցման պայմանները</string>
+    <string name="chrome_privacy_title">Chrome-ի Գաղտնիության ծանուցում</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Ձեր Android սարքը միացված չէ Wi-Fi ցանցին: Այս տեղեկությունը տեսնելու համար վեբ դիտարկիչով այցելեք %s:</string>
+    <string name="services_activity_title">Google ծառայություններ</string>
+    <string name="services_backup_heading">Պահուստավորել</string>
+    <string name="services_location_heading">Տեղադրություն</string>
+    <string name="services_security_heading">Անվտանգություն</string>
+    <string name="services_personalization_heading">Անհատականացում</string>
+    <string name="services_communication_heading">Հաղորդակցում</string>
+    <string name="security_verify_apps_summary">Թույլատրել Google-ին ստուգել բոլոր տեղակայված ծրագրերի հնարավոր վնասակար գործողությունները, որոնք կարող են ազդել ձեր սարքի տվյալների անվտանգության վրա:</string>
+    <string name="name_title">Ձեր անունը</string>
+    <string name="name_text">Ձեր անունը օգտագործվում է՝ ձեր հեռախոսի և Google-ի ծառայություններն անհատականացնելու համար:</string>
+    <string name="first_name">Անուն</string>
+    <string name="last_name">Ազգանուն</string>
+    <string name="cant_be_blank">Դաշտը չի կարող դատարկ լինել:</string>
+    <string name="sharedUserLabel">Google Ծառայություններ</string>
+    <string name="app_label">Google Հաշվի կառավարիչ</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Մուտք գործել</string>
+    <string name="create_button_label">Ձեռք բերել հաշիվ</string>
+    <string name="not_now_button_label">Ոչ հիմա</string>
+    <string name="new_button_label">Նոր</string>
+    <string name="existing_button_label">Առկա</string>
+    <string name="done">Լավ</string>
+    <string name="edit_text_help">Հպեք ցանկացած տեքստային վանդակի, որպեսզի սկսեք մուտքագրումը</string>
+    <string name="add_a_google_account">Ավելացնել Google Հաշիվ</string>
+    <string name="captcha_title">Պետք է մուտքագրեք նկարից</string>
+    <string name="show_error_title">Սխալ</string>
+    <string name="server_error">Google սերվերներին միանալիս խնդիր է առաջացել:</string>
+    <string name="server_error_help">Փորձեք կրկին ավելի ուշ:</string>
+    <string name="network_unreliable">Հնարավոր չէ հաստատել հուսալի տվյալների կապ սերվերի հետ:</string>
+    <string name="network_unreliable_help">Սա կարող է ժամանակավոր խնդիր լինել կամ էլ ձեր Android սարքը չի աջակցվում տվյալների ծառայությունների համար: Եթե այսպես շարունակվի, զանգահարեք Բաժանորդների սպասարկման կենտրոն:</string>
+    <string name="network_unreliable_help_wifi_only">Սա կարող է լինել ժամանակավոր խնդիր: Փորձեք կրկին կամ միացեք այլ Wi-Fi ցանցի:</string>
+    <string name="invalid_login_character">Անվավեր նիշ: Միայն 0-9, a-z, A-Z և կետեր են թույլատրված:</string>
+    <string name="invalid_password_character">Գաղտնաբառի անվավեր նիշ:</string>
+    <string name="calendar">Google Օրացույց</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Փոստ</string>
+    <string name="field_cant_be_blank">Դաշտը չի կարող դատարկ լինել:</string>
+    <string name="plus_query_title">Կարգավորել Google+ը</string>
+    <string name="plus_query_text">Google+ը ցանցային հաղորդակցումը դարձնում է ավելի իրական:</string>
+    <string name="circles_subtitle">Ձեզ հետաքրքրող նյութերի հոսք</string>
+    <string name="circles_text">Եղեք կապի մեջ ընկերների հետ և գտեք ընդհանուր հետաքրքրություններ:</string>
+    <string name="uploads_subtitle">Լուսանկարների ինքնաբար պահուստավորում</string>
+    <string name="uploads_text">Պահուստավորեք ձեր լուսանկարները անվճար անձնական պահոցում:</string>
+    <string name="huddle_subtitle">Տեսազանգեր և հաղորդակցում</string>
+    <string name="huddle_text">Օգտագործեք Hangouts-ի հաղորդագրությունները, լուսանկարները և անվճար խմբային տեսազանգերը:</string>
+    <string name="plus_declined_button_label">Ոչ հիմա</string>
+    <string name="plus_accepted_button_label">Սկսեցինք</string>
+    <string name="plus_name_check_title">Կապվում է Google+ին...</string>
+    <string name="plus_name_check_text">Դա կարող է տևել մի քանի րոպե:</string>
+    <string name="plus_faq_title">Բարի գալուստ Google+</string>
+    <string name="plus_faq_text" formatted="false">"Google+ում դուք կունենաք հանրային պրոֆիլ, որը կօգնի ձեր ընկերներին գտնել ձեզ առցանց: Ամեն ոք, ով գիտի ձեր էլփոստի հասցեն կարող է գտնել և դիտել ձեր պրոֆիլը:
+
+Դուք կարող եք ցանցում օգտագործել +1 կոճակները՝ աշխարհին ինչ-որ բան առաջարկելու համար: Ձեր պրոֆիլը և +1-երը կհայտնվեն հանրային որոնման մեջ, գովազդներում և ամբողջ ցանցում:
+
+Առայժմ ձեր պրոֆիլը ցույց կտա միայն ձեր անունը (%s %s): Դուք կարող եք լուսանկար, կենսագրություն և այլ տվյալներ  ավելացնել ավելի ուշ, երբ սկսեք օգտագործել Google+ը:"</string>
+    <string name="dasher_warning">%s-ի ադմինիստրատորը տնօրինում և կառավարում է ձեր տվյալները Google+-ում և ցանկացած պահի կարող է ջնջել կամ փոփոխել ձեր պրոֆիլը առանց ձեր թույլտվության:</string>
+    <string name="profile_info_title">Ձեր պրոֆիլը</string>
+    <string name="profile_text">Ներկայացրեք որոշ հիմնական տեղեկություններ ձեր պրոֆիլում: Դուք կարող եք ավելացնել լուսանկար և այլ մանրամասներ ավելի ուշ, երբ սկսեք օգտագործել Google+:</string>
+    <string name="occupation">Զբաղմունք</string>
+    <string name="current_city">Ներկայիս քաղաքը</string>
+    <string name="picassa_info_title">Picasa և Google+</string>
+    <string name="picassa_info_text" formatted="false">Picasa Վեբ ալբոմների ձեր լուսանկարներն ու և տեսանյութերը հասանելի կլինեն Google+ում, և ձեր մեկնաբանությունները կլինեն %s %s-ով՝ %s-ի փոխարեն: Երբ լուսանկարներ եք տարածում Google+ում, ստացողները կարող են վերատարածել դրանք այլոց հետ: Ձեր ալբոմների տեսանելիության կարգավորումները չեն փոխվի, և դուք կարող եք սահմանափակել դրանք ցանկացած ժամանակ, որպեսզի դրանք հնարավոր չլինի ազատորեն տարածել:</string>
+    <string name="name_title_plus">Ձեր Google+ անունը</string>
+    <string name="name_title_local">Այս հեռախոսը պատկանում է...</string>
+    <string name="name_text_local">Հեռախոսն օգտագործում է ձեր անունը որոշ ծրագրեր անհատականացնելու համար:</string>
+    <string name="name_progress_title">Մի վայրկյան...</string>
+    <string name="bad_name_title">Օգտագործե՞լ այս անունը</string>
+    <string name="invalid_name_title">Հնարավոր չէ օգտագործել այս անունը</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Եթե ​​դուք ցանկանում եք սա օգտագործել որպես ձեր Google+ի անուն, մեր թիմը պետք է վերանայի այն: Եթե ​​դա խախտում է մեր անունների քաղաքականությունը, ձեր պրոֆիլը կարող է կասեցվել: Դա կարող է սահմանափակել Google-ի արտադրանքներն օգտագործելու ձեր հնարավորությունները, որոնք պահանջում են ակտիվ պրոֆիլ:
+
+"<annotation id="learn_more">Իմանալ ավելին</annotation></string>
+    <string name="invalid_name_text">Դուք չեք կարող օգտագործել այս անունը Google+ում, քանի որ այն անվավեր նիշեր է պարունակում:</string>
+    <string name="invalid_nickname_text">Դուք չեք կարող օգտագործել այս անունը Google+ում, քանի որ այն անվավեր նիշեր է պարունակում: Փորձե՞լ օգտագործել օգտանունը, նախկին անունը կամ պաշտոնը: Դուք կարող եք ավելացնել դրանք ձեր պրոֆիլում միանալուց հետո:</string>
+    <string name="invalid_other_text">Այս անունը հնարավոր չէ օգտագործել Google+ում:</string>
+    <string name="bad_name_agree_text">Ես հասկանում եմ և ցանկանում եմ օգտագործել այս անունը:</string>
+    <string name="bad_name_decline_button_label">Թարմացնել անունը</string>
+    <string name="bad_name_agree_button_label">Ներկայացնել անունը վերանայման</string>
+    <string name="bad_name_skip_button_label">Բաց թողնել Google+ը</string>
+    <string name="photo_title">Ձեր լուսանկարը</string>
+    <string name="photo_text">Այս լուսանկարը կօգտագործվի ձեր կոնտակտային գրառման մեջ: Դուք կարող եք փոխել այն ավելի ուշ Մարդիկ ծրագրում:</string>
+    <string name="photo_text_es">Ստեղծեք մի լուսանկար, որը ձեր ընկերները կտեսնեն Google+ում: Դուք կարող եք ընտրել նոր նկար ավելի ուշ:</string>
+    <string name="photo_button_label">Լուսանկարել</string>
+    <string name="retake_photo_button_label">Նորից լուսանկարել</string>
+    <string name="photo_failure">Չստացվեց գործարկել ֆոտոխցիկը</string>
+    <string name="crop_failure">Հնարավոր չեղավ եզրատել լուսանկարը:</string>
+    <string name="photo_description">Ձեր լուսանկարները</string>
+    <string name="communicating_message">Ձեր հեռախոսը հաղորդակցվում է Google-ի սերվերների հետ՝ ձեր հաշվում տեղեկությունները պահելու համար: Սա կարող է տևել մինչև հինգ րոպե:</string>
+    <string name="creating_account_title">Հաշիվը պահվում է...</string>
+    <string name="checking_username_message">"Ձեր հեռախոսը հաղորդակցվում է Google-ի հետ՝ ձեր նախընտրած օգտանվան հասանելիությունը ստուգելու համար:
+
+Դա կարող է տևել մի քանի րոպե:"</string>
+    <string name="plus_failure_title">Միանալ Google+ին ավելի ուշ</string>
+    <string name="plus_failure_new_account_text">Ձեր Google Հաշիվը ստեղծվել է, սակայն Google+-ին միանալու ձեր հարցումը չի ուղարկվել: Փորձեք ավելի ուշ ցանկացած վեբ դիտարկիչով plus.google.com-ում:</string>
+    <string name="plus_failure_text">Ձեր հարցումը՝ միանալու Google+ին, չի կատարվել: Կրկին փորձեք ավելի ուշ ցանկացած վեբ դիտարկիչից plus.google.com-ում:</string>
+    <string name="provisioned_login_title">Մուտքագրեք գաղտնաբառը</string>
+    <string name="provisioned_welcome">Ողջույն %s:</string>
+    <string name="provisioned_welcome_2">"Մուտքագրեք ձեր գաղտնաբառը 
+%s-ի համար"</string>
+    <string name="provisioned_incorrect_login">%s-ը չէ՞</string>
+    <string name="login_title">Մուտքագրեք էլփոստն ու գաղտնաբառը</string>
+    <string name="login_task_title">Մուտք գործում</string>
+    <string name="password">Գաղտնաբառ</string>
+    <string name="restore_wifi">Վերականգնել և միանալ հայտնի Wi-Fi ցանցերին:</string>
+    <string name="sign_in_agreement_multi_user">Մուտք գործելով՝ դուք համաձայվում եք Google-ի<annotation id="tos"> Ծառայությունների մատուցման պայմաններին</annotation>, <annotation id="google_privacy">Գաղտնիության քաղաքականությանը</annotation> և <annotation id="play_tos">Google Play-ի Ծառայությունների մատուցման պայմաններին</annotation>": 
+
+Հիշեք. Ցանկացած այլ օգտվող կարող է ընդունել նորացված հավելվածների թույլտվությունները ձեր անունից: Ինչպես ցանկացած համակարգիչ, դուք պետք է համօգտագործեք այս սարքը միայն այն մարդկանց հետ, ում վստահում եք:"</string>
+    <string name="sign_in_agreement_with_chrome">Մուտք գործելով` դուք համաձայնվում եք Google-ի <annotation id="tos">Ծառայությունների մատուցման պայմաններին</annotation> և <annotation id="google_privacy">Գաղտնիության քաղաքականությանը</annotation>, Chrome-ի <annotation id="chrome_tos">Ծառայությունների մատուցման պայմաններին</annotation> ու <annotation id="chrome_privacy">Գաղտնիության ծանուցմանը</annotation> և Google Play-ի <annotation id="play_tos">Ծառայությունների մատուցման պայմաններին</annotation>:</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Մուտք գործելով` դուք համաձայնվում եք Google-ի <annotation id="tos">Ծառայությունների մատուցման պայմաններին</annotation> և <annotation id="google_privacy">Գաղտնիության քաղաքականությանը</annotation>, Chrome-ի <annotation id="chrome_tos">Ծառայությունների մատուցման պայմաններին</annotation> ու <annotation id="chrome_privacy">Գաղտնիության ծանուցմանը</annotation> և Google Play-ի <annotation id="play_tos">Ծառայությունների մատուցման պայմաններին</annotation>":  
+
+Հիշեք՝ ցանկացած այլ օգտատեր կարող է ընդունել թարմացված ծրագրի թույլտվությունները ձեր անունից: Ինչպես ցանկացած համակարգչի դեպքում, պետք է տարածեք այս գրասալիկը միայն այն մարդկանց շրջանակում, ում վստահում եք:"</string>
+    <string name="create_prompt">" Չունե՞ք Google Հաշիվ: "<annotation id="create_account">Ստեղծեք հաշիվ հիմա</annotation>:</string>
+    <string name="sign_in_with_google_account_short">Մուտք գործեք ձեր Google Հաշվով`</string>
+    <string name="invalid_username">Ձեր մուտքագրած տեքստը վավեր օգտանուն չէ:</string>
+    <string name="captcha_instructions">Մուտքագրեք տեքստը, որը տեսնում եք այստեղ`</string>
+    <string name="create_google_account">Ընտրեք օգտանուն</string>
+    <string name="create_google_account_text">Ձեր Google Հաշվի հետ տրվում է Gmail էլփոստ Google-ի կողմից: Այն աշխատում է ցանկացած սարքով, արգելափակում լցոնը և ավելին:</string>
+    <string name="account_already_has_gmail">Հաշիվն արդեն ունի Gmail:</string>
+    <string name="error_account_disabled">"Այս հաշիվը կասեցված է: 
+
+Մանրամասների համար վեբ դիտարկիչով այցելեք https://google.com/accounts կայքը:"</string>
+    <string name="no_network">Դուք չունեք ցանցային կապ:</string>
+    <string name="no_network_help">Սա կարող է ժամանակավոր խնդիր լինել կամ էլ ձեր Android սարքը չի աջակցվում տվյալների ծառայությունների համար: Նորից փորձեք, երբ միացած եք շարժական կապի կամ միացրեք Wi-Fi կապը:</string>
+    <string name="no_network_help_wifi_only">Սա կարող է լինել ժամանակավոր խնդիր: Փորձեք կրկին կամ միացեք այլ Wi-Fi ցանցի:</string>
+    <string name="error_login_failed">"Ձեր օգտանունը և գաղտնաբառը միմյանց չեն համապատասխանում: Փորձեք կրկին:
+
+Ձեր հաշվի տեղեկությունները վերականգնելու համար այցելեք http://google.com/accounts/recovery:"</string>
+    <string name="error_account_not_verified">"Այս հաշիվը չի հաստատվել: Ստուգեք ձեր էլփոստը և հետևեք կից հղմանը՝ հաստատելու այս հաշիվը:
+
+(Ձեր հաշվի տվյալները վերականգնելու համար ձեր համակարգչով այցելեք http://www.google.com/accounts/recovery:)"</string>
+    <string name="exit_menu_item">Ելք զննարկչով մուտքգործումից</string>
+    <string name="creating_profile">Ստեղծվում է ձեր պրոֆիլը...</string>
+    <string name="checking_account">Ստուգում է առկայությունը ...</string>
+    <string name="is_not_available"><b>^1</b> օգտանունը հասանելի չէ:</string>
+    <string name="suggestions_hint">Հպեք առաջարկների համար</string>
+    <string name="suggest_username_next_button_label">Փոխել օգտանունը</string>
+    <string name="hint_size">" "<b>^1</b> -ը պարունակում է 6-ից պակաս կամ 30-ից ավել նիշ:</string>
+    <string name="hint_numbers_only">" "<b>^1</b>- ը որևէ տառ չի պարունակում:</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>"-ը կարող է միայն տառեր,
+թվեր և կետեր պարունակել:"</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b>-ը չի օգտագործում Gmail</string>
+    <string name="sign_in_browser">Մուտք գործել դիտարկիչով</string>
+    <string name="alternatives_list_title">Առաջարկվող օգտանուններ</string>
+    <string name="password_title">Ստեղծել գաղտնաբառ</string>
+    <string name="choose_a_password">Գաղտնաբառ</string>
+    <string name="confirm_password">Կրկին մուտքագրեք գաղտնաբառը</string>
+    <string name="too_short">Չափազանց կարճ է</string>
+    <string name="security_questions_title">Անվտանգության հարցեր</string>
+    <string name="answer">" "<b>Պատասխան</b></string>
+    <string name="password_mismatch">Գաղտնաբառերը չեն համընկնում: Փորձեք կրկին:</string>
+    <string name="eight_chars_min">(նվազագույնը 8 նիշ)</string>
+    <string name="verify_your_profile">Վավերացրեք ձեր պրոֆիլը</string>
+    <string name="error_not_logged_in">Օգտատերը մուտք չի գործել:</string>
+    <string name="error_username_unavailable">Օգտանունը հասանելի չէ:</string>
+    <string name="error_bad_password">Գաղտնաբառը չափազանց թույլ է կամ պարունակում է անվավեր նիշեր: Խնդրում ենք կրկին փորձել:</string>
+    <string name="error_bad_username">Անվավեր օգտանուն:</string>
+    <string name="existing_account_error_title">Հաշիվն արդեն գոյություն ունի</string>
+    <string name="existing_account_error_text">Այս Android սարքի վրա արդեն իսկ կա ^1 հաշիվը:</string>
+    <string name="submission_title">Ներողություն...</string>
+    <string name="submission_error_text">Սխալ տեղի ունեցավ: Փորձեք կրկին:</string>
+    <string name="sync_intro_title">Հաշվի համաժամեցում</string>
+    <string name="account_tos_title">Ավարտել հաշվի կարգավորումը</string>
+    <string name="account_tos_plus_title">Ավարտել՝ միանալով Google+ին</string>
+    <string name="i_accept">Ընդունում եմ</string>
+    <string name="i_decline">Չստեղծել հաշիվ</string>
+    <string name="allow_personalized_content">Թույլ տվեք Google-ին օգտագործել ձեր տեղեկությունները՝ անհատականացնելու բովանդակությունը և գովազդները Google-ին չպատկանող կայքերում:</string>
+    <string name="enable_web_history">Միացնել վեբ պատմությունը</string>
+    <string name="learn_more"><annotation id="learn_more">Իմացեք ավելին</annotation></string>
+    <string name="account_creation_tos">Շարունակելով՝ դուք համաձայնվում եք Google-ի <annotation id="tos">Ծառայությունների Մատուցման Պայմաններին</annotation>, <annotation id="google_privacy">Գաղտնիության Քաղաքականությանը</annotation> և <annotation id="play_tos">Google Play-ի Ծառայությունների Մատուցման Պայմաններին</annotation>:</string>
+    <string name="account_creation_tos_with_chrome">Շարունակելով՝ դուք համաձայնվում եք Google-ի <annotation id="tos">Ծառայությունների մատուցման պայմաններին</annotation> և <annotation id="google_privacy">Գաղտնիության քաղաքականությանը</annotation>, Chrome-ի <annotation id="chrome_tos">Ծառայությունների մատուցման պայմաններին</annotation> և <annotation id="chrome_privacy">Գաղտնիության ծանուցմանը </annotation> և Google Play-ի <annotation id="play_tos"> Ծառայությունների մատուցման պայմաններին</annotation>:</string>
+    <string name="gender_prompt">Սեռ</string>
+    <string name="gender_hint">Սեռ</string>
+    <string name="account_pre_intro_title">Google հաշիվ ունե՞ք:</string>
+    <string name="account_pre_intro_default_message">"Դուք ունե՞ք Google Հաշիվ:
+
+Եթե օգտագործում եք Gmail կամ Google Apps, պատասխանեք Այո:"</string>
+    <string name="account_pre_intro_yes">Այո</string>
+    <string name="account_pre_intro_no">Ոչ</string>
+    <string name="account_intro_title">Google Հաշիվ</string>
+    <string name="account_intro_required_title">Պատրաստված է Google-ի կողմից</string>
+    <string name="account_intro_recommended_title">Դարձրեք այն Google</string>
+    <string name="account_intro_default_message">Այլևս մի կորցրեք ձեր նյութերը: Google հաշիվն ամեն ինչ ապահով է պահում:</string>
+    <string name="account_intro_simple_message">Ցանկանու՞մ եք ավելացնել գոյություն ունեցող հաշիվ կամ ստեղծել նորը:</string>
+    <string name="account_intro_learn_more">Իմանալ ավելին</string>
+    <string name="learn_more_title">Իմանալ ավելին</string>
+    <string name="learn_more_account_intro">"Google Հաշիվը թույլ է տալիս ձեզ՝
+
+"<li><ul>Տեսնել և կազմակերպել ձեր բոլոր տեղեկությունները՝ ներառյալ որոնման պատմությունը ցանկացած վայրից:</ul></li>"
+
+"<li><ul>Ավտոմատ պահուստավորել ձեր տվյալները, ինչպիսիք են՝ էլփոստը, կոնտակտները, երաժշտությունը և նկարները:</ul></li>"
+
+"<li><ul>Հեշտությամբ օգտագործել Google-ի ծառայությունները ցանկացած վայրից՝ ներառյալ Կոնտակտները, Օրացույցը, Քարտեզները և այլն:</ul></li></string>
+    <string name="learn_more_account_intro_title">Google Հաշիվների մասին</string>
+    <string name="learn_more_bad_name">Google+ը պահանջում է օգտագործել ձեր անունը, որով հայտնի եք: Ձեր պրոֆիլը պետք է ներկայացնի անձ, այլ ոչ՝ ընկերություն, կազմակերպություն կամ ընտանիք և պետք է ներառի ձեր անունը և ազգանունը մեկ լեզվով՝ առանց մասնագիտական ​​կոչումների կամ ավելորդ կետադրական նշանների: Գրանցվելուց հետո դուք կարող եք տեղադրել մականուններ կամ այլ անուններ, որոնք դուք կիրառում եք ձեր պրոֆիլի Այլ անուններ դաշտում:</string>
+    <string name="learn_more_bad_name_title">Անունների քաղաքականության մասին</string>
+    <string name="wait_for_device_country_title">Հաշվի կարգավորում</string>
+    <string name="wait_for_device_country_msg">Հավաքվում են ձեր հեռախոսի մասին տեղեկություններ: Սա կարող է տևել մինչև 30 վայրկյան:</string>
+    <string name="recovery_title">Google գաղտնաբառի վերականգնում</string>
+    <string name="recovery_wait_title">Հաղորդակցվում է Google-ի հետ...</string>
+    <string name="cannot_talk_to_server_msg">Սարքը չկարողացավ միանալ Google-ին:</string>
+    <string name="recovery_skip_label">Բաց թողնել</string>
+    <string name="recovery_retry_label">Կրկին փորձեք</string>
+    <string name="recovery_message_set">"Եթե ​​դուք երբևէ մոռանաք ձեր գաղտնաբառը, դուք կցանկանաք ինչ-որ կերպ վերականգնել այն:
+
+Google-ն առաջարկում է ընտրանքներ՝ ձեր գաղտնաբառը SMS-ի կամ այլընտրանքային էլփոստի հասցեի միջոցով վերականգնելու համար:
+
+Այս քայլը խստորեն խորհուրդ է տրվում կատարել: "<annotation id="help_url">Իմանալ ավելին</annotation></string>
+    <string name="recovery_message_verify">"Գաղտնաբառերը շուտ են մոռացվում:
+
+Հաստատեք ձեր հեռախոսահամարը կամ պահուստավորեք էլփոստի հասցեն հենց հիմա: Սա կօգնի վերականգնել մուտքը դեպի Google-ի և Google Play-ի ձեր բովանդակություն: "<annotation id="help_url">Իմացեք ավելին</annotation></string>
+    <string name="recovery_yes_button_label">Կարգավորել վերականգնման ընտրանքները</string>
+    <string name="recovery_yes_button_label_verify">Հաստատել վերականգնման ընտրանքները</string>
+    <string name="recovery_later_button_label">Ոչ հիմա</string>
+    <string name="recovery_input_screen_message">Այս վերականգնման տեղեկությունը վերաբերում է %s-ին:</string>
+    <string name="secondary_email_hint">Պահուստավորել էլփոստը</string>
+    <string name="secondary_email_invalid">Անվավեր էլփոստի հասցե</string>
+    <string name="secondary_email_same_as_primary">Չի կարող լինել նույնը, ինչ հիմնական էլփոստն է</string>
+    <string name="phone_number_hint">Հեռախոսահամարը</string>
+    <string name="phone_number_invalid_character">Հեռախոսահամարում կան անվավեր գրանշաններ</string>
+    <string name="phone_number_invalid">Անվավեր հեռախոսահամար</string>
+    <string name="country_invalid">Այս երկիրը թույլատրված չէ</string>
+    <string name="recovery_server_error">Սերվերի հետ խոսելիս սխալ է գրանցվել: Խնդրում ենք փորձել ավելի ուշ:</string>
+    <string name="account_recovery_info">Եթե երբևէ կորցնեք ձեր գաղտնաբառը, կարող եք պատասխանել անվտանգության հարցին և վերականգնման հղումով նամակ ստանաք մեկ այլ հասցեին:</string>
+    <string name="secondary_email_label">Վերականգնման էլփոստի հասցեն</string>
+    <string name="invalid_email">"Ձեր մուտքագրած էլփոստի հասցեն վավեր չէ:
+Օրինակ՝ joe@example.com"</string>
+    <string name="invalid_email_primary">Վերականգնման հասցեն չի կարող լինել նույնը, ինչ ստեղծում եք:</string>
+    <string name="backup_consent_message">"Օգտագործեք ձեր Google հաշիվը՝ ձեր հավելվածները, կարգավորումները և այլ տվյալները պահուստավորելու համար (ինչպիսիք են էջանիշերը և Wi-Fi գաղտնաբառերը): Եթե ​​դուք նախկինում պահուստավորել եք ձեր հաշիվը, կարող եք վերականգնել այն այս հեռախոսի վրա հենց հիմա:
+
+Դուք կարող եք փոխել ձեր պահուստավորման կարգավորումները ցանկացած ժամանակ Կարգավորումներ բաժնում:"</string>
+    <string name="backup_consent_message_no_restore">"Օգտագործեք ձեր Google հաշիվը՝ ձեր հավելվածները, կարգավորումները և այլ տվյալները պահուստավորելու համար (ինչպիսիք են էջանիշերը և Wi-Fi գաղտնաբառերը):
+
+Դուք կարող եք փոխել ձեր պահուստավորման կարգավորումները ցանկացած ժամանակ Կարգավորումներում:"</string>
+    <string name="restoring_title">Վերականգնվում է...</string>
+    <string name="restoring_message">Ձեր հեռախոսը կապվում է Google-ի հետ՝ ձեր հաշիվը վերականգնելու համար: Սա ին-որ ժամանակ կարող է պահանջել:</string>
+    <string name="gls_notification_login_error">Հպեք՝ ձեր հաշիվ մուտք գործելու համար:</string>
+    <string name="gls_ui_add_account_title">Հաշվի կարգավորում</string>
+    <string name="gls_ui_activity_title">Մուտք գործել</string>
+    <string name="gls_ui_activity_title_browser_signin">Մուտք գործել</string>
+    <string name="gls_ui_activity_title_checking_in">Պատրաստում է...</string>
+    <string name="gls_ui_activity_authenticating">Նույնականացում …</string>
+    <string name="gls_dmagent_activity_activate_message">" Ձեր տիրույթը պահանջում է շարժական սարքի կառավարում: Տեղադրեք «Google Apps Device Policy» ծրագիրը`  "<b>^1</b> հաշվի կողմից պահանջվող անվտանգության քաղաքականությունը կիրառելու համար:</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Ակտիվացնել</string>
+    <string name="gls_dmagent_activity_download_message">" Ձեր տիրույթը պահանջում է շարժական սարքի կառավարում: Տեղադրեք «Google Apps Device Policy» ծրագիրը`  "<b>^1</b> հաշվի կողմից պահանջվող անվտանգության քաղաքականությունները կիրառելու համար:</string>
+    <string name="gls_dmagent_activity_download_retry_button">Ներբեռնել</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Դուք սխալ գաղտնաբառ եք մուտքագրել կամ ձեր հաշիվը փոխվել է: Կրկին մուտքագրեք ձեր գաղտնաբառը:</string>
+    <string name="permlab_googleAuthPassword">մուտք Google հաշիվների գաղտնաբառեր</string>
+    <string name="permdesc_googleAuthPassword">Թույլ է տալիս ծրագրերին ուղղակի մատչել Google հաշվի (հաշիվների) գաղտնաբառերը, որոնք դուք ստեղծել եք:</string>
+    <string name="permlab_googleMailSwitch">ընտրեք Gmail կամ Google Mail ապրանքանիշերից</string>
+    <string name="permdesc_googleMailSwitch">Թույլ է տալիս հավելվածներին փոխարկել «Gmail» և «Google Mail» ապրանքանիշերի ցուցադրվող անվանումների միջև:</string>
+    <string name="sync_item_title">Համաժամեցնել %s-ը</string>
+    <string name="grant_credentials_permission_message_footer">Դրանք պահանջում են թույլտվություն դեպի՝</string>
+    <string name="grant_credentials_permission_message_app">Ծրագրերը ցանկանում են օգտագործել ձեր Google հաշիվը այս պահից սկսած՝</string>
+    <string name="grant_permissions_header_text">Թույլտվության հարցում</string>
+    <string name="allow">Թույլատրել մուտքը</string>
+    <string name="deny">Ոչ, շնորհակալություն</string>
+    <string name="permission_request_notification_with_subtitle">"Թույլտվության հարցում է արվել
+%sհաշվի համար"</string>
+    <string name="notification_title">Մուտք գործելու սխալ %1$s-ի համար</string>
+    <string name="account_setup_title">Google Հաշիվ</string>
+    <string name="login_activity_title">Մուտք գործել</string>
+    <string name="relogin_activity_title">Կրկին մուտքագրեք գաղտնաբառը</string>
+    <string name="show_error_activity_title">Հնարավոր չէ մուտք գործել</string>
+    <string name="login_activity_task_title">Մուտք է գործում...</string>
+    <string name="login_activity_task_msg">Դա կարող է տևել մի քանի րոպե:</string>
+    <string name="prepare_account_setup_task_title">Նախապատրաստում է հաշվի ստեղծումը...</string>
+    <string name="prepare_account_setup_task_msg">Դա կարող է տևել մի քանի րոպե:</string>
+    <string name="sync_intro_activity_title">Համաժամեցնել հաշիվը</string>
+    <string name="username">Էլփոստ</string>
+    <string name="error_invalid_second_factor">Օգտագործեք ծրագրին հատուկ գազտնաբառ՝ ձեր սովորական գաղտնաբառի փոխարեն:</string>
+    <string name="error_needs_browser">"Ձեր հաշիվ մուտք ունենալու համար դուք պետք է մուտք գործեք ցանցում: Հպեք Հաջորդը`  զննարկչով մուտք գործելու համար:"</string>
+    <string name="google_play_opt_in">Ինձ տեղեկացնել Google Play-ի կողմից առաջարկների և նորությունների մասին:</string>
+    <string name="google_settings_header_title">Գաղտնիություն</string>
+    <string name="maps_settings_title">Քարտեզներ &amp; Latitude</string>
+    <string name="location_settings_title">Տեղադրություն</string>
+    <string name="search_settings_title">Որոնել</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Գովազդ</string>
+    <string name="location_network_based">Google տեղադրության ծառայություն</string>
+    <string name="location_neighborhood_level">Թույլատրել անանուն տեղադրության մասին տվյալների ուղարկումը Google-ին: Նաև թույլ տալ վավեր ծրագրերին օգտագործել տվյալները աղբյուրներից, ինչպիսիք են Wi-Fi-ը և բջջային ցանցերը՝ որոշելու ձեր մոտավոր տեղադրությունը:</string>
+    <string name="use_location_title">Տեղադրություն &amp; Google որոնում</string>
+    <string name="use_location_summary">Թույլատրել Google-ին օգտագործել ձեր տեղադրությունը` որոնման արդյունքներն ու այլ ծառայությունները բարելավելու համար:</string>
+    <string name="backup_consent_yes_agree">Օգտագործեք ձեր Google Հաշիվը՝ պահուստավորելու ձեր ծրագրերը, կարգավորումները և այլ տվյալները (ինչպիսիք են էջանիշերը և Wi-Fi գաղտնաբառերը):</string>
+    <string name="restore_consent_yes_agree">Բերեք այս հեռախոս ծրագրերը, կարգավորումները և այլ տվյալներ, որոնք դուք նախկինում պահուստավորել եք ձեր Google Հաշվում:</string>
+    <string name="audit_logging_summary">Ինքնուրույն ուղարկել սարքի միջադեպերի և ախտորոշման տեղեկությունները Google-ին՝ մեր արտադրանքները բարելավելու և ձեր սարքը պաշտպանելու համար:</string>
+    <string name="no_back_msg">Հնարավոր չէ վերադառնալ նախորդ քայլին:</string>
+    <string name="setup_wizard_title">Կարգավորման օգնական</string>
+    <string name="setup_wizard_services_activity_title">Google ծառայություններ</string>
+    <string name="setup_wizard_services_description">Դուք կարող եք ցանկացած ժամանակ միացնել կամ անջատել այս ծառայությունները: Տվյալները կօգտագործվեն Google-ի <annotation id="google_privacy">Գաղտնիության քաղաքականությանը</annotation> համապատասխան:</string>
+    <string name="setup_wizard_services_backup_restore_heading">Պահուստավորում և վերականգնում</string>
+    <string name="setup_wizard_services_location_heading">Տեղադրություն</string>
+    <string name="setup_wizard_services_communication_heading">Հաղորդակցում</string>
+    <string name="setup_wizard_services_backup"><b>Պահեք ձեր հեռախոսի հավելվածների, դրանց տվյալների, կարգավորումների, անձնական բառարանների և Wi-Fi գաղտնաբառերի պահուստային պատճենները</b> ձեր Google հաշվի օգնությամբ, որպեսզի հետագայում կարողանաք հեշտությամբ վերականգնել դրանք: <annotation id="backup_details">Մանրամասն</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Պահեք ձեր հավելվածների, դրանց տվյալների, կարգավորումների, անձնական բառարանների և Wi-Fi գաղտնաբառերի պահուստային պատճենները</b> ձեր Google հաշվի օգնությամբ, որպեսզի հետագայում կարողանաք հեշտությամբ վերականգնել դրանք:</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Տվյալները ներառում են ծրագրերը, ծրագրերի կարգավորումները, համակարգային կարգավորումները և Wi-Fi գաղտնաբառերը:</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Երբ միացնեք ավտոմատ պահուստավորումը, ձեր սարքի տվյալները պարբերաբար կպահվեն ձեր Google հաշվում: Պահուստավորումը կարող է ներառել տեղեկություններ ձեր ծրագրերի տվյալների արկղերից, ինչպիսիք են՝ նախընտրանքները, կարգավորումները, հաղորդագրությունները, լուսանկարները և այլ ֆայլեր:</string>
+    <string name="setup_wizard_services_location_sharing"><b>Օգտագործեք Google-ի տեղադրության ծառայությունը</b>՝ ծրագրերին օգնելով որոշել ձեր տեղադրությունը: Դա նշանակում է անանուն ուղարկել տեղադրության մասին տվյալները Google-ին նույնիսկ այն ժամանակ, երբ ոչ մի ծրագիր միացված չէ: <annotation id="location_details">Իմացեք ավելին</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google-ի տեղադրության ծառայությունն օգտագործում է այնպիսի աղբյուրներ, ինչպիսիք են Wi-Fi-ը և բջջային ցանցերը՝ ձեր սարքի տեղադրության որոշումն ավելի արագ և ճշգրիտ կատարելու համար: Միացնելով Google-ի տեղադրության ծառայությունը, ձեր սարքը մտցնում եք այնպիսի ռեժիմ, որտեղ օգտագործվում են Wi-Fi-ը և բջջային ցանցերը՝ տեղադրությունը որոշելու համար: Դուք կարող եք սա անջատել տեղադրության կարգավորումներից՝ ընտրելով այնպիսի ռեժիմ, որը օգտագործում է միայն GPS: Այն երբեմն կոչվում է Միայն սարքի ռեժիմ:</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Օգնեք բարելավել տեղադրության ծառայությունները</b>՝ ծրագրերին և ծառայություններին թույլ տալով սկանավորել ցանցերը՝ նույնիսկ Wi-Fi-ն անջատած վիճակում:</string>
+    <string name="setup_wizard_services_location_footnote">Google-ի տեղադրության ծառայությունը տեղադրությունն ավելի հստակ ու արագ որոշելու համար օգտագործում է Wi-Fi և այլ ազդակներ՝ հաճախ ավելի քիչ էներգիայի օգտագործմամբ, քան GPS-ը: Որոշ տվյալներ կարող են պահվել ձեր սարքում: Տվյալները կարող են հավաքվել նույնիսկ այն ժամանակ, երբ ոչ մի հավելված չի աշխատում:</string>
+    <string name="setup_wizard_services_play"><b>Պարբերաբար տեղեկացրեք ինձ</b>՝ Google Play-ի նորությունների և առաջարկների մասին:</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Օգնեք բարելավել Android-ի աշխատանքը</b>՝ ավտոմատ ուղարկելով ախտորոշիչ և օգտագործման տվյալները Google-ին: Այս տեղեկատվությունը չի կարող օգտագործվել՝ ձեզ բացահայտելու համար և օգնության ձեռք է մեկնում այն թիմերին, ովքեր աշխատում են կատարելագործել մարտկոցի աշխատանքը, ծրագրերի կատարողականը և նոր Google գործառույթները: <annotation id="usage_reporting_details">Իմացեք ավելին</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Սա պարունակում է ընդհանուր տեղեկություններ ձեր սարքի մասին, և թե ինչպես եք այն օգտագործել, օրինակ՝ մարտկոցի մակարդակը, ինչքան հաճախ եք դուք օգտագործում ձեր ծրագրերը, ցանցային կապերի որակը և տևողությունը (բջջային, Wi-Fi և Bluetooth), և սխալների զեկույցներ, երբ ինչ-որ բան չի աշխատում այնպես, ինչպես պետք է: Այն կօգտագործվի Google-ի արտադրանքները և ծառայությունները բարելավելու համար և կապված չի լինի ձեր Google հաշվի հետ: Որոշ ամփոփ տեղեկություններ կօգնեն գործընկերներին, ինչպիսիք են Android մշակողները՝ իրենց ծրագրերը և արտադրանքը կատարելագործելու համար:
+
+Դուք կարող եք սա միացնել կամ անջատել «Google կարգավորումներ» ծրագրից ցանկացած ժամանակ: Այն չի ազդում ձեր սարքի հնարավորությունների վրա՝ տեղեկություններ ուղարկելիս, որոնք անհրաժեշտ են այնպիսի հիմնական ծառայություններ ստանալու համար, ինչպիսիք են համակարգի թարմացումները և անվտանգությունը:"</string>
+    <string name="setup_wizard_services_agreement">Այս հեռախոսը կարող է նաև ստանալ և տեղադրել թարմացումներ ու ծրագրեր Google-ից, ձեր օպերատորից և սարքի արտադրողից: Որոշ ծրագրեր կարող են ներբեռնվել և տեղադրվել, եթե դուք շարունակեք: Բայց ցանկացած պահի դուք կարող եք հեռացնել դրանք:</string>
+</resources>

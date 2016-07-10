@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d개의 읽지 않은 메일이 있습니다.</item>
+        <item quantity="zero">%1$d개의 읽지 않은 메일이 있습니다.</item>
+        <item quantity="one">%1$d개의 읽지 않은 메일이 있습니다.</item>
+        <item quantity="two">%1$d개의 읽지 않은 메일이 있습니다.</item>
+        <item quantity="few">%1$d개의 읽지 않은 메일이 있습니다.</item>
+        <item quantity="many">%1$d개의 읽지 않은 메일이 있습니다.</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">%1$d개 대화를 보관하시겠습니까?</item>
+        <item quantity="zero">%1$d개 대화를 보관하시겠습니까?</item>
+        <item quantity="one">%1$d개 대화를 보관하시겠습니까?</item>
+        <item quantity="two">%1$d개 대화를 보관하시겠습니까?</item>
+        <item quantity="few">%1$d개 대화를 보관하시겠습니까?</item>
+        <item quantity="many">%1$d개 대화를 보관하시겠습니까?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$d개 대화를 삭제하시겠습니까?</item>
+        <item quantity="zero">%1$d개 대화를 삭제하시겠습니까?</item>
+        <item quantity="one">%1$d개 대화를 삭제하시겠습니까?</item>
+        <item quantity="two">%1$d개 대화를 삭제하시겠습니까?</item>
+        <item quantity="few">%1$d개 대화를 삭제하시겠습니까?</item>
+        <item quantity="many">%1$d개 대화를 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">이 대화에는 축소된 대화가 포함되어 있습니다. 축소된 항목도 전부 삭제하시겠습니까?</item>
+        <item quantity="zero">이 대화에는 축소된 대화가 포함되어 있습니다. 축소된 항목도 전부 삭제하시겠습니까?</item>
+        <item quantity="one">이 대화에는 축소된 대화가 포함되어 있습니다. 축소된 항목도 전부 삭제하시겠습니까?</item>
+        <item quantity="two">이 대화에는 축소된 대화가 포함되어 있습니다. 축소된 항목도 전부 삭제하시겠습니까?</item>
+        <item quantity="few">이 대화에는 축소된 대화가 포함되어 있습니다. 축소된 항목도 전부 삭제하시겠습니까?</item>
+        <item quantity="many">이 대화에는 축소된 대화가 포함되어 있습니다. 축소된 항목도 전부 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">%1$d개 대화의 임시 보관 메시지를 삭제하시겠습니까?</item>
+        <item quantity="zero">%1$d개 대화의 임시 보관 메시지를 삭제하시겠습니까?</item>
+        <item quantity="one">%1$d개 대화의 임시 보관 메시지를 삭제하시겠습니까?</item>
+        <item quantity="two">%1$d개 대화의 임시 보관 메시지를 삭제하시겠습니까?</item>
+        <item quantity="few">%1$d개 대화의 임시 보관 메시지를 삭제하시겠습니까?</item>
+        <item quantity="many">%1$d개 대화의 임시 보관 메시지를 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d개 항목이 선택됨</item>
+        <item quantity="zero">%d개 항목이 선택됨</item>
+        <item quantity="one">%d개 항목이 선택됨</item>
+        <item quantity="two">%d개 항목이 선택됨</item>
+        <item quantity="few">%d개 항목이 선택됨</item>
+        <item quantity="many">%d개 항목이 선택됨</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b>개 대화가 보관되었습니다.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b>개 대화가 보관되었습니다.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>개 대화가 보관되었습니다.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b>개 대화가 보관되었습니다.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b>개 대화가 보관되었습니다.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>개 대화가 보관되었습니다.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b>개 대화가 삭제되었습니다.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b>개 대화가 삭제되었습니다.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>개 대화가 삭제되었습니다.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b>개 대화가 삭제되었습니다.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b>개 대화가 삭제되었습니다.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>개 대화가 삭제되었습니다.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">폴더가 변경됨</item>
+        <item quantity="zero">폴더가 변경됨</item>
+        <item quantity="one">폴더가 변경됨</item>
+        <item quantity="two">폴더가 변경됨</item>
+        <item quantity="few">폴더가 변경됨</item>
+        <item quantity="many">폴더가 변경됨</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b>개 대화가 무시되었습니다.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b>개 대화가 무시되었습니다.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>개 대화가 무시되었습니다.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b>개 대화가 무시되었습니다.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b>개 대화가 무시되었습니다.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>개 대화가 무시되었습니다.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b>개 대화가 중요하지 않음으로 표시되었습니다.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b>개 대화가 중요하지 않음으로 표시되었습니다.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>개 대화가 중요하지 않음으로 표시되었습니다.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b>개 대화가 중요하지 않음으로 표시되었습니다.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b>개 대화가 중요하지 않음으로 표시되었습니다.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>개 대화가 중요하지 않음으로 표시되었습니다.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b>개 대화가 정크 메일이 아닌 것으로 보고되었습니다.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b>개 대화가 정크 메일이 아닌 것으로 보고되었습니다.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>개 대화가 정크 메일이 아닌 것으로 보고되었습니다.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b>개 대화가 정크 메일이 아닌 것으로 보고되었습니다.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b>개 대화가 정크 메일이 아닌 것으로 보고되었습니다.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>개 대화가 정크 메일이 아닌 것으로 보고되었습니다.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b>개 대화가 피싱으로 보고되었습니다.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b>개 대화가 피싱으로 보고되었습니다.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>개 대화가 피싱으로 보고되었습니다.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b>개 대화가 피싱으로 보고되었습니다.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b>개 대화가 피싱으로 보고되었습니다.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>개 대화가 피싱으로 보고되었습니다.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b>개 대화가 스팸으로 보고되었습니다.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b>개 대화가 스팸으로 보고되었습니다.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>개 대화가 스팸으로 보고되었습니다.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b>개 대화가 스팸으로 보고되었습니다.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b>개 대화가 스팸으로 보고되었습니다.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b>개 대화가 스팸으로 보고되었습니다.</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d개 대화에서 별을 제거하는 중입니다.</item>
+        <item quantity="zero">%1$d개 대화에서 별을 제거하는 중입니다.</item>
+        <item quantity="one">%1$d개 대화에서 별을 제거하는 중입니다.</item>
+        <item quantity="two">%1$d개 대화에서 별을 제거하는 중입니다.</item>
+        <item quantity="few">%1$d개 대화에서 별을 제거하는 중입니다.</item>
+        <item quantity="many">%1$d개 대화에서 별을 제거하는 중입니다.</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">임시 보관함</item>
+        <item quantity="zero">임시 보관함</item>
+        <item quantity="one">임시 보관함</item>
+        <item quantity="two">임시 보관함</item>
+        <item quantity="few">임시 보관함</item>
+        <item quantity="many">임시 보관함</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d개의 메일이 영구적으로 삭제됩니다.</item>
+        <item quantity="zero">%1$d개의 메일이 영구적으로 삭제됩니다.</item>
+        <item quantity="one">%1$d개의 메일이 영구적으로 삭제됩니다.</item>
+        <item quantity="two">%1$d개의 메일이 영구적으로 삭제됩니다.</item>
+        <item quantity="few">%1$d개의 메일이 영구적으로 삭제됩니다.</item>
+        <item quantity="many">%1$d개의 메일이 영구적으로 삭제됩니다.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="zero">%dB</item>
+        <item quantity="one">%dB</item>
+        <item quantity="two">%dB</item>
+        <item quantity="few">%dB</item>
+        <item quantity="many">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="zero">%dGB</item>
+        <item quantity="one">%dGB</item>
+        <item quantity="two">%dGB</item>
+        <item quantity="few">%dGB</item>
+        <item quantity="many">%dGB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="zero">%dKB</item>
+        <item quantity="one">%dKB</item>
+        <item quantity="two">%dKB</item>
+        <item quantity="few">%dKB</item>
+        <item quantity="many">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="zero">%dMB</item>
+        <item quantity="one">%dMB</item>
+        <item quantity="two">%dMB</item>
+        <item quantity="few">%dMB</item>
+        <item quantity="many">%dMB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d개 대화 이동</item>
+        <item quantity="zero">%1$d개 대화 이동</item>
+        <item quantity="one">%1$d개 대화 이동</item>
+        <item quantity="two">%1$d개 대화 이동</item>
+        <item quantity="few">%1$d개 대화 이동</item>
+        <item quantity="many">%1$d개 대화 이동</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">메일 이동</item>
+        <item quantity="zero">메일 이동</item>
+        <item quantity="one">메일 이동</item>
+        <item quantity="two">메일 이동</item>
+        <item quantity="few">메일 이동</item>
+        <item quantity="many">메일 이동</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d개의 새로운 수신 메일이 있습니다. 표시</item>
+        <item quantity="zero">%1$d개의 새로운 수신 메일이 있습니다. 표시</item>
+        <item quantity="one">%1$d개의 새로운 수신 메일이 있습니다. 표시</item>
+        <item quantity="two">%1$d개의 새로운 수신 메일이 있습니다. 표시</item>
+        <item quantity="few">%1$d개의 새로운 수신 메일이 있습니다. 표시</item>
+        <item quantity="many">%1$d개의 새로운 수신 메일이 있습니다. 표시</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d개 항목이 선택됨</item>
+        <item quantity="zero">%d개 항목이 선택됨</item>
+        <item quantity="one">%d개 항목이 선택됨</item>
+        <item quantity="two">%d개 항목이 선택됨</item>
+        <item quantity="few">%d개 항목이 선택됨</item>
+        <item quantity="many">%d개 항목이 선택됨</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d개의 읽은 메일이 있습니다.</item>
+        <item quantity="zero">%1$d개의 읽은 메일이 있습니다.</item>
+        <item quantity="one">%1$d개의 읽은 메일이 있습니다.</item>
+        <item quantity="two">%1$d개의 읽은 메일이 있습니다.</item>
+        <item quantity="few">%1$d개의 읽은 메일이 있습니다.</item>
+        <item quantity="many">%1$d개의 읽은 메일이 있습니다.</item>
+    </plurals>
+</resources>

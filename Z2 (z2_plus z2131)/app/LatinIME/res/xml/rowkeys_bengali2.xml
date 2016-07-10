@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <Key latin:moreKeys="ো" latin:keySpec="ও" />
+    <Key latin:moreKeys="ে" latin:keySpec="এ" />
+    <Key latin:moreKeys="্" latin:keySpec="অ" />
+    <Key latin:moreKeys="ি" latin:keySpec="ই" />
+    <Key latin:moreKeys="ু" latin:keySpec="উ" />
+    <Key latin:moreKeys="ফ" latin:keySpec="প" />
+    <Key latin:moreKeys="ৃ,ঋ,ত্র" latin:keySpec="র" />
+    <Key latin:moreKeys="খ" latin:keySpec="ক" />
+    <Key latin:moreKeys="ৎ,থ,ত্ত" latin:keySpec="ত" />
+    <Key latin:moreKeys="ছ" latin:keySpec="চ" />
+    <Key latin:moreKeys="ঠ" latin:keySpec="ট" />
+</merge>

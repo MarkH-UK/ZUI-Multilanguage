@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="type" format="integer" />
+    <attr name="showMore" format="boolean" />
+    <attr name="showDivider" format="boolean" />
+    <attr name="showLongDivider" format="boolean" />
+    <attr name="showSwitch" format="boolean" />
+    <attr name="showCheckBox" format="boolean" />
+    <attr name="clickable" format="boolean" />
+    <attr name="background" format="reference" />
+    <attr name="drawableIcon" format="reference" />
+    <attr name="textContent" format="string" />
+    <attr name="textContentSize" format="integer" />
+    <attr name="textContentColor" format="color" />
+    <attr name="textNote" format="string" />
+    <attr name="textNoteSize" format="integer" />
+    <attr name="textNoteColor" format="color" />
+    <attr name="minContentHeight" format="reference" />
+</resources>

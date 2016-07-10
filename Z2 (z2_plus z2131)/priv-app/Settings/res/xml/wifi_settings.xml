@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/wifi_settings" settings:keywords="@string/keywords_wifi"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <SwitchPreference android:persistent="true" android:title="@string/wifi_settings_title" android:key="wifi_switch_on_preference" />
+    <com.android.settings.wifi.AccessPoint android:layout="@layout/preference_widget_wifi_info_detail" android:key="wifi_connected_preference" android:widgetLayout="@layout/preference_widget_ap" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/wifi_new_network" android:key="wifi_addnetwork_preference" />
+    <PreferenceCategory android:key="wifi_advance_category">
+        <Preference android:layout="@layout/preference_label" android:title="@string/wifi_advance_display" android:key="wifi_display_preference" android:widgetLayout="@layout/preference_widget_forward" />
+        <Preference android:layout="@layout/preference_label" android:title="@string/wifi_advance_settings" android:key="wifi_advance_preference" android:widgetLayout="@layout/preference_widget_forward" />
+    </PreferenceCategory>
+</PreferenceScreen>

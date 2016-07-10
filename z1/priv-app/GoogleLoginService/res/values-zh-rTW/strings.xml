@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play 服務發生錯誤</string>
+    <string name="common_google_play_services_notification_needs_installation_title">應用程式要求安裝 Google Play 服務。</string>
+    <string name="common_google_play_services_notification_needs_update_title">應用程式要求更新 Google Play 服務。</string>
+    <string name="common_android_wear_notification_needs_update_text">有一個應用程式要求更新 Android Wear 應用程式。</string>
+    <string name="common_google_play_services_needs_enabling_title">應用程式要求啟用 Google Play 服務。</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">「%1$s」提出要求</string>
+    <string name="common_google_play_services_install_title">取得 Google Play 服務</string>
+    <string name="common_google_play_services_install_text_phone">您的手機並未安裝 Google Play 服務，所以無法執行這個應用程式。</string>
+    <string name="common_google_play_services_install_text_tablet">您的平板電腦並未安裝 Google Play 服務，所以無法執行這個應用程式。</string>
+    <string name="common_google_play_services_install_button">取得 Google Play 服務</string>
+    <string name="common_google_play_services_enable_title">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_enable_text">您必須啟用 Google Play 服務，這個應用程式才能運作。</string>
+    <string name="common_google_play_services_enable_button">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服務</string>
+    <string name="common_android_wear_update_title">更新 Android Wear</string>
+    <string name="common_google_play_services_update_text">您必須更新 Google Play 服務，才能執行這個應用程式。</string>
+    <string name="common_android_wear_update_text">您必須更新 Android Wear 應用程式，這個應用程式才能運作。</string>
+    <string name="common_google_play_services_network_error_title">網路錯誤</string>
+    <string name="common_google_play_services_network_error_text">需要數據連線才能連上 Google Play 服務。</string>
+    <string name="common_google_play_services_invalid_account_title">無效的帳戶</string>
+    <string name="common_google_play_services_invalid_account_text">這個裝置上沒有您所指定的帳戶，請選擇其他帳戶。</string>
+    <string name="common_google_play_services_unknown_issue">Google Play 服務發生不明問題。</string>
+    <string name="common_google_play_services_unsupported_title">Google Play 服務</string>
+    <string name="common_google_play_services_unsupported_text">您的裝置不支援部分應用程式所需的 Google Play 服務。如需協助，請與您的裝置製造商聯絡。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_signin_button_text">登入</string>
+    <string name="common_signin_button_text_long">使用 Google 帳戶登入</string>
+    <string name="common_open_on_phone">在手機上開啟</string>
+    <string name="setup_wizard_next_button_label">繼續</string>
+    <string name="setup_wizard_back_button_label">返回</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">略過</string>
+    <string name="down_button_label">更多</string>
+    <string name="cancel_button_label">取消</string>
+    <string name="try_again_button_label">再試一次</string>
+    <string name="close_button_label">關閉</string>
+    <string name="url_load_unsuccessful_message">Android 裝置尚未連線至數據傳輸服務，如要立即查看這項資訊，請使用網路瀏覽器瀏覽 %s。</string>
+    <string name="sign_in_agreement">登入即表示您同意《<annotation id="tos">Google 服務條款</annotation>》、《<annotation id="google_privacy">Google 隱私權政策</annotation>》和《<annotation id="play_tos">Google Play 服務條款</annotation>》。</string>
+    <string name="android_privacy_policy_title">其他隱私權政策</string>
+    <string name="google_terms_of_service_title">Google 服務條款</string>
+    <string name="google_privacy_policy_title">Google 隱私權政策</string>
+    <string name="google_plus_privacy_policy_title">Google+ 隱私權政策</string>
+    <string name="google_play_tos_title">Google Play 服務條款</string>
+    <string name="chrome_tos_title">Chrome 服務條款</string>
+    <string name="chrome_privacy_title">Chrome 隱私權聲明</string>
+    <string name="url_load_unsuccessful_message_wifi_only">您的 Android 裝置並未連上 Wi-Fi 網路。如要立即查看這項資訊，請透過網路瀏覽器造訪 %s。</string>
+    <string name="services_activity_title">Google 服務</string>
+    <string name="services_backup_heading">備份</string>
+    <string name="services_location_heading">定位</string>
+    <string name="services_security_heading">安全性</string>
+    <string name="services_personalization_heading">個人化</string>
+    <string name="services_communication_heading">通訊</string>
+    <string name="security_verify_apps_summary">允許 Google 檢查所有已安裝的應用程式，杜絕可能影響裝置或資料安全性的有害行為。</string>
+    <string name="name_title">您的姓名</string>
+    <string name="name_text">我們會使用您的名稱將您的手機和 Google 服務個人化。</string>
+    <string name="first_name">名字</string>
+    <string name="last_name">姓氏</string>
+    <string name="cant_be_blank">欄位不能空白。</string>
+    <string name="sharedUserLabel">Google 服務</string>
+    <string name="app_label">Google 帳戶管理員</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">登入</string>
+    <string name="create_button_label">建立帳戶</string>
+    <string name="not_now_button_label">暫時不要</string>
+    <string name="new_button_label">新增帳戶</string>
+    <string name="existing_button_label">現有帳戶</string>
+    <string name="done">確定</string>
+    <string name="edit_text_help">輕觸任何文字方塊即可開始輸入</string>
+    <string name="add_a_google_account">新增 Google 帳戶</string>
+    <string name="captcha_title">需要輸入人機驗證 (Captcha)</string>
+    <string name="show_error_title">錯誤</string>
+    <string name="server_error">與 Google 伺服器通訊時發生問題。</string>
+    <string name="server_error_help">請稍後再試。</string>
+    <string name="network_unreliable">無法與伺服器建立穩定的連線。</string>
+    <string name="network_unreliable_help">這可能是暫時性問題，也可能是您的 Android 裝置無法使用數據傳輸服務。如果問題持續發生，請與客戶服務中心聯絡。</string>
+    <string name="network_unreliable_help_wifi_only">這可能是暫時性問題，請再試一次，或連線至其他 Wi-Fi 網路。</string>
+    <string name="invalid_login_character">無效字元。只允許使用 0-9、a-z、A-Z 和點。</string>
+    <string name="invalid_password_character">密碼字元無效。</string>
+    <string name="calendar">Google 日曆</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">欄位不能空白。</string>
+    <string name="plus_query_title">升級至 Google+</string>
+    <string name="plus_query_text">Google+ 提供您有如在現實生活中的分享體驗。</string>
+    <string name="circles_subtitle">尋找您感興趣的各種事物</string>
+    <string name="circles_text">與好友交流互動，發掘共同興趣</string>
+    <string name="uploads_subtitle">自動備份相片</string>
+    <string name="uploads_text">立即備份您拍好的相片，並且提供免費的私人儲存空間。</string>
+    <string name="huddle_subtitle">視訊通話和簡訊</string>
+    <string name="huddle_text">Hangouts 可傳送簡訊和相片，並提供免費群組視訊通話。</string>
+    <string name="plus_declined_button_label">暫時不要</string>
+    <string name="plus_accepted_button_label">開始設定</string>
+    <string name="plus_name_check_title">正在連線至 Google+…</string>
+    <string name="plus_name_check_text">這個程序可能需要幾分鐘。</string>
+    <string name="plus_faq_title">歡迎使用 Google+！</string>
+    <string name="plus_faq_text" formatted="false">"Google+ 可供您公開個人資料，讓您的好友更容易在線上找到您。只要知道您的電子郵件地址，任何人都能找到並查看您的個人資料。
+
+另外，透過網路上的 +1 按鈕，您可以將喜愛的網頁推薦給全世界。您的個人資料和您 +1 過的項目都將公開顯示在搜尋結果中、廣告上和網路各處。
+
+您的個人資料目前只顯示您的姓名 (%s%s)，而當您開始使用 Google+ 後，即可新增相片、簡介及其他詳細資料。"</string>
+    <string name="dasher_warning">%s 的管理員可擁有和管理您在 Google+ 上的所有資料，並且可以在未經您允許的情況下隨時刪除或修改您的個人資料。</string>
+    <string name="profile_info_title">您的個人資料</string>
+    <string name="profile_text">請為您的個人資料提供一些基本資訊。以後開始使用 Google+ 時，可新增相片和其他詳細資訊。</string>
+    <string name="occupation">職業</string>
+    <string name="current_city">目前居住的城市</string>
+    <string name="picassa_info_title">Picasa 和 Google+</string>
+    <string name="picassa_info_text" formatted="false">您儲存在「Picasa 網路相簿」上的相片和影片也會出現在 Google+ 上，而且留言的署名是 %s %s (而非 %s)。如果您透過 Google+ 分享相片，分享對象可以將相片轉貼給其他任何人。您相簿的瀏覽權限設定不會因此變更，但您隨時可以限制瀏覽權限，讓他人無法任意轉貼。</string>
+    <string name="name_title_plus">您的 Google+ 名稱</string>
+    <string name="name_title_local">這支手機屬於…</string>
+    <string name="name_text_local">手機會使用您的名稱將部分應用程式個人化。</string>
+    <string name="name_progress_title">請稍候…</string>
+    <string name="bad_name_title">確定使用這個名稱？</string>
+    <string name="invalid_name_title">不能使用這個名稱</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"如果您要使用這個 Google+ 名稱，必須通過本小組的審查。如果該名稱違反我們的《名稱政策》，您的個人資料可能遭到停權，導致您無法存取需要有效個人資料的 Google 產品。
+
+"<annotation id="learn_more">瞭解詳情</annotation></string>
+    <string name="invalid_name_text">這個名稱含有無效字元，不能當做 Google+ 名稱使用。</string>
+    <string name="invalid_nickname_text">這個名稱含有無效字元，不能當做 Google+ 名稱使用。您想使用暱稱、之前的名稱或職稱嗎？別擔心，加入後即可在個人資料中加進這些名稱。</string>
+    <string name="invalid_other_text">這個名稱不能當做 Google+ 名稱使用。</string>
+    <string name="bad_name_agree_text">我瞭解上述條款並且要使用這個名稱。</string>
+    <string name="bad_name_decline_button_label">更新名稱</string>
+    <string name="bad_name_agree_button_label">提交名稱以供審查</string>
+    <string name="bad_name_skip_button_label">略過 Google+</string>
+    <string name="photo_title">您的相片</string>
+    <string name="photo_text">這張相片會用在您的聯絡人紀錄中，日後您可透過「使用者」應用程式更換相片。</string>
+    <string name="photo_text_es">拍攝的相片會顯示在 Google+ 上供朋友欣賞，您可以稍後再選一張新相片。</string>
+    <string name="photo_button_label">拍照</string>
+    <string name="retake_photo_button_label">重新拍照</string>
+    <string name="photo_failure">無法啟動相機。</string>
+    <string name="crop_failure">無法裁剪相片。</string>
+    <string name="photo_description">您的相片</string>
+    <string name="communicating_message">您的手機正與 Google 連線，要求將資訊儲存至您的帳戶。這個程序最多可能需要 5 分鐘。</string>
+    <string name="creating_account_title">正在儲存帳戶…</string>
+    <string name="checking_username_message">"您的手機正在連線至 Google 檢查您想要的使用者名稱是否可用。
+
+這可能需要幾分鐘的時間。"</string>
+    <string name="plus_failure_title">請稍後再加入 Google+</string>
+    <string name="plus_failure_new_account_text">您已建立「Google 帳戶」，但您要求加入 Google+ 的申請未通過，稍後請透過任一種網路瀏覽器前往 plus.google.com 再試一次。</string>
+    <string name="plus_failure_text">您要求加入 Google+ 的申請未通過，稍後請透過任一種網路瀏覽器前往 plus.google.com 再試一次。</string>
+    <string name="provisioned_login_title">輸入密碼</string>
+    <string name="provisioned_welcome">%s，您好！</string>
+    <string name="provisioned_welcome_2">"輸入下列帳戶的密碼：
+%s"</string>
+    <string name="provisioned_incorrect_login">不是 %s 嗎？</string>
+    <string name="login_title">輸入電子郵件地址和密碼</string>
+    <string name="login_task_title">登入中</string>
+    <string name="password">密碼</string>
+    <string name="restore_wifi">還原並連線至已知 Wi‑Fi 網路。</string>
+    <string name="sign_in_agreement_multi_user">登入即表示您同意《<annotation id="tos">Google 服務條款</annotation>》、《<annotation id="google_privacy">Google 隱私權政策</annotation>》以及《<annotation id="play_tos">Google Play 服務條款</annotation>"》。
+
+注意：其他任何使用者都可以代表您接受更新的應用程式權限。建議您只與自己信任的使用者共用這台平板電腦，就像共用任何一台電腦一樣。"</string>
+    <string name="sign_in_agreement_with_chrome">登入即表示您同意《<annotation id="tos">Google 服務條款</annotation>》和《<annotation id="google_privacy">Google 隱私權政策</annotation>》、《<annotation id="chrome_tos">Chrome 服務條款</annotation>》和《<annotation id="chrome_privacy">Chrome 隱私權政策</annotation>》，以及《<annotation id="play_tos">Google Play 服務條款</annotation>》。</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">登入即表示您同意《<annotation id="tos">Google 服務條款</annotation>》和《<annotation id="google_privacy">Google 隱私權政策</annotation>》、《<annotation id="chrome_tos">Chrome 服務條款</annotation>》和《<annotation id="chrome_privacy">Chrome 隱私權聲明</annotation>》以及《<annotation id="play_tos">Google Play 服務條款</annotation>"》。
+
+注意：其他任何使用者都可以代表您接受更新的應用程式權限。建議您只與自己信任的使用者共用這台平板電腦，就像共用任何一台電腦一樣。"</string>
+    <string name="create_prompt">" 還沒有 Google 帳戶嗎？"<annotation id="create_account">立即建立帳戶</annotation>。</string>
+    <string name="sign_in_with_google_account_short">以您的「Google 帳戶」登入：</string>
+    <string name="invalid_username">您輸入的使用者名稱無效。</string>
+    <string name="captcha_instructions">輸入這裡顯示的文字：</string>
+    <string name="create_google_account">選擇使用者名稱</string>
+    <string name="create_google_account_text">擁有 Google 帳戶即可使用 Gmail，這項由 Google 提供的電子郵件服務適用於任何裝置，不僅能有效封鎖垃圾郵件，還提供豐富的功能。</string>
+    <string name="account_already_has_gmail">此帳戶已經有 Gmail。</string>
+    <string name="error_account_disabled">"這個帳戶已遭停用。
+
+(如要瞭解詳情，請透過網路瀏覽器造訪 https://google.com/accounts。)"</string>
+    <string name="no_network">沒有網路連線。</string>
+    <string name="no_network_help">這可能是暫時性問題，也可能是您的 Android 裝置無法使用數據傳輸服務。請在連線至行動網路或 Wi-Fi 網路後再試一次。</string>
+    <string name="no_network_help_wifi_only">這可能是暫時性問題，請再試一次，或連線至其他 Wi-Fi 網路。</string>
+    <string name="error_login_failed">"您的使用者名稱和密碼不符，請再試一次。
+
+如要復原帳戶資訊，請前往 google.com/accounts/recovery/。"</string>
+    <string name="error_account_not_verified">"這個帳戶尚未通過驗證。請檢查您的電子郵件，並使用內附連結完成帳戶驗證。
+
+如要復原帳戶資訊，請在電腦上前往 http://www.google.com/accounts/recovery。"</string>
+    <string name="exit_menu_item">結束瀏覽器登入畫面</string>
+    <string name="creating_profile">正在建立您的個人資料…</string>
+    <string name="checking_account">正在檢查是否可用…</string>
+    <string name="is_not_available">使用者名稱 <b>^1</b> 無法使用。</string>
+    <string name="suggestions_hint">輕觸即可取得建議</string>
+    <string name="suggest_username_next_button_label">變更使用者名稱</string>
+    <string name="hint_size">" "<b>^1</b> 少於 6 個字元或超過 30 個字元。</string>
+    <string name="hint_numbers_only">" "<b>^1</b> 並未包含任何英文字母。</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" 只能包含英文字母、
+數字和點號。"</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> 並未使用 Gmail。</string>
+    <string name="sign_in_browser">瀏覽器登入畫面</string>
+    <string name="alternatives_list_title">建議的使用者名稱</string>
+    <string name="password_title">建立密碼</string>
+    <string name="choose_a_password">密碼</string>
+    <string name="confirm_password">重新輸入密碼</string>
+    <string name="too_short">太過簡短</string>
+    <string name="security_questions_title">安全性問題</string>
+    <string name="answer">" "<b>答案</b></string>
+    <string name="password_mismatch">密碼不相符，請再試一次。</string>
+    <string name="eight_chars_min">最少要有 8 個字元</string>
+    <string name="verify_your_profile">驗證您的設定檔</string>
+    <string name="error_not_logged_in">使用者尚未登入。</string>
+    <string name="error_username_unavailable">無法使用這個使用者名稱。</string>
+    <string name="error_bad_password">密碼強度太弱或包含無效的字元。請再試一次。</string>
+    <string name="error_bad_username">使用者名稱無效。</string>
+    <string name="existing_account_error_title">帳戶已存在</string>
+    <string name="existing_account_error_text">這個 Android 裝置中已經有 ^1 帳戶。</string>
+    <string name="submission_title">抱歉…</string>
+    <string name="submission_error_text">發生錯誤，請再試一次。</string>
+    <string name="sync_intro_title">帳戶同步處理</string>
+    <string name="account_tos_title">完成帳戶設定</string>
+    <string name="account_tos_plus_title">成功加入 Google+</string>
+    <string name="i_accept">我接受</string>
+    <string name="i_decline">不建立帳戶</string>
+    <string name="allow_personalized_content">允許 Google 使用您的資訊在 Google 以外的網站上為您提供個人化的內容和廣告。</string>
+    <string name="enable_web_history">啟用網頁紀錄</string>
+    <string name="learn_more"><annotation id="learn_more">瞭解詳情</annotation></string>
+    <string name="account_creation_tos">繼續進行即表示您同意《<annotation id="tos">Google 服務條款</annotation>》、《<annotation id="google_privacy">Google 隱私權政策</annotation>》和《<annotation id="play_tos">Google Play 服務條款</annotation>》。</string>
+    <string name="account_creation_tos_with_chrome">繼續進行即表示您同意《<annotation id="tos">Google 服務條款</annotation>》和《<annotation id="google_privacy">Google 隱私權政策</annotation>》、《<annotation id="chrome_tos">Chrome 服務條款</annotation>》和《<annotation id="chrome_privacy">Chrome 隱私權政策</annotation>》，以及《<annotation id="play_tos">Google Play 服務條款</annotation>》。</string>
+    <string name="gender_prompt">性別</string>
+    <string name="gender_hint">性別</string>
+    <string name="account_pre_intro_title">已有 Google 帳戶？</string>
+    <string name="account_pre_intro_default_message">"您有 Google 帳戶嗎？
+
+如果您已經是 Gmail 或 Google Apps 的使用者，請回答「是」。"</string>
+    <string name="account_pre_intro_yes">是</string>
+    <string name="account_pre_intro_no">否</string>
+    <string name="account_intro_title">Google 帳戶</string>
+    <string name="account_intro_required_title">Google 技術提供</string>
+    <string name="account_intro_recommended_title">加入 Google</string>
+    <string name="account_intro_default_message">Google 帳戶可確保所有資料安全無虞，再也不會弄丟了。</string>
+    <string name="account_intro_simple_message">您要加入現有的帳戶還是建立新帳戶？</string>
+    <string name="account_intro_learn_more">瞭解詳情</string>
+    <string name="learn_more_title">瞭解詳情</string>
+    <string name="learn_more_account_intro">"Google 帳戶可讓您執行以下功能：
+
+"<li><ul>隨時隨地查看及管理所有資訊，包括搜尋紀錄。</ul></li>"
+
+"<li><ul>自動備份您的資料，例如電子郵件、聯絡人、音樂和圖片。</ul></li>"
+
+"<li><ul>隨時隨地輕鬆使用各項 Google 服務，包括聯絡人、日曆、地圖等。</ul></li></string>
+    <string name="learn_more_account_intro_title">關於 Google 帳戶</string>
+    <string name="learn_more_bad_name">Google+ 要求您使用自己的本名。您的個人資料必須代表個人 (非公司、機構或家族)，且必須使用同一種語言輸入自己的名字和姓氏 (不含職稱或任何非必要的標點符號)。申請成功後，您可以在個人資料的 [其他名稱] 欄位中加入暱稱或其他名稱。</string>
+    <string name="learn_more_bad_name_title">關於名稱政策</string>
+    <string name="wait_for_device_country_title">帳戶設定</string>
+    <string name="wait_for_device_country_msg">正在收集您的手機相關資訊，請稍候 30 秒。</string>
+    <string name="recovery_title">Google 密碼復原</string>
+    <string name="recovery_wait_title">正在連線至 Google…</string>
+    <string name="cannot_talk_to_server_msg">裝置無法連線至 Google。</string>
+    <string name="recovery_skip_label">略過</string>
+    <string name="recovery_retry_label">再試一次</string>
+    <string name="recovery_message_set">"如果您曾經忘記密碼，可能就需要使用密碼還原功能。
+
+Google 可讓您選擇透過簡訊或替代電子郵件地址還原密碼。
+
+強烈建議您採取這項步驟。"<annotation id="help_url">瞭解詳情</annotation></string>
+    <string name="recovery_message_verify">"密碼很容易忘記。
+
+請立即確認電話號碼或備援電子郵件地址，萬一需要重新存取自己的 Google 內容和 Google Play 收藏時，可以提供協助。"<annotation id="help_url">瞭解詳情</annotation></string>
+    <string name="recovery_yes_button_label">設定復原選項</string>
+    <string name="recovery_yes_button_label_verify">確認復原選項</string>
+    <string name="recovery_later_button_label">暫時不要</string>
+    <string name="recovery_input_screen_message">這項復原資訊適用於「%s」。</string>
+    <string name="secondary_email_hint">備援電子郵件</string>
+    <string name="secondary_email_invalid">電子郵件地址無效</string>
+    <string name="secondary_email_same_as_primary">不可與主要電子郵件地址相同</string>
+    <string name="phone_number_hint">電話號碼</string>
+    <string name="phone_number_invalid_character">電話號碼含無效字元</string>
+    <string name="phone_number_invalid">電話號碼無效</string>
+    <string name="country_invalid">不接受這個國家/地區</string>
+    <string name="recovery_server_error">連線至伺服器時發生錯誤，請稍候片刻再試。</string>
+    <string name="account_recovery_info">如果您遺失自己的密碼，可以回答安全性問題，系統會以電子郵件將重設連結傳送至另一個地址。</string>
+    <string name="secondary_email_label">備援電子郵件地址</string>
+    <string name="invalid_email">"您輸入的電子郵件地址無效。
+範例：joe@example.com"</string>
+    <string name="invalid_email_primary">備援地址不能和您建立帳戶時使用的電子郵件地址相同。</string>
+    <string name="backup_consent_message">"透過 Google 帳戶備份您的應用程式、設定 (例如書籤和 Wi-Fi 密碼) 和其他資料。如果您先前已備份帳戶資料，現在就可以將資料還原到這支手機。
+
+您隨時可以前往「設定」變更備份設定。"</string>
+    <string name="backup_consent_message_no_restore">"透過 Google 帳戶備份您的應用程式、設定 (例如書籤和 Wi-Fi 密碼) 和其他資料。
+
+您隨時可以前往「設定」變更備份設定。"</string>
+    <string name="restoring_title">還原中…</string>
+    <string name="restoring_message">您的手機正與 Google 連線，要求還原您的帳戶。這個程序可能需要一段時間。</string>
+    <string name="gls_notification_login_error">請輕觸以登入您的帳戶。</string>
+    <string name="gls_ui_add_account_title">帳戶設定</string>
+    <string name="gls_ui_activity_title">登入</string>
+    <string name="gls_ui_activity_title_browser_signin">登入</string>
+    <string name="gls_ui_activity_title_checking_in">準備中…</string>
+    <string name="gls_ui_activity_authenticating">正在驗證…</string>
+    <string name="gls_dmagent_activity_activate_message">" 您的網域要求進行行動裝置管理，請啟用「Google Apps Device Policy」應用程式，以執行  "<b>^1</b> 帳戶所要求的安全政策。</string>
+    <string name="gls_dmagent_activity_activate_retry_button">啟用</string>
+    <string name="gls_dmagent_activity_download_message">" 您的網域要求進行行動裝置管理，請安裝「Google Apps Device Policy」應用程式，以執行  "<b>^1</b> 帳戶所要求的安全政策。</string>
+    <string name="gls_dmagent_activity_download_retry_button">下載</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">您輸入的密碼不正確，或您的帳戶已變更。請重新輸入密碼。</string>
+    <string name="permlab_googleAuthPassword">存取 Google 帳戶的密碼</string>
+    <string name="permdesc_googleAuthPassword">允許應用程式直接存取您已設定的 Google 帳戶密碼。</string>
+    <string name="permlab_googleMailSwitch">選取 Gmail 或 Google Mail</string>
+    <string name="permdesc_googleMailSwitch">允許應用程式切換使用 Gmail 或 Google Mail 做為顯示名稱。</string>
+    <string name="sync_item_title">同步處理%s</string>
+    <string name="grant_credentials_permission_message_footer">對方要求以下權限：</string>
+    <string name="grant_credentials_permission_message_app">這些應用程式要求即日起可隨時存取您的 Google 帳戶：</string>
+    <string name="grant_permissions_header_text">權限要求</string>
+    <string name="allow">允許存取</string>
+    <string name="deny">不用了，謝謝！</string>
+    <string name="permission_request_notification_with_subtitle">"%s 帳戶的
+權限要求"</string>
+    <string name="notification_title">%1$s 登入錯誤</string>
+    <string name="account_setup_title">Google 帳戶</string>
+    <string name="login_activity_title">登入</string>
+    <string name="relogin_activity_title">重新輸入密碼</string>
+    <string name="show_error_activity_title">無法登入</string>
+    <string name="login_activity_task_title">登入中…</string>
+    <string name="login_activity_task_msg">這個程序可能需要幾分鐘。</string>
+    <string name="prepare_account_setup_task_title">正在準備設定帳戶…</string>
+    <string name="prepare_account_setup_task_msg">這可能需要幾分鐘。</string>
+    <string name="sync_intro_activity_title">同步您的帳戶</string>
+    <string name="username">電子郵件</string>
+    <string name="error_invalid_second_factor">請使用應用程式專用密碼，而不是您的一般帳戶密碼。</string>
+    <string name="error_needs_browser">如要存取您的帳戶，請先登入網路。輕觸 [下一步] 即可啟動瀏覽器進行登入。</string>
+    <string name="google_play_opt_in">我想收到 Google Play 的最新消息和優惠通知。</string>
+    <string name="google_settings_header_title">隱私權</string>
+    <string name="maps_settings_title">地圖與定位</string>
+    <string name="location_settings_title">位置資訊</string>
+    <string name="search_settings_title">搜尋</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">廣告</string>
+    <string name="location_network_based">Google 的定位服務</string>
+    <string name="location_neighborhood_level">允許系統將匿名的位置資料傳送給 Google，也允許授權的應用程式使用 Wi-Fi 和行動網路等來源資料判斷您的約略位置。</string>
+    <string name="use_location_title">位置資訊與 Google 搜尋</string>
+    <string name="use_location_summary">允許 Google 使用您的位置資訊來改善搜尋結果和其他服務</string>
+    <string name="backup_consent_yes_agree">使用 Google 帳戶備份您的應用程式、設定 (例如書籤和 Wi-Fi 密碼) 以及其他資料。</string>
+    <string name="restore_consent_yes_agree">將您先前備份到 Google 帳戶的應用程式、設定以及其他資料復原到這支手機。</string>
+    <string name="audit_logging_summary">自動將裝置活動和診斷資訊傳送給 Google，協助我們改善產品並保護您的裝置。</string>
+    <string name="no_back_msg">無法返回上一步</string>
+    <string name="setup_wizard_title">設定精靈</string>
+    <string name="setup_wizard_services_activity_title">Google 服務</string>
+    <string name="setup_wizard_services_description">您隨時可以開啟或關閉這些 Google 服務。我們將依據 Google 的《<annotation id="google_privacy">隱私權政策</annotation>》使用您的資料。</string>
+    <string name="setup_wizard_services_backup_restore_heading">備份與還原</string>
+    <string name="setup_wizard_services_location_heading">定位</string>
+    <string name="setup_wizard_services_communication_heading">通訊</string>
+    <string name="setup_wizard_services_backup">使用您的 Google 帳戶<b>備份手機的應用程式、應用程式資料、設定、個人字典和 Wi‑Fi 密碼</b>，以便日後輕鬆還原。<annotation id="backup_details">瞭解詳情</annotation></string>
+    <string name="setup_wizard_services_backup_restore">使用您的 Google 帳戶<b>備份您的應用程式、應用程式資料、設定、個人字典和 Wi‑Fi 密碼</b>，以便日後輕鬆還原。</string>
+    <string name="setup_wizard_services_backup_restore_footnote">資料包括應用程式、應用程式設定、系統設定和 Wi‑Fi 密碼。</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">開啟自動備份功能後，裝置會定期將資料儲存至您的 Google 帳戶。備份內容可能包含應用程式資料夾中的資訊，例如偏好設定、設定、郵件、相片和其他檔案。</string>
+    <string name="setup_wizard_services_location_sharing"><b>使用 Google 的定位服務</b>可協助應用程式判斷您的位置。系統會以匿名方式將您的位置資料傳送給 Google (即使您未執行任何應用程式)。<annotation id="location_details">瞭解詳情</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google 的定位服務會使用 Wi‑Fi 和行動網路這類資源，以便快速精確地判斷您裝置的所在位置。開啟 Google 的定位服務後，裝置將會進入使用 Wi‑Fi 和行動網路來提供位置資訊的模式。如要關閉這個模式，請在位置設定中選擇只使用 GPS 的模式 (部分裝置稱之為「僅限裝置」模式)。</string>
+    <string name="setup_wizard_services_location_wifi_scan">允許應用程式和服務掃描 Wi‑Fi 網路可<b>提升定位服務的精確度</b> (即使 Wi-Fi 已關閉)。</string>
+    <string name="setup_wizard_services_location_footnote">Google 的定位服務會使用 Wi‑Fi 和其他訊號提升定位的精確度和速度 (耗電量普遍低於 GPS)。系統會在您的裝置上儲存部分位置資料，並可能在應用程式未執行時收集位置資料。</string>
+    <string name="setup_wizard_services_play"><b>我要接收 Google Play 相關電子郵件</b>，獲得最新消息和優惠資訊。</string>
+    <string name="setup_wizard_services_usage_reporting">自動將診斷及使用資料傳送給 Google，<b>協助改善您的 Android 使用體驗</b>。這些資訊會經過匿名處理，對我們的許多小組都有所幫助，諸如電池續航力、應用程式效能，以及 Google 新功能等方面。<annotation id="usage_reporting_details">瞭解詳情</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"您所傳送的資料包括裝置及其使用情形 (例如電量、應用程式使用頻率，以及數據連線、Wi-Fi 和藍牙等網路連線的品質和連線時間) 的一般資訊，以及系統在發生錯誤時所產生的當機報告。這些資料將用於改善 Google 的各項產品與服務，讓所有使用者受惠，但不會與您的 Google 帳戶建立關聯。此外，部分匯總資訊也有助於合作夥伴 (例如 Android 開發人員) 改善其應用程式和產品。
+
+您隨時可以在 Google 設定應用程式中開啟或關閉這項設定，這不會對裝置傳送必要資訊以取得基本服務 (例如系統更新與安全性) 的功能造成影響。"</string>
+    <string name="setup_wizard_services_agreement">手機可接收來自 Google、您的行動通訊業者和手機製造商的更新和應用程式，並進行安裝。如果繼續作業，系統可能下載並安裝部分應用程式，不過您隨時可予以移除。</string>
+</resources>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d olästa meddelanden</item>
+        <item quantity="zero">%1$d oläst meddelande</item>
+        <item quantity="one">%1$d oläst meddelande</item>
+        <item quantity="two">%1$d olästa meddelanden</item>
+        <item quantity="few">%1$d olästa meddelanden</item>
+        <item quantity="many">%1$d olästa meddelanden</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Vill du arkivera %1$d konversationerna?</item>
+        <item quantity="zero">Vill du arkivera %1$d konversationen?</item>
+        <item quantity="one">Vill du arkivera %1$d konversationen?</item>
+        <item quantity="two">Vill du arkivera %1$d konversationerna?</item>
+        <item quantity="few">Vill du arkivera %1$d konversationerna?</item>
+        <item quantity="many">Vill du arkivera %1$d konversationerna?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Vill du radera %1$d konversationerna?</item>
+        <item quantity="zero">Vill du radera %1$d konversationen?</item>
+        <item quantity="one">Vill du radera %1$d konversationen?</item>
+        <item quantity="two">Vill du radera %1$d konversationerna?</item>
+        <item quantity="few">Vill du radera %1$d konversationerna?</item>
+        <item quantity="many">Vill du radera %1$d konversationerna?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">De här konversationerna innehåller dolda konversationer. Vill du ta bort de dolda inmatningarna?</item>
+        <item quantity="zero">De här konversationerna innehåller dolda konversationer. Vill du ta bort de dolda inmatningarna?</item>
+        <item quantity="one">Den här konversationen innehåller dolda konversationer. Vill du ta bort de dolda inmatningarna?</item>
+        <item quantity="two">De här konversationerna innehåller dolda konversationer. Vill du ta bort de dolda inmatningarna?</item>
+        <item quantity="few">De här konversationerna innehåller dolda konversationer. Vill du ta bort de dolda inmatningarna?</item>
+        <item quantity="many">De här konversationerna innehåller dolda konversationer. Vill du ta bort de dolda inmatningarna?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Vill du slänga utkasten i %1$d konversationerna?</item>
+        <item quantity="zero">Vill du slänga utkasten i %1$d konversationen?</item>
+        <item quantity="one">Vill du slänga utkasten i %1$d konversationen?</item>
+        <item quantity="two">Vill du slänga utkasten i %1$d konversationerna?</item>
+        <item quantity="few">Vill du slänga utkasten i %1$d konversationerna?</item>
+        <item quantity="many">Vill du slänga utkasten i %1$d konversationerna?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d valda objekt</item>
+        <item quantity="zero">%d valt objekt</item>
+        <item quantity="one">%d valt objekt</item>
+        <item quantity="two">%d valda objekt</item>
+        <item quantity="few">%d valda objekt</item>
+        <item quantity="many">%d valda objekt</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> konversationer arkiverade.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> konversation arkiverad.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> konversation arkiverad.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> konversationer arkiverade.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> konversationer arkiverade.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> konversationer arkiverade.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> konversationer raderade.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> konversation raderad.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> konversation raderad.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> konversationer raderade.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> konversationer raderade.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> konversationer raderade.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Ändrade mappar</item>
+        <item quantity="zero">Ändrad mapp</item>
+        <item quantity="one">Ändrad mapp</item>
+        <item quantity="two">Ändrade mappar</item>
+        <item quantity="few">Ändrade mappar</item>
+        <item quantity="many">Ändrade mappar</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ignorerade konversationer.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> ignorerad konversation.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ignorerad konversation.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> ignorerade konversationer.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> ignorerade konversationer.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> ignorerade konversationer.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> konversationer markerade som oviktiga.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> konversation markerad som oviktig.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> konversation markerad som oviktig.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> konversationer markerade som oviktiga.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> konversationer markerade som oviktiga.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> konversationer markerade som oviktiga.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> konversationer anmälda som ej skräp.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> konversation anmäld som ej skräp.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> konversation anmäld som ej skräp.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> konversationer anmälda som ej skräp.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> konversationer anmälda som ej skräp.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> konversationer anmälda som ej skräp.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> konversationer anmälda som nätfiske.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> konversation anmäld som nätfiske.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> konversation anmäld som nätfiske.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> konversationer anmälda som nätfiske.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> konversationer anmälda som nätfiske.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> konversationer anmälda som nätfiske.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> konversationer anmälda som skräppost.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> konversation anmäld som skräppost.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> konversation anmäld som skräppost.</item>
+        <item quantity="two">&lt;b>%1$d&lt;/b> konversationer anmälda som skräppost.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> konversationer anmälda som skräppost.</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> konversationer anmälda som skräppost.</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Ta bort stjärnmarkering från %1$d konversationerna.</item>
+        <item quantity="zero">Ta bort stjärnmarkering från %1$d konversationen.</item>
+        <item quantity="one">Ta bort stjärnmarkering från %1$d konversationen.</item>
+        <item quantity="two">Ta bort stjärnmarkering från %1$d konversationerna.</item>
+        <item quantity="few">Ta bort stjärnmarkering från %1$d konversationerna.</item>
+        <item quantity="many">Ta bort stjärnmarkering från %1$d konversationerna.</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Utkast</item>
+        <item quantity="zero">Utkast</item>
+        <item quantity="one">Utkast</item>
+        <item quantity="two">Utkast</item>
+        <item quantity="few">Utkast</item>
+        <item quantity="many">Utkast</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d meddelanden kommer att raderas permanent.</item>
+        <item quantity="zero">%1$d meddelande kommer att raderas permanent.</item>
+        <item quantity="one">%1$d meddelande kommer att raderas permanent.</item>
+        <item quantity="two">%1$d meddelanden kommer att raderas permanent.</item>
+        <item quantity="few">%1$d meddelanden kommer att raderas permanent.</item>
+        <item quantity="many">%1$d meddelanden kommer att raderas permanent.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="zero">%d B</item>
+        <item quantity="one">%d B</item>
+        <item quantity="two">%d B</item>
+        <item quantity="few">%d B</item>
+        <item quantity="many">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="zero">%d GB</item>
+        <item quantity="one">%d GB</item>
+        <item quantity="two">%d GB</item>
+        <item quantity="few">%d GB</item>
+        <item quantity="many">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="zero">%d KB</item>
+        <item quantity="one">%d KB</item>
+        <item quantity="two">%d KB</item>
+        <item quantity="few">%d KB</item>
+        <item quantity="many">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="zero">%d MB</item>
+        <item quantity="one">%d MB</item>
+        <item quantity="two">%d MB</item>
+        <item quantity="few">%d MB</item>
+        <item quantity="many">%d MB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Flytta %1$d konversationer</item>
+        <item quantity="zero">Flytta %1$d konversation</item>
+        <item quantity="one">Flytta %1$d konversation</item>
+        <item quantity="two">Flytta %1$d konversationer</item>
+        <item quantity="few">Flytta %1$d konversationer</item>
+        <item quantity="many">Flytta %1$d konversationer</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Flytta meddelanden</item>
+        <item quantity="zero">Flytta meddelande</item>
+        <item quantity="one">Flytta meddelande</item>
+        <item quantity="two">Flytta meddelanden</item>
+        <item quantity="few">Flytta meddelanden</item>
+        <item quantity="many">Flytta meddelanden</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d nya inkommande meddelanden. Visa</item>
+        <item quantity="zero">%1$d nytt inkommande meddelande. Visa</item>
+        <item quantity="one">%1$d nytt inkommande meddelande. Visa</item>
+        <item quantity="two">%1$d nya inkommande meddelanden. Visa</item>
+        <item quantity="few">%1$d nya inkommande meddelanden. Visa</item>
+        <item quantity="many">%1$d nya inkommande meddelanden. Visa</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d valda objekt</item>
+        <item quantity="zero">%d valt objekt</item>
+        <item quantity="one">%d valt objekt</item>
+        <item quantity="two">%d valda objekt</item>
+        <item quantity="few">%d valda objekt</item>
+        <item quantity="many">%d valda objekt</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d lästa meddelanden</item>
+        <item quantity="zero">%1$d läst meddelande</item>
+        <item quantity="one">%1$d läst meddelande</item>
+        <item quantity="two">%1$d lästa meddelanden</item>
+        <item quantity="few">%1$d lästa meddelanden</item>
+        <item quantity="many">%1$d lästa meddelanden</item>
+    </plurals>
+</resources>

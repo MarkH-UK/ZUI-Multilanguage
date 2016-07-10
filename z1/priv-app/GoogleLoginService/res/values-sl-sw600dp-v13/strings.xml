@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">Tablični računalnik in Googlove storitve se prilagodijo z vašim imenom.</string>
+    <string name="name_title_local">Lastnik tabličnega računalnika je ...</string>
+    <string name="name_text_local">Tablični računalnik prilagodi nekatere aplikacije z vašim imenom.</string>
+    <string name="communicating_message">Tablični računalnik vzpostavlja povezavo z Googlom zaradi shranjevanja podatkov v račun. To lahko traja največ 5 minut.</string>
+    <string name="checking_username_message">"Tablični računalnik vzpostavlja povezavo z Googlom, da preveri, ali je želeno uporabniško ime na voljo.
+
+To lahko traja nekaj minut."</string>
+    <string name="wait_for_device_country_msg">Zbiranje podatkov o tabličnem rač. To lahko traja do 30 s.</string>
+    <string name="backup_consent_message">"Z Google Računom varnostno kopirajte aplikacije, nastavitve (kot so zaznamki in gesla za Wi-Fi) in druge podatke. Če ste račun pred tem že varnostno kopirali, ga lahko obnovite v tem tabličnem računalniku.
+
+Nastavitve za varnostno kopiranje lahko kadar koli spremenite v razdelku »Nastavitve«."</string>
+    <string name="backup_consent_message_no_restore">"Z Google Računom varnostno kopirajte aplikacije, nastavitve (kot so zaznamki in gesla za Wi-Fi) in druge podatke.
+
+Nastavitve za varnostno kopiranje lahko kadar koli spremenite v razdelku »Nastavitve«."</string>
+    <string name="restoring_message">Tablični računalnik vzpostavlja povezavo z Googlom za obnovitev računa. To lahko traja do 5 minut.</string>
+    <string name="restore_consent_yes_agree">V tablični računalnik prenesite aplikacije, nastavitve in druge podatke, ki ste jih pred tem varnostno kopirali z Google Računom.</string>
+</resources>

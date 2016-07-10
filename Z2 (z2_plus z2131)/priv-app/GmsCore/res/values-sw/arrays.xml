@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Baa</item>
+        <item>Mkahawa</item>
+        <item>Kituo cha Mafuta</item>
+        <item>Ukumbi wa Sinema</item>
+        <item>Vyumba vya kupanga kwa muda</item>
+        <item>Klabu ya Usiku</item>
+        <item>Makavazi</item>
+        <item>Mkahawa</item>
+        <item>Madukani</item>
+        <item>Duka</item>
+        <item>Duka la bidhaa ama Duka kuu</item>
+        <item>Nyingine</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>mbovu</item>
+        <item>nzuri vya kutosha</item>
+        <item>nzuri</item>
+        <item>thabiti</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Toa</item>
+        <item>Msanidi programu</item>
+        <item>Rejareja</item>
+        <item>Onyesho</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Simu na gari zinaendesha programu zisizooana. Kwa maelezo, tembelea &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Gari limeonesha seti isiyosahihi ya miundo ya sauti, video au vyote viwili.</item>
+        <item>"Muunganisho wa USB haufanyi kazi vizuri. Jaribu kufanya hivi: 
+
+ •Hakikisha kuwa kebo imeingia vizuri katika pande zote mbili za kuunganishia. 
+ •Hakikisha una kebo ya USB ya data. 
+ •Hakikisha tarehe na saa zimewekwa kwa usahihi katika gari na kwenye simu yako."</item>
+        <item>Gari limeacha kutumia Android Auto.</item>
+        <item>Kipindi cha Android Auto kimekomeshwa, kama ulivyoomba.</item>
+        <item>Huenda programu ya gari imepitwa na wakati. Kwa maelezo na usaidizi, wasiliana na mtengenezaji.</item>
+        <item>Programu ya gari lako haikukidhi vigezo vya ukaguzi wa usalama vya Android Auto. Kwa maelezo zaidi na usaidizi, wasiliana na mtengenezaji.</item>
+        <item>Programu ya gari lako haikukidhi vigezo vya ukaguzi wa usalama vya Android Auto. Hakikisha tarehe na saa zimewekwa kwa usahihi katika gari lako, na kuwa Android Auto imesasishwa.</item>
+        <item>Muda wa kutekeleza kitendo umekwisha. Unafaa kupakia ripoti ya hitilafu na kutuma maoni.</item>
+        <item>Inaonekana huna kifungua programu kilichosakinishwa, Je, simu yako imesanidiwa kwa usahihi?</item>
+        <item>Mnururisho wa picha umepotea. Unapaswa kupakia ripoti ya hitilafu na kutuma maoni.</item>
+        <item>Gari haliitikii ujumbe kutoka kwenye simu. Huenda gari lipo katika hali isiyo sahihi.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Uwanja wa ndege</item>
+        <item>ATM</item>
+        <item>Benki</item>
+        <item>Baa</item>
+        <item>Kituo cha mabasi</item>
+        <item>Mkahawa</item>
+        <item>Uwanja wa kupiga kambi</item>
+        <item>Makaburini</item>
+        <item>Kanisa</item>
+        <item>Ukumbi wa Jiji</item>
+        <item>Biashara</item>
+        <item>Kituo cha Mafuta</item>
+        <item>Duka la bidhaa ama Duka kuu</item>
+        <item>Hekalu la Kihindu</item>
+        <item>Hospitali</item>
+        <item>Maktaba</item>
+        <item>Vyumba vya kupanga kwa muda</item>
+        <item>Msikiti</item>
+        <item>Ukumbi wa Filamu</item>
+        <item>Makumbusho</item>
+        <item>Bustani</item>
+        <item>Maegesho</item>
+        <item>Maabadi</item>
+        <item>Kituo cha Polisi</item>
+        <item>Posta</item>
+        <item>Mkahawa</item>
+        <item>Shule</item>
+        <item>Duka</item>
+        <item>Kituo cha cha treni cha chini ya ardhi</item>
+        <item>Sinagogi</item>
+        <item>Kituo cha gari moshi</item>
+        <item>Kituo cha usafiri wa umma</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Machi</item>
+        <item>Aprili</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Julai</item>
+        <item>Agosti</item>
+        <item>Septemba</item>
+        <item>Oktoba</item>
+        <item>Novemba</item>
+        <item>Desemba</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Acha kushiriki</item>
+        <item>Dakika 15</item>
+        <item>Dakika 30</item>
+        <item>Saa 1</item>
+        <item>Bila kikomo cha muda</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Acha kushiriki</item>
+        <item>Dakika 15</item>
+        <item>Dakika 30</item>
+        <item>Saa 1</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Chagua swali la usalama</item>
+        <item>Nambari ya kwanza ya simu?</item>
+        <item>Jina la rafiki wako mpendwa wa utotoni?</item>
+        <item>Jina la mwalimu wa kwanza?</item>
+        <item>Jina la meneja katika kazi ya kwanza?</item>
+        <item>Nambari ya usajili wa gari?</item>
+    </string-array>
+</resources>

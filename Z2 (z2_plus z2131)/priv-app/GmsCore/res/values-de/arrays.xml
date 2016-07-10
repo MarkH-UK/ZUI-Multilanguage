@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Lokal</item>
+        <item>Café</item>
+        <item>Tankstelle</item>
+        <item>Kino</item>
+        <item>Unterkunft</item>
+        <item>Bar/Disco</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Einkaufszentrum</item>
+        <item>Geschäft</item>
+        <item>Lebensmittelgeschäft/Supermarkt</item>
+        <item>Sonstiges</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>Schwach</item>
+        <item>mäßig</item>
+        <item>Gut</item>
+        <item>Stark</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Version</item>
+        <item>Entwickler</item>
+        <item>Einzelhandel</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Die Softwareversionen von Smartphone und Auto sind nicht kompatibel. Nähere Informationen finden Sie unter &lt;a href="android.com/auto">android.com/auto&lt;/a>.</item>
+        <item>Das Auto hat fehlerhafte Audio- und/oder Videokonfigurationen gemeldet.</item>
+        <item>"Die USB-Verbindung funktioniert nicht ordnungsgemäß. Gehen Sie folgendermaßen vor: 
+
+• Vergewissern Sie sich, dass das Kabel an beiden Enden korrekt angeschlossen ist. 
+• Überprüfen Sie, ob es sich bei dem verwendeten Kabel um ein USB-Datenkabel handelt. 
+•Stellen Sie sicher, dass Datum und Uhrzeit im Auto und auf dem Smartphone richtig eingestellt sind."</item>
+        <item>Das Auto hat Android Auto beendet.</item>
+        <item>Die Android Auto-Sitzung wurde wie gewünscht beendet.</item>
+        <item>Die Software des Autos ist möglicherweise veraltet. Nähere Informationen und Unterstützung erhalten Sie beim Hersteller.</item>
+        <item>Die Software Ihres Autos hat die Android Auto-Sicherheitsprüfungen nicht bestanden. Nähere Informationen und Unterstützung erhalten Sie beim Hersteller.</item>
+        <item>Die Software Ihres Autos hat die Android Auto-Sicherheitsprüfungen nicht bestanden. Vergewissern Sie sich, dass das Datum und die Uhrzeit im Auto richtig eingestellt sind und dass Android Auto auf dem neuesten Stand ist.</item>
+        <item>Die Zeit für diese Aktion wurde überschritten. Bitte erstellen Sie einen Fehlerbericht und geben Sie Feedback.</item>
+        <item>Sie haben offenbar kein Startprogramm installiert. Wurde Ihr Smartphone korrekt eingerichtet?</item>
+        <item>Die Grafiksoftware ist ausgefallen. Erstellen Sie einen Fehlerbericht und geben Sie Feedback.</item>
+        <item>Das Auto reagiert nicht auf Nachrichten des Smartphones. Möglicherweise liegt im Auto ein falscher Status vor.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Flughafen</item>
+        <item>Geldautomat</item>
+        <item>Bank</item>
+        <item>Lokal</item>
+        <item>Bushaltestelle</item>
+        <item>Café</item>
+        <item>Campingplatz</item>
+        <item>Friedhof</item>
+        <item>Kirche</item>
+        <item>Rathaus</item>
+        <item>Einrichtung</item>
+        <item>Tankstelle</item>
+        <item>Lebensmittelgeschäft/Supermarkt</item>
+        <item>Hindutempel</item>
+        <item>Krankenhaus</item>
+        <item>Bibliothek</item>
+        <item>Unterkunft</item>
+        <item>Moschee</item>
+        <item>Kino</item>
+        <item>Museum</item>
+        <item>Park</item>
+        <item>Parkplatz</item>
+        <item>Andachtsstätte</item>
+        <item>Polizei</item>
+        <item>Post</item>
+        <item>Restaurant</item>
+        <item>Schule</item>
+        <item>Geschäft</item>
+        <item>U-Bahn-Haltestelle</item>
+        <item>Synagoge</item>
+        <item>Bahnhof</item>
+        <item>Haltestelle</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>März</item>
+        <item>April</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Dezember</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Freigabe beenden</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>Unbegrenzt</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Freigabe beenden</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Wählen Sie eine Sicherheitsfrage aus.</item>
+        <item>Erste Telefonnummer?</item>
+        <item>Name des besten Freundes/der besten Freundin in der Kindheit?</item>
+        <item>Name Ihres ersten Lehrers?</item>
+        <item>Name des Vorgesetzten bei Ihrem ersten Arbeitgeber?</item>
+        <item>Autokennzeichen?</item>
+    </string-array>
+</resources>

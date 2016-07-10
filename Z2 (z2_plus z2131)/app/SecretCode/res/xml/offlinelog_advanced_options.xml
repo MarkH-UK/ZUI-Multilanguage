@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/offlinelog_advanced_options" android:key="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:OffLineLog="http://schemas.android.com/apk/res/com.android.OffLineLog">
+    <CheckBoxPreference android:persistent="false" android:title="@string/subsys_debug_mode_title" android:key="subsys_debug_mode" android:defaultValue="false" android:summaryOn="@string/subsys_debug_mode_summary_on" android:summaryOff="@string/subsys_debug_mode_summary_off" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/massive_sys_log_title" android:key="massive_sys_log" android:summary="@string/massive_sys_log_summary" android:defaultValue="false" />
+</PreferenceScreen>

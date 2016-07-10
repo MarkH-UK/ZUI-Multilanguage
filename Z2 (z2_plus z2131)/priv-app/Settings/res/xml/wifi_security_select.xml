@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.RadioPreference android:title="@string/wifi_security_none" android:key="wifi_security_none" />
+    <com.android.settings.RadioPreference android:title="@string/wifi_security_wep" android:key="wifi_security_wep" />
+    <com.android.settings.RadioPreference android:title="@string/wifi_security_wpa_wpa2" android:key="wifi_security_wpa" />
+    <com.android.settings.RadioPreference android:title="@string/wifi_security_eap" android:key="wifi_security_eap" />
+    <com.android.settings.RadioPreference android:title="@string/wifi_security_WAPI_PSK" android:key="wifi_security_wapi_psk" />
+    <com.android.settings.RadioPreference android:title="@string/wifi_security_WAPI_CERT" android:key="wifi_security_wapi_cert" />
+    <PreferenceCategory android:title="" />
+</PreferenceScreen>

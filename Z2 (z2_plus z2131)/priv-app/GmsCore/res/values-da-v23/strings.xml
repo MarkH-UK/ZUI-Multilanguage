@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"Dette er generelle oplysninger om denne enhed og brugen af den, som f.eks. batteriniveau, hvor ofte apps bruges, kvaliteten og varigheden af netværksforbindelser (som f.eks. mobilnetværk, Wi-Fi og Bluetooth) og nedbrudsrapporter, når tingene ikke fungerer, som de skal. Indstillingen bruges til at forbedre Googles produkter og tjenester til alle og er ikke knyttet til dit barns Google-konto. Visse sammenlagte oplysninger kan også hjælpe partnere, som f.eks. Android-udviklere, med at forbedre deres apps og produkter.
+
+Du kan til enhver tid slå indstillingen til eller fra i Google Indstillinger. Det påvirker ikke enhedens evne til at sende de oplysninger, den skal bruge for at modtage vigtige tjenester, som f.eks. systemopdateringer og sikkerhed."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Sikkerhedskopiér automatisk enhedens data</b> (f.eks. Wi-Fi-adgangskoder og opkaldshistorik) og appdata (f.eks. indstillinger og filer, som apps har gemt) i Google Drev. <annotation id="backup_details">Få flere oplysninger</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Når du slår automatisk sikkerhedskopiering til, gemmes enheds- og appdata med jævne mellemrum i en privat mappe i Google Drev. Appdata kan være alle slags data, som en app har gemt (baseret på udviklerindstillinger), herunder potentielt følsomme data såsom kontaktpersoner, beskeder og billeder.
+
+Sikkerhedskopieret data tæller ikke med i din kvote for Drev-lagerplads. Store filer eller filer, som udviklerne har valgt at udelukke fra tjenesten, sikkerhedskopieres ikke."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Du kan opnå en forbedret placeringsnøjagtighed</b> ved at give apps og tjenester tilladelse til at scanne efter Wi-Fi-netværk og Bluetooth-enheder, selv når Wi-Fi og Bluetooth er slået fra.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"Dette er generelle oplysninger om din enhed og brugen af den, som f.eks. batteriniveau, hvor ofte du bruger apps, kvaliteten og varigheden af dine netværksforbindelser (som f.eks. mobilnetværk, Wi-Fi og Bluetooth) og nedbrudsrapporter, når tingene ikke fungerer, som de skal. Indstillingen bruges til at forbedre Googles produkter og tjenester til alle og er ikke knyttet til din Google-konto. Visse sammenlagte oplysninger kan også hjælpe partnere, som f.eks. Android-udviklere, med at forbedre deres apps og produkter.
+
+Du kan til enhver tid slå indstillingen til eller fra i Google Indstillinger. Det påvirker ikke enhedens evne til at sende de oplysninger, den skal bruge for at modtage vigtige tjenester, som f.eks. systemopdateringer og sikkerhed."</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"Đây là thông tin chung và cách sử dụng của thiết bị này, chẳng hạn như mức pin, tần suất sử dụng ứng dụng, chất lượng và thời gian kết nối mạng (như mạng di động, Wi‑Fi và Bluetooth) cũng như báo cáo sự cố khi các tính năng không hoạt động như mong muốn. Google sẽ sử dụng thông tin này để cải thiện các dịch vụ và sản phẩm của mình dành cho mọi người và sẽ không liên kết thông tin này với Tài khoản Google của con bạn. Một số thông tin tổng hợp cũng sẽ giúp các đối tác, chẳng hạn như các nhà phát triển Android, cải thiện sản phẩm và ứng dụng của họ.
+
+Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt > Google. Tính năng này không ảnh hưởng đến khả năng thiết bị gửi thông tin cần thiết để nhận các dịch vụ quan trọng như bảo mật và cập nhật hệ thống."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Tự động sao lưu dữ liệu thiết bị</b> (chẳng hạn như mật khẩu Wi-Fi và lịch sử cuộc gọi) và dữ liệu ứng dụng (như cài đặt và tệp được ứng dụng lưu trữ) vào Google Drive. <annotation id="backup_details">Tìm hiểu thêm</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Khi bạn bật sao lưu tự động, dữ liệu thiết bị và dữ liệu ứng dụng được lưu vào một thư mục riêng trong Google Drive theo định kỳ. Dữ liệu ứng dụng có thể là bất kỳ dữ liệu nào mà ứng dụng đã lưu (dựa trên cài đặt của nhà phát triển), bao gồm dữ liệu có thể nhạy cảm chẳng hạn như danh bạ, tin nhắn và ảnh.
+
+Sao lưu dữ liệu sẽ không tính vào phần bộ nhớ trên Drive của bạn. Các tệp lớn hoặc các tệp mà nhà phát triển đã chọn để loại trừ khỏi dịch vụ sẽ không được sao lưu."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Cải thiện tính chính xác của thông tin vị trí</b> bằng cách cho phép ứng dụng và dịch vụ quét tìm mạng Wi‑Fi và thiết bị Bluetooth ngay cả khi Wi‑Fi và Bluetooth đang tắt.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"Đây là thông tin chung và cách sử dụng của thiết bị này, chẳng hạn như mức pin, tần suất sử dụng ứng dụng, chất lượng và thời gian kết nối mạng (như mạng di động, Wi‑Fi và Bluetooth) cũng như báo cáo sự cố khi các tính năng không hoạt động như mong muốn. Google sẽ sử dụng thông tin này để cải thiện các dịch vụ và sản phẩm của mình dành cho mọi người và sẽ không liên kết thông tin này với Tài khoản Google của bạn. Một số thông tin tổng hợp cũng sẽ giúp các đối tác, chẳng hạn như các nhà phát triển Android, cải thiện sản phẩm và ứng dụng của họ.
+
+Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt > Google. Tính năng này không ảnh hưởng đến khả năng thiết bị gửi thông tin cần thiết để nhận các dịch vụ quan trọng như bảo mật và cập nhật hệ thống."</string>
+</resources>

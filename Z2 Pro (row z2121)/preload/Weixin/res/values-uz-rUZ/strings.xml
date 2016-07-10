@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Google Play xizmatlari xatosi</string>
+    <string name="z">Ilova Google Play xizmatlarining yangilanishini talab qiladi.</string>
+    <string name="a0">%1$s bilan ishlashda davom etish uchun Android Wear ilovasini yangilang.</string>
+    <string name="a1">Ilova Google Play xizmatlarining yoqilishini talab qiladi.</string>
+    <string name="a2">So‘rov manbasi: %1$s</string>
+    <string name="a3">Google Play xizmatlarini yuklab oling</string>
+    <string name="a4">%1$s ishlashi uchun telefoningizga Google Play xizmatlarini o‘rnatish lozim.</string>
+    <string name="a5">%1$s ishlashi uchun planshetingizga Google Play xizmatlarini o‘rnatish lozim.</string>
+    <string name="a6">Google Play xizmatlarini yuklab oling</string>
+    <string name="a7">Google Play xizmatlarini yoqish</string>
+    <string name="a8">Google Play xizmatlari yoqilmaguncha, %1$s ishlamaydi.</string>
+    <string name="a9">Google Play xizmatlarini yoqish</string>
+    <string name="a_">Google Play xizmatlarini yangilash</string>
+    <string name="aa">Android Wear ilovasini yangilash</string>
+    <string name="ab">Google Play xizmatlari yangilanmaguncha, %1$s ishga tushmaydi.</string>
+    <string name="ac">Android Wear ilovasi yangilanmaguncha, %1$s ishga tushmaydi.</string>
+    <string name="ad">Google Play xizmatlari yangilanmoqda</string>
+    <string name="ae">%1$s ilovasining ishlashi uchun zarur Google Play xizmatlari hozirda yangilanmoqda.</string>
+    <string name="af">Tarmoq xatosi</string>
+    <string name="ag">Google Play xizmatlariga ulanish uchun internet zarur.</string>
+    <string name="ah">Hisob haqiqiy emas</string>
+    <string name="ai">Ushbu qurilmada ko‘rsatilgan hisob mavjud emas. Boshqa hisobni tanlang.</string>
+    <string name="aj">Google Play xizmatlari bilan bog‘liq noma’lum muammo yuz berdi.</string>
+    <string name="ak">Google Play xizmatlari</string>
+    <string name="al">%1$s ilovasi Google Play xizmatlarisiz ishlamaydi, biroq qurilmangiz ularni qo‘llab-quvvatlamaydi. Yordam olish uchun qurilmaning ishlab chiqaruvchisi bilan bog‘laning.</string>
+    <string name="am">Yangilash</string>
+    <string name="an">Kirish</string>
+    <string name="ao">Google orqali kirish</string>
+    <string name="ap">Telefonda ochish</string>
+    <string name="aq">%1$s ilovasining ishlashi uchun zarur bo‘lgan bir yoki bir nechta Google Play xizmatlari yo‘q. Yordam olish uchun ilovaning ishlab chiquvchisi bilan bog‘laning.</string>
+    <string name="ar">Kirish amalga oshmadi</string>
+    <string name="as">Ko‘rsatilgan hisobga kirishda xatolik yuz berdi. Boshqa hisob tanlang.</string>
+</resources>

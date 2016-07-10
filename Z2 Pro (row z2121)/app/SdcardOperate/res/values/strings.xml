@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SdcardOperate</string>
+    <string name="waittingDialog_title">Logs are saving</string>
+    <string name="appLogSaved">Save success</string>
+</resources>

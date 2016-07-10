@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_lenovo_lsf_notification">ZUK帳號，密碼設置提醒</string>
+    <string name="com_lenovo_lsf_notification_msg">初始密碼未修改，建議立即修改</string>
+</resources>

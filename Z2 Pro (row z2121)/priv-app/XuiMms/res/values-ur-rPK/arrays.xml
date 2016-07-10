@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>بلا عنوان</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 سیکنڈ</item>
+        <item>2 سیکنڈ</item>
+        <item>3 سیکنڈ</item>
+        <item>4 سیکنڈ</item>
+        <item>5 سیکنڈ</item>
+        <item>6 سیکنڈ</item>
+        <item>7 سیکنڈ</item>
+        <item>8 سیکنڈ</item>
+        <item>9 سیکنڈ</item>
+        <item>10 سیکنڈ</item>
+        <item>دیگر</item>
+    </string-array>
+</resources>

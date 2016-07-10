@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="localmanage_list_app_bottom_textSize">10.0sp</dimen>
+    <dimen name="localmanage_downloadmanage_app_percent_textsize">10.0sp</dimen>
+    <dimen name="search_grid_view_item_text_size">12.0sp</dimen>
+    <dimen name="search_grid_view_item_imgtext_size">10.0sp</dimen>
+    <dimen name="loaclmanage_null_view_width">60.0dip</dimen>
+    <dimen name="loaclmanage_null_view_height">60.0dip</dimen>
+    <dimen name="app_icon_width">54.0dip</dimen>
+    <dimen name="app_icon_height">54.0dip</dimen>
+    <dimen name="temp_best_app_item_height">90.0dip</dimen>
+    <dimen name="best_app_icon_height">54.0dip</dimen>
+    <dimen name="search_grid_view_icon_width">30.0dip</dimen>
+    <dimen name="search_grid_view_icon_height">30.0dip</dimen>
+    <dimen name="best_app_icon_width">54.0dip</dimen>
+    <dimen name="best_app_download_height">30.0dip</dimen>
+    <dimen name="header_header_more_margin_left">5.0dip</dimen>
+    <dimen name="search_grid_view_item_text_size_small">10.0sp</dimen>
+    <dimen name="search_grid_view_item_imgtext_size_small">8.0sp</dimen>
+</resources>

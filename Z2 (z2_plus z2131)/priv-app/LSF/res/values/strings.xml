@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="push_app_name">Device Service</string>
+    <string name="download_falied">Download failed, click to retry.</string>
+    <string name="warring_network_mobile">No wifi network, would you download with mobile network?</string>
+    <string name="warring_no_network">Network not available, please set the wifi network.</string>
+    <string name="text_start_task">Start download</string>
+    <string name="text_set_wifi">Set Wifi</string>
+    <string name="text_set_later">Maybe Later</string>
+    <string name="dialog_button_download">Download</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="install_success">Installed</string>
+    <string name="install_success_start">.Click to start.</string>
+    <string name="download_in_queue">Download task is added</string>
+    <string name="download_in_queue_zero">Download starts without mobile traffic</string>
+    <string name="download_in_wifi_only">Download only in wifi</string>
+    <string name="download_in_wifi_mobile">Download in all networks</string>
+    <string name="progress_wait_retry">Wait for retry</string>
+    <string name="progress_wait_network">Wait for network</string>
+    <string name="progress_downloading">Downloading</string>
+    <string name="progress_downloaded">Downloaded</string>
+    <string name="progress_task_not_exist">Task not exist</string>
+    <string name="ad_skip">skip</string>
+</resources>

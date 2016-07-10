@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Um aplicativo requer a instalação do Google Play Services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Um aplicativo requer a atualização do Google Play Services.</string>
+    <string name="common_android_wear_notification_needs_update_text">Um aplicativo exige uma atualização do app Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Um aplicativo requer a ativação do Google Play Services.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Solicitado por %1$s</string>
+    <string name="common_google_play_services_install_title">Instale o Google Play Services</string>
+    <string name="common_google_play_services_install_text_phone">Este aplicativo não funciona sem o Google Play Services, que não está instalado em seu telefone.</string>
+    <string name="common_google_play_services_install_text_tablet">Este aplicativo não funciona sem o Google Play Services, que não está instalado em seu tablet.</string>
+    <string name="common_google_play_services_install_button">Instalar o Google Play Services</string>
+    <string name="common_google_play_services_enable_title">Ative o Google Play Services</string>
+    <string name="common_google_play_services_enable_text">Este aplicativo só funciona com o Google Play Services ativado.</string>
+    <string name="common_google_play_services_enable_button">Ativar o Google Play Services</string>
+    <string name="common_google_play_services_update_title">Atualize o Google Play Services</string>
+    <string name="common_android_wear_update_title">Atualizar o Android Wear</string>
+    <string name="common_google_play_services_update_text">Este aplicativo só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="common_android_wear_update_text">Este app só funciona com uma versão atualizada do app Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Erro na rede</string>
+    <string name="common_google_play_services_network_error_text">É necessária uma conexão de dados para conectar ao Google Play Services.</string>
+    <string name="common_google_play_services_invalid_account_title">Conta inválida</string>
+    <string name="common_google_play_services_invalid_account_text">A conta especificada não existe no dispositivo. Escolha outra conta.</string>
+    <string name="common_google_play_services_unknown_issue">Problema desconhecido com o Google Play Services.</string>
+    <string name="common_google_play_services_unsupported_title">Play Services</string>
+    <string name="common_google_play_services_unsupported_text">O Google Play Services, necessário para alguns dos aplicativos, não é compatível com seu dispositivo. Entre em contato com o fabricante para obter assistência.</string>
+    <string name="common_google_play_services_update_button">Atualizar</string>
+    <string name="common_signin_button_text">Login</string>
+    <string name="common_signin_button_text_long">Fazer login com o Google</string>
+    <string name="common_open_on_phone">Abrir no smartphone</string>
+    <string name="setup_wizard_next_button_label">Próximo</string>
+    <string name="setup_wizard_back_button_label">Voltar</string>
+    <string name="setup_wizard_title">Assistente de configuração</string>
+    <string name="setup_wizard_services_activity_title">Serviços do Google</string>
+    <string name="setup_wizard_services_description">Estes serviços fazem o Google trabalhar por você e podem ser ativados ou desativados a qualquer momento. Os dados serão utilizados de acordo com a <annotation id="google_privacy">Política de Privacidade</annotation> do Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Backup e restauração</string>
+    <string name="setup_wizard_services_location_heading">Localização</string>
+    <string name="setup_wizard_services_communication_heading">Comunicação</string>
+    <string name="setup_wizard_services_backup"><b>Faça o backup de apps, dados de apps, configurações, dicionários pessoais e senhas de Wi-Fi do seu smartphone</b> utilizando sua Conta do Google para que você possa fazer uma restauração mais tarde com facilidade. <annotation id="backup_details">Saiba mais</annotation></string>
+    <string name="setup_wizard_services_backup_restore">Faça o backup<b> dos seus apps, dos dados de apps, das configurações, dos dicionários pessoais e das senhas de Wi-Fi</b> utilizando sua Conta do Google para que você possa fazer uma restauração mais tarde com facilidade.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Os dados incluem apps, configurações de apps, configurações do sistema e senhas de redes Wi-Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Quando o backup automático é ativado, os dados do dispositivo são salvos periodicamente em sua Conta do Google. Os backups podem incluir informações nas pastas de dados de apps, como preferências, configurações, mensagens, fotos e outros arquivos.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Use o serviço de localização do Google</b> para ajudar os apps a determinar a localização. Isso significa enviar dados de localização anônimos para o Google, mesmo quando não houver apps em execução. <annotation id="location_details">Saiba mais</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">O serviço de localização do Google utiliza fontes como redes Wi-Fi e celulares para ajudar a calcular a localização de seu dispositivo de maneira mais rápida e precisa. Quando os serviços de localização do Google são ativados, o dispositivo entra em um modo que usa redes Wi-Fi e celulares para fornecer informações de localização. É possível desativar esse recurso nas configurações de localização escolhendo um modo que use somente GPS, às vezes chamado de modo Somente no dispositivo.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Ajude a melhorar os serviços de localização</b> permitindo que apps e serviços procurem redes Wi-Fi, mesmo que o Wi-Fi esteja desligado.</string>
+    <string name="setup_wizard_services_location_footnote">O serviço de localização do Google utiliza o Wi-Fi e outros sinais para determinar a localização com maior precisão e rapidez, com consumo de energia frequentemente inferior ao do GPS. Alguns dados podem ser armazenados no dispositivo. Os dados podem ser coletados mesmo que nenhum app esteja em execução.</string>
+    <string name="setup_wizard_services_play"><b>Quero ser informado</b> sobre as novidades e ofertas do Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Ajude a melhorar sua experiência no Android</b> enviando automaticamente dados de diagnóstico e uso para o Google. Essas informações não serão usadas para identificar você e ajudarão as equipes que trabalham com aspectos relacionados a vida útil da bateria, desempenho de apps e novos recursos do Google. <annotation id="usage_reporting_details">Saiba mais</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Essas informações consistem em dados gerais sobre seu dispositivo e a maneira que ele é usado, como o nível da bateria, a frequência de uso dos apps, a qualidade e a duração das conexões de rede (celular, Wi-Fi e Bluetooth), além de relatórios de erros quando o dispositivo não funcionar devidamente. Esses dados serão usados para aprimorar os produtos e os serviços do Google para todos e não serão associados a sua Conta do Google. Algumas informações agregadas também ajudarão os parceiros, como os desenvolvedores para Android, a melhorar os próprios apps e produtos.
+
+Você pode desativar essa opção a qualquer momento. Além disso, ela também não afeta a capacidade do dispositivo de enviar as informações de que precisa para receber serviços essenciais, como atualizações do sistema e de segurança."</string>
+    <string name="setup_wizard_services_agreement">Este smartphone também pode receber e instalar atualizações e apps do Google, da operadora e do fabricante do smartphone. Se você continuar, alguns apps podem ser baixados e instalados, mas é possível removê-los a qualquer momento.</string>
+</resources>

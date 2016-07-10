@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="drawer_background_color">#ffffffff</color>
+    <color name="font_color_doc_grid">#ffffffff</color>
+    <color name="material_grey_50">#fffafafa</color>
+    <color name="material_grey_300">#ffeeeeee</color>
+    <color name="notification_bg">#fff0f0f0</color>
+    <color name="default_color_controll">#ff6d6d6d</color>
+    <color name="item_doc_grid_background">@color/material_grey_300</color>
+    <color name="item_doc_grid_protect_background">#88000000</color>
+    <color name="notification_bg_color">#fff0f0f0</color>
+</resources>

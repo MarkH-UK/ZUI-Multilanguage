@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <Key latin:keySpec="զ" />
+    <Key latin:keySpec="ղ" />
+    <Key latin:keySpec="ց" />
+    <Key latin:keySpec="վ" />
+    <Key latin:keySpec="բ" />
+    <Key latin:keySpec="ն" />
+    <Key latin:keySpec="մ" />
+</merge>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory android:layout="@layout/vpn_linea" android:key="vpn_connect_top" />
+    <Preference android:layout="@layout/vpn_linea" android:key="vpn_devider" />
+    <PreferenceCategory android:layout="@layout/vpn_linea" android:key="vpn_linea" />
+    <PreferenceCategory android:layout="@layout/no_vpn_activity" android:key="no_vpn" />
+</PreferenceScreen>

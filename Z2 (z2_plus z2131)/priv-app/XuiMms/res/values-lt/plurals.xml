@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Bus ištrinta pokalbių: %1$s.</item>
+        <item quantity="one">Bus ištrintas vienas pokalbis.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sek.</item>
+        <item quantity="one">%ssek.</item>
+        <item quantity="few">%s sek.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Rezultatai, ieškant pagal „%2$s“: %1$s</item>
+        <item quantity="one">Rezultatai, ieškant pagal „%2$s“: %1$s</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">ir dar %1$s praneš.</item>
+        <item quantity="one">ir dar %1$s praneš.</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s žm.</item>
+    </plurals>
+</resources>

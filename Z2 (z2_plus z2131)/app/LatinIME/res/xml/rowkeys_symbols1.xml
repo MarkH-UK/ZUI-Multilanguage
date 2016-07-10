@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <Key latin:moreKeys="!text/morekeys_symbols_1" latin:additionalMoreKeys="!text/additional_morekeys_symbols_1" latin:keySpec="!text/keyspec_symbols_1" />
+    <Key latin:moreKeys="!text/morekeys_symbols_2" latin:additionalMoreKeys="!text/additional_morekeys_symbols_2" latin:keySpec="!text/keyspec_symbols_2" />
+    <Key latin:moreKeys="!text/morekeys_symbols_3" latin:additionalMoreKeys="!text/additional_morekeys_symbols_3" latin:keySpec="!text/keyspec_symbols_3" />
+    <Key latin:moreKeys="!text/morekeys_symbols_4" latin:additionalMoreKeys="!text/additional_morekeys_symbols_4" latin:keySpec="!text/keyspec_symbols_4" />
+    <Key latin:moreKeys="!text/morekeys_symbols_5" latin:additionalMoreKeys="!text/additional_morekeys_symbols_5" latin:keySpec="!text/keyspec_symbols_5" />
+    <Key latin:moreKeys="!text/morekeys_symbols_6" latin:additionalMoreKeys="!text/additional_morekeys_symbols_6" latin:keySpec="!text/keyspec_symbols_6" />
+    <Key latin:moreKeys="!text/morekeys_symbols_7" latin:additionalMoreKeys="!text/additional_morekeys_symbols_7" latin:keySpec="!text/keyspec_symbols_7" />
+    <Key latin:moreKeys="!text/morekeys_symbols_8" latin:additionalMoreKeys="!text/additional_morekeys_symbols_8" latin:keySpec="!text/keyspec_symbols_8" />
+    <Key latin:moreKeys="!text/morekeys_symbols_9" latin:additionalMoreKeys="!text/additional_morekeys_symbols_9" latin:keySpec="!text/keyspec_symbols_9" />
+    <Key latin:moreKeys="!text/morekeys_symbols_0" latin:additionalMoreKeys="!text/additional_morekeys_symbols_0" latin:keySpec="!text/keyspec_symbols_0" />
+</merge>

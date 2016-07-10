@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/account_sync_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory android:title="@string/account_settings_title" android:key="account" />
+    <Preference android:title="@string/add_account_label" android:key="add_account" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.accounts.AddAccountSettingsXui" />
+    <PreferenceCategory android:state_expanded="true" android:title="@string/preference_category_sync" android:key="syncronization">
+        <SwitchPreference android:title="@string/auto_sync_account_label" android:key="auto_sync_account" />
+        <SwitchPreference android:title="@string/sync_wlan_account_label" android:key="sync_wlan_account" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="folder_top_bar_shadow_height">5</integer>
+    <integer name="mail_bottom_bar_shadow_height">20</integer>
+    <integer name="mail_center_list_left_shadow">4</integer>
+</resources>

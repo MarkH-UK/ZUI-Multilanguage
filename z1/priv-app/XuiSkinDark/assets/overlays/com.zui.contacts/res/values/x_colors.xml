@@ -1,0 +1,104 @@
+<!--
+  ~ Copyright (C) 2012 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+  -->
+
+<resources>
+    <!-- common -->
+    <!-- Color of the primary text and title -->
+    <color name="x_text_color_primary">#8c8c8c</color>
+    <!-- Color of the secondary text -->
+    <color name="x_text_color_secondary">#5c5c5c</color>
+    <!-- Color of the empty list text -->
+    <color name="x_contacts_list_empty_color">#5c5c5c</color>
+    <!-- Color of the driver of list -->
+    <color name="x_list_divider_color">#151515</color>
+    <!-- Color of the highlight(blue) text -->
+    <color name="x_highlight_blue_text_color">#006798</color>
+     <!-- Color of the highlight(blue) text view be pressed-->
+    <color name="x_highlight_blue_text_color_pressed">#99006798</color>
+    <!-- Color of the hint text -->
+    <color name="x_hint_text_color">#404040</color>
+    <!-- Color of the text of head in contact list and contact select -->
+    <color name="x_head_text_color">#5c5c5c</color>
+    <!-- Color of the background as the view be pressed -->
+    <color name="x_background_pressed">#0cffffff</color>
+    <!-- Color of the text as the text view be pressed -->
+    <color name="x_text_color_pressed">#665c5c5c</color>
+
+	<!-- location view -->
+	<color name="locationview_enable_prompt">#4c4c4c</color>
+    <color name="locationview_disable_prompt">#4c4c4c</color>
+    <color name="locationview_select_prompt">#737373</color>
+    <color name="locationview_view_bg">#151515</color>
+
+    <!-- contact edit -->
+    <color name="x_contact_edit_item_text_color">#8c8c8c</color>
+    <color name="x_background_select_account">#131419</color>
+    <color name="x_color_select_account_title_text">#8c8c8c</color>
+    <color name="x_color_select_account_text">#8c8c8c</color>
+
+    <!-- call log -->
+    <color name="x_call_log_miss_name">#bb311a</color>
+
+    <!-- dialpad -->
+    <!-- Color of the background of the dialpad -->
+    <color name="x_background_dialpad">#131419</color>
+
+    <!-- action bar -->
+    <color name="x_icon_color_actionbar">#ffffff</color>
+    <color name="x_background_actionbar">#131419</color>
+    <color name="x_actionbar_title">#8c8c8c</color>
+    <color name="x_actionbar_title_secondary">#5c5c5c</color>
+    <color name="x_actionbar_text_color">#006798</color>
+    <color name="x_actionbar_unselected_text_color">#99006798</color>
+
+    <color name="x_calls_input_number_color">#8c8c8c</color>
+    
+    <color name="x_view_pager_tab_text_color">#006798</color>
+
+    <!-- Color of the  background of merge -->
+    <color name="x_merge_background_color">#070707</color>
+
+    <!-- tdx color -->
+    <color name="head_icon_drak_mask">#50000000</color>
+
+    <!-- letter tile -->
+    <color name="x_inner_background_letter_tile">#1a1a1a</color>
+    <color name="x_background_letter_tile">#070707</color>
+    
+	<!-- quick contact -->
+    <color name="x_sysicon_color_quick_contact">#ffffff</color>
+    <color name="x_background_quick_contact_head_image">#151515</color>
+    <color name="x_background_quick_contact">#070707</color>
+    <color name="x_title_color_quick_contact">#8c8c8c</color>
+    
+    <!-- dialog -->
+    <color name="x_dialog_background">#131419</color>
+    <color name="x_dialog_button_background">#17191e</color>
+    <color name="x_dialog_button_background_pressed">#1f2025</color>
+    
+    
+    <color name="calllog_tab_select">#1499f7</color>
+    <color name="calllog_tab_unselect">#666666</color>
+    <color name="calllog_tab_divider">#262626</color>
+    
+    
+	<!-- ********************only dark theme******************** -->
+    <!-- bottom tool bar -->
+    <color name="x_bottom_tool_button_background">#17191e</color>
+    <color name="x_bottom_tool_button_background_pressed">#111316</color>
+    
+    <color name="contact_edit_group_bg_color">#0b0c0f</color>
+</resources>

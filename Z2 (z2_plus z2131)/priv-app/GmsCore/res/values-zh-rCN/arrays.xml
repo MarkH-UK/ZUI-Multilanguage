@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>酒吧</item>
+        <item>咖啡馆</item>
+        <item>加油站</item>
+        <item>电影院</item>
+        <item>住宿</item>
+        <item>夜总会</item>
+        <item>博物馆</item>
+        <item>餐馆</item>
+        <item>购物中心</item>
+        <item>商店</item>
+        <item>杂货店或超市</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>弱</item>
+        <item>尚可</item>
+        <item>良好</item>
+        <item>强</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>蓝牙</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>正式发布模式</item>
+        <item>开发者模式</item>
+        <item>零售</item>
+        <item>演示模式</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>手机和汽车运行的软件不兼容。有关详情，请访问 &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>汽车报告了一系列不正确的音频和/或视频配置。</item>
+        <item>"USB 连接无法正常工作。请确认以下事项：
+
+• 确保数据线两端均连接稳固
+• 确保您使用的是 USB 数据线。
+• 确保汽车和手机上的日期和时间设置均正确无误。"</item>
+        <item>汽车已停止运行 Android Auto。</item>
+        <item>按照您的请求，Android Auto 会话已停止。</item>
+        <item>汽车的软件可能已过期。如需了解详情并获取支持，请与制造商联系。</item>
+        <item>您的汽车软件未通过 Android Auto 安全检查。如需了解详情并获取支持，请与制造商联系。</item>
+        <item>您的汽车软件未通过 Android Auto 安全检查。请确保汽车的日期和时间设置正确无误，且 Android Auto 已更新。</item>
+        <item>操作超时。建议您获取错误报告并提交反馈。</item>
+        <item>您似乎没有安装启动器。您的手机设置正确吗？</item>
+        <item>图形管线已停止工作。建议您获取错误报告并提交反馈。</item>
+        <item>汽车没有响应来自手机的消息。汽车状态可能有误。</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>机场</item>
+        <item>ATM</item>
+        <item>银行</item>
+        <item>酒吧</item>
+        <item>公交车站</item>
+        <item>咖啡馆</item>
+        <item>野营地</item>
+        <item>公墓</item>
+        <item>教堂</item>
+        <item>市政府</item>
+        <item>企业机构</item>
+        <item>加油站</item>
+        <item>杂货店或超市</item>
+        <item>印度教寺庙</item>
+        <item>医院</item>
+        <item>图书馆</item>
+        <item>住宿场所</item>
+        <item>清真寺</item>
+        <item>电影院</item>
+        <item>博物馆</item>
+        <item>公园</item>
+        <item>停车场</item>
+        <item>宗教场所</item>
+        <item>警察局</item>
+        <item>邮局</item>
+        <item>餐馆</item>
+        <item>学校</item>
+        <item>商店</item>
+        <item>地铁站</item>
+        <item>犹太会堂</item>
+        <item>火车站</item>
+        <item>公交站点</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>1 月</item>
+        <item>2 月</item>
+        <item>3 月</item>
+        <item>4 月</item>
+        <item>5 月</item>
+        <item>6 月</item>
+        <item>7 月</item>
+        <item>8 月</item>
+        <item>9 月</item>
+        <item>10 月</item>
+        <item>11 月</item>
+        <item>12 月</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>停止分享</item>
+        <item>15 分钟</item>
+        <item>30 分钟</item>
+        <item>1 小时</item>
+        <item>无限期</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>停止分享</item>
+        <item>15 分钟</item>
+        <item>30 分钟</item>
+        <item>1 小时</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>选择安全问题</item>
+        <item>您的第一个电话号码？</item>
+        <item>最好的儿时伙伴是谁？</item>
+        <item>您的启蒙老师的姓名？</item>
+        <item>第一份工作的经理姓名？</item>
+        <item>您的车牌号是多少？</item>
+    </string-array>
+</resources>

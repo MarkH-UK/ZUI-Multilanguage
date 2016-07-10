@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>পানশালা</item>
+        <item>ক্যাফে</item>
+        <item>গ্যাস স্টেশন</item>
+        <item>চলচ্চিত্র থিয়েটার</item>
+        <item>লজিং</item>
+        <item>নাইট ক্লাব</item>
+        <item>জাদুঘর</item>
+        <item>রেস্তোরাঁ</item>
+        <item>কেনা-কাটার কেন্দ্র</item>
+        <item>সঞ্চয় করুন</item>
+        <item>মুদির দোকান বা সুপারমার্কেট</item>
+        <item>অন্যান্য</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>দুর্বল</item>
+        <item>মোটামুটি</item>
+        <item>ভাল</item>
+        <item>শক্তিশালী</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>মুক্তি</item>
+        <item>বিকাশকারী</item>
+        <item>খুচরা বিক্রয়</item>
+        <item>নমুনা</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ফোন এবং গাড়িতে সামঞ্জস্যহীন সফ্টওয়্যার ব্যবহার করা হচ্ছে৷ বিশদ বিবরণের জন্য &lt;a href="android.com/auto">android.com/auto&lt;/a> এ যান</item>
+        <item>গাড়িটিতে অডিও এবং/অথবা ভিডিও কনফিগারেশনের একটি ভুল সেট রয়েছে বলে নির্দেশ করা হয়েছে৷</item>
+        <item>"USB সংযোগ সঠিকভাবে কাজ করছে না৷ কিছু করার চেষ্টা করতে: 
+
+• নিশ্চিত করুন যে তারের উভয় প্রান্ত সঠিকভাবে ফিট করা আছে৷ 
+•নিশিত করুন যে আপনার কাছে USB তারের ডেটা আছে৷ 
+•নিশ্চিত করুন যে ফোন এবং গাড়ি উভয়ের জন্যই তারিখ এবং সময় সঠিকভাবে সেট করা আছে৷"</item>
+        <item>গাড়িটিতে Android Auto চালানো বন্ধ করা হয়েছে৷</item>
+        <item>অনুরোধ অনুযায়ী Android Auto সেশন বন্ধ করা হয়েছে৷</item>
+        <item>গাড়ির সফ্টওয়্যারটির তারিখ হয়তো উত্তীর্ণ হয়ে গেছে৷ বিশদ বিবরণ এবং সমর্থনের জন্য প্রস্তুতকারকের সাথে যোগাযোগ করুন৷</item>
+        <item>অপনার গাড়ি Android Auto নিরাপত্তা সম্পর্কিত পরীক্ষাগুলি পাশ করেনি৷ বিশদ বিবরণ এবং সমর্থনের জন্য প্রস্তুতকারকের সাথে যোগাযোগ করুন৷</item>
+        <item>অপনার গাড়ি Android Auto নিরাপত্তা সম্পর্কিত পরীক্ষাগুলি পাশ করেনি৷ নিশ্চিত করুন যে গাড়িটির তারিখ এবং সময় সঠিকভাবে সেট করা আছে, এবং Android Auto আপডেট করা হয়েছে৷</item>
+        <item>একটি কার্যের জন্য নির্ধারিত সময় শেষ হয়ে গেছে৷ আপনি একটি ত্রুটি প্রতিবেদন ও প্রতিক্রিয়া পাবেন৷</item>
+        <item>আপনার কাছে লঞ্চার ইনস্টল করা আছে বলে মনে হচ্ছে না, সঠিকভাবে আপনার ফোনের সেটআপ করা আছে কি?</item>
+        <item>গ্রাফিক্স পাইপলাইন এই মাত্র খারাপ হয়েছে৷ আপনার কাছে একটি ত্রুটি প্রতিবেদন এবং প্রতিক্রিয়া আসবে৷</item>
+        <item>ফোন থেকে আসা কোনো বার্তায় গাড়ি সাড়া দিচ্ছে না৷ গাড়িটি হয়তো কোনো ভুল স্থিতিতে রয়েছে৷</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>বিমানবন্দর</item>
+        <item>ATM</item>
+        <item>ব্যাঙ্ক</item>
+        <item>পানশালা</item>
+        <item>বাস স্টেশন</item>
+        <item>ক্যাফে</item>
+        <item>ক্যাম্পগ্রাউন্ড</item>
+        <item>কবরস্তান</item>
+        <item>গির্জা</item>
+        <item>সিটি হল</item>
+        <item>প্রতিষ্ঠান</item>
+        <item>পেট্রোল পাম্প</item>
+        <item>মুদির দোকান বা সুপারমার্কেট</item>
+        <item>হিন্দু মন্দির</item>
+        <item>হাসপাতাল</item>
+        <item>লাইব্রেরি</item>
+        <item>লজিং</item>
+        <item>মসজিদ</item>
+        <item>চলচ্চিত্রের থিয়েটার</item>
+        <item>জাদুঘর</item>
+        <item>উদ্যান</item>
+        <item>পার্কিং</item>
+        <item>উপাসনাগার</item>
+        <item>পুলিশ স্টেশন</item>
+        <item>পোস্ট অফিস</item>
+        <item>রেস্তোরাঁ</item>
+        <item>স্কুল</item>
+        <item>স্টোর</item>
+        <item>সাবওয়ে স্টেশন</item>
+        <item>সিনাগগ</item>
+        <item>ট্রেন স্টেশন</item>
+        <item>ট্র্যানজিট স্টেশন</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>জানুয়ারি</item>
+        <item>ফেব্রুয়ারী</item>
+        <item>মার্চ</item>
+        <item>এপ্রিল</item>
+        <item>মে</item>
+        <item>জুন</item>
+        <item>জুলাই</item>
+        <item>আগস্ট</item>
+        <item>সেপ্টেম্বর</item>
+        <item>অক্টোবর</item>
+        <item>নভেম্বর</item>
+        <item>ডিসেম্বর</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>ভাগ করা বন্ধ করুন</item>
+        <item>১৫ মিনিট</item>
+        <item>৩০ মিনিট</item>
+        <item>১ ঘণ্টা</item>
+        <item>সময়কাল ফুরাবে না</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>ভাগ করা বন্ধ করুন</item>
+        <item>১৫ মিনিট</item>
+        <item>৩০ মিনিট</item>
+        <item>১ ঘণ্টা</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>০</item>
+        <item>১৫</item>
+        <item>৩০</item>
+        <item>৪৫</item>
+    </string-array>
+</resources>

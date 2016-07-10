@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>konu yok</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 saniye</item>
+        <item>2 saniye</item>
+        <item>3 saniye</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+        <item>7 saniye</item>
+        <item>8 saniye</item>
+        <item>9 saniye</item>
+        <item>10 saniye</item>
+        <item>Diğer</item>
+    </string-array>
+</resources>

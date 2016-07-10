@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Бар</item>
+        <item>Кафе</item>
+        <item>АЗС</item>
+        <item>Кінотеатр</item>
+        <item>Житло</item>
+        <item>Нічний клуб</item>
+        <item>Музей</item>
+        <item>Ресторан</item>
+        <item>Торговий центр</item>
+        <item>Магазин</item>
+        <item>Гастроном або супермаркет</item>
+        <item>Інше</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>слабкий</item>
+        <item>нормальний</item>
+        <item>хороший</item>
+        <item>надійний</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Офіційна версія</item>
+        <item>Версія для розробників</item>
+        <item>Роздрібна торгівля</item>
+        <item>Демо-версія</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>На телефоні та в автомобілі встановлено несумісне програмне забезпечення. Докладніше на сторінці &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Автомобіль повідомив про неправильний набір аудіо- та/або відеоконфігурацій.</item>
+        <item>"USB-з’єднання працює неналежним чином. Можливі рішення: 
+
+• перевірте, чи щільно пристає кабель з обох боків; 
+• перевірте, чи ваш USB-кабель підтримує передавання даних; 
+• переконайтеся, що в автомобілі та на телефоні встановлено правильну дату й час."</item>
+        <item>В автомобілі вимкнено Android Auto.</item>
+        <item>Сеанс Android Auto зупинено за запитом.</item>
+        <item>Можливо, програмне забезпечення автомобіля застаріло. Щоб отримати додаткову інформацію й допомогу, зв’яжіться з виробником.</item>
+        <item>Програмне забезпечення вашого автомобіля не пройшло перевірок системи безпеки Android Auto. Щоб отримати додаткову інформацію й допомогу, зв’яжіться з виробником.</item>
+        <item>Програмне забезпечення вашого автомобіля не пройшло перевірок системи безпеки Android Auto. Перевірте, чи правильно встановлено дату й час в автомобілі, а також чи оновлено Android Auto.</item>
+        <item>Час очікування дії минув. Створіть і надішліть звіт про помилку.</item>
+        <item>Схоже, у вас не встановлено панель запуску. Перевірте, чи правильно налаштовано ваш телефон.</item>
+        <item>Графічний конвеєр перестав працювати. Створіть і надішліть звіт про помилку.</item>
+        <item>Автомобіль не відповідає на повідомлення з телефона. Можливо, автомобіль у невідповідному стані.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Аеропорт</item>
+        <item>Банкомат</item>
+        <item>Банк</item>
+        <item>Бар</item>
+        <item>Автобусна станція</item>
+        <item>Кафе</item>
+        <item>Кемпінг</item>
+        <item>Кладовище</item>
+        <item>Церква</item>
+        <item>Міська рада</item>
+        <item>Заклад</item>
+        <item>АЗС</item>
+        <item>Продуктовий магазин або супермаркет</item>
+        <item>Індуїстський храм</item>
+        <item>Лікарня</item>
+        <item>Бібліотека</item>
+        <item>Житло</item>
+        <item>Мечеть</item>
+        <item>Кінотеатр</item>
+        <item>Музей</item>
+        <item>Парк</item>
+        <item>Паркувальний майданчик</item>
+        <item>Молитовний дім</item>
+        <item>Відділення міліції</item>
+        <item>Поштове відділення</item>
+        <item>Ресторан</item>
+        <item>Навчальний заклад</item>
+        <item>Магазин</item>
+        <item>Станція метро</item>
+        <item>Синагога</item>
+        <item>Залізнична станція</item>
+        <item>Зупинка громадського транспорту</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>січень</item>
+        <item>лютий</item>
+        <item>березень</item>
+        <item>квітень</item>
+        <item>травень</item>
+        <item>червень</item>
+        <item>липень</item>
+        <item>серпень</item>
+        <item>вересень</item>
+        <item>жовтень</item>
+        <item>листопад</item>
+        <item>грудень</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Скасувати спільний доступ</item>
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>1 година</item>
+        <item>Без обмеження</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Скасувати спільний доступ</item>
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>1 година</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Виберіть таємне запитання</item>
+        <item>Номер першого телефону</item>
+        <item>Ім’я найкращого друга дитинства</item>
+        <item>Ім’я першої вчительки</item>
+        <item>Ім’я керівника з першої роботи</item>
+        <item>Реєстраційний номер транспортного засобу</item>
+    </string-array>
+</resources>

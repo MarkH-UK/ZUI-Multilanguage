@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>bez temata</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunde</item>
+        <item>2 sekundes</item>
+        <item>3 sekundes</item>
+        <item>4 sekundes</item>
+        <item>5 sekundes</item>
+        <item>6 sekundes</item>
+        <item>7 sekundes</item>
+        <item>8 sekundes</item>
+        <item>9 sekundes</item>
+        <item>10 sekundes</item>
+        <item>Cits</item>
+    </string-array>
+</resources>

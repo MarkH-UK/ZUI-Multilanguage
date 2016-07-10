@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="auth_setup_wizard_color_accent_dark">#ff448aff</color>
+    <color name="auth_setup_wizard_color_accent_light">#ff3367d6</color>
+    <color name="auth_setup_wizard_color_secondary_dark">#ff9e9e9e</color>
+    <color name="auth_setup_wizard_color_secondary_light">#ff757575</color>
+    <color name="auth_setup_wizard_divider_color_dark">#33ffffff</color>
+    <color name="auth_setup_wizard_divider_color_light">#33000000</color>
+    <color name="auth_setup_wizard_highlight_color">#ffff6500</color>
+    <color name="auth_setup_wizard_link_color_dark">#ff448aff</color>
+    <color name="auth_setup_wizard_link_color_light">#ff3367d6</color>
+    <color name="auth_setup_wizard_navbar_bg_dark">#ff21272b</color>
+    <color name="auth_setup_wizard_navbar_bg_light">#ffe4e7e9</color>
+    <color name="auth_setup_wizard_navbar_text_dark">#deffffff</color>
+    <color name="auth_setup_wizard_navbar_text_light">#de000000</color>
+    <color name="auth_setup_wizard_title_color">@android:color/holo_blue_light</color>
+    <color name="common_switch_bar_background">@color/material_blue_grey_800</color>
+    <color name="common_switch_bar_switch">@color/material_teal_200</color>
+</resources>

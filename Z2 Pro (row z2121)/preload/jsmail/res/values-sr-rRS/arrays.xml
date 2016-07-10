@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Одговорити</item>
+        <item>Одговорити свима</item>
+        <item>Проследити</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Једна линија</item>
+        <item>Две линије</item>
+        <item>Три линије</item>
+        <item>Четири линије</item>
+        <item>Пет линија</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Веома мали</item>
+        <item>Мали</item>
+        <item>Нормалан</item>
+        <item>Велик</item>
+        <item>Огроман</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Недавно</item>
+        <item>Форматирање</item>
+        <item>Име</item>
+        <item>Од</item>
+        <item>Датум</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Систем</item>
+        <item>Брзе поруке</item>
+        <item>Све фасцикле</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Следећи разговор</item>
+        <item>Претходни разговор</item>
+        <item>Листа разговора</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Прикажи само архивиране ставке</item>
+        <item>Прикажи само обрисане ставке</item>
+        <item>Прикажи и архивиране и обрисане ставке</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Прикажите следећи разговор после брисања</item>
+        <item>Прикажите претходни разговор после брисања</item>
+        <item>Прикажите листу разговора после брисања</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Show archived items only</item>
+        <item>Show deleted items only</item>
+        <item>Show both archived and deleted items</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Адреса:</item>
+        <item>Телефон:</item>
+        <item>Име:</item>
+        <item>имејла:</item>
+        <item>Мобилни телефон:</item>
+        <item>WeChat:</item>
+        <item>Факс:</item>
+        <item>Поштански код:</item>
+        <item>Postal Code:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Хвала,</item>
+        <item>С поштовањем</item>
+        <item>Послано са мог уређаја:</item>
+        <item>Оригинални имејл</item>
+        <item>Послано са мог уређаја:</item>
+        <item>Послано са:</item>
+        <item>Од</item>
+        <item>Овај имејл</item>
+        <item>Одрицање од одговорности</item>
+        <item>Имејл одрицања од одговорности</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Синхронизација је успела</item>
+        <item>Грешка у мрежној вези</item>
+        <item>Неуспешна пријава</item>
+        <item>Грешка у сигурној вези</item>
+        <item>Синхронизација није успела</item>
+        <item>Грешка сервера</item>
+    </string-array>
+</resources>

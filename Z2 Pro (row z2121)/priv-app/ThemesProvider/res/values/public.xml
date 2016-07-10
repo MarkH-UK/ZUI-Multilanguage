@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_app_themes" id="0x7f020000" />
+    <public type="layout" name="bootanimation_preview" id="0x7f030000" />
+    <public type="layout" name="controls_preview" id="0x7f030001" />
+    <public type="layout" name="controls_thumbnail" id="0x7f030002" />
+    <public type="dimen" name="wallpaper_preview_size" id="0x7f040000" />
+    <public type="dimen" name="wallpaper_thumbnail_size" id="0x7f040001" />
+    <public type="dimen" name="boot_animation_preview_width" id="0x7f040002" />
+    <public type="dimen" name="boot_animation_preview_height" id="0x7f040003" />
+    <public type="dimen" name="status_bar_battery_height" id="0x7f040004" />
+    <public type="dimen" name="status_bar_battery_width" id="0x7f040005" />
+    <public type="string" name="app_name" id="0x7f050000" />
+    <public type="string" name="unknown_app_name" id="0x7f050001" />
+    <public type="string" name="controls_preview_button_text" id="0x7f050002" />
+    <public type="id" name="preview" id="0x7f060000" />
+</resources>

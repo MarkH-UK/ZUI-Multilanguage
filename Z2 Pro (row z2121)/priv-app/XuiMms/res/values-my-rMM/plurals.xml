@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$sစကားဆက်သွယ်မှုများကို ဖျက်ပါမည်</item>
+        <item quantity="one">စကားဆက်သွယ်မှု ၁ခုကို ဖျက်ပါမည်</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s စက္ကန့်</item>
+        <item quantity="one">%s စက္ကန့်</item>
+        <item quantity="few">%s စက္ကန့်</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s\" အတွက်ရလဒ်များ %1$s</item>
+        <item quantity="one">\"%2$s\" အတွက်ရလဒ် %1$s</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s အခြားစာတိုများ</item>
+        <item quantity="one">+%1$s အခြားစာတို</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s ဦး</item>
+    </plurals>
+</resources>

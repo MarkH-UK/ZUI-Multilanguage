@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Seda kontot ei saa kasutada, kuna sellel puuduvad rakendused: ^1. Võtke ühendust domeeni administraatoriga, et saada "&lt;b>^2&lt;/b>", või logige sisse teise kontoga. "</item>
+        <item quantity="one">" Seda kontot ei saa kasutada, kuna sellel puudub rakendus: ^1. Võtke ühendust domeeni administraatoriga, et saada "&lt;b>^2&lt;/b>", või logige sisse teise kontoga. "</item>
+    </plurals>
+</resources>

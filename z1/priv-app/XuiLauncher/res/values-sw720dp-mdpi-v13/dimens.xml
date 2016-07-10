@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="xpage_text_width">72.0dip</dimen>
+    <dimen name="min_cellwidth">104.0dip</dimen>
+    <dimen name="min_cellheight">161.29999dip</dimen>
+</resources>

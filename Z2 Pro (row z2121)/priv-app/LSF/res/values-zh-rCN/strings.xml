@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="push_app_name">设备服务</string>
+    <string name="download_falied">下载失败，点击重试。</string>
+    <string name="warring_network_mobile">当前没有可用的wifi网络，是否使用移动网络下载？</string>
+    <string name="warring_no_network">当前没有可用的网络连接，请设置wifi网络。</string>
+    <string name="text_start_task">开始下载</string>
+    <string name="text_set_wifi">设置Wifi</string>
+    <string name="text_set_later">以后再说</string>
+    <string name="dialog_button_download">下载</string>
+    <string name="dialog_button_cancel">取消</string>
+    <string name="install_success">安装成功</string>
+    <string name="install_success_start">.点击启动.</string>
+    <string name="download_in_queue">任务已加入下载队列</string>
+    <string name="download_in_queue_zero">任务已加入零流量下载队列</string>
+    <string name="download_in_wifi_only">仅在wifi网络下载</string>
+    <string name="download_in_wifi_mobile">在wifi和移动网络下载</string>
+    <string name="progress_wait_retry">等待重试</string>
+    <string name="progress_wait_network">等待网络</string>
+    <string name="progress_downloading">下载中</string>
+    <string name="progress_downloaded">下载完成</string>
+    <string name="progress_task_not_exist">任务不存在</string>
+    <string name="ad_skip">跳过</string>
+</resources>

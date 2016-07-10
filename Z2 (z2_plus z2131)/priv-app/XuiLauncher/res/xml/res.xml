@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme theme:component="@string/component" theme:author="@string/component" theme:description="@string/component" theme:thumbnail="@drawable/themepreview" theme:preview="@array/preview"
+  xmlns:theme="http://schemas.android.com/apk/res/com.zui.launcher" />

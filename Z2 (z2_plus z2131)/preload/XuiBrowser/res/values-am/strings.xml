@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ወደ መነሻ ይዳስሱ</string>
+    <string name="abc_action_bar_home_description_format">%1$s፣ %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s፣ %2$s፣ %3$s</string>
+    <string name="abc_action_bar_up_description">ወደ ላይ ይዳስሱ</string>
+    <string name="abc_action_menu_overflow_description">ተጨማሪ አማራጮች</string>
+    <string name="abc_action_mode_done">ተከናውኗል</string>
+    <string name="abc_activity_chooser_view_see_all">ሁሉንም ይመልከቱ</string>
+    <string name="abc_activitychooserview_choose_application">መተግበሪያ ይምረጡ</string>
+    <string name="abc_capital_off">ጠፍቷል</string>
+    <string name="abc_capital_on">በርቷል</string>
+    <string name="abc_search_hint">ፈልግ…</string>
+    <string name="abc_searchview_description_clear">መጠይቅ አጽዳ</string>
+    <string name="abc_searchview_description_query">የፍለጋ ጥያቄ</string>
+    <string name="abc_searchview_description_search">ፍለጋ</string>
+    <string name="abc_searchview_description_submit">መጠይቅ ያስረክቡ</string>
+    <string name="abc_searchview_description_voice">የድምፅ ፍለጋ</string>
+    <string name="abc_shareactionprovider_share_with">ከሚከተለው ጋር ያጋሩ</string>
+    <string name="abc_shareactionprovider_share_with_application">ከ%s ጋር ያጋሩ</string>
+    <string name="abc_toolbar_collapse_description">ሰብስብ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="actionbar_share">አጋራ</string>
+    <string name="actionbar_web_search">የድር ፍለጋ</string>
+    <string name="media_player_error_button">ይሁን</string>
+    <string name="media_player_error_text_invalid_progressive_playback">ይቅርታ፣ ይህ ቪዲዮ ወደዚህ መሣሪያ በዥረት ለመልቀቅ ልክ የሆነ አይደለም።</string>
+    <string name="media_player_error_text_unknown">ይቅርታ፣ ይህ ቪዲዮ ሊጫወት አልቻለም።</string>
+    <string name="media_player_error_title">ቪዲዮ ማጫወት አልተቻለም</string>
+    <string name="media_player_loading_video">ቪዲዮን በመጫን ላይ</string>
+    <string name="profiler_error_toast">መገለጫ ሰሪውን ማስጀመር አልተሳካም</string>
+    <string name="profiler_no_storage_toast">ውጫዊ ማከማቻ ዝግጁ ስላልሆነ መገለጫ ሰሪውን ማስጀመር አልተቻለም</string>
+    <string name="profiler_started_toast">መገለጫ ሰሪ ተጀምሯል</string>
+    <string name="profiler_stopped_toast">መግለጫ ሰሪ ተጠናቅቋል። ውጤቶች በ%1$s ውስጥ ናቸው።</string>
+</resources>

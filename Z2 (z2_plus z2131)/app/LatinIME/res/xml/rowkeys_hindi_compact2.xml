@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_o" />
+    <Key latin:keySpec="ओ" latin:keyStyle="moreKeysDevanagariVowelSignO" />
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_e" />
+    <Key latin:keySpec="ए" latin:keyStyle="moreKeysDevanagariVowelSignE" />
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_sign_virama" />
+    <Key latin:keySpec="अ" latin:keyStyle="moreKeySpecDevanagariSignVirama" />
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_i" />
+    <Key latin:keySpec="इ" latin:keyStyle="moreKeysDevanagariVowelSignI" />
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_u" />
+    <Key latin:keySpec="उ" latin:keyStyle="moreKeysDevanagariVowelSignU" />
+    <Key latin:moreKeys="फ" latin:keySpec="प" />
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_vocalic_r" />
+    <Key latin:keySpec="र" latin:keyStyle="moreKeysDevanagariVowelSignVocalicR" />
+    <Key latin:moreKeys="ख" latin:keySpec="क" />
+    <Key latin:moreKeys="थ,त्र" latin:keySpec="त" />
+    <Key latin:moreKeys="छ" latin:keySpec="च" />
+    <Key latin:moreKeys="ठ" latin:keySpec="ट" />
+</merge>

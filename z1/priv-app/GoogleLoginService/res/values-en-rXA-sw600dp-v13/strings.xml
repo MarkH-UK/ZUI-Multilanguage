@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">[Ýöûŕ ñåḿé îš ûšéð ţö þéŕšöñåļîžé ýöûŕ ţåɓļéţ åñð Ĝööĝļé šéŕVîçéš. one two three four five six seven]</string>
+    <string name="name_title_local">[Ţĥîš ţåɓļéţ ɓéļöñĝš ţö… one two three]</string>
+    <string name="name_text_local">[Ţĥé ţåɓļéţ ûšéš ýöûŕ ñåḿé ţö þéŕšöñåļîžé šöḿé åþþš. one two three four five six]</string>
+    <string name="communicating_message">[Ýöûŕ ţåɓļéţ îš çöñţåçţîñĝ Ĝööĝļé ţö šåVé îñƒöŕḿåţîöñ ţö ýöûŕ åççöûñţ. Ţĥîš çåñ ţåķé ûþ ţö 5 ḿîñûţéš. one two three four five six seven eight nine ten eleven]</string>
+    <string name="checking_username_message">"[Ýöûŕ ţåɓļéţ îš çöñţåçţîñĝ Ĝööĝļé ţö šéé îƒ ýöûŕ ðéšîŕéð ûšéŕñåḿé îš åVåîļåɓļé.
+
+Ţĥîš çåñ ţåķé å çöûþļé öƒ ḿîñûţéš. one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="wait_for_device_country_msg">[Ĝåţĥéŕîñĝ îñƒöŕḿåţîöñ åɓöûţ ýöûŕ ţåɓļéţ. Ţĥîš çöûļð ţåķé ûþ ţö 30 šéçöñðš. one two three four five six seven eight nine]</string>
+    <string name="backup_consent_message">"[Ûšé ýöûŕ Ĝööĝļé åççöûñţ ţö ɓåçķ ûþ ýöûŕ åþþš, šéţţîñĝš (šûçĥ åš ɓööķḿåŕķš åñð Ŵî-Fî þåššŵöŕðš), åñð öţĥéŕ ðåţå. Îƒ ýöû þŕéVîöûšļý ɓåçķéð ûþ ýöûŕ åççöûñţ, ýöû çåñ ŕéšţöŕé îţ ţö ţĥîš ţåɓļéţ ñöŵ.
+
+Ýöû çåñ çĥåñĝé ýöûŕ ɓåçķûþ šéţţîñĝš åñýţîḿé îñ Šéţţîñĝš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one]"</string>
+    <string name="backup_consent_message_no_restore">"[Ûšé ýöûŕ Ĝööĝļé åççöûñţ ţö ɓåçķ ûþ ýöûŕ åþþš, šéţţîñĝš (šûçĥ åš ɓööķḿåŕķš åñð Ŵî-Fî þåššŵöŕðš), åñð öţĥéŕ ðåţå.
+
+Ýöû çåñ çĥåñĝé ýöûŕ ɓåçķûþ šéţţîñĝš åñýţîḿé îñ Šéţţîñĝš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine]"</string>
+    <string name="restoring_message">[Ýöûŕ ţåɓļéţ îš çöñţåçţîñĝ Ĝööĝļé ţö ŕéšţöŕé ýöûŕ åççöûñţ. Ţĥîš çåñ ţåķé ûþ ţö 5 ḿîñûţéš. one two three four five six seven eight nine ten]</string>
+    <string name="restore_consent_yes_agree">[βŕîñĝ åþþš, šéţţîñĝš, åñð öţĥéŕ ðåţå ţö ţĥîš ţåɓļéţ ţĥåţ ýöû þŕéVîöûšļý ɓåçķéð ûþ ţö ýöûŕ Ĝööĝļé Åççöûñţ. one two three four five six seven eight nine ten eleven]</string>
+</resources>

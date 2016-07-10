@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" 此帳戶缺少了以下應用程式，因此無法使用：^1。請就"&lt;b>^2&lt;/b>事宜聯絡網域管理員，或使用其他帳戶登入。</item>
+        <item quantity="one">" 此帳戶缺少了以下應用程式，因此無法使用：^1。請就"&lt;b>^2&lt;/b>事宜聯絡網域管理員，或使用其他帳戶登入。</item>
+    </plurals>
+</resources>

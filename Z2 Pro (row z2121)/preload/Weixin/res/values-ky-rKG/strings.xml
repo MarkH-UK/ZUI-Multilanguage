@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Google Play кызматтарынын катасы</string>
+    <string name="z">Колдонмону иштетүү үчүн, Google Play Кызматтарын жаңыртуу керек.</string>
+    <string name="a0">%1$s Android Тагынма колдонмосунун жаңыртылышын талап кылат.</string>
+    <string name="a1">Колдонмону иштетүү үчүн, Google Play Кызматтарын иштетүү керек.</string>
+    <string name="a2">%1$s сурап жатат</string>
+    <string name="a3">Google Play кызматтарын алуу</string>
+    <string name="a4">Google Play кызматтарысыз %1$s иштебейт, алар телефонуңузда жок болуп жатат.</string>
+    <string name="a5">Google Play кызматтарысыз %1$s иштебейт, алар планшетиңизде жок болуп жатат.</string>
+    <string name="a6">Google Play кызматтарын алуу</string>
+    <string name="a7">Google Play кызматтарын иштетүү</string>
+    <string name="a8">Google Play кызматтарын иштетмейиңизче %1$s иштебейт.</string>
+    <string name="a9">Google Play кызматтарын иштетүү</string>
+    <string name="a_">Google Play кызматтарын жаңыртуу</string>
+    <string name="aa">Android Тагынманы жаңыртуу</string>
+    <string name="ab">Google Play кызматтары жаңыртылмайынча %1$s иштебейт.</string>
+    <string name="ac">Android Тагынма колдонмосу жаңыртылмайынча %1$s иштебейт.</string>
+    <string name="ad">Google Play кызматтары жаңыртылууда</string>
+    <string name="ae">Google Play кызматтарысыз %1$s иштебейт, алар учурда жаңыртылууда.</string>
+    <string name="af">Тармак катасы</string>
+    <string name="ag">Google Play Кызматтарына туташуу үчүн, дайындарды өткөрүүчү туташуу талап кылынат.</string>
+    <string name="ah">Каттоо эсеби жараксыз</string>
+    <string name="ai">Көрсөтүлгөн каттоо эсеби бул түзмөктө жок. Башка каттоо эсебин тандаңыз.</string>
+    <string name="aj">Google Play кызматтарында келип чыккан белгисиз көйгөй.</string>
+    <string name="ak">Google Play кызматтары</string>
+    <string name="al">%1$s Google Play кызматтарына ишенет, аларды түзмөгүңүз колдоого албайт. Жардам үчүн өндүрүүчүгө кайрылыңыз.</string>
+    <string name="am">Жаңыртуу</string>
+    <string name="an">Кирүү</string>
+    <string name="ao">Google менен кирүү</string>
+    <string name="ap">Телефондо ачык</string>
+    <string name="aq">%1$s учурда жеткиликсиз бир же бир нече Google Play кызматтарын талап кылууда. Жардам үчүн өндүрүүчүгө кайрылыңыз.</string>
+    <string name="ar">Кирүү ишке ашкан жок</string>
+    <string name="as">Белгиленген каттоо эсепке кирүү катасы. Башка каттоо эсебин тандаңыз.</string>
+</resources>

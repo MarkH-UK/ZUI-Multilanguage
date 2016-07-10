@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">„Google Play“ paslaugų klaida</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Norint naudoti programą būtina įdiegti „Google Play“ paslaugas.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Norint naudoti programą būtina atnaujinti „Google Play“ paslaugas.</string>
+    <string name="common_android_wear_notification_needs_update_text">Programai reikalingas „Android Wear“ programos naujinys.</string>
+    <string name="common_google_play_services_needs_enabling_title">Norint naudoti programą būtina įgalinti „Google Play“ paslaugas.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Užklausą pateikė „%1$s“</string>
+    <string name="common_google_play_services_install_title">Gauti „Google Play“ paslaugų</string>
+    <string name="common_google_play_services_install_text_phone">Ši programa neveiks be „Google Play“ paslaugų, kurios neįdiegtos telefone.</string>
+    <string name="common_google_play_services_install_text_tablet">Ši programa neveiks be „Google Play“ paslaugų, kurios neįdiegtos planšetiniame kompiuteryje.</string>
+    <string name="common_google_play_services_install_button">Gauti „Google Play“ paslaugų</string>
+    <string name="common_google_play_services_enable_title">Įgalinti „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_enable_text">Ši programa neveiks, jei neįgalinsite „Google Play“ paslaugų.</string>
+    <string name="common_google_play_services_enable_button">Įgal. „Google Play“ paslaugas</string>
+    <string name="common_google_play_services_update_title">Atnaujinti „Google Play“ paslaugas</string>
+    <string name="common_android_wear_update_title">Atnaujinkite „Android Wear“</string>
+    <string name="common_google_play_services_update_text">Ši programa neveiks, jei neatnaujinsite „Google Play“ paslaugų.</string>
+    <string name="common_android_wear_update_text">Ši programa veiks tik atnaujinus „Android Wear“ programą.</string>
+    <string name="common_google_play_services_network_error_title">Tinklo klaida</string>
+    <string name="common_google_play_services_network_error_text">Norint prisijungti prie „Google Play“ paslaugų reikia duomenų ryšio.</string>
+    <string name="common_google_play_services_invalid_account_title">Netinkama paskyra</string>
+    <string name="common_google_play_services_invalid_account_text">Nurodytos paskyros šiame įrenginyje nėra. Pasirinkite kitą paskyrą.</string>
+    <string name="common_google_play_services_unknown_issue">Nežinoma „Google Play“ paslaugų problema.</string>
+    <string name="common_google_play_services_unsupported_title">„Google Play“ paslaugos</string>
+    <string name="common_google_play_services_unsupported_text">Jūsų įrenginys nepalaiko „Google Play“ paslaugų, kuriomis remiasi kai kurios programos. Jei reikia pagalbos, susisiekite su gamintoju.</string>
+    <string name="common_google_play_services_update_button">Atnaujinti</string>
+    <string name="common_signin_button_text">Prisij.</string>
+    <string name="common_signin_button_text_long">Prisij. naud. „Google“</string>
+    <string name="common_open_on_phone">Atidaryti telefonu</string>
+    <string name="setup_wizard_next_button_label">Kitas</string>
+    <string name="setup_wizard_back_button_label">Atgal</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Praleisti</string>
+    <string name="down_button_label">Daugiau</string>
+    <string name="cancel_button_label">Atšaukti</string>
+    <string name="try_again_button_label">Bandyti dar kartą</string>
+    <string name="close_button_label">Uždaryti</string>
+    <string name="url_load_unsuccessful_message">„Android“ įrenginys neprijungtas prie duomenų paslaugos. Jei norite peržiūrėti šią informaciją dabar, naudodami žiniatinklio naršyklę apsilankykite šiuo adresu: %s.</string>
+    <string name="sign_in_agreement">Prisijungdami sutinkate su „Google“ <annotation id="tos">paslaugų teikimo sąlygomis</annotation>, <annotation id="google_privacy">privatumo politika</annotation> ir <annotation id="play_tos">„Google Play“ paslaugų teikimo sąlygomis</annotation>.</string>
+    <string name="android_privacy_policy_title">Papildoma privatumo politika</string>
+    <string name="google_terms_of_service_title">„Google“ paslaugų teikimo sąlygos</string>
+    <string name="google_privacy_policy_title">„Google“ privatumo politika</string>
+    <string name="google_plus_privacy_policy_title">„Google“ plius privatumo politika</string>
+    <string name="google_play_tos_title">„Google Play“ paslaugų teikimo sąlygos</string>
+    <string name="chrome_tos_title">„Chrome“ paslaugų teikimo sąlygos</string>
+    <string name="chrome_privacy_title">„Chrome“ privatumo pranešimas</string>
+    <string name="url_load_unsuccessful_message_wifi_only">„Android“ įrenginys neprijungtas prie „Wi-Fi“ tinklo. Jei norite peržiūrėti šią informaciją dabar, žiniatinklio naršyklėje apsilankykite %s.</string>
+    <string name="services_activity_title">„Google“ paslaugos</string>
+    <string name="services_backup_heading">Atsarginė kopija</string>
+    <string name="services_location_heading">Vieta</string>
+    <string name="services_security_heading">Sauga</string>
+    <string name="services_personalization_heading">Suasmeninimas</string>
+    <string name="services_communication_heading">Ryšys</string>
+    <string name="security_verify_apps_summary">Leiskite „Google“ patikrinti visas įdiegtas programas, nes jų elgsena gali būti žalinga ir gali paveikti įrenginio arba duomenų saugumą.</string>
+    <string name="name_title">Jūsų vardas ir pavardė</string>
+    <string name="name_text">Jūsų vardas naudojamas telefonui ir „Google“ paslaugoms suasmeninti.</string>
+    <string name="first_name">Vardas</string>
+    <string name="last_name">Pavardė</string>
+    <string name="cant_be_blank">Laukas negali būti tuščias.</string>
+    <string name="sharedUserLabel">„Google“ paslaugos</string>
+    <string name="app_label">„Google“ paskyros valdytojas</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Prisijungti</string>
+    <string name="create_button_label">Gauti paskyrą</string>
+    <string name="not_now_button_label">Ne dabar</string>
+    <string name="new_button_label">Nauja</string>
+    <string name="existing_button_label">Esama</string>
+    <string name="done">Gerai</string>
+    <string name="edit_text_help">Jei norite pradėti įvesti tekstą, palieskite bet kurį teksto laukelį</string>
+    <string name="add_a_google_account">Pridėti „Google“ paskyrą</string>
+    <string name="captcha_title">Reikia įvesti CAPTCHA testą</string>
+    <string name="show_error_title">Klaida</string>
+    <string name="server_error">Iškilo problemų jungiantis prie „Google“ serverių.</string>
+    <string name="server_error_help">Bandykite dar kartą vėliau.</string>
+    <string name="network_unreliable">Neįmanoma užmegzti patikimo ryšio su serveriu.</string>
+    <string name="network_unreliable_help">Tai gali būti laikina problema arba galbūt „Android“ įrenginiui neteikiamos duomenų paslaugos. Jei tai tęsis, skambinkite klientų priežiūros tarnybai.</string>
+    <string name="network_unreliable_help_wifi_only">Tai gali būti laikina problema. Bandykite dar kartą arba prisijunkite prie kito „Wi-Fi“ ryšio tinklo.</string>
+    <string name="invalid_login_character">Neteisingas simbolis. Leidžiama naudoti tik 0–9, a–ž, A–Ž ir taškus.</string>
+    <string name="invalid_password_character">Netinkamas slaptažodžio simbolis.</string>
+    <string name="calendar">„Google“ kalendorius</string>
+    <string name="talk">„Google“ pokalbiai</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Laukas negali būti tuščias.</string>
+    <string name="plus_query_title">Naujovinkite į „Google+“</string>
+    <string name="plus_query_text">Bendrinimas žiniatinklyje su „Google+“ yra tarsi bendrinimas tikrame gyvenime.</string>
+    <string name="circles_subtitle">Jus dominančių dalykų srautas</string>
+    <string name="circles_text">Susisiekite su artimais draugais ir atraskite bendrų pomėgių.</string>
+    <string name="uploads_subtitle">Automatinė nuotraukos atsarginė kopija</string>
+    <string name="uploads_text">Nufotografavę, sukurkite atsargines nuotraukų kopijas bei saugokite jas nemokamoje asmeninėje atmintinėje.</string>
+    <string name="huddle_subtitle">Vaizdo skambučiai ir susirašinėjimas</string>
+    <string name="huddle_text">Mėgaukitės teksto pranešimų siuntimu, nuotraukomis ir nemokamais grupiniais vaizdo skambučiais naudodami „Hangout“.</string>
+    <string name="plus_declined_button_label">Ne dabar</string>
+    <string name="plus_accepted_button_label">Pradėti</string>
+    <string name="plus_name_check_title">Susisiekiama su „Google+“...</string>
+    <string name="plus_name_check_text">Tai gali užtrukti kelias minutes.</string>
+    <string name="plus_faq_title">Sveiki! Tai - „Google+“.</string>
+    <string name="plus_faq_text" formatted="false">"„Google+“ turėsite viešą profilį, kad jūsų draugai galėtų jus rasti internete. Visi, kurie žino jūsų el. pašto adresą, gali rasti ir peržiūrėti profilį.
+
+Visame žiniatinklyje naudodami mygtukus +1 galite rekomenduoti pasauliui įvairius dalykus. Jūsų profilis ir mygtukai +1 bus viešai rodomi paieškoje, skelbimuose ir visame žiniatinklyje.
+
+Šiuo metu profilyje rodomas tik jūsų vardas (%s %s). Galite pridėti nuotrauką, gyvenimo aprašymą ir kitos išsamios informacijos vėliau, pradėję naudoti „Google+“."</string>
+    <string name="dasher_warning">Administratoriui %s priklauso visi jūsų duomenys „Google+“ ir jis juos valdo bei gali bet kada be jūsų leidimo ištrinti arba pakeisti jūsų profilį.</string>
+    <string name="profile_info_title">Jūsų profilis</string>
+    <string name="profile_text">Pateikite dalį pagrindinės informacijos savo profilyje. Galite pridėti nuotrauką ir kitą išsamią informaciją vėliau, kai pradėsite naudoti „Google+“.</string>
+    <string name="occupation">Profesija</string>
+    <string name="current_city">Dabartinis miestas</string>
+    <string name="picassa_info_title">„Picasa“ ir „Google+“</string>
+    <string name="picassa_info_text" formatted="false">Nuotraukos ir vaizdo įrašai „Picasa“ žiniatinklio albumuose bus pasiekiami „Google+“, o komentarų autorius bus nurodytas %s %s vietoje %s. Kai bendrinate nuotraukas „Google+“, gavėjai gali pakartotinai bendrinti jas su kitais asmenimis. Albumo matomumo nustatymai nebus pakeisti ir galėsite juos bet kada apriboti, kad nebūtų galima jų laisvai pakartotinai bendrinti.</string>
+    <string name="name_title_plus">Jūsų „Google+“ vardas</string>
+    <string name="name_title_local">Šis telefonas priklauso...</string>
+    <string name="name_text_local">Telefone naudojamas jūsų vardas kelioms programoms suasmeninti.</string>
+    <string name="name_progress_title">Šiek tiek palaukite…</string>
+    <string name="bad_name_title">Naudoti šį vardą?</string>
+    <string name="invalid_name_title">Negalima naudoti šio vardo</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Jei norite šį vardą naudoti „Google+“, mūsų komanda turės jį peržiūrėti. Jei šis vardas pažeis vardų politiką, profilis gali būti laikinai sustabdytas. Dėl to negalėsite naudoti „Google“ produktų, kuriems reikia aktyvaus profilio.
+
+"<annotation id="learn_more">Sužinokite daugiau</annotation></string>
+    <string name="invalid_name_text">Negalite naudoti šio vardo „Google+“, nes jame yra netinkamų simbolių.</string>
+    <string name="invalid_nickname_text">Šio vardo negalima naudoti „Google+“, nes jame yra netinkamų simbolių. Naudojate slapyvardį, ankstesnį vardą ar pareigas? Juos galėsite pridėti prie profilio prisijungę.</string>
+    <string name="invalid_other_text">Šio vardo negalima naudoti „Google+“.</string>
+    <string name="bad_name_agree_text">Suprantu ir noriu naudoti šį vardą.</string>
+    <string name="bad_name_decline_button_label">Atnaujinti vardą</string>
+    <string name="bad_name_agree_button_label">Pateikti vardą peržiūrėti</string>
+    <string name="bad_name_skip_button_label">Praleisti „Google+“</string>
+    <string name="photo_title">Jūsų nuotrauka</string>
+    <string name="photo_text">Ši nuotrauka bus naudojama jūsų kontaktų įrašuose. Vėliau galėsite ją pakeisti programoje „Žmonės“.</string>
+    <string name="photo_text_es">Išsirinkite nuotrauką, kurią jūsų draugai matys „Google+“. Vėliau galėsite pasirinkti naują.</string>
+    <string name="photo_button_label">Fotografuoti</string>
+    <string name="retake_photo_button_label">Fotograf. iš naujo</string>
+    <string name="photo_failure">Nepavyko paleisti fotoaparato.</string>
+    <string name="crop_failure">Nepavyko apkarpyti nuotraukos.</string>
+    <string name="photo_description">Jūsų nuotrauka</string>
+    <string name="communicating_message">Telefonas jungiasi prie „Google“, kad būtų išsaugota informacija paskyroje. Tai gali trukti iki 5 min.</string>
+    <string name="creating_account_title">Išsaugoma paskyra...</string>
+    <string name="checking_username_message">"Jūsų telefonas bando susisiekti su „Google“, kad patikrintų, ar galimas pageidaujamas naudotojo vardas.
+
+Tai gali trukti kelias minutes."</string>
+    <string name="plus_failure_title">Prisijunkite prie „Google+“ vėliau</string>
+    <string name="plus_failure_new_account_text">„Google“ paskyra sukurta, bet nepavyko pateikti prisijungimo prie „Google+“ užklausos. Vėliau bandykite dar kartą naudodami bet kurią žiniatinklio naršyklę šiuo adresu: plus.google.com.</string>
+    <string name="plus_failure_text">Nepavyko pateikti prisijungimo prie „Google+“ užklausos. Vėliau bandykite dar kartą naudodami bet kurią žiniatinklio naršyklę šiuo adresu: plus.google.com.</string>
+    <string name="provisioned_login_title">Įveskite slaptažodį</string>
+    <string name="provisioned_welcome">Sveiki, %s!</string>
+    <string name="provisioned_welcome_2">"Įveskite slaptažodį:
+%s"</string>
+    <string name="provisioned_incorrect_login">%s – ne jūs?</string>
+    <string name="login_title">Įveskite el. pašto adresą ir slaptažodį</string>
+    <string name="login_task_title">Prisijungiama</string>
+    <string name="password">Slaptažodis</string>
+    <string name="restore_wifi">Atkurti ir prisijungti prie žinomų „Wi-Fi“ ryšio tinklų.</string>
+    <string name="sign_in_agreement_multi_user">Prisijungdami sutinkate su „Google“ <annotation id="tos">paslaugų teikimo sąlygomis</annotation>, <annotation id="google_privacy">privatumo politika</annotation> ir <annotation id="play_tos">„Google Play“ paslaugų teikimo sąlygomis</annotation>". 
+
+Atminkite, kad bet kuris naudotojas gali priimti atnaujintų programų leidimus jūsų vardu. Planšetiniu kompiuteriu, kaip ir kitais kompiuteriais, dalykitės tik su patikimais žmonėmis."</string>
+    <string name="sign_in_agreement_with_chrome">Prisijungdami sutinkate su „Google“ <annotation id="tos">paslaugų teikimo sąlygomis</annotation> ir <annotation id="google_privacy">privatumo politika</annotation>, „Chrome“ <annotation id="chrome_tos">paslaugų teikimo sąlygomis</annotation> ir <annotation id="chrome_privacy">privatumo pranešimu</annotation>, bei „Google Play“ <annotation id="play_tos">paslaugų teikimo sąlygomis</annotation>.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Prisijungdami sutinkate su „Google“ <annotation id="tos">paslaugų teikimo sąlygomis</annotation> ir <annotation id="google_privacy">privatumo politika</annotation>, „Chrome“ <annotation id="chrome_tos">paslaugų teikimo sąlygomis</annotation> ir <annotation id="chrome_privacy">privatumo pranešimu</annotation> bei „Google Play“ <annotation id="play_tos">paslaugų teikimo sąlygomis</annotation>". 
+
+Atminkite, kad bet kuris naudotojas gali priimti atnaujintų programų leidimus jūsų vardu. Planšetiniu kompiuteriu, kaip ir kitais kompiuteriais, dalykitės tik su patikimais žmonėmis."</string>
+    <string name="create_prompt">" Neturite „Google“ paskyros? "<annotation id="create_account">Sukurkite paskyrą dabar</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Prisijunkite naudodami „Google“ paskyrą:</string>
+    <string name="invalid_username">Įvestas tekstas nėra tinkamas naudotojo vardas.</string>
+    <string name="captcha_instructions">Čia įveskite matomą tekstą:</string>
+    <string name="create_google_account">Pasirinkite naudotojo vardą</string>
+    <string name="create_google_account_text">Susikūrę „Google“ paskyrą galite naudoti „Gmail“ – „Google“ el. paštą. Jis veikia bet kokiame įrenginyje, blokuoja šlamštą ir daug daugiau.</string>
+    <string name="account_already_has_gmail">Paskyra jau turi „Gmail“.</string>
+    <string name="error_account_disabled">"Paskyra išjungta. 
+
+(Jei reikia išsamios informacijos, žiniatinklio naršyklėje apsilankykite adresu https://google.com/accounts.)"</string>
+    <string name="no_network">Nėra tinklo ryšio.</string>
+    <string name="no_network_help">Tai gali būti laikina problema arba galbūt jūsų „Android“ įrenginiui neteikiamos duomenų paslaugos. Bandykite dar kartą, kai būsite prisijungę prie mobiliojo ryšio tinklo, arba prisijunkite prie „Wi-Fi“ ryšio tinklo.</string>
+    <string name="no_network_help_wifi_only">Tai gali būti laikina problema. Bandykite dar kartą arba prisijunkite prie kito „Wi-Fi“ ryšio tinklo.</string>
+    <string name="error_login_failed">"Naudotojo vardas ir slaptažodis neatitinka. Bandykite dar kartą.
+
+Jei norite atkurti paskyros informaciją, apsilankykite adresu google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Ši paskyra nepatvirtinta. Patikrinkite el. paštą ir apsilankykite spustelėję įtrauktą nuorodą, kad patvirtintumėte šią paskyrą. 
+
+(Jei norite atkurti paskyros informaciją, kompiuteriu apsilankykite šiuo adresu: http://www.google.com/accounts/recovery?hl=lt.)"</string>
+    <string name="exit_menu_item">Išeiti iš prisijungimo naršyklėje</string>
+    <string name="creating_profile">Sukurkite savo profilį…</string>
+    <string name="checking_account">Tikrinamas galimumas...</string>
+    <string name="is_not_available">Naudotojo vardas <b>^1</b> negalimas.</string>
+    <string name="suggestions_hint">Palieskite, kad būtų pateikta pasiūlymų</string>
+    <string name="suggest_username_next_button_label">Keisti naudotojo vardą</string>
+    <string name="hint_size">" "<b>^1</b> yra mažiau nei 6 arba daugiau nei 30 simbolių.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> nėra raidžių.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" gali būti tik raidės,
+skaičiai ir taškai."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> nenaudoja „Gmail“.</string>
+    <string name="sign_in_browser">Prisijungimas naršyklėje</string>
+    <string name="alternatives_list_title">Siūlomi naudotojo vardai</string>
+    <string name="password_title">Sukurti slaptažodį</string>
+    <string name="choose_a_password">Slaptažodis</string>
+    <string name="confirm_password">Įveskite slaptažodį iš naujo</string>
+    <string name="too_short">Per trumpas</string>
+    <string name="security_questions_title">Saugos klausimai</string>
+    <string name="answer">" "<b>Atsakymas</b></string>
+    <string name="password_mismatch">Slaptažodžiai neatitinka. Bandykite dar kartą.</string>
+    <string name="eight_chars_min">Mažiausiai 8 simboliai</string>
+    <string name="verify_your_profile">Patvirtinkite savo profilį</string>
+    <string name="error_not_logged_in">Naudotojas neprisijungęs.</string>
+    <string name="error_username_unavailable">Naudotojo vardas negalimas.</string>
+    <string name="error_bad_password">Slaptažodis per lengvas arba jame yra netinkamų simbolių. Bandykite dar kartą.</string>
+    <string name="error_bad_username">Neteisingas naudotojo vardas.</string>
+    <string name="existing_account_error_title">Paskyra jau yra</string>
+    <string name="existing_account_error_text">Šiame „Android“ įrenginyje „^1“ paskyra jau yra.</string>
+    <string name="submission_title">Apgailestaujame...</string>
+    <string name="submission_error_text">Įvyko klaida. Bandykite dar kartą.</string>
+    <string name="sync_intro_title">Paskyros sinchronizavimas</string>
+    <string name="account_tos_title">Užbaigti paskyrą</string>
+    <string name="account_tos_plus_title">Baigti prisijungti prie „Google+“</string>
+    <string name="i_accept">Sutinku</string>
+    <string name="i_decline">Nekurti paskyros</string>
+    <string name="allow_personalized_content">Leisti „Google“ naudoti jūsų informaciją turiniui ir skelbimams suasmeninti ne „Google“ svetainėse.</string>
+    <string name="enable_web_history">Įjungti žiniatinklio istoriją</string>
+    <string name="learn_more"><annotation id="learn_more">Sužinokite daugiau</annotation></string>
+    <string name="account_creation_tos">Tęsdami sutinkate su „Google“ <annotation id="tos">paslaugų teikimo sąlygomis</annotation>, <annotation id="google_privacy">privatumo politika</annotation> ir <annotation id="play_tos">„Google Play“ paslaugų teikimo sąlygomis</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Tęsdami sutinkate su „Google“ <annotation id="tos">paslaugų teikimo sąlygomis</annotation> ir <annotation id="google_privacy">privatumo politika</annotation>, „Chrome“ <annotation id="chrome_tos">paslaugų teikimo sąlygomis</annotation> ir <annotation id="chrome_privacy">privatumo pranešimu</annotation>, bei „Google Play“ <annotation id="play_tos">paslaugų teikimo sąlygomis</annotation>.</string>
+    <string name="gender_prompt">Lytis</string>
+    <string name="gender_hint">Lytis</string>
+    <string name="account_pre_intro_title">Turite „Google“ paskyrą?</string>
+    <string name="account_pre_intro_default_message">"Ar turite „Google“ paskyrą?
+
+Jei naudojate „Gmail“ arba „Google Apps“, atsakykite „Taip“."</string>
+    <string name="account_pre_intro_yes">Taip</string>
+    <string name="account_pre_intro_no">Ne</string>
+    <string name="account_intro_title">„Google“ paskyra</string>
+    <string name="account_intro_required_title">Parėmė „Google“</string>
+    <string name="account_intro_recommended_title">Atlikite tai „Google“</string>
+    <string name="account_intro_default_message">Niekada daugiau nepraraskite savo duomenų. „Google“ paskyroje viskas saugoma.</string>
+    <string name="account_intro_simple_message">Norite pridėti esamą paskyrą ar sukurti naują?</string>
+    <string name="account_intro_learn_more">Sužinokite daugiau</string>
+    <string name="learn_more_title">Sužinokite daugiau</string>
+    <string name="learn_more_account_intro">"Naudodami „Google“ paskyrą galite:
+
+"<li><ul>peržiūrėti ir tvarkyti visą informaciją, įskaitant paieškos istoriją, iš bet kurios vietos;</ul></li>"
+
+"<li><ul>automatiškai kurti atsarginę duomenų kopiją, pvz., el. laiškų, kontaktų, muzikos ir paveikslėlių;</ul></li>"
+
+"<li><ul>paprastai naudoti „Google“ paslaugas, kad ir kur būtumėte, įskaitant Kontaktus, Kalendorių, Žemėlapius ir daugiau.</ul></li></string>
+    <string name="learn_more_account_intro_title">Apie „Google“ paskyras</string>
+    <string name="learn_more_bad_name">„Google+“ reikalaujama, kad naudotumėte savo tikrąjį vardą. Profilyje turi būti nurodytas vienas asmuo, o ne įmonė, organizacija ar šeima. Taip pat vardas ir pavardė turi būti nurodyti ta pačia kalba, nenurodant jokių pareigų ir neįterpiant skyrybos ženklų. Prisiregistravę profilio lauke „Kiti vardai“ galite pateikti slapyvardžių ar kitų vardų, kurie su jumis susiję.</string>
+    <string name="learn_more_bad_name_title">Apie vardų politiką</string>
+    <string name="wait_for_device_country_title">Paskyros sąranka</string>
+    <string name="wait_for_device_country_msg">Renkama infor. apie jūsų tel. Tai gali trukti iki 30 sek.</string>
+    <string name="recovery_title">„Google“ slaptažodžio atkūrimas</string>
+    <string name="recovery_wait_title">Susisiekiama su „Google“...</string>
+    <string name="cannot_talk_to_server_msg">Įrenginiui nepavyko pasiekti „Google“.</string>
+    <string name="recovery_skip_label">Praleisti</string>
+    <string name="recovery_retry_label">Band. dar kartą</string>
+    <string name="recovery_message_set">"Jei kada nors pamiršite slaptažodį, norėsite jį atkurti.
+
+„Google“ leidžia atkurti slaptažodį naudojant SMS ar alternatyvų el. pašto adresą.
+
+Labai rekomenduojama atlikti šį veiksmą. "<annotation id="help_url">Sužinokite daugiau</annotation></string>
+    <string name="recovery_message_verify">"Slaptažodžius lengva pamiršti.
+
+Patvirtinkite savo telefono numerį arba atsarginį el. pašto adresą dabar. Tai padės atkurti prieigą prie „Google“ ir „Google Play“ turinio. "<annotation id="help_url">Sužinokite daugiau</annotation></string>
+    <string name="recovery_yes_button_label">Nustatykite atkūrimo parinktis</string>
+    <string name="recovery_yes_button_label_verify">Patvirtinkite atkūrimo parinktis</string>
+    <string name="recovery_later_button_label">Ne dabar</string>
+    <string name="recovery_input_screen_message">Ši atkūrimo informacija taikoma „%s“.</string>
+    <string name="secondary_email_hint">Atsarginis el. pašto adr.</string>
+    <string name="secondary_email_invalid">Netinkamas el. pašto adresas</string>
+    <string name="secondary_email_same_as_primary">Neg. sut. su p. el. pšt. adr.</string>
+    <string name="phone_number_hint">Telefono numeris</string>
+    <string name="phone_number_invalid_character">Netinkami telefono numerio simboliai</string>
+    <string name="phone_number_invalid">Netinkamas telefono numeris</string>
+    <string name="country_invalid">Ši šalis negalima</string>
+    <string name="recovery_server_error">Klaida susisiekiant su serveriu. Vėliau bandykite dar kartą.</string>
+    <string name="account_recovery_info">Jei kada nors prarasite slaptažodį, galėsite atsakyti į saugos klausimą ir kitu el. pašto adresu jums bus atsiųsta nustatymo iš naujo nuoroda.</string>
+    <string name="secondary_email_label">Atkūrimo el. pašto adresas</string>
+    <string name="invalid_email">"El. pašto adresas, kurį įvedėte, yra netinkamas.
+ Pavyzdys: jonas@example.com"</string>
+    <string name="invalid_email_primary">Atkūrimo adresas negali būti toks pat kaip tas, kurį kuriate.</string>
+    <string name="backup_consent_message">"Naudodami „Google“ paskyrą galite kurti atsargines programų, nustatymų (pvz., žymių ir „Wi–Fi“ slaptažodžių) bei kitų duomenų kopijas. Jei jau sukūrėte atsarginę paskyros kopiją, galite ją atkurti dabar šiame telefone.
+
+Bet kada galite keisti atsarginių kopijų nustatymus skiltyje „Nustatymai“."</string>
+    <string name="backup_consent_message_no_restore">"Naudodami „Google“ paskyrą galite kurti atsargines programų, nustatymų (pvz., žymių ir „Wi–Fi“ slaptažodžių) ir kitų duomenų kopijas.
+
+Bet kada galite keisti atsarginių kopijų nustatymus skiltyje „Nustatymai“."</string>
+    <string name="restoring_title">Atkuriama...</string>
+    <string name="restoring_message">Telefonas jungiasi prie „Google“, kad būtų atkurta paskyra. Tai gali užtrukti.</string>
+    <string name="gls_notification_login_error">Palieskite, kad prisijungtumėte prie paskyros.</string>
+    <string name="gls_ui_add_account_title">Paskyros sąranka</string>
+    <string name="gls_ui_activity_title">Prisijungti</string>
+    <string name="gls_ui_activity_title_browser_signin">Prisijungti</string>
+    <string name="gls_ui_activity_title_checking_in">Ruošiama...</string>
+    <string name="gls_ui_activity_authenticating">Nustatoma tapatybė...</string>
+    <string name="gls_dmagent_activity_activate_message">" Domenui reikalingas mobiliojo įrenginio valdymas. Jei norite laikytis saugos politikos, kuri reikalinga  "<b>^1</b> paskyroje, suaktyvinkite programą „Google Apps Device Policy“.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Suaktyvinti</string>
+    <string name="gls_dmagent_activity_download_message">" Domenui reikalingas mobiliojo įrenginio valdymas. Jei norite laikytis saugos politikos, kuri reikalinga  "<b>^1</b> paskyroje, įdiekite programą „Google Apps Device Policy“.</string>
+    <string name="gls_dmagent_activity_download_retry_button">Atsisiųsti</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Įvedėte neteisingą slaptažodį arba pasikeitė jūsų paskyra. Įveskite slaptažodį iš naujo.</string>
+    <string name="permlab_googleAuthPassword">prieiga prie „Google“ paskyrų slaptažodžių</string>
+    <string name="permdesc_googleAuthPassword">Programoms suteikiama tiesioginė prieiga prie nustatytos (-ų) „Google“ paskyros (-ų) slaptažodžių.</string>
+    <string name="permlab_googleMailSwitch">pasirinkti „Gmail“ ar „Google Mail“ prekės ženklo naudojimą</string>
+    <string name="permdesc_googleMailSwitch">Leidžiama programai pateikiamą pavadinimą perjungti iš „Gmail“ į „Google Mail“ prekės ženklą ir atvirkščiai.</string>
+    <string name="sync_item_title">„%s“ sinchronizavimas</string>
+    <string name="grant_credentials_permission_message_footer">Jie pateikia užklausą dėl leidimo:</string>
+    <string name="grant_credentials_permission_message_app">Nuo šiol šios programos reikalauja prieigos prie jūsų „Google“ paskyros:</string>
+    <string name="grant_permissions_header_text">Leidimo užklausa</string>
+    <string name="allow">Leisti prieigą</string>
+    <string name="deny">Ne, ačiū</string>
+    <string name="permission_request_notification_with_subtitle">"Pateikta leidimo užklausa
+dėl %s paskyros"</string>
+    <string name="notification_title">%1$s prisijungimo klaida</string>
+    <string name="account_setup_title">„Google“ paskyra</string>
+    <string name="login_activity_title">Prisijungti</string>
+    <string name="relogin_activity_title">Iš naujo įveskite slaptažodį</string>
+    <string name="show_error_activity_title">Nepavyko prisijungti</string>
+    <string name="login_activity_task_title">Prisijungiama...</string>
+    <string name="login_activity_task_msg">Tai gali užtrukti kelias minutes.</string>
+    <string name="prepare_account_setup_task_title">Ruošiama paskyros sąranka…</string>
+    <string name="prepare_account_setup_task_msg">Tai gali užtrukti kelias minutes.</string>
+    <string name="sync_intro_activity_title">Sinchronizuokite paskyrą</string>
+    <string name="username">El. paštas</string>
+    <string name="error_invalid_second_factor">Naudokite konkrečios programos, o ne įprastos paskyros slaptažodį.</string>
+    <string name="error_needs_browser">Jei norite pasiekti paskyrą, turite prisijungti žiniatinklyje. Jei norite pradėti prisijungimo procesą naršyklėje, palieskite „Kitas“.</string>
+    <string name="google_play_opt_in">Informuoti mane apie „Google Play“ naujienas ir pasiūlymus.</string>
+    <string name="google_settings_header_title">Privatumas</string>
+    <string name="maps_settings_title">Žemėlapiai ir Platuma</string>
+    <string name="location_settings_title">Vieta</string>
+    <string name="search_settings_title">Paieška</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Skelbimai</string>
+    <string name="location_network_based">„Google“ vietos paslauga</string>
+    <string name="location_neighborhood_level">Leis. siųsti „Google“ an. vietos duom. Taip pat leis. pr. naud. duom. iš „Wi-Fi“ ir mob. r. tinklų, kad būtų nust. jūsų apyt. vt.</string>
+    <string name="use_location_title">Vieta ir „Google“ paieška</string>
+    <string name="use_location_summary">Leisti „Google“ naudoti jūsų vietą paieškos rezultatams ir kitoms paslaugoms tobulinti</string>
+    <string name="backup_consent_yes_agree">Naudokite „Google“ paskyrą atsarginėms programų, nustatymų (pvz., žymių ir „Wi-Fi“ slaptažodžių) ir kitų duomenų kopijoms sukurti.</string>
+    <string name="restore_consent_yes_agree">Gaukite programas, nustatymus ir kitus duomenis, kurių atsarginę kopiją anksčiau išsaugojote „Google“ paskyroje, šiame telefone.</string>
+    <string name="audit_logging_summary">Automatiškai siųskite įrenginio įvykių ir diagnostikos informaciją „Google“, padėdami tobulinti produktus ir apsaugoti įrenginį.</string>
+    <string name="no_back_msg">Negalima pereiti prie ankstesnio veiksmo.</string>
+    <string name="setup_wizard_title">Sąrankos vediklis</string>
+    <string name="setup_wizard_services_activity_title">„Google“ paslaugos</string>
+    <string name="setup_wizard_services_description">Šios paslaugos padeda išnaudoti „Google“ galimybes. Bet kada galite jas įjungti arba išjungti. Duomenys bus naudojami pagal „Google“ <annotation id="google_privacy">privatumo politiką</annotation>.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Kurti atsarginę kopiją ir atkurti</string>
+    <string name="setup_wizard_services_location_heading">Vietovė</string>
+    <string name="setup_wizard_services_communication_heading">Ryšiai</string>
+    <string name="setup_wizard_services_backup"><b>Kurkite atsargines telefono programų, programų duomenų, nustatymų, asmeninių žodynų ir „Wi‑Fi“ slaptažodžių kopijas</b> naudodami „Google“ paskyrą, kad lengvai galėtumėte juos vėliau atkurti. <annotation id="backup_details">Sužinokite daugiau</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Kurkite atsargines programų, programų duomenų, nustatymų, asmeninių žodynų ir „Wi‑Fi“ slaptažodžių kopijas</b> naudodami „Google“ paskyrą, kad lengvai galėtumėte juos vėliau atkurti.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Duomenys yra programos, programų nustatymai, sistemos nustatymai ir „Wi‑Fi“ slaptažodžiai.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Kai įjungiate automatinio atsarginės kopijos kūrimo funkciją, įrenginio duomenys periodiškai saugomi „Google“ paskyroje. Į atsargines kopijas gali būti įtraukta programų duomenų aplankuose esanti informacija, pvz., nuostatos, nustatymai, pranešimai, nuotraukos ir kiti failai.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Naudokite „Google“ vietovės paslaugą</b>, kad padėtumėte programoms nustatyti vietovę. Tai reiškia, kad bus siunčiami anoniminiai vietovės duomenys į sistemą „Google“, net kai programos nėra vykdomos. <annotation id="location_details">Sužinokite daugiau</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">„Google“ vietovės paslauga naudoja įvairius išteklius, pvz., „Wi‑Fi“ ir mobiliojo ryšio tinklus, kad padėtų nustatyti įrenginio vietovę greičiau ir tiksliau. Kai įjungiate „Google“ vietovės paslaugas, įrenginys veikia režimu, kuriuo naudojami „Wi‑Fi“ ir mobiliojo ryšio tinklai, kad būtų galima pateikti vietovės informaciją. Šią paslaugą galite išjungti vietovės nustatymuose pasirinkę režimą, kuriuo naudojama tik GPS. Tai kartais vadinama režimu „Tik įrenginys“.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Padėkite patobulinti vietovės paslaugas</b> leisdami programoms ir paslaugoms nuskaityti „Wi‑Fi“ tinklus, net kai „Wi‑Fi“ išjungtas.</string>
+    <string name="setup_wizard_services_location_footnote">„Google“ vietovės paslauga naudoja „Wi‑Fi“ ir kitus signalus, kad vietovę nustatytų tiksliau ir greičiau, paprastai sunaudodama mažiau energijos nei GPS. Kai kurie duomenys gali būti išsaugomi įrenginyje. Duomenys gali būti kaupiami net neveikiant programoms.</string>
+    <string name="setup_wizard_services_play"><b>Informuoti mane</b> apie „Google Play“ naujienas ir pasiūlymus.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Padėkite tobulinti „Android“ naudotojams teikiamas funkcijas</b> automatiškai siųsdami diagnostikos ir naudojimo duomenis į sistemą „Google“. Ši informacija nebus naudojama jūsų tapatybei nustatyti. Tai padės komandoms, siekiančioms pailginti akumuliatoriaus naudojimo laiką, patobulinti programų našumą ir kuriančioms naujas „Google“ funkcijas. <annotation id="usage_reporting_details">Sužinokite daugiau</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Tai yra bendra informacija apie įrenginį ir tai, kaip jį naudojate, pvz., akumuliatoriaus įkrovimo lygis, kaip dažnai naudojate programas, tinklo ryšio (pvz., mobiliojo, „Wi‑Fi“ ir „Bluetooth“ ryšio) kokybė bei trukmė ir strigčių ataskaitos, kai įrenginys neveikia, kaip numatyta. Ši informacija bus naudojama siekiant tobulinti „Google“ produktus ir paslaugas visiems naudotojams, bet nebus susieta su jūsų „Google“ paskyra. Tam tikra sukaupta informacija taip pat padės partneriams, pvz., „Android“ kūrėjams, tobulinti programas ir produktus.
+
+Šią parinktį bet kada galite įjungti arba išjungti naudodami „Google“ nustatymų programą. Tai neturi įtakos įrenginio galimybei siųsti informaciją, kurios reikia svarbioms paslaugoms, pvz., sistemos naujiniams ir saugos sprendimams, gauti."</string>
+    <string name="setup_wizard_services_agreement">Šiame telefone taip pat galima gauti ir įdiegti naujinius bei programas iš „Google“, operatoriaus ir telefono gamintojo. Jei tęsite, gali būti atsisiųstos ir įdiegtos tam tikros programos, bet jas galite pašalinti bet kuriuo metu.</string>
+</resources>

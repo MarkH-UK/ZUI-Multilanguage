@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="@string/auto_update_title" android:key="auto_update" android:defaultValue="true" />
+    <SwitchPreference android:title="@string/auto_update_wifi_title" android:key="auto_update_wifi" android:summary="@string/auto_update_wifi_summary" android:defaultValue="true" />
+    <PreferenceScreen android:title="@string/analytics_title" android:key="analytics" android:fragment="com.google.android.tts.settings.AnalyticsPreferenceScreen" />
+    <PreferenceScreen android:title="@string/feedback_title" android:key="feedback" />
+    <ListPreference android:entries="@array/voices_type_entries" android:title="@string/voices_type_title" android:key="voices_type" android:summary="@string/voices_type_summary" android:entryValues="@array/voices_type_entry_values" />
+</PreferenceScreen>

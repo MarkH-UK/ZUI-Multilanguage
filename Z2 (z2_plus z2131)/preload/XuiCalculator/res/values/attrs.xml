@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="minTextSize" format="dimension" />
+    <attr name="maxTextSize" format="dimension" />
+    <attr name="stepTextSize" format="dimension" />
+    <attr name="padTypeface" format="string" />
+    <attr name="paintX" format="float" />
+    <attr name="switchStyle" format="reference" />
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">අනුලකුණු %1$d ක් සීමාව ඉක්මවයි</item>
+        <item quantity="one">අනුලකුණු %1$d ක් සීමාව ඉක්මවයි</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">අනුලකුණු %1$d ක් ඉතිරිව ඇත</item>
+        <item quantity="one">අනුලකුණු %1$d ක් ඉතිරිව ඇත</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google ගිණුම්</item>
+        <item quantity="one">%d Google ගිණුම්</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">ඔබගේ Google ගිණුම් සහ ඒවායේ දත්ත සමග ^1 සැකසීමට මෙම උපාංගය භාවිතා කර ඇත</item>
+        <item quantity="one">ඔබගේ Google ගිණුම් සහ ඒවායේ දත්ත සමග ^1 සැකසීමට මෙම උපාංගය භාවිතා කර ඇත</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">පැය %d</item>
+        <item quantity="one">පැය %d</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">මිනිත්තු %d</item>
+        <item quantity="one">මිනිත්තු %d</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">දෝෂයක් නිසා මෙම ආරාධනා නොයවන ලදී</item>
+        <item quantity="one">දෝෂයක් නිසා මෙම ආරාධනාව නොයවන ලදී</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">මෙම ආරාධනා මේ අවස්ථාවේදී යැවීමට නොහැකිය. ඔබට එය නැවත Google Play > මගේ ගිණුම වෙතින් යැවීමට හැකිය.</item>
+        <item quantity="one">මෙම ආරාධනාව මේ අවස්ථාවේදී යැවීමට නොහැකිය. ඔබට එය නැවත Google Play > මගේ ගිණුම වෙතින් යැවීමට හැකිය.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">ආරාධනා %dක් ඉතිරිය</item>
+        <item quantity="one">ආරාධනා %dක් ඉතිරිය</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">නව පණිවිඩ %1$d</item>
+        <item quantity="one">නව පණිවිඩ %1$d</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">පුද්ගලයන් %1$d දෙනෙකු ඔබට ඉදිරියෙන් සිටී</item>
+        <item quantity="one">පුද්ගලයන් %1$d දෙනෙකු ඔබට ඉදිරියෙන් සිටී</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s සහ වෙනත් යෙදුම් %2$dක් මගින්</item>
+        <item quantity="one">%1$s සහ වෙනත් යෙදුම් %2$dක් මගින්</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">අනුගාමිකයින් %1$,d</item>
+        <item quantity="one">අනුගාමිකයින් %1$,d</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">බැලීම් %1$,d</item>
+        <item quantity="one">බැලීම් %1$,d</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">ඔබගේ Google ගිණුම් සහ දත්ත පිටපත් කරමින්…</item>
+        <item quantity="one">ඔබගේ Google ගිණුම් සහ දත්ත පිටපත් කරමින්…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">ඔබගේ Google ගිණුම් සහ දත්ත සමග ^1 සැකසීමට මෙම උපාංගය භාවිතා කර ඇත</item>
+        <item quantity="one">ඔබගේ Google ගිණුම් සහ දත්ත සමග ^1 සැකසීමට මෙම උපාංගය භාවිතා කර ඇත</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">ස්ථාපනය වීමට තව තත්පර %d කින් යළි පණගැන්වේ …</item>
+        <item quantity="one">ස්ථාපනය වීමට තව තත්පර 1 කින් යළි පණගැන්වේ…</item>
+    </plurals>
+</resources>

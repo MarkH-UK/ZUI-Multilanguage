@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/prefs_debug_mode" android:key="english_ime_debug_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <CheckBoxPreference android:persistent="true" android:title="@string/prefs_debug_mode" android:key="debug_mode" android:defaultValue="false" />
+    <CheckBoxPreference android:persistent="true" android:title="@string/prefs_force_non_distinct_multitouch" android:key="force_non_distinct_multitouch" android:defaultValue="false" />
+    <CheckBoxPreference android:persistent="true" android:title="@string/prefs_should_show_lxx_suggestion_ui" android:key="pref_should_show_lxx_suggestion_ui" android:defaultValue="true" />
+    <CheckBoxPreference android:persistent="true" android:title="@string/sliding_key_input_preview" android:key="pref_sliding_key_input_preview" android:summary="@string/sliding_key_input_preview_summary" android:defaultValue="true" />
+    <CheckBoxPreference android:persistent="true" android:title="@string/prefs_customize_key_preview_animation" android:key="pref_has_custom_key_preview_animation_params" android:defaultValue="false" />
+    <com.android.inputmethod.latin.settings.SeekBarDialogPreference android:title="@string/prefs_key_popup_show_up_start_x_scale_settings" android:key="pref_key_preview_show_up_start_x_scale" android:dependency="pref_has_custom_key_preview_animation_params" latin:maxValue="100" />
+    <com.android.inputmethod.latin.settings.SeekBarDialogPreference android:title="@string/prefs_key_popup_show_up_start_y_scale_settings" android:key="pref_key_preview_show_up_start_y_scale" android:dependency="pref_has_custom_key_preview_animation_params" latin:maxValue="100" />
+    <com.android.inputmethod.latin.settings.SeekBarDialogPreference android:title="@string/prefs_key_popup_dismiss_end_x_scale_settings" android:key="pref_key_preview_dismiss_end_x_scale" android:dependency="pref_has_custom_key_preview_animation_params" latin:maxValue="100" />
+    <com.android.inputmethod.latin.settings.SeekBarDialogPreference android:title="@string/prefs_key_popup_dismiss_end_y_scale_settings" android:key="pref_key_preview_dismiss_end_y_scale" android:dependency="pref_has_custom_key_preview_animation_params" latin:maxValue="100" />
+    <com.android.inputmethod.latin.settings.SeekBarDialogPreference android:title="@string/prefs_key_popup_show_up_duration_settings" android:key="pref_key_preview_show_up_duration" android:dependency="pref_has_custom_key_preview_animation_params" latin:maxValue="100" />
+    <com.android.inputmethod.latin.settings.SeekBarDialogPreference android:title="@string/prefs_key_popup_dismiss_duration_settings" android:key="pref_key_preview_dismiss_duration" android:dependency="pref_has_custom_key_preview_animation_params" latin:maxValue="100" />
+    <CheckBoxPreference android:persistent="true" android:title="@string/prefs_resize_keyboard" android:key="pref_resize_keyboard" android:defaultValue="false" />
+    <com.android.inputmethod.latin.settings.SeekBarDialogPreference android:title="@string/prefs_keyboard_height_scale" android:key="pref_keyboard_height_scale" android:dependency="pref_resize_keyboard" latin:maxValue="120" latin:minValue="50" />
+    <PreferenceCategory android:title="@string/prefs_dump_dynamic_dicts" android:key="pref_key_dump_dictionaries" />
+</PreferenceScreen>

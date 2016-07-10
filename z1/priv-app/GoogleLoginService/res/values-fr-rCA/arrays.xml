@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Sélectionner une question secrète</item>
+        <item>Quel était votre premier numéro de téléphone?</item>
+        <item>"Quel était le prénom de votre meilleur ami d'enfance?"</item>
+        <item>Quel était le nom de votre premier enseignant?</item>
+        <item>Quel était le nom de votre responsable lors de votre premier emploi?</item>
+        <item>"Quel est le numéro d'immatriculation de votre véhicule?"</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>médiocre</item>
+        <item>satisfaisant</item>
+        <item>bien</item>
+        <item>fort</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Homme</item>
+        <item>Femme</item>
+        <item>autres</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Settings" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:colorBackground">@color/gray_space</item>
+    </style>
+</resources>

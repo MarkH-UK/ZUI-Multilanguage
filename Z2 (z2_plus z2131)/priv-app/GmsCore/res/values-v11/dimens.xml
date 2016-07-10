@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="drive_fastscroll_thumb_width">25.0dip</dimen>
+    <dimen name="location_dialog_checkbox_padding">9.0dip</dimen>
+    <dimen name="location_settings_dialog_layout_content_padding">16.0dip</dimen>
+    <dimen name="location_settings_dialog_layout_scrollview_padding_left">0.0dip</dimen>
+    <dimen name="location_settings_dialog_layout_scrollview_padding_right">0.0dip</dimen>
+    <dimen name="udc_info_margin_vertical">4.0dip</dimen>
+    <dimen name="udc_sub_setting_title_padding_top">3.0dip</dimen>
+    <dimen name="wallet_address_selector_vertical_padding">20.0dip</dimen>
+    <dimen name="wallet_dialog_divider_margin_left">20.0dip</dimen>
+    <dimen name="wallet_spacing_dialog_spinner_right_icon">22.0dip</dimen>
+    <dimen name="wallet_spacing_form_side">4.0dip</dimen>
+    <dimen name="wallet_spacing_match_spinner_padding_side">4.0dip</dimen>
+    <dimen name="wallet_uic_platform_form_non_editable_text_start_margin">12.0dip</dimen>
+    <dimen name="wallet_uic_platform_form_spinner_view_start_padding">8.0dip</dimen>
+    <dimen name="wallet_uic_platform_non_form_field_text_start_margin">4.0dip</dimen>
+    <dimen name="wallet_uic_spinner_row_height">48.0dip</dimen>
+    <dimen name="auth_gls_arrow_button_height">59.0dip</dimen>
+    <dimen name="auth_gls_arrow_button_width">47.0dip</dimen>
+    <dimen name="auth_gls_bg_make_it_google_height">416.0dip</dimen>
+    <dimen name="auth_gls_bg_make_it_google_width">416.0dip</dimen>
+    <dimen name="auth_gls_button_margin_top">16.0dip</dimen>
+    <dimen name="auth_gls_captcha_height">90.0dip</dimen>
+    <dimen name="auth_gls_captcha_width">240.0dip</dimen>
+    <dimen name="auth_gls_checkbox_margin_bottom">8.0dip</dimen>
+    <dimen name="auth_gls_checkbox_margin_top">10.0dip</dimen>
+    <dimen name="auth_gls_checkbox_text_size">14.0sp</dimen>
+    <dimen name="auth_gls_content_margin_sides">0.0dip</dimen>
+    <dimen name="auth_gls_description_margin_top">16.0dip</dimen>
+    <dimen name="auth_gls_description_text_size">18.0sp</dimen>
+    <dimen name="auth_gls_input_field_vmargins">10.0dip</dimen>
+    <dimen name="auth_gls_password_label_margin_left">8.0dip</dimen>
+    <dimen name="auth_gls_password_label_margin_right">8.0dip</dimen>
+    <dimen name="auth_gls_photo_margin_top">20.0dip</dimen>
+    <dimen name="auth_gls_photo_width">150.0dip</dimen>
+    <item type="dimen" name="auth_gls_setup_border_width">4.999995%</item>
+    <dimen name="auth_gls_setup_margin_bottom">16.0dip</dimen>
+    <item type="dimen" name="auth_gls_setup_title_height">14.999998%</item>
+    <dimen name="auth_gls_sign_in_content_width">716.0dip</dimen>
+    <dimen name="auth_gls_sign_in_margin_top">10.0dip</dimen>
+    <dimen name="auth_gls_title_height">48.0dip</dimen>
+    <dimen name="auth_gls_title_height_short">48.0dip</dimen>
+    <dimen name="auth_gls_title_margin_sides">0.0dip</dimen>
+    <dimen name="auth_gls_title_text_size">25.0sp</dimen>
+    <dimen name="auth_gls_top_divider_margin_bottom">0.0dip</dimen>
+    <dimen name="auth_gls_top_divider_margin_top">6.0dip</dimen>
+    <dimen name="wallet_control_corner_material">2.0dip</dimen>
+    <dimen name="wallet_control_inset_material">4.0dip</dimen>
+    <dimen name="wallet_control_padding_material">4.0dip</dimen>
+    <item type="dimen" name="wallet_inset_button_horizontal">@dimen/wallet_control_inset_material</item>
+    <dimen name="wallet_inset_button_vertical">6.0dip</dimen>
+    <dimen name="wallet_material_button_min_width">96.0dip</dimen>
+    <dimen name="wallet_padding_button_horizontal">16.0dip</dimen>
+    <item type="dimen" name="wallet_padding_button_vertical">@dimen/wallet_control_padding_material</item>
+    <item type="dimen" name="wallet_radius_button">@dimen/wallet_control_corner_material</item>
+    <dimen name="wallet_spacing_button">16.0dip</dimen>
+    <dimen name="wallet_spacing_subheader_side">20.0dip</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Ezin da erabili kontua, ^1 aplikazioak falta baitzaizkio. Jarri "&lt;b>^2&lt;/b>" domeinuaren administratzailearekin harremanetan, edo hasi saioa beste kontu batean. "</item>
+        <item quantity="one">" Ezin da erabili kontua, ^1 aplikazioa falta baitzaio. Jarri "&lt;b>^2&lt;/b>" domeinuaren administratzailearekin harremanetan, edo hasi saioa beste kontu batean. "</item>
+    </plurals>
+</resources>

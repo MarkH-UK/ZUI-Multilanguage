@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passwordStrength">
+        <item>දුර්වල</item>
+        <item>සතුටුදායක</item>
+        <item>හොඳ</item>
+        <item>ප්‍රබල</item>
+    </string-array>
+</resources>

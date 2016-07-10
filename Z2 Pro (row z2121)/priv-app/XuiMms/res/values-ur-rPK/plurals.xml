@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s گفتگوؤں کو حذف کر دیا جائے گا۔</item>
+        <item quantity="one">ایک گفتگو کو حذف کر دیا جائے گا۔</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s سیکنڈ</item>
+        <item quantity="one">%s سیکنڈ</item>
+        <item quantity="few">%s سیکنڈ</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s نتائج برائے \"%2$s\"</item>
+        <item quantity="one">%1$s نتیجہ برائے \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s دیگر پیغامات</item>
+        <item quantity="one">+%1$s دیگر پیغام</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s لوگ</item>
+    </plurals>
+</resources>

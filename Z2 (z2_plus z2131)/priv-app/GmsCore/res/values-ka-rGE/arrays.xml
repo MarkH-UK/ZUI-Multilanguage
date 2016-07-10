@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>ბარი</item>
+        <item>კაფე</item>
+        <item>ბენზინგასამართი სადგური</item>
+        <item>კინოთეატრი</item>
+        <item>საცხოვრებელი</item>
+        <item>ღამის კლუბი</item>
+        <item>მუზეუმი</item>
+        <item>რესტორანი</item>
+        <item>სავაჭრო ცენტრი</item>
+        <item>მაღაზია</item>
+        <item>სასურსათო მაღაზია ან სუპერმარკეტი</item>
+        <item>სხვა</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>სუსტი</item>
+        <item>შედარებით საიმედო</item>
+        <item>კარგი</item>
+        <item>საიმედო</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>თავისუფალი გავრცელება</item>
+        <item>დეველოპერი</item>
+        <item>საცალო</item>
+        <item>დემო</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ტელეფონსა და მანქანაზე შეუთავსებელი პროგრამებია გაშვებული. დეტალებისთვს ეწვიეთ &lt;a href="android.com/auto">android.com/auto&lt;/a>-ს.</item>
+        <item>მანქანის მიერ გავრცელებული აუდიო და/ან ვიდეო კონფიგურაციები არასწორია.</item>
+        <item>"USB კავშირი გამართულად არ მუშაობს. სცადეთ შემდეგი: 
+
+•დარწმუნდით, რომ კაბელი ორივე მხარეს კარგად ერგება. 
+•დარწმუნდით, რომ  გაქვთ მონაცემთა USB კაბელი. 
+•დარწმუნდით, რომ მანქანაზეც და ტელეფონზეც თარიღი და დრო სწორად არის დაყენებული."</item>
+        <item>მანქანამ Android Auto-ს გაშვება შეწყვიტა.</item>
+        <item>Android Auto-ს სესია შეწყდა მოთხოვნის თანახმად.</item>
+        <item>მანქანის პროგრამული უზრუნველყოფა შეიძლება მოძველებული იყოს. დეტალებისა და მხარდაჭერისთვს მიმართეთ მწარმოებელს.</item>
+        <item>თქვენი მანქანის პროგრამულმა უზრუნველყოფამ ვერ გაიარა Android Auto უსაფრთხოების შემოწმება. დეტალებისა და მხარდაჭერისთვს მიმართეთ მწარმოებელს.</item>
+        <item>თქვენი მანქანის პროგრამულმა უზრუნველყოფამ ვერ გაიარა Android Auto უსაფრთხოების შემოწმება. დარწმუნდით, რომ მანქანის თარიღი და დრო სწორად არის დაყენებული და Android Auto განახლებულია.</item>
+        <item>მოქმედების ვადა ამოიწურა. გირჩევთ, გადახედოთ ხარვეზის შეტყობინებას და გამოაგზავნოთ გამოხმაურება.</item>
+        <item>როგორც ჩანს, გამშვები არ გაქვთ ინსტალირებული. თქვენი ტელეფონი სწორად არის დაყენებული?</item>
+        <item>გრაფიკული პროცესების ციკლი გაწყდა. გირჩევთ, გადახედოთ ხარვეზის შეტყობინებას და გამოაგზავნოთ გამოხმაურება.</item>
+        <item>მანქანა ტელეფონიდან მიღებულ შეტყობინებებზე არ რეაგირებს. შესაძლოა, მანქანა არასწორ მდგომარეობაშია.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>აეროპორტი</item>
+        <item>ბანკომატი</item>
+        <item>ბანკი</item>
+        <item>ბარი</item>
+        <item>ავტოსადგური</item>
+        <item>კაფე</item>
+        <item>კამპუსი</item>
+        <item>სასაფლაო</item>
+        <item>ეკლესია</item>
+        <item>მუნიციპალიტეტი</item>
+        <item>დაწესებულება</item>
+        <item>ბენზინგასამართი სადგური</item>
+        <item>სასურსათო მაღაზია ან სუპერმარკეტი</item>
+        <item>ინდუისტური ტაძარი</item>
+        <item>საავადმყოფო</item>
+        <item>ბიბლიოთეკა</item>
+        <item>საცხოვრებელი</item>
+        <item>მეჩეთი</item>
+        <item>კინოთეატრი</item>
+        <item>მუზეუმი</item>
+        <item>პარკი</item>
+        <item>პარკინგი</item>
+        <item>ღვთისმსახურების ადგილი</item>
+        <item>პოლიციის სადგური</item>
+        <item>ფოსტა</item>
+        <item>რესტორანი</item>
+        <item>სკოლა</item>
+        <item>მაღაზია</item>
+        <item>მეტროს სადგური</item>
+        <item>სინაგოგა</item>
+        <item>რკინიგზის სადგური</item>
+        <item>სატრანზიტო სადგური</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>იანვარი</item>
+        <item>თებერვალი</item>
+        <item>მარტი</item>
+        <item>აპრილი</item>
+        <item>მაისი</item>
+        <item>ივნისი</item>
+        <item>ივლისი</item>
+        <item>აგვისტო</item>
+        <item>სექტემბერი</item>
+        <item>ოქტომბერი</item>
+        <item>ნოემბერი</item>
+        <item>დეკემბერი</item>
+    </string-array>
+</resources>

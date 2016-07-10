@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">‏השם שלך משמש להתאמה אישית של הטאבלט ושל שירותי Google.</string>
+    <string name="name_title_local">טאבלט זה שייך ל...</string>
+    <string name="name_text_local">הטאבלט משתמש בשם שלך כדי להתאים אישית חלק מהאפליקציות.</string>
+    <string name="communicating_message">‏הטאבלט שלך יוצר קשר עם Google כדי לשמור מידע בחשבון שלך. פעולה זו עשויה להימשך עד 5 דקות.</string>
+    <string name="checking_username_message">"‏הטאבלט שלך יוצר קשר עם Google כדי לבדוק אם שם המשתמש שביקשת זמין.
+
+פעולה זו עשויה להימשך מספר דקות."</string>
+    <string name="wait_for_device_country_msg">אוסף מידע על הטאבלט שלך. פעולה זו עשויה להימשך עד 30 שניות.</string>
+    <string name="backup_consent_message">"‏השתמש בחשבון Google ​​כדי לגבות אפליקציות, הגדרות (כמו למשל סימניות וסיסמאות Wi-Fi) ונתונים אחרים. אם גיבית בעבר את החשבון שלך, תוכל לשחזר אותו כעת בטאבלט זה.
+
+ תוכל לשנות את הגדרות הגיבוי בכל עת ב'הגדרות'."</string>
+    <string name="backup_consent_message_no_restore">"‏השתמש בחשבון Google ​​כדי לגבות אפליקציות, הגדרות (כמו למשל סימניות וסיסמאות Wi-Fi) ונתונים אחרים.
+
+תוכל לשנות את הגדרות הגיבוי בכל עת ב'הגדרות'."</string>
+    <string name="restoring_message">‏הטאבלט שלך יוצר קשר עם Google כדי לשחזר את החשבון. פעולה זו עשויה להימשך עד 5 דקות.</string>
+    <string name="restore_consent_yes_agree">‏הבא אפליקציות, הגדרות ונתונים אחרים אל הטאבלט הזה שגיבית לאחרונה בחשבון Google שלך.</string>
+</resources>

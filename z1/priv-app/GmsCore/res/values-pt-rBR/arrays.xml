@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Café</item>
+        <item>Posto de gasolina</item>
+        <item>Cinema</item>
+        <item>Alojamento</item>
+        <item>Casa noturna</item>
+        <item>Museu</item>
+        <item>Restaurante</item>
+        <item>Shopping center</item>
+        <item>Loja</item>
+        <item>Mercearia ou mercado</item>
+        <item>Outro</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Versão</item>
+        <item>Desenvolvedor</item>
+        <item>Varejo</item>
+        <item>Demonstração</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>O smartphone e o carro estão executando versões de software incompatíveis. Para saber detalhes, visite &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>O carro apresentou um conjunto incorreto de configurações de áudio e/ou vídeo.</item>
+        <item>"A conexão USB não está funcionando corretamente. Tente fazer o seguinte: 
+
+• Verifique se o cabo se encaixa corretamente em ambas as extremidades. 
+• Certifique-se de que você tenha um cabo de dados USB. 
+• Verifique se a data e a hora estão configuradas corretamente, no carro e no smartphone."</item>
+        <item>O carro parou de executar o Android Auto.</item>
+        <item>A sessão do Android Auto foi interrompida, conforme solicitado.</item>
+        <item>O software do carro pode estar desatualizado. Para saber detalhes e receber suporte, entre em contato com o fabricante.</item>
+        <item>O software do seu carro foi reprovado pelas verificações de segurança do Android Auto. Para saber detalhes e receber suporte, entre em contato com o fabricante.</item>
+        <item>O software do seu carro foi reprovado pelas verificações de segurança do Android Auto. Verifique se a data e a hora do carro estão configuradas corretamente e se o Android Auto está atualizado.</item>
+        <item>Uma ação atingiu o tempo limite. Preencha um relatório de bugs e envie feedback.</item>
+        <item>Parece que não há um iniciador instalado. Seu smartphone está configurado corretamente?</item>
+        <item>O canal de gráficos ficou inoperante. Preencha um relatório de bugs e envie feedback.</item>
+        <item>O carro não está respondendo às mensagens do smartphone. É possível que esteja no estado errado.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Aeroporto</item>
+        <item>Caixa eletrônico</item>
+        <item>Banco</item>
+        <item>Bar</item>
+        <item>Ponto de ônibus</item>
+        <item>Café</item>
+        <item>Camping</item>
+        <item>Cemitério</item>
+        <item>Igreja</item>
+        <item>Prefeitura</item>
+        <item>Estabelecimento</item>
+        <item>Posto de gasolina</item>
+        <item>Mercearia ou supermercado</item>
+        <item>Templo hindu</item>
+        <item>Hospital</item>
+        <item>Biblioteca</item>
+        <item>Alojamento</item>
+        <item>Mesquita</item>
+        <item>Cinema</item>
+        <item>Museu</item>
+        <item>Parque</item>
+        <item>Estacionamento</item>
+        <item>Templo</item>
+        <item>Delegacia de polícia</item>
+        <item>Correio</item>
+        <item>Restaurante</item>
+        <item>Escola</item>
+        <item>Loja</item>
+        <item>Estação de metrô</item>
+        <item>Sinagoga</item>
+        <item>Estação de trem</item>
+        <item>Estação de transporte público</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Janeiro</item>
+        <item>Fevereiro</item>
+        <item>Março</item>
+        <item>Abril</item>
+        <item>Maio</item>
+        <item>Junho</item>
+        <item>Julho</item>
+        <item>Agosto</item>
+        <item>Setembro</item>
+        <item>Outubro</item>
+        <item>Novembro</item>
+        <item>Dezembro</item>
+    </string-array>
+</resources>

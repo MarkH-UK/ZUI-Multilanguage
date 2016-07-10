@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>பார்</item>
+        <item>கஃபே</item>
+        <item>எரிவாயு நிலையம்</item>
+        <item>மூவி திரையரங்கம்</item>
+        <item>லாட்ஜிங்</item>
+        <item>நைட் கிளப்</item>
+        <item>அருங்காட்சியகம்</item>
+        <item>உணவகம்</item>
+        <item>ஷாப்பிங் சென்டர்</item>
+        <item>அங்காடி</item>
+        <item>பலசரக்கு கடை அல்லது சூப்பர்மார்க்கெட்</item>
+        <item>மற்றவை</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>குறைவான வேகம்</item>
+        <item>நடுத்தர வேகம்</item>
+        <item>வேகமானது</item>
+        <item>மிகவும் வேகமானது</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>புளுடூத்</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>வெளியீடு</item>
+        <item>டெவெலப்பர்</item>
+        <item>ரீடெய்ல்</item>
+        <item>டெமோ</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ஃபோனிலும் காரிலும் இணக்கமில்லாத மென்பொருள் இயங்குகிறது. விவரங்களுக்கு, &lt;a href="android.com/auto">android.com/auto&lt;/a> என்ற தளத்தைப் பார்க்கவும்</item>
+        <item>தவறான ஆடியோ மற்றும்/அல்லது வீடியோ உள்ளமைவுகளை கார் அறிவித்தது.</item>
+        <item>"USB இணைப்பு சரியாக வேலை செய்யவில்லை. இவற்றை முயற்சிக்கவும்: 
+
+• இரு முனைகளிலும் கேபிள் சரியாக பொருந்தியுள்ளதை உறுதிசெய்துகொள்ளவும். 
+•உங்களிடம் டேட்டா USB கேபிள் இருப்பதை உறுதிசெய்துகொள்ளவும். 
+•கார் மற்றும் மொபைல் இரண்டிலும் சரியான தேதியும் நேரமும் அமைக்கப்பட்டுள்ளதை உறுதிசெய்துகொள்ளவும்."</item>
+        <item>Android Auto காரில் இயங்கவில்லை.</item>
+        <item>கோரிய படி, Android Auto அமர்வு நிறுத்தப்பட்டது.</item>
+        <item>காரின் மென்பொருள் பழையதாக இருக்கலாம். விவரங்களுக்கும் ஆதரவிற்கும், உற்பத்தியாளரைத் தொடர்புகொள்ளவும்.</item>
+        <item>காரின் மென்பொருள், Android Auto பாதுகாப்புச் சோதனைகளில் தேர்ச்சி பெறவில்லை. விவரங்களுக்கும் ஆதரவிற்கும், உற்பத்தியாளரைத் தொடர்புகொள்ளவும்.</item>
+        <item>காரின் மென்பொருள், Android Auto பாதுகாப்புச் சோதனைகளில் தேர்ச்சி பெறவில்லை. காரின் தேதியும், நேரமும் சரியாக அமைக்கப்பட்டிருப்பதையும், Android Auto புதுப்பிக்கப்பட்டிருப்பதையும் உறுதிசெய்துகொள்ளவும்.</item>
+        <item>செயல்பாட்டில் நேர முடிவு ஏற்பட்டது. பிழை அறிக்கையைப் பெற்று, கருத்தைப் பதிவிடவும்.</item>
+        <item>துவக்கி நிறுவப்பட்டிருப்பதாகத் தெரியவில்லை, உங்கள் ஃபோன் சரியாக அமைக்கப்பட்டுள்ளதா?</item>
+        <item>கிராஃபிக்ஸ் வரிசைமுறை செயலற்றுப் போனது. பிழை அறிக்கையைப் பெற்று, கருத்தைப் பதிவிடவும்.</item>
+        <item>ஃபோனில் இருந்து வரும் செய்திகளுக்கு கார் பதிலளிக்கவில்லை. கார் தவறான நிலையில் இருக்கலாம்.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>விமான நிலையம்</item>
+        <item>ஏடிஎம்</item>
+        <item>வங்கி</item>
+        <item>பார்</item>
+        <item>பேருந்து நிலையம்</item>
+        <item>கஃபே</item>
+        <item>கேம்ப் கிரவுண்ட்</item>
+        <item>இடுகாடு</item>
+        <item>தேவாலயம்</item>
+        <item>நகர மன்றம்</item>
+        <item>ஸ்தாபனம்</item>
+        <item>எரிபொருள் நிலையம்</item>
+        <item>மளிகைக் கடை அல்லது சூப்பர்மார்க்கெட்</item>
+        <item>இந்து கோயில்</item>
+        <item>மருத்துவமனை</item>
+        <item>நூலகம்</item>
+        <item>தங்குமிடம்</item>
+        <item>மசூதி</item>
+        <item>திரையரங்கு</item>
+        <item>அருங்காட்சியகம்</item>
+        <item>பூங்கா</item>
+        <item>பார்க்கிங்</item>
+        <item>வழிபாட்டுத் தலம்</item>
+        <item>காவல் நிலையம்</item>
+        <item>தபால் நிலையம்</item>
+        <item>உணவகம்</item>
+        <item>பள்ளி</item>
+        <item>அங்காடி</item>
+        <item>சுரங்கப்பாதை நிலையம்</item>
+        <item>யூதர் தேவாலயம்</item>
+        <item>ரயில் நிலையம்</item>
+        <item>போக்குவரத்து நிலையம்</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>ஜனவரி</item>
+        <item>பிப்ரவரி</item>
+        <item>மார்ச்</item>
+        <item>ஏப்ரல்</item>
+        <item>மே</item>
+        <item>ஜூன்</item>
+        <item>ஜூலை</item>
+        <item>ஆகஸ்டு</item>
+        <item>செப்டம்பர்</item>
+        <item>அக்டோபர்</item>
+        <item>நவம்பர்</item>
+        <item>டிசம்பர்</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>பகிர்வதை நிறுத்து</item>
+        <item>15 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+        <item>1 மணிநேரம்</item>
+        <item>காலவரையின்றி</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>பகிர்வதை நிறுத்து</item>
+        <item>15 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+        <item>1 மணிநேரம்</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

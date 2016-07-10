@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>બાર</item>
+        <item>કેફે</item>
+        <item>પેટ્રોલ પંપ</item>
+        <item>સિનેમા હોલ</item>
+        <item>લોજીંગ</item>
+        <item>નાઇટ ક્લબ</item>
+        <item>સંગ્રહસ્થાન</item>
+        <item>રેસ્ટોરન્ટ</item>
+        <item>શૉપિંગ સેન્ટર</item>
+        <item>સ્ટોર</item>
+        <item>કરિયાણાની દુકાન અથવા સુપરમાર્કેટ</item>
+        <item>અન્ય</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>નબળો</item>
+        <item>સારો</item>
+        <item>સરસ</item>
+        <item>સશક્ત</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>રીલિઝ કરો</item>
+        <item>વિકાસકર્તા</item>
+        <item>રિટેલ</item>
+        <item>ડેમો</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ફોન અને કાર અસંગત સોફ્ટવેર પર ચાલી રહ્યાં છે. વિગતો માટે &lt;a href="android.com/auto">android.com/auto&lt;/a> ની મુલાકાત લો</item>
+        <item>કાર એ ઑડિઓ અને/અથવા વિડિઓ ગોઠવણીઓના ખોટા સેટની જાહેરાત કરી.</item>
+        <item>"USB કનેક્શન યોગ્ય રીતે કામ કરતું નથી. અજમાવવા માટેની વસ્તુઓ: 
+
+• કેબલ બંને છેડા પર યોગ્ય રીતે બંધબેસે છે તેની ખાતરી કરો. 
+•તમારી પાસે ડેટા USB કેબલ છે તેની ખાતરી કરો. 
+•કાર અને તમારા ફોન બંને પર તારીખ અને સમય યોગ્ય રીતે સેટ થયેલ છે તેની ખાતરી કરો."</item>
+        <item>કાર એ Android Auto ચલાવવાનું રોકી દીધું છે.</item>
+        <item>વિનંતી મુજબ, Android Auto સત્ર રોક્યું.</item>
+        <item>આ કારનો સોફ્ટવેર જૂનો થઈ ગયો હોઇ શકે છે. વિગતો અને સમર્થન માટે, ઉત્પાદકનો સંપર્ક કરો.</item>
+        <item>તમારી કાર એ Android Auto સુરક્ષા તપાસ પાસ કરી ન હતી. વિગતો અને સમર્થન માટે, ઉત્પાદકનો સંપર્ક કરો.</item>
+        <item>તમારી કાર એ Android Auto સુરક્ષા તપાસ પાસ કરી ન હતી. કારની તારીખ અને સમય યોગ્ય રીતે સેટ કરેલ છે અને Android Auto અપડેટ થયેલ છે તેની ખાતરી કરો.</item>
+        <item>એક ક્રિયાનો સમય સમાપ્ત થયો. તમારે એક બગની જાણ કરી અને પ્રતિસાદ ફાઇલ કરવો જોઇએ.</item>
+        <item>તમે લોંચર ઇન્સ્ટોલ કર્યું હોય એવું લાગતું નથી, શું તમારો ફોન યોગ્ય રીતે સેટ થયેલો છે?</item>
+        <item>ગ્રાફિક્સ પાઇપલાઇન હમણાં જ નષ્ટ થઈ ગઈ. તમારે એક બગની જાણ કરી અને પ્રતિસાદ ફાઇલ કરવો જોઇએ.</item>
+        <item>કાર ફોન પરથી સંદેશાનો જવાબ આપતી નથી. કાર કદાચ ખોટા રાજ્યમાં હોઇ શકે.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>એરપોર્ટ</item>
+        <item>ATM</item>
+        <item>બૅંક</item>
+        <item>બાર</item>
+        <item>બસ સ્ટેશન</item>
+        <item>કેફે</item>
+        <item>કેમ્પગ્રાઉંડ</item>
+        <item>સ્મશાન</item>
+        <item>ચર્ચ</item>
+        <item>સિટી હોલ</item>
+        <item>સ્થાપના</item>
+        <item>ગેસ સ્ટેશન</item>
+        <item>કરિયાણાની દુકાન અથવા સુપરમાર્કેટ</item>
+        <item>હિન્દુ મંદિર</item>
+        <item>દવાખાનું</item>
+        <item>લાઇબ્રેરી</item>
+        <item>લોજિંગ</item>
+        <item>મસ્જિદ</item>
+        <item>મૂવી થિયેટર</item>
+        <item>સંગ્રહાલય</item>
+        <item>બગીચો</item>
+        <item>પાર્કિંગ</item>
+        <item>ભક્તિ માટેનું સ્થાન</item>
+        <item>પોલીસ સ્ટેશન</item>
+        <item>પોસ્ટ ઑફિસ</item>
+        <item>રેસ્ટોરન્ટ</item>
+        <item>શાળા</item>
+        <item>દુકાન</item>
+        <item>સબવે સ્ટેશન</item>
+        <item>યહૂદી લોકોનું દેવળ</item>
+        <item>ટ્રેન સ્ટેશન</item>
+        <item>સંક્રમણ સ્ટેશન</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>જાન્યુઆરી</item>
+        <item>ફેબ્રુઆરી</item>
+        <item>માર્ચ</item>
+        <item>એપ્રિલ</item>
+        <item>મે</item>
+        <item>જૂન</item>
+        <item>જુલાઇ</item>
+        <item>ઓગસ્ટ</item>
+        <item>સપ્ટેમ્બર</item>
+        <item>ઓક્ટોબર</item>
+        <item>નવેમ્બર</item>
+        <item>ડિસેમ્બર</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>શેર કરવાનું રોકો</item>
+        <item>15 મિનિટ</item>
+        <item>30 મિનિટ</item>
+        <item>1 કલાક</item>
+        <item>અનિશ્ચિત</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>શેર કરવાનું રોકો</item>
+        <item>15 મિનિટ</item>
+        <item>30 મિનિટ</item>
+        <item>1 કલાક</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

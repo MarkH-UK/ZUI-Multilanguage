@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_update_dialog_content_max_height">150.0dip</dimen>
+</resources>

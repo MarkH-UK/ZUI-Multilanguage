@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clone_share_introduce">共享裝置中的文件，允許附近好友自由選擇下載！（僅支持Android版）</string>
+    <string name="clone_share_clone_connected_users">已連接 %s 部裝置</string>
+    <string name="clone_clone_title_hint">把舊裝置中的所有資料一鍵全遷移到新裝置</string>
+    <string name="clone_clone_introduce">零流量一鍵導入原先裝置內的應用程式，聯絡人，簡訊和圖片等數據至新接收裝置</string>
+    <string name="clone_clone_host">舊裝置</string>
+    <string name="clone_clone_client">新裝置</string>
+    <string name="clone_clone_host_title">等待新裝置連接</string>
+    <string name="clone_clone_client_title">正在搜索舊裝置</string>
+    <string name="clone_clone_guide_mask_tip1">新裝置點這裡，從舊裝置導入應用程式、聨络人和圖片等</string>
+    <string name="clone_clone_guide_mask_tip2">舊裝置點這裡，將應用程式、聨络人和圖片導出至新裝置</string>
+    <string name="clone_clone_host_inited">正在等待新裝置連接 …</string>
+    <string name="clone_discover_info1">另一裝置需點擊 \"%s\"</string>
+    <string name="clone_receive_info">另一裝置需點擊 \"%s\"</string>
+    <string name="clone_client_choice_host">找到%s個舊裝置，請點擊圖標選擇</string>
+    <string name="clone_client_choice_title">點擊圖標選擇舊裝置</string>
+    <string name="clone_client_searching_clone">舊裝置尋找中 …</string>
+    <string name="clone_text_new_phone">新裝置</string>
+    <string name="clone_host_client_finished_detail">提示：如需要將此裝置恢復出廠設置，可選擇[系統設置]進入[備份和重置]</string>
+    <string name="clone_content_title">选择舊裝置的资料</string>
+    <string name="clone_content_category_file_info">多媒體文件會存放在與舊裝置相同的路徑</string>
+    <string name="clone_help_question1">問題1：如何把舊裝置數據導入新裝置裡？</string>
+    <string name="clone_help_answer1">回答：請把兩部裝置都安裝好\"茄子快傳\"，舊裝置點擊\"舊裝置\"，新裝置請點擊\"新裝置\"。</string>
+    <string name="clone_help_answer2">"回答：新裝置上已經存在的資料不會重複下載。 
+超過裝置存儲上限，如聯繫人、簡訊等，會合併兩個裝置的數據，再存入最新的數據。"</string>
+    <string name="clone_help_answer3">"回答：1. 換機完成後，聯繫人、簡訊、個人設置等會自動存進新裝置裡。比如，聯繫人會存進通訊錄。 
+2. 照片、音樂、視頻等文件會存在和舊裝置相同的目錄裡，用播放軟件掃描即可查看。"</string>
+    <string name="clone_help_answer4">回答：如果裝置有ROOT權限，會嘗試使用，實現應用程式自動安裝和數據導入導出，請放心給於權限。</string>
+    <string name="clone_wizard_tips">"請在另一裝置中：
+開啟\"茄子快傳\"，點擊\"茄子換機\"，選擇\"舊裝置\""</string>
+    <string name="clone_wizard_button_finished">確定，開始使用新裝置</string>
+    <string name="clone_wizard_help_title">舊裝置操作指南</string>
+    <string name="clone_wizard_help_qrcode_title">從舊裝置遷移(0流量)</string>
+    <string name="clone_wizard_help_qrcode_intro1">舊裝置僅支持安卓系統</string>
+    <string name="clone_wizard_help_qrcode_intro2">舊裝置安裝茄子快傳</string>
+    <string name="clone_wizard_help_qrcode_scan">掃描安裝茄子快傳</string>
+    <string name="clone_wizard_help_qrcode_url">"您也可以打開 http://kc.lenovo.com/ 下載
+或者從樂商店等其他應用商店下載"</string>
+    <string name="clone_wizard_help_demo_title">舊裝置打開茄子換機</string>
+    <string name="clone_wizard_help_demo_intro1">"在另一裝置上中開啟\"茄子快傳\"，點擊\"茄子換機\"，選擇'舊裝置'"</string>
+    <string name="clone_wizard_found_old_phone">找不到舊裝置?</string>
+    <string name="clone_wizard_found_new_phone">找不到新裝置?</string>
+    <string name="clone_wizard_later">稍後移轉，開始使用新裝置。</string>
+    <string name="clone_wizard_summary">告別您的舊裝置。聯絡人、文字訊息、相片和應用程式 %1$s</string>
+    <string name="clone_wizard_from_old_phone">遷移舊裝置數據（0流量）</string>
+    <string name="clone_wizard_from_old_phone_summary">僅支援Android裝置</string>
+    <string name="clone_intro_tip1_info">舊裝置需要安裝\"茄子快傳\"哦~</string>
+    <string name="clone_intro_tip2_info1">用舊裝置打開\"茄子快傳\"</string>
+    <string name="clone_intro_tip2_info3">並選擇\"舊裝置\"</string>
+    <string name="clone_backup_intro_tip2_info3">並選擇\"新裝置\"</string>
+    <string name="clone_intro_tip3_info">等待舊裝置被發現即可</string>
+    <string name="clone_wizard_help_qrcode_intro3">舊裝置打開茄子換機</string>
+</resources>

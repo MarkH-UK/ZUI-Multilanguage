@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/lenovo_network_select_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:persistent="false" android:title="@string/auto_select" android:key="auto_select_switch" />
+    <PreferenceCategory android:key="list_networks_key" />
+</PreferenceScreen>

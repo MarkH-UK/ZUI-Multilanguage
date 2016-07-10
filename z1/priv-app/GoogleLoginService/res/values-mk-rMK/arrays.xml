@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Избери безбедносно прашање</item>
+        <item>Прв телефонски број?</item>
+        <item>Името на најдобриот пријател од детството?</item>
+        <item>Името на првата учителка?</item>
+        <item>Името на раководителот на првото работно место?</item>
+        <item>Регистрациски број на возилото?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>слаба</item>
+        <item>задоволителна</item>
+        <item>добра</item>
+        <item>јака</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Машки</item>
+        <item>Женски</item>
+        <item>Друго</item>
+    </string-array>
+</resources>

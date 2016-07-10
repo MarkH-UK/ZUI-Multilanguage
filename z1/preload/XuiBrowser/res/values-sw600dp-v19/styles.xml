@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LeMainTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+    <style name="LeEntrytheme" parent="@android:style/Theme.Translucent" />
+</resources>

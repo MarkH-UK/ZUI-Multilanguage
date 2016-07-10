@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Kjo llogari nuk mund të përdoret sepse mungojnë aplikacionet: ^1. Kontakto me administratorin e domenit për "&lt;b>^2&lt;/b>" ose identifikohu duke përdorur një llogari tjetër. "</item>
+        <item quantity="one">" Kjo llogari nuk mund të përdoret sepse mungon aplikacioni: ^1. Kontakto me administratorin e domenit për "&lt;b>^2&lt;/b>" ose identifikohu duke përdorur një llogari tjetër. "</item>
+    </plurals>
+</resources>

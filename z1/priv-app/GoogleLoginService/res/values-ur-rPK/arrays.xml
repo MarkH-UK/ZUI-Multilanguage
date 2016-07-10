@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>ایک سیکیورٹی سوال منتخب کریں</item>
+        <item>پہلا فون نمبر؟</item>
+        <item>بچپن کے سب سے اچھے دوست کا نام؟</item>
+        <item>پہلے استاد کا نام؟</item>
+        <item>پہلی جاب پر مینیجر کا نام؟</item>
+        <item>گاڑی کا رجسٹریشن نمبر؟</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>کمزور</item>
+        <item>ٹھیک</item>
+        <item>اچھا</item>
+        <item>مضبوط</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>مرد</item>
+        <item>عورت</item>
+        <item>دیگر</item>
+    </string-array>
+</resources>

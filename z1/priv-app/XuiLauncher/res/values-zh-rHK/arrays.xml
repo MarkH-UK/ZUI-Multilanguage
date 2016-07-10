@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>設為預設城市</item>
+        <item>刪除該城市</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>預設動畫</item>
+        <item>旋轉</item>
+        <item>推壓</item>
+        <item>風車</item>
+        <item>立方體</item>
+        <item>正弦</item>
+        <item>圓柱體</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>無</item>
+        <item>打開桌面選單</item>
+        <item>顯示最近開啟的應用</item>
+        <item>打開通知欄</item>
+        <item>找圖標</item>
+        <item>鎖屏</item>
+    </string-array>
+</resources>

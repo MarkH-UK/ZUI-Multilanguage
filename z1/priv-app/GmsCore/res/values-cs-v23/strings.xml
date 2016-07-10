@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"Jedná se o obecné informace o zařízení a jeho využití, jako je stav baterie, četnost použití aplikací, kvalita a doba trvání připojení k sítím (mobilní síť, Wi-Fi, Bluetooth) a zprávy o selhání, když něco nefunguje, jak by mělo. Tyto informace použijeme ke zlepšování aplikací a služeb Google pro všechny uživatele. Nebudeme je nijak spojovat s účtem Google vašeho dítěte. Některé souhrnné informace pomohou s vylepšováním aplikací a služeb také našim partnerům, například vývojářům Android.
+
+Odesílání těchto informací můžete kdykoli zapnout nebo vypnout v Nastavení > Google. Nemá to vliv na schopnost zařízení odesílat informace, které potřebuje pro základní služby, jako jsou aktualizace systému a zabezpečení."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Automaticky zálohujte data zařízení</b> (jako jsou hesla sítí Wi-Fi a historie volání) a data aplikací (jako jsou nastavení a soubory uložené aplikacemi) na Disk Google. <annotation id="backup_details">Další informace</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Když zapnete automatické zálohování, budou data zařízení a aplikací pravidelně ukládána do soukromé složky na Disku Google. Data aplikací mohou zahrnovat data, která uložila aplikace (v závislosti na nastavení vývojáře), včetně potenciálně citlivých dat, jako jsou kontakty, zprávy a fotky.
+
+Zálohovaná data se do kvóty úložiště Disku nezapočítávají. Velké soubory nebo soubory, které se vývojáři rozhodli ze služby vyloučit, zálohovány nebudou."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Zlepšete přesnost polohy</b> tím, že aplikacím a službám umožníte vyhledávat sítě Wi-Fi a zařízení Bluetooth, i když bude připojení Wi-Fi a Bluetooth vypnuté.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"Jedná se o obecné informace o vašem zařízení a o způsobu, jakým jej využíváte: stav baterie, četnost používání aplikací, kvalita a doba trvání připojení k sítím (mobilní síť, Wi-Fi, Bluetooth), a zprávy o selhání, když něco nefunguje, jak by mělo. Tyto informace použijeme ke zlepšování aplikací a služeb Google pro všechny uživatele. Nebudeme je nijak spojovat s vaším účtem Google. Některé souhrnné informace pomohou s vylepšováním aplikací a služeb také našim partnerům, například vývojářům Android.
+
+Odesílání těchto informací můžete kdykoli zapnout nebo vypnout v Nastavení > Google. Nemá to vliv na schopnost zařízení odesílat informace, které potřebuje pro základní služby, jako jsou aktualizace systému a zabezpečení."</string>
+</resources>

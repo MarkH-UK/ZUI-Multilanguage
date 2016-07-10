@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>nema predmeta</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekunde</item>
+        <item>3 sekunde</item>
+        <item>4 sekunde</item>
+        <item>5 sekundi</item>
+        <item>6 sekundi</item>
+        <item>7 sekundi</item>
+        <item>8 sekundi</item>
+        <item>9 sekundi</item>
+        <item>10 sekundi</item>
+        <item>Ostalo</item>
+    </string-array>
+</resources>

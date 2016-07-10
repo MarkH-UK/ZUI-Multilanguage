@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="list_view_template_with_header">@layout/list_view_template_card_with_side_header</item>
+    <item type="layout" name="list_view_template_with_short_header">@layout/list_view_template_card_with_side_header</item>
+    <item type="layout" name="template_with_header">@layout/template_card_with_side_header</item>
+    <item type="layout" name="template_with_short_header">@layout/template_card_with_side_header</item>
+    <item type="layout" name="header_for_template">@layout/header_empty</item>
+</resources>

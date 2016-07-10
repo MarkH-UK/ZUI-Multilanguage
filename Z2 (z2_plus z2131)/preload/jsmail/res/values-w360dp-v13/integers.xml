@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="actionbar_hidden_non_cab_items_no_physical_button">0</integer>
+    <integer name="actionbar_max_items">3</integer>
+</resources>

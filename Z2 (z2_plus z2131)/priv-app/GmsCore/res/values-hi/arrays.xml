@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>बार</item>
+        <item>कैफ़े</item>
+        <item>पेट्रोल पंप</item>
+        <item>सिनेमाघर</item>
+        <item>लॉजिंग</item>
+        <item>नाइट क्लब</item>
+        <item>संग्रहालय</item>
+        <item>रेस्तरां</item>
+        <item>शॉपिंग सेंटर</item>
+        <item>स्टोर</item>
+        <item>किराना दुकान या सुपरमार्केट</item>
+        <item>अन्य</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>कमज़ोर</item>
+        <item>उचित</item>
+        <item>अच्छा</item>
+        <item>तीव्र</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>ब्लूटूथ</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>रिलीज़</item>
+        <item>डेवलपर</item>
+        <item>खुदरा</item>
+        <item>डेमो</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>फ़ोन और कार में असंगत सॉफ़्टवेयर चल रहा है. विवरण के लिए, &lt;a href="android.com/auto">android.com/auto&lt;/a> पर जाएं</item>
+        <item>कार ने ऑडियो और/या वीडियो कॉन्फ़िगरेशन के गलत सेट को प्रदर्शित कर दिया है.</item>
+        <item>"USB कनेक्‍शन ठीक से काम नहीं कर रहा है. ये चीज़ें आज़माएं: 
+
+• सुनिश्‍चित करें कि केबल दोनों सिरों पर सही तरीके से फिट हो रही है. 
+•सुनिश्‍चित करें कि आपके पास डेटा USB केबल है. 
+•सुनिश्‍चित करें कि कार और आपके फ़ोन, दोनों के लिए दिनांक और समय को सही तरीके से सेट किया गया है."</item>
+        <item>कार ने Android Auto चलाना बंद कर दिया है.</item>
+        <item>अनुरोध के अनुसार, Android Auto सत्र बंद हो गया है.</item>
+        <item>कार का सॉफ़्टवेयर पुराना हो सकता है. विवरण और सहायता के लिए, निर्माता से संपर्क करें.</item>
+        <item>आपकी कार के सॉफ़्टवेयर ने Android Auto सुरक्षा जांचों को पास नहीं किया. विवरण और सहायता के लिए, निर्माता से संपर्क करें.</item>
+        <item>आपकी कार के सॉफ़्टवेयर ने Android Auto सुरक्षा जांचों को पास नहीं किया. सुनिश्‍चित करें कि कार का दिनांक और समय सही तरीके से सेट किया गया है और यह कि Android Auto को अपडेट कर दिया गया है.</item>
+        <item>कार्रवाई समय-बाह्य हो गई. आपको बग रिपोर्ट लेनी चाहिए और फ़ीडबैक दर्ज करना चाहिए.</item>
+        <item>ऐसा लगता है आपके पास लॉन्चर इंस्टॉल नहीं किया हुआ है, क्या आपका फ़ोन ठीक से सेट किया हुआ है?</item>
+        <item>ग्राफ़िक्स पाइपलाइन अभी-अभी समाप्त हुई है. आपको बग रिपोर्ट लेनी चाहिए और फ़ीडबैक दर्ज करना चाहिए.</item>
+        <item>कार, फ़ोन के संदेशों को प्रतिसाद नहीं दे रही है. हो सकता है कि कार गलत स्थिति में हो.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>हवाई अड्डा</item>
+        <item>एटीएम</item>
+        <item>बैंक</item>
+        <item>बार</item>
+        <item>बस स्टेशन</item>
+        <item>कैफ़े</item>
+        <item>शिविर-स्थल</item>
+        <item>समाधि-स्थल</item>
+        <item>गिरजाघर</item>
+        <item>सामुदायिक भवन</item>
+        <item>प्रतिष्ठान</item>
+        <item>पेट्रोल पंप</item>
+        <item>किराना दुकान या सुपरमार्केट</item>
+        <item>हिन्दू मंदिर</item>
+        <item>अस्पताल</item>
+        <item>लाइब्रेरी</item>
+        <item>लॉजिंग</item>
+        <item>मस्जिद</item>
+        <item>सिनेमा घर</item>
+        <item>संग्रहालय</item>
+        <item>पार्क</item>
+        <item>पार्किंग</item>
+        <item>पूजा स्‍थल</item>
+        <item>पुलिस स्टेशन</item>
+        <item>डाक घर</item>
+        <item>रेस्तरां</item>
+        <item>विद्यालय</item>
+        <item>स्टोर</item>
+        <item>सबवे स्टेशन</item>
+        <item>यहूदी उपासनागृह</item>
+        <item>रेलवे स्टेशन</item>
+        <item>ट्रांज़िट स्टेशन</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>जनवरी</item>
+        <item>फ़रवरी</item>
+        <item>मार्च</item>
+        <item>अप्रैल</item>
+        <item>मई</item>
+        <item>जून</item>
+        <item>जुलाई</item>
+        <item>अगस्त</item>
+        <item>सितंबर</item>
+        <item>अक्टूबर</item>
+        <item>नवंबर</item>
+        <item>दिसंबर</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>साझाकरण बंद करें</item>
+        <item>15 मिनट</item>
+        <item>30 मिनट</item>
+        <item>1 घंटा</item>
+        <item>अनिश्चित अवधि</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>साझाकरण बंद करें</item>
+        <item>15 मिनट</item>
+        <item>30 मिनट</item>
+        <item>1 घंटा</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>कोई सुरक्षा प्रश्न चुनें</item>
+        <item>पहला फ़ोन नंबर?</item>
+        <item>बचपन के सबसे अच्छे मित्र का नाम?</item>
+        <item>प्रथम शिक्षक का नाम?</item>
+        <item>पहली नौकरी में प्रबंधक का नाम?</item>
+        <item>वाहन पंजीकरण संख्या?</item>
+    </string-array>
+</resources>

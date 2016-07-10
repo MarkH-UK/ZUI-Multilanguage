@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="listPreferredItemHeightSmall" format="dimension" />
+    <attr name="switchStyle" format="reference" />
+    <attr name="title" format="string" />
+    <attr name="key" format="string" />
+    <attr name="defaultValue" format="reference|string" />
+    <attr name="entryValues" format="reference" />
+    <attr name="entries" format="reference" />
+    <attr name="labelList" format="reference" />
+    <attr name="icons" format="reference" />
+    <attr name="modes" format="reference" />
+    <attr name="singleIcon" format="reference" />
+    <attr name="largeIcons" format="reference" />
+    <attr name="images" format="reference" />
+    <attr name="imageIds" format="reference" />
+    <attr name="contentDescriptionIds" format="reference" />
+    <attr name="selected_drawable" format="reference" />
+    <attr name="bottom_text" format="string" />
+    <attr name="bottom_image_bg" format="reference" />
+    <attr name="bottom_model_text_size" format="dimension" />
+    <attr name="bottom_text_first" format="string" />
+    <attr name="bottom_pic_first" format="reference|color" />
+    <attr name="bottom_text_second" format="string" />
+    <attr name="bottom_pic_second" format="reference|color" />
+    <attr name="bottom_text_third" format="string" />
+    <attr name="bottom_pic_third" format="reference|color" />
+    <attr name="bottom_text_four" format="string" />
+    <attr name="bottom_pic_four" format="reference|color" />
+    <attr name="circleBackground" format="integer" />
+    <attr name="firstChildPosition">
+        <enum name="East" value="0" />
+        <enum name="North" value="270" />
+        <enum name="South" value="90" />
+        <enum name="West" value="180" />
+    </attr>
+    <attr name="rotateToCenter" format="boolean" />
+    <attr name="isRotating" format="boolean" />
+    <attr name="name" format="string" />
+    <attr name="isdefopen" format="boolean" />
+    <attr name="type">
+        <enum name="fast" value="2" />
+        <enum name="normal" value="0" />
+        <enum name="shot" value="3" />
+        <enum name="slow" value="1" />
+    </attr>
+    <attr name="progress" format="integer" />
+    <attr name="max" format="integer" />
+    <attr name="progress_unreached_color" format="color" />
+    <attr name="progress_reached_color" format="color" />
+    <attr name="progress_reached_bar_height" format="dimension" />
+    <attr name="progress_unreached_bar_height" format="dimension" />
+    <attr name="progress_text_size" format="dimension" />
+    <attr name="progress_text_color" format="color" />
+    <attr name="progress_text_offset" format="dimension" />
+    <attr name="progress_text_visibility">
+        <enum name="invisible" value="1" />
+        <enum name="visible" value="0" />
+    </attr>
+    <attr name="numberProgressBarStyle" format="reference" />
+    <attr name="max_width" format="dimension" />
+    <attr name="elemSize" format="dimension" />
+    <attr name="elemEndSize" format="dimension" />
+    <attr name="iconSize" format="dimension" />
+</resources>

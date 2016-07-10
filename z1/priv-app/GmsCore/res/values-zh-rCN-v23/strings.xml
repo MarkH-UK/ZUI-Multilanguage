@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"这些信息包括有关此设备及其使用情况（例如，电池电量，应用使用频率，移动数据网络、WLAN 网络和蓝牙等网络连接的质量和持续时间）的一般信息，以及系统发生错误时产生的崩溃报告。这些信息将用于为所有用户改善 Google 的产品和服务，但不会与您孩子的 Google 帐号相关联。此外，部分汇总信息也有助于合作伙伴（如 Android 开发者）改善其应用和产品。
+
+您随时可以在“设置”>“Google”中开启或关闭此设置，这不会影响此设备为获得基本服务（如系统更新和安全保护）而发送所需信息的功能。"</string>
+    <string name="auth_setup_wizard_services_backup">将<b>设备数据</b>（例如 WLAN 密码和通话记录）和应用数据（例如应用存储的设置和文件）自动备份到 Google 云端硬盘。<annotation id="backup_details">了解详情</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"启用自动备份功能后，系统会定期将设备和应用数据保存到 Google 云端硬盘上的不公开文件夹中。应用数据可以是应用根据开发者设置保存的任何数据，包括可能比较敏感的数据（例如联系人信息、邮件和照片）。
+
+备份数据不会计入云端硬盘存储空间配额。大型文件以及开发者已选择从备份服务中排除的文件将不会备份。"</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">允许应用和服务扫描 WLAN 网络和蓝牙设备（即使 WLAN 和蓝牙已关闭），以便<b>提高位置信息的精确度</b>。</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"这些信息包括有关此设备及其使用情况（例如，电池电量，应用使用频率，移动数据网络、WLAN 网络和蓝牙等网络连接的质量和持续时间）的一般信息，以及系统发生错误时产生的崩溃报告。这些信息将用于为所有用户改善 Google 的产品和服务，但不会与您的 Google 帐号相关联。此外，部分汇总信息也有助于合作伙伴（如 Android 开发者）改善其应用和产品。
+
+您可以随时在“设置”>“Google”中开启或关闭此设置，这不会影响此设备为获得基本服务（如系统更新和安全保护）而发送所需信息的功能。"</string>
+</resources>

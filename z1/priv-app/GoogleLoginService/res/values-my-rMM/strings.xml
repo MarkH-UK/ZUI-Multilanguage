@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google ပလေး ဝန်ဆောင်မှုများ အမှား</string>
+    <string name="common_google_play_services_notification_needs_installation_title">အပလီကေးရှင်း တစ်ခု အတွက် Google ပလေး ဝန်ဆောင်မှုများကို တပ်ဆင်ပေးရန် လိုသည်။</string>
+    <string name="common_google_play_services_notification_needs_update_title">အပလီကေးရှင်း တစ်ခု အတွက် Google ပလေး ဝန်ဆောင်မှုကို မွမ်းမံပေးရန် လိုသည်။</string>
+    <string name="common_android_wear_notification_needs_update_text">အပလီကေးရှင်း တစ်ခုက အန်ဒရွိုက် ဆောင်စရာ appကို မွမ်းမံပေးရန်ကို တောင်းဆိုနေသည်။</string>
+    <string name="common_google_play_services_needs_enabling_title">အပလီကေးှရင်း တစ်ခု အတွက် Google ပလေး ဝန်ဆောင်မှုကို ဖွင့်ပေးရန် လိုအပ်သည်။</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s က တောင်းဆိုခဲ့သည်</string>
+    <string name="common_google_play_services_install_title">Google ပလေး ဝန်ဆောင်မှုများကို ရယူပါ။</string>
+    <string name="common_google_play_services_install_text_phone">ဤappသည် သင့်ဖုန်းထဲတွင် မရှိသည့် Google ပလေး ဝန်ဆောင်မှုများ မရှိလျှင် အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="common_google_play_services_install_text_tablet">သင် တက်ဘလက် ထဲတွင် မရှိသည့် Google ပလေး ဝန်ဆောင်မှုများ မရှိလျှင် အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="common_google_play_services_install_button">Google ပလေး ဝန်ဆောင်မှုများကို ရယူရန်</string>
+    <string name="common_google_play_services_enable_title">Google ပလေး ၀န်ဆောင်မှုများ ဖွင့်ရန်</string>
+    <string name="common_google_play_services_enable_text">"သင်က Google ပလေး ဝန်ဆောင်မှုများ မဖွင့်သရွေ့  ဤapp အလုပ်လုပ်မည် မဟုတ်ပါ။"</string>
+    <string name="common_google_play_services_enable_button">Google ပလေး ၀န်ဆောင်မှုများ ဖွင့်ရန်</string>
+    <string name="common_google_play_services_update_title">Google ပလေး ၀န်ဆောင်မှုများကို မွမ်းမံရန်</string>
+    <string name="common_android_wear_update_title">အန်ဒရွိုက် ဆောင်စရာကို မွမ်းမံရန်</string>
+    <string name="common_google_play_services_update_text">သင်သည် Google ပလေး ဝန်ဆောင်မှုများကို မမွမ်းမံသရွေ့ ဤ app အလုပ် လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="common_android_wear_update_text">သင်က အန်ဒရွိုက် ဆောင်စရာ appကို မွမ်းမံ မပေးမချင်း ဒီapp အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="common_google_play_services_network_error_title">ကွန်ရက် အမှား</string>
+    <string name="common_google_play_services_network_error_text">Google ပလေး ဝန်ဆောင်မှုများသို့ ဆက်သွယ်ရန် ဒေတာ ချိတ်ဆက်မှု လိုအပ်သည်။</string>
+    <string name="common_google_play_services_invalid_account_title">မမှန်သည့် အကောင့်</string>
+    <string name="common_google_play_services_invalid_account_text">ဤကိရိယာမှာ ဖေါ်ပြပါ အကောင့်မရှိပါ။ ကျေးဇူးပြု၍ အခြား အကောင့်ကို ရွေးပါ။</string>
+    <string name="common_google_play_services_unknown_issue">Google ပလေး ဝန်ဆောင်မှုတွင် မသိရ ပြဿနာ ရှိနေသည်။</string>
+    <string name="common_google_play_services_unsupported_title">Google ပလေး ဝန်ဆောင်မှုများ</string>
+    <string name="common_google_play_services_unsupported_text">"သင်၏ အပလီကေးရှင်း အချို့က အားကိုးကြသည့် Google ပလေး ဝန်ဆောင်မှုများကို  သင်၏ ကိရိယာက မပံ့ပိုးပါ။ အကူအညီရယူရန် ကျေးဇူးပြုပြီး ထုတ်လုပ်သူကို ဆက်သွယ်ပါ။"</string>
+    <string name="common_google_play_services_update_button">မွမ်းမံရန်</string>
+    <string name="common_signin_button_text">လင်မှတ်ထိုး ဝင်</string>
+    <string name="common_signin_button_text_long">Google ဖြင့် လက်မှတ်ထို ဝင်</string>
+    <string name="common_open_on_phone">ဖုန်းထဲ ဖွင့်ရန်</string>
+    <string name="setup_wizard_next_button_label">ရှေ့သို့</string>
+    <string name="setup_wizard_back_button_label">နောက်ပြန်သွားရန်</string>
+    <string name="default_device_name">အန်ဒရွိုက်</string>
+    <string name="skip_button_label">ကျော်</string>
+    <string name="down_button_label">နောက်ထပ်</string>
+    <string name="cancel_button_label">ထားတော့</string>
+    <string name="try_again_button_label">ထပ် စမ်းပါ</string>
+    <string name="close_button_label">ပိတ်ရန်</string>
+    <string name="url_load_unsuccessful_message">သင်၏ အန်ဒရွိုက် ကိရိယာမှာ ဒေတာ ဝန်ဆောင်မှုနှင့် ချိတ်ဆက်မထားပါ။ ဤ အချက်အလက်များကို ယခု ကြည့်ရန်၊ %sကို ဝက်ဘ် ဘရောင်ဇာ တစ်ခုဖြင့် ဝင်ကြည့်ပါ။</string>
+    <string name="sign_in_agreement">လက်မှတ်ထိုး ဝင်လိုက်ခြင်းဖြင့် Google ၏ <annotation id="tos">" ဝန်ဆောင်မှု  စည်းကမ်းချက်များ"</annotation>၊ <annotation id="google_privacy"> ကိုယ်ရေး မူဝါဒ</annotation>၊ နှင့် <annotation id="play_tos">Google ပလေး ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation>ကို သဘော တူပါသည်။</string>
+    <string name="android_privacy_policy_title">ကိုယ်ရေး မူဝါဒ အပို</string>
+    <string name="google_terms_of_service_title">Google ဝန်ဆောင်မှု သတ်မှတ်ချက်များ</string>
+    <string name="google_privacy_policy_title">Google ကိုယ်ရေး မူဝါဒ</string>
+    <string name="google_plus_privacy_policy_title">Google Plusကိုယ်ပိုင်အချက်အလက်မူဝါဒ</string>
+    <string name="google_play_tos_title">Google Playဝန်ဆောင်မှု သတ်မှတ်ချက်များ</string>
+    <string name="chrome_tos_title">Chrome ဝန်ဆောင်မှု စည်းကမ်းချက်များ</string>
+    <string name="chrome_privacy_title">Chrome ကိုယ်ရေး အသိပေးချက်</string>
+    <string name="url_load_unsuccessful_message_wifi_only">သင်၏ အန်ဒရွိုက် ကိရိယာမှာ ကြိုးမဲ့ ကွန်ရက်နှင့် ချိတ်ဆက်မထားပါ။ ဤ အချက်အလက်များကို ယခု ကြည့်ရန်၊ %sကို ဝက်ဘ် ဘရောင်ဇာ တစ်ခုဖြင့် ဝင်ကြည့်ပါ။</string>
+    <string name="services_activity_title">Google ဝန်ဆောင်မှုများ</string>
+    <string name="services_backup_heading">ဘက်အာပ် လုပ်ရန်</string>
+    <string name="services_location_heading">တည်နေရာ</string>
+    <string name="services_security_heading">လုံခြုံရေး</string>
+    <string name="services_personalization_heading">ပုဂ္ဂိုလ်နှင့်ချိတ်ဆက်ပေးခြင်း</string>
+    <string name="services_communication_heading">ဆက်သွယ်ရန်</string>
+    <string name="security_verify_apps_summary">သင့် စက် သို့မဟုတ် ဒေတာ၏ လုံခြုံရေးကို ထိခိုက်နိုင်သော အန္တရာယ် အပြုအမူများအတွက် တပ်ဆင်ထားသည့် အပ်ပလီကေးရှင်း အားလုံးကို Googleမှ စစ်ဆေးခွင့်ပြုပါ။</string>
+    <string name="name_title">သင်၏ အမည်</string>
+    <string name="name_text">သင်၏ ဖုန်း နှင့် Google ဝန်ဆောင်မှုများကို သင့် ပုဂ္ဂိုလ်ရေး အချက်များ ထည့်ပေးရန် သင့်အမည်ကို အသုံးပြုသည်</string>
+    <string name="first_name">ပထမ</string>
+    <string name="last_name">နောက်ဆုံး</string>
+    <string name="cant_be_blank">အကွက် ဗလာဖြစ်၍ မရပါ</string>
+    <string name="sharedUserLabel">Google ဝန်ဆောင်မှုများ</string>
+    <string name="app_label">Google အကောင့် မန်နေဂျာ</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">လက်မှတ်ထိုး ဝင်ရန်</string>
+    <string name="create_button_label">အကောင့် တစ်ခုကို ရယူရန်</string>
+    <string name="not_now_button_label">ယခု မဟုတ်</string>
+    <string name="new_button_label">အသစ်</string>
+    <string name="existing_button_label">ရှိနေ</string>
+    <string name="done">အိုကေ</string>
+    <string name="edit_text_help">စပြီး တိုက်ရိုက်ရန် မည်သည့် စာသား အကွက်ကိုမဆို ထိပါ</string>
+    <string name="add_a_google_account">Google အကောင့်ကို ထည့်ရန်</string>
+    <string name="captcha_title">CAPTCHA ကို ထည့်ရိုက်ရန် လိုသည်</string>
+    <string name="show_error_title">အမှား</string>
+    <string name="server_error">Google ဆာဗာများနှင့် ဆက်သွယ်စဉ် ပြဿနာ ရှိခဲ့သည်။</string>
+    <string name="server_error_help">နောက်မှာ ထပ်စမ်းပါ။</string>
+    <string name="network_unreliable">ဆာဗာနှင့် စိတ်ချရသည့် ချိတ်ဆက်မှုကို မထူထောင်နိုင်ပါ။</string>
+    <string name="network_unreliable_help">ဤသည်မှာ ယာယီ ပြဿနာ ဖြစ်နိုင်သည်၊ သို့မဟုတ် သင်၏ အန်ဒရွိုက် ကိရိယာကို ဒေတာ ဝန်ဆောင်မှုများ အတွက် စီမံ မပေးထားတာ ဖြစ်နိုင်သည်။ ဆက် ဖြစ်လျှင်၊ ဖောက်သည်များ အတွက် ဆောင်ရွက်ပေးရေး ဌာနသို့ ဖုန်းဆက်ပါ။</string>
+    <string name="network_unreliable_help_wifi_only">ဤသည်မှာ ယာယီ ပြဿနာ ဖြစ်နိုင်သည်။ ထပ်စမ်းပါ သို့မဟုတ် နောက် ကြိုးမဲ့ ကွန်ရက် တစ်ခုသို့ ချိတ်ဆက်ပါ။</string>
+    <string name="invalid_login_character">သင်္ကေတ မမှန်ပါ။ 0-9၊ a-z၊ A-Z၊ နှင့် အစက်များကိုသာ ခွင့်ပြုသည်။</string>
+    <string name="invalid_password_character">စကားဝှက် သင်္ကေတ မမှန်ပါ။</string>
+    <string name="calendar">Google ပြက္ခဒိန်</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">အကွက် ဗလာဖြစ်၍ မရပါ</string>
+    <string name="plus_query_title">Google+သို့ မွမ်းမံရန်</string>
+    <string name="plus_query_text">Google+ က ဝက်ဘ် ပေါ်မှာ မျှဝေမှုကို လက်တွေ့ဘဝ ထဲက မျှဝေမှုနှင့် ပိုတူလာစေပါသည်။</string>
+    <string name="circles_subtitle">သင် ရောက်နေသည့် ရေစီးကြောင်းထဲက အရာများ</string>
+    <string name="circles_text">ခင်မင်သည့် မိတ်ဆွေများနှင့် ဆက်သွယ်လျက် ဘုံ စိတ်ဝင်စားမှုများကို စူးစမ်းပါ။</string>
+    <string name="uploads_subtitle">အလိုအလျောက် ဓာတ်ပုံ ဘက်အာပ်</string>
+    <string name="uploads_text">သင်က ဓာတ်ပုံကို ရိုက်လိုက်တာနှင့် အခမဲ့ နှင့် ကိုယ်ပိုင် သိုလှောင်ခန်းမှာ ဘက်အာပ် လုပ်ပါ၊။</string>
+    <string name="huddle_subtitle">ဗီဒီယိုဖြင့် ခေါ်ဆိုမှု &amp; စာပို့မှု</string>
+    <string name="huddle_text">စာတိုပို့ခြင်း၊ ဓာတ်ပုံများ၊ နှင့် အခမဲ့ ဗီဒီယိုဖြင့် ခေါ်ဆိုမှုများကို ဟန်းအောင်ဖြင့် ပျော်ရွှင်ခံစားပါ။</string>
+    <string name="plus_declined_button_label">ယခု မဟုတ်</string>
+    <string name="plus_accepted_button_label">စတင်ပါတော့</string>
+    <string name="plus_name_check_title">Google+ကို ဆက်သွယ်နေ…</string>
+    <string name="plus_name_check_text">ဒါ မိနစ် အနည်းငယ် ကြာနိုင်သည်။</string>
+    <string name="plus_faq_title">Google+ မှ ကြိုဆိုပါသည်!</string>
+    <string name="plus_faq_text" formatted="false">"Google+ ထဲတွင်၊ သင့် မိတ်ဆွေများ အနေနှင့် သင့်ကို အွန်လိုင်း ရှာတွေ့နိုင်ရန် အတွက် သင့်ဆီမှာ အများပြည်သူ ဆိုင်ရာ ပရိုဖိုင် တစ်ခု ရှိပါမည်။ သင့် အီးမေးလ်ကို သိသူတိုင်းသည် သင်၏ ပရိုဖိုင်ကို ရှာနိုင်ကာ ကြည့်နိုင်သည်။
+
+ သင်သည် +၁ ခလုတ်များကို ဝက်ဘ် တလျှောက်လုံးမှာ သုံးပြီး  ကမ္ဘာကြီးအား သင်၏ အရာများကို အကြံပြုနိုင်သည်။ သင်၏ ပရိုဖိုင် နှင့် + ၁ များမှာ အများပြည်သူ အတွက် ရှာဖွေမှု၊ ကြော်ငြာများ၊ နှင့် ဝက်ဘ် တလျှောက်လုံးမှာ ပေါ်လာကြမည်။
+
+လောလောဆယ်မှာမူ၊ သင့် ပရိုဖိုင်က သင်၏ အမည်ကိုသာ ပြပါမည်(%s %s)။ သင်သည် ဓတ်ပုံ၊ အတ္ထုပတ္တိ၊ နှင့် အခြား အသေးစိတ်များကို နောက်ပိုင်း Google+ ကို စသုံးချိန်မှာ ထည့်နိုင်သည်။"</string>
+    <string name="dasher_warning">%s မှ စီမံအုပ်ချုပ်သူသည် Google+ ထဲက သင်၏ ဒေတာ အားလုံးကို ပိုင်ဆိုင်ကာ ကွပ်ကဲလျက် သင်၏ ခွင့်ပြုချက် မရယူဘဲ သင်၏ ပရိုဖိုင်ကို ဖျက်ခြင်း သို့မဟုတ် မွမ်းမံခြင်း လုပ်နိုင်သည်။</string>
+    <string name="profile_info_title">သင်၏ ပရိုဖိုင်</string>
+    <string name="profile_text">သင့် ပရိုဖိုင် အတွက် အချို့သော အခြေခံ အချက်အလက်များကို ပေးပါ။ သင်သည် ဓါတ်ပုံ နှင့် အခြား အသေးစိတ်များကို သင်က Google+ကို စတင်သုံးလာချိန် နောက်ပိုင်းမှာ ထည့်နိုင်ပါသည်။</string>
+    <string name="occupation">သုံးစွဲမှု</string>
+    <string name="current_city">လက်ရှိ မြို့</string>
+    <string name="picassa_info_title">Picasa နှင့် Google+</string>
+    <string name="picassa_info_text" formatted="false">Picasa Web အယ်လ်ဘမ် ပေါ်က သင်၏ ဓာတ်ပုံများ နှင့် ဗီဒီယိုများကို Google+ ထဲတွင် ကြည့်နိုင်မည် ဖြစ်ကာ သင်၏ သုံးသပ်ချက်များမှာ %sအစား %s %sဖြင့် ပေါ်လာမည်။ သင်က ဓာတ်ပုံများကို Google+မှာ မျှဝေလျှင်၊ လက်ခံရယူတို့သည် ၎င်းတို့ကို မည်သူနှင့်မဆို ပြန်လည် မျှဝေနိုင်ကြသည်။ သင့် အယ်လ်ဘမ်၏ မြင်ရမှု ဆက်တင်များမှာ ပြောင်းလဲမည် မဟုတ်ဘဲ၊ သင်က အချိန်မရွေး ၎င်းတိုကို ကန့်သတ်နိုင်လျက် လွတ်လပ်စွာ ပြန်ပြီး မျှဝေနိုင်မည် မဟုတ်ပါ။</string>
+    <string name="name_title_plus">သင်၏ Google+ အမည်</string>
+    <string name="name_title_local">ဤ ဖုန်း၏ ပိုင်ရှင်မှာ…</string>
+    <string name="name_text_local">"ဖုန်းသည် အချို့သော appများထဲ သင်၏ သင့် ပုဂ္ဂိုလ်ရေး အချက်များ ထည့်ပေးရန်  သင်၏ အမည်ကို အသုံးပြုသည်။"</string>
+    <string name="name_progress_title">ခဏလေး…</string>
+    <string name="bad_name_title">ဒီ အမည်ကို သုံးမလား?</string>
+    <string name="invalid_name_title">ဤ အမည်ကို မသုံးနိုင်ပါ</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"သင်က ဒါကို သင်၏ Google+ အမည် အဖြစ် လိုချင်ပါက၊ ကျွန်ုပ်တို့၏ အဖွဲ့သည် ၎င်းကို ဆန်းစစ်ရန် လိုပါမည်။ ၎င်းက ကျွန်ုပ်တို့၏ အမည်များ ဆိုင်ရာ မူဝါဒကို ချိုးဖောက်လျှင်၊ သင့် ပရိုဖိုင်ကို ဆိုင်းငံ့ထားနိုင်သည်။ ထိုသို့ဆိုလျှင် သုံးနိုင်သည့် ပရိုဖိုင် ရှိရန် လိုအပ်သည့် Google ထုတ်ကုန်များကို သင့်အနေနှင့် သုံးနိုင်မည့် အလားအလာများကို ကန့်သတ်ပါမည်။ 
+
+"<annotation id="learn_more">ပိုပြီး လေလာ့ရန်</annotation></string>
+    <string name="invalid_name_text">ဤ အမည်ထဲတွင် မမှန်ကန်သည့် သင်္ကေတများ ပါဝင်နေ၍ ၎င်းကို သင်သည်Google+ နှင့် မသုံးနိုင်ပါ။</string>
+    <string name="invalid_nickname_text">ဒီ အမည်ထဲမှာ မမှန်သည့် စာလုံးများ ပါနေ၍ သင်သည် Google+နှင့် ထိုအမည်ကို သုံးမရနိုင်ပါ။ အမည်ပြောင်၊ အရင်အမည်၊ သို့မဟုတ် ရာထူးကို သုံးပြီး စမ်းကြည့်မလား? သင် ပါဝင်လိုက်သည့် နောက်မှာ ၎င်းတို့ကို ထည့်ပေးနိုင်သည်။</string>
+    <string name="invalid_other_text">ဤ အမည်ကို Google+ နှင့် မသုံးနိုင်ပါ။</string>
+    <string name="bad_name_agree_text">ကျွန်ုပ် နားလည်ပြီး ဤ အသုံးပြုသူ အမည်ကို အသုံးပြုလိုပါသည်။</string>
+    <string name="bad_name_decline_button_label">အမည်ကို မွမ်းမံရန်</string>
+    <string name="bad_name_agree_button_label">ဆန်းစစ်ရန် အမည်ကို တင်သွင်းပါ</string>
+    <string name="bad_name_skip_button_label">Google+ ကျော်ရန်</string>
+    <string name="photo_title">သင်၏ ဓာတ်ပုံ</string>
+    <string name="photo_text">ဤ ဓာတ်ပုံကို အဆက်အသွယ် မှတ်တမ်းထဲမှာ အသုံးပြုမည်။ ၎င်းကို သင်သည် နောက်မှာ People appထဲမှာ ပြောင်းလဲနိုင်သည်။</string>
+    <string name="photo_text_es">သင့် မိတ်ဆွေများက Google+ ပေါ်မှာ မြင်နိုင်ကြမည့် ဓာတ်ပုံကို ရိုက်ယူပါ။ သင်သည် နောက်ပိုင်းမှာ ပုံအသစ်ကို ရွေးနိုင်ပါမည်။</string>
+    <string name="photo_button_label">ဓာတ်ပုံ ရိုက်ရန်</string>
+    <string name="retake_photo_button_label">ဓာတ်ပုံ ပြန်ရိုက်ရန်</string>
+    <string name="photo_failure">ကင်မရာကို စဖွင့်မပေးနိုင်ခဲ့ပါ။</string>
+    <string name="crop_failure">ဓာတ်ပုံကို ဖြတ်မယူနိုင်ခဲ့ပါ။</string>
+    <string name="photo_description">သင်၏ ဓါတ်ပုံ</string>
+    <string name="communicating_message">သင်၏ ဖုန်းသည် Google ကို ဆက်သွယ်နေကာ သင့် အကောင့်ထဲသို့ အချက်အလက်များ သိမ်းဆည်းလိုသည်။ ၎င်းမှာ ၅ မိနစ် အထိ ကြာနိုင်သည်။</string>
+    <string name="creating_account_title">အကောင့်ကို သိမ်းဆည်းနေ…</string>
+    <string name="checking_username_message">"သင်၏ တက်ဘလက်က သင် သုံးလိုသည့် သုံးစွဲသူ အမည်အား သုံး၍ရနိုင်မှာကို ကြည့်ရန် Google ကို ဆက်သွယ်နေသည်။
+
+မိနစ် အနည်းငယ် ကြာနိုင်သည်။"</string>
+    <string name="plus_failure_title">Google+ ထဲကို နောက်မှာ ပါဝင်ပါ</string>
+    <string name="plus_failure_new_account_text">"သင်၏ Google အကောင့်ကို ဖန်တီးလိုက်ပြီ ဖြစ်သော်လည်း၊  Google+ ထဲ ပါဝင်ရန် သင်၏ တောင်းဆိုချက်မှာ မပြီးခဲ့ပါ။ နောက်မှာ မည်သည့် ဘရောင်ဇာဖြင့် မဆို plus.google.com မှာ ထပ်စမ်းပါ။"</string>
+    <string name="plus_failure_text">Google+ ထဲ ပါဝင်ရန် သင်၏ တောင်းဆိုချက်မှာ မပြီးဆုံးခဲ့ပါ။ နောက်မှာ မည်သည့် ဘရောင်ဇာဖြင့် မဆို plus.google.com မှာ ထပ်စမ်းပါ။</string>
+    <string name="provisioned_login_title">စကားှ၀က် ထည့်သွင်းရန်</string>
+    <string name="provisioned_welcome">ဟိုင်၊ %s!</string>
+    <string name="provisioned_welcome_2">"
+%s အတွက် သင်၏ စကားဝှက်ကို ထည့်သွင်းရန်"</string>
+    <string name="provisioned_incorrect_login">%s မဟုတ်ဘူးလား?</string>
+    <string name="login_title">အီးမေးလ် နှင့် စကားဝှက်ကို ရိုက်ထည့်ပါ</string>
+    <string name="login_task_title">လက်မှတ်ထိုး ဝင်နေ</string>
+    <string name="password">စကားဝှက်</string>
+    <string name="restore_wifi">ပြန်လည် ဖေါ်ထုတ်လျက် သိထားသည့် ကြိုးမဲ့ ကွန်ရက်များသို့ ချိတ်ဆက်ပါ။</string>
+    <string name="sign_in_agreement_multi_user">လက်မှတ်ထိုး ဝင်လိုက်ခြင်းဖြင့် Google ၏ <annotation id="tos">" ဝန်ဆောင်မှု  စည်းကမ်းချက်များ"</annotation>၊ <annotation id="google_privacy"> ကိုယ်ရေး မူဝါဒ</annotation>၊ နှင့် <annotation id="play_tos">Google ပလေး ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation>"ကို သဘော တူပါသည်။ 
+
+ မှတ်မိနေရန်: အခြား အသုံးပြုသူ မည်သူမဆိုသည် မွမ်းမံပြီး app ခွင့်ပြုချက်များကို သင့်ကိုယ်စား လက်ခံနိုင်သည်။ ကွန်ပျူတာ ကဲ့သို့ပင်၊ သင်သည် ဤ တက်ဘလက်ကို သင် ယုံကြည်သူတို့နှင့်သာ မျှဝေသင့်ပါသည်။"</string>
+    <string name="sign_in_agreement_with_chrome">လက်မှတ်ထိုး ဝင်လိုက်ခြင်းဖြင့်၊ သင်သည် Google ၏<annotation id="tos">ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation> နှင့် <annotation id="google_privacy">ကိုယ်ရေး မူဝါဒ</annotation>၊ Chrome <annotation id="chrome_tos">ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation> နှင့် <annotation id="chrome_privacy">ကိုယ်ရေး အသိပေးချက်</annotation>၊ နှင့် Google ပလေး<annotation id="play_tos">ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation>ကို သဘောတူပါသည်။</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">လက်မှတ်ထိုး ဝင်လိုက်ခြင်းဖြင့်၊ သင်သည် Google ၏<annotation id="tos">ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation> နှင့် <annotation id="google_privacy">ကိုယ်ရေး မူဝါဒ</annotation>၊ Chrome <annotation id="chrome_tos">ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation> နှင့် <annotation id="chrome_privacy">ကိုယ်ရေး အသိပေးချက်</annotation>၊ နှင့် Google ပလေး<annotation id="play_tos">ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation>"ကို သဘောတူပါသည်။ 
+
+မှတ်မိနေရန်: အခြား အသုံးပြုသူ မည်သူမဆိုသည် မွမ်းမံပြီး app ခွင့်ပြုချက်များကို သင့်ကိုယ်စား လက်ခံနိုင်သည်။ ကွန်ပျူတာ ကဲ့သို့ပင်၊ သင်သည် ဤ တက်ဘလက်ကို သင် ယုံကြည်သူတို့နှင့်သာ မျှဝေသင့်ပါသည်။"</string>
+    <string name="create_prompt">" Google အကောင့် မရှိဘူးလားt? "<annotation id="create_account">အကောင့်ကို ယခု ဖန်တီးပါ</annotation>။</string>
+    <string name="sign_in_with_google_account_short">သင့် Google အကောင့်ဖြင့် လက်မှတ်ထိုး ဝင်ရန်</string>
+    <string name="invalid_username">သင် ရိုက်ထည့်ခဲ့သည့် စာသားမှာ မှန်ကန်သည့် အသုံးပြုသူ အမည် မဟုတ်ပါ။</string>
+    <string name="captcha_instructions">သင် ဒီမှာ မြင်ရသည် စာသားကို ရိုက်ထည့်ပါ:</string>
+    <string name="create_google_account">အသုံးပြုသူ အမည် ရွေးရန်</string>
+    <string name="create_google_account_text">သင်၏ Google အကောင့်မှာ Gmail၊ Google ထံမှ အီးမေးလ်နှင့် အတူ လာပါသည်။ ၎င်းသည် မည်သည့် ကိရိယာ ပေါ်မှာမဆို အလုပ်လုပ်ကာ စပမ်ကို ပိတ်ဆို့လျက် နောက်ထပ် အများအပြား လုပ်ကိုင်နိုင်သည်။</string>
+    <string name="account_already_has_gmail">အကောင့်ထဲမှာ Gmail ရှိနှင့်နေပြီ</string>
+    <string name="error_account_disabled">"ဤအကောင့်အား ပိတ်ထားသည်။ 
+
+(အသေးစိတ်အတွက်၊ https://google.com/accounts သို့ ဝက်ဘ်ဘရောက်ဇာအသုံးပြု၍ ဝင်ပါ။)"</string>
+    <string name="no_network">သင့်ဆီမှာ ကွန်ရက် ချိတ်ဆက်မှု မရှိပါ။</string>
+    <string name="no_network_help">ဤသည်မှာ ယာယီ ပြဿနာ ဖြစ်နိုင်သည်၊ သို့မဟုတ် သင်၏ အန်ဒရွိုက် ကိရိယာကို ဒေတာ ဝန်ဆောင်မှုများ အတွက် စီမံ မပေးထားတာ ဖြစ်နိုင်သည်။ မိုဘိုင်း ကွန်ရက်နှင့် ချိတ်ဆက်ချိန်မှာ ထပ်စမ်းပါ၊ သို့မဟုတ် ကြိုးမဲ့ ကွန်ရက် တစ်ခုနှင့် ချိတ်ဆက်ပါ။</string>
+    <string name="no_network_help_wifi_only">ဤသည်မှာ ယာယီ ပြဿနာ ဖြစ်နိုင်သည်။ ထပ်စမ်းပါ သို့မဟုတ် နောက် ကြိုးမဲ့ ကွန်ရက် တစ်ခုသို့ ချိတ်ဆက်ပါ။</string>
+    <string name="error_login_failed">"သင်၏ အသုံးပြုသူအမည် နှင့် စကားဝှက်များ မတိုက်ဆိုင်ပါ။ ထပ် စမ်းပါ။
+
+သင့် အကောင့် အင်ဖိုကို ပြန်လည် ဖေါ်ထုတ်ရန်၊ google.com/accounts/recovery/ သို့ သွားပါ။"</string>
+    <string name="error_account_not_verified">"ဤ အကောင့်ကို မစိစစ်ရသေးပါ။ ဤ အကောင့်ကို စိစစ်ရန် သင်၏ အီးမေးလ်ကို စစ်ကြည့်လျက် ထည့်ပို့လိုက်သည့် လင့် အတိုင်း လိုက်လုပ်ပါ။ 
+
+(သင်၏ အကောင့် အချက်အလက်များကို ပြန်လည် ဖေါ်ထုတ်နိုင်ရန်၊ သင့်ကွန်ပျူတာဖြင့် http://www.google.com/accounts/recovery သို့ သွားပါ။)"</string>
+    <string name="exit_menu_item">ဘရောင်ဇာ လက်မှတ်ထိုးမှု ဝင်မှုမှ ထွက်ရန်</string>
+    <string name="creating_profile">သင်၏ ပရိုဖိုင်ကို ဖန်တီးနေ…</string>
+    <string name="checking_account">သုံးနိုင်မှုကို စစ်ဆေးနေ…</string>
+    <string name="is_not_available">အသုံးပြုသူ အမည် <b>^1</b> ကို သုံးမရနိုင်ပါ။</string>
+    <string name="suggestions_hint">အကြံပေးချက်များ အတွက် ထိရန်</string>
+    <string name="suggest_username_next_button_label">အသုံးပြုသူ အမည် ပြောင်းရန်</string>
+    <string name="hint_size">" "<b>^1</b> ထဲတွင် သင်္ကေတများ ၆ ခုထက် နည်းနေ သို့မဟုတ် ၃၀ ထက် များနေသည်။</string>
+    <string name="hint_numbers_only">" "<b>^1</b> ထဲမှာ စကားလုံး တလုံးမှ မပါပါ။</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" ထဲတွင် စာလုံးများ၊ 
+ ဂဏန်းများ၊ နှင့် အစက်များသာ ပါနိုင်သည်။"</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> က Gmail ကို မသုံးပါ။</string>
+    <string name="sign_in_browser">ဘရောင်ဇာ လက်မှတ်ထိုးဝင်</string>
+    <string name="alternatives_list_title">အကြံပြုထားသည့် အသုံးပြုသူ အမည်များ</string>
+    <string name="password_title">စကားဝှက်ကို ဖန်တီးရန်</string>
+    <string name="choose_a_password">စကားဝှက်</string>
+    <string name="confirm_password">စကားဝှက်ကို ထပ်ရိုက်ထည့်ရန်</string>
+    <string name="too_short">တိုလွန်း</string>
+    <string name="security_questions_title">လုံခြုံရေး မေးခွန်းများ</string>
+    <string name="answer">" "<b>ဖြေကြားr</b></string>
+    <string name="password_mismatch">စကားဝှက် မတိုက်ဆိုင်ပါ။ ထပ် စမ်းပါ။</string>
+    <string name="eight_chars_min">အနည်းဆုံး သင်္ကေတာ ၈ ခု</string>
+    <string name="verify_your_profile">သင်၏ ပရိုဖိုင်ကို စိစစ်ရန်</string>
+    <string name="error_not_logged_in">အသုံးပြုသူ လက်မှတ်ထိုး မဝင်ခဲ့ပါ။</string>
+    <string name="error_username_unavailable">အသုံးပြုသူ မရှိပါ။</string>
+    <string name="error_bad_password">စကားဝှက်မှာ အားနည်းလွန်းနေ သို့မဟုတ် မမှန်သည့် သင်္ကေတာများ ပါရှိနေ။ ထပ်စမ်းပါ။</string>
+    <string name="error_bad_username">အသုံးပြုသူ အမည် မမှန်</string>
+    <string name="existing_account_error_title">အကောင့် ရှိနှင့်နေပြီ</string>
+    <string name="existing_account_error_text">ဒီ အန်ဒရွိုက် ကိရိယာ ပေါ်မှာ အကောင့် ^1 ရှိနှင့်နေပြီ။</string>
+    <string name="submission_title">ဆောရီး…</string>
+    <string name="submission_error_text">အမှား ကြုံခဲ့သည်။ ထပ် စမ်းပါ။</string>
+    <string name="sync_intro_title">အကောင့် စင့်က်</string>
+    <string name="account_tos_title">အကောင့်ကို ပြီးအောင် လုပ်ပါ</string>
+    <string name="account_tos_plus_title">Google+ ထဲ ပါဝင်မှု ပြီးပါတော့မည်</string>
+    <string name="i_accept">ကျွန်ုပ် လက်ခံပါသည်</string>
+    <string name="i_decline">အကောင့် မဖန်တီးပါနှင့်</string>
+    <string name="allow_personalized_content">"Google မဟုတ်သော ဝဘ်ဆိုက်များ ပေါ်က အကြောင်းအရာများ နှင့် ကြော်ငြာများကို ကိုယ်ပိုင်အချက်များ ထည့်ပေးရန် အတွက် သင်၏ အချက်အလက်များကို  Googleအား သုံးခွင့်ပြုရန်။"</string>
+    <string name="enable_web_history">ဝက်ဘ် မှတ်တမ်း ဖွင့်ရန်</string>
+    <string name="learn_more"><annotation id="learn_more">ပိုပြီး လေ့လာရန်</annotation></string>
+    <string name="account_creation_tos">ဆက် လုပ်ကိုင်ခြင်းဖြင့်၊ သင်သည် Google ၏<annotation id="tos">ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation>၊ <annotation id="google_privacy">ကိုယ်ရေး မူဝါဒ</annotation>၊ နှင့် <annotation id="play_tos">Google ပလေး ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation>ကို သဘော တူပါသည်။</string>
+    <string name="account_creation_tos_with_chrome">ဆက် လုပ်ကိုင်ခြင်းဖြင့်၊ သင်သည် Google ၏<annotation id="tos">ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation> နှင့် <annotation id="google_privacy">ကိုယ်ရေး မူဝါဒ</annotation>၊ Chrome <annotation id="chrome_tos">ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation> နှင့် <annotation id="chrome_privacy">ကိုယ်ရေး အသိပေးချက်</annotation>၊ နှင့် Google ပလေး<annotation id="play_tos">ဝန်ဆောင်မှု စည်းကမ်းချက်များ</annotation>ကို သဘောတူပါသည်။</string>
+    <string name="gender_prompt">လိင်</string>
+    <string name="gender_hint">လိင်</string>
+    <string name="account_pre_intro_title">Google အကောင့် ရှိသလား?</string>
+    <string name="account_pre_intro_default_message">"သင့်ဆီမှာ Google အကောင့် ရှိပါသလား?
+
+သင်သည် Gmail သို့မဟုတ် Google Appများကို သုံးနေလျှင်၊ ဟုတ်ကဲ့ ဖြေပါ။"</string>
+    <string name="account_pre_intro_yes">ရှိ</string>
+    <string name="account_pre_intro_no">မလို</string>
+    <string name="account_intro_title">Google အကောင့်</string>
+    <string name="account_intro_required_title">Google မှ မောင်းနှင်ပေးသည်</string>
+    <string name="account_intro_recommended_title">အဲဒါကို Google လုပ်လိုက်ပါ</string>
+    <string name="account_intro_default_message">သင်၏ အရာများကို ဘယ်တော့မှ ထပ် မပျောက်တော့ပါ။ Google အကောင့်က အရာတိုင်းကို လုံခြုံစွာ ထားပေးသည်။</string>
+    <string name="account_intro_simple_message">သင်သည် ရှိနေသည့် အကောင့်ကို ထည့်လိုသလား သို့မဟုတ် အသစ် တစ်ခု ဖန်တီးလိုသလား?</string>
+    <string name="account_intro_learn_more">ပိုပြီး လေ့လာလိုလျှင်</string>
+    <string name="learn_more_title">ပိုပြီး လေ့လာရန်</string>
+    <string name="learn_more_account_intro">"Google အကောင့်ရှိလျှင် သင် လုပ်နိုင်သည်မှာ:
+
+"<li><ul>မည်သည့် နေရာမှ ဖြစ်စေ သင်၏ အချက်အလက်များ အားလုံး- သင်၏ ရှာဖွေမှု မှတ်တမ်း အပါအဝင်၊-ကို ကြည့်နိုင်ပြီး စည်းရုံးနိုင်သည်။</ul></li>"
+
+"<li><ul> အီးမေးလ်၊ အဆက်အသွယ်များ၊ ဂီတ၊ နှင့် ပုံများ လို သင်၏ ဒေတာများကို အလိုအလျောက် ဘက်အာပ် လုပ်နိုင်သည်။ </ul></li>" 
+
+"<li><ul>Google ဝန်ဆောင်မှုမျာ- အဆက်အသွယ်များ၊ ပြက္ခဒိန်၊ မြေပုံများ၊ နှင့် အများအပြား အပါအဝင်-ကို မည်သည့် နေရာမှမဆို လွယ်ကူစွာ သုံးနိုင်သည်။</ul></li></string>
+    <string name="learn_more_account_intro_title">Google အကောင့်များ အကြောင်း</string>
+    <string name="learn_more_bad_name">Google+က သင်၏ အားလုံးသိ အမည်ကို သုံးရန် လိုအပ်သည်။ သင်၏ ပရိုဖိုင်မှာ လူတစ်ဦးကို—လုပ်ငန်း၊ အဖွဲ့အစည်း၊ သို့မဟုတ် မိသားစုကို မဟုတ်ဘဲ— ကိုယ်စားပြုရမှာ ဖြစ်ပြီး ပထမ နှင့် နောက်ဆုံး အမည် ပါဝင်လျက် အလုပ်အကိုင် ရာထူးများ သို့မဟုတ် မလိုလားအပ်သည့် ပုဒ်ဖြတ်ပုဒ်ရပ်များ မပါဘဲ ဘာသာစကား တစ်ခုတည်းဖြင့် ရေးသင့်ပါသည်။ လက်မှတ် ထိုးလိုက်သည့် နောက်မှာ၊ သင်သည် အမည်ပြောင် သို့မဟုတ် သင့် ပရိုဖိုင်ထဲတွင် ဆက်စပ် ဖေါ်ပြထားသည့် အခြား အမည်များကို ထည့်သွင်းနိုင်ပါသည်။</string>
+    <string name="learn_more_bad_name_title">အမည်များ ဆိုင်ရာ မူဝါဒ အကြောင်း</string>
+    <string name="wait_for_device_country_title">အကောင့် စဖွင့်သတ်မှတ်ရန်</string>
+    <string name="wait_for_device_country_msg">သင့် ဖုန်း အကြောင်း အချက်အလက်များကို စုစည်းနေသည်။ ဒါ စက္ကန့် ၃၀ အထိ ကြာနိုင်သည်။</string>
+    <string name="recovery_title">Google စကားဝှက် ပြန်လည် ဖေါ်ထုတ်ရန်</string>
+    <string name="recovery_wait_title">Google ကို ဆက်သွယ်နေ...</string>
+    <string name="cannot_talk_to_server_msg">ကိရိယာသည် Google ကို လက်လှမ်း မမှီနိုင်ခဲ့ပါ။</string>
+    <string name="recovery_skip_label">ကျော်</string>
+    <string name="recovery_retry_label">ထပ် စမ်းရန်</string>
+    <string name="recovery_message_set">"သင်သည် သင်၏ စကားဝှက်ကို မေ့သွားလျှင်၊ သင်သည် ၎င်းကို ပြန်လည် ဖေါ်ထုတ်လိုပါမည်။
+
+Google သည် သင်၏ စကားဝှက် ပြန်လည် ဖေါ်ထုတ်ရေး အတွက် SMS သို့မဟုတ် အစားထိုးရေး အီးမေးလ် လိပ်စာ မှတစ်ဆင့် ရွေးနိုင်ရန် စီစဉ်ပေးပါသည်။
+
+ဤ အဆင့်ကို အထူးကို အကြံပြုပါသည်။ "<annotation id="help_url">ပိုပြီး လေ့လာရန်</annotation></string>
+    <string name="recovery_message_verify">"စကားဝှက်များကို မေ့လွယ်ပါသည်။
+
+သင်၏ ဖုန်း နံပါတ် သို့မဟုတ် ဘက်အာပ် အီးမေးလ် လိပ်စာကို ယခု အတည်ပြုပေးပါ။ ထိုသို့ဆိုလျှင် သင့်အား Google နှင့် Google ပလေး ထဲက သင်၏ အကြောင်းအရာကို ပြန်လည် ဖေါ်ထုတ်လျက် ရယူသုံးနိုင်အောင် ကူပေးပါမည်။"<annotation id="help_url">ပိုပြီး လေ့လာရန်</annotation></string>
+    <string name="recovery_yes_button_label">ပြန်လည် ဖေါ်ထုတ်ရေး စဖွင့်သတ်မှတ်ရန်</string>
+    <string name="recovery_yes_button_label_verify">ပြန်လည် ဖေါ်ထုတ်နည်းကို အတည်ပြုရန်</string>
+    <string name="recovery_later_button_label">ယခု မဟုတ်</string>
+    <string name="recovery_input_screen_message">ဒီ ပြန်လည် ဖေါ်ထုတ်ရေး အချက်အလက်များမှာ %s နှင့် သက်ဆိုင်သည်။</string>
+    <string name="secondary_email_hint">အီးမေးလ် ဘက်အာပ် လုပ်ရန်</string>
+    <string name="secondary_email_invalid">အီးမေးလ် လိပ်စာ မမှန်</string>
+    <string name="secondary_email_same_as_primary">အခြေခံ အီးမေးလ်နှင့် မတူညီနိုင်ပါ</string>
+    <string name="phone_number_hint">ဖုန်း နံပါတ်</string>
+    <string name="phone_number_invalid_character">ဖုန်း နံပါတ်ထဲက သင်္ကေတများ မမှန်</string>
+    <string name="phone_number_invalid">ဖုန်း နံပါတ် မမှန်</string>
+    <string name="country_invalid">ဒီ နိုင်ငံမှာ ခွင့် မပြုပါ</string>
+    <string name="recovery_server_error">ဆာဗာ နှင့် ပြောဆိုမှု အမှား။ ကျေးဇူးပြုပြီး ခဏ အကြာမှာ ထပ်စမ်းပါ။</string>
+    <string name="account_recovery_info">သင်သည် တချိန်ချိန်မှာ သင့် စကားဝှက်ကို ပျောက်ဆုံးသွားခဲ့သော်၊ သင်သည် လုံခြုံရေး မေးခွန်းကို ဖြေလိုက်ကာ ပြန်ညှိပေးရန် လင့်ကို အခြား လိပ်စာ ထံသို့ ပို့ပေး၍ ရပါသည်။</string>
+    <string name="secondary_email_label">အီးမေးလ် လိပ်စာ ပြန်လည် ဖေါ်ထုတ်ရန်</string>
+    <string name="invalid_email">"သင် ရိုက်ထည့်ခဲ့သည့် အီးမေးလ် လိပ်စာ မမှန်ပါ။ 
+ ဥပမာ: joe@example.com"</string>
+    <string name="invalid_email_primary">ပြန်လည် ဖေါ်ထုတ်ရေး လိပ်စာမှာ သင်က ဖန်တီးနေသည့်နှင့် မတူညီနိုင်ပါ။</string>
+    <string name="backup_consent_message">"သင်၏ appများ၊ ဆက်တင်များ (စာညှပ်များ နှင့် ကြိုးမဲ့ စကားဝှက်များလို) နှင့် အခြား ဒေတာကို ဘက်အာပ်လုပ်ရန် သင်၏Google အကောင့်ကို သုံးပါ။ ယခင်တုန်းက သင်သည် သင်၏ အကောင့်ကို ဘက်အာပ် လုပ်ခဲ့လျှင်၊ သင်သည် ၎င်းကို ဤ ဖုန်းဆီသို့ ယခု ပြန်လည် ဖေါ်ထုတ်နိုင်သည်။ 
+
+သင်သည် သင်၏ ဘက်အာပ် ဆက်တင်များကို အချိန်မရွေး ဆက်တင် ထဲမှာ ပြောင်းလဲနိုင်ပါသည်။"</string>
+    <string name="backup_consent_message_no_restore">"သင်၏ appများ၊ ဆက်တင်များ (စာညှပ်များ နှင့် ကြိုးမဲ့ စကားဝှက်များလို) နှင့် အခြား ဒေတာကို ဘက်အာပ်လုပ်ရန် သင်၏Google အကောင့်ကို သုံးပါ။ 
+
+သင်သည် သင်၏ ဘက်အာပ် ဆက်တင်များကို အချိန်မရွေး ဆက်တင် ထဲမှာ ပြောင်းလဲနိုင်ပါသည်။"</string>
+    <string name="restoring_title">ပြန်လည် ဖေါ်ထုတ်နေ…</string>
+    <string name="restoring_message">သင့်ဖုန်းက သင်၏ အကောင့်ကို ပြန်လည် ဖေါ်ထုတ်ရန် Google ကို ဆက်သွယ်နေသည်။ အချိန် အနည်းငယ် ကြာနိုင်သည်။</string>
+    <string name="gls_notification_login_error">သင့် အကောင့်ကို လက်မှတ်ထိုး ဝင်ရန် ထိပါ။</string>
+    <string name="gls_ui_add_account_title">အကောင့် စဖွင့်သတ်မှတ်ရန်</string>
+    <string name="gls_ui_activity_title">လက်မှတ်ထိုး ဝင်ရန်</string>
+    <string name="gls_ui_activity_title_browser_signin">လက်မှတ်ထိုး ဝင်ရန်</string>
+    <string name="gls_ui_activity_title_checking_in">ပြင်ဆင်နေ…</string>
+    <string name="gls_ui_activity_authenticating">အထောက်အထားစိစစ်နေ…</string>
+    <string name="gls_dmagent_activity_activate_message">" သင်၏ ဒိုမိန်းက မိုဘိုင်း ကိရိယာ စီမံခန့်ခွဲမှု လိုအပ်သည်။  "<b>^1</b> အကောင့် အတွက် လိုအပ်သည့် လုံခြုံရေး မူဝါဒများကို ကျင့်သုံးရန် \"Google Appများ ကိရိယာ မူဝါဒ\" appကို သုံးနိုင်ရန် ဖွင့်ပေးပါ။</string>
+    <string name="gls_dmagent_activity_activate_retry_button">သုံးရန်ဖွင့်ပေးခြင်း</string>
+    <string name="gls_dmagent_activity_download_message">" သင်၏ ဒိုမိန်းက မိုဘိုင်း ကိရိယာ စီမံခန့်ခွဲမှု လိုအပ်သည်။  "<b>^1</b> အကောင့် အတွက် လိုအပ်သည့် လုံခြုံရေး မူဝါဒများကို ကျင့်သုံးရန် \"Google Appများ ကိရိယာ မူဝါဒ\" appကို တပ်ဆင်ပါ။</string>
+    <string name="gls_dmagent_activity_download_retry_button">ဒေါင်းလုဒ်</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">သင်သည် မမှန်ကန်သည့် စကားဝှက်ကို ရိုက်ထည့်ခဲ့သည် သို့မဟုတ် သင့် အကောင့်မှာ ပြောင်းလဲခဲ့သည်။ သင်၏ စကားဝှက်ကို ထပ်ပြီး ရိုက်ထည့်ပါ။</string>
+    <string name="permlab_googleAuthPassword">Google အကောင့်များ အတွက် စကားဝှက်များကို ရယူသုံးခွင့်</string>
+    <string name="permdesc_googleAuthPassword">သင်က စဖွင့်သတ်မှတ်ခဲ့သည့် Google အကောင့်(များ) အတွက် စကားဝှက်များကို တိုက်ရိုက် ရယူအသုံးချခွင့် ပြုသည်။</string>
+    <string name="permlab_googleMailSwitch">Gmail သို့မဟုတ် Google Mail တံဆိပ်ကို ရွေးရန်</string>
+    <string name="permdesc_googleMailSwitch">"appများအား ပြသပေးသည့် အမည်ကို  \"Gmail\" နှင့် \"Google Mail\" တံဆိပ်များ အကြားမှာ ပြောင်းလဲခွင့် ပြုသည်။"</string>
+    <string name="sync_item_title">စင့်က် %s</string>
+    <string name="grant_credentials_permission_message_footer">သူတို့ ခွင့်ပြုချက် တောင်းခံနေသည်မှာ:</string>
+    <string name="grant_credentials_permission_message_app">အောက်ဖေါ်ပြပ appများသည် ယခု အချိန်မှ စပြီး သင်၏ Google အကေင့်ကို ရယူ အသုံးချ လိုကြသည်:</string>
+    <string name="grant_permissions_header_text">ခွင့်ပြုချက် တောင်းခံမှု</string>
+    <string name="allow">ရယူအသုံးချခွင့် ပြုရန်</string>
+    <string name="deny">မလိုပါ ကျေးဇူးပဲ</string>
+    <string name="permission_request_notification_with_subtitle">"
+ အကောင့် %s အတွက် ခွင့်ပြုချက်ကို တောင်းဆိုထား"</string>
+    <string name="notification_title">%1$s အတွက် လက်မှတ်ထိုး ဝင်မှု အမှား</string>
+    <string name="account_setup_title">Google အကောင့်</string>
+    <string name="login_activity_title">လက်မှတ်ထိုး ဝင်ရန်</string>
+    <string name="relogin_activity_title">စကားဝှက်ကို ထပ်ရိုက်ထည့်ရန်</string>
+    <string name="show_error_activity_title">လက်မှတ်ထိုး မဝင်နိုင်ခဲ့ပါ</string>
+    <string name="login_activity_task_title">လက်မှတ်ထိုး ၀င်နေ…</string>
+    <string name="login_activity_task_msg">ဒါ မိနစ် အနည်းငယ် ကြာနိုင်သည်။</string>
+    <string name="prepare_account_setup_task_title">အကောင့် စဖွင့်သတ်မှတ်ရန် ပြင်ဆင်နေ…</string>
+    <string name="prepare_account_setup_task_msg">ဒါ မိနစ် အနည်းငယ် ကြာနိုင်သည်။</string>
+    <string name="sync_intro_activity_title">သင့်အကောင့်အား ညီတူညှိရန်</string>
+    <string name="username">အီးမေးလ်</string>
+    <string name="error_invalid_second_factor">သင်၏ ပုံမှန် အကောင့်၏ စကားဝှက်အစား appဆိုင်ရာ စကားဝှက်ကို အသုံးပြုပါ။</string>
+    <string name="error_needs_browser">သင့် အကောင့်သို့ ဝင်ရန် သင်သည် ဝက်ဘ် ပေါ်မှာ လက်မှတ်ထိုး ဝင်ရမည်။ ဘရောင်ဇာဖြင့် လက်မှတ်ထိုး ဝင်မှု စရန် ရှေ့ဆက် ခလုတ်ကို ထိပါ။</string>
+    <string name="google_play_opt_in">Google Play မှ နောက်ဆုံးပေါ် သတင်းနှင့် ကမ်းလှမ်းမှုများကို အသိပေးပါ</string>
+    <string name="google_settings_header_title">ကိုယ်ရေး</string>
+    <string name="maps_settings_title">မြေပုံများ &amp; လတ္တီတွဒ်</string>
+    <string name="location_settings_title">တည်နေရာ</string>
+    <string name="search_settings_title">ရှာဖွေရန်</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">ကြော်ငြာများ</string>
+    <string name="location_network_based">Google ၏ တည်နေရာ ဝန်ဆောင်မှုများ</string>
+    <string name="location_neighborhood_level">ထံသို့ အမည် မသိရ တည်နေရာ ဒေတာကို ပို့ခွင့် ပြုပါ။ ထို့အပြင် သင်၏ တည်နေရာ ခန့်မှန်းခြေကို ဆုံးဖြတ်ရန် အတွက် ခွင့်ပြုချက်ရှိ appများ အနေနှင့် ကြိုးမဲ့ နှင့် မိုဘိုင်း ကွန်ရက်ထံမှလို ဒေတာများ အသုံးပြုမှာကို ခွင့်ပြုပါ။</string>
+    <string name="use_location_title">တည်နေရာ&amp; Google ရှာဖွေမှု</string>
+    <string name="use_location_summary">ရှာဖွေမှုရလဒ်များနှင့် တခြားဝန်ဆောင်မှုများကို မြှင့်တင်ပေးရန် Google အား သင့် တည်နေရာကို အသုံးပြုစေမည်</string>
+    <string name="backup_consent_yes_agree">သင်၏ appများ၊ ဆက်တင်များ (စာညှပ်များ နှင့် ကြိုးမဲ့ စကားဝှက်များလို) နှင့် အခြား ဒေတာကို ဘက်အာပ်လုပ်ရန် သင်၏Google အကောင့်ကို သုံးသည်။</string>
+    <string name="restore_consent_yes_agree">"သင် အရင်တုန်းက သင်၏ Google အကောင့်သို့ ဘာက်အာပ် လုပ်ခဲ့သည့် appများ၊ ဆက်တင်များ နှင့် အခြား ဒေတာများကို  ဒီ ဖုန်းသို့ ယူလာပါ။"</string>
+    <string name="audit_logging_summary">ကျွန်ုပ်တို့၏ ထုတ်ကုန်များကို မြှင့်တင်ရေး သင်၏ ကိရိယာကို ကာကွယ်ပေးရေးအတွက် စက်၏ အဖြစ်အပျက်များ နှင့် ချွတ်ယွင်းချက်များ ဆိုင်ရာ အချက်အလက်များကို Google သို့ အလိုအလျောက် ပို့ပါ</string>
+    <string name="no_back_msg">ယခင် အဆင့်ဆီ နောက်ကို ပြန် မသွားနိုင်ပါ။</string>
+    <string name="setup_wizard_title">ပြင်ဆင် ထည့်သွင်းရန် လုပ်ဆောင်ပေးသော ဝစ်ဇက်</string>
+    <string name="setup_wizard_services_activity_title">ဂူးဂဲလ် ဝန်ဆောင်မှုများ</string>
+    <string name="setup_wizard_services_description">ဒီဝန်ဆောင်မှုများက Google ကို သင့် အတွက် အလုပ်လုပ်စေလျက်၊ သင်သည် ၎င်းတို့ကို အချိန်မရွေး ဖွင့်နိုင် သို့မဟုတ် ပိတ်နိုင်သည်။ ဒေတာကို Google ၏ <annotation id="google_privacy">ကိုယ်ရေး မူဝါဒ</annotation> နှင့်အညီ အသုံးပြုမည်။</string>
+    <string name="setup_wizard_services_backup_restore_heading">အရံသိမ်းခြင်း &amp; ပြန်လည်ထည့်ခြင်း</string>
+    <string name="setup_wizard_services_location_heading">တည်နေရာ</string>
+    <string name="setup_wizard_services_communication_heading">ဆက်သွယ်ခြင်း</string>
+    <string name="setup_wizard_services_backup"><b>သင့် ဖုန်းရှိ appများ၊ app အချက်အလက်များ၊ အပြင်အဆင်များ၊ တစ်ဦးတည်းသုံး အဘိဓာန်များနှင့် ဝိုင်-ဖိုင် စကားဝှက်များ အရန်သိမ်းဆည်းထားခြင်း</b> အား သင့် Google Account သုံးလျက် ပြုလုပ်ပါက နောင်တွင် အလွယ်တကူ ပြန်လည်ရယူနိုင်သည်။<annotation id="backup_details">ထပ်မံ သိရှိရန်</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>သင့် appများ၊ app အချက်အလက်များ၊ အပြင်အဆင်များ၊ တစ်ဦးတည်းသုံး အဘိဓာန်များနှင့် ဝိုင်-ဖိုင် စကားဝှက်များ အရန်သိမ်းဆည်းထားခြင်း</b> အား သင့် Google Account သုံးလျက် ပြုလုပ်ပါက နောင်တွင် အလွယ်တကူ ပြန်လည်ရယူနိုင်သည်။</string>
+    <string name="setup_wizard_services_backup_restore_footnote">ဒေတာအနေနဲ့ အပ်ပလီကေးရှင်း၊ အပ်ပလီကေးရှင်း အပြင်အဆင်၊ စစ်စတန် အပြင်အဆင် နှင့် ဝိုင်ဖိုင် စကားဝှက်များ ပါဝင်ပါသည်</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">အလိုအလျောက် အရံသိမ်းဆည်းခြင်းကို ဖွင့်ထားလျှင်၊ သင့်စက်ပစ္စည်းရှိအချက်အလက်များအား သင့် ဂူဂဲလ်အကောင့်တွင် ပုံမှန်သိမ်းထားပေးသည်။ အရံသိမ်းဆည်းခြင်းတွင် ရွေးချယ်ထားသည်များ၊ ဆက်တင်များ၊ စာများ၊ ဓာတ်ပုံများနှင့် တစ်ခြားဖိုင်များ အစရှိသည့် သင့် app အချက်အလက် ဖိုင်တွဲများ ပါဝင်သည်။</string>
+    <string name="setup_wizard_services_location_sharing"><b>Google ၏ တည်နေရာ ဝန်ဆောင်မှုကို အသုံးပြုပြီး</b>" တည်နေရာ ဆုံးဖြတ်မှုကို ကူပေးပါ။  Google ထံသို့၊ app တစ်ခုမှ အလုပ် မလုပ်ချိန်မှာပါ၊ တည်နေရာ ဒေတာကို အမည် မဖေါ်ပြဘဲ ပို့ပေးမှုကို ဆိုလိုပါသည်။"<annotation id="location_details">ပိုပြီး လေ့လာရန်</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">"Google ၏ တည်နေရာ ဝန်ဆောင်မှုသည် ကြိုးမဲ့ နှင့် ဆယ်လူလာ ကွန်ရက်များကို အသုံးပြုလျက် သင့် ကိရိယာ၏ တည်နေရာကို ပိုမြန်ဆန်စွာ နှင့် တိကျစွာ ခန့်မှန်းမှုကို ကူပေးရန် အသုံးပြုသည်။ သင်က Google ၏ တည်နေရာ ဝန်ဆောင်မှုကို ဖွင့်လိုက်သည့် အခါမှာ သင်၏ ကိရိယာသည် တည်နေရာ အချက်အလက်ကို ထုတ်ပေးရန် ကြိုးမဲ့  နှင့် ဆယ်လူလာ ကွန်ရက်များကို အသုံးပြုသည့် မုဒ်ထဲသို့ ဝင်ရပါသည်။ သင်သည် ဆက်တင်များထဲတွင် GPS ကိုသာ အသုံးပြုသည့် မုဒ်ကို၊ တနည်း ကိရိယာ သာလျှင် မုဒ်ကို ရွေးလိုက်ကာ ၎င်းကို ပိတ်ပစ်နိုင်ပါသည်။"</string>
+    <string name="setup_wizard_services_location_wifi_scan">appများ နှင့် ဝန်ဆောင်မှုများအား.ကြိုးမဲ့ ပိတ်နေချိန်မှာတောင် ကြိုးမဲ့ ကွန်ရက်များကို စကင် လုပ်စေခြင်းဖြင့် <b>တည်နေရာ ဝန်ဆောင်မှုများကို မြှင့်ပေးရန် ကူညီပေးပါ</b></string>
+    <string name="setup_wizard_services_location_footnote">ဂူးဂဲလ်၏ နေရာပြဝန်ဆောင်မှုက ဝိုင်ဖိုင်နှင့် တခြား လှိုင်းများအားသုံး၍ နေရာပြမှု ပိုမိုမှန်ကန် ပြီး မြန်ဆန်ရန်၊ ဂျီပီအက်စ်ထက်လည်း ဘတ်ထရီသုံးမှုနည်းပါရန် လုပ်ပါသည်။ တချို့ဒေတာများကို သင့် စက်ပေါ်မှာ သိမ်းထားနိုင်ပါသည်။ မည်သည့်အပ်ပလီကေးရှင်းမှ အလုပ်မလုပ်နေလျှင်လည်း ဒေတာကောက်ယူမှု ပြုလုပ်နေမည်။</string>
+    <string name="setup_wizard_services_play">Google Play သတင်းများနှင့် ကမ်းလှမ်းချက်များအက​ြောင်း <b>နောက်ဆုံးသတင်း သိရရန်</b>။</string>
+    <string name="setup_wizard_services_usage_reporting">ပြဿနာ စူးစမ်းရေး နှင့် သုံးစွဲမှု ဒေတာကို Google ထံသို့ အလိုအလျောက် ပို့ပေးခြင်းဖြင့် <b>သင်၏ အန်ဒရွိုက် သုံးမှု အတွေ့အကြုံကို မြှင့်တင်ရန် ကူပေးပါ</b>။ ဒီအချက်အလက်များကို သင်မည်သူမည်ဝါ ဖြစ်ကြောင်းကို ဖေါ်ထုတ်ရန် အတွက် သုံးမှာ မဟုတ်ဘဲ ဘက်ထရီ သက်တမ်း၊ app၏ လုပ်ကိုင်မှု၊ နှင့် Google အင်္ဂါရပ် အသစ်များ အတွက် လုပ်ကိုင်နေကြသည့် အဖွဲ့များအား ကူညီပေးရန် အတွက်ပါ။ <annotation id="usage_reporting_details">ပိုပြီး လေ့လာရန်</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"၎င်းသည် ယေဘုယျ အချက်အလက်များ ဖြစ်ကြကာ သင့် ကိရိယာ အကြောင်း နှင့် ဘက်ထရီ အဆင့်၊ သင်က သင်၏ သင်က သင်၏ appများကို ဘယ်လောက် မကြာခဏ သုံးသနည်း၊ သင့် ကွန်ရက် ချိတ်ဆက်မှုများ ကြာချိန်များ နှင့် အရည်အသွေး (ဆယ်လ်၊ ကြိုးမဲ့ နှင့် ဘလူးတုသ် တို့လို) နှင့် ကြာချိန်များ ကိရိယာကို မည်သို့ အသုံးပြုနေကြောင်း တို့လို သင်က ၎င်းကို အသုံးပြုပုံ အကြောင်း၊ နှင့် အရာများက သူတို့ လုပ်သင့်သလို အလုပ်မလုပ်ကြသည့် ပျက်စီးမှု အစီရင်ခံစာများ ဖြစ်ပါသည်။ ၎င်းကို လူတိုင်းအတွက် Google၏ ထုတ်ကုန်များ နှင့် ဝန်ဆောင်မှုများကို မြှင့်တင်ပေးရန် အသုံးပြုမည် ဖြစ်ပြီး သင်၏ Google အကောင့်နှင့် ဆက်စပ်ထားရှိမည် မဟုတ်ပါ။ စုစည်းရရှိမည့် အချို့သော အချက်အလက်များမှာ အန်ဒရွိုက် ပြုစုသူများလို စီးပွားဖက်များကိုပါ ကူညီပေးကြလျက် သူတို့၏ appများ နှင့် ထုတ်ကုန်များကိုပါ ပိုကောင်းလာစေပါမည်။ 
+
+သင်သည် ၎င်းကို Google ဆက်တင်များ app ထဲတွင် အချိန်မရွေး ဖွင့်နိုင် သို့မဟုတ် ပိတ်နိုင်ပါသည်။ ထိုသို့ ပြုလုပ်မှုက သင့် ကိရိယာ၏ စနစ် မွမ်းမံမှုများ နှင့် လုံခြုံရေးဆိုင်ရာ အရေးကြီးကြသည့် ဝန်ဆောင်မှုများ ရရှိရေးအတွက် လိုအပ်သည့် အချက်အလက်များ ပို့ပေးနိုင်စွမ်းကို မည်သို့မှ အကျိုးမသက်ရောက်နိုင်ပါ။"</string>
+    <string name="setup_wizard_services_agreement">ဒီဖုန်းသည် Google၊ သင့် စီမံပေးသူ၊ နှင့် သင့် ဖုန်းကို ထုတ်လုပ်ပေးခဲ့သူ ထံမှပါ မွမ်းမံမှုများ နှင့် appများကို ရရှိနိုင်ပါသည်။ သင်က ဆက်လုပ်မည် ဆိုလျှင် အချို့ appများကို ဒေါင်းလုဒ် လုပ်လျက် တပ်ဆင်နိုင်ကာ သင်သည် ၎င်းတို့ကို အချိန်မရွေး ဖယ်ထုတ်ပစ်နိုင်ပါသည်။</string>
+</resources>

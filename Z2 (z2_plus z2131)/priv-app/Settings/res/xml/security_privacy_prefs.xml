@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/security_privacy_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:persistent="false" android:layout="@layout/preference_label" android:title="@string/location_service_title" android:key="location_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.location.LocationSettings" />
+    <Preference android:persistent="false" android:title="@string/permissions_management_title" android:widgetLayout="@layout/preference_widget_forward">
+        <intent android:targetPackage="com.zui.safecenter" android:action="android.intent.action.MAIN" android:targetClass="com.shenqi.xuipermissionmanager.XuiPermissionManager">
+            <extra android:name="package" android:value="com.android.settings" />
+        </intent>
+    </Preference>
+    <PreferenceCategory />
+    <Preference android:persistent="false" android:title="@string/device_admin_title" android:key="device_admin_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.DeviceAdminZuiSettings" />
+    <Preference android:persistent="false" android:title="@string/credentials_title" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.CredentialsManagerPrefs" />
+    <SwitchPreference android:persistent="false" android:title="@string/allow_install_apps_title" android:key="toggle_install_applications" />
+    <PreferenceCategory android:persistent="false" android:state_expanded="true" android:title="@string/sim_lock_settings_title" android:key="sim_lock">
+        <Preference android:persistent="false" android:title="@string/sim_lock_settings_category" android:key="sim1_lock_settings" android:widgetLayout="@layout/preference_widget_forward" />
+        <Preference android:persistent="false" android:title="@string/sim_lock_settings_category" android:key="sim2_lock_settings" android:widgetLayout="@layout/preference_widget_forward" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@null" />
+    <PreferenceScreen android:layout="@layout/preference_label" android:title="@string/screen_pinning_title" android:key="screen_pinning_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.ScreenPinningSettings" />
+    <PreferenceCategory android:title="@null" />
+    <SwitchPreference android:persistent="false" android:title="@string/join_user_experience_title" android:key="user_experience" />
+    <PreferenceCategory android:state_expanded="true" android:summary="@string/join_user_experience_summary" />
+</PreferenceScreen>

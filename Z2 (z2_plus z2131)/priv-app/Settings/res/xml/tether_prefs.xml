@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:persistent="false" android:title="@string/tether_title" android:key="enable_wifi_ap" />
+    <Preference android:persistent="false" android:layout="@layout/preference_label" android:title="@string/tether_settings" android:key="wifi_ap_ssid_and_security" android:summary="" android:widgetLayout="@layout/preference_widget_forward" />
+    <PreferenceCategory android:state_expanded="true" android:summary="@string/title_explain" />
+    <SwitchPreference android:persistent="false" android:title="@string/usb_explain" android:key="usb_tether_settings" />
+    <SwitchPreference android:persistent="false" android:title="@string/bt_explain" android:key="enable_bluetooth_tethering" />
+</PreferenceScreen>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Kroeg</item>
+        <item>Kafee</item>
+        <item>Petrolstasie</item>
+        <item>Fliekteater</item>
+        <item>Verblyf</item>
+        <item>Nagklub</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Winkelsentrum</item>
+        <item>Winkel</item>
+        <item>Kruidenierswinkel of supermark</item>
+        <item>Ander</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>swak</item>
+        <item>redelik</item>
+        <item>goed</item>
+        <item>sterk</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Uitreiking</item>
+        <item>Ontwikkelaar</item>
+        <item>Kleinhandel</item>
+        <item>Demonstrasie</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Die foon en die motor gebruik onversoenbare sagteware. Besoek &lt;a href="android.com/auto">android.com/auto&lt;/a> vir besonderhede</item>
+        <item>"Die motor het 'n verkeerde stel oudio- en/of video-opstellings geadverteer."</item>
+        <item>"Die USB-verbinding werk nie behoorlik nie. Goed wat jy kan probeer: 
+
+• Maak seker dat die kabel aan albei kante reg pas. 
+•Maak seker dat jy 'n USB-datakabel het. 
+•Maak seker dat die datum en tyd vir sowel die motor as jou foon reg gestel is."</item>
+        <item>Die motor het opgehou om Android Auto te gebruik.</item>
+        <item>Android Auto-sessie is gestaak, soos versoek.</item>
+        <item>Die motor se sagteware is dalk verouderd. Kontak die vervaardiger vir besonderhede en steun.</item>
+        <item>Jou motor se sagteware het nie Android Auto-sekuriteitkontrolering geslaag nie. Kontak die vervaardiger vir besonderhede en steun.</item>
+        <item>Jou motor se sagteware het nie Android Auto-sekuriteitkontrolering geslaag nie. Maak seker dat die motor se datum en tyd reg gestel is, en dat Android Auto opgedateer is.</item>
+        <item>"'n Handeling het uitgetel. Jy behoort 'n foutverslag te gryp en terugvoer in te dien."</item>
+        <item>"Dit lyk nie of jy 'n geïnstalleerde lanseerder het nie. Is jou foon reg opgestel?"</item>
+        <item>"Die grafiese stroom het pas doodgeloop. Jy behoort 'n foutverslag te gryp en terugvoer in te dien."</item>
+        <item>Motor reageer nie op boodskappe van foon af nie. Motor is dalk in verkeerde toestand.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Lughawe</item>
+        <item>Kitsbank</item>
+        <item>Bank</item>
+        <item>Kroeg</item>
+        <item>Bushalte</item>
+        <item>Kafee</item>
+        <item>Kampeerterrein</item>
+        <item>Begraafplaas</item>
+        <item>Kerk</item>
+        <item>Stadsaal</item>
+        <item>Onderneming</item>
+        <item>Vulstasie</item>
+        <item>Kruidenierswinkel of supermark</item>
+        <item>Hindoe-tempel</item>
+        <item>Hospitaal</item>
+        <item>Biblioteek</item>
+        <item>Verblyf</item>
+        <item>Moskee</item>
+        <item>Bioskoop</item>
+        <item>Museum</item>
+        <item>Park</item>
+        <item>Parkering</item>
+        <item>Plek van aanbidding</item>
+        <item>Polisiestasie</item>
+        <item>Poskantoor</item>
+        <item>Restaurant</item>
+        <item>Skool</item>
+        <item>Winkel</item>
+        <item>Moltreinstasie</item>
+        <item>Sinagoge</item>
+        <item>Treinstasie</item>
+        <item>Publiekevervoer-stasie</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Januarie</item>
+        <item>Februarie</item>
+        <item>Maart</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Junie</item>
+        <item>Julie</item>
+        <item>Augustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Hou op deel</item>
+        <item>15 minute</item>
+        <item>30 minute</item>
+        <item>1 uur</item>
+        <item>Onbepaald</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Hou op deel</item>
+        <item>15 minute</item>
+        <item>30 minute</item>
+        <item>1 uur</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>"Kies 'n sekuriteitsvraag"</item>
+        <item>Eerste foonnommer?</item>
+        <item>Naam van beste maatjie in kinderjare?</item>
+        <item>Eerste onderwyser se naam?</item>
+        <item>Bestuurder se naam by jou eerste werk?</item>
+        <item>Voertuig se registrasienommer?</item>
+    </string-array>
+</resources>

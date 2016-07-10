@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="auth_setup_wizard_navbar_ic_down">false</item>
+    <item type="drawable" name="kids_button_bg">false</item>
+    <item type="drawable" name="suw_card_bg">false</item>
+</resources>

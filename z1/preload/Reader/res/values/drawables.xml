@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="autocomplete">#80000000</item>
+    <item type="drawable" name="ac_login_cooperation_grey_bg">#fff8f8f8</item>
+    <item type="drawable" name="ac_login_cooperation_darkgrey_bg">#ffeeebe5</item>
+    <item type="drawable" name="ac_selectlivearea_grey_bg">#fff4f4f4</item>
+    <item type="drawable" name="ac_selectlivearea_blue_bg">#ff159fff</item>
+    <item type="drawable" name="ac_addcell_bottom_bg">#ffe0ddd7</item>
+    <item type="drawable" name="ac_regist_persontype_bg_grey">#ffefefef</item>
+    <item type="drawable" name="ac_regist_persontype_bg_white">#ffffffff</item>
+    <item type="drawable" name="transparent">#00000000</item>
+    <item type="drawable" name="special_offer_radio_check">#fff77228</item>
+    <item type="drawable" name="white">#ffffffff</item>
+    <item type="drawable" name="drawable_test_blue">#ff0000ff</item>
+</resources>

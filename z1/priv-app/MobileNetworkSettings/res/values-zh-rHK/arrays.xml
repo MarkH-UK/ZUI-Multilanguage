@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices">
+        <item>4G/3G/2G(4G 優先)</item>
+        <item>3G/2G</item>
+    </string-array>
+</resources>

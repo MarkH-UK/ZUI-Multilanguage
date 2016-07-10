@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>geen onderwerp nie</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekonde</item>
+        <item>2 sekondes</item>
+        <item>3 sekondes</item>
+        <item>4 sekondes</item>
+        <item>5 sekondes</item>
+        <item>6 sekondes</item>
+        <item>7 sekondes</item>
+        <item>8 sekondes</item>
+        <item>9 sekondes</item>
+        <item>10 sekondes</item>
+        <item>Ander</item>
+    </string-array>
+</resources>

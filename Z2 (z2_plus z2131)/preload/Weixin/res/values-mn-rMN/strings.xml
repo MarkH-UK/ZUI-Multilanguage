@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="z">Аппликешн Google Наадаан Үйлчилгээг шинэчлэхийг шаардана.</string>
+    <string name="a0">%1$s нь Android Wear апп-ыг шинэчлэхийг шаардаж байна.</string>
+    <string name="a1">Аппликешн Google Наадаан Үйлчилгээг идэвхжүүлсэн байхыг шаардана.</string>
+    <string name="a2">%1$s хүсэлт гаргасан</string>
+    <string name="a3">Google Play үйлчилгээ авах</string>
+    <string name="a4">%1$s нь Google Play үйлчилгээ байгаа тохиолдолд ажилладаг бөгөөд эдгээр нь таны утсанд байхгүй байна.</string>
+    <string name="a5">%1$s нь Google Play үйлчилгээ байгаа тохиолдолд ажилладаг бөгөөд эдгээр нь таны таблетанд байхгүй байна.</string>
+    <string name="a6">Google Play үйлчилгээ авах</string>
+    <string name="a7">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="a8">%1$s нь таныг Google Play үйлчилгээнүүдийг идэвхжүүлэхээс нааш ажиллахгүй.</string>
+    <string name="a9">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="a_">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="aa">Андройд Зүүсгэлийг шинэчлэх</string>
+    <string name="ab">%1$s нь таныг Google Play үйлчилгээнүүдийг шинэчлэхээс нааш ажиллахгүй.</string>
+    <string name="ac">%1$s нь таныг Android Wear апп-ыг шинэчлэхээс нааш ажиллахгүй.</string>
+    <string name="ad">Google Play үйлчилгээнүүдийг шинэчилж байна</string>
+    <string name="ae">%1$s нь одоогоор шинэчлэгдэж буй Google Play үйлчилгээ байхгүй тохиолдолд ажиллахгүй.</string>
+    <string name="af">Сүлжээний алдаа</string>
+    <string name="ag">Google Play үйлчилгээнд холбогдохын тулд дата холболт шаардлагатай.</string>
+    <string name="ah">Буруу акаунт</string>
+    <string name="ai">Заасан акаунт энэ төхөөрөмж дээр байхгүй байна. Өөр акаунт сонгоно уу.</string>
+    <string name="aj">Google Play үйлчилгээтэй холбоотой тодорхойгүй алдаа.</string>
+    <string name="ak">Google Play үйлчилгээ</string>
+    <string name="al">%1$s нь Google Play үйлчилгээний тусламжтай ажилладаг боловч таны төхөөрөмж үүнийг дэмждэггүй. Тусламж хэрэгтэй бол үйлдвэрлэгчтэй холбогдоно уу.</string>
+    <string name="am">Шинэчлэх</string>
+    <string name="an">Нэвтрэх</string>
+    <string name="ao">Google-р нэвтрэх:</string>
+    <string name="ap">Утсан дээр нээх</string>
+    <string name="aq">%1$s нь одоогоор ажиллах боломжгүй нэг болон түүнээс дээш Google Play-ын үйлчилгээнүүдийг шаардаж байна. Тусламж хэрэгтэй бол хөгжүүлэгчтэй холбоо барина уу.</string>
+    <string name="ar">Нэвтрэх үйлдэл амжилтгүй болсон байна.</string>
+    <string name="as">Хаягт нэвтрэхэд алдаа гарлаа. Өөр хаяг сонгоно уу.</string>
+</resources>

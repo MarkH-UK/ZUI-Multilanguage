@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PlainUnifiedEmailThemeMainActivity" parent="@style/UnifiedEmailTheme">
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:actionBarStyle">@style/LauncherActionBar</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverflowButtonStyle</item>
+        <item name="android:popupMenuStyle">@style/ConversationPopupMenu</item>
+        <item name="android:actionModeStyle">@style/CustomActionMode</item>
+        <item name="android:colorPrimaryDark">@color/custom_navigation_bar_bg</item>
+        <item name="android:navigationBarColor">@color/custom_navigation_bar_bg</item>
+    </style>
+    <style name="Theme.Light" parent="@android:style/Theme.Material.Light" />
+    <style name="UnifiedEmailTheme" parent="@style/Theme.Light">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColor">@color/lenovo_text_color</item>
+        <item name="android:textColorHighlight">#8a0097a7</item>
+        <item name="android:textSelectHandleLeft">@drawable/text_select_handle_left</item>
+        <item name="android:textSelectHandleRight">@drawable/text_select_handle_right</item>
+        <item name="android:textSelectHandle">@drawable/text_select_handle_middle</item>
+        <item name="android:actionBarStyle">@style/ComposeActionBar</item>
+        <item name="android:textCursorDrawable">@drawable/color_cursor</item>
+        <item name="android:actionModeStyle">@style/CustomActionMode</item>
+        <item name="android:colorPrimary">@color/lenovo_head_bg_color</item>
+        <item name="android:colorPrimaryDark">@color/lenovo_head_bg_color</item>
+        <item name="android:toolbarStyle">@style/Widget.MailToolbar</item>
+    </style>
+</resources>

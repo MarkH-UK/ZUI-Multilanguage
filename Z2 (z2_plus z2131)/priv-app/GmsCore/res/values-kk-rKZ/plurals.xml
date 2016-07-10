@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d таңбаға шектен асу</item>
+        <item quantity="one">%1$d таңбаға шектен асу</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d таңба қалды</item>
+        <item quantity="one">%1$d таңба қалды</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google есептік жазбасы</item>
+        <item quantity="one">%d Google есептік жазбасы</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Бұл құрылғы ^1 құрылғысын Google есептік жазбаларыңызбен және олардың деректерімен реттеу үшін пайдаланылған</item>
+        <item quantity="one">Бұл құрылғы ^1 құрылғысын Google есептік жазбаңызбен және оның деректерімен реттеу үшін пайдаланылған</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d сағат</item>
+        <item quantity="one">1 сағат</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">1 минут</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Бұл шақырулар қатеге байланысты жіберілмеді</item>
+        <item quantity="one">Бұл шақыру қатеге байланысты жіберілмеді</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Бұл шақырулар дәл қазір жіберілмейді. Оларды Google Play > \"Менің есептік жазбам\" тармағынан қайтадан жіберуге болады.</item>
+        <item quantity="one">Бұл шақыру дәл қазір жіберілмейді. Оны Google Play > \"Менің есептік жазбам\" тармағынан қайтадан жіберуге болады.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d шақыру қалды</item>
+        <item quantity="one">%d шақыру қалды</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d жаңа хабар</item>
+        <item quantity="one">1 жаңа хабар</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">Сіздің алдыңызда %1$d адам</item>
+        <item quantity="one">Сіздің алдыңызда 1 адам</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s және %2$d басқа қолданба бойынша</item>
+        <item quantity="one">%1$s және %2$d басқа қолданба бойынша</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d бақылаушы</item>
+        <item quantity="one">Бір бақылаушы</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d көру</item>
+        <item quantity="one">Бір көру</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Google тіркелгілері және деректер көшірілуде…</item>
+        <item quantity="one">Google тіркелгісі және деректер көшірілуде…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Бұл құрылғы ^1 құрылғысын Google есептік жазбаңызбен және деректермен реттеу үшін пайдаланылған</item>
+        <item quantity="one">Бұл құрылғы ^1 құрылғысын Google есептік жазбаңызбен және деректермен реттеу үшін пайдаланылған</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">%d секундтан кейін орнату үшін қайта жүктеледі…</item>
+        <item quantity="one">1 секундтан кейін орнату үшін қайта жүктеледі…</item>
+    </plurals>
+</resources>

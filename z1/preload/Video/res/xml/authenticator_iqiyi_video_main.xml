@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-authenticator android:label="@string/ACCOUNT_LABEL_QIYI_VIDEO" android:icon="@drawable/sdk_account_icon_iqiyi_video" android:accountType="@string/ACCOUNT_TYPE_QIYI_VIDEO_MAIN" android:smallIcon="@drawable/sdk_account_icon_iqiyi_video" android:accountPreferences="@xml/account_preferences"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

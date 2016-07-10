@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">លើសការកំណត់ %1$d តួអក្សរ</item>
+        <item quantity="one">លើសការកំណត់ %1$d តួអក្សរ</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">នៅសល់ %1$d តួអក្សរទៀត</item>
+        <item quantity="one">នៅសល់ %1$d តួអក្សរទៀត</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">គណនី Google %d</item>
+        <item quantity="one">គណនី Google %d</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">ឧបករណ៍នេះត្រូវបានប្រើដើម្បីដំឡើង ^1 ជាមួយគណនី Google និងទិន្នន័យរបស់វា</item>
+        <item quantity="one">ឧបករណ៍នេះត្រូវបានប្រើដើម្បីដំឡើង ^1 ជាមួយគណនី Google និងទិន្នន័យរបស់វា</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d ម៉ោង</item>
+        <item quantity="one">1 ម៉ោង</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d នាទី</item>
+        <item quantity="one">1 នាទី</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">មិន​បាន​ផ្ញើ​ការ​អញ្ជើញ​ទាំងនេះ​ទេ ព្រោះ​មាន​កំហុស</item>
+        <item quantity="one">មិន​បាន​ផ្ញើ​​ការ​អញ្ជើញ​នេះ​ទេ ព្រោះ​មាន​កំហុស</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">មិន​អាច​ផ្ញើ​ការ​អញ្ជើញ​ទាំងនេះ​បាន​ទេ​នៅ​ពេល​នេះ។ អ្នក​អាច​ផ្ញើ​វា​បាន​ម្ដង​ទៀត​ពី​ Google កម្សាន្ត > គណនី​​របស់​ខ្ញុំ។</item>
+        <item quantity="one">មិន​អាច​ផ្ញើ​ការ​អញ្ជើញ​នេះ​បាន​ទេ​នៅ​ពេល​នេះ។ អ្នក​អាច​ផ្ញើ​វា​បាន​ម្ដង​ទៀត​ពី​ Google កម្សាន្ត > គណនី​​របស់​ខ្ញុំ។</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">នៅ​សល់​ការ​អញ្ជើញ %d</item>
+        <item quantity="one">នៅ​សល់​ការ​អញ្ជើញ %d</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">សារថ្មី %1$d</item>
+        <item quantity="one">សារថ្មី 1</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">មនុស្ស %1$d នៅខាងមុខអ្នក</item>
+        <item quantity="one">មនុស្ស 1 នាក់នៅខាងមុខអ្នក</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">ដោយ %1$s និងកម្មវិធី %2$d ផ្សេងទៀត</item>
+        <item quantity="one">ដោយ %1$s និងកម្មវិធី %2$d ផ្សេងទៀត</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">អ្នកតាម %1$,d នាក់</item>
+        <item quantity="one">អ្នកតាមម្នាក់</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">មើល %1$,d ដង</item>
+        <item quantity="one">មើលម្តង</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">កំពុងចម្លងគណនី Google និងទិន្នន័យរបស់អ្នក…</item>
+        <item quantity="one">កំពុងចម្លងគណនី Google និងទិន្នន័យរបស់អ្នក…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">ឧបករណ៍នេះត្រូវបានប្រើដើម្បីដំឡើង ^1 ជាមួយគណនី Google និងទិន្នន័យរបស់អ្នក</item>
+        <item quantity="one">ឧបករណ៍នេះត្រូវបានប្រើដើម្បីដំឡើង ^1 ជាមួយគណនី Google និងទិន្នន័យរបស់អ្នក</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">កំពុង​ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ដំឡើង​ក្នុង​រយៈពេល %d វិនាទី…</item>
+        <item quantity="one">កំពុង​ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ដំឡើង​ក្នុង​រយៈពេល 1 វិនាទី...</item>
+    </plurals>
+</resources>

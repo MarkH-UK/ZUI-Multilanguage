@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-ის შეცდომა</string>
+    <string name="common_google_play_services_notification_needs_installation_title">აპლიკაცია საჭიროება Google Play Services-ის ინსტალაციას.</string>
+    <string name="common_google_play_services_notification_needs_update_title">აპლიკაცია საჭიროებს Google Play Services-ის განახლებას.</string>
+    <string name="common_android_wear_notification_needs_update_text">აპლიკაცია საჭიროებს Android Wear აპის განახლებას.</string>
+    <string name="common_google_play_services_needs_enabling_title">აპლიკაცია საჭიროებს გააქტიურებულ Google Play Services.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">მომთხოვნი: %1$s</string>
+    <string name="common_google_play_services_install_title">Google Play სერვისების მიღება</string>
+    <string name="common_google_play_services_install_text_phone">ეს აპი ვერ გაეშვება Google Play სერვისების გარეშე, რაც თქვენს ტელეფონზე ვერ იძებნება.</string>
+    <string name="common_google_play_services_install_text_tablet">ეს აპი ვერ გაეშვება Google Play სერვისების გარეშე, რაც თქვენს ტელეფონზე ვერ იძებნება.</string>
+    <string name="common_google_play_services_install_button">Google Play სერვისების მიღება</string>
+    <string name="common_google_play_services_enable_title">Google Play სერვისების გააქტიურება</string>
+    <string name="common_google_play_services_enable_text">ეს აპი არ იმუშავებს, თუ არ გაააქტიურებთ Google Play სერვისებს.</string>
+    <string name="common_google_play_services_enable_button">Google Play სერვისების გააქტიურება</string>
+    <string name="common_google_play_services_update_title">Google Play სერვისების განახლება</string>
+    <string name="common_android_wear_update_title">Android Wear-ის განახლება</string>
+    <string name="common_google_play_services_update_text">ეს აპი ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="common_android_wear_update_text">ეს აპი ვერ გაეშვება, თუ Android Wear აპს არ განაახლებთ.</string>
+    <string name="common_google_play_services_network_error_title">ქსელის შეცდომა</string>
+    <string name="common_google_play_services_network_error_text">Google Play Services-თან დასაკავშირებლად მონაცემთა გადაცემა აუცილებელია.</string>
+    <string name="common_google_play_services_invalid_account_title">ანგარიში არასწორია</string>
+    <string name="common_google_play_services_invalid_account_text">მითითებული ანგარიში ამ მოწყობილობაზე არ არსებობს. გთხოვთ, აირჩიოთ სხვა ანგარიში.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play სერვისებთან დაკავშირებით უცნობი შეფერხება წარმოიშვა.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play სერვისები</string>
+    <string name="common_google_play_services_unsupported_text">Google Play სერვისები, რაც თქვენს ზოგიერთ აპს ჭირდება, თქვენს მოწყობილობაზე მხარდაჭერილი არ არის. გთხოვთ, დაუკავშირდეთ მწარმოებელს დახმარებისათვის.</string>
+    <string name="common_google_play_services_update_button">განახლება</string>
+    <string name="common_signin_button_text">შესვლა</string>
+    <string name="common_signin_button_text_long">Google-ით შესვლა</string>
+    <string name="common_open_on_phone">ტელეფონზე გახსნა</string>
+    <string name="setup_wizard_next_button_label">შემდეგი</string>
+    <string name="setup_wizard_back_button_label">უკან</string>
+    <string name="default_device_name">მოწყობილობების მწარმოებელი Android</string>
+    <string name="skip_button_label">გამოტოვება</string>
+    <string name="down_button_label">მეტი</string>
+    <string name="cancel_button_label">გაუქმება</string>
+    <string name="try_again_button_label">სცადეთ ხელახლა</string>
+    <string name="close_button_label">დახურვა</string>
+    <string name="url_load_unsuccessful_message">თქვენი Android არ არის დაკავშირებული მონაცემთა გადაცემის სერვისთან. ამ ინფორმაციის დაუყოვნებლივ სანახავად ეწვიეთ %s-ს ვებ-ბრაუზერის მეშვეობით.</string>
+    <string name="sign_in_agreement">შესვლით ეთანხმებით Google-ის <annotation id="tos">მომსახურების პირობებს</annotation>, <annotation id="google_privacy">კონფიდენციალურობის დებულებას</annotation> და <annotation id="play_tos">Google Play-ს სერვისის პირობებს</annotation>.</string>
+    <string name="android_privacy_policy_title">დამატებითი კონფიდენციალურობის დებულება</string>
+    <string name="google_terms_of_service_title">Google-ის მომსახურების პირობები</string>
+    <string name="google_privacy_policy_title">Google-ის კონფიდენციალურობის დებულება</string>
+    <string name="google_plus_privacy_policy_title">Google Plus-ის კონფიდენციალურობის დებულება</string>
+    <string name="google_play_tos_title">Google Play-ს მომსახურების პირობები</string>
+    <string name="chrome_tos_title">Chrome მომსახურების პირობები</string>
+    <string name="chrome_privacy_title">შენიშვნა Chrome-ის კონფიდენციალურობის შესახებ</string>
+    <string name="url_load_unsuccessful_message_wifi_only">თქვენი Android მოწყობილობა არ არის ჩართული Wi-Fi ქსელში. ამ ინფორმაციის დაუყოვნებლივ სანახავად ეწვიეთ %s-ს ვებ-ბრაუზერის მეშვეობით.</string>
+    <string name="services_activity_title">Google სერვისები</string>
+    <string name="services_backup_heading">სარეზერვო კოპირება</string>
+    <string name="services_location_heading">მდებარეობა</string>
+    <string name="services_security_heading">უსაფრთხოება</string>
+    <string name="services_personalization_heading">პერსონალიზაცია</string>
+    <string name="services_communication_heading">კომუნიკაცია</string>
+    <string name="security_verify_apps_summary">მიეცეს უფლება Google-ს, შეამოწმოს ყველა ინსტალირებული აპი, ხომ არ არის პოტენციური ზიანის შემცველი და ხომ მიაყენებს ზიანს თქვენი მოწყობილობის ან მონაცემთა უსაფრთხოებას.</string>
+    <string name="name_title">თქვენი სახელი</string>
+    <string name="name_text">თქვენი სახელი გამოიყენება თქვენი ტელეფონისა და Google-ის სერვისების პერსონალიზაციისათვის.</string>
+    <string name="first_name">პირველი</string>
+    <string name="last_name">ბოლო</string>
+    <string name="cant_be_blank">ველი არ შეიძლება იყოს ცარიელი.</string>
+    <string name="sharedUserLabel">Google-ის სერვისები</string>
+    <string name="app_label">Google Account მმართელი</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">შესვლა</string>
+    <string name="create_button_label">ანგარიშის შექმნა</string>
+    <string name="not_now_button_label">ახლა არა</string>
+    <string name="new_button_label">ახალი</string>
+    <string name="existing_button_label">არსებული</string>
+    <string name="done">კარგი</string>
+    <string name="edit_text_help">ტექსტის ასაკრეფად შეეხეთ ნებისმიერ ტექსტურ ველს</string>
+    <string name="add_a_google_account">Google-ის ანგარიშის დამატება</string>
+    <string name="captcha_title">საჭიროა CAPTCHA-ს შეყვანა</string>
+    <string name="show_error_title">შეცდომა</string>
+    <string name="server_error">Google-ის სერვერებთან დაკავშირებისას წარმოიშვა პრობლემა.</string>
+    <string name="server_error_help">სცადეთ მოგვიანებით.</string>
+    <string name="network_unreliable">სერვერთან საიმედო კავშირის დამყარება შეუძლებელია.</string>
+    <string name="network_unreliable_help">შეიძლება ეს პრობლემა დროებითია ან თქვენს Android-ის მოწყობილობაში არ არის უზრუნველყოფილი მობილური ინტერნეტის სერვისები. პრობლემის მოუგვარებლობის შემთხვევაში დარეკეთ კლიენტების მხარდაჭერის ცენტრში.</string>
+    <string name="network_unreliable_help_wifi_only">ეს შეიძლება იყოს დროებითი პრობლემა. სცადეთ ხელახლა ან დაუკავშირდით სხვა Wi-Fi ქსელს.</string>
+    <string name="invalid_login_character">არასწორი სიმბოლო. დასაშვებია მხოლოდ 0-9, a-z, A-Z და წერტილები.</string>
+    <string name="invalid_password_character">პაროლი შეიცავს დაუშვებელ სიმბოლოს.</string>
+    <string name="calendar">Google Calendar</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">ველი არ შეიძლება იყოს ცარიელი.</string>
+    <string name="plus_query_title">Google+-ზე გადასვლა</string>
+    <string name="plus_query_text">Google+-ში გაზიარება ისეთივე ადვილია, როგორც რეალურ ცხოვრებაში.</string>
+    <string name="circles_subtitle">ნაკადი საინტერესო სფეროებიდან</string>
+    <string name="circles_text">დაუკავშირდით ახლო მეგობრებს და განიხილეთ საერთო ინტერესები.</string>
+    <string name="uploads_subtitle">ფოტოს ავტომატური სარეზერვო ასლები</string>
+    <string name="uploads_text">ფოტოების სარეზერვო ასლები გადაღებისთანავე, უფასო და პირად საცავში.</string>
+    <string name="huddle_subtitle">ხმოვანი ზარები და შეტყობინებები</string>
+    <string name="huddle_text">გამოიყენეთ ტექსტური შეტყობინებები, ფოტოები და უფასო ჯგუფური ვიდეოზარები Hangouts-ის საშუალებით.</string>
+    <string name="plus_declined_button_label">ახლა არა</string>
+    <string name="plus_accepted_button_label">დაწყება</string>
+    <string name="plus_name_check_title">Google+-თან დაკავშირება…</string>
+    <string name="plus_name_check_text">ამას შესაძლოა დასჭირდეს რამენიმე წუთი.</string>
+    <string name="plus_faq_title">კეთილი იყოს თქვენი მობრძანება Google+-ზე!</string>
+    <string name="plus_faq_text" formatted="false">"Google+-ში თქვენ გექნებათ საჯარო პროფილი, რომელიც მეგობრებს ინტერნეტში თქვენ პოვნაში დაეხმარება. ყველას, ვინც იცის თქვენი ელფოსტის მისამართი შეეძლება თქვენი პროფილის მოძიება და ნახვა.
+
+დანარჩენი მსოფლიოსთვის საინტერესო ამბებზე რეკომენდაციის მისაცემად თქვენ შეგიძლიათ +1 ღილაკის გამოყენება. თქვენი პროფილი და რეკომენდაციები გამოჩნდება ძიებაში, რეკლამაში და მთელ ინტერნეტში.
+
+ამჟამად თქვენი პროფილი აჩვენებს მხოლოდ თქვენ სახელს (%s %s). მოგვიანებით, როცა Google+-ის გამოყენებას დაიწყებთ, თქვენ შეგეძლებათ ფოტოს, ბიოგრაფიისა და სხვა ინფორმაციის დამატება."</string>
+    <string name="dasher_warning">ადმინისტრატორი %s-ზე ფლობს და მართავს ყველა თქვენს მონაცემს Google+ზე. მას შეუძლია წაშალოს ან შეცვალოს თქვენი პროფილი ნებისმიერ დროს თქვენი ნებართვის გარეშე.</string>
+    <string name="profile_info_title">თქვენი პროფილი</string>
+    <string name="profile_text">შეიყვანეთ პროფილის ძირიღადი ინფორმაცია. ფოტოსა და სხვა დეტალების დამატება მოგვიანებით Google+-ის გამოყენების დაწყების შემდეგ შეგეძლებათ.</string>
+    <string name="occupation">პროფესია</string>
+    <string name="current_city">ამჟამინდელი ქალაქი</string>
+    <string name="picassa_info_title">Picasa და Google+</string>
+    <string name="picassa_info_text" formatted="false">თქვენი Picasa Web Albums ფოტოები და ვიდეოები ხელმისაწვდომი იქნება Google+-ში, თქვენი კომენტარები კი %s-ის ნაცვლად „%s %s“-ის სახელით გამოქვეყნდება. Google+-ში ფოტოების გაზიარებისას, მომხმარებლებს შეუძლიათ მათი გამოქვეყნება. თქვენს ალბომებზე წვდომის დონე უცვლელი დარჩება და თქვენ მისი ნებისმიერ დროს შეზღუდვა შეგეძლებათ, რათა არ მოხდეს მათი თავისუფლად გაზიარება.</string>
+    <string name="name_title_plus">თქვენი Google+ სახელი</string>
+    <string name="name_title_local">ეს ტელეფონი ეკუთვნის…</string>
+    <string name="name_text_local">ტელეფონი იყენებს თქვენს სახელს ზოგიერთი აპის პერსონალიზების მიზნით.</string>
+    <string name="name_progress_title">ერთი წამით…</string>
+    <string name="bad_name_title">გამოვიყენოთ ეს სახელი?</string>
+    <string name="invalid_name_title">ამ სახელის გამოყენება შეუძლებელია</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"თუ გსურთ, რომ ეს იყოს თქვენი Google+-ის სახელი, ჩვენმა გუნდმა ის უნდა განიხილოს. თუ თქვენი სახელი არღვევს  ჩვენს „სახელების დებულებას“, თქვენი პროფილი გაუქმედება. ამგვარად, თქვენ შეგეზღუდებათ Google-ის იმ პროდუქტების გამოყენების შესაძლებლობა, რომლებიც ითხოვენ აქტიურ პროფილს.
+
+"<annotation id="learn_more">შეიტყვეთ მეტი</annotation></string>
+    <string name="invalid_name_text">თქვენ ვერ გამოიყენებთ ამ სახელის Google+-ში, რადგან ის შეიცავს არასწორ სიმბოლოებს.</string>
+    <string name="invalid_nickname_text">ამ სახელს Google+-ისთვის ვერ გამოიყენებთ, რადგან ის შეიცავს არასწორ სიმბოლოებს. თქვენი მეტსახელის, წინა სახელის ან ტიტულის მითითებას ცდილობთ? მათი დამატება თქვენს პროფილზეც შეგიძლიათ მას შემდეგ, რაც დარეგისტრირდებით.</string>
+    <string name="invalid_other_text">ამ სახელის გამოყენება Google+-ში არ შეიძლება.</string>
+    <string name="bad_name_agree_text">ვაცნობიერებ და მინდა ეს სახელი.</string>
+    <string name="bad_name_decline_button_label">სახელის განახლება</string>
+    <string name="bad_name_agree_button_label">სახელის განსახილველად გადაცემა</string>
+    <string name="bad_name_skip_button_label">გამოტოვე Google+</string>
+    <string name="photo_title">თქვენი ფოტო</string>
+    <string name="photo_text">ეს ფოტო გამოყენებული იქნება თქვენს საკონტაქტო ჩანაწერებში. შეგიძლიათ მოგვიანებით შეცვალოთ ხახლის აპში.</string>
+    <string name="photo_text_es">გადაიღეთ ფოტო, რომელსაც თქვენი მეგობრები ნახავენ Google+-ში. მოგვიანებით შეგიძლიათ ახალი სურათის არჩევა.</string>
+    <string name="photo_button_label">ფოტოს გადაღება</string>
+    <string name="retake_photo_button_label">ფოტოს ხელახლა გადაღება</string>
+    <string name="photo_failure">კამერის ჩართვა ვერ მოხერხდა</string>
+    <string name="crop_failure">ფოტო ვერ ჩამოიჭრა.</string>
+    <string name="photo_description">თქვენი ფოტო</string>
+    <string name="communicating_message">თქვენი ტელეფონი უკავშირდება Google-ს ინფორმაციის თქვენს ანგარიშში შესანახად. ამას შესაძლოა დასჭირდეს 5 წუთამდე.</string>
+    <string name="creating_account_title">ანგარიშის შენახვა…</string>
+    <string name="checking_username_message">"თქვენი ტელეფონი უკავშირდება Google-ს, რათა შემოწმდეს, ხელმისაწვდომია თუ არა თქვენი სასურველი მომხმარებლის სახელი.
+
+ამას შეიძლება რამდენიმე წუთი დასჭირდეს."</string>
+    <string name="plus_failure_title">გაწევრიანდით Google+-ში მოგვიანებით</string>
+    <string name="plus_failure_new_account_text">თქვენი Google ანგარიში შეიქმნა, მაგრამ თქვენი Google+--ში გაწევრიანების შესახებ მოთხოვნის არ დამუშავებულა. სცადეთ ხელახლა ნებისმიერი ვებ ბრაუზერიდან plus.google.com საიტიდან.</string>
+    <string name="plus_failure_text">თქვენი მოთხოვნა Google+-ში გაწევრიანების შესახებ არ არის მიღებული. სცადეთ მოგვიანებით ნებისმიერი ვებ-ბრაუზერიდან plus.google.com საიტიდან.</string>
+    <string name="provisioned_login_title">შეიყვანეთ პაროლი</string>
+    <string name="provisioned_welcome">სალამი, %s!</string>
+    <string name="provisioned_welcome_2">"შეიყვანეთ თქვენი პაროლი:
+%s"</string>
+    <string name="provisioned_incorrect_login">არ ხართ %s?</string>
+    <string name="login_title">აკრიფეთ ელფოსტა და პაროლი</string>
+    <string name="login_task_title">მიმდინარეობს შესვლა</string>
+    <string name="password">პაროლი</string>
+    <string name="restore_wifi">აღდგენა და Wi‑Fi ქსელებთან დაკავშირება.</string>
+    <string name="sign_in_agreement_multi_user">ანგარიშში შესვლით, თქვენ ეთანხმებით Google-ს <annotation id="tos">მომსახურების პირობებს</annotation>, <annotation id="google_privacy">კონფიდენციალურობის დებულებასა</annotation> და <annotation id="play_tos">Google Play-ს მომსახურების პირობებს</annotation>". 
+
+დაიმახსოვრეთ: ყველას, ვინც ტაბლეტს გამოიყენებს შეეძლება თქვენი სახელით აპების განახლებული უფლებების დადასტურება. ამიტომ გირჩევთ, ისევე როგორც კომპიუტერი, თქვენი ტაბლეტიც მხოლოდ იმ ადამიანებს გაუზიაროთ ვისაც ენდობით."</string>
+    <string name="sign_in_agreement_with_chrome">გაგრძელების შემთხვევაში, თქვენ ეთანხმებით Google-ის <annotation id="tos">მომსახურების პირობებსა</annotation> და <annotation id="google_privacy">კონფიდენციალურობის დებულებას</annotation>, Chrome-ის <annotation id="chrome_tos">მომსახურების პირობებსა</annotation> და <annotation id="chrome_privacy">კონფიდენციალურობის შენიშვნასა</annotation> და Google Play-ის <annotation id="play_tos">მომსახურების პირობებს</annotation>.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">ანგარიშში შესვლით თქვენ ადასტურებთ, რომ ეთანხმებით Google-ის <annotation id="tos">მომსახურების პირობებსა</annotation> და <annotation id="google_privacy">კონფიდენციალურობის დებულებას</annotation>, Chrome-ის <annotation id="chrome_tos">მომსახურების პირობებსა</annotation> და <annotation id="chrome_privacy">კონფიდენციალურობის შენიშვნას</annotation>, Google Play-ის <annotation id="play_tos">მომსახურების პირობებს</annotation>". 
+
+გახსოვდეთ, რომ ყველა მომხმარებელს შეეძლება თქვენი სახელით აპების განახლებული უფლებების დადასტურება. ამიტომ გირჩევთ, ისევე, როგორც კომპიუტერი, თქვენი ტაბლეტიც მხოლოდ იმ ადამიანებს გაუზიაროთ, ვისაც ენდობით."</string>
+    <string name="create_prompt">" არ გაქვთ Google ანგარიში? "<annotation id="create_account">შექმენით ანგარიში ახლა</annotation>.</string>
+    <string name="sign_in_with_google_account_short">შესვლა თქვენი Google-ის ანგარიშით:</string>
+    <string name="invalid_username">შეყვანილი ტექსტი არ არის სწორი მომხმარებლის სახელი.</string>
+    <string name="captcha_instructions">შეიყვანეთ ტექსტი, რომელსაც აქ ხედავთ:</string>
+    <string name="create_google_account">მომხმარებლის სახელის არჩევა</string>
+    <string name="create_google_account_text">თქვენი Google ანგარიში მოიცავს Gmail-ს, Google-ს ელფოსტას. ის მუშობს ნებისმიერ მოწყობილობაზე, ბლოკავს სპამს და სხვ.</string>
+    <string name="account_already_has_gmail">ამ ანგარიშს უკვე აქვს Gmail.</string>
+    <string name="error_account_disabled">"ეს ანგარიში გათიშულია. 
+
+ (დამატებითი ინფორმაციისთვის ეწვიეთ https://google.com/accounts ვების ბრაუზერიდან.)"</string>
+    <string name="no_network">თქვენ არ ხართ ჩართული ქსელში.</string>
+    <string name="no_network_help">შეიძლება ეს პრობლემა დროებითია ან თქვენს Android-ის მოწყობილობაში არ არის უზრუნველყოფილი მობილური ინტერნეტის სერვისები. სცადეთ ხელახლა, როდესაც დაუკავშირდებით მობილურ ინტერნეტს ან დაუკავშირდით Wi-Fi ინტერნეტს.</string>
+    <string name="no_network_help_wifi_only">ეს შეიძლება იყოს დროებითი პრობლემა. სცადეთ ხელახლა ან დაუკავშირდით სხვა Wi-Fi ქსელს.</string>
+    <string name="error_login_failed">"მომხმარებლის სახელი და პაროლი არ შეესატყვისება ერთმანეთს. სცადეთ ხელახლა. 
+
+ანგარიშის ინფორმაციის აღსადგენად გახსენით http://google.com/accounts)."</string>
+    <string name="error_account_not_verified">"ეს ანგარიში დაუდასტურებელია. შეამოწმეთ ელფოსტა და ანგარიშის დასადასტურებლად მიჰყევით ბმულს 
+
+(ანგარიშის ინფორმაციის აღსადგენად, თქვენი კომპიუტერიდან გახსენით ბმული http://www.google.com/accounts/recovery)."</string>
+    <string name="exit_menu_item">დახურვა</string>
+    <string name="creating_profile">თქვენი პროფილი იქმნება…</string>
+    <string name="checking_account">მოწმდება ხელმისაწვდომობა…</string>
+    <string name="is_not_available">მომხმარებლის სახელი <b>^1</b> მიუწვდომელია.</string>
+    <string name="suggestions_hint">შეეხეთ შემოთავაზებების სანახავად</string>
+    <string name="suggest_username_next_button_label">მომხმარებლის სახელის შეცვლა</string>
+    <string name="hint_size">" "<b>^1</b> შეიცავს 6-ზე ნაკლებ ან 30-ზე მეტ სიმბოლოს.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> არ შეიცავს არცერთ ასოს.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" შეიძლება შეიცავდეს მხოლოდ ასოებს,
+რიცხვებსა და წერტილებს."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> არ იყენებს Gmail-ს.</string>
+    <string name="sign_in_browser">ბრაუზერში შესვლა</string>
+    <string name="alternatives_list_title">შემოთავაზებული მომხმარებლის სახელები</string>
+    <string name="password_title">პაროლის შექმნა</string>
+    <string name="choose_a_password">პაროლი</string>
+    <string name="confirm_password">ხელახლა შეიყვანეთ პაროლი</string>
+    <string name="too_short">ძალიან მოკლეა</string>
+    <string name="security_questions_title">უსაფრთხოების შეკითხვები</string>
+    <string name="answer">" "<b>პასუხი</b></string>
+    <string name="password_mismatch">პაროლები არ ემთხვევა. სცადეთ ხელახლა.</string>
+    <string name="eight_chars_min">მინიმუმ 8 სიმბოლო</string>
+    <string name="verify_your_profile">თქვენი პროფილის ვერიფიკაცია</string>
+    <string name="error_not_logged_in">მომხმარებელი სისტემაში შესული არ არის.</string>
+    <string name="error_username_unavailable">მომხმარებლის სახელი მიუწვდომელია.</string>
+    <string name="error_bad_password">პაროლი ძალიან სუსტია ან შეიცავს არასწორ სიმბოლოებს. სცადეთ ხელახლა.</string>
+    <string name="error_bad_username">მომხმარებლის არასწორი სახელი</string>
+    <string name="existing_account_error_title">ანგარიში უკვე არსებობს</string>
+    <string name="existing_account_error_text">ამ Android-ის მოწყობილობაში უკვე არის ^1-ის ანგარიში.</string>
+    <string name="submission_title">უკაცრავად...</string>
+    <string name="submission_error_text">წარმოიშვა შეცდომა. სცადეთ ხელახლა.</string>
+    <string name="sync_intro_title">ანგარიშები და სინქრონიზაცია</string>
+    <string name="account_tos_title">ანგარიშის შექმნა</string>
+    <string name="account_tos_plus_title">Google+-ში გაწევრიანების დასრულება</string>
+    <string name="i_accept">ვეთანხმები</string>
+    <string name="i_decline">არ შექმნათ ანგარიში</string>
+    <string name="allow_personalized_content">მიეცეს Google-ს უფლება, გამოიყენოს თქვენი ინფორმაცია კონტენტისა და რეკლამების პერსონალიზებისათვის, იმ ვებ-საიტებზე, რომლებიც Google-ს არ ეკუთვნის.</string>
+    <string name="enable_web_history">ჩართეთ ვებ ძიების ისტორია</string>
+    <string name="learn_more"><annotation id="learn_more">შეიტყვეთ მეტი</annotation></string>
+    <string name="account_creation_tos">შესვლით ეთანხმებით Google-ის <annotation id="tos">მომსახურების პირობებს</annotation>, <annotation id="google_privacy">კონფიდენციალურობის დებულებას</annotation> და <annotation id="play_tos">Google Play-ს მომსახურების პირობებს</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">გაგრძელების შემთხვევაში, თქვენ ეთანხმებით Google-ის <annotation id="tos">მომსახურების პირობებსა</annotation> და <annotation id="google_privacy">კონფიდენციალურობის დებულებას</annotation>, Chrome-ის <annotation id="chrome_tos">მომსახურების პირობებსა</annotation> და <annotation id="chrome_privacy">კონფიდენციალურობის შენიშვნასა</annotation> და Google Play-ის <annotation id="play_tos">მომსახურების პირობებს</annotation>.</string>
+    <string name="gender_prompt">სქესი</string>
+    <string name="gender_hint">სქესი</string>
+    <string name="account_pre_intro_title">უკვე გაქვთ Google ანგარიში?</string>
+    <string name="account_pre_intro_default_message">"გაქვთ Google ანგარიში?
+
+თუ თქვენ იყენებთ Gmail ან Google Apps, აირჩიეთ პასუხი „კი“."</string>
+    <string name="account_pre_intro_yes">დიახ</string>
+    <string name="account_pre_intro_no">არა</string>
+    <string name="account_intro_title">Google ანგარიში</string>
+    <string name="account_intro_required_title">მხარდაჭერა: Google</string>
+    <string name="account_intro_recommended_title">გახადეთ ის Google</string>
+    <string name="account_intro_default_message">აღარაფერი დაკარგოთ. Google ანგარიშში ყველაფერი უსაფრთხოდ არის დაცული.</string>
+    <string name="account_intro_simple_message">გსურთ დაამატოთ არსებული ანგარიში თუ შევქმნათ ახალი?</string>
+    <string name="account_intro_learn_more">შეიტყვეთ მეტი</string>
+    <string name="learn_more_title">შეიტყვეთ მეტი</string>
+    <string name="learn_more_account_intro">"Google-ს ანგარიში საშუალებას გაძლევთ:
+
+"<li><ul>ნახოთ და ორგანიზება გაუწიოთ მთელს თქვენს ინფორმაციას - მათ შორის თქვენი ძიების ისტორიას - ნებისმიერი ადგილიდან.</ul></li>"
+
+"<li><ul>ავტომატურად დაამარქაფოთ თქვენი მონაცემები, მაგალითად ელფოსტა, კონტაქტები, მუსიკა და ფოტოები.</ul></li>"
+
+"<li><ul>ნებისმიერი ადგილიდან მარტივად გამოიყენოთ Google სერვისები - მათ შორის კონტაქტები, კალენდარი, რუკები, და სხვ.</ul></li></string>
+    <string name="learn_more_account_intro_title">Google-ის ანგარიშების შესახებ</string>
+    <string name="learn_more_bad_name">Google+ -ში უნდა გამოიყენოთ თქვენი ჩვეულებრივი სახელი. თქვენი პროფილი უნდა წარმოადგენდეს ერთ პირს—არა კომერციულ საწარმოს, ორგანიზაციას თუ ოჯახს—და უნდა შეიცავდეს თქვენს სახელსა და გვარს ერთ ენაზე, პროფესიული თანამდებობუს თუ ზედმეტი პუნქტუაციის გარეშე. რეგისტრაციის შემდეგ შეგიძლიათ განათავსოთ მეტსახელები და სხვა სახელები განყოფილებაში „სხვა სახელები “.</string>
+    <string name="learn_more_bad_name_title">სახელების პოლიტიკის თაობაზე</string>
+    <string name="wait_for_device_country_title">ანგარიშის კონფიგურაცია</string>
+    <string name="wait_for_device_country_msg">მიმდინარეობს თქვენი ტელეფონის შესახებ ინფორმაციის შეგროვება. ამან შეიძლება დაიკავოს 30 წამი.</string>
+    <string name="recovery_title">Google-ის პაროლის აღდგენა</string>
+    <string name="recovery_wait_title">Google+-თან დაკავშირება…</string>
+    <string name="cannot_talk_to_server_msg">მოწყობილობა Google-ს ვერ დაუკავშირდა.</string>
+    <string name="recovery_skip_label">გამოტოვება</string>
+    <string name="recovery_retry_label">სცადეთ თავიდან</string>
+    <string name="recovery_message_set">"თუ თქვენ ოდესმე დაკარგავთ პაროლს, დაგჭირდებათ მისი აღდგენის გზები.
+
+Google გთავაზობთ აღდგენილი პაროლის SMS-ით მიღებას ან ალტერნატიულ ელფოსტაზე გამოგზავნას.
+
+ჩვენ დაჟინებით გირჩევთ გაიაროთ ეს საფეხური. "<annotation id="help_url">შეიტყვეთ მეტი</annotation></string>
+    <string name="recovery_message_verify">"პაროლები ადვილად დავიწყებადია.
+
+დაადასტურეთ თქვენი ტელეფონის ნომერი ან ელფოსტის სარეზერვო მისამართი. ეს დაგეხმარებათ Google და Google Play-ში თქვენს კონტენტზე წვდომის აღდგენაში. "<annotation id="help_url">შეიტყვეთ მეტი</annotation></string>
+    <string name="recovery_yes_button_label">აღდგენის პარამეტრების დაყენება</string>
+    <string name="recovery_yes_button_label_verify">აღდგენის პარამეტრების დადასტურება</string>
+    <string name="recovery_later_button_label">ახლა არა</string>
+    <string name="recovery_input_screen_message">ეს აღსადგენი ინფორმაცია გამოიყენება %s-ისთვის.</string>
+    <string name="secondary_email_hint">სარეზერვო ელფოსტა</string>
+    <string name="secondary_email_invalid">არასწორი ელფოსტის მისამართი</string>
+    <string name="secondary_email_same_as_primary">დაუშვებელია ემთხვეოდეს საწყის ელფოსტას</string>
+    <string name="phone_number_hint">ტელეფონის ნომერი</string>
+    <string name="phone_number_invalid_character">არასწორი სიმბოლოები ტელეფონის ნომერში</string>
+    <string name="phone_number_invalid">ტელეფონის არასწორი ნომერი</string>
+    <string name="country_invalid">ეს ქვეყანა დაშვებული არ არის</string>
+    <string name="recovery_server_error">სერვერთან დაკავშირებისას წარმოიშვა შეცდომა. გთხოვთ, ცოტა ხნის შემდეგ კვლავ სცადოთ.</string>
+    <string name="account_recovery_info">თუ ოდესმე პაროლს დაკარგავთ, შეგიძლიათ უპასუხოთ უსაფრთხოების შეკითხვას და პაროლის აღდგენის ბმულს სხვა მისამართზე მიიღებთ.</string>
+    <string name="secondary_email_label">ელფოსტის დამატებითი მისამართი</string>
+    <string name="invalid_email">"თქვენ მიერ აკრეფილი ელფოსტის მისამართი არასწორია.
+ ნიმუში: joe@example.com"</string>
+    <string name="invalid_email_primary">აღდგენის მისამართი არ შეიძლება ემთხვეოდეს მისამართს, რომელსაც ახლა ქმნით.</string>
+    <string name="backup_consent_message">"გამოიყენეთ თქვენი Google-ის ანგარიში აპების, პარამეტრებისა (მაგ., სანიშნები და Wi-Fi პაროლები) და სხვა მონაცემების სარეზერვო ასლების შესაქმნელად. თუ თქვენი ანგარიშისთვის უკვე შექმნილია სარეზერვო ასლი, ახლავე შეგიძლიათ მისი ამ მოწყობილობაზე აღდგენა.
+
+თქვენ ნებისმიერ დროს შეგიძლიათ პარამეტრებში სარეზერვო ასლების პარამეტრების შეცვლა."</string>
+    <string name="backup_consent_message_no_restore">"გამოიყენეთ თქვენი Google-ის ანგარიში თქვენი აპების, პარამეტრებისა (როგორიცაა სანიშნეები და Wi-Fi პაროლები) და სხვა მონაცემების სამარქაფო ასლის შესაქმნელად.
+
+ნებისმიერ დროს შეგიძლიათ სამარქაფო ასლის პარამეტრების ცვლილება „პარამეტრებიდან“."</string>
+    <string name="restoring_title">მიმდინარეობს აღდგენა…</string>
+    <string name="restoring_message">თქვენი ტელეფონი Google-ს უკავშირდება თქვენი ანგარიშის აღსადგენად. ამას შეიძლება გარკვეული დრო დასჭირდეს.</string>
+    <string name="gls_notification_login_error">შეეხეთ ანგარიშში შესასვლელად.</string>
+    <string name="gls_ui_add_account_title">ანგარიშის კონფიგურაცია</string>
+    <string name="gls_ui_activity_title">შესვლა</string>
+    <string name="gls_ui_activity_title_browser_signin">შესვლა</string>
+    <string name="gls_ui_activity_title_checking_in">მომზადება…</string>
+    <string name="gls_ui_activity_authenticating">მიმდინარეობს აუთენტიფიკაცია…</string>
+    <string name="gls_dmagent_activity_activate_message">" თქვენი დომენი საჭიროებს მობილური მოწყობილობის მართვას. დააყენეთ „Google Apps Device Policy“ აპი  "<b>^1</b> ანგარიშით გათვალისწინებული უსაფრთხოების პოლიტიკის გასატარებლად.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">გააქტიურება</string>
+    <string name="gls_dmagent_activity_download_message">" თქვენი დომენი საჭიროებს მობილური მოწყობილობის მართვას. დააყენეთ \"Google Apps Device Policy\" აპი  "<b>^1</b> ანგარიშით გათვალისწინებული უსაფრთხოების პოლიტიკის გასატარებლად.</string>
+    <string name="gls_dmagent_activity_download_retry_button">ჩამოტვირთვა</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">თქვენ შეიყვანეთ არასწორი პაროლი ან თქვენი ანგარიში შეიცვალა. ხელახლა შეიყვანეთ პაროლი.</string>
+    <string name="permlab_googleAuthPassword">Google ანგარიშების პაროლებზე წვდომის მიღება</string>
+    <string name="permdesc_googleAuthPassword">აპებს აძლევს Google-ის თქვენ მიერ კონფიგურირებული ყველა ანგარიშის პაროლებზე პირდაპირი წვდომის უფლებას.</string>
+    <string name="permlab_googleMailSwitch">Gmail-ის ან Google Mail-ის ბრენდინგის არჩევა</string>
+    <string name="permdesc_googleMailSwitch">"აპებს უფლებას აძლევს გადართოს ხილული სახელი „Gmail“-დან  „Google Mail“ ბრენდინგზე."</string>
+    <string name="sync_item_title">%s-ის სინქტონიზაცია</string>
+    <string name="grant_credentials_permission_message_footer">ისინი ითხოვენ შემდეგ უფლებას:</string>
+    <string name="grant_credentials_permission_message_app">ამ მომენტიდან მოცემულ აპებს სურთ თქვენს Google ანგარიშზე წვდომა:</string>
+    <string name="grant_permissions_header_text">ნებართვის მოთხოვნა</string>
+    <string name="allow">წვდომის ნებართვის მიცემა</string>
+    <string name="deny">არა, გმადლობთ</string>
+    <string name="permission_request_notification_with_subtitle">"მოთხოვნილია ნებრათვა 
+ანგარიშისთვის %s"</string>
+    <string name="notification_title">%1$s-ის ავტორიზაციის შეცდომა</string>
+    <string name="account_setup_title">Google ანგარიში</string>
+    <string name="login_activity_title">შესვლა</string>
+    <string name="relogin_activity_title">ხელახლა აკრიფეთ პაროლი</string>
+    <string name="show_error_activity_title">შესვლა ვერ მოხერხდა</string>
+    <string name="login_activity_task_title">მიმდინარეობს შესვლა…</string>
+    <string name="login_activity_task_msg">ამას შესაძლოა დასჭირდეს რამდენიმე წუთი.</string>
+    <string name="prepare_account_setup_task_title">მიმდინარეობს ანაგარიშის გამართვა…</string>
+    <string name="prepare_account_setup_task_msg">ამას შესაძლოა დასჭირდეს რამდენიმე წუთი.</string>
+    <string name="sync_intro_activity_title">თქვენი ანგარიშის სინქრონიზაცია</string>
+    <string name="username">ელფოსტა</string>
+    <string name="error_invalid_second_factor">ანგარიშის პაროლის ნაცვლად გამოიყენეთ აპის სპეციალური პაროლი.</string>
+    <string name="error_needs_browser">თქვენს ანგარიშში შესასვლელად უნდა განახორციელოთ შესვლა ვებში. შეეხეთ „შემდეგს“ ბრაუზერში შესვლის დასაწყებად.</string>
+    <string name="google_play_opt_in">შემატყობინე Google Play-ის სიახლეებისა და შემოთავაზებების შესახებ.</string>
+    <string name="google_settings_header_title">კონფიდენციალურობა</string>
+    <string name="maps_settings_title">Maps და Latitude</string>
+    <string name="location_settings_title">მდებარეობა</string>
+    <string name="search_settings_title">ძიება</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">რეკლამები</string>
+    <string name="location_network_based">Google-ს მდებარეობის სერვისი</string>
+    <string name="location_neighborhood_level">დართეთ ნება, მდებარეობის ანონიმური მონაცემები გაეგზავნოს Google-ს. ასევე, ნება დართეთ დაშვებულ აპებს, გამოიყენონ მონაცემები Wi-Fi და მობილური ქსელებიდან ან მსგავსი წყაროებიდან თქვენი მიახლოებითი ადგილმდებარეობის დასადგენად.</string>
+    <string name="use_location_title">მდებარეობა და Google ძიება</string>
+    <string name="use_location_summary">მიეცეს უფლება Google-ს, გამოიყენოს თქვენი მდებარეობა ძიების შედეგებისა და სხვა სერვისების გაუმჯობესების მიზნით.</string>
+    <string name="backup_consent_yes_agree">გამოიყენეთ Google-ის ანგარიში თქვენი აპების, პარამეტრების (მაგ. სანიშნეები და Wi-Fi პაროლები) და სხვა მონაცემთა დასამარქაფებლად.</string>
+    <string name="restore_consent_yes_agree">გადმოიტანეთ ამ ტელეფონში აპები, პარამეტრები და სხვა მონაცემები, რომლებიც დაამარქაფეთ Google-ის ანგარიშზე.</string>
+    <string name="audit_logging_summary">ინფორმაცია მოწყობილობის მოვლენებისა და დიაგნოსტიკის შესახებ ავტომატურად გაეგზავნოს Google-ს ჩვენი პროდუქტების გაუმჯობესებისა და თქვენი მოწყობილობის დაცვის მიზნით.</string>
+    <string name="no_back_msg">წინა საფეხურზე გადასვლა ვერ მოხერხდა.</string>
+    <string name="setup_wizard_title">პარამეტრების დაყენების ოსტატი</string>
+    <string name="setup_wizard_services_activity_title">Google სერვისები</string>
+    <string name="setup_wizard_services_description">ამ სერვისებით Google თქვენს სამსახურში ჩადგება და მათი ჩართვა ან გამორთვა ნებისმიერ დროს შეგიძლიათ. მონაცემები გამოიყენება Google-ის <annotation id="google_privacy">კონფიდენციალურობის დებულების</annotation> მიხედვით.</string>
+    <string name="setup_wizard_services_backup_restore_heading">დამარქაფება და აღდგენა</string>
+    <string name="setup_wizard_services_location_heading">მდებარეობა</string>
+    <string name="setup_wizard_services_communication_heading">კომუნიკაცია</string>
+    <string name="setup_wizard_services_backup"><b> შექმენით თქვენი ტელეფონის აპლიკაციების, აპლიკაციათა მონაცემების, პარამეტრების, პირადი ლექსიკონებისა და Wi-Fi პაროლების სარეზერვო ასლები </b> Google ანგარიშის გამოყენებით, თქვენ მარტივათ შეგიძლიათ მოგვიანებით მათი აღდგენა. <annotation id="backup_details"> შეიტყვეთ უფრო მეტი </annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b> შექმენით თქვენი აპლიკაციების, აპლიკაციათა მონაცემების, პარამეტრების, პირადი ლექსიკონებისა და Wi-Fi პაროლების სარეზერვო ასლები </b> Google ანგარიშის გამოყენებით, თქვენ მარტივათ შეგიძლიათ მოგვიანებით მათი აღდგენა.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">მონაცემები შეიცავს აპებს, აპის პარამეტრებს და Wi‑Fi პაროლებს.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">როდესაც ავტომატურ დამარქაფებას ჩართავთ, თქვენი მოწყობილობის მონაცემები პერიოდულად შეინახება თქვენს Google ანგარიშში. მარქაფებში შესაძლოა შევიდეს თქვენი აპის მონაცემების საქაღალდეების ინფორმაცია, როგორიც არის ვარიანტები, პარამეტრები, შეტყობინებები, ფოტოები და სხვა ფაილები.</string>
+    <string name="setup_wizard_services_location_sharing"><b>გამოიყენეთ Google-ის მდებარეობის სერვისი</b> თქვენი მდებარეობის დასადგენად. ამით Google-ში თქვენი მდებარეობის ანონიმური მონაცემები გაიგზავნება, მაშინაც კი, როდესაც აპები გაშვებული არ არის. <annotation id="location_details">შეიტყვეთ მეტი</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google-ის მდებარეობის სერვისი იყენებს ისეთ წყაროებს, როგორიც არის Wi‑Fi და ფიჭური ქსელები, რათა უფრო სწრაფად და ზუსტად ივარაუდოს თქვენი მოწყობილობის მდებარეობა. როდესაც Google-ის მდებარეობის სერვისებს ჩართავთ, თქვენი მოწყობილობა ისეთ რეჟიმში გადავა, რაც მდებარეობის ინფორმაციის დასადგეგნად Wi‑Fi და ფიჭურ ქსელებს იყენებს. ამის გამორთვა მდებარეობის პარამეტრებში შეგიძლიათ, თუ მხოლოდ GPS-ის გამოყენების რეჟიმს აირჩევთ. ამას ზოგჯერ მხოლოდ მოწყობილობის რეჟიმი ეწოდება.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>დაგვეხმარეთ გავაუმჯობესოთ მდებარეობის სერვისები</b> და დართეთ აპებს Wi‑Fi ქსელების სკანირების ნება, მაშინაც კი, როდესაც Wi‑Fi გამორთულია.</string>
+    <string name="setup_wizard_services_location_footnote">Google-ის მდებარეობის განსაზღვრის სერვისი იყენებს Wi‑Fi და სხვა სიგნალებს, რათა უკეთ და უფრო სწრაფად დაადგინოს მდებარეობა, ხშირად GPS-ზე ნაკლები ენერგიის გამოყენებით. ზოგიერთი მონაცემი შესაძლოა თქვენს მოწყობილობაზე იქნეს შენახული. მონაცემები შესაძლოა მაშინაც იქნეს შეგროვებული, როდესაც აპები გაშვებული არ არის.</string>
+    <string name="setup_wizard_services_play">Google Play-დან <b>სიახლეებისა და შეთავაზებების</b> მიღება.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>დაგვეხმარეთ გავაუმჯობესოთ Android-ის ფუნქციონალობა</b> დიაგნოსტიკისა და გამოყენების მონაცემების Google-ში ავტომატურად გამოგზავნით. ეს ინფორმაცია თქვენი იდენტიფიცირებისათვის არ გამოიყენება და დაეხმარება გუნდებს, რომლებიც მუშაობს ბატარეის წარმადობაზე, აპის ფუნქციონალობაზე და Google-ის ახალ ფუნქციებზე. <annotation id="usage_reporting_details">შეიტყვეთ მეტი</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"ეს არის თქვენი მოწყობილობის და თქვენ მიერ მისი გამოყენების შესახებ ზოგადი ინფორმაცია, მაგ. ბატარეის დონე, თქვენ მიერ აპების გამოყენების სიხშირე, თქვენი ქსელის კავშირების (მაგ. ფიჭური, Wi-Fi და Bluetooth) ხარისხი და ხანგრძლივობა, ასევე ავარიულად გათიშვის ანგარიშები, როდესაც შეფერხება წარმოიშვება. ეს Google-ის პროდუქტების ყველასთვის გასაუმჯობესებლად გამოიყენება და არ ასოცირდება თქვენს Google-ის ანგარიშთან. ზოგიერთი დაჯამებული ინფორმაცია ასევე დაეხმარება პარტნიორებს, მაგ. Android-ის დეველოპერებს, უკეთ შექმნან საკუთარი აპები და პროდუქტები.
+
+ამის ჩართვა ან გამორთვა ნებისმიერ დროს შეგიძლიათ Google პარამეტრების აპში. ეს არ ეხება თქვენი მოწყობილობის შესაძლებლობას გააგზავნოს ის ინფორმაცია, რომელიც მას აუცილებელი სერვისების მისაღებად სჭირდება, მაგ. სისტემური განახლებები ან უსაფრთხოება."</string>
+    <string name="setup_wizard_services_agreement">ამ ტელეფონმა შესაძლოა ასევე მიიღოს და დააყენოს განახლებები და აპები Google-ისგან, თქვენი ოპერატორისგან და თქვენი ტელეფონის მწარმოებლისგან. გაგრძელების შემთხვევაში, შესაძლოა ჩამოიტვირთოს და დაყენდეს ზოგიერთი აპი, თუმცა მათი ამოშლა ნებისმიერ დროს შეგიძლიათ.</string>
+</resources>

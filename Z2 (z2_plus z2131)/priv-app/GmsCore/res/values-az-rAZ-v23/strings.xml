@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"Bu, cihaz və batareya səviyyəsi, tətbiqlərin hansı aralıqda istifadə edilməsi, şəbəkə bağlantılarının müddəti və keyfiyyəti (mobil, Wi‑Fi və Bluetooth kimi) və bəzi şeylər yolunda getmədiyi zaman yaranan qəza protokolları kimi cihaz istifadəsi haqqında ümumi məlumatdır. Bu, Google məhsullarını və xidmətlərini hər kəs üçün inkişaf etdirəcək və övladınızın Google Hesabına heç bir təsiri olmayacaq. Bəzi toplanmış məlumatlar Android developerlər kimi ortaqlara tətbiqlərini və məhsullarını daha yaxşı etməyə də kömək edəcək.
+
+İstədiyiniz vaxt bunu Google > Ayarlar bölümündən aktiv və ya deaktiv edə bilərsiniz. Cihazların sistem güncəlləmələri və təhlükəsizliyi kimi əsas xidmətlərdən məlumatı qəbul edib göndərmə bacarığına təsir etməyəcək."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Avtomatik olaraq cihaz datası</b> (Wi-Fi parolları və zəng tarixçəsi) və tətbiq datasını (tətbiqlər tərəfindən saxlanılan ayar və fayllar) Google Dİskə yedəkləyin. <annotation id="backup_details">Ətraflı məlumat</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Avtomatik yedəkləməni aktiv etdikdə, cihaz və tətbiq datası dövri olaraq Google Diskdə şəxsi qovluqda saxlanılır. Tətbiq datası tətbiq tərəfindən saxlaılan istənilən data ola bilər (developer ayarlarından asılı olaraq) və bura kontakt, mesaj və foto kimi potensial həssas data da daxildir.
+
+Yedək data Disk yaddaşı kvotanıza təsir etməyəcək. Developerlər böyük faylları xidmətdən istisna etmək istədikdə onlar yedəklənməyəcək."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Hətta, Wi‑Fi və Bluetooth deaktiv olduqda, tətbiqlərə və xidmətlərə Wi‑Fi şəbəkələri və Bluetooth cihazlarını skan etməyə icazə verərək <b>məkan dəqiqliyini təkmilləşdirin</b>.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"Bu, cihaz və batareya səviyyəsi, tətbiqlərin hansı aralıqda istifadə edilməsi, şəbəkə bağlantılarının müddəti və keyfiyyəti (mobil, Wi‑Fi və Bluetooth kimi) və bəzi şeylər yolunda getmədiyi zaman yaranan qəza protokolları kimi cihaz istifadəsi haqqında ümumi məlumatdır. Bu, Google məhsullarını və xidmətlərini hər kəs üçün inkişaf etdirəcək və Google Hesabınıza heç bir təsiri olmayacaq. Bəzi toplanmış məlumatlar Android developerlər kimi ortaqlara tətbiqlərini və məhsullarını daha yaxşı etməyə də kömək edəcək
+
+İstədiyiniz vaxt bunu Google > Ayarlar bölümündən aktiv və ya deaktiv edə bilərsiniz. Cihazların sistem güncəlləmələri və təhlükəsizliyi kimi əsas xidmətlərdən məlumatı qəbul edib göndərmə bacarığına təsir etməyəcək."</string>
+</resources>

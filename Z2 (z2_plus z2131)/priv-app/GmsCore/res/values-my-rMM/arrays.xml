@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>ဘား</item>
+        <item>ကဖေး</item>
+        <item>ဓာတ်ဆီ ဆိုင်</item>
+        <item>ရုပ်ရှင် ရုံ</item>
+        <item>တည်းခိုခန်း</item>
+        <item>ည ကလပ်</item>
+        <item>ပြတိုက်</item>
+        <item>စားသောက်ဆိုင်</item>
+        <item>ဈေးရုံ</item>
+        <item>စတိုးဆိုင်</item>
+        <item>ကုန်စုံဆိုင် သို့မဟုတ် စူပါမားကက်</item>
+        <item>အခြား</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>အားနည်း</item>
+        <item>သင့်တင့်</item>
+        <item>ကောင်း</item>
+        <item>အားကောင်း</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>ဘလူးတုသ်</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>လွှတ်ထုတ်ရန်</item>
+        <item>ပြုစုရေးသားသူ</item>
+        <item>လက်လီ</item>
+        <item>သရုပ်ပြ</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ဖုန်းနှင့်ကား၏ဆော့ဖ်ဝဲဗားရှင်းများသဟဇာတမဖြစ်ပါ။အသေးစိတ်သိလိုပါက &lt;a href="android.com/auto">android.com/auto&lt;/a>သို့၀င်ရောက်ကြည့်ရှုပါ။</item>
+        <item>မမှန်ကန်သည့်အသံပိုင်း နှင့်/သို့မဟုတ် ရုပ်ပိုင်း ပြင်ဆင်သတ်မှတ်မှုကို ကားက ကြော်ငြာထားသည်။</item>
+        <item>"USB ချိတ်ဆက်မှု မှန်ကန်စွာအလုပ်မလုပ်ပါ။ထပ်ချိတ်ပါ။
+
+ နှစ်ဖက်စလုံးတွင် ကြိုးမှန်ကန်စွာအံကိုက်ရှိနေကြောင်းသေချာပါစေ၊
+အချက်အလက်ပါUSB ကြိုးဖြစ်ကြောင်းသေချာပါစေ၊
+ကားနှင့် ဖုန်းနှစ်ခုစလုံးအတွက် ရက်နှင့်အချိန်များအား မှန်ကန်စွာ ချိန်ကိုက်ထားကြောင်းသေချာပါစေ"</item>
+        <item>Android Autoဖုန်းလမ်းညွှန်ချက်ဖြင့်လုပ်ဆောင်နေရင်း ကားရပ်သွားသည်၊</item>
+        <item>တောင်းဆိုထားသည့်အတိုင်းAndroid Autoဖုန်းလမ်းညွှန်ချက် သတ်မှတ်ချိန်အရရပ်သွားသည်၊</item>
+        <item>ကား၏ဆော့ဖ်ဝဲမှာသတ်တမ်းလွန်နေသည်။အသေးစိတ်သိရန်နှင့် အကူအညီယူရန်စက်ထုတ်လုပ်ရေးကုမ္ဗဏီနှင့်ဆက်သွယ်ပါ</item>
+        <item>သင့်ကား၏ဆော့ဖ်ဝဲအားAndroid Auto လုံခြုံရေးစစ်ဆေးချက်မလုပ်ခဲ့ပါ။အသေးစိတ်သိရန်နှင့် အကူအညီယူရန်စက်ထုတ်လုပ်ရေးကုမ္ဗဏီနှင့်ဆက်သွယ်ပါ</item>
+        <item>သင့်ကား၏ဆော့ဖ်ဝဲအားAndroid Auto လုံခြုံရေးစစ်ဆေးချက်မလုပ်ခဲ့ပါ။ကား၏ရက်နှင့်အချိန်ကိုမှန်ကန်စွာချိန်ကိုက်ပြီး Android Autoတွင်လည်းလုပ်ဆောင်ပြီးကြောင်းသေချာပါစေ။</item>
+        <item>လုပ်ဆောင်မှု အချိန် ကုန်ဆုံး၏။ အမှားရှာဖွေမှု အစီရင်ခံစာ ပြင်ဆင်ပြီး ထင်မြင်ချက်ကို သတင်းပို့ပါ။</item>
+        <item>ဖွင့်တင်ကိရိယာ( launcher )မတပ်ဆင်သေးရပုံပေါ်၏။သင့်ဖုန်းတွင်မှန်ကန်စွာ တပ်ဆင်ထားပါသလား။</item>
+        <item>ရုပ်ပုံကားချပ် အဆင့်ဆင့်ပြဇယား မပြနိုင်ပါ။ အမှားရှာဖွေမှုအစီရင်ခံစာ ပြင်ဆင်ပြီး ထင်မြင်ချက်ကို သတင်းပို့ပါ။</item>
+        <item>ဖုန်းမှပို့သော စာတိုများကို ကားက အသိအမှတ်မပြုပါ။ ကား တစ်ခုခု မှားန​ေခြင်းဖြစ်မည်။</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>လေဆိပ်</item>
+        <item>ATM</item>
+        <item>ဘဏ်</item>
+        <item>ဘား</item>
+        <item>ကားကြီး ကွင်း</item>
+        <item>ကဖေး</item>
+        <item>စခန်းမြေ</item>
+        <item>သင်္ချိုင်း</item>
+        <item>ခရစ်ယာန် ဘုရားကျောင်း</item>
+        <item>မြို့တော်ခန်းမ</item>
+        <item>တည်ထောင်မှု</item>
+        <item>ဓာတ်ဆီ ဆိုင်</item>
+        <item>ကုန်စုံဆိုင် သို့မဟုတ် စူပါမားကက်</item>
+        <item>ဟိန္ဒူဘုရားကျောင်း</item>
+        <item>ဆေးရုံ</item>
+        <item>စာကြည့်တိုက်</item>
+        <item>တည်းခိုခန်း</item>
+        <item>ဗလီ</item>
+        <item>ရုပ်ရှင်ရုံ</item>
+        <item>ပြတိုက်</item>
+        <item>ပန်းခြံ</item>
+        <item>ကားရပ်စခန်း</item>
+        <item>ကိုးကွယ်ရာနေရာ</item>
+        <item>ရဲစခန်း</item>
+        <item>စာတိုက်ရုံး</item>
+        <item>စားသောက်ဆိုင်</item>
+        <item>ကျောင်း</item>
+        <item>စတိုးဆိုင်</item>
+        <item>မြေအောက် ဘူတာရုံ</item>
+        <item>ဘုရားရှိခိုး​ကျောင်း</item>
+        <item>ရထား ဘူတာ</item>
+        <item>အကူးပြောင်းဌာန</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>ဇန်နဝါရီ</item>
+        <item>ဖေဖော်ဝါရီ</item>
+        <item>မတ်</item>
+        <item>ဧပြီ</item>
+        <item>မေ</item>
+        <item>ဇွန်</item>
+        <item>ဇူလိုင်</item>
+        <item>သြဂုတ်</item>
+        <item>စက်တင်ဘာ</item>
+        <item>အောက်တိုဘာ</item>
+        <item>နိုဝင်ဘာ</item>
+        <item>ဒီဇင်ဘာ</item>
+    </string-array>
+</resources>

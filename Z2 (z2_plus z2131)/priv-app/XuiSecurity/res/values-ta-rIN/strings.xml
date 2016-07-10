@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">அமைப்புகள்</string>
+    <string name="hello_world">அனைவருக்கும் வணக்கம்!</string>
+    <string name="app_name_title">அனுமதிகள்</string>
+    <string name="app_list_button_text">செயலிகள்</string>
+    <string name="perms_list_button_text">அனுமதிகள்</string>
+    <string name="app_unit">செயலி(கள்)</string>
+    <string name="hold_perms">அனுமதி(கள்)</string>
+    <string name="empty_note">கோரப்பட்ட அனுமதிகளை எந்த செயலிகளும் வைத்திருக்கவில்லை</string>
+    <string name="empty_perm_note">இந்த செயலி எந்த அனுமதியையும் வைத்திருக்கவில்லை</string>
+    <string name="empty_app_note">இந்த அனுமதிகளை எந்த செயலியும் கோரவில்லை</string>
+    <string name="allow">ஏற்றுக்கொள்</string>
+    <string name="ask">கேட்டு செய்</string>
+    <string name="ignore">மறுத்துவிடு</string>
+    <string name="never_used">பயன்படுத்தப்படவில்லை</string>
+    <string name="button_cancel">ரத்துசெய்</string>
+    <string name="button_ok">சரி</string>
+    <string name="loading" />
+    <string name="permission_suggest">அனுமதிகள் பரிந்துரை</string>
+    <string name="suggest_cancel">ரத்துசெய்</string>
+    <string name="suggest_ignore">செயல்முடக்கு</string>
+    <string name="perms_denied">%1$s செயல்முடக்கப்பட்ட பிறகு, %2$s ஆல் %3$s ஐ செய்யமுடியாது.</string>
+    <string name="all_deny">அனைத்தையும் செயல்முடக்கு</string>
+    <string name="deny_all_normal">%1$sக்கு அனைத்து செயலிகளும் அனுமதிக்கப்படுவதில்லை</string>
+    <string name="continue_deny_all">தொடர்</string>
+    <string name="cancel_deny_all">ரத்துசெய்</string>
+    <string name="deny_all_title">அனைத்தையும் செயல்முடக்கு</string>
+    <string name="deny_all_alert">இந்த உருப்படி செயல்முடக்கப்படும்போது, %1$sக்கு அனைத்து செயலிகளும் அனுமதிக்கப்படாது. இதன் விளைவாக %2$s சரியாக இயங்காமல் போகலாம். தொடரவா?</string>
+    <string name="dot">,</string>
+    <string name="not_found_note">“没有找到提示语，请检查policy文件”</string>
+    <string name="restore_default">அனைத்தையும் திரும்பப்பெறு</string>
+    <string name="restore_alert_msg">அனைத்து செயலிகளின் %1$s அனுமதி இயல்புநிலைக்கு மீட்டெடுக்கப்படும்</string>
+</resources>

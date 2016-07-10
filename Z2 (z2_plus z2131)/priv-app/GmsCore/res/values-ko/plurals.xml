@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d자 초과</item>
+        <item quantity="one">%1$d자 초과</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d자 남음</item>
+        <item quantity="one">%1$d자 남음</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">Google 계정 %d개</item>
+        <item quantity="one">Google 계정 %d개</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">이 기기는 ^1에 Google 계정 및 데이터를 설정하는 데 사용되었습니다.</item>
+        <item quantity="one">이 기기는 ^1에 Google 계정 및 데이터를 설정하는 데 사용되었습니다.</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">1시간</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d분</item>
+        <item quantity="one">1분</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">오류로 인해 초대를 보내지 못했습니다.</item>
+        <item quantity="one">오류로 인해 초대를 보내지 못했습니다.</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">현재 초대를 보낼 수 없습니다. Google Play > 내 계정에서 초대를 다시 보낼 수 있습니다.</item>
+        <item quantity="one">현재 초대를 보낼 수 없습니다. Google Play > 내 계정에서 초대를 다시 보낼 수 있습니다.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">초대장이 %d개 남았습니다.</item>
+        <item quantity="one">초대장이 %d개 남음</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">새 메시지 %1$d개</item>
+        <item quantity="one">새 메시지 1개</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">내 앞에 %1$d명이 대기 중입니다.</item>
+        <item quantity="one">내 앞에 1명이 대기 중입니다.</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">서클 %d개</item>
+        <item quantity="one">서클 1개</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d일</item>
+        <item quantity="one">1일</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">시간</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d분</item>
+        <item quantity="one">1분</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d일</item>
+        <item quantity="one">1일</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">1시간</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d분</item>
+        <item quantity="one">1분</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">사용자 %d명</item>
+        <item quantity="one">사용자 1명</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">사용 앱: %1$s 외 %2$d개 앱</item>
+        <item quantity="one">사용 앱: %1$s 외 %2$d개 앱</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d일</item>
+        <item quantity="one">%d일</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">%d시간</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d분</item>
+        <item quantity="one">%d분</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s명</item>
+        <item quantity="one">%1$s명</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">팔로어 %1$,d명</item>
+        <item quantity="one">팔로어 1명</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">조회수 %1$,d회</item>
+        <item quantity="one">조회수 1회</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Google 계정 및 데이터 복사 중…</item>
+        <item quantity="one">Google 계정 및 데이터 복사 중…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Google 계정과 데이터로 ^1을(를) 설정하는 데 사용된 기기입니다.</item>
+        <item quantity="one">Google 계정과 데이터로 ^1을(를) 설정하는 데 사용된 기기입니다.</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">설치를 위해 %d초 후에 다시 부팅...</item>
+        <item quantity="one">설치를 위해 1초 후에 다시 부팅...</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">주소 옵션 %1$d개의 목록을 표시합니다.</item>
+        <item quantity="one">주소 옵션 1개의 목록을 표시합니다.</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">항목 %1$d개의 목록을 표시합니다.</item>
+        <item quantity="one">항목 1개의 목록을 표시합니다.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">결제 수단 옵션 %1$d개의 목록을 표시합니다.</item>
+        <item quantity="one">결제 수단 옵션 1개의 목록을 표시합니다.</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">포인트 제도 옵션 %1$d개의 목록을 표시합니다.</item>
+        <item quantity="one">포인트 제도 옵션 1개의 목록을 표시합니다.</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">분</item>
+        <item quantity="one">분</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 %2$d일&amp;lt;/price>마다 &amp;lt;price>%1$s의 요금이 자동으로 청구됩니다.</item>
+        <item quantity="one">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 매일 &amp;lt;price>%1$s&amp;lt;/price>의 요금이 자동으로 청구됩니다.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d일&amp;lt;/duration> 동안 %2$d일&amp;lt;/price>마다 &amp;lt;price>%1$s의 요금이 자동으로 청구됩니다.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d일&amp;lt;/duration> 동안 &amp;lt;price>매일 %1$s&amp;lt;/price>의 요금이 자동으로 청구됩니다.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 &amp;lt;/price>일마다 &amp;lt;price>%1$s의 요금과 관련 세금%2$d이 자동으로 청구됩니다.</item>
+        <item quantity="one">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 매일 &amp;lt;price>%1$s의 요금과 관련 세금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d일&amp;lt;/duration> 동안 %2$d일마다 &amp;lt;price>%1$s의 요금과 관련 세금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d일&amp;lt;/duration> 동안 매일 &amp;lt;price>%1$s의 요금과 관련 세금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 %2$d달마다 &amp;lt;price>%1$s의 요금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+        <item quantity="one">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 매달 &amp;lt;price>%1$s의 요금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d달&amp;lt;/duration> 동안 %2$d달마다 &amp;lt;price>%1$s의 요금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d달&amp;lt;/duration> 동안 매달 &amp;lt;price>%1$s의 요금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 %2$d달마다 &amp;lt;price>%1$s의 요금과 관련 세금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+        <item quantity="one">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 매달 &amp;lt;price>%1$s의 요금과 관련 세금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d달&amp;lt;/duration> 동안 %2$d달마다 &amp;lt;price>%1$s의 요금과 관련 세금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d달&amp;lt;/duration> 동안 매달 &amp;lt;price>%1$s의 요금과 관련 세금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 %2$d년마다 &amp;lt;price>%1$s의 요금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+        <item quantity="one">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 매년 &amp;lt;price>%1$s의 요금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d년&amp;lt;/duration> 동안 %2$d년마다 &amp;lt;price>%1$s의 요금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d년&amp;lt;/duration> 동안 매년 &amp;lt;price>%1$s의 요금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 %2$d년마다 &amp;lt;price>%1$s의 요금과 관련 세금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+        <item quantity="one">구독을 취소할 때까지 &amp;lt;start_time>%3$s&amp;lt;/start_time>부터 매년 &amp;lt;price>%1$s의 요금과 관련 세금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d년&amp;lt;/duration> 동안 %2$d년마다 &amp;lt;price>%1$s의 요금과 관련 세금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+        <item quantity="one">&amp;lt;start_time>%4$s&amp;lt;/start_time>부터 이후 &amp;lt;duration>%3$d년&amp;lt;/duration> 동안 매년 &amp;lt;price>%1$s의 요금과 관련 세금&amp;lt;/price>이 자동으로 청구됩니다.</item>
+    </plurals>
+</resources>

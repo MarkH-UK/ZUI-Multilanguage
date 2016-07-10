@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>बार</item>
+        <item>क्याफे</item>
+        <item>ग्यास स्टेशन</item>
+        <item>चलचित्र घर</item>
+        <item>आवास गृह</item>
+        <item>रात्री क्लब</item>
+        <item>संग्रहालय</item>
+        <item>रेष्टुरेन्ट</item>
+        <item>किनमेल केन्द्र</item>
+        <item>स्टोर</item>
+        <item>किराना पसल वा सुपरमार्केट</item>
+        <item>अन्य</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>कमजोर</item>
+        <item>ठीकै</item>
+        <item>राम्रो</item>
+        <item>बलियो</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>ब्लुटुथ</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>प्रकाशित</item>
+        <item>विकासकर्ता</item>
+        <item>फुटकर</item>
+        <item>डेमो</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>फोन र कारले नमिल्दो सफ्टवेयर सञ्चालन गरिरहेको छ। विवरणहरूको लागि, &lt;a href="android.com/auto"> android.com/auto&lt;/a> मा जानुहोस्</item>
+        <item>कारले अडियो र / वा भिडियो कन्फिगुरेसनको गलत सेट विज्ञापन गरेको छ।</item>
+        <item>"USB जडानले सही रूपमा काम गरिरहेको छैन। प्रयास गर्न सकिने कुराहरू: 
+
+ • केबल दुवै कुनामा  सही रूपमा मिलेको निश्चित गर्नुहोस्। 
+ • तपाईंसँग एक डेटा USB केबल भएको निश्चित गर्नुहोस्। 
+ • मिति र समय कार र तपाईँको फोन दुवैको लागि सही तरिकाले सेट भएको निश्चित गर्नुहोस्।"</item>
+        <item>कारले Android Auto सञ्चालन गर्न रोकेको छ।</item>
+        <item>अनुरोध गरिए अनुसार Android Auto सत्र रोकियो।</item>
+        <item>कारको सफ्टवेयरको मिति सकिएको हुन सक्छ। विवरणहरू र समर्थनको लागि, निर्मातालाई सम्पर्क गर्नुहोस्।</item>
+        <item>तपाईंको कारको सफ्टवेयरले Android Auto सुरक्षा जाँच पार गरेन। विवरणहरू र समर्थनको लागि, निर्मातालाई सम्पर्क गर्नुहोस्।</item>
+        <item>तपाईंको कारको सफ्टवेयरले Android Auto सुरक्षा जाँच पार गरेन। कारको मिति र समय सही रूपमा सेट गरेको, र Android Auto अद्यावधिक गरिएको निश्चित गर्नुहोस्।</item>
+        <item>कार्य समय सकियो। तपाईंले एक बग रिपोर्ट र फाइल प्रतिक्रिया लिनुपर्छ।</item>
+        <item>तपाईंले एक लन्चर स्थापना गरेको जस्तो देखिन्न, के तपाईँको फोन सही तरिकाले सेट अप गरिएको छ?</item>
+        <item>ग्राफिक्स पाइपलाइन भर्खर निष्क्रिय भयो। तपाईंले एक बग रिपोर्ट र फाइल प्रतिक्रिया लिनुपर्छ।</item>
+        <item>कारले फोनबाट आएका सन्देशको प्रतिक्रिया दिइरहेको छैन। कार गलत स्थितिमा हुन सक्छ।</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>विमानस्थल</item>
+        <item>ATM</item>
+        <item>बैंक</item>
+        <item>बार</item>
+        <item>बस स्टेशन</item>
+        <item>क्याफे</item>
+        <item>क्याम्प मैदान</item>
+        <item>चिहान</item>
+        <item>चर्च</item>
+        <item>सिटी हल</item>
+        <item>स्थापना</item>
+        <item>पेट्रोल पम्प</item>
+        <item>किराना पसल वा सुपरमार्केट</item>
+        <item>हिन्दु मन्दिर</item>
+        <item>अस्पताल</item>
+        <item>लाइब्रेरी</item>
+        <item>आवास गृह</item>
+        <item>मस्जिद</item>
+        <item>चलचित्र थिएटर</item>
+        <item>संग्रहालय</item>
+        <item>पार्क</item>
+        <item>पार्किंङ</item>
+        <item>पूजा गर्ने ठाउँ</item>
+        <item>पुलिस स्टेशन</item>
+        <item>हुलाक कार्यालय</item>
+        <item>रेष्टुरेन्ट</item>
+        <item>स्कूल</item>
+        <item>स्टोर</item>
+        <item>मेट्रो स्टेशन</item>
+        <item>सभाघर</item>
+        <item>रेल स्टेशन</item>
+        <item>ट्रान्जिट स्टेशन</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>जनवरी</item>
+        <item>फेब्रुअरी</item>
+        <item>मार्च</item>
+        <item>अप्रिल</item>
+        <item>मे</item>
+        <item>जून</item>
+        <item>जूलाई</item>
+        <item>अगस्ट</item>
+        <item>सेप्टेम्बर</item>
+        <item>अक्टोबर</item>
+        <item>नोभेम्बर</item>
+        <item>डिसेम्बर</item>
+    </string-array>
+</resources>

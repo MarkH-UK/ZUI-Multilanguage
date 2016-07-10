@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Yanıtla</item>
+        <item>Tümünü yanıtla</item>
+        <item>İlet</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Tek satır</item>
+        <item>İki satır</item>
+        <item>Üç satır</item>
+        <item>Dört satır</item>
+        <item>Beş satır</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Çok Küçük</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Çok Büyük</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>En son</item>
+        <item>Biçim</item>
+        <item>Ad</item>
+        <item>Kimden</item>
+        <item>Tarih</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Hızlı iletiler</item>
+        <item>Tüm klasörler</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Sonraki konuşma</item>
+        <item>Önceki konuşma</item>
+        <item>Konuşma listesi</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Yalnızca arşivlenen öğeleri göster</item>
+        <item>Yalnızca silinen öğeleri göster</item>
+        <item>Hem arşivlenen hem de silinen öğeleri göster</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Sildikten sonra sonraki konuşmayı göster</item>
+        <item>Sildikten sonra önceki konuşmayı göster</item>
+        <item>Sildikten sonra konuşma listesini göster</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Yalnızca arşivlenen öğeleri göster</item>
+        <item>Yalnızca silinen öğeleri göster</item>
+        <item>Hem arşivlenen hem de silinen öğeleri göster</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adres:</item>
+        <item>Tel:</item>
+        <item>Ad:</item>
+        <item>E-posta:</item>
+        <item>Cep Telefonu:</item>
+        <item>WeChat:</item>
+        <item>Faks:</item>
+        <item>Posta Kodu:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Teşekkürler,</item>
+        <item>Saygılarımla</item>
+        <item>Şuradan gönderildi</item>
+        <item>Orijinal e-posta</item>
+        <item>Şuradan gönderildi</item>
+        <item>Gönderen</item>
+        <item>Kimden</item>
+        <item>Bu e-posta</item>
+        <item>Bildirim</item>
+        <item>E-posta Bildirimi</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Eşitleme başarılı</item>
+        <item>Ağ bağlantısında hata</item>
+        <item>Oturum açılamadı</item>
+        <item>Güvenli bağlantıda hata</item>
+        <item>Eşitleme başarısız</item>
+        <item>Sunucu hatası</item>
+    </string-array>
+</resources>

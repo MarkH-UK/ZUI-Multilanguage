@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">Raja on ylitetty %1$d merkillä.</item>
+        <item quantity="one">Raja on ylitetty %1$d merkillä.</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d merkkiä jäljellä.</item>
+        <item quantity="one">%1$d merkki jäljellä.</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google-tiliä</item>
+        <item quantity="one">%d Google-tili</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Tällä laitteella otettiin käyttöön ^1 Google-tileilläsi ja niiden tiedoilla.</item>
+        <item quantity="one">Tällä laitteella otettiin käyttöön ^1 Google-tililläsi ja sen tiedoilla.</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">1 tunti</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">1 minuutti</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Näitä kutsuja ei lähetetty virheen vuoksi.</item>
+        <item quantity="one">Tätä kutsua ei lähetetty virheen vuoksi.</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Näitä kutsuja ei voi lähettää juuri nyt. Voit lähettää ne uudelleen Google Playssa valitsemalla Oma tili.</item>
+        <item quantity="one">Tätä kutsua ei voi lähettää juuri nyt. Voit lähettää sen uudelleen Google Playssa valitsemalla Oma tili.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d kutsua jäljellä</item>
+        <item quantity="one">%d kutsu jäljellä</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d uutta viestiä</item>
+        <item quantity="one">1 uusi viesti</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d henkilöä on edelläsi jonossa.</item>
+        <item quantity="one">1 henkilö on edelläsi jonossa.</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d piiriä</item>
+        <item quantity="one">1 piiri</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">1 päivä</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">1 tunti</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">1 minuutti</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">1 päivä</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">1 tunti</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">1 minuutti</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d henkilöä</item>
+        <item quantity="one">1 henkilö</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Käyttäjä: %1$s ja %2$d muuta sovellusta</item>
+        <item quantity="one">Käyttäjä: %1$s ja %2$d muu sovellus</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">%d päivä</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s henkilöä</item>
+        <item quantity="one">%1$s henkilö</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d seuraajaa</item>
+        <item quantity="one">Yksi seuraaja</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d näyttökertaa</item>
+        <item quantity="one">Yksi näyttökerta</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Kopioidaan Google-tilejä ja tietoja…</item>
+        <item quantity="one">Kopioidaan Google-tiliä ja tietoja…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Tällä laitteella määritettiin ^1 sekä Google-tilisi ja tiedot.</item>
+        <item quantity="one">Tällä laitteella määritettiin ^1 sekä Google-tilisi ja tiedot.</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Käynnistetään uudelleen ja asennetaan %d sekunnin kuluttua…</item>
+        <item quantity="one">Käynnistetään uudelleen ja asennetaan yhden sekunnin kuluttua…</item>
+    </plurals>
+    <plurals name="wallet_expanding_address_selector">
+        <item quantity="other">Näytetään %1$d osoitevaihtoehdon luettelo.</item>
+        <item quantity="one">Näytetään yhden osoitevaihtoehdon luettelo.</item>
+    </plurals>
+    <plurals name="wallet_expanding_expander_view">
+        <item quantity="other">Näytetään %1$d kohteen luettelo.</item>
+        <item quantity="one">Näytetään yhden kohteen luettelo.</item>
+    </plurals>
+    <plurals name="wallet_expanding_instrument_selector">
+        <item quantity="other">Näytetään %1$d maksutapavaihtoehdon luettelo.</item>
+        <item quantity="one">Näytetään yhden maksutapavaihtoehdon luettelo.</item>
+    </plurals>
+    <plurals name="wallet_expanding_loyalty_selector">
+        <item quantity="other">Näytetään %1$d kanta-asiakasohjelmavaihtoehdon luettelo</item>
+        <item quantity="one">Näytetään yhden kanta-asiakasohjelmavaihtoehdon luettelo</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">minuuttia</item>
+        <item quantity="one">minuutti</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s %2$d päivän välein&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s päivittäin&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s %2$d päivän välein&amp;lt;/price> seuraavien &amp;lt;duration>%3$d päivän ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s päivittäin&amp;lt;/price> seuraavien &amp;lt;duration>%3$d päivän ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot %2$d päivän välein&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot päivittäin&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot %2$d päivän välein&amp;lt;/price> seuraavien &amp;lt;duration>%3$d päivän ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot päivittäin&amp;lt;/price> seuraavien &amp;lt;duration>%3$d päivän ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s %2$d kuukauden välein&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s kuukausittain&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s %2$d kuukauden välein&amp;lt;/price> seuraavien &amp;lt;duration>%3$d kuukauden ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s kuukausittain&amp;lt;/price> seuraavien &amp;lt;duration>%3$d kuukauden ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot %2$d kuukauden välein&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot kuukausittain&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot %2$d kuukauden välein&amp;lt;/price> seuraavien &amp;lt;duration>%3$d kuukauden ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot kuukausittain&amp;lt;/price> seuraavien &amp;lt;duration>%3$d kuukauden ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s %2$d vuoden välein&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s vuosittain&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s %2$d vuoden välein&amp;lt;/price> seuraavien &amp;lt;duration>%3$d vuoden ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s vuosittain&amp;lt;/price> seuraavien &amp;lt;duration>%3$d vuoden ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot %2$d vuoden välein&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot vuosittain&amp;lt;/price> &amp;lt;start_time>%3$s&amp;lt;/start_time> alkaen, kunnes peruutat tilauksesi.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot %2$d vuoden välein&amp;lt;/price> seuraavien &amp;lt;duration>%3$d vuoden ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+        <item quantity="one">Sinulta veloitetaan automaattisesti &amp;lt;price>%1$s sekä sovellettavat verot vuosittain&amp;lt;/price> seuraavien &amp;lt;duration>%3$d vuoden ajan&amp;lt;/duration> &amp;lt;start_time>%4$s&amp;lt;/start_time> alkaen.</item>
+    </plurals>
+</resources>

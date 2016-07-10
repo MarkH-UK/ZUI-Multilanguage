@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_tab_height">52.0dip</dimen>
+    <dimen name="live_action_pic_scroll_up_height">56.0dip</dimen>
+    <dimen name="app_update_dialog_height">360.0dip</dimen>
+    <dimen name="app_update_dialog_width">300.0dip</dimen>
+    <dimen name="channel_spinner_width">200.0dip</dimen>
+    <dimen name="main_splash_logo_padding_bottom">40.0dip</dimen>
+    <dimen name="main_splash_logo_padding_left">110.0dip</dimen>
+    <dimen name="main_splash_slogan_padding_bottom">120.0dip</dimen>
+    <dimen name="main_splash_slogan_padding_left">55.0dip</dimen>
+</resources>

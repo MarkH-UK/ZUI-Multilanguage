@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="fromDegrees" format="float" />
+    <attr name="toDegrees" format="float" />
+    <attr name="childSize" format="dimension" />
+    <attr name="leftHolderWidth" format="dimension" />
+    <attr name="tagColor" format="reference|color" />
+    <attr name="tagWidth" format="reference|dimension" />
+    <attr name="tagHeight" format="reference|dimension" />
+    <attr name="tagBitmap" format="reference" />
+    <attr name="orientation">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="roundWidth" format="dimension" />
+    <attr name="roundHeight" format="dimension" />
+    <attr name="gravity">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="center" value="0x00000011" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="clip_horizontal" value="0x00000008" />
+        <flag name="clip_vertical" value="0x00000080" />
+        <flag name="fill" value="0x00000077" />
+        <flag name="fill_horizontal" value="0x00000007" />
+        <flag name="fill_vertical" value="0x00000070" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="entries" format="reference" />
+    <attr name="animationDuration" format="integer" min="0" />
+    <attr name="gspacing" format="dimension" />
+    <attr name="unselectedAlpha" format="float" />
+    <attr name="ptrRefreshableViewBackground" format="reference|color" />
+    <attr name="ptrHeaderBackground" format="reference|color" />
+    <attr name="ptrHeaderTextColor" format="reference|color" />
+    <attr name="ptrHeaderSubTextColor" format="reference|color" />
+    <attr name="ptrMode">
+        <flag name="both" value="0x00000003" />
+        <flag name="disabled" value="0x00000000" />
+        <flag name="manualOnly" value="0x00000004" />
+        <flag name="pullDownFromTop" value="0x00000001" />
+        <flag name="pullFromEnd" value="0x00000002" />
+        <flag name="pullFromStart" value="0x00000001" />
+        <flag name="pullUpFromBottom" value="0x00000002" />
+    </attr>
+    <attr name="ptrShowIndicator" format="reference|boolean" />
+    <attr name="ptrDrawable" format="reference" />
+    <attr name="ptrDrawableStart" format="reference" />
+    <attr name="ptrDrawableEnd" format="reference" />
+    <attr name="ptrOverScroll" format="reference|boolean" />
+    <attr name="ptrHeaderTextAppearance" format="reference" />
+    <attr name="ptrSubHeaderTextAppearance" format="reference" />
+    <attr name="ptrAnimationStyle">
+        <flag name="flip" value="0x00000001" />
+        <flag name="rotate" value="0x00000000" />
+    </attr>
+    <attr name="ptrScrollingWhileRefreshingEnabled" format="reference|boolean" />
+    <attr name="ptrListViewExtrasEnabled" format="reference|boolean" />
+    <attr name="ptrRotateDrawableWhilePulling" format="reference|boolean" />
+    <attr name="ptrAdapterViewBackground" format="reference|color" />
+    <attr name="ptrDrawableTop" format="reference" />
+    <attr name="ptrDrawableBottom" format="reference" />
+    <attr name="isDropDownStyle" format="boolean" />
+    <attr name="isOnBottomStyle" format="boolean" />
+    <attr name="isAutoLoadOnBottom" format="boolean" />
+    <attr name="pstsIndicatorColor" format="color" />
+    <attr name="pstsUnderlineColor" format="color" />
+    <attr name="pstsDividerColor" format="color" />
+    <attr name="pstsIndicatorHeight" format="dimension" />
+    <attr name="pstsUnderlineHeight" format="dimension" />
+    <attr name="pstsDividerPadding" format="dimension" />
+    <attr name="pstsTabPaddingLeftRight" format="dimension" />
+    <attr name="pstsScrollOffset" format="dimension" />
+    <attr name="pstsTabBackground" format="reference" />
+    <attr name="pstsShouldExpand" format="boolean" />
+    <attr name="pstsTextAllCaps" format="boolean" />
+    <attr name="circleSelectColor" format="color" />
+    <attr name="borderSelectColor" format="color" />
+    <attr name="radius" format="dimension" />
+    <attr name="disableColor" format="color" />
+    <attr name="enableColor" format="color" />
+    <attr name="checked" format="boolean" />
+    <attr name="circleColor" format="color" />
+    <attr name="borderColor" format="color" />
+    <attr name="borderWidth" format="dimension" />
+    <attr name="barWidth" format="dimension" />
+    <attr name="barColor" format="color" />
+    <attr name="spinWidth" format="dimension" />
+    <attr name="spinHeight" format="dimension" />
+    <attr name="spinColor" format="color" />
+    <attr name="src" format="reference" />
+    <attr name="duration" format="integer" />
+    <attr name="progress" format="float" />
+    <attr name="clockwise" format="boolean" />
+    <attr name="text" format="string" />
+    <attr name="textColor" format="color" />
+    <attr name="textSize" format="dimension" />
+    <attr name="textPadding" format="dimension" />
+    <attr name="icon" format="reference" />
+    <attr name="arrow" format="reference" />
+    <attr name="number" format="integer" />
+    <attr name="numberColor" format="color" />
+    <attr name="numberSize" format="dimension" />
+    <attr name="lineWidth" format="dimension" />
+    <attr name="lineLeftMargin" format="dimension" />
+    <attr name="lineColor" format="color" />
+    <attr name="mode">
+        <enum name="left" value="0" />
+        <enum name="right" value="1" />
+    </attr>
+    <attr name="viewAbove" format="reference" />
+    <attr name="viewBehind" format="reference" />
+    <attr name="behindOffset" format="dimension" />
+    <attr name="behindWidth" format="dimension" />
+    <attr name="behindScrollScale" format="float" />
+    <attr name="touchModeAbove">
+        <enum name="fullscreen" value="1" />
+        <enum name="margin" value="0" />
+    </attr>
+    <attr name="touchModeBehind">
+        <enum name="fullscreen" value="1" />
+        <enum name="margin" value="0" />
+    </attr>
+    <attr name="shadowDrawable" format="reference" />
+    <attr name="shadowWidth" format="dimension" />
+    <attr name="fadeEnabled" format="boolean" />
+    <attr name="fadeDegree" format="float" />
+    <attr name="selectorEnabled" format="boolean" />
+    <attr name="selectorDrawable" format="reference" />
+</resources>

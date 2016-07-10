@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>بار</item>
+        <item>کیفے</item>
+        <item>گیس اسٹیشن</item>
+        <item>مووی تھیٹر</item>
+        <item>لاجنگ</item>
+        <item>نائٹ کلب</item>
+        <item>عجائب گھر</item>
+        <item>ریسٹورنٹ</item>
+        <item>شاپنگ سنٹر</item>
+        <item>اسٹور</item>
+        <item>گروسری سٹور یا سپر مارکیٹ</item>
+        <item>دیگر</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>کمزور</item>
+        <item>مناسب</item>
+        <item>اچھا</item>
+        <item>مضبوط</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>بلوٹوتھ</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>ریلیز</item>
+        <item>ڈیولپر</item>
+        <item>ریٹیل</item>
+        <item>ڈیمو</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>‏فون اور کار میں غیر موزوں سافٹ ویئر چل رہا ہے۔ تفصیلات کیلئے، &lt;a href="android.com/auto">android.com/auto&lt;/a> ملاحظہ کریں</item>
+        <item>کار نے آڈیو اور/یا ویڈیو کنفیگریشنز کے ایک غلط سیٹ کی تشہیر کی ہے۔</item>
+        <item>"‏USB کنکشن مناسب طریقے سے کام نہیں کر رہا ہے۔ آزمانے کیلئے چیزیں: 
+
+• یقینی بنائیں کہ کیبل ٹھیک طریقے سے دونوں کنارے پر فٹ ہے۔ 
+•یقینی بنائیں کہ آپ کے پاس ایک ڈیٹا USB کیبل ہے۔ 
+•یقینی بنائیں کہ تاریخ اور وقت کو کار اور آپ کے فون دونوں کیلئے ٹھیک طریقے سے سیٹ کیا گیا ہے۔"</item>
+        <item>‏کار نے Android Auto چلانا بند کر دیا ہے۔</item>
+        <item>‏درخواست کے مطابق Android Auto سیشن بند ہو گیا ہے۔</item>
+        <item>ممکن ہے کار کا سافٹ ویئر پرانا ہو۔ تفصیلات اور سپورٹ کیلئے مینوفیکچرر سے رابطہ کریں۔</item>
+        <item>‏آپ کی کار کے سافٹ ویئر نے Android Auto سیکیورٹی چیکس کو پاس نہیں کیا۔ تفصیلات اور سپورٹ کیلئے مینوفیکچرر سے رابطہ کریں۔</item>
+        <item>‏آپ کی کار کے سافٹ ویئر نے Android Auto سیکیورٹی چیکس کو پاس نہیں کیا۔ یقینی بنائیں کہ کار کی تاریخ اور وقت کو ٹھیک طریقے سے سیٹ کیا گیا ہے اور Android Auto کو اپ ڈیٹ کر دیا گیا ہے۔</item>
+        <item>کارروائی کی میعاد ختم ہوگئی۔ آپ کو بگ کی ایک رپورٹ حاصل کر کے تاثرات کو جمع کرانا چاہیے۔</item>
+        <item>ایسا نہیں لگتا ہے کہ آپ نے لانچر انسٹال کر رکھا ہے، کیا آپ کا فون ٹھیک طریقے سے ترتیب دیا ہوا ہے؟</item>
+        <item>گرافکس پائپ لائن ابھی ابھی خراب ہوگئی۔ آپ کو بگ کی ایک رپورٹ حاصل کر کے تاثرات کو جمع کرانا چاہیے۔</item>
+        <item>کار فون کے پیغامات کا جواب نہیں دے رہی ہے۔ کار غلط حالت میں ہو سکتی ہے۔</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>ہوائی اڈا</item>
+        <item>ATM</item>
+        <item>بینک</item>
+        <item>بار</item>
+        <item>بس اسٹیشن</item>
+        <item>کیفے</item>
+        <item>کیمپ گراؤنڈ</item>
+        <item>قبرستان</item>
+        <item>چرچ</item>
+        <item>سٹی ہال</item>
+        <item>اسٹیبلشمنٹ</item>
+        <item>گیس اسٹیشن</item>
+        <item>گروسری سٹور یا سپر مارکیٹ</item>
+        <item>ہندو مندر</item>
+        <item>ہسپتال</item>
+        <item>لائبریری</item>
+        <item>لاجنگ</item>
+        <item>مسجد</item>
+        <item>مووی تھیٹر</item>
+        <item>عجائب گھر</item>
+        <item>پارک</item>
+        <item>پارکنگ</item>
+        <item>عبادت گاہ</item>
+        <item>پولیس اسٹیشن</item>
+        <item>پوسٹ آفس</item>
+        <item>ریسٹورنٹ</item>
+        <item>اسکول</item>
+        <item>اسٹور</item>
+        <item>سب وے اسٹیشن</item>
+        <item>کنیسہ</item>
+        <item>ریلوے اسٹیشن</item>
+        <item>ٹرانزٹ اسٹیشن</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>جنوری</item>
+        <item>فروری</item>
+        <item>مارچ</item>
+        <item>اپریل</item>
+        <item>مئی</item>
+        <item>جون</item>
+        <item>جولائی</item>
+        <item>اگست</item>
+        <item>ستمبر</item>
+        <item>اکتوبر</item>
+        <item>نومبر</item>
+        <item>دسمبر</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>اشتراک روکیں</item>
+        <item>15 منٹ</item>
+        <item>30 منٹ</item>
+        <item>1 گھنٹہ</item>
+        <item>غیر معینہ مدت</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>اشتراک روکیں</item>
+        <item>15 منٹ</item>
+        <item>30 منٹ</item>
+        <item>1 گھنٹہ</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

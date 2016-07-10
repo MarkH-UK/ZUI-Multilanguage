@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/nv_efs" android:key="lenovo_nv_efs_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:persistent="true" android:title="@string/nv_para" android:key="toggle_nv_configuration" android:defaultValue="true" />
+    <ListPreference android:entries="@array/nv_para_choices" android:title="@string/nv_mode_title" android:key="nv_set_key" android:dialogTitle="@string/nv_para" android:entryValues="@array/nv_para_values" android.dependency="toggle_nv_configuration" />
+    <EditTextPreference android:title="@string/nv_idx" android:key="nv_idx" android:dialogTitle="@string/nv_para" android.dependency="toggle_nv_configuration" />
+    <EditTextPreference android:title="@string/nv_value" android:key="nv_value" android:summary="@string/nv_summary" android:dialogTitle="@string/nv_para" android.dependency="toggle_nv_configuration" />
+    <CheckBoxPreference android:persistent="true" android:title="@string/efs_para" android:key="toggle_efs_configuration" android:defaultValue="false" />
+    <ListPreference android:entries="@array/efs_para_choices" android:title="@string/efs_mode_title" android:key="efs_set_key" android:dialogTitle="@string/efs_para" android:entryValues="@array/efs_para_values" android.dependency="toggle_efs_configuration" />
+    <EditTextPreference android:title="@string/efs_source" android:key="efs_source_path" android:defaultValue="/policyman/carrier_policy.xml" android:dialogTitle="@string/efs_para" android.dependency="toggle_efs_configuration" />
+    <EditTextPreference android:title="@string/efs_target" android:key="efs_target_path" android:dialogTitle="@string/efs_para" android.dependency="toggle_efs_configuration" />
+    <EditTextPreference android:title="@string/efs_value" android:key="efs_value" android:dialogTitle="@string/efs_para" android.dependency="toggle_efs_configuration" />
+</PreferenceScreen>

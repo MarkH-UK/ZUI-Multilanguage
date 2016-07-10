@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="title_divider">
+        <item name="android:background">@color/title_divider</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/divider_height</item>
+    </style>
+    <style name="item_divider" parent="@style/title_divider">
+        <item name="android:background">@color/item_divider</item>
+    </style>
+    <style name="bottom_divider" parent="@style/title_divider">
+        <item name="android:background">@color/bottom_divider</item>
+    </style>
+    <style name="bottom_divider_shadow" parent="@style/title_divider">
+        <item name="android:background">@color/bottom_divider_shadow</item>
+    </style>
+    <style name="item_divider_vertical" parent="@style/item_divider">
+        <item name="android:layout_width">@dimen/divider_height</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="custom_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_custom_shape</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="checkbox">
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:clickable">false</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:checked">false</item>
+    </style>
+    <style name="progress_bar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="progress_bar_small">
+        <item name="android:layout_width">12.0dip</item>
+        <item name="android:layout_height">12.0dip</item>
+    </style>
+    <style name="text_tips">
+        <item name="android:textSize">@dimen/text_s</item>
+        <item name="android:textColor">@color/tips</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="text_tips_desc">
+        <item name="android:textSize">@dimen/text_s</item>
+        <item name="android:textColor">@color/tips_desc</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="text_tips_title">
+        <item name="android:textSize">@dimen/text_l</item>
+        <item name="android:textColor">@color/text_tips</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="round_btn_base">
+        <item name="android:textSize">@dimen/text_l</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/button_height</item>
+        <item name="android:layout_marginLeft">@dimen/margin_m</item>
+        <item name="android:layout_marginRight">@dimen/margin_m</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="round_btn_blue" parent="@style/round_btn_base">
+        <item name="android:textColor">@color/text_white_selector</item>
+        <item name="android:background">@drawable/btn_bg_blue_selector</item>
+    </style>
+    <style name="round_btn_white" parent="@style/round_btn_base" />
+    <style name="round_btn_guide" parent="@style/round_btn_base">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/guide_button</item>
+    </style>
+    <style name="common_list">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:listSelector">@drawable/transparent</item>
+        <item name="android:cacheColorHint">@drawable/transparent</item>
+        <item name="android:divider">@null</item>
+    </style>
+    <style name="item_main_text">
+        <item name="android:textSize">@dimen/text_l</item>
+        <item name="android:textColor">@color/text_item_main_selector</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="item_desc_text">
+        <item name="android:textSize">@dimen/text_s</item>
+        <item name="android:textColor">@color/text_item_desc_selector</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="item_tips_text">
+        <item name="android:textSize">@dimen/text_s</item>
+        <item name="android:textColor">@color/text_item_tips_selector</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="common_input">
+        <item name="android:padding">@dimen/margin_xs</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="dialog_animation_bottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit</item>
+    </style>
+    <style name="LeAppTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@color/content_background</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="TranslucentAppTheme" parent="@style/LeAppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="GuideAppTheme" parent="@style/LeAppTheme">
+        <item name="android:windowBackground">@drawable/guide_bg</item>
+    </style>
+    <style name="GuideLoginAppTheme" parent="@style/LeAppTheme">
+        <item name="android:windowBackground">@color/content_background</item>
+    </style>
+    <style name="AppTheme.Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="CTA.Dialog" parent="@android:style/Theme.DeviceDefault.Dialog.Alert">
+        <item name="android:maxHeight">800.0dip</item>
+    </style>
+    <style name="LeAnimation.Activity" parent="@android:style/Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/common_slide_right_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/common_slide_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/common_slide_left_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/common_slide_right_out</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard latin:touchPositionCorrectionData="@array/touch_position_correction_data_default" latin:keyWidth="17.999994%p"
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <include latin:keyboardLayout="@xml/rows_number" />
+</Keyboard>

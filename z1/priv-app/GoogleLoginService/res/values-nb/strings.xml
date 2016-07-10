@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play Tjenester-feil</string>
+    <string name="common_google_play_services_notification_needs_installation_title">En app krever installasjon av Google Play Tjenester.</string>
+    <string name="common_google_play_services_notification_needs_update_title">En app krever at Google Play Tjenester oppdateres.</string>
+    <string name="common_android_wear_notification_needs_update_text">En app krever en oppdatering av Android Wear-appen.</string>
+    <string name="common_google_play_services_needs_enabling_title">En app krever Google Play Tjenester for å aktiveres.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Forespurt av %1$s</string>
+    <string name="common_google_play_services_install_title">Installer Google Play Tjenester</string>
+    <string name="common_google_play_services_install_text_phone">Denne appen kan ikke kjøres uten Google Play Tjenester, som ikke er installert på telefonen din.</string>
+    <string name="common_google_play_services_install_text_tablet">Denne appen kan ikke kjøres uten Google Play Tjenester, som ikke er installert på nettbrettet ditt.</string>
+    <string name="common_google_play_services_install_button">Installer Google Play Tjenester</string>
+    <string name="common_google_play_services_enable_title">Aktiver Google Play Tjenester</string>
+    <string name="common_google_play_services_enable_text">Denne appen fungerer ikke med mindre du aktiverer Google Play Tjenester.</string>
+    <string name="common_google_play_services_enable_button">Aktiver Google Play Tjenester</string>
+    <string name="common_google_play_services_update_title">Oppdater Google Play Tjenester</string>
+    <string name="common_android_wear_update_title">Oppdater Android Wear</string>
+    <string name="common_google_play_services_update_text">Denne appen kan ikke kjøres før du oppdaterer Google Play Tjenester.</string>
+    <string name="common_android_wear_update_text">Denne appen kjører ikke med mindre du oppdaterer Android Wear-appen.</string>
+    <string name="common_google_play_services_network_error_title">Nettverksfeil</string>
+    <string name="common_google_play_services_network_error_text">Du må ha datatilkobling for å koble deg til Google Play-tjenester.</string>
+    <string name="common_google_play_services_invalid_account_title">Ugyldig konto</string>
+    <string name="common_google_play_services_invalid_account_text">Den angitte kontoen finnes ikke på enheten. Velg en annen konto.</string>
+    <string name="common_google_play_services_unknown_issue">Det oppsto et ukjent problem med Google Play Tjenester.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play-tjenester</string>
+    <string name="common_google_play_services_unsupported_text">Google Play Tjenester, som noen av appene er avhengige av, støttes ikke av enheten. Ta kontakt med produsenten for å få hjelp.</string>
+    <string name="common_google_play_services_update_button">Oppdater</string>
+    <string name="common_signin_button_text">Logg på</string>
+    <string name="common_signin_button_text_long">Logg inn med Google</string>
+    <string name="common_open_on_phone">Åpne på telefonen</string>
+    <string name="setup_wizard_next_button_label">Neste</string>
+    <string name="setup_wizard_back_button_label">Tilbake</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Hopp over</string>
+    <string name="down_button_label">Mer</string>
+    <string name="cancel_button_label">Avbryt</string>
+    <string name="try_again_button_label">Prøv på nytt</string>
+    <string name="close_button_label">Lukk</string>
+    <string name="url_load_unsuccessful_message">Android-enheten er ikke koblet til en datatjeneste. Hvis du vil se denne informasjonen nå, kan du åpne %s i en nettleser.</string>
+    <string name="sign_in_agreement">Ved å logge deg på godtar du Googles <annotation id="tos">vilkår</annotation>, <annotation id="google_privacy">personvernregler</annotation> og <annotation id="play_tos">vilkårene for }Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">Ytterligere personvernregler</string>
+    <string name="google_terms_of_service_title">Vilkår for bruk av Google</string>
+    <string name="google_privacy_policy_title">Personvernregler for Google</string>
+    <string name="google_plus_privacy_policy_title">Personvern for Google Pluss</string>
+    <string name="google_play_tos_title">Vilkår for Google Play</string>
+    <string name="chrome_tos_title">Vilkår for bruk av Chrome</string>
+    <string name="chrome_privacy_title">Merknad om personvern for Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android-enheten din er ikke koblet til et Wi-Fi-nettverk. Hvis du ønsker å se denne informasjonen nå, går du til %s i en nettleser.</string>
+    <string name="services_activity_title">Google-tjenester</string>
+    <string name="services_backup_heading">Sikkerhetskopiering</string>
+    <string name="services_location_heading">Posisjon</string>
+    <string name="services_security_heading">Sikkerhet</string>
+    <string name="services_personalization_heading">Brukertilpasning</string>
+    <string name="services_communication_heading">Kommunikasjon</string>
+    <string name="security_verify_apps_summary">Tillat at Google sjekker alle installerte apper for potensielt skadelig atferd som kan påvirke sikkerheten til enheten eller dataene dine.</string>
+    <string name="name_title">Navn</string>
+    <string name="name_text">Navnet ditt brukes til å gi telefonen din og Google-tjenestene et personlig preg.</string>
+    <string name="first_name">Fornavn</string>
+    <string name="last_name">Etternavn</string>
+    <string name="cant_be_blank">Feltet må fylles ut.</string>
+    <string name="sharedUserLabel">Google-tjenester</string>
+    <string name="app_label">Google-kontoadministrator</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Logg på</string>
+    <string name="create_button_label">Opprett en konto</string>
+    <string name="not_now_button_label">Ikke nå</string>
+    <string name="new_button_label">Ny</string>
+    <string name="existing_button_label">Eksisterende</string>
+    <string name="done">OK</string>
+    <string name="edit_text_help">Trykk i et tekstfelt for å begynne å skrive</string>
+    <string name="add_a_google_account">Legg til en Google-konto</string>
+    <string name="captcha_title">Du må skrive inn kontrollord</string>
+    <string name="show_error_title">Feil</string>
+    <string name="server_error">Det oppsto et problem ved kommunisering med Google-tjenerne.</string>
+    <string name="server_error_help">Prøv på nytt senere.</string>
+    <string name="network_unreliable">Kan ikke opprette en pålitelig datatilkobling til tjeneren.</string>
+    <string name="network_unreliable_help">Dette kan være et midlertidig problem, eller Android-enheten er kanskje ikke klargjort for datatjenester. Hvis problemet fortsetter, kontakter du brukerstøtten.</string>
+    <string name="network_unreliable_help_wifi_only">Dette kan være et midlertidig problem. Prøv på nytt, eller koble til et annet Wi-Fi-nettverk.</string>
+    <string name="invalid_login_character">Ugyldig tegn. Kun 0–9, a–z, A–Z og mellomrom er tillatt.</string>
+    <string name="invalid_password_character">Passordet inneholder et ugyldig tegn.</string>
+    <string name="calendar">Google Kalender</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Feltet må fylles ut.</string>
+    <string name="plus_query_title">Oppgrader til Google+</string>
+    <string name="plus_query_text">Med Google+ blir deling på nettet nesten som deling i det virkelige liv.</string>
+    <string name="circles_subtitle">En strøm av ting du liker</string>
+    <string name="circles_text">Hold kontakten med nære venner, og utforsk felles interesser.</string>
+    <string name="uploads_subtitle">Automatisk sikkerhetskopiering av bilder</string>
+    <string name="uploads_text">Sikkerhetskopier bildene dine når du tar dem, med gratis og privat lagring.</string>
+    <string name="huddle_subtitle">Videosamtaler og meldinger</string>
+    <string name="huddle_text">Ha glede av tekstmeldinger, bilder og gratis videosamtaler i grupper med Hangouts.</string>
+    <string name="plus_declined_button_label">Ikke nå</string>
+    <string name="plus_accepted_button_label">Kom i gang</string>
+    <string name="plus_name_check_title">Kontakter Google+ …</string>
+    <string name="plus_name_check_text">Dette kan ta noen minutter.</string>
+    <string name="plus_faq_title">Velkommen til Google+!</string>
+    <string name="plus_faq_text" formatted="false">"Du får en offentlig profil med Google+, og denne er nyttig for venner som vil finne deg på nettet. Alle som kjenner til e-postadressen din kan finne og se profilen din.
+
+Du kan bruke +1-knappen overalt på nettet for å gi verden dine anbefalinger. Profilen din og dine +1 vil vises offentlig i søk, i annonser og rundt omkring på nettet.
+
+Men til å begynne med viser profilen bare navnet ditt (%s %s). Du kan legge til bilde, informasjon om deg selv og andre opplysninger senere, når du begynner å ta i bruk Google+."</string>
+    <string name="dasher_warning">Administratoren hos %s eier og forvalter alle dataene dine på Google+ og kan slette eller endre profilen din når som helst uten din tillatelse.</string>
+    <string name="profile_info_title">Profilen din</string>
+    <string name="profile_text">Oppgi grunnleggende informasjon i profilen din. Du kan legge til et bilde og andre opplysninger når du begynner å bruke Google+.</string>
+    <string name="occupation">Yrke</string>
+    <string name="current_city">Gjeldende by/sted</string>
+    <string name="picassa_info_title">Picasa og Google+</string>
+    <string name="picassa_info_text" formatted="false">Bildene og videoene dine på Picasa Nettalbum blir tilgjengelige på Google+, og kommentarene står oppført som skrevet av %s %s i stedet for %s. Når du deler bilder på Google+, kan mottakerne videresende dem til andre. Albumenes synlighetsinnstillinger endres ikke, og du kan når som helst begrense dem slik at de ikke kan videresendes fritt.</string>
+    <string name="name_title_plus">Ditt Google+-navn</string>
+    <string name="name_title_local">Denne telefonen tilhører …</string>
+    <string name="name_text_local">Telefonen bruker navnet ditt til å gi enkelte apper et personlig preg.</string>
+    <string name="name_progress_title">Vent litt.</string>
+    <string name="bad_name_title">Vil du bruke dette navnet?</string>
+    <string name="invalid_name_title">Du kan ikke bruke dette navnet</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Hvis du ønsker å bruke dette navnet på Google+, må vi ta en vurdering av det først. Hvis det bryter med retningslinjene våre for navn, kan profilen din bli sperret. Dette vil i så fall begrense muligheten du har til å bruke Google-produkter som krever en aktiv profil.
+
+"<annotation id="learn_more">Les mer</annotation></string>
+    <string name="invalid_name_text">Du kan ikke bruke dette navnet på Google+ fordi det inneholder ugyldige tegn.</string>
+    <string name="invalid_nickname_text">Du kan ikke bruke dette navnet på Google+ fordi det inneholder ugyldige tegn. Prøver du å bruke et kallenavn, et tidligere navn eller en tittel? Du kan legge til slike i profilen din etter at du har registrert deg.</string>
+    <string name="invalid_other_text">Dette navnet kan ikke brukes på Google+.</string>
+    <string name="bad_name_agree_text">Jeg samtykker, og ønsker å bruke dette navnet.</string>
+    <string name="bad_name_decline_button_label">Oppdater navn</string>
+    <string name="bad_name_agree_button_label">Send inn navnet til vurdering</string>
+    <string name="bad_name_skip_button_label">Hopp over Google+</string>
+    <string name="photo_title">Bilde av deg</string>
+    <string name="photo_text">Dette bildet blir brukt i kontaktoppføringen din. Du kan endre det senere i appen Personer.</string>
+    <string name="photo_text_es">Ta et bilde som vennene dine får se på Google+. Du kan velge et nytt bilde senere.</string>
+    <string name="photo_button_label">Ta bilde</string>
+    <string name="retake_photo_button_label">Ta bilde på nytt</string>
+    <string name="photo_failure">Kunne ikke starte kameraet.</string>
+    <string name="crop_failure">Kunne ikke beskjære bildet.</string>
+    <string name="photo_description">Bilde av deg</string>
+    <string name="communicating_message">Telefonen din kontakter Google for å lagre informasjon til kontoen din. Dette kan ta opptil fem minutter.</string>
+    <string name="creating_account_title">Lagrer konto …</string>
+    <string name="checking_username_message">"Telefonen din kontakter Google for å se om brukernavnet du ønsker å bruke, er tilgjengelig.
+
+Dette kan ta et par minutter."</string>
+    <string name="plus_failure_title">Bli med i Google+ senere</string>
+    <string name="plus_failure_new_account_text">Google-kontoen har blitt opprettet, men forespørselen om å bli med i Google+ gikk ikke gjennom. Prøv på nytt senere ved å gå til plus.google.com i en hvilken som helst nettleser.</string>
+    <string name="plus_failure_text">Forespørselen om å bli med i Google+ gikk ikke gjennom. Prøv på nytt senere ved å gå til plus.google.com i en hvilken som helst nettleser.</string>
+    <string name="provisioned_login_title">Skriv inn passordet</string>
+    <string name="provisioned_welcome">Hei, %s!</string>
+    <string name="provisioned_welcome_2">"Skriv inn passordet ditt for:
+%s"</string>
+    <string name="provisioned_incorrect_login">Ikke %s?</string>
+    <string name="login_title">Skriv inn e-postadresse og passord</string>
+    <string name="login_task_title">Logger på</string>
+    <string name="password">Passord</string>
+    <string name="restore_wifi">Gjenopprett og koble til kjente Wi-Fi-nettverk.</string>
+    <string name="sign_in_agreement_multi_user">Ved å logge på godtar du Googles <annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation>, i tillegg til <annotation id="play_tos">vilkårene for Google Play</annotation>". 
+
+Husk at andre brukere kan godta oppdaterte apptillatelser på dine vegne. Som med alle datamaskiner bør du bare dele dette nettbrettet med folk du stoler på."</string>
+    <string name="sign_in_agreement_with_chrome">Ved å logge deg på, godtar du Googles <annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation>, samt <annotation id="chrome_tos">vilkårene</annotation> og <annotation id="chrome_privacy">personvernreglene</annotation> for Chrome og <annotation id="play_tos">vilkårene</annotation> for Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Ved å logge på godtar du Googles <annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation>, <annotation id="chrome_tos">vilkårene</annotation> og <annotation id="chrome_privacy">personvernreglene</annotation> for Chrome og Google <annotation id="play_tos">vilkårene</annotation>" for Google Play. 
+
+Husk at andre brukere kan godta oppdaterte apptillatelser på dine vegne. Som med alle datamaskiner bør du bare dele dette nettbrettet med folk du stoler på."</string>
+    <string name="create_prompt">" Har du ingen Google-konto? "<annotation id="create_account">Opprett en konto nå</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Logg på med Google-kontoen:</string>
+    <string name="invalid_username">Teksten du har skrevet inn er ikke et gyldig brukernavn.</string>
+    <string name="captcha_instructions">Skriv inn teksten du ser her:</string>
+    <string name="create_google_account">Velg brukernavn</string>
+    <string name="create_google_account_text">Med Google-kontoen din får du Gmail – Googles e-posttjeneste. Den fungerer på alle enheter, blokkerer nettsøppel og mer.</string>
+    <string name="account_already_has_gmail">Kontoen har allerede Gmail.</string>
+    <string name="error_account_disabled">"Denne kontoen er deaktivert. 
+
+ (Hvis du vil ha mer informasjon, kan du gå til https://google.com/accounts i en nettleser.)"</string>
+    <string name="no_network">Du har ikke nettverksforbindelse.</string>
+    <string name="no_network_help">Dette kan være et midlertidig problem, eller det kan hende at Android-enheten din ikke er klargjort for datatjenester. Prøv på nytt når du er koblet til et mobilnettverk, eller koble til et Wi-Fi-nettverk.</string>
+    <string name="no_network_help_wifi_only">Dette kan være et midlertidig problem. Prøv på nytt, eller koble til et annet Wi-Fi-nettverk.</string>
+    <string name="error_login_failed">"Brukernavn og passord samsvarer ikke. Prøv på nytt.
+
+Gå til google.com/accounts/recovery/ for å gjenopprette kontoinformasjonen din."</string>
+    <string name="error_account_not_verified">"Denne kontoen har ikke blitt bekreftet. Åpne e-postbekreftelsen, og følg linken for å bekrefte kontoen.
+
+(Du kan be om nytt passord ved å gå til http://www.google.com/accounts/recovery på en datamaskin.)"</string>
+    <string name="exit_menu_item">Avslutt nettleserpålogging</string>
+    <string name="creating_profile">Oppretter profilen din</string>
+    <string name="checking_account">Kontrollerer tilgjengelighet …</string>
+    <string name="is_not_available">Brukernavnet <b>^1</b> er ikke tilgjengelig.</string>
+    <string name="suggestions_hint">Berør for å få forslag</string>
+    <string name="suggest_username_next_button_label">Endre brukernavn</string>
+    <string name="hint_size">" "<b>^1</b> inneholder færre enn 6 tegn eller flere enn 30 tegn.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> inneholder ingen bokstaver.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" kan bare inneholde bokstaver,
+tall og punktum."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> bruker ikke Gmail.</string>
+    <string name="sign_in_browser">Nettleserpålogging</string>
+    <string name="alternatives_list_title">Foreslåtte brukernavn</string>
+    <string name="password_title">Opprett passord</string>
+    <string name="choose_a_password">Passord</string>
+    <string name="confirm_password">Skriv inn passordet på nytt</string>
+    <string name="too_short">For kort</string>
+    <string name="security_questions_title">Sikkerhetsspørsmål</string>
+    <string name="answer">" "<b>Svar</b></string>
+    <string name="password_mismatch">Passordene samsvarer ikke. Prøv på nytt.</string>
+    <string name="eight_chars_min">Må minimum ha 8 tegn</string>
+    <string name="verify_your_profile">Bekreft profilen din</string>
+    <string name="error_not_logged_in">Brukeren er ikke pålogget.</string>
+    <string name="error_username_unavailable">Brukernavnet er ikke tilgjengelig.</string>
+    <string name="error_bad_password">Passordet er ikke sikkert nok eller inneholder ugyldige tegn. Prøv på nytt.</string>
+    <string name="error_bad_username">Ugyldig brukernavn.</string>
+    <string name="existing_account_error_title">Kontoen finnes allerede</string>
+    <string name="existing_account_error_text">Det finnes allerede en ^1-konto på denne Android-enheten.</string>
+    <string name="submission_title">Beklager…</string>
+    <string name="submission_error_text">Det oppsto en feil. Prøv på nytt.</string>
+    <string name="sync_intro_title">Kontosynkronisering</string>
+    <string name="account_tos_title">Fullføring av konto</string>
+    <string name="account_tos_plus_title">Fullfør registreringen på Google+</string>
+    <string name="i_accept">Godta</string>
+    <string name="i_decline">Ikke opprett konto</string>
+    <string name="allow_personalized_content">La Google bruke din informasjon til å personliggjøre innhold og annonser på nettsteder fra andre enn Google.</string>
+    <string name="enable_web_history">Slå på Nettlogg</string>
+    <string name="learn_more"><annotation id="learn_more">Les mer</annotation></string>
+    <string name="account_creation_tos">Ved å fortsette godtar du Googles <annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation> samt <annotation id="play_tos"> vilkårene for Google Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Ved å fortsette godtar du Googles <annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation> samt <annotation id="chrome_tos">vilkårene</annotation> og <annotation id="chrome_privacy">personvernreglene</annotation> for Chrome og <annotation id="play_tos">vilkårene</annotation> for Google Play.</string>
+    <string name="gender_prompt">Kjønn</string>
+    <string name="gender_hint">Kjønn</string>
+    <string name="account_pre_intro_title">Er du på Google?</string>
+    <string name="account_pre_intro_default_message">"Har du Google-konto?
+
+Hvis du bruker Gmail eller Google Apps, er svaret ja."</string>
+    <string name="account_pre_intro_yes">Ja</string>
+    <string name="account_pre_intro_no">Nei</string>
+    <string name="account_intro_title">Google-konto</string>
+    <string name="account_intro_required_title">Drevet av Google</string>
+    <string name="account_intro_recommended_title">Gå for Google</string>
+    <string name="account_intro_default_message">Du trenger aldri å miste ting igjen. En Google-konto holder alt trygt.</string>
+    <string name="account_intro_simple_message">Vil du legge til en eksisterende konto, eller opprette en ny?</string>
+    <string name="account_intro_learn_more">Finn ut mer</string>
+    <string name="learn_more_title">Les mer</string>
+    <string name="learn_more_account_intro">"Med en Google-konto kan du:
+
+"<li><ul>se og organisere all informasjonen du innhenter – uansett hvor du er.</ul></li>"
+
+"<li><ul>automatisk sikkerhetskopiere alle dataene dine, som for eksempel e-post, kontakter, musikk og bilder.</ul></li>"
+
+"<li><ul>bruke Google-tjenester uansett hvor du befinner deg, inkludert Kontakter, Kalender, Google Maps og flere.</ul></li></string>
+    <string name="learn_more_account_intro_title">Om Google-kontoer</string>
+    <string name="learn_more_bad_name">Google+ krever at du bruker det vanlige navnet ditt. Profilen skal representere en person, ikke en bedrift, organisasjon eller familie, og skal inkludere fornavn og etternavn på ett språk uten yrkestitler eller unødvendig tegnsetting. Etter registrering kan du legge inn kallenavn eller andre navn som du assosieres med, i feltet Andre navn i profilen din.</string>
+    <string name="learn_more_bad_name_title">Om retningslinjene for navn</string>
+    <string name="wait_for_device_country_title">Konfigurering av konto</string>
+    <string name="wait_for_device_country_msg">Innhenter informasjon om telefonen. Dette kan ta opptil 30 sekunder.</string>
+    <string name="recovery_title">Gjenoppretting av passord for Google</string>
+    <string name="recovery_wait_title">Kontakter Google …</string>
+    <string name="cannot_talk_to_server_msg">Enheten fikk ikke kontakt med Google.</string>
+    <string name="recovery_skip_label">Hopp over</string>
+    <string name="recovery_retry_label">Prøv på nytt</string>
+    <string name="recovery_message_set">"Hvis du glemmer passordet ditt, er det kjekt å ha en gjenopprettingsmetode.
+
+Google gir deg muligheten til å gjenopprette passordet ditt via SMS eller en alternativ e-postadresse.
+
+Dette trinnet er høyst anbefalt. "<annotation id="help_url">Finn ut mer</annotation></string>
+    <string name="recovery_message_verify">"Det er fort gjort å glemme passord.
+
+Bekreft telefonnummeret eller gjenopprettingsadressen din nå. Det gjør det enklere å gjenopprette tilgangen til innholdet ditt på Google og Google Play. "<annotation id="help_url">Finn ut mer</annotation></string>
+    <string name="recovery_yes_button_label">Konfigurer gjenopprettingsalternativer</string>
+    <string name="recovery_yes_button_label_verify">Bekreft gjenopprettingsalternativene</string>
+    <string name="recovery_later_button_label">Ikke nå</string>
+    <string name="recovery_input_screen_message">Denne gjenopprettelsesinformasjonen gjelder for %s</string>
+    <string name="secondary_email_hint">Reserve-e-post</string>
+    <string name="secondary_email_invalid">Ugyldig e-postadresse</string>
+    <string name="secondary_email_same_as_primary">Kan ikke være det samme som primær e-postadresse</string>
+    <string name="phone_number_hint">Telefonnummer</string>
+    <string name="phone_number_invalid_character">Ugyldige tegn i telefonnummer</string>
+    <string name="phone_number_invalid">Ugyldig telefonnummer</string>
+    <string name="country_invalid">Dette landet er ikke tillatt</string>
+    <string name="recovery_server_error">Feil i kommunikasjonen med tjeneren. Prøv på nytt etter en stund.</string>
+    <string name="account_recovery_info">Hvis du mister passordet ditt, kan du besvare et sikkerhetsspørsmål og få tilsendt en tilbakestillingskobling til en annen adresse.</string>
+    <string name="secondary_email_label">Gjenopprettingsadresse</string>
+    <string name="invalid_email">"E-postadressen du har skrevet inn er ikke gyldig.
+Eksempel: joe@example.com"</string>
+    <string name="invalid_email_primary">Gjenopprettingsadressen kan ikke være den samme som den du oppretter.</string>
+    <string name="backup_consent_message">"Bruk Google-kontoen din til å ta sikkerhetskopier av appene og innstillingene dine (som for eksempel bokmerker og Wi-Fi-passord), samt andre data. Hvis du tidligere har sikkerhetskopiert kontoen din, kan du gjenopprette den til denne telefonen nå.
+
+Under Innstillinger kan du endre innstillingene dine for sikkerhetskopiering."</string>
+    <string name="backup_consent_message_no_restore">"Bruk Google-kontoen din til å ta sikkerhetskopier av appene og innstillingene dine (som for eksempel bokmerker og Wi-Fi-passord), samt andre data.
+
+Under Innstillinger kan du endre innstillingene dine for sikkerhetskopiering."</string>
+    <string name="restoring_title">Gjenoppretter …</string>
+    <string name="restoring_message">Telefonen din kontakter Google for å gjenopprette kontoen din. Dette kan ta en stund.</string>
+    <string name="gls_notification_login_error">Trykk for å logge på kontoen din.</string>
+    <string name="gls_ui_add_account_title">Konfigurering av konto</string>
+    <string name="gls_ui_activity_title">Logg på</string>
+    <string name="gls_ui_activity_title_browser_signin">Logg på</string>
+    <string name="gls_ui_activity_title_checking_in">Forbereder …</string>
+    <string name="gls_ui_activity_authenticating">Autentiserer ...</string>
+    <string name="gls_dmagent_activity_activate_message">" Domenet ditt krever administrasjon av mobil enhet. Installer Google Apps Device Policy-appen for å sikre at sikkerhetsretningslinjene for kontoen  "<b>^1</b> overholdes.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Aktiver</string>
+    <string name="gls_dmagent_activity_download_message">" Domenet ditt krever administrasjon av mobil enhet. Installer Google Apps Device Policy-appen for å sikre at sikkerhetsretningslinjene for kontoen  "<b>^1</b> overholdes.</string>
+    <string name="gls_dmagent_activity_download_retry_button">Last ned</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Du har skrevet inn feil passord eller kontoen er endret. Skriv inn passordet på nytt.</string>
+    <string name="permlab_googleAuthPassword">tilgang til passord for Google-kontoer</string>
+    <string name="permdesc_googleAuthPassword">Gir apper direkte tilgang til passord for Google-kontoer du har konfigurert.</string>
+    <string name="permlab_googleMailSwitch">velg Gmail eller Google Mail i tekst</string>
+    <string name="permdesc_googleMailSwitch">Lar apper bytte mellom «Gmail» og «Google Mail» som navnet som vises.</string>
+    <string name="sync_item_title">Synkroniser %s</string>
+    <string name="grant_credentials_permission_message_footer">Ønsket tillatelse:</string>
+    <string name="grant_credentials_permission_message_app">Disse appene ønsker tilgang til Google-kontoen din fra nå av:</string>
+    <string name="grant_permissions_header_text">Forespørsel om tillatelse</string>
+    <string name="allow">Gi tilgang</string>
+    <string name="deny">Nei takk</string>
+    <string name="permission_request_notification_with_subtitle">"Tillatelse forespurt
+for kontoen %s"</string>
+    <string name="notification_title">Påloggingsfeil for %1$s</string>
+    <string name="account_setup_title">Google-konto</string>
+    <string name="login_activity_title">Logg på</string>
+    <string name="relogin_activity_title">Skriv inn passordet på nytt</string>
+    <string name="show_error_activity_title">Kunne ikke logge på</string>
+    <string name="login_activity_task_title">Logger på …</string>
+    <string name="login_activity_task_msg">Dette kan ta noen minutter.</string>
+    <string name="prepare_account_setup_task_title">Forbereder kontokonfigurasjonen …</string>
+    <string name="prepare_account_setup_task_msg">Dette kan ta noen minutter.</string>
+    <string name="sync_intro_activity_title">Synkroniser kontoen din</string>
+    <string name="username">E-post</string>
+    <string name="error_invalid_second_factor">Bruk et appspesifikt passord i stedet for det vanlige kontopassordet.</string>
+    <string name="error_needs_browser">For å gå til kontoen din må du logge deg inn på nettet. Trykk på Neste for å starte nettleserpålogging.</string>
+    <string name="google_play_opt_in">Hold meg oppdatert på nyheter og tilbud fra Google Play.</string>
+    <string name="google_settings_header_title">Personvern</string>
+    <string name="maps_settings_title">Maps og Latitude</string>
+    <string name="location_settings_title">Posisjon</string>
+    <string name="search_settings_title">Søk</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Annonser</string>
+    <string name="location_network_based">Googles posisjonstjeneste</string>
+    <string name="location_neighborhood_level">Tillat at anonyme posisjonsdata sendes til Google. La også tillatte apper bruke data fra kilder som Wi-Fi og mobilnettverk til å fastslå den omtrentlige posisjonen din.</string>
+    <string name="use_location_title">Posisjon og Google-søk</string>
+    <string name="use_location_summary">La Google bruke posisjonen din til å forbedre søkeresultater og andre tjenester</string>
+    <string name="backup_consent_yes_agree">Du kan bruke Google-kontoen til å sikkerhetskopiere apper, innstillinger (for eksempel bokmerker og Wi-Fi-passord) og andre data.</string>
+    <string name="restore_consent_yes_agree">Før apper, innstillinger og andre data over til denne telefonen, som du tidligere sikkerhetskopierte til Google-kontoen din.</string>
+    <string name="audit_logging_summary">Send aktivitets- og diagnostikkinformasjon til Google automatisk for å forbedre produktene våre og beskytte enheten din.</string>
+    <string name="no_back_msg">Kan ikke gå tilbake til forrige trinn.</string>
+    <string name="setup_wizard_title">Konfigurasjonsveiviser</string>
+    <string name="setup_wizard_services_activity_title">Google-tjenester</string>
+    <string name="setup_wizard_services_description">Med disse tjenestene jobber Google for deg, og du kan slå dem på eller av når som helst. Data brukes i samsvar med Googles <annotation id="google_privacy">personvernregler</annotation>.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Sikkerhetskopiering og gjenoppretting</string>
+    <string name="setup_wizard_services_location_heading">Plassering</string>
+    <string name="setup_wizard_services_communication_heading">Kommunikasjon</string>
+    <string name="setup_wizard_services_backup"><b>Sikkerhetskopiér apper, appdata, innstillinger, personlige ordbøker og Wi-Fi-passord fra telefonen din</b> ved bruk av Google-kontoen din, slik at du lett kan gjenopprette dem senere. <annotation id="backup_details">Finn ut mer</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Sikkerhetskopiér appene, appdataene, innstillingene, de personlige ordbøkene og Wi-Fi-passordene</b> dine ved bruk av Google-kontoen din, slik at du lett kan gjenopprette dem senere.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Dataene inkluderer apper, appinnstillinger, systeminnstillinger og Wi-Fi-passord.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Når du slår på automatisk sikkerhetskopiering, lagres enhetsdataene jevnlig i Google-kontoen din. Sikkerhetskopier kan inneholde informasjon i appdata-mappene dine, f.eks. preferanser, innstillinger, meldinger, bilder og andre filer.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Bruk Googles posisjonstjenester</b> slik at apper kan fastslå posisjoner. Dette innebærer at du sender anonymiserte posisjonsdata til Google, selv når du ikke kjører noen apper. <annotation id="location_details">Finn ut mer</annotation>.</string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Googles posisjonstjenester bruker kilder som Wi-Fi og mobilnettverk for kjappere og mer presist å fastslå posisjonen til enheten din. Når du slår på Googles posisjonstjenester, brukes både Wi-Fi- og mobilnettverk for å levere posisjonsinformasjon. Du kan slå av denne funksjonen i posisjonsinnstillingene ved å velge en modus der bare GPS brukes. Denne modusen kalles ofte for «Bare bruk enheten».</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Du kan bidra til å forbedre posisjonstjenestene</b> ved å tillate at apper og tjenester kan skanne etter Wi‑Fi-nettverk selv når Wi‑Fi er slått av.</string>
+    <string name="setup_wizard_services_location_footnote">Googles posisjonstjeneste bruker Wi-Fi og andre signaler for å finne posisjoner raskere og mer presist, ofte med lavere strømforbruk enn GPS. Noen data kan lagres på enheten din. Data kan samles inn selv når ingen apper kjører.</string>
+    <string name="setup_wizard_services_play"><b>Hold meg oppdatert</b> med nyheter og tilbud fra Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Du kan bidra til å forbedre Android-opplevelsen din</b> ved å sende bruksdata og diagnostiske data automatisk til Google. Denne informasjonen blir ikke brukt til å identifisere deg, men er nyttig for teamene som jobber med ting som batterilevetid, app-ytelse og nye Google-funksjoner. <annotation id="usage_reporting_details">Finn ut mer</annotation>.</string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Dette er generell informasjon om enheten din og hvordan du bruker den, så som batterinivå, hvor ofte du bruker appene, kvaliteten og varigheten av nettverkstilkoblingene (f.eks. mobil, Wi-Fi og Bluetooth) og programstopprapporter når ting ikke fungerer som de skal. Informasjonen brukes til å forbedre Googles produkter og tjenester for alle, og knyttes ikke til Google-kontoen din. I tillegg kan noe av den innsamlede informasjonen bidra til at partnere, som for eksempel Android-utviklere, kan forbedre appene og produktene sine.
+
+Du kan når som helst slå denne funksjonen på eller av, og den påvirker ikke enhetens evne til å sende informasjonen den trenger for å motta nødvendige tjenester, som for eksempel system- og sikkerhetsoppdateringer."</string>
+    <string name="setup_wizard_services_agreement">Denne telefonen kan også motta og installere apper og oppdateringer fra Google, operatøren din og telefonprodusenten. Hvis du fortsetter, kan det hende at det blir lastet ned og installert noen apper. Du kan når som helst fjerne disse.</string>
+</resources>

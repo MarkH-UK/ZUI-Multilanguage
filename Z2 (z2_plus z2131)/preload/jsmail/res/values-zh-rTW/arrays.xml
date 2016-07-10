@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>回覆</item>
+        <item>全部回覆</item>
+        <item>轉寄</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>一行</item>
+        <item>兩行</item>
+        <item>三行</item>
+        <item>四行</item>
+        <item>五行</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>超小</item>
+        <item>小型</item>
+        <item>標準</item>
+        <item>大型</item>
+        <item>超大</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>近期</item>
+        <item>格式</item>
+        <item>名稱</item>
+        <item>寄件人</item>
+        <item>日期</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>系統</item>
+        <item>快速訊息</item>
+        <item>所有資料夾</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>下一個會話</item>
+        <item>上一個會話</item>
+        <item>會話清單</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>僅顯示封存的項目</item>
+        <item>僅顯示刪除的項目</item>
+        <item>同時顯示封存和刪除的項目</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>刪除後顯示下一個會話</item>
+        <item>刪除後顯示上一個會話</item>
+        <item>刪除後顯示會話清單</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>僅顯示封存的項目</item>
+        <item>僅顯示刪除的項目</item>
+        <item>同時顯示封存和刪除的項目</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>地址:</item>
+        <item>電話:</item>
+        <item>姓名:</item>
+        <item>電子郵件:</item>
+        <item>行動電話:</item>
+        <item>WeChat:</item>
+        <item>傳真:</item>
+        <item>郵遞區號:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>謝謝，</item>
+        <item>謹致問候</item>
+        <item>傳送自我的</item>
+        <item>原始電子郵件</item>
+        <item>傳送自我的</item>
+        <item>傳送來源</item>
+        <item>寄件人</item>
+        <item>此電子郵件</item>
+        <item>免責聲明</item>
+        <item>電子郵件免責聲明</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>已成功同步</item>
+        <item>網路連線發生錯誤</item>
+        <item>無法登入</item>
+        <item>安全連線發生錯誤</item>
+        <item>無法同步</item>
+        <item>伺服器錯誤</item>
+    </string-array>
+</resources>

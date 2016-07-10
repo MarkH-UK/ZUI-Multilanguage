@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/zen_mode_settings_title" android:key="zen_mode_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:persistent="false" android:title="@string/zen_by_user" android:key="zen_settings" />
+    <PreferenceCategory android:state_expanded="true" android:title="@string/zen_mode_automation_settings_title_category" android:key="automation_settings_root" android:summary="@string/zen_mode_automation_settings_title" />
+    <PreferenceCategory android:state_expanded="true" android:key="priority_settings_root" android:summary="@string/zen_mode_priority_settings_title">
+        <Preference android:persistent="false" android:layout="@layout/preference_label" android:title="@string/zen_mode_messages" android:key="messages" android:widgetLayout="@layout/preference_widget_forward" />
+        <Preference android:persistent="false" android:layout="@layout/preference_label" android:title="@string/zen_calls_mode" android:key="calls" android:widgetLayout="@layout/preference_widget_forward" />
+        <SwitchPreference android:persistent="false" android:title="@string/zen_mode_repeat_callers" android:key="repeat_callers" />
+    </PreferenceCategory>
+    <PreferenceCategory android:state_expanded="true" android:key="repeat_callers_message" android:summary="@string/zen_mode_repeat_callers" />
+    <SwitchPreference android:persistent="false" android:title="@string/abs_zen_settings" android:key="abs_settings" />
+</PreferenceScreen>

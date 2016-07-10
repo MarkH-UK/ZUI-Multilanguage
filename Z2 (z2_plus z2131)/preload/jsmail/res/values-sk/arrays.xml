@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Odpovedať</item>
+        <item>Odpovedať všetkým</item>
+        <item>Preposlať</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Jeden riadok</item>
+        <item>Dve riadky</item>
+        <item>Tri riadky</item>
+        <item>Štyri riadky</item>
+        <item>Päť riadok</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Drobný</item>
+        <item>Malý</item>
+        <item>Normálny</item>
+        <item>Veľký</item>
+        <item>Veľký</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Aktuálne</item>
+        <item>Formát</item>
+        <item>Názov</item>
+        <item>Od</item>
+        <item>Dátum</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Systém</item>
+        <item>Rýchle správy</item>
+        <item>Všetky zložky</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Dalšia konverzácia</item>
+        <item>Predchádzajúca konverzácia</item>
+        <item>Zoznam konverzácií</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Zobraziť iba archivované položky</item>
+        <item>Zobraziť iba odstránené položky</item>
+        <item>Zobraziť ako archivované, tak odstránené položky</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Zobraziť dalšiu konverzáciu po zmazaní</item>
+        <item>Zobraziť predchádzajúcu konverzáciu po zmazaní</item>
+        <item>Zobraziť zoznam konverzácií po zmazaní</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Show archived items only</item>
+        <item>Show deleted items only</item>
+        <item>Show both archived and deleted items</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresa:</item>
+        <item>Tel .:</item>
+        <item>Meno:</item>
+        <item>E-mail:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>PSČ:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Ďakujeme,</item>
+        <item>S pozdravom,</item>
+        <item>Odoslať z</item>
+        <item>Pôvodný e-mail</item>
+        <item>Odoslať z</item>
+        <item>Odoslať z</item>
+        <item>Od</item>
+        <item>Tento e-mail</item>
+        <item>Zrušiť</item>
+        <item>Zrušiť e-mail</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Úspešná synchronizácia</item>
+        <item>Chyba pripojenia k sieti</item>
+        <item>Prihlásenie sa nepodarilo</item>
+        <item>Chyba v zabezpečenia siete</item>
+        <item>Synchronizácia zlyhala</item>
+        <item>Chyba servera</item>
+    </string-array>
+</resources>

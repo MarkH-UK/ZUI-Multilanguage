@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="endByCount">
+        <item quantity="other">；Repeat%dtimes</item>
+        <item quantity="one">；Once</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Every%dDay</item>
+        <item quantity="one">Everyday</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Every%1$dWeek%2$s</item>
+        <item quantity="one">Weekly%2$s</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d Activities</item>
+        <item quantity="one">1 Activities</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%dActivities</item>
+        <item quantity="one">" 1 Activities"</item>
+    </plurals>
+</resources>

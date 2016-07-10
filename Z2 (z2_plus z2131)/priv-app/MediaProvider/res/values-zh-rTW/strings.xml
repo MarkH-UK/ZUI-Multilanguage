@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">媒體</string>
+    <string name="app_label">媒體儲存空間</string>
+    <string name="artist_label">演出者</string>
+    <string name="ringtone_default">預設鈴聲</string>
+    <string name="notification_sound_default">預設通知音效</string>
+    <string name="alarm_sound_default">預設鬧鐘音效</string>
+    <string name="root_images">圖片</string>
+    <string name="root_videos">影片</string>
+    <string name="root_audio">音訊</string>
+    <string name="ringtone_silent">無</string>
+    <string name="call_ringtone">電話鈴聲</string>
+    <string name="short_message">訊息鈴聲</string>
+    <string name="notification">通知提示音</string>
+    <string name="pick_from_music">從音樂選擇鈴聲</string>
+    <string name="pick_from_recorder">從錄音選擇鈴聲</string>
+    <string name="no_ringtone">暫無此類鈴聲</string>
+    <string name="no_music">無音樂</string>
+    <string name="no_record">無錄音</string>
+</resources>

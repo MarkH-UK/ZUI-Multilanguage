@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Responder</item>
+        <item>Responder a todos</item>
+        <item>Reencaminhar</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Uma linha</item>
+        <item>Duas linhas</item>
+        <item>Três linhas</item>
+        <item>Quatro linhas</item>
+        <item>Cinco linhas</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Muito pequeno</item>
+        <item>Pequeno</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Muito grande</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Recentes</item>
+        <item>Formato</item>
+        <item>Nome</item>
+        <item>De</item>
+        <item>Data</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistema</item>
+        <item>Mensagens rápidas</item>
+        <item>Todas as pastas</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Conversação seguinte</item>
+        <item>Conversação anterior</item>
+        <item>Lista de conversações</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Mostrar itens arquivados apenas</item>
+        <item>Mostrar itens eliminados apenas</item>
+        <item>Mostrar itens arquivados e eliminados</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Mostrar conversação seguinte após a eliminação</item>
+        <item>Mostrar conversação anterior após a eliminação</item>
+        <item>Mostrar lista de conversações após a eliminação</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Mostrar itens arquivados apenas</item>
+        <item>Mostrar itens eliminados apenas</item>
+        <item>Mostrar itens arquivados e eliminados</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Endereço:</item>
+        <item>Tel.:</item>
+        <item>Nome:</item>
+        <item>E-mail:</item>
+        <item>Telemóvel:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Código Postal:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Obrigado,</item>
+        <item>Cumprimentos</item>
+        <item>Enviado do meu</item>
+        <item>E-mail original</item>
+        <item>Enviado do meu</item>
+        <item>Enviado de</item>
+        <item>De</item>
+        <item>Este e-mail</item>
+        <item>Exclusão de responsabilidade</item>
+        <item>Exclusão de Responsabilidade de E-mail</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sincronização efetuada com êxito</item>
+        <item>Erro na ligação de rede</item>
+        <item>Falha ao iniciar sessão</item>
+        <item>Erro na ligação segura</item>
+        <item>Falha ao sincronizar</item>
+        <item>Erro no servidor</item>
+    </string-array>
+</resources>

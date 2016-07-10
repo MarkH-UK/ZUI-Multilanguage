@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="login_url_scheme">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+    <string-array name="settings_sync_interval_names">
+        <item>Manuális</item>
+        <item>5 percenként</item>
+        <item>10 percenként</item>
+        <item>15 percenként</item>
+        <item>Óránként</item>
+        <item>2 óránként</item>
+        <item>4 óránként</item>
+        <item>Naponta</item>
+    </string-array>
+    <string-array name="settings_sync_interval_seconds">
+        <item>-1</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+        <item>3600</item>
+        <item>7200</item>
+        <item>14400</item>
+        <item>86400</item>
+    </string-array>
+    <string-array name="sync_error_phases">
+        <item>felkészülés a szinkronizálásra</item>
+        <item>szolgáltatások keresése</item>
+        <item>a helyben törölt bejegyzések feldolgozása</item>
+        <item>az új vagy módosított bejegyzések összegyűjtése</item>
+        <item>az új vagy módosított bejegyzések feltöltése</item>
+        <item>a szinkronizációs állapot ellenőrzése</item>
+        <item>helyi bejegyzések listázása</item>
+        <item>távoli bejegyzések listázása</item>
+        <item>helyi és távoli bejegyzések összehasonlítása</item>
+        <item>távoli bejegyzések letöltése</item>
+        <item>szinkronizációs állapot mentése</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>डिफ़ॉल्ट</item>
+        <item>घुमाएँ</item>
+        <item>बुलडोज़</item>
+        <item>पवनचक्की</item>
+        <item>घन</item>
+        <item>साइन तरंग</item>
+        <item>सिलेंडर</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>कोई नहीं</item>
+        <item>डेस्कटॉप मेनू खोलें</item>
+        <item>हाल ही में इस्तेमाल की गई ऐप्स दिखाएँ</item>
+        <item>अधिसूचना बार खोलें</item>
+        <item>आइकन ढूँढ़ें</item>
+        <item>स्क्रीन लॉक करें</item>
+    </string-array>
+    <string-array name="pref_leftfunction_choices">
+        <item>कोई नहीं</item>
+        <item>t9 खोज</item>
+        <item>वेब ऐप्स</item>
+        <item>विजेट</item>
+    </string-array>
+    <string-array name="pref_leftfunction_choices_values">
+        <item>कोई नहीं</item>
+        <item>t9 खोज</item>
+        <item>वेब ऐप्स</item>
+        <item>विजेट</item>
+    </string-array>
+    <string-array name="pref_select_desktop_layout_choices">
+        <item>4x5</item>
+        <item>4x4</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="clone_progress_button_text_size">16.0sp</dimen>
+    <dimen name="clone_invite_info_text_size">16.0sp</dimen>
+</resources>

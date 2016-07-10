@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">Nafnið þitt er notað til að sérsníða spjaldtölvuna þína og vörur Google.</string>
+    <string name="name_title_local">Eigandi þessarar spjaldtölvu er…</string>
+    <string name="name_text_local">Spjaldtölvan notar nafnið þitt til að sérsníða sum forrit.</string>
+    <string name="communicating_message">Spjaldtölvan er að hafa samband við Google til að vista upplýsingar á reikninginn þinn. Þetta gæti tekið allt að 5 mínútur.</string>
+    <string name="checking_username_message">"Spjaldtölvan er að athuga hjá Google hvort notandanafnið sem þú baðst um er laust.
+
+Þetta gæti tekið nokkrar mínútur."</string>
+    <string name="wait_for_device_country_msg">Er að safna upplýsingum um spjaldtölvuna þína. Þetta gæti tekið allt að 30 sekúndur.</string>
+    <string name="backup_consent_message">"Notaðu Google reikninginn þinn til að taka öryggisafrit af forritunum þínum, stillingum (svo sem bókamerkjum og Wi-Fi aðgangsorðum) og öðrum gögnum. Ef þú hefur áður tekið öryggisafrit af reikningnum þínum getur þú endurheimt það á þessa spjaldtölvu núna.
+
+Þú getur hvenær sem er breytt stillingum öryggisafritunar í stillingunum."</string>
+    <string name="backup_consent_message_no_restore">"Notaðu Google reikninginn þinn til að taka öryggisafrit af forritunum þínum, stillingum (svo sem bókamerkjum og Wi-Fi aðgangsorðum) og öðrum gögnum.
+
+Þú getur hvenær sem er breytt stillingum öryggisafritunar í stillingunum."</string>
+    <string name="restoring_message">Spjaldtölvan er að hafa samband við Google til að endurheimta reikninginn þinn. Þetta gæti tekið allt að 5 mínútur.</string>
+    <string name="restore_consent_yes_agree">Færa forrit, stillingar og önnur gögn, sem þú hefur áður afritað á Google reikninginn þinn, yfir í þessa spjaldtölvu.</string>
+</resources>

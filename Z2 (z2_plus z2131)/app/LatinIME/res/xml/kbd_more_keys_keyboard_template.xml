@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard latin:rowHeight="@dimen/config_more_keys_keyboard_key_height" latin:keyWidth="10.000002%p" style="?attr/moreKeysKeyboardStyle"
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin" />

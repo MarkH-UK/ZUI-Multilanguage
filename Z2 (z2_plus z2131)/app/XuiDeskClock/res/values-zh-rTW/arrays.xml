@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>A#阿必尚（象牙海岸）</item>
+        <item>A#阿克拉（加納）</item>
+        <item>A#阿迪斯阿貝巴（衣索比亞）</item>
+        <item>A#阿爾及爾（阿爾及利亞）</item>
+        <item>B#布蘭太爾（馬拉威）</item>
+        <item>B#布拉薩市（剛果共和國）</item>
+        <item>B#開羅（埃及）</item>
+        <item>B#卡薩布蘭加（摩洛哥）</item>
+        <item>K#柯那克里（幾內亞）</item>
+        <item>D#達卡（塞內加爾）</item>
+        <item>D#達萊撒蘭（坦尚尼亞）</item>
+        <item>J#吉布地（吉布地）</item>
+        <item>Z#自由城（獅子山共和國）</item>
+        <item>J#嘉柏隆里（波札那）</item>
+        <item>H#哈拉雷（辛巴威）</item>
+        <item>Y#約翰尼斯堡（南非）</item>
+        <item>K#坎帕拉（烏干達）</item>
+        <item>K#喀土穆（蘇丹）</item>
+        <item>J#基加利（盧安達）</item>
+        <item>J#金夏沙（剛果民主共和國）</item>
+        <item>L#拉哥斯（奈及利亞）</item>
+        <item>M#馬塞魯（賴索托）</item>
+        <item>M#摩加迪休（索馬利亞）</item>
+        <item>N#奈洛比（肯亞）</item>
+        <item>S#聖多美（普林西比）</item>
+        <item>T#廷巴克圖</item>
+        <item>D#的黎波里（利比亞）</item>
+        <item>T#突尼斯（突尼西亞）</item>
+        <item>A#安克拉治（美國）</item>
+        <item>M#門多薩（阿根廷）</item>
+        <item>A#阿魯巴（荷蘭）</item>
+        <item>Y#亞松森（巴拉圭）</item>
+        <item>B#巴貝多</item>
+        <item>B#貝里斯（貝里斯）</item>
+        <item>B#波哥大（哥倫比亞）</item>
+        <item>B#布宜諾斯艾利斯（阿根廷）</item>
+        <item>K#坎昆（墨西哥）</item>
+        <item>K#卡拉卡斯（委內瑞拉）</item>
+        <item>K#開曼（英國）</item>
+        <item>Z#芝加哥（美國）</item>
+        <item>G#哥斯大黎加（美國）</item>
+        <item>K#庫拉索（荷蘭）</item>
+        <item>D#道森克里克（加拿大）</item>
+        <item>D#丹佛（美國）</item>
+        <item>D#底特律（美國）</item>
+        <item>D#多米尼克（多明尼加）</item>
+        <item>A#愛德蒙頓（加拿大）</item>
+        <item>S#薩爾瓦多（薩爾瓦多）</item>
+        <item>F#福塔力沙（巴西）</item>
+        <item>D#大特克</item>
+        <item>G#格瑞那達（馬拉威）</item>
+        <item>G#瓜地馬拉（瓜地馬拉）</item>
+        <item>G#蓋亞那（蓋亞那）</item>
+        <item>H#哈利法克斯（加拿大）</item>
+        <item>H#哈瓦那（古巴）</item>
+        <item>Y#印地安納波利斯（美國）</item>
+        <item>N#諾克斯</item>
+        <item>M#馬倫戈</item>
+        <item>S#聖彼得堡（美國）</item>
+        <item>T#泰爾市</item>
+        <item>F#斐威</item>
+        <item>W#萬塞訥</item>
+        <item>W#威納麥克（美國）</item>
+        <item>J#金斯頓（牙買加）</item>
+        <item>L#拉巴斯（玻利維亞）</item>
+        <item>L#利馬（秘魯）</item>
+        <item>L#洛杉磯（美國）</item>
+        <item>L#路易斯維爾（美國）</item>
+        <item>M#馬拿瓜（尼加拉瓜）</item>
+        <item>M#馬丁尼克島（法國）</item>
+        <item>M#門多薩（阿根廷）</item>
+        <item>M#梅特拉卡特拉</item>
+        <item>M#墨西哥市（墨西哥）</item>
+        <item>M#蒙特雷（墨西哥）</item>
+        <item>M#蒙特維多（烏拉圭）</item>
+        <item>M#蒙特婁（烏拉圭）</item>
+        <item>N#拿索（巴哈馬）</item>
+        <item>N#紐約（美國）</item>
+        <item>B#比尤萊</item>
+        <item>Z#中央市</item>
+        <item>X#新塞勒姆</item>
+        <item>B#巴拿馬（巴拿馬）</item>
+        <item>F#鳳凰城（美國）</item>
+        <item>X#西班牙港（千里達及托巴哥）</item>
+        <item>T#太子港（海地）</item>
+        <item>B#波多黎各（美國）</item>
+        <item>S#聖多明哥（多明尼加）</item>
+        <item>S#聖保羅（巴西）</item>
+        <item>S#聖約翰（安地卡及巴布達）</item>
+        <item>S#聖克里斯多福（巴哈馬）</item>
+        <item>S#聖露西亞（巴勒斯坦）</item>
+        <item>S#聖湯瑪斯（加拿大）</item>
+        <item>D#提華納（墨西哥）</item>
+        <item>D#多倫多（加拿大）</item>
+        <item>W#溫哥華（加拿大）</item>
+        <item>W#溫尼伯（加拿大）</item>
+        <item>N#南極</item>
+        <item>L#隆意耳拜恩（挪威）</item>
+        <item>A#阿爾馬提（哈薩克）</item>
+        <item>A#安曼（約旦）</item>
+        <item>A#阿納德爾（俄羅斯）</item>
+        <item>A#阿克陶（哈薩克斯坦）</item>
+        <item>B#巴格達（伊拉克）</item>
+        <item>B#巴林（巴林）</item>
+        <item>B#巴庫（亞塞拜然）</item>
+        <item>M#曼谷（泰國）</item>
+        <item>B#貝魯特（黎巴嫩）</item>
+        <item>J#加爾各答（印度）</item>
+        <item>D#大馬士革（敘利亞）</item>
+        <item>D#達卡（孟加拉）</item>
+        <item>D#杜拜（阿拉伯聯合大公國）</item>
+        <item>J#加薩（巴基斯坦）</item>
+        <item>X#希伯倫（巴勒斯坦）</item>
+        <item>H#胡志明市（越南）</item>
+        <item>X#香港（中國）</item>
+        <item>Y#伊斯坦堡（土耳其）</item>
+        <item>Y#雅加達（印度尼西亞）</item>
+        <item>Y#耶路撒冷（以色列）</item>
+        <item>K#喀布爾（阿富汗）</item>
+        <item>K#喀拉蚩（巴基斯坦）</item>
+        <item>J#加德滿都（尼泊爾）</item>
+        <item>J#吉隆坡（馬來西亞）</item>
+        <item>K#科威特（科威特）</item>
+        <item>A#澳門（中國）</item>
+        <item>M#馬尼拉（菲律賓）</item>
+        <item>M#馬斯喀特</item>
+        <item>J#金邊（柬埔寨）</item>
+        <item>P#平壤（朝鮮）</item>
+        <item>K#卡達</item>
+        <item>Y#仰光（緬甸）</item>
+        <item>L#利雅得（沙烏地阿拉伯）</item>
+        <item>X#西貢</item>
+        <item>S#首爾（韓國）</item>
+        <item>S#上海（中國）</item>
+        <item>X#新加坡（新加坡共和國）</item>
+        <item>T#台北（中國）</item>
+        <item>D#德黑蘭（伊朗）</item>
+        <item>T#特拉維夫（以色列）</item>
+        <item>D#東京（日本）</item>
+        <item>W#庫倫（蒙古）</item>
+        <item>B#百慕達（英國）</item>
+        <item>J#加納利（西班牙）</item>
+        <item>W#維德角</item>
+        <item>L#雷克雅維克（冰島）</item>
+        <item>S#史坦萊</item>
+        <item>A#阿得雷德（澳洲）</item>
+        <item>B#布里斯本（澳洲）</item>
+        <item>K#坎培拉（澳洲）</item>
+        <item>D#達爾文（澳洲）</item>
+        <item>M#墨爾本（澳洲）</item>
+        <item>X#新南威爾斯（澳洲）</item>
+        <item>B#伯斯（澳洲）</item>
+        <item>K#昆士蘭（澳洲）</item>
+        <item>X#雪梨（澳洲）</item>
+        <item>W#維多利亞（塞席爾）</item>
+        <item>N#紐芬蘭（加拿大）</item>
+        <item>S#薩克其萬（加拿大）</item>
+        <item>F#復活節島（智利）</item>
+        <item>A#阿姆斯特丹（荷蘭）</item>
+        <item>A#安道爾</item>
+        <item>Y#雅典（希臘）</item>
+        <item>B#貝爾法斯特（愛爾蘭）</item>
+        <item>B#貝爾格勒（塞爾維亞）</item>
+        <item>B#柏林（德國）</item>
+        <item>B#布拉提斯拉瓦（斯洛伐克）</item>
+        <item>B#布魯塞爾（比利時）</item>
+        <item>B#布加勒斯特（羅馬尼亞）</item>
+        <item>B#布達佩斯（匈牙利）</item>
+        <item>B#基希訥烏（莫爾多瓦）</item>
+        <item>G#哥本哈根（丹麥）</item>
+        <item>D#都柏林（愛爾蘭）</item>
+        <item>Z#直布羅陀（英國）</item>
+        <item>H#赫爾辛基（芬蘭）</item>
+        <item>M#曼島（英國）</item>
+        <item>Y#伊斯坦堡</item>
+        <item>J#基輔（烏克蘭）</item>
+        <item>L#里斯本（葡萄牙）</item>
+        <item>L#倫敦（英國）</item>
+        <item>L#盧森堡（盧森堡）</item>
+        <item>M#馬德里（西班牙）</item>
+        <item>M#馬爾他（馬爾他）</item>
+        <item>M#明斯克（白俄羅斯）</item>
+        <item>M#摩納哥</item>
+        <item>M#莫斯科（俄羅斯）</item>
+        <item>A#奧斯陸（挪威）</item>
+        <item>B#巴黎（法國）</item>
+        <item>B#布拉格（捷克）</item>
+        <item>L#里加（拉脫維亞）</item>
+        <item>L#羅馬（義大利）</item>
+        <item>S#聖馬利諾（聖馬利諾）</item>
+        <item>S#塞拉耶佛（赫塞哥維納）</item>
+        <item>X#辛非洛浦</item>
+        <item>S#史高比耶（馬其頓）</item>
+        <item>S#索非亞（保加利亞）</item>
+        <item>S#斯德哥爾摩（瑞典）</item>
+        <item>T#塔林（愛沙尼亞）</item>
+        <item>F#梵帝崗</item>
+        <item>W#維也納（奧地利）</item>
+        <item>W#維爾紐斯（立陶宛）</item>
+        <item>H#華沙（波蘭）</item>
+        <item>S#薩格勒布（克羅埃西亞）</item>
+        <item>S#蘇黎世（瑞士）</item>
+        <item>A#安塔那那利佛（馬達加斯加）</item>
+        <item>M#馬爾地夫</item>
+        <item>M#模里西斯</item>
+        <item>A#奧克蘭（紐西蘭）</item>
+        <item>F#斐濟</item>
+        <item>G#關島（美國）</item>
+        <item>T#檀香山（美國）</item>
+        <item>K#刻里提馬提（澳洲）</item>
+        <item>N#諾米亞（新喀里多尼亞島）</item>
+        <item>S#薩摩亞</item>
+        <item>D#大溪地</item>
+        <item>A#安提瓜</item>
+        <item>A#奧斯汀（美國）</item>
+        <item>B#波士頓（波士頓）</item>
+        <item>K#卡加立（加拿大）</item>
+        <item>G#哥倫布（美國）</item>
+        <item>D#達拉斯（美國）</item>
+        <item>N#諾克斯維爾（美國）</item>
+        <item>M#曼非斯（美國）</item>
+        <item>W#邁阿密（美國）</item>
+        <item>M#明尼阿波利斯（美國）</item>
+        <item>W#渥太華（渥太華）</item>
+        <item>F#費城（美國）</item>
+        <item>B#波特蘭（美國）</item>
+        <item>S#聖地牙哥（美國）</item>
+        <item>J#舊金山（美國）</item>
+        <item>Y#鹽湖城（美國）</item>
+        <item>S#聖荷西（哥斯大黎加)</item>
+        <item>S#聖薩爾瓦多(薩爾瓦多）</item>
+        <item>X#西雅圖（美國）</item>
+        <item>S#聖路易斯（美國）</item>
+        <item>H#華盛頓特區（美國）</item>
+        <item>X#休士頓（美國）</item>
+        <item>S#聖安東尼奧（美國）</item>
+        <item>J#傑克遜維爾（美國）</item>
+        <item>B#巴爾的摩（美國）</item>
+        <item>W#納什維爾（美國）</item>
+        <item>M#密爾瓦基（美國）</item>
+        <item>A#俄克拉荷馬市（美國）</item>
+        <item>L#拉斯維加斯（美國）</item>
+        <item>A#阿布奎基（美國）</item>
+        <item>T#土桑市（美國）</item>
+        <item>S#沙加缅度（美國）</item>
+        <item>Y#亞特蘭大（美國）</item>
+        <item>K#克里夫蘭（美國）</item>
+        <item>Y#紐奧良（美國）</item>
+        <item>T#坦帕（美國）</item>
+        <item>P#匹茲堡（美國）</item>
+        <item>X#辛辛那提（美國）</item>
+        <item>S#山景市（美國）</item>
+        <item>L#雷諾（美國）</item>
+        <item>H#黑岩市（印度）</item>
+        <item>D#多哈（卡達）</item>
+        <item>B#北京（中國）</item>
+        <item>M#孟買（印度）</item>
+        <item>D#德里（印度）</item>
+        <item>D#大阪（日本）</item>
+        <item>L#拉合爾（巴基斯坦）</item>
+        <item>S#薩那</item>
+        <item>B#巴塞隆納（西班牙）</item>
+        <item>M#慕尼黑（德國）</item>
+        <item>M#米蘭（義大利）</item>
+        <item>F#法蘭克福（德國）</item>
+        <item>H#河內（越南）</item>
+        <item>A#安卡拉（土耳其）</item>
+        <item>B#班加羅爾（印度）</item>
+        <item>B#巴西利亞（巴西）</item>
+        <item>K#開普敦（南非）</item>
+        <item>Y#伊斯蘭瑪巴德（巴基斯坦）</item>
+        <item>L#里約熱內盧（巴西）</item>
+        <item>A#安娜堡（美國）</item>
+        <item>B#博爾德（美國）</item>
+        <item>J#劍橋（美國）</item>
+        <item>K#科克蘭（美國）</item>
+        <item>M#麥迪遜（美國）</item>
+        <item>G#廣州（中國）</item>
+        <item>H#海得拉巴（印度）</item>
+        <item>L#雷斯頓</item>
+        <item>M#美景市（巴西）</item>
+        <item>S#聖地牙哥（智利）</item>
+        <item>M#蒙羅維亞（賴比瑞亞）</item>
+        <item>K#可倫坡（斯里蘭卡）</item>
+        <item>Q#奇瓦瓦（墨西哥）</item>
+        <item>S#薩爾瓦多（薩爾瓦多）</item>
+        <item>G#古爾岡（印度）</item>
+        <item>M#曼徹斯特</item>
+        <item>J#基輔（烏克蘭）</item>
+        <item>S#聖彼得堡（俄羅斯）</item>
+        <item>K#克拉科夫（波蘭）</item>
+        <item>F#弗羅茨瓦夫（波蘭）</item>
+        <item>H#漢堡（德國）</item>
+        <item>A#奧盧（芬蘭）</item>
+        <item>H#海法（以色列）</item>
+        <item>S#聖胡安（波多黎各）</item>
+        <item>D#德古斯加巴（宏都拉斯）</item>
+        <item>B#巴拉馬利波（蘇利南）</item>
+        <item>J#基多（厄瓜多）</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>倒數計時：還剩不到 1 分鐘</item>
+        <item>倒數計時：還剩 %1$s</item>
+        <item>倒數計時：還剩 %2$s</item>
+        <item>倒數計時：還剩 %1$s %2$s</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>不到 1 分鐘後鬧鐘響</item>
+        <item>%1$s後鬧鐘響</item>
+        <item>%2$s後鬧鐘響</item>
+        <item>%1$s %2$s後鬧鐘響</item>
+        <item>%3$s後鬧鐘響</item>
+        <item>%1$s %3$s後鬧鐘響</item>
+        <item>%2$s %3$s後鬧鐘響</item>
+        <item>%1$s %2$s %3$s後鬧鐘響</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>15 分鐘</item>
+        <item>20 分鐘</item>
+        <item>25 分鐘</item>
+        <item>30 分鐘</item>
+        <item>永不</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>暫停</item>
+        <item>關閉</item>
+        <item>不進行任何操作</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>指針</item>
+        <item>數位</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>馬紹爾群島</item>
+        <item>中途島</item>
+        <item>夏威夷</item>
+        <item>阿拉斯加</item>
+        <item>太平洋時間</item>
+        <item>提華納</item>
+        <item>亞利桑那</item>
+        <item>奇瓦瓦</item>
+        <item>山區時區</item>
+        <item>中美洲</item>
+        <item>中部時間</item>
+        <item>墨西哥城</item>
+        <item>薩克其萬</item>
+        <item>波哥大</item>
+        <item>東部時間</item>
+        <item>委內瑞拉</item>
+        <item>大西洋時間 (巴貝多)</item>
+        <item>大西洋時間 (加拿大)</item>
+        <item>瑪瑙斯</item>
+        <item>聖地牙哥</item>
+        <item>紐芬蘭</item>
+        <item>巴西利亞</item>
+        <item>布宜諾斯艾利斯</item>
+        <item>格陵蘭島</item>
+        <item>蒙特維多</item>
+        <item>大西洋中部地區</item>
+        <item>亞述爾群島</item>
+        <item>維德角群島</item>
+        <item>卡薩布蘭卡</item>
+        <item>倫敦、都柏林</item>
+        <item>阿姆斯特丹、柏林</item>
+        <item>貝爾格勒</item>
+        <item>布魯塞爾</item>
+        <item>塞拉耶佛</item>
+        <item>溫荷克</item>
+        <item>西非時間</item>
+        <item>安曼、約旦</item>
+        <item>雅典、伊斯坦堡</item>
+        <item>貝魯特、黎巴嫩</item>
+        <item>開羅</item>
+        <item>赫爾辛基</item>
+        <item>耶路撒冷</item>
+        <item>明斯克</item>
+        <item>哈拉雷</item>
+        <item>巴格達</item>
+        <item>莫斯科</item>
+        <item>科威特</item>
+        <item>奈洛比</item>
+        <item>德黑蘭</item>
+        <item>巴庫</item>
+        <item>第比利斯</item>
+        <item>葉里溫</item>
+        <item>迪拜</item>
+        <item>喀布爾</item>
+        <item>伊斯蘭馬巴德、卡拉奇</item>
+        <item>烏拉爾斯克</item>
+        <item>伊卡特林堡</item>
+        <item>加爾各答</item>
+        <item>斯里蘭卡</item>
+        <item>加德滿都</item>
+        <item>阿斯塔納</item>
+        <item>仰光</item>
+        <item>克拉斯諾雅斯克</item>
+        <item>曼谷</item>
+        <item>北京</item>
+        <item>香港</item>
+        <item>伊爾庫次克</item>
+        <item>吉隆坡</item>
+        <item>伯斯</item>
+        <item>臺北</item>
+        <item>首爾</item>
+        <item>東京、大阪</item>
+        <item>亞庫次克</item>
+        <item>阿德萊德</item>
+        <item>達爾文</item>
+        <item>布里斯班</item>
+        <item>霍巴特</item>
+        <item>雪梨、坎培拉</item>
+        <item>海參崴</item>
+        <item>關島</item>
+        <item>馬加丹</item>
+        <item>奧克蘭</item>
+        <item>斐濟</item>
+        <item>東加</item>
+        <item>雅加達</item>
+    </string-array>
+    <string-array name="flip_setting_entries">
+        <item>關閉鬧鐘</item>
+        <item>稍後再響</item>
+    </string-array>
+    <string-array name="repeat_content">
+        <item>不重複</item>
+        <item>每天</item>
+        <item>法定工作日 (自動跳過節日/假日)</item>
+        <item>自訂</item>
+    </string-array>
+    <string-array name="weekday_names">
+        <item></item>
+        <item>每週日</item>
+        <item>每週一</item>
+        <item>每週二</item>
+        <item>每週三</item>
+        <item>每週四</item>
+        <item>每週五</item>
+        <item>每週六</item>
+    </string-array>
+    <string-array name="short_weekday_names">
+        <item></item>
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </string-array>
+    <string-array name="snooze_interval">
+        <item>無</item>
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>15 分鐘</item>
+    </string-array>
+    <string-array name="volume_mode_array">
+        <item>輕柔</item>
+        <item>普通</item>
+        <item>強烈</item>
+    </string-array>
+    <string-array name="sleep_interval">
+        <item>5 分鐘</item>
+        <item>10 分鐘</item>
+        <item>15 分鐘</item>
+        <item>20 分鐘</item>
+        <item>25 分鐘</item>
+        <item>30 分鐘</item>
+    </string-array>
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <string-array name="days_of_week_month">
+        <item>1 月</item>
+        <item>2 月</item>
+        <item>3 月</item>
+        <item>4 月</item>
+        <item>5 月</item>
+        <item>6 月</item>
+        <item>7 月</item>
+        <item>8 月</item>
+        <item>9 月</item>
+        <item>10 月</item>
+        <item>11 月</item>
+        <item>12 月</item>
+    </string-array>
+    <string-array name="dayStatus">
+        <item>上午</item>
+        <item>下午</item>
+    </string-array>
+</resources>

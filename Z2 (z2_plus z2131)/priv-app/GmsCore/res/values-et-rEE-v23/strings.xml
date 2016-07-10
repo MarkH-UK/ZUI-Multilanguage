@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"See on üldine teave seadme ja selle kasutamise kohta. Muuhulgas näitab see aku taset, rakenduste kasutamise sagedust, võrguühenduste (nt mobiilside, WiFi ja Bluetooth) kvaliteeti ja kestust ning krahhiaruandeid juhul, kui toimingud ei suju ootuspäraselt. Teavet kasutatakse Google’i toodete ja teenuste täiustamiseks ning seda ei seostata teie lapse Google’i kontoga. Teatud koondteave aitab ka partneritel, näiteks Androidi arendajatel, rakendusi ja tooteid täiustada.
+
+Funktsiooni saate jaotises Seaded > Google igal ajal sisse või välja lülitada. See ei takista seadet saatmast esmatähtsate teenuste (näiteks süsteemivärskendused ja turvalisus) vastuvõtmiseks vajalikku teavet."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Varundage seadme andmed</b>" (nt WiFi-paroolid ja kõneajalugu) ning rakenduse andmed (nt seaded ja rakenduste salvestatud failid) automaatselt Google Drive'i "<annotation id="backup_details">Lisateave</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Kui lülitate automaatse varundamise sisse, salvestatakse seadme ja rakenduse andmed perioodiliselt privaatsesse kausta Google Drive'is. Rakenduse andmed võivad olla mis tahes andmed, mille rakendus on salvestanud (arendajaseadete põhjal), sh potentsiaalselt tundlikud andmed, nagu kontaktid, sõnumid ja fotod.
+
+Varundatud andmeid ei loeta teie Drive'i salvestuskvoodi hulka. Suuri faile ja faile, mille arendajad on otsustanud teenusest välja jätta, ei varundata."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Parandab asukoha täpsust</b>, lubades rakendustel ja teenustel otsida WiFi-võrke ning Bluetoothi seadmeid, isegi kui WiFi ja Bluetooth on välja lülitatud.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"See on üldine teave seadme ja selle kasutamise kohta. Muuhulgas näitab see aku taset, rakenduste kasutamise sagedust, võrguühenduste (nt mobiilside, WiFi ja Bluetooth) kvaliteeti ja kestust ning krahhiaruandeid juhul, kui toimingud ei suju ootuspäraselt. Teavet kasutatakse Google’i toodete ja teenuste täiustamiseks ning seda ei seostata teie Google’i kontoga. Teatud koondteave aitab ka partneritel, näiteks Androidi arendajatel, rakendusi ja tooteid täiustada.
+
+Funktsiooni saate jaotises Seaded > Google igal ajal sisse või välja lülitada. See ei takista seadet saatmast esmatähtsate teenuste (näiteks süsteemivärskendused ja turvalisus) vastuvõtmiseks vajalikku teavet."</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="login_url_scheme">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+    <string-array name="settings_sync_interval_names">
+        <item>手动同步</item>
+        <item>每 5 分钟</item>
+        <item>每 10 分钟</item>
+        <item>每 15 分钟</item>
+        <item>每 1 小时</item>
+        <item>每 2 小时</item>
+        <item>每 4 小时</item>
+        <item>每 24 小时</item>
+    </string-array>
+    <string-array name="settings_sync_interval_seconds">
+        <item>-1</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+        <item>3600</item>
+        <item>7200</item>
+        <item>14400</item>
+        <item>86400</item>
+    </string-array>
+    <string-array name="sync_error_phases">
+        <item>准备同步</item>
+        <item>请求功能列表</item>
+        <item>处理本地删除项目</item>
+        <item>准备创建/修改项目</item>
+        <item>上传创建/修改项目</item>
+        <item>检查同步状态</item>
+        <item>检查本地数据</item>
+        <item>检查远程数据</item>
+        <item>比较本地和远程数据</item>
+        <item>下载远程数据</item>
+        <item>保存同步状态</item>
+    </string-array>
+</resources>

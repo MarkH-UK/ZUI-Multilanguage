@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d အက္ခရာ ကန့်သတ်ချက် ကျော်နေ၏</item>
+        <item quantity="one">%1$d အက္ခရာ ကန့်သတ်ချက် ကျော်နေ၏</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d လုံး အက္ခရာ ကျန်၏</item>
+        <item quantity="one">%1$d လုံး အက္ခရာ ကျန်၏</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google အကောင့်များ</item>
+        <item quantity="one">%d Google အကောင့်</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">ဤစက်ကိရိယာသည် သင့် Google အကောင့်များနှင့် ၎င်း၏ ဒေတာများနှင့်အတူ ^1 တစ်ခုအား သတ်မှတ်ပြင်ဆင်ရန် သုံးခဲ့၏</item>
+        <item quantity="one">ဤစက်ကိရိယာသည် သင့် Google အကောင့်နှင့် ၎င်း၏ ဒေတာများနှင့်အတူ ^1 တစ်ခုအား သတ်မှတ်ပြင်ဆင်ရန် သုံးခဲ့၏</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d နာရီ</item>
+        <item quantity="one">၁ နာရီ</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d မိနစ်</item>
+        <item quantity="one">၁ မိနစ်</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">ဤဖိတ်ကြားချက်များကို လွဲချော်မှုတစ်ခုကြောင့် မပို့ဖြစ်ခဲ့ပါ</item>
+        <item quantity="one">လွဲချော်မှုတစ်ခုကြောင့် ဤဖိတ်ကြားချက်ကို မပို့ဖြစ်ခဲ့ပါ</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">ဤဖိတ်ကြားချက်များကို လောလောဆယ် မပို့နိုင်သေးပါ။ Google > မိမိအကောင့်မှ ပြန်ပို့နိုင်ပါမည်။</item>
+        <item quantity="one">ဤဖိတ်ကြားချက်ကို လောလောဆယ် မပို့နိုင်သေးပါ။ Google > မိမိအကောင့်မှ ပြန်ပို့နိုင်ပါမည်။</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">ကျန်ရှိနေသော ဖိတ်ကြားချက် %d ခု</item>
+        <item quantity="one">ကျန်ရှိနေသည့် ဖိတ်ကြားချက် %d ခု</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">စာအသစ် %1$d စောင်</item>
+        <item quantity="one">စာအသစ် ၁ စောင်</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">သင့်ရှေ့တွင်လူ %1$d ယောက်ရှိသည်</item>
+        <item quantity="one">သင့်ရှေ့တွင် လူ ၁ ယောက်ရှိသည်</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s နှင့် အခြားအပ်ဖ်များ %2$d ဖြင့်</item>
+        <item quantity="one">%1$s နှင့် အခြားအပ်ဖ် %2$d ဖြင့်</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d နောက်လိုက်များ</item>
+        <item quantity="one">နောက်လိုက် တစ်ယောက်</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d ကြည့်ခြင်းများ</item>
+        <item quantity="one">တစ်ကြိမ်ကြည့်ခြင်း</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">သင့် Google အကောင့်နှင့် အချက်အလက်ကူးယူနေသည်…</item>
+        <item quantity="one">သင့် Google အက​ောင့်နှင့် အချက်အလက်ကူးယူနေသည်…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">ဤစက်ပစ္စည်းကို အသုံးပြု၍ သင့်Google အကောင့်များနှင့် ဒေတာဖြင့် ^1 ကို တပ်ဆင်ထားသည်</item>
+        <item quantity="one">ဤစက်ပစ္စည်းကို အသုံးပြု၍ သင့် Google အကောင့်နှင့် ဒေတာ ဖြင့် ^1 ကို တပ်ဆင်ထားသည်</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">တပ်ဆင်ရန် %d စက္ကန့်အတွင်း ပြန်စတင်နေ…</item>
+        <item quantity="one">တပ်ဆင်ပေးရန် ၁ စက္ကန်အတွင်း ပြန်ဖွင့်မည်…</item>
+    </plurals>
+</resources>

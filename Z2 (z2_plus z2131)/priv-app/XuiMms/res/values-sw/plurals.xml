@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Mazungumzo %1$s yatafutwa</item>
+        <item quantity="one">Mazungumzo 1 yatafutwa.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">Sekunde %s</item>
+        <item quantity="one">Sekunde %s</item>
+        <item quantity="few">Sekunde %s</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Matokeo %1$s ya \"%2$s\"</item>
+        <item quantity="one">Matokeo %1$s ya \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+ mawasiliano mengine %1$s</item>
+        <item quantity="one">+%1$s ujumbe mwingine</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">Watu %1$s</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sdn" />
+    <string name="summary_sdn" />
+    <string name="launch_sdn" />
+    <string name="data_conn_status_title" />
+    <string name="user_authentication_failed" />
+    <string name="service_not_subscribed" />
+</resources>

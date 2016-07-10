@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="hello_world">हैलो वर्ल्ड!</string>
+    <string name="app_name_title">अनुमतियाँ</string>
+    <string name="app_list_button_text">ऐप्स</string>
+    <string name="perms_list_button_text">अनुमतियाँ</string>
+    <string name="app_unit">ऐप(प्स)</string>
+    <string name="hold_perms">अनुमति(याँ)</string>
+    <string name="empty_note">किसी ऐप ने अनुमतियों का अनुरोध नहीं किया</string>
+    <string name="empty_perm_note">इस एप्लिकेशन के पास कोई अनुमति नहीं है</string>
+    <string name="empty_app_note">किसी ऐप ने इन अनुमतियों का अनुरोध नहीं किया</string>
+    <string name="allow">स्वीकार करें</string>
+    <string name="ask">प्रॉम्प्ट</string>
+    <string name="ignore">इनकार करें</string>
+    <string name="never_used">उपयोग नहीं किया</string>
+    <string name="button_cancel">रद्द करें</string>
+    <string name="button_ok">ठीक</string>
+    <string name="loading" />
+    <string name="permission_suggest">अनुमतियों का सुझाव</string>
+    <string name="suggest_cancel">रद्द करें</string>
+    <string name="suggest_ignore">अक्षम करें</string>
+    <string name="perms_denied">%1$s अक्षम होने के बाद, %2$s, %3$s नहीं कर सकेगा।</string>
+    <string name="all_deny">सभी अक्षम करें</string>
+    <string name="deny_all_normal">सभी ऐप्स %1$s की अनुमति नहीं दी जाएगी</string>
+    <string name="continue_deny_all">जारी</string>
+    <string name="cancel_deny_all">रद्द करें</string>
+    <string name="deny_all_title">सभी अक्षम करें</string>
+    <string name="deny_all_alert">जब यह आइटम अक्षम होगा, तो सभी ऐप्स को %1$s की अनुमति नहीं होगी। परिणामस्वरूप %2$s ठीक से काम नहीं करेगा। जारी रखें?</string>
+    <string name="dot">,</string>
+    <string name="not_found_note">“没有找到提示语，请检查policy文件”</string>
+    <string name="restore_default">पुनः प्राप्त करें</string>
+    <string name="restore_alert_msg">सभी ऐप्स की %1$s अनुमति डिफ़ॉल्ट स्टेट में बहाल हो जाएगी</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="profile_header_avatar_diameter">130.0dip</dimen>
+    <dimen name="profile_header_avatar_radius">60.0dip</dimen>
+    <dimen name="profile_header_default_avatar_size">70.0dip</dimen>
+</resources>

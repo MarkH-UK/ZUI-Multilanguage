@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/utouch_custom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:layout="@layout/preference_label" android:title="@string/utouch_custom_press_two" android:key="home_button_double_tap_behavior" android:summary="@string/utouch_unuse" android:widgetLayout="@layout/preference_widget_forward" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/utouch_custom_left_right" android:key="home_button_slide_left_right_behavior" android:summary="@string/utouch_unuse" android:widgetLayout="@layout/preference_widget_forward" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/utouch_custom_long_press" android:key="home_button_long_press_behavior" android:summary="@string/utouch_unuse" android:widgetLayout="@layout/preference_widget_forward" />
+    <Preference android:layout="@layout/preference_label" android:title="@string/utouch_custom_long_light_press" android:key="home_button_long_touch_behavior" android:summary="@string/utouch_unuse" android:widgetLayout="@layout/preference_widget_forward" />
+    <PreferenceCategory android:state_expanded="true" android:summary="@string/utouch_toast_category" />
+    <PreferenceCategory />
+    <com.android.settings.RestorePrefrence android:persistent="false" android:title="@string/utouch_restore_default" android:key="utouch_restore_default_pre" />
+</PreferenceScreen>

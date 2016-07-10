@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:title="@string/auth_maps_settings_title" android:key="key1">
+        <intent android:action="com.google.android.apps.maps.LOCATION_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/auth_security_settings_title" android:key="key7">
+        <intent android:action="com.google.android.gms.accountsettings.SECURITY_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/auth_privacy_settings_title" android:key="key8">
+        <intent android:action="com.google.android.gms.accountsettings.PRIVACY_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/auth_preferences_settings_title" android:key="key9">
+        <intent android:action="com.google.android.gms.accountsettings.ACCOUNT_PREFERENCES_SETTINGS" />
+    </PreferenceScreen>
+</PreferenceScreen>

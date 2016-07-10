@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ျပန္ၾကားပါ</item>
+        <item>အားလံုးသို႔ ျပန္ၾကားပါ</item>
+        <item>ဆင့္ကမ္းပို႔ပါ</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>လိုင္း တစ္ေၾကာင္း</item>
+        <item>လိုင္း ႏွစ္ေၾကာင္း</item>
+        <item>လိုင္း သံုးေၾကာင္း</item>
+        <item>လိုင္း ေလးေၾကာင္း</item>
+        <item>လိုင္း ငါးေၾကာင္း</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>အလြန္ေသး</item>
+        <item>အေသး</item>
+        <item>ပံုမွန္</item>
+        <item>အလြန္ႀကီး</item>
+        <item>အလြန္႔အလြန္ႀကီး</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>မၾကာေသးမီက</item>
+        <item>ပံုစံ</item>
+        <item>အမည္</item>
+        <item>မွ</item>
+        <item>ေန႔စြဲ</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>စနစ္</item>
+        <item>အျမန္ မက္ေဆ့ခ်္မ်ား</item>
+        <item>ဖိုင္တြဲ အားလံုး</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ေနာက္ စကားေျပာသို႔</item>
+        <item>ယခင္ စကားေျပာသို႔</item>
+        <item>စကားေျပာ စာရင္း</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>ဖိုင္ခ်ဳံ႕ အရာဝတၳဳမ်ားသာ ျပပါ</item>
+        <item>ဖ်က္ထားသည့္ အရာဝတၳဳမ်ားသာ ျပပါ</item>
+        <item>ဖိုင္ခ်ဳံ႕ထားၿပီး ဖ်က္ထားသည့္ အရာဝတၳဳမ်ား ႏွစ္မ်ဳိးလံုး ျပပါ</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>သင္ဖ်က္ၿပီးေနာက္ ေနာက္စကားေျပာကို ျပပါ</item>
+        <item>သင္ဖ်က္ၿပီးေနာက္ ယခင္စကားေျပာကို ျပပါ</item>
+        <item>သင္ဖ်က္ၿပီးေနာက္ စကားေျပာ စရင္းကို ျပပါ</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>ဖိုင္ခ်ဳံ႕ အရာဝတၳဳမ်ားသာ ျပပါ</item>
+        <item>ဖ်က္ထားသည့္ အရာဝတၳဳမ်ားသာ ျပပါ</item>
+        <item>ဖိုင္ခ်ဳံ႕ထားၿပီး ဖ်က္ထားသည့္ အရာဝတၳဳမ်ား ႏွစ္မ်ဳိးလံုး ျပပါ</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>လိပ္စာ:</item>
+        <item>ဖုန္း:</item>
+        <item>အမည္:</item>
+        <item>အီးေမးလ္:</item>
+        <item>မိုဘိုင္း:</item>
+        <item>WeChat:</item>
+        <item>ဖစ္:</item>
+        <item>စာပို႔ ကုဒ္:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>ေက်းဇူးတင္ပါသည္၊</item>
+        <item>ေလးစားစြာျဖင့္</item>
+        <item>ကြ်ႏ္ုပ္၏ မွပို႔ထားသည္</item>
+        <item>မူရင္း အီးေမးလ္</item>
+        <item>ကြ်ႏ္ုပ္၏ မွပို႔ထားသည္</item>
+        <item>မွ ပို႔ထားသည္</item>
+        <item>မွ</item>
+        <item>ဤအီးေမးလ္</item>
+        <item>မသက္ဆိုင္ေၾကာင္း ျငင္းဆိုရွင္းလင္းခ်က္</item>
+        <item>အီးေမးလ္ မသက္ဆိုင္ေၾကာင္း ျငင္းဆိုရွင္းလင္းခ်က္</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ဆင့္ခ္ ေအာင္ျမင္ထားသည္</item>
+        <item>ကြန္ယက္ ခ်ိတ္ဆက္ရာတြင္ အမွားျဖစ္ပြားသည္</item>
+        <item>ဝင္ေရာက္ရန္ မေအာင္ျမင္ပါ</item>
+        <item>စိတ္ခ်ရေသာ ခ်ိတ္ဆက္မႈတြင္ အမွားျဖစ္ပြားသည္</item>
+        <item>ဆင့္ခ္ မေအာင္ျမင္ပါ</item>
+        <item>ဆာဗာ အမွား</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_tab_height">44.0dip</dimen>
+    <dimen name="live_action_pic_scroll_up_height">52.0dip</dimen>
+    <dimen name="app_update_dialog_height">320.0dip</dimen>
+    <dimen name="app_update_dialog_width">300.0dip</dimen>
+    <dimen name="baselayout_title_height">45.329987dip</dimen>
+    <dimen name="app_update_control_height">40.0dip</dimen>
+    <dimen name="channel_spinner_width">200.0dip</dimen>
+    <dimen name="homepage_trend_daytime_icons_height">60.0dip</dimen>
+    <dimen name="homepage_trend_weeks_height">120.0dip</dimen>
+</resources>

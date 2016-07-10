@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="login_url_scheme">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+    <string-array name="settings_sync_interval_names">
+        <item>Nur manuell</item>
+        <item>Alle 5 Minuten</item>
+        <item>Alle 10 Minuten</item>
+        <item>Alle 15 Minuten</item>
+        <item>Stündlich</item>
+        <item>Alle 2 Stunden</item>
+        <item>Alle 4 Stunden</item>
+        <item>Täglich</item>
+    </string-array>
+    <string-array name="settings_sync_interval_seconds">
+        <item>-1</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+        <item>3600</item>
+        <item>7200</item>
+        <item>14400</item>
+        <item>86400</item>
+    </string-array>
+    <string-array name="sync_error_phases">
+        <item>Vorbereiten der Synchronisierung</item>
+        <item>Abfragen der Server-Fähigkeiten</item>
+        <item>Verarbeiten lokal gelöschter Einträge</item>
+        <item>Vorbereiten neuer/geänderter Einträge</item>
+        <item>Hochladen neuer/geänderter Einträge</item>
+        <item>Abfragen des Synchronisierungs-Zustands</item>
+        <item>Auflisten lokaler Einträge</item>
+        <item>Auflisten der Server-Einträge</item>
+        <item>Vergleichen tw. Datenbank/Server</item>
+        <item>Herunterladen von Server-Einträgen</item>
+        <item>Speichern des Synchronisierungs-Zustands</item>
+    </string-array>
+</resources>

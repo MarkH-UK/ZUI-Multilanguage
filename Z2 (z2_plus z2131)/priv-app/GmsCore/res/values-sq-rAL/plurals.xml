@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d karaktere mbi kufirin</item>
+        <item quantity="one">%1$d karakter mbi kufirin</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d karaktere të mbetura</item>
+        <item quantity="one">%1$d karakter i mbetur</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">Llogaritë e Google të %d</item>
+        <item quantity="one">Llogaria e Google e %d</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Kjo pajisje u përdor për të konfiguruar një ^1 me llogaritë e tua të Google dhe të dhënat e tyre</item>
+        <item quantity="one">Kjo pajisje u përdor për të konfiguruar një ^1 me llogarinë tënde të Google dhe të dhënat e saj</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d orë</item>
+        <item quantity="one">1 orë</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">1 minutë</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Këto ftesa nuk u dërguan për shkak të një gabimi</item>
+        <item quantity="one">Kjo ftesë nuk u dërgua për shkak të një gabimi</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">"Këto ftesa nuk mund të dërgohen tani. Mund t'i dërgosh përsëri në \"Luaj me Google\" > \"Llogaria ime\"."</item>
+        <item quantity="one">Kjo ftesë nuk mund të dërgohet tani. Mund ta dërgosh përsëri nga \"Luaj me Google\" > \"Llogaria ime\".</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d ftesa të mbetura</item>
+        <item quantity="one">%d ftesë e mbetur</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d mesazhe të reja</item>
+        <item quantity="one">1 mesazh i ri</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d persona përpara teje</item>
+        <item quantity="one">1 person përpara teje</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d ndjekës</item>
+        <item quantity="one">Një ndjekës</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d shikime</item>
+        <item quantity="one">Një shikim</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Po kopjon llogaritë e tua të Google dhe të dhënat e tua…</item>
+        <item quantity="one">Po kopjon llogarinë tënde të Google dhe të dhënat e tua…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Kjo pajisje është përdorur për të konfiguruar një ^1 me llogarinë tënde të Google dhe të dhënat e saj</item>
+        <item quantity="one">Kjo pajisje është përdorur për të konfiguruar një ^1 me llogarinë tënde të Google dhe të dhënat e saj</item>
+    </plurals>
+</resources>

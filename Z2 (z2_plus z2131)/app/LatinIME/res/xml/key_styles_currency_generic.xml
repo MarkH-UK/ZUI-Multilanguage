@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <key-style latin:moreKeys="!text/morekeys_currency_generic" latin:keySpec="!text/keyspec_currency" latin:styleName="currencyKeyStyle" />
+    <key-style latin:keySpec="£" latin:styleName="moreCurrency1KeyStyle" />
+    <key-style latin:keySpec="€" latin:styleName="moreCurrency2KeyStyle" />
+    <key-style latin:moreKeys="¢" latin:keySpec="$" latin:styleName="moreCurrency3KeyStyle" />
+    <key-style latin:keySpec="¢" latin:styleName="moreCurrency4KeyStyle" />
+</merge>

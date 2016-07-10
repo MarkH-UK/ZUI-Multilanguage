@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Auth.CredentialsDialog" parent="@style/Auth.CredentialsDialog_Base">
+        <item name="android:windowMinWidthMajor">460.0dip</item>
+        <item name="android:windowMinWidthMinor">460.0dip</item>
+    </style>
+    <style name="ChromeSync.Dialog" parent="@style/ChromeSync.Dialog.Base">
+        <item name="android:windowMinWidthMajor">460.0dip</item>
+        <item name="android:windowMinWidthMinor">460.0dip</item>
+    </style>
+    <style name="CredentialPicker">
+        <item name="android:layout_width">460.0dip</item>
+    </style>
+    <style name="Widget.Design.TabLayout" parent="@style/Base.Widget.Design.TabLayout">
+        <item name="tabMode">fixed</item>
+        <item name="tabGravity">center</item>
+    </style>
+    <style name="common.Widget.Base.Snackbar" parent="@style/Theme.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxWidth">568.0dip</item>
+        <item name="android:minWidth">288.0dip</item>
+        <item name="windowGravity">bottom|left</item>
+        <item name="windowWidth">wrap_content</item>
+        <item name="windowXOffset">16.0dip</item>
+        <item name="windowYOffset">16.0dip</item>
+    </style>
+    <style name="udc.Theme.Base.Consent" parent="@style/common.Theme.Light.Dialog.MinWidth" />
+    <style name="udc.Theme.Consent" parent="@style/udc.Theme.Base.Consent" />
+</resources>

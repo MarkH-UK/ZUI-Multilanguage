@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d tähemärki üle limiidi</item>
+        <item quantity="one">%1$d tähemärk üle limiidi</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d tähemärki on järel</item>
+        <item quantity="one">%1$d tähemärk on järel</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">"%d Google'i kontot"</item>
+        <item quantity="one">"%d Google'i konto"</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">"Selle seadme abil seadistati seadmes ^1 Google'i kontod ja nende andmed"</item>
+        <item quantity="one">"Selle seadme abil seadistati seadmes ^1 Google'i konto ja selle andmed"</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d tundi</item>
+        <item quantity="one">1 tund</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d minutit</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Neid kutseid ei saadetud vea tõttu</item>
+        <item quantity="one">Kutset ei saadetud vea tõttu</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Neid kutseid ei saa praegu saata. Saate need uuesti saata, avades Google Plays jaotise Minu konto.</item>
+        <item quantity="one">Seda kutset ei saa praegu saata. Saate selle uuesti saata, avades Google Plays jaotise Minu konto.</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d kutset on jäänud</item>
+        <item quantity="one">%d kutse on jäänud</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d uut sõnumit</item>
+        <item quantity="one">1 uus sõnum</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">Teie ees on %1$d inimest</item>
+        <item quantity="one">Teie ees on 1 inimene</item>
+    </plurals>
+    <plurals name="location_sharing_circles">
+        <item quantity="other">%d suhtlusringi</item>
+        <item quantity="one">1 suhtlusring</item>
+    </plurals>
+    <plurals name="location_sharing_duration_days">
+        <item quantity="other">%d päeva</item>
+        <item quantity="one">1 päev</item>
+    </plurals>
+    <plurals name="location_sharing_duration_hours">
+        <item quantity="other">%d t</item>
+        <item quantity="one">1 t</item>
+    </plurals>
+    <plurals name="location_sharing_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_days">
+        <item quantity="other">%d päeva</item>
+        <item quantity="one">1 päev</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_hours">
+        <item quantity="other">%d t</item>
+        <item quantity="one">1 t</item>
+    </plurals>
+    <plurals name="location_sharing_expiration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="location_sharing_people">
+        <item quantity="other">%d inimest</item>
+        <item quantity="one">1 inimene</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">Rakenduses %1$s ja veel %2$d rakenduses</item>
+        <item quantity="one">Rakenduses %1$s ja veel %2$d rakenduses</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d päeva</item>
+        <item quantity="one">%d päev</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d tundi</item>
+        <item quantity="one">%d tund</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s inimest</item>
+        <item quantity="one">%1$s inimene</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d jälgijat</item>
+        <item quantity="one">Üks jälgija</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d vaatamist</item>
+        <item quantity="one">Üks vaatamine</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Teie Google’i kontode ja andmete kopeerimine…</item>
+        <item quantity="one">Teie Google’i konto ja andmete kopeerimine…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Seda seadet kasutati seadme ^1 seadistamiseks teie Google’i kontode ja andmetega</item>
+        <item quantity="one">Seda seadet kasutati seadme ^1 seadistamiseks teie Google’i konto ja andmetega</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Taaskäivitamine %d sekundi pärast installimiseks ...</item>
+        <item quantity="one">Taaskäivitamine 1 sekundi pärast installimiseks ...</item>
+    </plurals>
+</resources>

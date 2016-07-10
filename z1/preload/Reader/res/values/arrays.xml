@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="big_images">
+        <item>http://content.dili360.com/public/data/pic/201211/800_1352702856498.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201211/800_1352453388841.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350125013.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350358130.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350115336.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350124332.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350123849.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350124594.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1351248500.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350124773.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350124777.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350124049.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350125008.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350124054.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350125003.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350113608.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350124063.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350124318.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350113982.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350124338.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/800_1350113795.jpg</item>
+    </string-array>
+    <string-array name="small_images">
+        <item>http://content.dili360.com/public/data/pic/201211/480_1352702856498.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201211/480_1352453388841.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350125013.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350358130.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350115336.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350124332.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350123849.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350124594.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1351248500.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350124773.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350124777.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350124049.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350125008.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350124054.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350125003.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350113608.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350124063.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350124318.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350113982.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350124338.jpg</item>
+        <item>http://content.dili360.com/public/data/pic/201210/480_1350113795.jpg</item>
+    </string-array>
+    <string-array name="string_array_help_titles">
+        <item>1、一键登录不成功怎么办？</item>
+        <item>2、支付异常怎么处理？</item>
+        <item>3、下载失败怎么处理？</item>
+        <item>4、书临时下架后如何继续阅读？</item>
+        <item>5、用户停机或者销户如何处理？</item>
+        <item>6、用户状态异常如何处理？</item>
+        <item>7、如何反馈问题和提出建议？</item>
+        <item>8、如何付费？</item>
+        <item>9、如何找到自己喜欢的书？</item>
+        <item>10、如何定制频道？</item>
+        <item>11、如何设置舒服的预读环境？</item>
+        <item>12、如何导入本地的书籍？</item>
+        <item>13、如何删除书架里的书籍？</item>
+        <item>14、如何离线阅读？</item>
+    </string-array>
+    <string-array name="string_array_help_contents">
+        <item>如果出现一键登录不成功，首先检查网络是否有问题，如果网络正常，可以多重试几次确保成功，或者联系客服QQ:1329139338。</item>
+        <item>一旦出现“支付异常”，可以重试几次，如果仍然失败，可能系统正在维护中或者临时故障或者书籍暂时下架，请注意系统的通知信息和书架上的“走马灯”通知信息。</item>
+        <item>一旦出现“下载失败”，可以重试几次，如果仍然失败，检查下网络情况，如果网络正常，请联系客服：QQ:1329139338。</item>
+        <item>如果书读了一部分临时下架了，我们会和版权方积极协商，一旦上架后会第一时间通知您。</item>
+        <item>由于运营商的用户状态同步不及时，如果用户有过欠费或者停机，可能会出现停机或者销户的情况，需要用户发送内容为czzt到10658080去重置状态即可正常使用阅读。</item>
+        <item>出现用户状态异常的提示后，请拨打中国移动的客服电话10086，申请恢复正常使用中国移动手机阅读业务，从中国移动手机阅读基地的黑名单库恢复正常使用。</item>
+        <item>点击书架左上方的菜单按钮，在弹出的菜单栏中选择意见反馈，编辑您要对我们提出的建议或者提出在使用时遇到的问题发送给我们，或者您也可以直接拨打客服电话:4001180066或联系客服QQ:1329139338与我们进行实时沟通。</item>
+        <item>由于全部是正版小说，所以用户大部分书是收费的。为了回馈用户，每天会推出大量精品书限免，请大家留意限免时间段。阅读通过和运营商合作，用话费支付，为了保证用户的权益以及操作简单，不需要单独充值，看一章或者一本扣一章的费用。</item>
+        <item>从书架点击书城按钮进入书城，我们的编辑为您精心筛选出了丰富的图书内容，当然您也可以直接进入搜索页面搜索自己想看的书。</item>
+        <item>点击书城右侧上方的“+”号按钮，可以订阅和取消不同类型的图书频道。</item>
+        <item>进入阅读页面后，点击屏幕中间位置，在下方弹出的菜单中可以选择阅读背景，调节字体与亮度。</item>
+        <item>点击书架左上方的菜单按钮，在弹出的菜单栏中选择本地图书，可以将你手机中的图书导入到书架中。</item>
+        <item>点击书架左上方的菜单按钮，在弹出的菜单栏中选择管理书架，可对书架中的书籍进行相应的操作。</item>
+        <item>您可以在书籍详情页面点击下载按钮，提前将图书的全部或部分章节内容下载下来，以便于在没有网络环境的时候阅读。</item>
+    </string-array>
+</resources>

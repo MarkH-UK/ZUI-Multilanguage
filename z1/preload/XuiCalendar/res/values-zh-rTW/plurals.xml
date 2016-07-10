@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="endByCount">
+        <item quantity="other">；共重複%d次</item>
+        <item quantity="one">；1次</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">每日</item>
+        <item quantity="one">每日</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">每週%2$s</item>
+        <item quantity="one">每週%2$s</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d 項活動</item>
+        <item quantity="one">1 項活動</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+另%d項活動</item>
+        <item quantity="one">還有1項活動</item>
+    </plurals>
+</resources>

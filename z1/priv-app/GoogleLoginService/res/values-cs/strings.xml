@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Chyba služeb Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Aplikace vyžaduje instalaci služeb Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Aplikace vyžaduje aktualizaci služeb Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Některá aplikace vyžaduje aktualizaci aplikace Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Aplikace vyžaduje aktivaci služeb Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Požadováno aplikací %1$s</string>
+    <string name="common_google_play_services_install_title">Instalovat služby Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Ke spuštění této aplikace jsou potřeba služby Google Play, které v telefonu nemáte.</string>
+    <string name="common_google_play_services_install_text_tablet">Ke spuštění této aplikace jsou potřeba služby Google Play, které v tabletu nemáte.</string>
+    <string name="common_google_play_services_install_button">Instalovat služby Google Play</string>
+    <string name="common_google_play_services_enable_title">Aktivovat služby Google Play</string>
+    <string name="common_google_play_services_enable_text">Ke spuštění této aplikace je třeba aktivovat služby Google Play.</string>
+    <string name="common_google_play_services_enable_button">Aktivovat služby Google Play</string>
+    <string name="common_google_play_services_update_title">Aktualizace služeb Google Play</string>
+    <string name="common_android_wear_update_title">Aktualizujte aplikaci Android Wear</string>
+    <string name="common_google_play_services_update_text">Ke spuštění této aplikace je třeba aktualizovat služby Google Play.</string>
+    <string name="common_android_wear_update_text">Aplikace bude fungovat po aktualizaci aplikace Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Chyba sítě</string>
+    <string name="common_google_play_services_network_error_text">Připojení ke službám Google Play vyžaduje datové připojení.</string>
+    <string name="common_google_play_services_invalid_account_title">Neplatný účet</string>
+    <string name="common_google_play_services_invalid_account_text">Zadaný účet v tomto zařízení neexistuje. Zvolte prosím jiný účet.</string>
+    <string name="common_google_play_services_unknown_issue">Nastal neznámý problém se službami Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Služby Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Některé vaše aplikace vyžadují služby Google Play, které ve vašem zařízení nejsou podporovány. S žádostí o pomoc se prosím obraťte na výrobce.</string>
+    <string name="common_google_play_services_update_button">Aktualizovat</string>
+    <string name="common_signin_button_text">Přihlásit se</string>
+    <string name="common_signin_button_text_long">Přihlásit se účtem Google</string>
+    <string name="common_open_on_phone">Otevřít v telefonu</string>
+    <string name="setup_wizard_next_button_label">Další</string>
+    <string name="setup_wizard_back_button_label">Zpět</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Přeskočit</string>
+    <string name="down_button_label">Další</string>
+    <string name="cancel_button_label">Zrušit</string>
+    <string name="try_again_button_label">Zkusit znovu</string>
+    <string name="close_button_label">Zavřít</string>
+    <string name="url_load_unsuccessful_message">Zařízení Android není připojeno k datové službě. Chcete-li nyní zobrazit tyto informace, přejděte ve webovém prohlížeči na adresu %s.</string>
+    <string name="sign_in_agreement">Přihlášením vyslovujete souhlas se <annotation id="tos">smluvními podmínkami společnosti Google</annotation>, <annotation id="google_privacy">zásadami ochrany soukromí</annotation> a <annotation id="play_tos">smluvními podmínkami služby Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">Další zásady ochrany soukromí</string>
+    <string name="google_terms_of_service_title">Smluvní podmínky Google</string>
+    <string name="google_privacy_policy_title">Zásady ochrany soukromí společnosti Google</string>
+    <string name="google_plus_privacy_policy_title">Osobní údaje ve službě Google Plus</string>
+    <string name="google_play_tos_title">Smluvní podmínky služby Google Play</string>
+    <string name="chrome_tos_title">Smluvní podmínky aplikace Chrome</string>
+    <string name="chrome_privacy_title">Sdělení k ochraně soukromí v Chromu</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Zařízení Android není připojeno k síti Wi-Fi. Chcete-li tyto informace zobrazit, přejděte ve webovém prohlížeči na adresu %s.</string>
+    <string name="services_activity_title">Služby Google</string>
+    <string name="services_backup_heading">Záloha</string>
+    <string name="services_location_heading">Poloha</string>
+    <string name="services_security_heading">Zabezpečení</string>
+    <string name="services_personalization_heading">Personalizace</string>
+    <string name="services_communication_heading">Komunikace</string>
+    <string name="security_verify_apps_summary">Nechte Google zkontrolovat všechny instalované aplikace, zda nevykazují škodlivé chování, které by mohlo snížit zabezpečení vašeho zařízení nebo dat.</string>
+    <string name="name_title">Vaše jméno</string>
+    <string name="name_text">Vaše jméno slouží k personalizaci telefonu a služeb Google.</string>
+    <string name="first_name">Jméno</string>
+    <string name="last_name">Příjmení</string>
+    <string name="cant_be_blank">Pole nesmí být prázdné.</string>
+    <string name="sharedUserLabel">Služby Google</string>
+    <string name="app_label">Správce účtu Google</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Přihlásit se</string>
+    <string name="create_button_label">Vytvořit účet</string>
+    <string name="not_now_button_label">Nyní ne</string>
+    <string name="new_button_label">Nový</string>
+    <string name="existing_button_label">Existující</string>
+    <string name="done">OK</string>
+    <string name="edit_text_help">Chcete-li začít psát, dotkněte se libovolného textového pole.</string>
+    <string name="add_a_google_account">Přidat účet Google</string>
+    <string name="captcha_title">Je třeba zadat text CAPTCHA</string>
+    <string name="show_error_title">Chyba</string>
+    <string name="server_error">"Při komunikaci  se servery Google došlo k potížím."</string>
+    <string name="server_error_help">Zkuste to znovu později.</string>
+    <string name="network_unreliable">Nelze navázat spolehlivé připojení k serveru.</string>
+    <string name="network_unreliable_help">Může se jednat o dočasný problém, nebo pro vaše zařízení Android nejsou zprovozněny datové služby. Pokud problém přetrvá, zavolejte zákaznickou podporu.</string>
+    <string name="network_unreliable_help_wifi_only">Může se jednat o dočasný problém. Zkuste to znovu nebo se připojte k jiné síti Wi-Fi.</string>
+    <string name="invalid_login_character">Neplatný znak. Povolené znaky jsou 0–9, a–z, A–Z a tečky.</string>
+    <string name="invalid_password_character">Heslo obsahuje neplatný znak.</string>
+    <string name="calendar">Kalendář Google</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Pole nesmí být prázdné.</string>
+    <string name="plus_query_title">Upgradujte na Google+</string>
+    <string name="plus_query_text">Se službou Google+ můžete sdílet na webu tak jako v životě.</string>
+    <string name="circles_subtitle">Přísun věcí, které máte rádi</string>
+    <string name="circles_text">Spojte se s blízkými přáteli a objevte společné zájmy.</string>
+    <string name="uploads_subtitle">Automatické zálohování fotky</string>
+    <string name="uploads_text">Zálohujte fotky hned po jejich vytvoření díky bezplatnému soukromému úložišti.</string>
+    <string name="huddle_subtitle">Videohovory a odesílání zpráv</string>
+    <string name="huddle_text">Služba Hangouts umožňuje odesílat SMS a fotky a uskutečňovat bezplatné videohovory.</string>
+    <string name="plus_declined_button_label">Nyní ne</string>
+    <string name="plus_accepted_button_label">Začínáme</string>
+    <string name="plus_name_check_title">Kontaktování služby Google+...</string>
+    <string name="plus_name_check_text">Může to trvat několik minut.</string>
+    <string name="plus_faq_title">Vítá vás Google+</string>
+    <string name="plus_faq_text" formatted="false">"Ve službě Google+ budete mít veřejný profil, pomocí kterého vás přátelé snáze najdou online. Profil může nalézt a zobrazit každý, kdo zná vaši e-mailovou adresu.
+
+Pomocí tlačítka +1 můžete kdekoli na webu dát doporučení ostatním uživatelům. Váš profil a hodnocení +1 se veřejně zobrazí ve vyhledávání, v reklamách a jinde na webu.
+
+Prozatím se ve vašem profilu zobrazí pouze jméno (%s %s). Až začnete službu Google+ používat, můžete přidat fotografii, životopis a další podrobnosti."</string>
+    <string name="dasher_warning">Administrátor domény %s vlastní a spravuje všechna vaše data ve službě Google+ a může kdykoliv smazat nebo upravit váš profil bez vašeho svolení.</string>
+    <string name="profile_info_title">Váš profil</string>
+    <string name="profile_text">Zadejte do svého profilu nějaké základní informace. Fotku a další podrobnosti můžete přidat později, až začnete používat Google+.</string>
+    <string name="occupation">Povolání</string>
+    <string name="current_city">Aktuální město</string>
+    <string name="picassa_info_title">Picasa a Google+</string>
+    <string name="picassa_info_text" formatted="false">Vaše fotografie a videa ve Webových albech Picasa budou k dispozici ve službě Google+. Vaše komentáře budou uveřejněny pod jménem %s %s namísto uživatelského jména %s. Pokud fotografie sdílíte ve službě Google+, mohou je příjemci sdílet s dalšími uživateli. Nastavení viditelnosti alba se nezmění a můžete je kdykoliv omezit, aby album nebylo možné sdílet neomezeně.</string>
+    <string name="name_title_plus">Jméno ve službě Google+</string>
+    <string name="name_title_local">Tento telefon patří...</string>
+    <string name="name_text_local">"Telefon používá vaše jméno k personalizaci  některých aplikací."</string>
+    <string name="name_progress_title">Chviličku...</string>
+    <string name="bad_name_title">Použít toto jméno?</string>
+    <string name="invalid_name_title">Toto jméno nelze použít</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Pokud chcete toto jméno používat ve službě Google+, náš tým jej musí zkontrolovat. Porušuje-li jméno naše zásady týkající se jmen, váš profil můžeme pozastavit. Nebudete pak moci plně využívat služby Google, které vyžadují aktivní profil.
+
+"<annotation id="learn_more">Další informace</annotation></string>
+    <string name="invalid_name_text">Toto jméno ve službě Google+ nelze použít, protože obsahuje neplatné znaky.</string>
+    <string name="invalid_nickname_text">Toto jméno ve službě Google+ nelze použít, protože obsahuje neplatné znaky. Zkoušíte použít přezdívku, rodné příjmení nebo titul? Do profilu je můžete přidat až po úspěšné registraci.</string>
+    <string name="invalid_other_text">Toto jméno nemůžete ve službě Google+ použít.</string>
+    <string name="bad_name_agree_text">Rozumím a chci toto jméno použít.</string>
+    <string name="bad_name_decline_button_label">Aktualizovat jméno</string>
+    <string name="bad_name_agree_button_label">Odeslat jméno ke kontrole</string>
+    <string name="bad_name_skip_button_label">Přeskočit aktivaci Google+</string>
+    <string name="photo_title">Vaše fotografie</string>
+    <string name="photo_text">Tato fotografie se použije v záznamu kontaktu. Později ji můžete změnit v aplikaci Lidé.</string>
+    <string name="photo_text_es">Pořiďte fotografii, kterou vaši přátelé uvidí ve službě Google+. Později můžete vybrat novou fotografii.</string>
+    <string name="photo_button_label">Vyfotit</string>
+    <string name="retake_photo_button_label">Znovu vyfotit</string>
+    <string name="photo_failure">Kameru se nepodařilo spustit.</string>
+    <string name="crop_failure">Fotografii nelze oříznout.</string>
+    <string name="photo_description">Vaše fotografie</string>
+    <string name="communicating_message">Telefon kontaktuje servery Google, aby uložil informace do vašeho účtu. Může to trvat až 5 minut.</string>
+    <string name="creating_account_title">Ukládání účtu...</string>
+    <string name="checking_username_message">"Telefon kontaktuje Google, aby se zjistilo, zda je požadované uživatelské jméno k dispozici.
+
+Může to trvat několik minut."</string>
+    <string name="plus_failure_title">Připojte se ke službě Google+ později</string>
+    <string name="plus_failure_new_account_text">Účet Google byl vytvořen, ale vaše žádost o připojení do služby Google+ nebyla zpracována. Zkuste to později znovu z libovolného prohlížeče na adrese plus.google.com.</string>
+    <string name="plus_failure_text">Vaše žádost o připojení do služby Google+ neprošla. Zkuste to znovu později z libovolného prohlížeče na adrese plus.google.com.</string>
+    <string name="provisioned_login_title">Zadejte heslo</string>
+    <string name="provisioned_welcome">Dobrý den, %s!</string>
+    <string name="provisioned_welcome_2">"Zadejte heslo uživatele:
+%s"</string>
+    <string name="provisioned_incorrect_login">Nejste %s?</string>
+    <string name="login_title">Zadejte e-mail a heslo</string>
+    <string name="login_task_title">Přihlašování</string>
+    <string name="password">Heslo</string>
+    <string name="restore_wifi">Obnovit a připojit se ke známým sítím Wi‑Fi</string>
+    <string name="sign_in_agreement_multi_user">Přihlášením souhlasíte se <annotation id="tos">smluvními podmínkami společnosti Google</annotation>, <annotation id="google_privacy">zásadami ochrany soukromí</annotation> a <annotation id="play_tos">smluvními podmínkami společnosti Google Play</annotation>". 
+
+Mějte na paměti, že každý uživatel může vaším jménem přijímat aktualizovaná oprávnění aplikace. Jako každý jiný počítač, i tablet byste měli sdílet pouze s lidmi, kterým důvěřujete."</string>
+    <string name="sign_in_agreement_with_chrome">Přihlášením vyjadřujete svůj souhlas se <annotation id="tos">smluvními podmínkami</annotation> a <annotation id="google_privacy">zásadami ochrany soukromí</annotation> společnosti Google, <annotation id="chrome_tos">smluvními podmínkami</annotation> a <annotation id="chrome_privacy">sděleními k ochraně soukromí </annotation> aplikace Chrome a se <annotation id="play_tos">smluvními podmínkami</annotation> služby Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Přihlášením souhlasíte se <annotation id="tos">smluvními podmínkami společnosti Google</annotation>, <annotation id="google_privacy">zásadami ochrany soukromí</annotation>, <annotation id="chrome_tos">smluvními podmínkami Chrome</annotation>, <annotation id="chrome_privacy">sdělením k ochraně soukromí</annotation> a <annotation id="play_tos">smluvními podmínkami společnosti Google Play</annotation>". 
+
+Mějte na paměti, že každý uživatel může vaším jménem přijímat aktualizovaná oprávnění aplikace. Jako každý jiný počítač, i tablet byste měli sdílet pouze s lidmi, kterým důvěřujete."</string>
+    <string name="create_prompt">" Nemáte účet Google? "<annotation id="create_account">Založte si jej</annotation> .</string>
+    <string name="sign_in_with_google_account_short">Přihlaste se pomocí svého účtu Google:</string>
+    <string name="invalid_username">Zadaný text není platné uživatelské jméno.</string>
+    <string name="captcha_instructions">Zadejte text, který se zde zobrazuje:</string>
+    <string name="create_google_account">Zvolte uživatelské jméno</string>
+    <string name="create_google_account_text">Spolu s účtem Google máte také Gmail – e-mail od Googlu. Funguje ve všech zařízeních, blokuje spam a má mnoho dalších funkcí.</string>
+    <string name="account_already_has_gmail">Účet již službu Gmail obsahuje.</string>
+    <string name="error_account_disabled">"Tento účet byl deaktivován. 
+
+(Další informace naleznete na adrese https://google.com/accounts.)"</string>
+    <string name="no_network">Není k dispozici připojení k síti.</string>
+    <string name="no_network_help">Může se jednat o dočasný problém nebo pro zařízení Android nejsou zprovozněny datové služby. Zkuste to znovu, až budete připojeni k mobilní síti, nebo se připojte k síti Wi-Fi.</string>
+    <string name="no_network_help_wifi_only">Může se jednat o dočasný problém. Zkuste to znovu nebo se připojte k jiné síti Wi-Fi.</string>
+    <string name="error_login_failed">"Uživatelské jméno a heslo si neodpovídají. Zkuste to znovu.
+
+Chcete-li obnovit údaje účtu, přejděte na adresu google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Tento účet nebyl ověřen. V počítači zkontrolujte svůj e-mail a kliknutím na příslušný odkaz účet ověřte. 
+
+(Chcete-li znovu získat informace o svém účtu, přejděte v počítači na stránku http://google.com/accounts.)"</string>
+    <string name="exit_menu_item">Ukončit přihlášení pomocí prohlížeče</string>
+    <string name="creating_profile">Vytváření účtu…</string>
+    <string name="checking_account">Kontrola dostupnosti...</string>
+    <string name="is_not_available">Uživatelské jméno <b>^1</b> není k dispozici.</string>
+    <string name="suggestions_hint">Dotykem zobrazíte návrhy</string>
+    <string name="suggest_username_next_button_label">Změnit uživatelské jméno</string>
+    <string name="hint_size">" "<b>^1</b> obsahuje méně než 6 nebo více než 30 znaků.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> neobsahuje žádná písmena</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" může obsahovat pouze písmena,
+číslice a tečky."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> nepoužívá službu Gmail</string>
+    <string name="sign_in_browser">Přihlásit se pomocí prohlížeče</string>
+    <string name="alternatives_list_title">Navrhovaná uživatelská jména</string>
+    <string name="password_title">Vytvořit heslo</string>
+    <string name="choose_a_password">Heslo</string>
+    <string name="confirm_password">Zadejte heslo znovu</string>
+    <string name="too_short">Příliš krátké</string>
+    <string name="security_questions_title">Bezpečnostní otázky</string>
+    <string name="answer">" "<b>Odpověď</b></string>
+    <string name="password_mismatch">Hesla se neshodují. Zkuste to znovu.</string>
+    <string name="eight_chars_min">minimálně 8 znaků</string>
+    <string name="verify_your_profile">Ověřte svůj profil.</string>
+    <string name="error_not_logged_in">Uživatel není přihlášen</string>
+    <string name="error_username_unavailable">Toto uživatelské jméno není k dispozici.</string>
+    <string name="error_bad_password">Heslo je příliš slabé nebo obsahuje neplatné znaky. Zkuste to znovu.</string>
+    <string name="error_bad_username">Neplatné uživatelské jméno.</string>
+    <string name="existing_account_error_title">Účet již existuje</string>
+    <string name="existing_account_error_text">Účet ^1 již v tomto zařízení Android existuje.</string>
+    <string name="submission_title">Je nám líto...</string>
+    <string name="submission_error_text">Došlo k chybě. Zkuste to znovu.</string>
+    <string name="sync_intro_title">Synchronizace účtů</string>
+    <string name="account_tos_title">Dokončit nastavení účtu</string>
+    <string name="account_tos_plus_title">Dokončit připojení do služby Google +</string>
+    <string name="i_accept">Přijímám</string>
+    <string name="i_decline">Nevytvářet účet</string>
+    <string name="allow_personalized_content">Umožnit společnosti Google použít vaše údaje k personalizaci obsahu a reklam na webech jiných společností.</string>
+    <string name="enable_web_history">Zapnout webovou historii</string>
+    <string name="learn_more"><annotation id="learn_more">Další informace</annotation></string>
+    <string name="account_creation_tos">Pokračováním vyjadřujete souhlas se <annotation id="tos">smluvními podmínkami</annotation> a <annotation id="google_privacy">zásadami ochrany soukromí</annotation> společnosti Google a se <annotation id="play_tos">smluvními podmínkami služby Google Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Pokračováním vyjadřujete souhlas se <annotation id="tos">smluvními podmínkami</annotation> a <annotation id="google_privacy">zásadami ochrany soukromí</annotation> společnosti Google, <annotation id="chrome_tos">smluvními podmínkami</annotation> a <annotation id="chrome_privacy">sděleními k ochraně soukromí</annotation> aplikace Chrome a se <annotation id="play_tos">smluvními podmínkami</annotation> služby Google Play.</string>
+    <string name="gender_prompt">Pohlaví</string>
+    <string name="gender_hint">Pohlaví</string>
+    <string name="account_pre_intro_title">Máte účet Google?</string>
+    <string name="account_pre_intro_default_message">"Máte účet Google?
+
+Pokud používáte Gmail nebo Google Apps, odpovězte Ano."</string>
+    <string name="account_pre_intro_yes">Ano</string>
+    <string name="account_pre_intro_no">Ne</string>
+    <string name="account_intro_title">Účet Google</string>
+    <string name="account_intro_required_title">Používá technologii Google</string>
+    <string name="account_intro_recommended_title">Dejte se na Google</string>
+    <string name="account_intro_default_message">Svá data už nikdy neztratíte. Účet Google udržuje vše v bezpečí.</string>
+    <string name="account_intro_simple_message">Chcete přidat již existující účet nebo vytvořit nový?</string>
+    <string name="account_intro_learn_more">Další informace</string>
+    <string name="learn_more_title">Další informace</string>
+    <string name="learn_more_account_intro">"Účet Google vám umožňuje:
+
+"<li><ul>odkudkoliv si prohlédnout a uspořádat všechny své informace včetně historie vyhledávání,</ul></li>"
+
+"<li><ul>automaticky zálohovat data jako e-mail, kontakty, hudbu a fotky,</ul></li>"
+
+"<li><ul>odkudkoliv snadno využívat služby společnosti Google jako Kontakty, Kalendář, Mapy a další.</ul></li></string>
+    <string name="learn_more_account_intro_title">O Účtech Google</string>
+    <string name="learn_more_bad_name">Google+ vyžaduje používání běžného jména. Váš profil by měl představovat jednu osobu – nikoliv firmu, organizaci nebo rodinu – a měl by obsahovat vaše jméno a příjmení v jednom jazyce bez vědeckých titulů nebo zbytečné interpunkce. Po registraci můžete ve svém profilu v poli Jiná jména vytvořit přezdívky nebo jiná jména, která jsou s vámi spojena.</string>
+    <string name="learn_more_bad_name_title">O zásadách používání jmen</string>
+    <string name="wait_for_device_country_title">Nastavení účtu</string>
+    <string name="wait_for_device_country_msg">Shromažďování informací o vašem telefonu. Operace může trvat až 30 sekund.</string>
+    <string name="recovery_title">Obnovení hesla Google</string>
+    <string name="recovery_wait_title">Kontaktování Googlu...</string>
+    <string name="cannot_talk_to_server_msg">Zařízení se nemůže spojit se serverem Google.</string>
+    <string name="recovery_skip_label">Přeskočit</string>
+    <string name="recovery_retry_label">Zkusit znovu</string>
+    <string name="recovery_message_set">"Pokud někdy zapomenete heslo, bude se vám hodit způsob, jak ho obnovit.
+
+Google poskytuje možnosti obnovení hesla prostřednictvím SMS nebo alternativní e-mailové adresy.
+
+Doporučujeme provést toto nastavení. "<annotation id="help_url">Další informace</annotation></string>
+    <string name="recovery_message_verify">"Hesla se snadno zapomenou.
+
+Zadejte telefonní číslo nebo záložní e-mailovou adresu. V případě potřeby tak budete moci snáze znovu získat přístup ke svému obsahu na Googlu a Google Play. "<annotation id="help_url">Další informace</annotation></string>
+    <string name="recovery_yes_button_label">Nastavit možnosti obnovení</string>
+    <string name="recovery_yes_button_label_verify">Potvrďte možností obnovení.</string>
+    <string name="recovery_later_button_label">Nyní ne</string>
+    <string name="recovery_input_screen_message">Tyto informace pro obnovení se vztahují na aplikaci %s</string>
+    <string name="secondary_email_hint">Záložní e-mail</string>
+    <string name="secondary_email_invalid">Neplatná e-mailová adresa</string>
+    <string name="secondary_email_same_as_primary">Nesmí být stejný jako primární e-mail.</string>
+    <string name="phone_number_hint">Telefonní číslo</string>
+    <string name="phone_number_invalid_character">V telefonním čísle jsou neplatné znaky.</string>
+    <string name="phone_number_invalid">Neplatné telefonní číslo</string>
+    <string name="country_invalid">Tato země není povolena.</string>
+    <string name="recovery_server_error">Chyba při komunikaci se serverem. Zkuste to znovu za chvíli.</string>
+    <string name="account_recovery_info">Pokud někdy ztratíte heslo, můžeme vám po zodpovězení bezpečností otázky odeslat na vaši další e-mailovou adresu odkaz na obnovení hesla.</string>
+    <string name="secondary_email_label">Sekundární e-mailová adresa</string>
+    <string name="invalid_email">"Zadaná e-mailová adresa není platná.
+ Platná adresa je například jirka@example.com."</string>
+    <string name="invalid_email_primary">Sekundární adresa nesmí být totožná s adresou, kterou nyní vytváříte.</string>
+    <string name="backup_consent_message">"Použijte svůj účet Google k zálohování aplikací, nastavení (jako jsou záložky a hesla Wi-Fi) a dalších dat. Pokud jste účet již dříve zálohovali, můžete jej nyní obnovit v tomto telefonu.
+
+Nastavení zálohování můžete kdykoli změnit v sekci Nastavení."</string>
+    <string name="backup_consent_message_no_restore">"Použijte svůj účet Google k zálohování aplikací, nastavení (jako jsou záložky a hesla Wi-Fi) a dalších dat.
+
+Nastavení zálohování můžete kdykoli změnit v sekci Nastavení."</string>
+    <string name="restoring_title">Obnovování...</string>
+    <string name="restoring_message">Telefon kontaktuje Google, aby obnovil účet. Může to nějakou dobu trvat.</string>
+    <string name="gls_notification_login_error">Dotykem se přihlásíte do svého účtu.</string>
+    <string name="gls_ui_add_account_title">Nastavení účtu</string>
+    <string name="gls_ui_activity_title">Přihlásit se</string>
+    <string name="gls_ui_activity_title_browser_signin">Přihlásit se</string>
+    <string name="gls_ui_activity_title_checking_in">Příprava...</string>
+    <string name="gls_ui_activity_authenticating">Ověřování...</string>
+    <string name="gls_dmagent_activity_activate_message">" Vaše doména vyžaduje správu mobilního zařízení. Aktivujte prosím aplikaci Google Apps Device Policy, která zajistí dodržování zásad zabezpečení vyžadovaných účtem  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Aktivovat</string>
+    <string name="gls_dmagent_activity_download_message">" Vaše doména vyžaduje správu mobilního zařízení. Nainstalujte prosím aplikaci Google Apps Device Policy, která zajistí dodržování zásad zabezpečení vyžadovaných účtem  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">Stáhnout</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Zadali jste nesprávné heslo nebo se změnil váš účet. Zadejte heslo znovu.</string>
+    <string name="permlab_googleAuthPassword">přístup k heslům účtů Google</string>
+    <string name="permdesc_googleAuthPassword">Umožňuje aplikacím přímý přístup k heslům účtů Google, které jste založili.</string>
+    <string name="permlab_googleMailSwitch">výběr služby Gmail nebo Google Mail</string>
+    <string name="permdesc_googleMailSwitch">Umožňuje aplikacím přepínat zobrazený název mezi možnostmi „Gmail“ a „Google Mail“.</string>
+    <string name="sync_item_title">%s</string>
+    <string name="grant_credentials_permission_message_footer">Je požadováno povolení pro:</string>
+    <string name="grant_credentials_permission_message_app">Tyto aplikace od této chvíle požadují přístup do vašeho účtu Google:</string>
+    <string name="grant_permissions_header_text">Žádost o povolení</string>
+    <string name="allow">Povolit přístup</string>
+    <string name="deny">Ne, děkuji</string>
+    <string name="permission_request_notification_with_subtitle">"Požadováno oprávnění
+pro účet %s"</string>
+    <string name="notification_title">Chyba přihlášení k účtu %1$s</string>
+    <string name="account_setup_title">Účet Google</string>
+    <string name="login_activity_title">Přihlásit se</string>
+    <string name="relogin_activity_title">Zadejte heslo znovu</string>
+    <string name="show_error_activity_title">Přihlášení se nezdařilo</string>
+    <string name="login_activity_task_title">Přihlašování...</string>
+    <string name="login_activity_task_msg">Může to trvat několik minut.</string>
+    <string name="prepare_account_setup_task_title">Příprava nastavení účtu…</string>
+    <string name="prepare_account_setup_task_msg">Může to trvat několik minut.</string>
+    <string name="sync_intro_activity_title">Synchronizace účtů</string>
+    <string name="username">E-mail</string>
+    <string name="error_invalid_second_factor">Namísto běžného hesla účtu použijte heslo pro konkrétní aplikaci.</string>
+    <string name="error_needs_browser">Chcete-li získat přístup k účtu, je potřeba se přihlásit na webu. Klepnutím na položku Další spustíte přihlášení pomocí prohlížeče.</string>
+    <string name="google_play_opt_in">Informujte mě o novinkách a nabídkách služby Google Play.</string>
+    <string name="google_settings_header_title">Ochrana soukromí</string>
+    <string name="maps_settings_title">Mapy a Latitude</string>
+    <string name="location_settings_title">Poloha</string>
+    <string name="search_settings_title">Vyhledávání</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Reklamy</string>
+    <string name="location_network_based">Určování polohy Google</string>
+    <string name="location_neighborhood_level">Povolit odesílání anonymních dat o poloze do Googlu a současně umožnit povoleným aplikacím, aby k určení vaší přibližné polohy využívaly data ze zdrojů, jako jsou sítě Wi-Fi a mobilní sítě.</string>
+    <string name="use_location_title">Poloha a Vyhledávání Google</string>
+    <string name="use_location_summary">Povolit Googlu použít vaši polohu ke zlepšení výsledků vyhledávání a dalších služeb</string>
+    <string name="backup_consent_yes_agree">Využijte účet Google k zálohování aplikací, nastavení (jako jsou záložky a hesla k síti Wi-Fi) a dalších údajů.</string>
+    <string name="restore_consent_yes_agree">Přeneste do tohoto telefonu aplikace, nastavení a další data, která jste před tím zálohovali na svůj účet Google.</string>
+    <string name="audit_logging_summary">Pomozte nám vylepšit službu a ochránit vaše zařízení automatickým odesíláním informací o událostech v zařízení a diagnostických údajů do Googlu.</string>
+    <string name="no_back_msg">Nelze přejít zpět na předchozí krok.</string>
+    <string name="setup_wizard_title">Průvodce nastavením</string>
+    <string name="setup_wizard_services_activity_title">Služby Google</string>
+    <string name="setup_wizard_services_description">Tyto služby umožňují Googlu pracovat pro vás a kdykoli je můžete zapnout či vypnout. Data budou požita v souladu se <annotation id="google_privacy">zásadami ochrany soukromí</annotation> společnosti Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Zálohování a obnovení</string>
+    <string name="setup_wizard_services_location_heading">Poloha</string>
+    <string name="setup_wizard_services_communication_heading">Komunikace</string>
+    <string name="setup_wizard_services_backup"><b>Umožňuje zálohovat aplikace, data aplikací, nastavení, osobní slovníky a hesla sítí Wi-Fi v telefonu</b> pomocí účtu Google, abyste je později mohli snadno obnovit. <annotation id="backup_details">Další informace</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Umožňuje zálohovat aplikace, data aplikací, nastavení, osobní slovníky a hesla sítí Wi-Fi</b> pomocí účtu Google, abyste je později mohli snadno obnovit.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Data zahrnují aplikace, nastavení aplikací, systémová nastavení a hesla sítí Wi-Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Když zapnete automatické zálohování, budou data zařízení pravidelně ukládána do vašeho účtu Google. Zálohy mohou zahrnovat informace z vašich složek dat aplikací, například nastavení, zprávy, fotky a další soubory.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Používejte služby určování polohy Google</b> a usnadněte aplikacím určení místa, kde se právě nacházíte. Budete-li je používat, do Googlu budou odesílána anonymní data o vaší poloze, i když nebudou žádné aplikace spuštěny. <annotation id="location_details">Další informace</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Služby určování polohy Google pomáhají s rychlejším a přesnějším odhadem polohy zařízení pomocí zdrojů jako sítě Wi-Fi a mobilní sítě. Když služby určování polohy Google zapnete, zařízení bude uvedeno do režimu, který určuje polohu pomocí sítí Wi-Fi a mobilních sítí. Tuto možnost můžete kdykoli vypnout v nastavení polohy, pokud vyberete režim, který používá pouze údaje GPS, někdy také zvaný jako režim Pouze zařízení.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Pomozte služby určování polohy vylepšit</b> tak, že aplikacím a službám umožníte vyhledávat sítě Wi-Fi, i když je připojení k sítím Wi-Fi vypnuto.</string>
+    <string name="setup_wizard_services_location_footnote">Pomocí signálů Wi-Fi a jiných signálů dokáže služba určování polohy Google zjistit vaši polohu rychleji a přesněji. Většinou tím zatěžuje baterii méně než při použití GPS. V zařízení se mohou ukládat některá data. Data mohou být shromažďována, i když nejsou spuštěny žádné aplikace.</string>
+    <string name="setup_wizard_services_play"><b>Chci dostávat informace</b> o novinkách a nabídkách na Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Pomozte se zlepšením prostředí Android</b> tím, že budete do Googlu automaticky odesílat diagnostická data a data o využití. Tyto informace nebudou sloužit ke zjištění vaší totožnosti. Pomohou našim týmům, které se zabývají například výdrží baterie, výkonem aplikací nebo novými funkcemi Google. <annotation id="usage_reporting_details">Další informace</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Jedná se o obecné informace o vašem zařízení a o způsobu, jakým jej využíváte – stav baterie, četnost používání aplikací, kvalita a doba připojení k síti (mobilní, Wi-Fi nebo Bluetooth), a když něco nefunguje, jak by mělo, také zprávy o selhání. Tyto informace napomohou k vylepšení služeb a aplikací Google pro všechny uživatele a nebudou přiřazeny k vašemu účtu Google. Některé souhrnné informace pomohou s vylepšením aplikací a služeb také našim partnerům, například vývojářům Android.
+
+Tuto možnost můžete kdykoli vypnout v aplikaci Nastavení Google. Nebude to mít žádný vliv na schopnost zařízení odesílat informace, které potřebuje k přijímání základních služeb, jako jsou aktualizace systému nebo zabezpečení."</string>
+    <string name="setup_wizard_services_agreement">Tento telefon může také dostávat a instalovat aktualizace a aplikace od společnosti Google, operátora a výrobce telefonu. Budete-li pokračovat, mohou být staženy a nainstalovány některé aplikace, které však můžete kdykoli odstranit.</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/settings_screen_theme" android:key="screen_theme"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin" />

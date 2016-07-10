@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d գրանշան անցել է սահմանաչափը</item>
+        <item quantity="one">%1$d գրանշան անցել է սահմանաչափը</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">Մնացել է %1$d գրանշան</item>
+        <item quantity="one">Մնացել է %1$d գրանշան</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google հաշիվ</item>
+        <item quantity="one">%d Google հաշիվ</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Այս սարքն օգտագործվել է ձեր Google հաշիվների և դրանց տվյալների օգնությամբ ^1 սարք կարգավորելու համար</item>
+        <item quantity="one">Այս սարքն օգտագործվել է ձեր Google հաշիվների և դրանց տվյալների օգնությամբ ^1 սարք կարգավորելու համար</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d ժամ</item>
+        <item quantity="one">%d ժամ</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d րոպե</item>
+        <item quantity="one">%d րոպե</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">Այս հրավերները չեն ուղարկվել սխալի պատճառով</item>
+        <item quantity="one">Այս հրավերը չի ուղարկվել սխալի պատճառով</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">Այս հրավերները չեն կարող ուղարկվել հենց հիմա: Դուք կարող եք դրանք նորից ուղարկել Google Play > Իմ հաշիվը բաժնից:</item>
+        <item quantity="one">Այս հրավերը չի կարող ուղարկվել հենց հիմա: Դուք կարող եք այն նորից ուղարկել Google Play > Իմ հաշիվը բաժնից:</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">Մնացել է %d հրավեր</item>
+        <item quantity="one">Մնացել է %d հրավեր</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d նոր հաղորդագրություն</item>
+        <item quantity="one">%1$d նոր հաղորդագրություն</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d մարդ ձեզնից առաջ է</item>
+        <item quantity="one">%1$d մարդ ձեզնից առաջ է</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s ու ևս %2$d հավելվածի կողմից</item>
+        <item quantity="one">%1$s ու ևս %2$d հավելվածի կողմից</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d հետևորդ</item>
+        <item quantity="one">%1$,d հետևորդ</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d դիտում</item>
+        <item quantity="one">%1$,d դիտում</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Google հաշիվների և տվյալների պատճենում…</item>
+        <item quantity="one">Google հաշիվների և տվյալների պատճենում…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Այս սարքի միջոցով ^1 է կարգավորվել ձեր Google հաշիվների և տվյալների հետ</item>
+        <item quantity="one">Այս սարքի միջոցով ^1 է կարգավորվել ձեր Google հաշիվների և տվյալների հետ</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Տեղադրելու համար %d վայրկյանից վերբեռնվելու է ...</item>
+        <item quantity="one">Տեղադրելու համար 1 վայրկյանից վերաբեռնվելու է...</item>
+    </plurals>
+</resources>

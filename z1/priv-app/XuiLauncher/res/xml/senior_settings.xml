@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="pref_senior_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/normal_settings" android:key="pref_normal_settings" />
+    <SwitchPreference android:layout="@layout/custom_preference" android:title="@string/enable_desktop_use_network" android:key="pref_desktop_network" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
+    <SwitchPreference android:enabled="true" android:layout="@layout/custom_preference" android:title="@string/workspace_loop_settings_title" android:key="pref_workspace_loop" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
+    <SwitchPreference android:layout="@layout/custom_preference" android:title="@string/prf_desk_layout_lock_title" android:key="pref_desk_layout_lock_configuration" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
+    <SwitchPreference android:layout="@layout/custom_preference" android:title="@string/auto_reorder_title" android:key="pref_auto_reorder" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
+    <SwitchPreference android:layout="@layout/custom_preference" android:title="@string/change_theme_title" android:key="pref_change_theme" android:defaultValue="false" />
+    <ListPreference android:entries="@array/pref_leftfunction_choices" android:layout="@layout/custom_preference1" android:title="@string/left_screen_settings_title" android:key="pref_left_funcscreen_list" android:widgetLayout="@layout/sec_pref_widget_more1" android:defaultValue="@string/pref_leftfunction_default_value" android:dialogTitle="@string/left_screen_settings_title" android:entryValues="@array/pref_leftfunction_choices_values" />
+    <Preference android:layout="@layout/custom_preference" android:title="@string/desktop_prettify_title" android:key="pref_desktop_prettify" android:widgetLayout="@layout/sec_pref_widget_more">
+        <intent android:targetPackage="com.zui.launcher" android:action="android.intent.action.MAIN" android:targetClass="com.zui.launcher.settings.DesktopPrettify" />
+    </Preference>
+    <PreferenceCategory android:title="@string/extend_settings" android:key="pref_extend_settings" />
+    <Preference android:id="@id/pref_gesture_setting" android:layout="@layout/custom_preference" android:title="@string/gesture_settings_title" android:key="pref_gesture_setting" android:widgetLayout="@layout/sec_pref_widget_more">
+        <intent android:targetPackage="com.zui.launcher" android:action="android.intent.action.MAIN" android:targetClass="com.zui.launcher.settings.GestureSettings" />
+    </Preference>
+</PreferenceScreen>

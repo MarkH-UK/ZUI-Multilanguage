@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Бар</item>
+        <item>Кафе</item>
+        <item>Жанармай бекеті</item>
+        <item>Кинотеатр</item>
+        <item>Тұрғын үй</item>
+        <item>Түнгі клуб</item>
+        <item>Мұражай</item>
+        <item>Мейрамхана</item>
+        <item>Сауда орталығы</item>
+        <item>Дүкен</item>
+        <item>Азық-т. дүк. не суперм.</item>
+        <item>Басқа</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>нашар</item>
+        <item>орташа</item>
+        <item>жақсы</item>
+        <item>күшті</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Шығарылым</item>
+        <item>Әзірлеуші</item>
+        <item>Бөлшек сауда</item>
+        <item>Демо</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Телефон мен көлікте өзара үйлеспейтін бағдарламалық құрал орнатылған. Мәлімет алу үшін &lt;a href="android.com/auto">android.com/auto&lt;/a> бетіне кіріңіз.</item>
+        <item>Көліктен алынған аудио және/немесе бейне конфигурациялары дұрыс емес.</item>
+        <item>"USB байланысы дұрыс жұмыс істеп жатқан жоқ. Орындап көруге болатын әрекеттер: 
+
+• Кабельдің екі ұшы да дұрыс жалғанғанын тексеріңіз. 
+•Қолыңызда деректер USB кабелі тұрғанын тексеріңіз. 
+•Көлік және телефон екеуінде де күн мен уақыт дұрыс орнатылғанын тексеріңіз."</item>
+        <item>Көлік Android Auto жұмысын тоқтатты.</item>
+        <item>Android Auto сеансы сұрау бойынша тоқтатылды.</item>
+        <item>Көліктің бағдарламалық құралы ескірген болуы мүмкін. Мәліметтер және қолдау алу үшін өндірушіге хабарласыңыз.</item>
+        <item>Көліктің бағдарламалық құралы Android Auto қауіпсіздік тексерулерінен өтпеді. Мәліметтер және қолдау алу үшін өндірушіге хабарласыңыз.</item>
+        <item>Көліктің бағдарламалық құралы Android Auto қауіпсіздік тексерулерінен өтпеді. Көліктің күні мен уақыты дұрыс орнатылғанын және Android Auto жаңартылғанын тексеріңіз.</item>
+        <item>Әрекеттің уақыты бітті. Қате туралы есеп пен файл туралы пікір жібергеніңіз жөн.</item>
+        <item>Қосқыш орнатылмаған сияқты, телефон дұрыс реттелген бе?</item>
+        <item>Графикалық кескін жүктелмеді. Қате туралы есеп пен файл туралы пікір жібергеніңіз жөн.</item>
+        <item>Көлік телефон хабарларына жауап бермей жатыр. Көлік қате күйде болуы мүмкін.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Әуежай</item>
+        <item>Банкомат</item>
+        <item>Банк</item>
+        <item>Бар</item>
+        <item>Автобус аялдамасы</item>
+        <item>Кафе</item>
+        <item>Кемпинг алаңы</item>
+        <item>Зират</item>
+        <item>Шіркеу</item>
+        <item>Қалалық әкімдік</item>
+        <item>Мекеме</item>
+        <item>Жанармай бекеті</item>
+        <item>Азық-түлік дүкені немесе супермаркет</item>
+        <item>Үнді ғибадатханасы</item>
+        <item>Аурухана</item>
+        <item>Кітапхана</item>
+        <item>Тұрғын үй</item>
+        <item>Мешіт</item>
+        <item>Кинотеатр</item>
+        <item>Мұражай</item>
+        <item>Саябақ</item>
+        <item>Тұрақ</item>
+        <item>Ғибадатхана</item>
+        <item>Полиция бөлімшесі</item>
+        <item>Пошта</item>
+        <item>Мейрамхана</item>
+        <item>Мектеп</item>
+        <item>Дүкен</item>
+        <item>Метро станциясы</item>
+        <item>Синагога</item>
+        <item>Теміржол станциясы</item>
+        <item>Қоғамдық көлік аялдамасы</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Қаңтар</item>
+        <item>Ақпан</item>
+        <item>Наурыз</item>
+        <item>Сәуір</item>
+        <item>Мамыр</item>
+        <item>Маусым</item>
+        <item>Шілде</item>
+        <item>Тамыз</item>
+        <item>Қыркүйек</item>
+        <item>Қазан</item>
+        <item>Қараша</item>
+        <item>Желтоқсан</item>
+    </string-array>
+</resources>

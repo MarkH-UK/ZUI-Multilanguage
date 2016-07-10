@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="adSize" format="string" />
+    <attr name="adSizes" format="string" />
+    <attr name="adUnitId" format="string" />
+    <attr name="imageAspectRatioAdjust">
+        <enum name="adjust_height" value="2" />
+        <enum name="adjust_width" value="1" />
+        <enum name="none" value="0" />
+    </attr>
+    <attr name="imageAspectRatio" format="float" />
+    <attr name="circleCrop" format="boolean" />
+    <attr name="corpusId" format="string" />
+    <attr name="corpusVersion" format="string" />
+    <attr name="contentProviderUri" format="string" />
+    <attr name="trimmable" format="boolean" />
+    <attr name="schemaOrgType" format="string" />
+    <attr name="sectionId" format="string" />
+    <attr name="sectionFormat">
+        <enum name="html" value="1" />
+        <enum name="plain" value="0" />
+        <enum name="rfc822" value="2" />
+        <enum name="url" value="3" />
+    </attr>
+    <attr name="noIndex" format="boolean" />
+    <attr name="sectionWeight" format="integer" />
+    <attr name="indexPrefixes" format="boolean" />
+    <attr name="subsectionSeparator" format="string" />
+    <attr name="schemaOrgProperty" format="string" />
+    <attr name="featureType">
+        <enum name="demote_common_words" value="2" />
+        <enum name="demote_rfc822_hostnames" value="3" />
+        <enum name="match_global_nicknames" value="1" />
+        <enum name="omnibox_title_section" value="5" />
+        <enum name="omnibox_url_section" value="4" />
+    </attr>
+    <attr name="paramName" format="string" />
+    <attr name="paramValue" format="string" />
+    <attr name="searchEnabled" format="boolean" />
+    <attr name="searchLabel" format="string" localization="suggested" />
+    <attr name="settingsDescription" format="string" localization="suggested" />
+    <attr name="defaultIntentAction" format="string" />
+    <attr name="defaultIntentData" format="string" />
+    <attr name="defaultIntentActivity" format="string" />
+    <attr name="allowShortcuts" format="boolean" />
+    <attr name="inputEnabled" format="boolean" />
+    <attr name="sourceClass">
+        <enum name="contact" value="1" />
+        <enum name="email" value="0" />
+        <enum name="instant_message" value="2" />
+    </attr>
+    <attr name="userInputTag" format="string" />
+    <attr name="userInputSection" format="string" />
+    <attr name="userInputValue" format="string" />
+    <attr name="toAddressesSection" format="string" />
+    <attr name="sectionType">
+        <enum name="icon_uri" value="2" />
+        <enum name="intent_action" value="3" />
+        <enum name="intent_activity" value="8" />
+        <enum name="intent_data" value="4" />
+        <enum name="intent_data_id" value="5" />
+        <enum name="intent_extra_data" value="6" />
+        <enum name="large_icon_uri" value="7" />
+        <enum name="text1" value="0" />
+        <enum name="text2" value="1" />
+    </attr>
+    <attr name="sectionContent" format="string" localization="suggested" />
+    <attr name="mapType">
+        <enum name="none" value="0" />
+        <enum name="hybrid" value="4" />
+        <enum name="normal" value="1" />
+        <enum name="satellite" value="2" />
+        <enum name="terrain" value="3" />
+    </attr>
+    <attr name="cameraBearing" format="float" />
+    <attr name="cameraTargetLat" format="float" />
+    <attr name="cameraTargetLng" format="float" />
+    <attr name="cameraTilt" format="float" />
+    <attr name="cameraZoom" format="float" />
+    <attr name="liteMode" format="boolean" />
+    <attr name="uiCompass" format="boolean" />
+    <attr name="uiRotateGestures" format="boolean" />
+    <attr name="uiScrollGestures" format="boolean" />
+    <attr name="uiTiltGestures" format="boolean" />
+    <attr name="uiZoomControls" format="boolean" />
+    <attr name="uiZoomGestures" format="boolean" />
+    <attr name="useViewLifecycle" format="boolean" />
+    <attr name="zOrderOnTop" format="boolean" />
+    <attr name="uiMapToolbar" format="boolean" />
+    <attr name="appTheme">
+        <enum name="holo_dark" value="0" />
+        <enum name="holo_light" value="1" />
+    </attr>
+    <attr name="environment">
+        <enum name="production" value="1" />
+        <enum name="sandbox" value="0" />
+        <enum name="strict_sandbox" value="2" />
+    </attr>
+    <attr name="fragmentStyle" format="reference" />
+    <attr name="fragmentMode">
+        <enum name="buyButton" value="1" />
+        <enum name="selectionDetails" value="2" />
+    </attr>
+    <attr name="buyButtonHeight" format="dimension">
+        <enum name="match_parent" value="-1" />
+        <enum name="wrap_content" value="-2" />
+    </attr>
+    <attr name="buyButtonWidth" format="dimension">
+        <enum name="match_parent" value="-1" />
+        <enum name="wrap_content" value="-2" />
+    </attr>
+    <attr name="buyButtonText">
+        <enum name="book_now" value="3" />
+        <enum name="buy_now" value="2" />
+        <enum name="buy_with_google" value="1" />
+        <enum name="donate_with_google" value="4" />
+    </attr>
+    <attr name="buyButtonAppearance">
+        <enum name="classic" value="1" />
+        <enum name="grayscale" value="2" />
+        <enum name="monochrome" value="3" />
+    </attr>
+    <attr name="maskedWalletDetailsTextAppearance" format="reference" />
+    <attr name="maskedWalletDetailsHeaderTextAppearance" format="reference" />
+    <attr name="maskedWalletDetailsBackground" format="reference|color" />
+    <attr name="maskedWalletDetailsButtonTextAppearance" format="reference" />
+    <attr name="maskedWalletDetailsButtonBackground" format="reference|color" />
+    <attr name="maskedWalletDetailsLogoTextColor" format="color" />
+    <attr name="maskedWalletDetailsLogoImageType">
+        <enum name="classic" value="1" />
+        <enum name="monochrome" value="2" />
+    </attr>
+    <attr name="setup_wizard_navbar_bg_color" format="color" />
+    <attr name="setup_wizard_navbar_text_color" format="color" />
+    <attr name="setup_wizard_navbar_theme" format="reference" />
+    <attr name="aspectRatio" format="float" />
+    <attr name="setup_wizard_back_button" format="reference" />
+    <attr name="setup_wizard_next_button" format="reference" />
+    <attr name="setup_wizard_divider_color" format="reference" />
+    <attr name="setup_wizard_link_color" format="reference|color" />
+</resources>

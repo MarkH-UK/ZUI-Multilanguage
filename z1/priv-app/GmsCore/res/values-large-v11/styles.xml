@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActivityStyle" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="ListItem">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+    </style>
+    <style name="SectionHeader">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">16.0dip</item>
+    </style>
+    <style name="Theme_Wallet.DialogWhenLarge" parent="@style/Theme_Wallet">
+        <item name="layoutWalletButtonBar">@layout/wallet_view_button_bar_dialog</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme_Wallet_Light.DialogWhenLarge" parent="@style/Theme_Wallet_Light">
+        <item name="layoutWalletButtonBar">@layout/wallet_view_button_bar_dialog</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

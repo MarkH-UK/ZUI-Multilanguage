@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>কোনো বিষয় নেই</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>১ সেকেন্ড</item>
+        <item>২ সেকেন্ড</item>
+        <item>৩ সেকেন্ড</item>
+        <item>৪ সেকেন্ড</item>
+        <item>৫ সেকেন্ড</item>
+        <item>৬ সেকেন্ড</item>
+        <item>৭ সেকেন্ড</item>
+        <item>৮ সেকেন্ড</item>
+        <item>৯ সেকেন্ড</item>
+        <item>১০ সেকেন্ড</item>
+        <item>অন্যান্য</item>
+    </string-array>
+</resources>

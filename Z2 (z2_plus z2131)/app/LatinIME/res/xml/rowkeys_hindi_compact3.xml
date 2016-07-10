@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_candra_o" />
+    <Key latin:keySpec="ऑ" latin:keyStyle="moreKeysDevanagariVowelSignCandraO" />
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_sign_virama" />
+    <Key latin:keyStyle="baseKeyDevanagariSignVirama" />
+    <include latin:keyboardLayout="@xml/keystyle_devanagari_sign_anusvara" />
+    <Key latin:keyStyle="baseKeyDevanagariSignAnusvara" />
+    <Key latin:moreKeys="ॐ" latin:keySpec="म" />
+    <Key latin:moreKeys="ण,ञ,ङ" latin:keySpec="न" />
+    <Key latin:keySpec="व" />
+    <Key latin:keySpec="ल" />
+    <Key latin:moreKeys="श,ष,श्र" latin:keySpec="स" />
+    <Key latin:keySpec="य" />
+    <Key latin:keySpec="क्ष" latin:keyLabelFlags="followKeyLetterRatio" />
+</merge>

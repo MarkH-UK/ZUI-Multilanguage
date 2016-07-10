@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play zerbitzuen errorea</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Aplikazio batek Google Play zerbitzuak instalatzea eskatzen du.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Aplikazio batek Google Play zerbitzuak eguneratzea eskatzen du.</string>
+    <string name="common_android_wear_notification_needs_update_text">Aplikazio batek Android Wear eguneratzea eskatzen du.</string>
+    <string name="common_google_play_services_needs_enabling_title">Aplikazio batek Google Play zerbitzuak gaituta egotea eskatzen du.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s aplikazioak eskatu du</string>
+    <string name="common_google_play_services_install_title">Lortu Google Play zerbitzuak</string>
+    <string name="common_google_play_services_install_text_phone">Aplikazio hau ez da exekutatuko Google Play zerbitzurik gabe, baina horiek ez daude telefonoan.</string>
+    <string name="common_google_play_services_install_text_tablet">Aplikazio hau ez da exekutatuko Google Play zerbitzurik gabe, baina horiek ez daude tabletan.</string>
+    <string name="common_google_play_services_install_button">Lortu Google Play zerbitzuak</string>
+    <string name="common_google_play_services_enable_title">Gaitu Google Play zerbitzuak</string>
+    <string name="common_google_play_services_enable_text">Aplikazio honek ez du funtzionatuko Google Play zerbitzuak gaitzen ez badituzu.</string>
+    <string name="common_google_play_services_enable_button">Gaitu Google Play zerbitzuak</string>
+    <string name="common_google_play_services_update_title">Eguneratu Google Play zerbitzuak</string>
+    <string name="common_android_wear_update_title">Eguneratu Android Wear</string>
+    <string name="common_google_play_services_update_text">Aplikazio hau ez da exekutatuko Google Play zerbitzuak eguneratzen ez badituzu.</string>
+    <string name="common_android_wear_update_text">Aplikazio hau ez da exekutatuko Android Wear aplikazioa eguneratu ezean.</string>
+    <string name="common_google_play_services_network_error_title">Sareko errorea</string>
+    <string name="common_google_play_services_network_error_text">Datu-konexioa behar da Google Play zerbitzuetara konektatzeko.</string>
+    <string name="common_google_play_services_invalid_account_title">Kontu baliogabea</string>
+    <string name="common_google_play_services_invalid_account_text">Zehaztutako kontua ez dago gailuan. Aukeratu beste kontu bat.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play zerbitzuekin arazo ezezaguna dago.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play zerbitzuak</string>
+    <string name="common_google_play_services_unsupported_text">Aplikazioetako batzuek behar dituzten Google Play zerbitzuak ez dira zure gailuan onartzen. Laguntza lortzeko, jarri fabrikatzailearen harremanetan.</string>
+    <string name="common_google_play_services_update_button">Eguneratu</string>
+    <string name="common_signin_button_text">Hasi saioa</string>
+    <string name="common_signin_button_text_long">Hasi saioa Google-n</string>
+    <string name="common_open_on_phone">Ireki telefonoan</string>
+    <string name="setup_wizard_next_button_label">Aurrera</string>
+    <string name="setup_wizard_back_button_label">Atzera</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Saltatu</string>
+    <string name="down_button_label">Gehiago</string>
+    <string name="cancel_button_label">Utzi</string>
+    <string name="try_again_button_label">Saiatu berriro</string>
+    <string name="close_button_label">Itxi</string>
+    <string name="url_load_unsuccessful_message">Android gailua ez dago datu-zerbitzu batera konektatuta. Informazioa ikusteko, joan %s helbidera web-arakatzaile bat erabilita.</string>
+    <string name="sign_in_agreement">Saioa hasiz gero, Google <annotation id="tos">Zerbitzu-baldintzak</annotation>, <annotation id="google_privacy">Pribatutasun-gidalerroak</annotation> eta <annotation id="play_tos">Google Play Zerbitzu-baldintzak</annotation> onartuko dituzu.</string>
+    <string name="android_privacy_policy_title">Pribatutasun-gidalerro gehigarriak</string>
+    <string name="google_terms_of_service_title">Google Zerbitzu-baldintzak</string>
+    <string name="google_privacy_policy_title">Google pribatutasun-gidalerroak</string>
+    <string name="google_plus_privacy_policy_title">Google+ pribatutasun-gidalerroak</string>
+    <string name="google_play_tos_title">Google Play Zerbitzu-baldintzak</string>
+    <string name="chrome_tos_title">Chrome Zerbitzu-baldintzak</string>
+    <string name="chrome_privacy_title">Chrome Pribatutasun-oharra</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android gailua ez dago Wi-Fi sare batera konektatuta. Informazioa ikusteko, joan %s helbidera web-arakatzaile baten bidez.</string>
+    <string name="services_activity_title">Google zerbitzuak</string>
+    <string name="services_backup_heading">Babeskopiak</string>
+    <string name="services_location_heading">Kokapena</string>
+    <string name="services_security_heading">Segurtasuna</string>
+    <string name="services_personalization_heading">Pertsonalizazioa</string>
+    <string name="services_communication_heading">Komunikazioa</string>
+    <string name="security_verify_apps_summary">Utzi Google-ri instalatutako aplikazio guztiak egiaztatzen, gailuaren edo datuen segurtasunean eragina izan dezakeen portaera kaltegarri potentzialik duten begiratzeko.</string>
+    <string name="name_title">Zure izena</string>
+    <string name="name_text">Telefonoa eta Google zerbitzuak pertsonalizatzeko erabiliko da zure izena.</string>
+    <string name="first_name">Izena</string>
+    <string name="last_name">Abizena</string>
+    <string name="cant_be_blank">Eremua ezin da hutsik utzi.</string>
+    <string name="sharedUserLabel">Google zerbitzuak</string>
+    <string name="app_label">Google kontu-kudeatzailea</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Hasi saioa</string>
+    <string name="create_button_label">Lortu kontu bat</string>
+    <string name="not_now_button_label">Orain ez</string>
+    <string name="new_button_label">Berria</string>
+    <string name="existing_button_label">Lehendik daudenak</string>
+    <string name="done">Ados</string>
+    <string name="edit_text_help">Idazten hasteko, ukitu edozein testu-koadro</string>
+    <string name="add_a_google_account">Gehitu Google kontu bat</string>
+    <string name="captcha_title">Nahitaezkoa da captcha irudia idaztea</string>
+    <string name="show_error_title">Errorea</string>
+    <string name="server_error">Arazo bat gertatu da Google zerbitzariekin komunikatzean.</string>
+    <string name="server_error_help">Saiatu berriro geroago.</string>
+    <string name="network_unreliable">Ezin da konexio fidagarririk ezarri zerbitzariarekin.</string>
+    <string name="network_unreliable_help">Aldi baterako arazoa izan daiteke edo baliteke Android gailuak datu-zerbitzuen hornikuntzarik ez izatea. Arazoak bere horretan jarraitzen badu, deitu bezeroarentzako arreta-zerbitzura.</string>
+    <string name="network_unreliable_help_wifi_only">Aldi baterako arazoa izan daiteke. Saiatu berriro edo konektatu beste Wi-Fi sare batera.</string>
+    <string name="invalid_login_character">Karaktere baliogabea. 0 eta 9 arteko zenbakiak, hizki minuskulak nahiz maiuskulak eta puntuak onartzen dira soilik.</string>
+    <string name="invalid_password_character">Pasahitzak karaktere baliogabea du.</string>
+    <string name="calendar">Google Calendar</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Eremua ezin da hutsik utzi.</string>
+    <string name="plus_query_title">Bertsio-berritu Google+era</string>
+    <string name="plus_query_text">Google+ekin, webean partekatzea bizitza errealean partekatzea bezalakoxea da.</string>
+    <string name="circles_subtitle">Gustatzen zaizkizun gauzen korrontea</string>
+    <string name="circles_text">Konektatu lagun minekin eta arakatu guztioi interesatzen zaizkizuen gauzak.</string>
+    <string name="uploads_subtitle">Argazkien babeskopia automatikoak</string>
+    <string name="uploads_text">Egin argazkien babeskopiak, atera ahala, doako memoria pribatuarekin.</string>
+    <string name="huddle_subtitle">Bideo-deiak eta mezuak</string>
+    <string name="huddle_text">Gozatu testu-mezuez eta taldeko bideo-deiez Hangouts zerbitzuarekin.</string>
+    <string name="plus_declined_button_label">Orain ez</string>
+    <string name="plus_accepted_button_label">Lehen urratsak</string>
+    <string name="plus_name_check_title">Google+ekin konektatzen jartzen…</string>
+    <string name="plus_name_check_text">Minutu gutxi batzuk luza daiteke.</string>
+    <string name="plus_faq_title">Ongi etorri Google+era!</string>
+    <string name="plus_faq_text" formatted="false">"Google+en, lagunei zu aurkitzen laguntzeko profil publiko bat izango duzu. Zure helbide elektronikoa ezagutzen duen edonork zure profila aurkitu eta ikusi ahal izango du.
+
+Web osoan aurkituko dituzun +1 botoiak erabil ditzakezu gustuko dituzun gauzak mundu osoari gomendatzeko. Zure profila eta egiten dituzun +1ak publiko izango dira eta, beraz, bilaketetan, iragarkietan eta web osoan agertuko dira.
+
+Oraingoz, izena baino ez zaizu agertuko profilean, (%s %s). Argazki bat, biografia eta beste xehetasun batzuk gehitu ahal izango dituzu geroago Google+ erabilita."</string>
+    <string name="dasher_warning">%s domeinuko administratzailea Google+en dituzun datu guztien jabea eta kudeatzailea da, eta edonoiz ezaba edo alda dezake zure profila zure baimenik gabe.</string>
+    <string name="profile_info_title">Zure profila</string>
+    <string name="profile_text">Idatzi oinarrizko informazioa zure profilean. Argazkia eta bestelako xehetasunak geroago gehi ditzakezu, Google+ erabiltzen hasten zarenean.</string>
+    <string name="occupation">Lanbidea</string>
+    <string name="current_city">Uneko hiria</string>
+    <string name="picassa_info_title">Picasa eta Google+</string>
+    <string name="picassa_info_text" formatted="false">Picasa Web Albums zerbitzuan dituzun argazkiak Google+en ere erabilgarri egongo dira eta, bidaltzen dituzun iruzkinetan, %s %s izango da egilea, ez %s. Argazkiak Google+ bidez partekatzen dituzunean, hartzaileek beste edonorekin partekatu ahal izango dituzte. Zure albumen ikusgaitasun-ezarpenak ez dira aldatuko eta, edonola ere, edozein unetan mugatu ahal izango dituzu, zuk partekatutakoa nahieran parteka ez dadin.</string>
+    <string name="name_title_plus">Google+ izena</string>
+    <string name="name_title_local">Hau da telefonoaren jabea…</string>
+    <string name="name_text_local">Telefonoak zure izena erabiliko du zenbait aplikazio pertsonalizatzeko.</string>
+    <string name="name_progress_title">Itxaron unetxo batean…</string>
+    <string name="bad_name_title">Izen hori erabili?</string>
+    <string name="invalid_name_title">Ezin da izen hori erabili</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Izen hori Google+en erabili nahi baduzu, gure taldeak berrikusi egin beharko du. Izenen gidalerroak urratzen baditu, baliteke zure profila desgaitzea. Hori gertatzen bada, profil aktiboa eskatzen duten Google produktuak erabiltzeko arazoak izango dituzu.
+
+"<annotation id="learn_more">Lortu informazio gehiago</annotation></string>
+    <string name="invalid_name_text">Ezin duzu izen hori Google+en erabili, karaktere baliogabeak dituelako.</string>
+    <string name="invalid_nickname_text">Ezin duzu izen hori Google+en erabili, karaktere baliogabeak dituelako. Goitizena, aurreko izen bat edo besteren bat erabiltzen saiatzen ari zara? Erregistratu ondoren izango duzu horiek gehitzeko aukera.</string>
+    <string name="invalid_other_text">Izen hori ezin da Google+en erabili.</string>
+    <string name="bad_name_agree_text">Ulertu dut eta adierazitako izena erabili nahi dut.</string>
+    <string name="bad_name_decline_button_label">Eguneratu izena</string>
+    <string name="bad_name_agree_button_label">Bidali izena berrikusteko</string>
+    <string name="bad_name_skip_button_label">Saltatu Google+</string>
+    <string name="photo_title">Zure argazkia</string>
+    <string name="photo_text">Argazkia zure kontaktuaren erregistrorako erabiliko da. Geroago aldatu ahal izango duzu Jendea aplikazioan.</string>
+    <string name="photo_text_es">Atera lagunek Google+en ikusiko duten argazkia. Beste argazki bat aukeratu ahal izango duzu geroago.</string>
+    <string name="photo_button_label">Atera argazkia</string>
+    <string name="retake_photo_button_label">Atera berriro</string>
+    <string name="photo_failure">Ezin izan da kamera abiarazi.</string>
+    <string name="crop_failure">Ezin izan da argazkia ebaki.</string>
+    <string name="photo_description">Zure argazkia</string>
+    <string name="communicating_message">Telefonoa Google-rekin konektatzen ari da, kontuan informazioa gordetzeko. 5 minutura arte luza daiteke.</string>
+    <string name="creating_account_title">Kontua gordetzen…</string>
+    <string name="checking_username_message">"Telefonoa Google-rekin konektatzen ari da, eskatu duzun erabiltzaile-izena erabilgarri dagoen ikusteko.
+
+Minutu pare bat luza daiteke."</string>
+    <string name="plus_failure_title">Erregistratu Google+en geroago</string>
+    <string name="plus_failure_new_account_text">Google kontua sortu duzu, baina Google+en erregistratzeko egin duzun eskaerak ez du aurrera egin. Saiatu geroago plus.google.com bisitatzen edozein web-arakatzaileren bidez.</string>
+    <string name="plus_failure_text">Google+en erregistratzeko egin duzun eskaerak ez du aurrera egin. Saiatu geroago plus.google.com bisitatzen edozein web-arakatzaileren bidez.</string>
+    <string name="provisioned_login_title">Idatzi pasahitza</string>
+    <string name="provisioned_welcome">Kaixo, %s!</string>
+    <string name="provisioned_welcome_2">"Idatzi honen pasahitza:
+%s"</string>
+    <string name="provisioned_incorrect_login">Ez al zara %s?</string>
+    <string name="login_title">Idatzi helbide elektronikoa eta pasahitza</string>
+    <string name="login_task_title">Saioa hasten</string>
+    <string name="password">Pasahitza</string>
+    <string name="restore_wifi">Leheneratu eta konektatu Wi-Fi sare ezagunetara.</string>
+    <string name="sign_in_agreement_multi_user">Saioa hasiz gero, Google <annotation id="tos">Zerbitzu-baldintzak</annotation>, <annotation id="google_privacy">Pribatutasun-gidalerroak</annotation> eta <annotation id="play_tos">Google Play Zerbitzu-baldintzak</annotation>" onartuko dituzu. 
+
+Gogoratu: beste erabiltzaileek zure izenean onar ditzakete aplikazioen baimen eguneratuak. Ordenagailuekin bezala, fidagarritzat jotzen duzun jendearekin soilik partekatu beharko zenuke tableta."</string>
+    <string name="sign_in_agreement_with_chrome">Saioa hasiz gero, Google <annotation id="tos">Zerbitzu-baldintzak</annotation> eta <annotation id="google_privacy">Pribatutasun-gidalerroak</annotation>, Chrome <annotation id="chrome_tos">Zerbitzu-baldintzak</annotation> eta <annotation id="chrome_privacy">Pribatutasun-oharra</annotation>, eta Google Play <annotation id="play_tos">Zerbitzu-baldintzak</annotation> onartuko dituzu.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Saioa hasiz gero, Google <annotation id="tos">Zerbitzu-baldintzak</annotation> eta <annotation id="google_privacy">Pribatutasun-gidalerroak</annotation>, Chrome <annotation id="chrome_tos">Zerbitzu-baldintzak</annotation> eta <annotation id="chrome_privacy">Pribatutasun-oharra</annotation>, eta Google Play <annotation id="play_tos">Zerbitzu-baldintzak</annotation>" onartuko dituzu. 
+
+Gogoratu: beste erabiltzaileek zure izenean onar ditzakete aplikazioen baimen eguneratuak. Ordenagailuekin bezala, fidagarritzat jotzen duzun jendearekin soilik partekatu beharko zenuke tableta."</string>
+    <string name="create_prompt">" Ez duzu Google konturik? "<annotation id="create_account">Sortu bat</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Hasi saioa Google kontuarekin:</string>
+    <string name="invalid_username">Idatzi duzun testua ez da baliozko erabiltzaile-izena.</string>
+    <string name="captcha_instructions">Idatzi hemen ikusten duzun testua:</string>
+    <string name="create_google_account">Aukeratu erabiltzaile-izena</string>
+    <string name="create_google_account_text">Google kontuak Gmail dakar, hots, Google-ren posta elektronikoa. Edozein gailutan funtzionatzen du, spama blokeatzen du eta beste gauza asko egiten ditu.</string>
+    <string name="account_already_has_gmail">Kontuak Gmail du dagoeneko.</string>
+    <string name="error_account_disabled">"Desgaitu egin da kontua. 
+
+(Xehetasunak lortzeko, joan https://google.com/accounts orria web-arakatzaile baten bidez.)"</string>
+    <string name="no_network">Ez duzu sareko konexiorik.</string>
+    <string name="no_network_help">Aldi baterako arazoa izan daiteke edo baliteke Android gailuak datu-zerbitzuen hornikuntzarik ez izatea. Saiatu berriro sare mugikor batera konektatuta zaudenean edo konektatu Wi-Fi sare batera.</string>
+    <string name="no_network_help_wifi_only">Aldi baterako arazoa izan daiteke. Saiatu berriro edo konektatu beste Wi-Fi sare batera.</string>
+    <string name="error_login_failed">"Erabiltzaile-izena eta pasahitza ez datoz bat. Saiatu berriro.
+
+Kontuko informazioa berreskuratzeko, joan google.com/accounts/recovery/ orrira."</string>
+    <string name="error_account_not_verified">"Ez da kontua egiaztatu. Kontua egiaztatzeko, begiratu posta elektronikoa eta erabili bidali dizugun esteka. 
+
+(Kontuaren informazioa berreskuratzeko, joan http://www.google.com/accounts/recovery orrira ordenagailuaren bidez)."</string>
+    <string name="exit_menu_item">Irten arakatzailearen saio-hasieratik</string>
+    <string name="creating_profile">Profila sortzen…</string>
+    <string name="checking_account">Erabilgarritasuna egiaztatzen…</string>
+    <string name="is_not_available"><b>^1</b> erabiltzaile-izena ez dago erabilgarri.</string>
+    <string name="suggestions_hint">Iradokizunak egiteko, ukitu hau</string>
+    <string name="suggest_username_next_button_label">Aldatu erabiltzaile-izena</string>
+    <string name="hint_size">" "<b>^1</b> erabiltzaile-izenak 6 karaktere baino gutxiago edo 30 baino gehiago ditu.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> erabiltzaile-izenak ez du hizkirik.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" erabiltzaile-izenak hizkiak,
+zenbakiak eta puntuak izan ditzake soilik."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> kontuak ez du Gmail erabiltzen.</string>
+    <string name="sign_in_browser">Arakatzailearen saio-hasiera</string>
+    <string name="alternatives_list_title">Iradokitako erabiltzaile-izenak</string>
+    <string name="password_title">Sortu pasahitza</string>
+    <string name="choose_a_password">Pasahitza</string>
+    <string name="confirm_password">Idatzi berriro pasahitza</string>
+    <string name="too_short">Laburregia</string>
+    <string name="security_questions_title">Segurtasun-galderak</string>
+    <string name="answer">" "<b>Erantzuna</b></string>
+    <string name="password_mismatch">Pasahitzak ez datoz bat. Saiatu berriro.</string>
+    <string name="eight_chars_min">8 karaktere gutxienez</string>
+    <string name="verify_your_profile">Egiaztatu profila</string>
+    <string name="error_not_logged_in">Erabiltzaileak ez du saioa hasi.</string>
+    <string name="error_username_unavailable">Erabiltzaile-izena ez dago erabilgarri.</string>
+    <string name="error_bad_password">Pasahitza ahulegia da edo karaktere baliogabeak ditu. Saiatu berriro.</string>
+    <string name="error_bad_username">Erabiltzaile-izen baliogabea.</string>
+    <string name="existing_account_error_title">Kontua badago lehendik ere</string>
+    <string name="existing_account_error_text">^1 izeneko kontu bat dago lehendik ere Android gailu honetan.</string>
+    <string name="submission_title">Barkatu…</string>
+    <string name="submission_error_text">Errore bat gertatu da. Saiatu berriro.</string>
+    <string name="sync_intro_title">Sinkronizatu kontua</string>
+    <string name="account_tos_title">Amaitu kontua</string>
+    <string name="account_tos_plus_title">Amaitu Google+en erregistratzen</string>
+    <string name="i_accept">Onartzen dut</string>
+    <string name="i_decline">Ez sortu kontua</string>
+    <string name="allow_personalized_content">Baimendu Google-ri zure informazioa erabiltzea Google-renak ez diren webguneetako edukia eta iragarkiak pertsonalizatzeko.</string>
+    <string name="enable_web_history">Aktibatu web-historia</string>
+    <string name="learn_more"><annotation id="learn_more">Informazio gehiago</annotation></string>
+    <string name="account_creation_tos">Jarraituz gero, Google <annotation id="tos">Zerbitzu-baldintzak</annotation>, <annotation id="google_privacy">Pribatutasun-gidalerroak</annotation> eta <annotation id="play_tos">Google Play Zerbitzu-baldintzak</annotation> onartuko dituzu.</string>
+    <string name="account_creation_tos_with_chrome">Jarraituz gero, Google <annotation id="tos">Zerbitzu-baldintzak</annotation> eta <annotation id="google_privacy">Pribatutasun-gidalerroak</annotation>, Chrome <annotation id="chrome_tos">Zerbitzu-baldintzak</annotation> eta <annotation id="chrome_privacy">Pribatutasun-oharra</annotation> eta Google Play <annotation id="play_tos">Zerbitzu-baldintzak</annotation> onartuko dituzu.</string>
+    <string name="gender_prompt">Sexua</string>
+    <string name="gender_hint">Sexua</string>
+    <string name="account_pre_intro_title">Ba al daukazu Google konturik?</string>
+    <string name="account_pre_intro_default_message">"Ba al daukazu Google konturik?
+
+Gmail edo Google Apps erabiltzen baduzu, erantzun Bai."</string>
+    <string name="account_pre_intro_yes">Bai</string>
+    <string name="account_pre_intro_no">Ez</string>
+    <string name="account_intro_title">Google kontua</string>
+    <string name="account_intro_required_title">Google-ren teknologiarekin</string>
+    <string name="account_intro_recommended_title">Sartu Google zure gailuan</string>
+    <string name="account_intro_default_message">Ez galdu sekula zure gauzak berriro. Google kontuari esker, dena seguru izango duzu.</string>
+    <string name="account_intro_simple_message">Lehendik dagoen kontu bat gehitu edo kontu bat sortu nahi duzu?</string>
+    <string name="account_intro_learn_more">Lortu informazio gehiago</string>
+    <string name="learn_more_title">Lortu informazio gehiago</string>
+    <string name="learn_more_account_intro">"Google kontuarekin hau egin dezakezu:
+
+"<li><ul>Ikusi eta antolatu zure informazio guztia (bilaketa-historia barne), edonon zaudela ere.</ul></li>"
+
+"<li><ul>Egin datuen babeskopia automatikoak (adibidez mezu elektronikoak, kontaktuak, musika eta argazkiak).</ul></li>"
+
+"<li><ul>Erabili Google zerbitzuak erraz edonon zaudela ere; besteak beste, Kontaktuak, Calendar, Maps eta beste.</ul></li></string>
+    <string name="learn_more_account_intro_title">Google Kontuak zerbitzuari buruz</string>
+    <string name="learn_more_bad_name">Google+ erabiltzeko, egiazko izena erabili behar duzu. Zure profilak pertsona bat ordezkatu behar du, ez enpresa, erakunde edo familia bat, eta izena eta lehen abizena eman beharko dituzu, hizkuntza bakarrean eta titulu profesionalik nahiz beharrezkoa ez den puntuazio-ikurrik gabe. Erregistratu ondoren, zurekin erlazionatutako goitizenak edo bestelako izenak adierazi ahal izango dituzu profileko Beste izenak atalean.</string>
+    <string name="learn_more_bad_name_title">Izenen gidalerroei buruz</string>
+    <string name="wait_for_device_country_title">Kontuaren konfigurazioa</string>
+    <string name="wait_for_device_country_msg">Telefonoari buruzko informazioa biltzen. Gehienez ere, 30 segundo beharko dira.</string>
+    <string name="recovery_title">Google pasahitza berreskuratzea</string>
+    <string name="recovery_wait_title">Google-ra konektatzen…</string>
+    <string name="cannot_talk_to_server_msg">Gailua ezin izan da Google-rekin harremanetan jarri.</string>
+    <string name="recovery_skip_label">Saltatu</string>
+    <string name="recovery_retry_label">Saiatu berriro</string>
+    <string name="recovery_message_set">"Pasahitza ahazten baduzu, hori berreskuratzeko moduren bat nahi izango duzu.
+
+Pasahitza SMS edo ordezko helbide elektroniko bidez berreskuratzeko aukerak eskaintzen ditu Google-k.
+
+Urrats hori biziki gomendatzen dugu. "<annotation id="help_url">Lortu informazio gehiago</annotation></string>
+    <string name="recovery_message_verify">"Erraza da pasahitzak ahaztea.
+
+Berretsi telefono-zenbakia edo ordezko helbide elektronikoa. Horrela, Google eta Google Play zerbitzuetan duzun edukirako sarbidea berreskuratu ahal izango duzu. "<annotation id="help_url">Lortu informazio gehiago</annotation></string>
+    <string name="recovery_yes_button_label">Konfiguratu berreskuratze-aukerak</string>
+    <string name="recovery_yes_button_label_verify">Berretsi berreskuratze-aukerak</string>
+    <string name="recovery_later_button_label">Orain ez</string>
+    <string name="recovery_input_screen_message">Pasahitza berreskuratzeko informazio hau %s aplikazioari dagokio.</string>
+    <string name="secondary_email_hint">Ordezko helbidea</string>
+    <string name="secondary_email_invalid">Helbide elektroniko baliogabea</string>
+    <string name="secondary_email_same_as_primary">Ezin da helbide nagusiaren berdina izan</string>
+    <string name="phone_number_hint">Telefono-zenbakia</string>
+    <string name="phone_number_invalid_character">Karaktere baliogabeak daude zenbakian</string>
+    <string name="phone_number_invalid">Telefono-zenbakiak ez du balio</string>
+    <string name="country_invalid">Herrialdea ez dago baimenduta</string>
+    <string name="recovery_server_error">Errore bat gertatu da zerbitzarira konektatzean. Saiatu berriro geroago.</string>
+    <string name="account_recovery_info">Inoiz pasahitza galtzen baduzu, segurtasun-galdera erantzunda, pasahitza berrezartzeko esteka bidaliko dizugu beste helbide batera.</string>
+    <string name="secondary_email_label">Kontua berreskuratzeko helbidea</string>
+    <string name="invalid_email">"Idatzi duzun helbide elektronikoa ez da baliozkoa.
+ Adibidea: jon@adibidea.com"</string>
+    <string name="invalid_email_primary">Kontua berreskuratzeko helbideak eta sortzen ari zarenak ezin dute berdinak izan.</string>
+    <string name="backup_consent_message">"Erabili Google kontua aplikazioen, ezarpenen (esaterako, laster-markak eta Wi-Fi pasahitzak) zein beste datuen babeskopiak egiteko. Kontuaren babeskopiak dagoeneko egin badituzu, babeskopiak leheneratu eta telefonora ekar ditzakezu.
+
+Babeskopien ezarpenak edonoiz alda ditzakezu Ezarpenak atalean."</string>
+    <string name="backup_consent_message_no_restore">"Erabili Google kontua aplikazioen, ezarpenen (esaterako, laster-markak eta Wi-Fi pasahitzak) zein beste datuen babeskopiak egiteko.
+
+Babeskopien ezarpenak edonoiz alda ditzakezu Ezarpenak atalean."</string>
+    <string name="restoring_title">Leheneratzen…</string>
+    <string name="restoring_message">Telefonoa Google-rekin konektatzen ari da zure kontua leheneratzeko. Zertxobait luzatuko da.</string>
+    <string name="gls_notification_login_error">Kontuan saioa hasteko, ukitu hau.</string>
+    <string name="gls_ui_add_account_title">Kontuaren konfigurazioa</string>
+    <string name="gls_ui_activity_title">Hasi saioa</string>
+    <string name="gls_ui_activity_title_browser_signin">Hasi saioa</string>
+    <string name="gls_ui_activity_title_checking_in">Prestatzen…</string>
+    <string name="gls_ui_activity_authenticating">Autentifikatzen…</string>
+    <string name="gls_dmagent_activity_activate_message">" Zure domeinuak gailu mugikorrak kudeatzea eskatzen du.  "<b>^1</b> erabiltzailearen kontuak eskatzen dituen segurtasun-gidalerroak gordearazteko, aktibatu \"Google Apps gailuen gidalerroak\" aplikazioa.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Aktibatu</string>
+    <string name="gls_dmagent_activity_download_message">" Zure domeinuak gailu mugikorrak kudeatzea eskatzen du.  "<b>^1</b> erabiltzailearen kontuak eskatzen dituen segurtasun-gidalerroak gordearazteko, instalatu \"Google Apps gailuen gidalerroak\" aplikazioa.</string>
+    <string name="gls_dmagent_activity_download_retry_button">Deskargatu</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Pasahitz okerra idatzi duzu edo kontua aldatu egin da. Idatzi berriro pasahitza.</string>
+    <string name="permlab_googleAuthPassword">Atzitu Google kontuen pasahitzak</string>
+    <string name="permdesc_googleAuthPassword">Konfiguratu dituzun Google kontuen pasahitzetarako sarbide zuzena baimentzen die aplikazioei.</string>
+    <string name="permlab_googleMailSwitch">Hautatu Gmail edo Google Mail izendapena</string>
+    <string name="permdesc_googleMailSwitch">Bistaratutako izena \"Gmail\" eta \"Google Mail\" izendapenen artean aldatzeko aukera ematen du.</string>
+    <string name="sync_item_title">Sinkronizatu %s</string>
+    <string name="grant_credentials_permission_message_footer">Ekintza hauek hau egiteko baimena eskatzen ari dira:</string>
+    <string name="grant_credentials_permission_message_app">Aplikazio hauek zure Google konturako sarbidea izan nahi dute aurrerantzean:</string>
+    <string name="grant_permissions_header_text">Baimen-eskaera</string>
+    <string name="allow">Baimendu atzitzea</string>
+    <string name="deny">Ez, eskerrik asko</string>
+    <string name="permission_request_notification_with_subtitle">"Baimena eskatu da
+%s konturako"</string>
+    <string name="notification_title">Errore bat gertatu da %1$s kontuan saioa hastean</string>
+    <string name="account_setup_title">Google kontua</string>
+    <string name="login_activity_title">Hasi saioa</string>
+    <string name="relogin_activity_title">Idatzi berriro pasahitza</string>
+    <string name="show_error_activity_title">Ezin izan da saioa hasi</string>
+    <string name="login_activity_task_title">Saioa hasten…</string>
+    <string name="login_activity_task_msg">Minutu batzuk luza daiteke.</string>
+    <string name="prepare_account_setup_task_title">Kontuaren konfigurazioa prestatzen…</string>
+    <string name="prepare_account_setup_task_msg">Minutu batzuk luza daiteke.</string>
+    <string name="sync_intro_activity_title">Sinkronizatu kontua</string>
+    <string name="username">Helbide elektronikoa</string>
+    <string name="error_invalid_second_factor">Erabili aplikazioaren berariazko pasahitza zure kontuko ohiko pasahitzaren ordez.</string>
+    <string name="error_needs_browser">Kontuan sartzeko, webean saioa hasi behar duzu. Ukitu Hurrengoa arakatzailean saioa hasteko.</string>
+    <string name="google_play_opt_in">Eman Google Play-ko azken albisteen eta eskaintzen berri.</string>
+    <string name="google_settings_header_title">Pribatutasuna</string>
+    <string name="maps_settings_title">Maps eta Latitude</string>
+    <string name="location_settings_title">Kokapena</string>
+    <string name="search_settings_title">Bilaketa</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Iragarkiak</string>
+    <string name="location_network_based">Google kokapen-zerbitzua</string>
+    <string name="location_neighborhood_level">Baimendu kokapen-datu anonimoak Google-ra bidaltzea. Halaber, baimendu onartutako aplikazioek Wi-Fi konexioak eta sare mugikorrak bezalako iturburuetako datuak erabiltzea, zure gutxi gorabeherako kokapena zehazteko.</string>
+    <string name="use_location_title">Kokapena eta Google Bilaketa</string>
+    <string name="use_location_summary">Utzi Google-ri zure kokapena erabiltzen bilaketa-emaitzak eta bestelako zerbitzuak hobetzeko</string>
+    <string name="backup_consent_yes_agree">Erabili Google kontua aplikazioen, ezarpenen (adibidez, laster-markak eta Wi-Fi pasahitzak) eta beste hainbat daturen babeskopiak egiteko.</string>
+    <string name="restore_consent_yes_agree">Ekarri telefono honetara Google kontuan babeskopia dituzten aplikazioak, ezarpenak eta beste hainbat datu.</string>
+    <string name="audit_logging_summary">Bidali automatikoki gailuaren gertaerei eta diagnostikoei buruzko informazioa Google-ri, gure produktuak eta zerbitzuak hobetzen eta gailua babesten laguntzeko.</string>
+    <string name="no_back_msg">Ezin da aurreko urratsera itzuli.</string>
+    <string name="setup_wizard_title">Konfigurazio-morroia</string>
+    <string name="setup_wizard_services_activity_title">Google zerbitzuak</string>
+    <string name="setup_wizard_services_description">Zerbitzuek zuretzat lanean jartzen dute Google eta edonoiz aktiba edo desaktiba ditzakezu. Datuak Google-ren <annotation id="google_privacy">Pribatutasun-gidalerroen</annotation> arabera erabiliko dira.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Babeskopiak eta leheneratzea</string>
+    <string name="setup_wizard_services_location_heading">Kokapena</string>
+    <string name="setup_wizard_services_communication_heading">Komunikazioa</string>
+    <string name="setup_wizard_services_backup"><b>Egin telefonoko aplikazio, aplikazioetako datu, ezarpen, hiztegi pertsonal eta Wi‑Fi sareen pasahitzen babeskopiak</b> Google kontua erabilita, behar duzunean leheneratu ahal izan ditzazun. <annotation id="backup_details">Lortu informazio gehiago</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Egin aplikazio, aplikazioetako datu, ezarpen, hiztegi pertsonal eta Wi‑Fi sareen pasahitzen babeskopiak</b> Google kontua erabilita, behar duzunean leheneratu ahal izan ditzazun.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Datuen artean daude aplikazioak, aplikazioen ezarpenak, sistemaren ezarpenak eta Wi-Fi pasahitzak.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Babeskopiak automatikoki egiteko aukera aktibatzean, gailuko datuak Google kontuan gordetzen dira aldizka. Babeskopietan aplikazioen datuen karpetetako informazioa sar daiteke, besteak beste, hobespenak, ezarpenak, mezuak, argazkiak eta beste fitxategi batzuk.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Erabili Google-ren kokapen-zerbitzua</b> aplikazioei kokapena zehazten laguntzeko. Zerbitzuak kokapen-datu anonimoak bidaliko dizkio Google-ri, baita aplikaziorik exekutatzen ari ez denean ere. <annotation id="location_details">Lortu informazio gehiago</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google-ren kokapen-zerbitzuek Wi-Fi sareak eta sare mugikorrak erabiltzen dituzte, besteak beste, gailuaren kokapena arinago eta zehatzago kalkulatzeko. Google-ren kokapen-zerbitzuak aktibatzen dituzunean, kokapen-informazioa hornitzeko Wi-Fi sarea eta sare mugikorra erabiltzen dituen modu batean ezartzen da gailua. Aukera hori kokapenaren ezarpenetan desgai dezakezu, GPSa bakarrik erabiltzen duen modu bat aukeratuta. Modu horri \"Gailua soilik\" deritzo batzuetan.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Lagundu kokapen-zerbitzuak hobetzen</b>, aplikazioei eta zerbitzuei Wi-Fi sareak bilatzeko aukera emanez, baita Wi-Fi konexioa desaktibatuta dagoenean ere.</string>
+    <string name="setup_wizard_services_location_footnote">Google kokapen-zerbitzuak Wi-Fi konexioa eta bestelako seinaleak erabiltzen ditu kokapena zehatzago eta bizkorrago aurkitzeko. GPSak baino energia gutxiago erabili ohi du horrek. Agian datu batzuk gordeko dira gailuan. Datuak bil daitezke aplikaziorik exekutatzen ari ez denean ere.</string>
+    <string name="setup_wizard_services_play"><b>Eman Google Play-ko albiste eta eskaintzen berri</b>.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Lagundu Android esperientzia hobetzen,</b> diagnostikoak eta erabilerari buruzko datuak automatikoki bidalita. Informazio hori ez da zu identifikatzeko erabiliko; aldiz, oso lagungarria izango da bateriaren iraupenarekin, aplikazioen errendimenduarekin eta Google eginbide berriekin lan egiten duten taldeentzat. <annotation id="usage_reporting_details">Lortu informazio gehiago</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Gailuari eta hura erabiltzeari buruzko informazio orokorra da (besteak beste, bateria-maila, aplikazioak erabiltzeko maiztasuna eta Wi-Fi, Bluetooth eta gainerako sareko konexioen kalitatea eta iraupena), baita hutsegite-txostenak ere, gauzek behar bezala funtzionatzen ez dutenean. Google-ren produktuak eta zerbitzuak guztiontzat hobetzeko erabiliko dira datuok, eta ez zaizkio zure Google kontuari lotuko. Emandako informazioak bazkideei ere lagunduko die; esaterako, Android garatzaileei, eurek ere beren aplikazioak eta produktuak hobetzeko erabiliko dutelako.
+
+Edonoiz aktiba edo desaktiba dezakezu aukera hau. Datuen bidalketak ez dio eragiten gailuak oinarrizko zerbitzuak, hala nola sistemaren eguneratzeak eta segurtasun-funtzioak, jasotzeko duen gaitasunari."</string>
+    <string name="setup_wizard_services_agreement">Baliteke telefono honek Google-ren, operadorearen eta telefonoaren fabrikatzailearen eguneratzeak eta aplikazioak jaso eta instalatzea. Jarraituz gero, baliteke zenbait aplikazio deskargatu eta instalatzea. Edonoiz kendu ahal izango dituzu.</string>
+</resources>

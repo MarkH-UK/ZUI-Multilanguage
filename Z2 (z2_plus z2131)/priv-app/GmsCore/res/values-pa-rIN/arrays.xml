@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>ਬਾਰ</item>
+        <item>ਕੈਫੇ</item>
+        <item>ਗੈਸ ਸਟੇਸ਼ਨ</item>
+        <item>ਫਿਲਮ ਥਿਏਟਰ</item>
+        <item>ਆਵਾਸ</item>
+        <item>ਨਾਈਟ ਕਲੱਬ</item>
+        <item>ਅਜਾਇਬ ਘਰ</item>
+        <item>ਰੈਸਟਰਾਂ</item>
+        <item>ਖ਼ਰੀਦਦਾਰੀ ਕੇਂਦਰ</item>
+        <item>ਸਟੋਰ</item>
+        <item>ਕਰਿਆਨਾ ਸਟੋਰ ਜਾਂ ਸੁਪਰਮਾਰਕੀਟ</item>
+        <item>ਹੋਰ</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ਖ਼ਰਾਬ</item>
+        <item>ਉਚਿਤ</item>
+        <item>ਵਧੀਆ</item>
+        <item>ਮਜ਼ਬੂਤ</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>ਰੀਲੀਜ਼ ਕਰੋ</item>
+        <item>ਵਿਕਾਸਕਾਰ</item>
+        <item>ਰੀਟੇਲ</item>
+        <item>ਡੈਮੋ</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>ਫੋਨ ਅਤੇ ਕਾਰ ਚੱਲ ਰਹੇ ਬੇਮੇਲ ਸੌਫਟਵੇਅਰ ਹਨ। ਵੇਰਵਿਆਂ ਲਈ, &lt;a href="android.com/auto">android.com/auto&lt;/a> ਤੇ ਜਾਓ</item>
+        <item>ਕਾਰ ਨੇ ਔਡੀਓ ਅਤੇ/ਜਾਂ ਵੀਡੀਓ ਕੌਂਫਿਗਰੇਸ਼ਨਾਂ ਦੇ ਇੱਕ ਗ਼ਲਤ ਸੈਟ ਦਾ ਇਸ਼ਤਿਹਾਰ ਦਿੱਤਾ ਹੈ।</item>
+        <item>"USB ਕਨੈਕਸ਼ਨ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। ਪਰਖਣ ਲਈ ਕੰਮ: 
+
+• ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਕੇਬਲ ਦੋਵਾਂ ਸਿਰਿਆਂ ਤੇ ਸਹੀ ਢੰਗ ਨਾਲ ਫਿਟ ਬੈਠਦੀ ਹੈ। 
+•ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਡਾਟਾ USB ਕੇਬਲ ਹੈ। 
+•ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਕਾਰ ਅਤੇ ਤੁਹਾਡੇ ਫੋਨ ਦੋਵਾਂ ਲਈ ਤਾਰੀਖ ਅਤੇ ਸਮਾਂ ਸਹੀ ਢੰਗ ਨਾਲ ਸੈਟ ਕੀਤਾ ਹੋਇਆ ਹੈ।"</item>
+        <item>ਕਾਰ ਨੇ ਚੱਲ ਰਿਹਾ Android Auto ਬੰਦ ਕਰ ਦਿੱਤਾ ਹੈ।</item>
+        <item>Android Auto ਸੈਸ਼ਨ ਬੰਦ ਕੀਤਾ, ਜਿਵੇਂ ਬੇਨਤੀ ਕੀਤੀ ਗਈ ਸੀ।</item>
+        <item>ਕਾਰ ਦਾ ਸੌਫਟਵੇਅਰ ਪੁਰਾਣਾ ਹੋ ਸਕਦਾ ਹੈ। ਵੇਰਵਿਆਂ ਅਤੇ ਸਹਾਇਤਾ ਲਈ, ਨਿਰਮਾਤਾ ਨੂੰ ਸੰਪਰਕ ਕਰੋ।</item>
+        <item>ਤੁਹਾਡੀ ਕਾਰ ਦੇ ਸੌਫਟਵੇਅਰ ਨੇ Android Auto ਸੁਰੱਖਿਆ ਜਾਂਚਾਂ ਪਾਸ ਨਹੀਂ ਕੀਤੀਆਂ। ਵੇਰਵਿਆਂ ਅਤੇ ਸਹਾਇਤਾ ਲਈ, ਨਿਰਮਾਤਾ ਨੂੰ ਸੰਪਰਕ ਕਰੋ।</item>
+        <item>ਤੁਹਾਡੀ ਕਾਰ ਦੇ ਸੌਫਟਵੇਅਰ ਨੇ Android Auto ਸੁਰੱਖਿਆ ਜਾਂਚਾਂ ਪਾਸ ਨਹੀਂ ਕੀਤੀਆਂ। ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਕਾਰ ਦੀ ਤਾਰੀਖ ਅਤੇ ਸਮਾਂ ਸਹੀ ਢੰਗ ਨਾਲ ਸੈਟ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਇਹ ਕਿ Android Auto ਨੂੰ ਅਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ।</item>
+        <item>ਇੱਕ ਕਿਰਿਆ ਦਾ ਸਮਾਂ ਸਮਾਪਤ। ਤੁਹਾਨੂੰ ਇੱਕ ਬਗ ਰਿਪੋਰਟ ਅਤੇ ਫਾਈਲ ਫੀਡਬੈਕ ਲੈਣਾ ਚਾਹੀਦਾ ਹੈ।</item>
+        <item>ਤੁਸੀਂ ਇੱਕ ਲਾਂਚਰ ਇੰਸਟੌਲ ਨਹੀਂ ਕੀਤਾ ਹੈ, ਕੀ ਤੁਹਾਡਾ ਫੋਨ ਠੀਕ ਢੰਗ ਨਾਲ ਸੈਟ ਅਪ ਕੀਤਾ ਗਿਆ ਹੈ?</item>
+        <item>ਗ੍ਰਾਫਿਕਸ ਪਾਈਪਲਾਈਨ ਹੁਣੇ ਨਸ਼ਟ ਹੋ ਗਈ ਹੈ। ਤੁਹਾਨੂੰ ਇੱਕ ਬਗ ਰਿਪੋਰਟ ਅਤੇ ਫਾਈਲ ਫੀਡਬੈਕ ਲੈਣਾ ਚਾਹੀਦਾ ਹੈ।</item>
+        <item>ਕਾਰ ਫੋਨ ਦੇ ਸੁਨੇਹਿਆਂ ਦਾ ਜਵਾਬ ਨਹੀਂ ਦੇ ਰਹੀ ਹੈ। ਕਾਰ ਗ਼ਲਤ ਸਥਿਤੀ ਵਿੱਚ ਹੋ ਸਕਦੀ ਹੈ।</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>ਏਅਰਪੋਰਟ</item>
+        <item>ATM</item>
+        <item>ਬੈਂਕ</item>
+        <item>ਬਾਰ</item>
+        <item>ਬਸ ਸਟੇਸ਼ਨ</item>
+        <item>ਕੈਫੇ</item>
+        <item>ਕੈਂਪਗ੍ਰਾਉਂਡ</item>
+        <item>ਸ਼ਮਸ਼ਾਨ</item>
+        <item>ਗਿਰਜਾ ਘਰ</item>
+        <item>ਸਿਟੀ ਹਾਲ</item>
+        <item>ਸੰਸਥਾਪਨ</item>
+        <item>ਗੈਸ ਸਟੇਸ਼ਨ</item>
+        <item>ਕਰਿਆਨਾ ਸਟੋਰ ਜਾਂ ਸੁਪਰਮਾਰਕੀਟ</item>
+        <item>ਹਿੰਦੂ ਮੰਦਰ</item>
+        <item>ਹਸਪਤਾਲ</item>
+        <item>ਲਾਈਬ੍ਰੇਰੀ</item>
+        <item>ਆਵਾਸ</item>
+        <item>ਮਸਜਿਦ</item>
+        <item>ਮੂਵੀ ਥਿਏਟਰ</item>
+        <item>ਅਜਾਇਬ ਘਰ</item>
+        <item>ਪਾਰਕ</item>
+        <item>ਪਾਰਕਿੰਗ</item>
+        <item>ਪੂਜਾ ਕਰਨ ਦਾ ਸਥਾਨ</item>
+        <item>ਪੁਲਿਸ ਸਟੇਸ਼ਨ</item>
+        <item>ਡਾਕ ਖਾਨਾ</item>
+        <item>ਰੈਸਟਰਾਂ</item>
+        <item>ਸਕੂਲ</item>
+        <item>ਸਟੋਰ</item>
+        <item>ਉਪਮਾਰਗ ਸਟੇਸ਼ਨ</item>
+        <item>ਯਹੂਦੀ ਮੰਦਰ</item>
+        <item>ਟ੍ਰੇਨ ਸਟੇਸ਼ਨ</item>
+        <item>ਪਾਰਗਮਨ ਸਟੇਸ਼ਨ</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>ਜਨਵਰੀ</item>
+        <item>ਫ਼ਰਵਰੀ</item>
+        <item>ਮਾਰਚ</item>
+        <item>ਅਪ੍ਰੈਲ</item>
+        <item>ਮਈ</item>
+        <item>ਜੂਨ</item>
+        <item>ਜੁਲਾਈ</item>
+        <item>ਅਗਸਤ</item>
+        <item>ਸਤੰਬਰ</item>
+        <item>ਅਕਤੂਬਰ</item>
+        <item>ਨਵੰਬਰ</item>
+        <item>ਦਸੰਬਰ</item>
+    </string-array>
+</resources>

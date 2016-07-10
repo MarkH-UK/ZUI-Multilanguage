@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="digits_type" format="string" />
+    <attr name="scrollBarPanel" format="reference" />
+    <attr name="scrollBarPanelInAnimation" format="reference" />
+    <attr name="scrollBarPanelOutAnimation" format="reference" />
+    <attr name="arrowImage" format="integer" />
+    <attr name="listBackgroundColor" format="integer" />
+    <attr name="listDividerColor" format="integer" />
+    <attr name="listExpend" format="boolean" />
+    <attr name="titleEnable" format="boolean" />
+    <attr name="titleText" format="string" localization="suggested" />
+    <attr name="titleColor" format="color" />
+    <attr name="titleBackground" format="integer" />
+    <attr name="corner_radius" format="dimension" />
+    <attr name="border_width" format="dimension" />
+    <attr name="border_color" format="color" />
+    <attr name="round_background" format="boolean" />
+</resources>

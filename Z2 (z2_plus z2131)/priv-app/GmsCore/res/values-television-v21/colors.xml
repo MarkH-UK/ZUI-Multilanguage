@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="credentials_colorPrimary">@color/credentials_tv_snackbar_background</color>
+    <color name="opt_in_divider">#ff000000</color>
+    <color name="opt_in_text_dark">#ffeeeeee</color>
+    <color name="opt_in_text_light">#ffcccccc</color>
+    <color name="credentials_tv_focus_highlight">#26eeeeee</color>
+    <color name="credentials_tv_snackbar_background">#ff26427e</color>
+    <color name="credentials_tv_white_text_alpha_100">#ffeeeeee</color>
+    <color name="credentials_tv_white_text_alpha_70">#b2eeeeee</color>
+    <color name="credentials_tv_white_text_alpha_87">#deeeeeee</color>
+</resources>

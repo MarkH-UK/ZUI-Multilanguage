@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Google Play zerbitzuen errorea</string>
+    <string name="z">Aplikazio batek Google Play zerbitzuak eguneratzea eskatzen du.</string>
+    <string name="a0">%1$s aplikazioak Android Wear eguneratzea behar du.</string>
+    <string name="a1">Aplikazio batek Google Play zerbitzuak gaituta egotea eskatzen du.</string>
+    <string name="a2">%1$s aplikazioak eskatu du</string>
+    <string name="a3">Lortu Google Play zerbitzuak</string>
+    <string name="a4">%1$s ez da exekutatuko Google Play zerbitzurik gabe, baina haiek ez daude telefonoan.</string>
+    <string name="a5">%1$s ez da exekutatuko Google Play zerbitzurik gabe, baina haiek ez daude tabletan.</string>
+    <string name="a6">Lortu Google Play zerbitzuak</string>
+    <string name="a7">Gaitu Google Play zerbitzuak</string>
+    <string name="a8">%1$s aplikazioak ez du funtzionatuko Google Play zerbitzuak gaitzen ez badituzu.</string>
+    <string name="a9">Gaitu Google Play zerbitzuak</string>
+    <string name="a_">Eguneratu Google Play zerbitzuak</string>
+    <string name="aa">Eguneratu Android Wear</string>
+    <string name="ab">%1$s ez da exekutatuko Google Play zerbitzuak eguneratzen ez badituzu.</string>
+    <string name="ac">%1$s ez da exekutatuko Android Wear aplikazioa eguneratzen ez baduzu.</string>
+    <string name="ad">Google Play zerbitzuak eguneratzen</string>
+    <string name="ae">%1$s ez da exekutatuko Google Play zerbitzurik gabe; zerbitzuok une honetan eguneratzen ari dira.</string>
+    <string name="af">Sareko errorea</string>
+    <string name="ag">Datu-konexioa behar da Google Play zerbitzuetara konektatzeko.</string>
+    <string name="ah">Kontu baliogabea</string>
+    <string name="ai">Zehaztutako kontua ez dago gailuan. Aukeratu beste kontu bat.</string>
+    <string name="aj">Google Play zerbitzuekin arazo ezezaguna dago.</string>
+    <string name="ak">Google Play zerbitzuak</string>
+    <string name="al">%1$s Google Play zerbitzuetan oinarrituta dago, baina zure gailuak ez ditu onartzen. Laguntza lortzeko, jarri fabrikatzailearekin harremanetan.</string>
+    <string name="am">Eguneratu</string>
+    <string name="an">Hasi saioa</string>
+    <string name="ao">Hasi saioa Google-n</string>
+    <string name="ap">Ireki telefonoan</string>
+    <string name="aq">%1$s erabiltzeko unean erabilgarri ez dagoen beste Google Play zerbitzu bat behar da. Laguntza lortzeko, jarri garatzailearekin harremanetan.</string>
+    <string name="ar">Ezin izan da hasi saioa</string>
+    <string name="as">Errore bat gertatu da zehaztutako kontuan saioa hastean. Aukeratu beste kontu bat.</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Hitilafu kwenye huduma za Google Play</string>
+    <string name="z">Programu inahitaji toleo jipya la huduma za Google Play.</string>
+    <string name="a0">%1$s inahitaji programu ya Android Wear isasishwe.</string>
+    <string name="a1">Programu inahitaji huduma za Google Play ili iwashwe.</string>
+    <string name="a2">Imeombwa na %1$s</string>
+    <string name="a3">Pata huduma za Google Play</string>
+    <string name="a4">%1$s haitafanya kazi bila huduma za Google Play, ambazo hazipatikani kwenye simu yako.</string>
+    <string name="a5">%1$s haitafanya kazi bila huduma za Google Play, ambazo hazipatikani kwenye kompyuta yako kibao.</string>
+    <string name="a6">Pata huduma za Google Play</string>
+    <string name="a7">Wezesha huduma za Google Play</string>
+    <string name="a8">%1$s haitafanya kazi mpaka uwashe huduma za Google Play.</string>
+    <string name="a9">Wezesha huduma za Google Play</string>
+    <string name="a_">Sasisha huduma za Google Play</string>
+    <string name="aa">Sasisha Android Wear</string>
+    <string name="ab">%1$s haitafanya kazi hadi usasishe huduma za Google Play.</string>
+    <string name="ac">%1$s haitafanya kazi usiposasisha programu ya Android Wear.</string>
+    <string name="ad">Huduma za Google Play zinasasishwa</string>
+    <string name="ae">%1$s haitafanya kazi bila huduma za Google Play, ambazo zinasasishwa kwa sasa.</string>
+    <string name="af">Hitilafu ya Mtandao</string>
+    <string name="ag">Muunganisho wa data unahitajika ili kuunganisha kwenye huduma za Google Play.</string>
+    <string name="ah">Akaunti Batili</string>
+    <string name="ai">Akaunti iliyobainishwa haipo kwenye kifaa hiki. Tafadhali chagua akaunti tofauti.</string>
+    <string name="aj">Suala lisilojulikana na huduma za Google Play.</string>
+    <string name="ak">Huduma za Google Play</string>
+    <string name="al">%1$s hutegemea huduma za Google Play, ambazo hazitumiki kwenye kifaa chako. Wasiliana na mtengenezaji kwa usaidizi.</string>
+    <string name="am">Sasisha</string>
+    <string name="an">Ingia</string>
+    <string name="ao">Ingia ukitumia Google</string>
+    <string name="ap">Fungua kwenye simu</string>
+    <string name="aq">%1$s inahitaji huduma moja au zaidi za Google Play ambazo hazipatikani kwa sasa. Tafadhali wasiliana na msanidi programu kwa usaidizi.</string>
+    <string name="ar">Imeshindwa kuingia katika akaunti</string>
+    <string name="as">Hitilafu wakati wa kuingia katika akaunti iliyobainishwa. Tafadhali chagua akaunti tofauti.</string>
+</resources>

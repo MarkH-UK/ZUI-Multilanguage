@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="btn_blue">false</item>
+    <item type="drawable" name="btn_blue_pressed">false</item>
+    <item type="drawable" name="ic_help_lightgrey_12">false</item>
+    <item type="drawable" name="il_city">false</item>
+    <item type="drawable" name="il_pinpoint">false</item>
+    <item type="drawable" name="ic_cast_24dp">false</item>
+    <item type="drawable" name="ic_mic_24dp">false</item>
+    <item type="drawable" name="ic_stat_instant_share">false</item>
+</resources>

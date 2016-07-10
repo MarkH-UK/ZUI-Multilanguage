@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Tego konta nie można użyć, bo brakuje na nim aplikacji: ^1. Skontaktuj się z administratorem domeny "&lt;b>^2&lt;/b>" lub zaloguj się na inne konto. "</item>
+        <item quantity="one">" Tego konta nie można użyć, bo brakuje na nim aplikacji: ^1. Skontaktuj się z administratorem domeny "&lt;b>^2&lt;/b>" lub zaloguj się na inne konto. "</item>
+        <item quantity="few">" Tego konta nie można użyć, bo brakuje na nim aplikacji: ^1. Skontaktuj się z administratorem domeny "&lt;b>^2&lt;/b>" lub zaloguj się na inne konto. "</item>
+        <item quantity="many">" Tego konta nie można użyć, bo brakuje na nim aplikacji: ^1. Skontaktuj się z administratorem domeny "&lt;b>^2&lt;/b>" lub zaloguj się na inne konto. "</item>
+    </plurals>
+</resources>

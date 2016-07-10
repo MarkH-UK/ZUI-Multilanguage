@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passwordStrength">
+        <item>कमजोर</item>
+        <item>ठीकै</item>
+        <item>राम्रो</item>
+        <item>बलियो</item>
+    </string-array>
+</resources>

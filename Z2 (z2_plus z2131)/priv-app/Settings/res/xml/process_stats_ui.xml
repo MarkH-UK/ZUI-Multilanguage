@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/app_memory_use"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:layout="@layout/preference_label" android:title="@string/statistics_show_time" android:key="statistics_show_time" android:widgetLayout="@layout/preference_widget_forward" />
+    <PreferenceCategory android:title="@string/average_memory_use" android:key="app_list" />
+</PreferenceScreen>

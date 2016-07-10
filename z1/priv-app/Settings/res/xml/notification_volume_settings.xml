@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/notification_settings" android:key="notification_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory android:title="@string/ringtone_volume_title" android:key="ringtone" />
+    <com.android.settings.notification.VolumeSeekBarPreference android:key="ringtone_volume" />
+    <PreferenceCategory android:state_expanded="true" android:title="@string/call_volume_title" android:key="call" />
+    <com.android.settings.notification.VolumeSeekBarPreference android:key="call_volume" />
+    <PreferenceCategory android:state_expanded="true" android:title="@string/xui_media_volume_title" android:key="media" />
+    <com.android.settings.notification.VolumeSeekBarPreference android:key="media_volume" />
+</PreferenceScreen>

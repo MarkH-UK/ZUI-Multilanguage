@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/notification_settings" android:key="notification_settings" settings:keywords="@string/keywords_sounds_and_notifications"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory android:title="@string/sound_settings" android:key="sound">
+        <PreferenceScreen android:layout="@layout/preference_label" android:title="@string/volume_settings_title" android:key="voluem_settings" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.notification.VolumeSettingsPrefs" settings:keywords="@string/keywords_sounds_and_notifications_interruptions" />
+        <SwitchPreference android:persistent="false" android:title="@string/silent_title" android:key="silent" />
+        <SwitchPreference android:persistent="false" android:title="@string/vibrate_settings" android:key="vibrate_when_ringing" />
+    </PreferenceCategory>
+    <PreferenceCategory android:key="zenmode">
+        <PreferenceScreen android:layout="@layout/preference_label" android:title="@string/zen_mode_title" android:key="zen_mode" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.notification.ZenModeSettings" settings:keywords="@string/keywords_sounds_and_notifications_interruptions" />
+    </PreferenceCategory>
+    <PreferenceCategory android:state_expanded="true" android:title="@string/ringtone_settings" android:key="sound_ringtone">
+        <com.android.settings.DefaultRingtonePreference android:persistent="false" android:layout="@layout/preference_label_ringtone" android:title="@string/ringtone_call_title" android:key="ringtone" android:widgetLayout="@layout/preference_widget_forward" android:dialogTitle="@string/ringtone_call_title" android:ringtoneType="ringtone" />
+        <com.android.settings.DefaultRingtonePreference android:persistent="false" android:layout="@layout/preference_label_ringtone" android:title="@string/ringtone_call_title" android:key="ringtone_two" android:widgetLayout="@layout/preference_widget_forward" android:dialogTitle="@string/ringtone_call_title" />
+        <com.android.settings.DefaultRingtonePreference android:persistent="false" android:layout="@layout/preference_label" android:title="@string/ringtone_message_title" android:key="message_ringtone" android:widgetLayout="@layout/preference_widget_forward" android:dialogTitle="@string/ringtone_message_title" />
+        <com.android.settings.DefaultRingtonePreference android:persistent="false" android:layout="@layout/preference_label" android:title="@string/ringtone_notification_title" android:key="notification_ringtone" android:widgetLayout="@layout/preference_widget_forward" android:dialogTitle="@string/ringtone_notification_title" android:ringtoneType="notification" />
+    </PreferenceCategory>
+    <PreferenceCategory android:key="notification">
+        <Preference android:persistent="false" android:layout="@layout/preference_label" android:title="@string/other_sound_settings" android:key="other_sounds" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.notification.OtherSoundSettings" />
+    </PreferenceCategory>
+    <PreferenceCategory>
+        <Preference android:title="@string/headphone_calibration" android:widgetLayout="@layout/preference_widget_forward" android:fragment="com.android.settings.HeadphoneCalibrationFragment" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips_array">
+        <item>"設置“WLAN智能更新”
+保持應用最新版本"</item>
+        <item>"插上USB線
+ 即可電腦管理手機"</item>
+        <item>"省流量更新應用
+可節省92%的流量"</item>
+        <item>"不想更新的應用
+可以忽略更新喲"</item>
+        <item>"遊戲專區
+海量禮包等妳來拿"</item>
+    </string-array>
+</resources>

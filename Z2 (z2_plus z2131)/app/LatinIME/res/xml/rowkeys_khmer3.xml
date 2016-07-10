@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <switch>
+        <case latin:keyboardLayoutSetElement="alphabetManualShifted|alphabetShiftLocked|alphabetShiftLockShifted">
+            <Key latin:keySpec="ាំ" latin:keyLabelFlags="followKeyLetterRatio" />
+            <Key latin:keySpec="ៃ" />
+            <Key latin:keySpec="ឌ" />
+            <Key latin:keySpec="ធ" />
+            <Key latin:keySpec="អ" />
+            <Key latin:moreKeys="ៈ" latin:keySpec="ះ" latin:keyHintLabel="ៈ" />
+            <Key latin:keySpec="ញ" />
+            <Key latin:moreKeys="ឝ" latin:keySpec="គ" latin:keyHintLabel="ឝ" />
+            <Key latin:keySpec="ឡ" />
+            <Key latin:keySpec="ោះ" latin:keyLabelFlags="autoScale|followKeyLetterRatio" />
+            <Key latin:keySpec="៉" />
+            <Key latin:keySpec="ឯ" />
+        </case>
+        <default>
+            <Key latin:keySpec="ា" />
+            <Key latin:keySpec="ស" />
+            <Key latin:keySpec="ដ" />
+            <Key latin:keySpec="ថ" />
+            <Key latin:keySpec="ង" />
+            <Key latin:keySpec="ហ" />
+            <Key latin:keySpec="្" />
+            <Key latin:keySpec="ក" />
+            <Key latin:keySpec="ល" />
+            <Key latin:keySpec="ើ" />
+            <Key latin:keySpec="់" />
+            <Key latin:moreKeys="ឭ,ឰ" latin:keySpec="ឮ" latin:keyHintLabel="ឭ" />
+        </default>
+    </switch>
+</merge>

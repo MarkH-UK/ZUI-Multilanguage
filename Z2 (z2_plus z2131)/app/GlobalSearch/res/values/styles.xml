@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme_Browser" parent="@android:style/Theme.Material">
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="AppTheme_Search" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="Dialog_Hastitle_Fulls">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="DownloadBookDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+    </style>
+    <style name="LeMainTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="LongClickItemTextViewStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/longclick_item_text_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">14.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="LongclickDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="android:windowBackground">@drawable/pop_bg</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="NotificationText">
+        <item name="android:textColor">#ff2b64cd</item>
+    </style>
+    <style name="NotificationTitle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff2b64cd</item>
+    </style>
+    <style name="PopupWindowAnimation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/window_open</item>
+        <item name="android:windowExitAnimation">@anim/window_close</item>
+    </style>
+    <style name="PreferencesTheme" parent="@android:style/Theme.Translucent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+    </style>
+    <style name="SearchResult_BottomBtn">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@drawable/bottom_btn_bg</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="SearchResult_BottomBtn_no_weight">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@drawable/bottom_btn_bg</item>
+    </style>
+    <style name="SearchResult_ChannelDiliver">
+        <item name="android:background">@color/search_item_diliver</item>
+        <item name="android:visibility">invisible</item>
+        <item name="android:layout_height">0.6dip</item>
+    </style>
+    <style name="SearchResult_ChannelItem">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="SearchResult_ChannelSelected">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">@color/main_channel_selected</item>
+        <item name="android:visibility">invisible</item>
+        <item name="android:layout_height">2.0dip</item>
+        <item name="android:layout_marginLeft">4.0dip</item>
+        <item name="android:layout_marginRight">4.0dip</item>
+    </style>
+    <style name="SearchResult_ChannelTextView">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/channel_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/channel_tv_bg</item>
+        <item name="android:layout_height">22.599976dip</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_marginTop">5.399994dip</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+        <item name="android:layout_marginBottom">5.399994dip</item>
+    </style>
+    <style name="SettingLabel">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">#ff999999</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:paddingLeft">15.0dip</item>
+        <item name="android:paddingRight">15.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40.0dip</item>
+    </style>
+    <style name="SogouActivityStyle_Browser" parent="@style/AppTheme_Browser">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="SogouActivityStyle_Normal" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="SogouActivityStyle_Search" parent="@style/AppTheme_Search">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="SogouAnimation">
+        <item name="android:windowEnterAnimation">@anim/sogou_tl_to_br</item>
+        <item name="android:windowExitAnimation">@anim/sogou_bl_to_tr</item>
+    </style>
+    <style name="SogouDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="SogouSwipeActivityStyle" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.NoBlackLine" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.SogouDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="activityTheme" parent="@android:style/Theme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="entry_channel_item_info">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/entry_channel_item_text</item>
+    </style>
+    <style name="home_index_ll_large">
+        <item name="android:paddingBottom">28.0dip</item>
+    </style>
+    <style name="home_refresh_iv">
+        <item name="android:layout_marginRight">4.0dip</item>
+    </style>
+    <style name="hotword_tv_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/generic_text</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:text">textView</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="page_switcher_anim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/page_switcher_pop</item>
+        <item name="android:windowExitAnimation">@anim/page_switcher_dismiss</item>
+    </style>
+    <style name="styleName" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">left</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+    </style>
+    <style name="summary_group">
+        <item name="android:gravity">end</item>
+        <item name="android:layout_marginRight">@dimen/card_marginRight</item>
+        <item name="android:layout_toRightOf">@id/title_tv</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="title_summary">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/title_summary</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="title_text">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/title_text</item>
+    </style>
+    <style name="weather_card_img">
+        <item name="android:layout_width">30.0dip</item>
+        <item name="android:layout_height">30.0dip</item>
+        <item name="android:layout_marginTop">6.0dip</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="weather_card_tem" parent="@style/weather_card_weekday">
+        <item name="android:layout_marginTop">3.0dip</item>
+    </style>
+    <style name="weather_card_weather">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/card_grey</item>
+        <item name="android:layout_marginTop">6.0dip</item>
+    </style>
+    <style name="weather_card_weekday">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/card_black</item>
+    </style>
+    <style name="weixin_more_pop_anim">
+        <item name="android:windowEnterAnimation">@anim/weixin_pop_in_from_left</item>
+        <item name="android:windowExitAnimation">@anim/weixin_pop_out_to_right</item>
+    </style>
+    <style name="widget_nav_channel_item_info">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff949494</item>
+    </style>
+</resources>

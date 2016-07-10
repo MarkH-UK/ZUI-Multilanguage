@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="launch_logo_padding_top">140.0dip</dimen>
+    <dimen name="config_width">600.0dip</dimen>
+</resources>

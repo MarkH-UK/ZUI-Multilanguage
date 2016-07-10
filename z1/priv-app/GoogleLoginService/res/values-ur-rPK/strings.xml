@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">‏Google Play سروسز کی خرابی</string>
+    <string name="common_google_play_services_notification_needs_installation_title">‏ایک ایپلیکیشن کیلئے Google Play سروسز کا انسٹال ہونا ضروری ہے۔</string>
+    <string name="common_google_play_services_notification_needs_update_title">‏ایک ایپلیکیشن کیلئے Google Play سروسز کیلئے ایک اپ ڈیٹ ضروری ہے۔</string>
+    <string name="common_android_wear_notification_needs_update_text">‏ایک اپیلیکیشن کو Android Wear ایپ کیلئے ایک اپ ڈیٹ درکار ہے۔</string>
+    <string name="common_google_play_services_needs_enabling_title">‏ایک ایپلیکیشن کیلئے Google Play سروسز کا فعال ہونا ضروری ہے۔</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s کے ذریعے درخواست کی گئی</string>
+    <string name="common_google_play_services_install_title">‏Google Play سروسز حاصل کریں</string>
+    <string name="common_google_play_services_install_text_phone">‏یہ ایپ Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے فون سے غائب ہے۔</string>
+    <string name="common_google_play_services_install_text_tablet">‏یہ ایپ Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے ٹیبلیٹ سے غائب ہے۔</string>
+    <string name="common_google_play_services_install_button">‏Google Play سروسز حاصل کریں</string>
+    <string name="common_google_play_services_enable_title">‏Google Play سروسز فعال کریں</string>
+    <string name="common_google_play_services_enable_text">‏یہ ایپ تب تک کام نہیں کرے گی جب تک کہ آپ Google Play سروسز فعال نہیں کر لیتے ہیں۔</string>
+    <string name="common_google_play_services_enable_button">‏Google Play سروسز فعال کریں</string>
+    <string name="common_google_play_services_update_title">‏Google Play سروسز اپ ڈیٹ کریں</string>
+    <string name="common_android_wear_update_title">‏Android Wear کو اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_update_text">‏یہ ایپ تب تک نہیں چلے گی جب تک کہ آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں۔</string>
+    <string name="common_android_wear_update_text">‏جب تک آپ Android Wear ایپ کو اپ ڈیٹ نہیں کر لیتے یہ ایپ نہیں چلے گی۔</string>
+    <string name="common_google_play_services_network_error_title">نیٹ ورک میں خرابی</string>
+    <string name="common_google_play_services_network_error_text">‏Google Play سروسز سے مربوط ہونے کیلئے ایک ڈیٹا کنکشن کی ضرورت ہے۔</string>
+    <string name="common_google_play_services_invalid_account_title">غلط اکاؤنٹ</string>
+    <string name="common_google_play_services_invalid_account_text">متعین اکاؤنٹ اس آلہ پر موجود نہیں ہے۔ براہ کرم ایک مختلف اکاؤنٹ منتخب کریں۔</string>
+    <string name="common_google_play_services_unknown_issue">‏Google Play سروسز کے ساتھ نامعلوم مسئلہ۔</string>
+    <string name="common_google_play_services_unsupported_title">‏Google Play سروسز</string>
+    <string name="common_google_play_services_unsupported_text">‏Google Play سروسز، جن پر آپ کی کچھ ایپلیکیشنز انحصار کرتی ہیں، آپ کے آلہ کے ذریعے تعاون یافتہ نہیں ہے۔ براہ کرم مدد کیلئے مینوفیکچرر سے رابطہ کریں۔</string>
+    <string name="common_google_play_services_update_button">اپ ڈیٹ کریں</string>
+    <string name="common_signin_button_text">سائن ان کریں</string>
+    <string name="common_signin_button_text_long">‏Google کے ساتھ سائن ان کریں</string>
+    <string name="common_open_on_phone">فون پر کھولیں</string>
+    <string name="setup_wizard_next_button_label">آگے</string>
+    <string name="setup_wizard_back_button_label">پیچھے</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">نظر انداز کریں</string>
+    <string name="down_button_label">مزید</string>
+    <string name="cancel_button_label">منسوخ کریں</string>
+    <string name="try_again_button_label">دوبارہ کوشش کریں</string>
+    <string name="close_button_label">بند کریں</string>
+    <string name="url_load_unsuccessful_message">‏آپ کا Android آلہ کسی ڈیٹا سروس سے مربوط نہیں ہے۔ یہ معلومات ابھی دیکھنے کیلئے، ایک ویب براؤزر سے %s ملاحظہ کریں۔</string>
+    <string name="sign_in_agreement">‏سائن ان کر کے، آپ Google کی <annotation id="tos">سروس کی شرائط</annotation>، <annotation id="google_privacy">رازداری کی پالیسی</annotation> اور <annotation id="play_tos">Google Play کی سروس کی شرائط</annotation> سے اتفاق کر رہے ہیں۔</string>
+    <string name="android_privacy_policy_title">اضافی رازداری کی پالیسی</string>
+    <string name="google_terms_of_service_title">‏Google سروس کی شرائط</string>
+    <string name="google_privacy_policy_title">‏Google کی رازداری کی پالیسی</string>
+    <string name="google_plus_privacy_policy_title">‏Google Plus رازداری کی پالیسی</string>
+    <string name="google_play_tos_title">‏Google Play سروس کی شرائط</string>
+    <string name="chrome_tos_title">‏Chrome سروس کی شرائط</string>
+    <string name="chrome_privacy_title">‏Chrome رازداری کا نوٹس</string>
+    <string name="url_load_unsuccessful_message_wifi_only">"‏آپ کا Android آلہ کسی Wi-Fi نیٹ ورک سے مربوط نہیں ہے۔ اس معلومات کو ابھی دیکھنے کیلئے،  ایک ویب براؤزر کے ساتھ %s کو ملاحظہ کریں۔"</string>
+    <string name="services_activity_title">‏Google سروسز</string>
+    <string name="services_backup_heading">بیک اپ لیں</string>
+    <string name="services_location_heading">مقام</string>
+    <string name="services_security_heading">سیکیورٹی</string>
+    <string name="services_personalization_heading">ذاتی نوعیت کا بنانا</string>
+    <string name="services_communication_heading">مواصلت</string>
+    <string name="security_verify_apps_summary">‏Google کو ایسے ممکنہ نقصان دہ برتاؤ کیلئے سبھی انسٹال کردہ ایپس کو چیک کرنے دیں جن سے آپ کے آلہ کی سیکیورٹی یا ڈیٹا پر اثر پڑ سکتا ہو۔</string>
+    <string name="name_title">آپ کا نام</string>
+    <string name="name_text">‏آپ کے نام کا استعمال آپ کے فون اور Google سروسز کو ذاتی نوعیت کا بنانے کیلئے کیا جاتا ہے۔</string>
+    <string name="first_name">پہلا</string>
+    <string name="last_name">آخری</string>
+    <string name="cant_be_blank">فیلڈ کو خالی نہیں چھوڑا جا سکتا ہے۔</string>
+    <string name="sharedUserLabel">‏Google سروسز</string>
+    <string name="app_label">‏Google اکاؤنٹ مینیجر</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">سائن ان کریں</string>
+    <string name="create_button_label">ایک اکاؤنٹ حاصل کریں</string>
+    <string name="not_now_button_label">ابھی نہیں</string>
+    <string name="new_button_label">نیا</string>
+    <string name="existing_button_label">موجودہ</string>
+    <string name="done">ٹھیک ہے</string>
+    <string name="edit_text_help">ٹائپنگ شروع کرنے کیلئے کوئی بھی متنی باکس ٹچ کریں</string>
+    <string name="add_a_google_account">‏ایک Google اکاؤنٹ شامل کریں</string>
+    <string name="captcha_title">‏CAPTCHA درج کرنے کی ضرورت ہے</string>
+    <string name="show_error_title">خرابی</string>
+    <string name="server_error">‏Google سرورز کے ساتھ تعامل کرتے ہوئے ایک مسئلہ پیش آگیا۔</string>
+    <string name="server_error_help">بعد میں دوبارہ آزمائیں۔</string>
+    <string name="network_unreliable">سرور سے ایک قابل اعتماد کنکشن قائم نہیں کیا جا سکتا۔</string>
+    <string name="network_unreliable_help">‏یہ ایک عارضی مسئلہ ہو سکتا ہے یا آپ کا Android آلہ ڈیٹا سروسز کیلئے فراہم نہیں کیا جا سکتا ہے۔ اگر یہ جاری رہتا ہے تو کسٹمر کیئر کو کال کریں۔</string>
+    <string name="network_unreliable_help_wifi_only">‏یہ ایک عارضی مسئلہ ہو سکتا ہے۔ دوبارہ کوشش کریں یا کسی دوسرے Wi-Fi نیٹ ورک سے مربوط ہوں۔</string>
+    <string name="invalid_login_character">‏غلط حرف۔ صرف 0‎-9, a-z, A-Z اور پیرئیڈز کی اجازت ہے۔</string>
+    <string name="invalid_password_character">‏غلط پاس ورڈ حرف۔‎</string>
+    <string name="calendar">‏Google کیلنڈر</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">فیلڈ کو خالی نہیں چھوڑا جا سکتا ہے۔</string>
+    <string name="plus_query_title">‏Google+‎ میں اپ گریڈ کریں</string>
+    <string name="plus_query_text">‏+Google ویب پر اشتراک کو زیادہ سے زیادہ حقیقی زندگی کے اشتراک جیسا بناتا ہے۔</string>
+    <string name="circles_subtitle">جس مواد میں آپکی دلچسپی ہے اسکا سلسلہ</string>
+    <string name="circles_text">قریبی دوستوں کے ساتھ مربوط ہوں اور عام دلچسپیاں دریافت کریں۔</string>
+    <string name="uploads_subtitle">خود کار طور پر تصویر کا بیک اپ</string>
+    <string name="uploads_text">مفت اور نجی اسٹوریج کے ساتھ، تصاویر لیتے ہی ان کا بیک اپ لیں۔</string>
+    <string name="huddle_subtitle">ویڈیو کالنگ اور پیغام رسانی</string>
+    <string name="huddle_text">‏Hangouts کے ساتھ متن بھیجنے، تصاویر اور مفت گروپ ویڈیو کالز سے لطف اندوز ہوں۔</string>
+    <string name="plus_declined_button_label">ابھی نہیں</string>
+    <string name="plus_accepted_button_label">شروع کریں</string>
+    <string name="plus_name_check_title">‏+Google سے رابطہ کیا جا رہا ہے…</string>
+    <string name="plus_name_check_text">اس میں چند منٹ لگ سکتے ہیں۔</string>
+    <string name="plus_faq_title">‏+Google میں خوش آمدید!</string>
+    <string name="plus_faq_text" formatted="false">"‏+Google پر، اپنے دوستوں کی خود کو آن لائن تلاش کرنے میں مدد کیلئے آپ کے پاس ایک عوامی پروفائل ہو گا۔ آپ کا ای میل پتہ جاننے والا کوئی بھی شخص آپ کا پروفائل تلاش کر سکتا اور دیکھ سکتا ہے۔
+
+آپ دنیا والوں کیلئے چیزیں تجویز کرنے کیلئے پورے ویب پر 1+ بٹنوں کا استعمال کر سکتے ہیں۔ آپ کا پروفائل اور ‎+1's‎ تلاش میں، اشتہارات پر اور پورے ویب پر عوامی طور پر ظاہر ہوں گے۔
+
+ابھی کیلئے، آپ کا پروفائل صرف آپ کا نام (%s %s) دکھائے گا۔ آپ +Google کا استعمال شروع کرنے کے بعد ایک تصویر، تعارف اور دیگر تفصیلات شامل کر سکتے ہیں۔"</string>
+    <string name="profile_info_title">آپ کا پروفائل</string>
+    <string name="profile_text">‏اپنی پروفائل کے لئے کچھ بنیادی معلومات فراہم کریں۔ آپ بعد میں Google+‎ کا استعمال شروع کرتے وقت ایک تصویر اور دیگر تفصیلات شامل کر سکتے ہیں۔</string>
+    <string name="occupation">پیشہ</string>
+    <string name="current_city">موجودہ شہر</string>
+    <string name="picassa_info_title">‏Picasa اور +Google</string>
+    <string name="picassa_info_text" formatted="false">‏Picasa Web Albums پر موجود آپ کی تصاویر اور ویڈیوز +Google پر دستیاب ہوں گے اور آپ کے تبصرے %s کے بحائے %s %s سے ہوں گے۔ جب آپ +Google پر تصاویر کا اشتراک کرتے ہیں تو وصول کنندگان ان کا کسی دوسرے شخص کے ساتھ دوبارہ اشتراک کر سکتے ہیں۔ آپ کے البمز کی مرئیت کی ترتیبات تبدیل نہیں ہونگی اور آپ انہیں کسی بھی وقت روک سکتے ہیں تاکہ ان کا آزادی سے دوبارہ اشتراک نہ کیا جا سکے۔</string>
+    <string name="name_title_plus">‏آپ کا +Google نام</string>
+    <string name="name_title_local">اس فون کا مالک ہے…</string>
+    <string name="name_text_local">فون کچھ ایپس کو ذاتی نوعیت کا بنانے کیلئے آپ کے نام کا استعمال کرتا ہے۔</string>
+    <string name="name_progress_title">بس ایک سیکنڈ…</string>
+    <string name="bad_name_title">یہ نام استعمال کریں؟</string>
+    <string name="invalid_name_title">یہ نام استعمال نہیں کیا جا سکتا</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"‏اگر آپ اپنے +Google نام کے بطور اسے چاہتے ہیں تو ہماری ٹیم کو اس کا جائزہ لینے کی ضرورت ہوگی۔ اگر اس سے ہماری نام کی پالیسی کی خلاف ورزی ہوتی ہے تو آپ کا پروفائل معطل کیا جا سکتا ہے۔ یہ ان Google پروڈکٹس کے استعمال کیلئے آپ کی اہلیت کو محدود کر دے گا جن کیلئے ایک فعال پروفائل کی ضرورت ہوتی ہے۔
+
+"<annotation id="learn_more">مزید جانیں</annotation></string>
+    <string name="invalid_name_text">‏آپ +Google کے ساتھ اس نام کا استعمال نہیں کر سکتے ہیں کیونکہ اس میں غلط حروف شامل ہیں۔</string>
+    <string name="invalid_nickname_text">‏آپ +Google کے ساتھ اس نام کا استعمال نہیں کر سکتے ہیں کیونکہ اس میں غلط حروف شامل ہیں۔ ایک عرفی نام، گزشتہ نام یا عنوان کا استعمال کرنے کی کوشش کر رہے ہیں؟ آپ شامل ہو جانے کے بعد انہیں اپنے پروفائل میں شامل کر سکتے ہیں۔</string>
+    <string name="invalid_other_text">‏+Google کے ساتھ اس نام کا استعمال نہیں کیا جا سکتا ہے۔</string>
+    <string name="bad_name_agree_text">میں سمجھتا ہوں اور یہ نام استعمال کرنا چاہتا ہوں۔</string>
+    <string name="bad_name_decline_button_label">نام اپ ڈیٹ کریں</string>
+    <string name="bad_name_agree_button_label">جائزہ کیلئے نام جمع کرائیں</string>
+    <string name="bad_name_skip_button_label">‏+Google کو نظر انداز کریں</string>
+    <string name="photo_title">آپ کی تصویر</string>
+    <string name="photo_text">‏اس تصویر کو آپ کے رابطہ ریکارڈ میں استعمال کیا جائے گا۔ آپ اسے بعد میں People ایپ میں تبدیل کر سکتے ہیں۔</string>
+    <string name="photo_text_es">‏ایک تصویر لیں جسے آپ کے دوست +Google پر دیکھیں گے۔ آپ بعد میں ایک نئی تصویر منتخب کر سکتے ہیں۔</string>
+    <string name="photo_button_label">تصویر لیں</string>
+    <string name="retake_photo_button_label">دوبارہ تصویر لیں</string>
+    <string name="photo_failure">کیمرہ کو شروع نہیں کیا جا سکا۔</string>
+    <string name="crop_failure">تصویر تراشی نہیں جا سکی۔</string>
+    <string name="photo_description">آپ کی تصویر</string>
+    <string name="communicating_message">‏آپ کا فون آپ کے اکاؤنٹ میں معلومات محفوظ کرنے کیلئے Google سے رابطہ کر رہا ہے۔ اس میں 5 منٹ تک کا وقت لگ سکتا ہے۔</string>
+    <string name="creating_account_title">اکاؤنٹ محفوظ ہو رہا ہے…</string>
+    <string name="checking_username_message">"‏آپ کا فون یہ دیکھنے کیلئے Google سے رابطہ کر رہا ہے کہ کیا آپ کا مطلوبہ صارف نام دستیاب ہے۔
+
+اس میں کچھ منٹ لگ سکتے ہیں۔"</string>
+    <string name="plus_failure_title">‏بعد میں +Google میں شامل ہوں</string>
+    <string name="plus_failure_new_account_text">‏آپ کا Google اکاؤنٹ بن گیا ہے، لیکن Google+‎ میں شامل ہونے کی آپ کی درخواست مکمل نہیں ہو سکی۔ plus.google.com پر بعد میں کسی بھی ویب براؤزر سے دوبارہ کوشش کریں۔</string>
+    <string name="plus_failure_text">‏Google+‎ میں شامل ہونے کی آپ کی درخواست مکمل نہیں ہو سکی۔ plus.google.com پر بعد میں کسی بھی ویب براؤزر سے دوبارہ کوشش کریں۔</string>
+    <string name="provisioned_login_title">پاس ورڈ درج کریں</string>
+    <string name="provisioned_welcome">‏ہیلو، ‎%s‎!</string>
+    <string name="provisioned_welcome_2">"‏اپنا پاس ورڈ درج کریں برائے:
+‎%s‎"</string>
+    <string name="provisioned_incorrect_login">‏‎%s‎ نہیں؟</string>
+    <string name="login_title">ای میل اور پاس ورڈ ٹائپ کریں</string>
+    <string name="login_task_title">سائن ان ہو رہے ہیں</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="restore_wifi">‏بحال کریں اور معلوم Wi‑Fi نیٹ ورکس سے مربوط ہوں۔</string>
+    <string name="sign_in_agreement_multi_user">‏سائن ان کر کے، آپ Google کی <annotation id="tos">سروس کی شرائط</annotation>، <annotation id="google_privacy">رازداری کی پالیسی</annotation>، اور<annotation id="play_tos">Google Play کی سروس کی شرائط</annotation>" سے اتفاق کر رہے ہیں۔ 
+
+یاد رکھیں: کوئی بھی دوسرا صارف آپ کی جانب سے اپ ڈیٹ کردہ ایپ کی اجازتوں کو قبول کر سکتا ہے۔ کسی بھی کمپیوٹر کی طرح، آپ کو اس ٹیبلیٹ کا اشتراک صرف اپنے بھروسہ مند لوگوں کے ساتھ کرنا چاہیے۔"</string>
+    <string name="sign_in_agreement_with_chrome">‏سائن ان کر کے، آپ Google کی <annotation id="tos">سروس کی شرائط</annotation> اور <annotation id="google_privacy">رازداری کی پالیسی</annotation>، Chrome کی <annotation id="chrome_tos">سروس کی شرائط</annotation> اور <annotation id="chrome_privacy">رازداری نوٹس</annotation>، اور Google Play کی <annotation id="play_tos">سروس کی شرائط</annotation> سے اتفاق کر رہے ہیں۔</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">‏سائن ان کر کے، آپ Google کی <annotation id="tos">سروس کی شرائط</annotation> اور <annotation id="google_privacy">رازداری کی پالیسی</annotation>، Chrome کی <annotation id="chrome_tos">سروس کی شرائط</annotation> اور <annotation id="chrome_privacy">رازداری نوٹس</annotation>، اور Google Play کی <annotation id="play_tos">سروس کی شرائط</annotation>" سے اتفاق کر رہے ہیں۔ 
+
+یاد رکھیں: کوئی بھی دوسرا صارف آپ کی جانب سے اپ ڈیٹ کردہ ایپ کی اجازتوں کو قبول کر سکتا ہے۔ کسی بھی کمپیوٹر کی طرح، آپ کو اس ٹیبلیٹ کا اشتراک صرف اپنے بھروسہ مند لوگوں کے ساتھ کرنا چاہیے۔"</string>
+    <string name="create_prompt">" ‏ کوئی Google اکاؤنٹ نہیں ہے؟ "<annotation id="create_account">ابھی ایک اکاؤنٹ بنائیں</annotation>۔</string>
+    <string name="sign_in_with_google_account_short">‏اپنے Google اکاؤنٹ کے ساتھ سائن ان کریں:</string>
+    <string name="invalid_username">آپ نے جو متن ٹائپ کیا ہے ہو ایک درست صارف نام نہیں ہے۔</string>
+    <string name="captcha_instructions">یہاں دکھائی دینے والا متن ٹائپ کریں:</string>
+    <string name="create_google_account">صارف نام منتخب کریں</string>
+    <string name="create_google_account_text">‏آپ کا Google اکاؤنٹ Gmail, Google کی جانب سے ای میل کے ساتھ آتا ہے۔ یہ کسی بھی آلہ پر کام کرتا ہے، اسپام کو مسدود کرتا ہے اور بہت کچھ۔</string>
+    <string name="account_already_has_gmail">‏اکاؤنٹ میں پہلے سے Gmail موجود ہے۔</string>
+    <string name="error_account_disabled">"‏اس اکاؤنٹ کو غیر فعال کر دیا گیا ہے۔ 
+
+(تفصیلات کیلئے ایک ویب براؤزر کے ذریعے https://google.com/accounts ملاحظہ کریں۔)"</string>
+    <string name="no_network">آپ کے پاس ایک نیٹ ورک کنکشن موجود نہیں ہے۔</string>
+    <string name="no_network_help">‏یہ ایک عارضی مسئلہ ہو سکتا ہے یا آپ کا Android آلہ ڈیٹا سروسز کیلئے فراہم نہیں کیا جا سکتا ہے۔ کسی موبائل نیٹ ورک سے مربوط ہونے پر دوبارہ کوشش کریں یا کسی Wi-Fi نیٹ ورک سے مربوط ہوں۔</string>
+    <string name="no_network_help_wifi_only">‏یہ ایک عارضی مسئلہ ہو سکتا ہے۔ دوبارہ کوشش کریں یا کسی دوسرے Wi-Fi نیٹ ورک سے مربوط ہوں۔</string>
+    <string name="error_login_failed">"‏آپ کا صارف نام اور پاس ورڈ مماثل نہیں ہے۔ دوبارہ کوشش کریں۔
+
+اپنے اکاؤنٹ کی معلومات کی بازیابی کیلئے، google.com/accounts/recovery/ پر جائیں۔"</string>
+    <string name="error_account_not_verified">"‏اس اکاؤنٹ کی توثیق نہیں کی گئی ہے۔ اس اکاؤنٹ کی توثیق کرنے کیلئے اپنا ای میل چیک کریں اور شامل کردہ لنک کی پیروی کریں۔ 
+
+(اپنے اکاؤنٹ کی معلومات کی بازیابی کرنے کیلئے، اپنے کمپیوٹر پر http://www.google.com/accounts/recovery پر جائیں۔)"</string>
+    <string name="exit_menu_item">براؤزر سائن ان سے باہر نکلیں</string>
+    <string name="creating_profile">آپ کا پروفائل بنایا جا رہا ہے…</string>
+    <string name="checking_account">دستیابی چیک کر رہے ہیں…</string>
+    <string name="is_not_available">‏صارف نام <b>‎^1</b> دستیاب نہیں ہے۔</string>
+    <string name="suggestions_hint">تجاویز کیلئے ٹچ کریں</string>
+    <string name="suggest_username_next_button_label">صارف نام تبدیل کریں</string>
+    <string name="hint_size">" "<b>^1</b> میں 6 سے کم یا 30 سے زیادہ حروف شامل ہیں۔</string>
+    <string name="hint_numbers_only">" "<b>^1</b> میں کوئی حروف شامل نہیں ہیں۔</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" میں صرف حروف،
+نمبرز اور پیرئیڈز شامل ہو سکتے ہیں۔"</string>
+    <string name="doesnt_use_gmail">" ‏ "<b>‎^1</b> Gmail کا استعمال نہیں کرتا ہے۔</string>
+    <string name="sign_in_browser">براؤزر سائن ان</string>
+    <string name="alternatives_list_title">تجویز کردہ صارف نام</string>
+    <string name="password_title">پاس ورڈ بنائیں</string>
+    <string name="choose_a_password">پاس ورڈ</string>
+    <string name="confirm_password">پاس ورڈ دوبارہ ٹائپ کریں</string>
+    <string name="too_short">بہت مختصر</string>
+    <string name="security_questions_title">سیکیورٹی سوالات</string>
+    <string name="answer">" "<b>جواب دیں</b></string>
+    <string name="password_mismatch">پاس ورڈز مماثل نہیں ہے۔ دوبارہ کوشش کریں۔</string>
+    <string name="eight_chars_min">کم از کم 8 حروف</string>
+    <string name="verify_your_profile">اپنے فون کی توثیق کریں</string>
+    <string name="error_not_logged_in">صارف سائن ان نہیں ہے۔</string>
+    <string name="error_username_unavailable">صارف نام دستیاب نہیں ہے۔</string>
+    <string name="error_bad_password">پاس ورڈ بہت کمزور ہے یا اس میں غلط حروف شامل ہیں۔ دوبارہ کوشش کریں۔</string>
+    <string name="error_bad_username">غلط صارف نام۔</string>
+    <string name="existing_account_error_title">اکاؤنٹ پہلے سے موجود ہے</string>
+    <string name="existing_account_error_text">‏اس Android آلہ پر پہلے سے ایک ^1 اکاؤنٹ موجود ہے۔</string>
+    <string name="submission_title">معذرت…</string>
+    <string name="submission_error_text">ایک خرابی پیش آگئی۔ دوبارہ کوشش کریں۔</string>
+    <string name="sync_intro_title">اکاؤنٹ کی مطابقت پذیری</string>
+    <string name="account_tos_title">اکاؤنٹ مکمل کریں</string>
+    <string name="account_tos_plus_title">‏+Google میں شمولیت مکمل کریں</string>
+    <string name="i_accept">مجھے قبول ہے</string>
+    <string name="i_decline">اکاؤنٹ نہ بنائیں</string>
+    <string name="allow_personalized_content">‏Google کو اپنی معلومات کا اشتراک غیر Google ویب سائٹوں پر مواد اور اشتہارات کو ذاتی نوعیت کا بنانے کی اجازت دیں۔</string>
+    <string name="enable_web_history">ویب سرگزشت آن کریں</string>
+    <string name="learn_more"><annotation id="learn_more">مزید جانیں</annotation></string>
+    <string name="account_creation_tos">‏جاری رکھ کر، آپ Google کی <annotation id="tos">سروس کی شرائط</annotation>، <annotation id="google_privacy">رازداری کی پالیسی</annotation> اور <annotation id="play_tos">Google Play کی سروس کی شرائط</annotation> سے اتفاق کر رہے ہیں۔</string>
+    <string name="account_creation_tos_with_chrome">‏جاری رکھ کر، آپ Google کی <annotation id="tos">سروس کی شرائط</annotation> اور <annotation id="google_privacy">رازداری کی پالیسی</annotation>، Chrome کی <annotation id="chrome_tos">سروس کی شرائط</annotation> اور <annotation id="chrome_privacy">رازداری نوٹس</annotation>، اور Google Play کی <annotation id="play_tos">سروس کی شرائط</annotation> سے اتفاق کر رہے ہیں۔</string>
+    <string name="gender_prompt">صنف</string>
+    <string name="gender_hint">صنف</string>
+    <string name="account_pre_intro_title">‏Google ہے؟</string>
+    <string name="account_pre_intro_default_message">"‏کیا آپ کے پاس ایک Google اکاؤنٹ ہے؟
+
+اگر آپ Gmail یا Google Apps استعمال کرتے ہیں تو ہاں جواب دیجئے۔"</string>
+    <string name="account_pre_intro_yes">ہاں</string>
+    <string name="account_pre_intro_no">نہیں</string>
+    <string name="account_intro_title">‏Google اکاؤنٹ</string>
+    <string name="account_intro_required_title">‏Google کے ذریعہ تقویت یافتہ</string>
+    <string name="account_intro_recommended_title">‏اسے Google بنائیں</string>
+    <string name="account_intro_default_message">‏پھر کبھی اپنے مواد سے محروم نہ ہوں۔ ایک Google اکاؤنٹ سبھی کچھ محفوظ رکھتا ہے۔</string>
+    <string name="account_intro_simple_message">کیا آپ ایک موجودہ اکاؤنٹ شامل کرنا چاہتے ہیں یا ایک نیا اکاؤنٹ بنانا چاہتے ہیں؟</string>
+    <string name="account_intro_learn_more">مزید جانیں</string>
+    <string name="learn_more_title">مزید جانیں</string>
+    <string name="learn_more_account_intro">"‏ایک Google اکاؤنٹ آپ کو یہ کرنے دیتا ہے:
+
+"<li><ul>کسی بھی جگہ سے اپنی سبھی معلومات دیکھیں اور ان کا نظم کریں۔</ul></li>"
+
+"<li><ul>ای میل، رابطے، موسیقی اور تصاویر جیسے اپنے ڈیٹا کا خودکار طریقہ سے بیک اپ لیں۔</ul></li>"
+
+"<li><ul>کسی بھی جگہ سے آسانی سے Google سروسز کا استعمال کریں—بشمول رابطے، کیلنڈر، Maps وغیرہ۔</ul></li></string>
+    <string name="learn_more_account_intro_title">‏Google اکاؤنٹس کے بارے میں</string>
+    <string name="learn_more_bad_name">‏Google+‎ آپ سے تقاضہ کرتا ہے کہ آپ اپنا عام نام استعمال کریں۔ آپ کے پروفائل کو ایک شخص کی نمائندگی کرنی چاہئے — ایک کاروبار، تنظیم یا خاندان کی نہیں — اور اس میں پروفیشنل ٹائٹلز یا غیر ضروری رموز اوقاف کے بغیر ایک زبان میں آپ کا پہلا اور آخری نام شامل ہونا چاہئے۔ سائن اپ کرنے کے بعد، آپ ان عرفی ناموں یا دیگر ناموں کو داخل کر سکتے ہیں جن کے ساتھ آپ اپنے پروفائل میں دیگر نام کی فیلڈ میں وابستہ ہیں۔</string>
+    <string name="learn_more_bad_name_title">ناموں کی پالیسی کے بارے میں</string>
+    <string name="wait_for_device_country_title">اکاؤنٹ سیٹ اپ</string>
+    <string name="wait_for_device_country_msg">آپ کے فون کے بارے میں معلومات جمع کر رہا ہے۔ اس میں 30 سیکنڈز تک کا وقت لگ سکتا ہے۔</string>
+    <string name="recovery_title">‏Google پاس ورڈ کی بحالی</string>
+    <string name="recovery_wait_title">‏Google سے رابطہ ہو رہا ہے…</string>
+    <string name="cannot_talk_to_server_msg">‏آلہ Google تک رسائی حاصل نہیں کر سکا۔</string>
+    <string name="recovery_skip_label">نظر انداز کریں</string>
+    <string name="recovery_retry_label">پھر کوشش کریں</string>
+    <string name="recovery_message_set">"‏اگر آپ کبھی بھی اپنا پاس ورڈ بھول جاتے ہیں تو آپ کو اس کی بحالی کے ایک طریقہ کی ضرورت ہوگی۔
+
+Google اپنے پاس ورڈ کی SMS یا کسی متبادل ای میل پتہ کے ذریعے بازیابی کیلئے اختیارات فراہم کرتا ہے۔
+
+اس مرحلہ کی پر زور تجویز کی جاتی ہے۔ "<annotation id="help_url">مزید جانیں</annotation></string>
+    <string name="recovery_message_verify">"‏پاس ورڈز آسانی سے بھول سکتے ہیں۔
+
+ابھی اپنے فون نمبر یا بیک اپ ای میل پتہ کی توثیق کریں۔ اس سے Google اور Google Play پر اپنے مواد تک رسائی کی بحالی میں آپ کو مدد ملتی ہے۔ "<annotation id="help_url">مزید جانیں</annotation></string>
+    <string name="recovery_yes_button_label">بازیابی اختیارات ترتیب دیں</string>
+    <string name="recovery_yes_button_label_verify">بازیابی اختیارات کی توثیق کریں</string>
+    <string name="recovery_later_button_label">ابھی نہیں</string>
+    <string name="recovery_input_screen_message">اس بازیابی معلومات کا اطلاق %s پر ہوتا ہے۔</string>
+    <string name="secondary_email_hint">بیک اپ ای میل</string>
+    <string name="secondary_email_invalid">غلط ای میل پتہ</string>
+    <string name="secondary_email_same_as_primary">بالکل بنیادی ای میل کی طرح نہیں ہو سکتا</string>
+    <string name="phone_number_hint">فون نمبر</string>
+    <string name="phone_number_invalid_character">فون نمبر میں غلط حروف ہیں</string>
+    <string name="phone_number_invalid">غلط فون نمبر</string>
+    <string name="country_invalid">اس ملک کی اجازت نہیں ہے</string>
+    <string name="recovery_server_error">سرور سے مواصلت میں خرابی۔ براہ کرم کچھ دیر بعد دوبارہ کوشش کریں۔</string>
+    <string name="account_recovery_info">اگر کبھی بھی آپ اپنا پاس ورڈ بھول جاتے ہیں تو آپ ایک سیکیورٹی سوال کا جواب دے سکتے ہیں اور ایک مختلف پتہ پر ری سیٹ لنک ای میل کروا سکتے ہیں۔</string>
+    <string name="secondary_email_label">بازیابی کا ای میل پتہ</string>
+    <string name="invalid_email">"‏آپ نے جو ای میل پتہ ٹائپ کیا ہے وہ درست نہیں ہے۔
+ مثلاً: joe@example.com"</string>
+    <string name="invalid_email_primary">بازیابی پتہ بالکل ویسا نہیں ہو سکتا ہے جیسا آپ بنا رہے ہیں۔</string>
+    <string name="backup_consent_message">"‏اپنی ایپس، ترتیبات (جیسے کہ بُک مارکس اور Wi-Fi پاس ورڈز) اور دیگر ڈیٹا کا بیک اپ لینے کیلئے اپنا Google اکاؤنٹ استعمال کریں۔ اگر آپ نے پہلے اپنے اکاؤنٹ کا بیک اپ لیا ہے تو اب آپ اس فون پر اسے بحال کر سکتے ہیں۔
+
+آپ ترتیبات میں کسی بھی وقت اپنے بیک اپ کی ترتیبات تبدیل کر سکتے ہيں۔"</string>
+    <string name="backup_consent_message_no_restore">"‏اپنی ایپس، ترتیبات (جیسے کہ بُک مارکس اور Wi-Fi پاس ورڈز) اور دیگر ڈیٹا کا بیک اپ لینے کیلئے اپنا Google اکاؤنٹ استعمال کریں۔
+
+آپ ترتیبات میں کسی بھی وقت اپنے بیک اپ کی ترتیبات تبدیل کر سکتے ہيں۔"</string>
+    <string name="restoring_title">بحال ہو رہا ہے…</string>
+    <string name="restoring_message">‏آپ کا فون آپ کے اکاؤنٹ کو بحال کرنے کیلئے Google سے رابطہ کر رہا ہے۔ اس میں تھوڑا وقت لگ سکتا ہے۔</string>
+    <string name="gls_notification_login_error">اپنے اکاؤنٹ میں سائن ان کرنے کیلئے ٹچ کریں۔</string>
+    <string name="gls_ui_add_account_title">اکاؤنٹ سیٹ اپ</string>
+    <string name="gls_ui_activity_title">سائن ان کریں</string>
+    <string name="gls_ui_activity_title_browser_signin">سائن ان کریں</string>
+    <string name="gls_ui_activity_title_checking_in">تیار ہو رہا ہے…</string>
+    <string name="gls_ui_activity_authenticating">توثیق ہو رہی ہے…</string>
+    <string name="gls_dmagent_activity_activate_message">" ‏ آپ کے ڈومین کیلئے موبائل آلہ کا نظم درکار ہے۔  "<b>^1</b> کے ذریعے درکار سیکیورٹی پالیسیاں نافذ کرنے کیلئے \"Google Apps Device Policy\" ایپ کو فعال کریں۔</string>
+    <string name="gls_dmagent_activity_activate_retry_button">فعال کریں</string>
+    <string name="gls_dmagent_activity_download_message">" ‏ آپ کے ڈومین کیلئے موبائل آلہ کا نظم درکار ہے۔  "<b>^1</b> کے ذریعے درکار سیکیورٹی پالیسیاں نافذ کرنے کیلئے \"Google Apps Device Policy\" ایپ کو انسٹال کریں۔</string>
+    <string name="gls_dmagent_activity_download_retry_button">ڈاؤن لوڈ کریں</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">آپ نے ایک غلط پاس ورڈ ٹائپ کیا ہے یا آپ کا اکاؤنٹ تبدیل ہو گیا ہے۔ اپنا پاس ورڈ دوبارہ ٹائپ کریں۔</string>
+    <string name="permlab_googleAuthPassword">‏Google اکاؤنٹس کیلئے پاس ورڈز تک رسائی حاصل کریں</string>
+    <string name="permdesc_googleAuthPassword">‏ایپس کو آپ کے ذریعے ترتیب دیے گئے Google اکاؤنٹ (اکاؤنٹس) کیلئے پاس ورڈز تک براہ راست رسائی ای اجازت دیتا ہے۔</string>
+    <string name="permlab_googleMailSwitch">‏Gmail یا Google Mail برانڈنگ منتخب کریں</string>
+    <string name="permdesc_googleMailSwitch">‏ایپس کو \"Gmail\" اور \"Google Mail\" برانڈنگ کے درمیان ڈسپلے کیا گیا نام سوئچ کرنے کی اجازت دیتا ہے۔</string>
+    <string name="sync_item_title">%s کی مطابقت پذیری کریں</string>
+    <string name="grant_credentials_permission_message_footer">وہ اس کیلئے اجازت کی درخواست کر رہے ہیں:</string>
+    <string name="grant_credentials_permission_message_app">‏یہ ایپس اب سے آپ کے Google اکاؤنٹ تک رسائی حاصل کرنا چاہتی ہیں:</string>
+    <string name="grant_permissions_header_text">اجازت کی درخواست</string>
+    <string name="allow">رسائی کی اجازت دیں</string>
+    <string name="deny">نہیں، شکریہ</string>
+    <string name="permission_request_notification_with_subtitle">"اکاؤںٹ %s کیلئے
+اجازت طلب کی گئی"</string>
+    <string name="notification_title">%1$s کیلئے سائن ان کی خرابی</string>
+    <string name="account_setup_title">‏Google اکاؤنٹ</string>
+    <string name="login_activity_title">سائن ان کریں</string>
+    <string name="relogin_activity_title">پاس ورڈ دوبارہ ٹائپ کریں</string>
+    <string name="show_error_activity_title">سائن ان نہیں کر سکا</string>
+    <string name="login_activity_task_title">سائن ان ہو رہے ہیں…</string>
+    <string name="login_activity_task_msg">اس میں چند منٹ لگ سکتے ہیں۔</string>
+    <string name="prepare_account_setup_task_title">اکاؤنٹ سیٹ اپ کو تیار کر رہا ہے…</string>
+    <string name="prepare_account_setup_task_msg">اس میں چند منٹ لگ سکتے ہیں۔</string>
+    <string name="sync_intro_activity_title">اپنے اکاؤنٹ کی مطابقت پذیر کریں</string>
+    <string name="username">ای میل</string>
+    <string name="error_invalid_second_factor">اپنے عمومی اکاؤنٹ کے پاس ورڈ کے بجائے ایپ کیلئے مخصوص ایک پاس ورڈ استعمال کریں۔</string>
+    <string name="error_needs_browser">اپنے اکاؤنٹ تک رسائی کیلئے، آپ کیلئے ویب پر سائن ان کرنا ضروری ہے۔ براؤزر سائن ان شروع کرنے کیلئے اگلا کو ٹچ کریں۔</string>
+    <string name="google_play_opt_in">‏Google Play کی جانب سے خبروں اور پیشکشوں کے ساتھ مجھے اپ ٹو ڈیٹ رکھیں۔</string>
+    <string name="google_settings_header_title">رازداری</string>
+    <string name="maps_settings_title">‏Maps اور عرض البلد</string>
+    <string name="location_settings_title">مقام</string>
+    <string name="search_settings_title">تلاش کریں</string>
+    <string name="plus_settings_title">Google+‎</string>
+    <string name="ads_settings_title">اشتہارات</string>
+    <string name="location_network_based">‏Google کی مقام کی سروس</string>
+    <string name="location_neighborhood_level">‏گمنام مقام کا ڈيٹا Google کو بھیجے جانے کی اجازت دیں۔ نیز، مجاز ایپس کو اپنے تخمینی مقام کے تعین کیلئے Wi-Fi اور موبائل نیٹ ورکس جیسے ذرائع سے ڈیٹا استعمال کرنے کی اجازت دیں۔</string>
+    <string name="use_location_title">‏مقام اور Google تلاش</string>
+    <string name="use_location_summary">‏تلاش نتائج اور دیگر سروسز بہتر بنانے کیلئے Google کو آپ کا مقام استعمال کرنے دیں</string>
+    <string name="backup_consent_yes_agree">‏اپنی ایپس، ترتیبات (جیسے بک مارکس اور Wi-Fi پاس ورڈز) اور دیگر ڈیٹا کا بیک اپ لینے کیلئے اپنا Google اکاؤنٹ استعمال کریں۔</string>
+    <string name="restore_consent_yes_agree">‏ایپس، ترتیبات اور دیگر ڈیٹا کو اس فون پر لائیں جس کا آپ نے پہلے اپنے Google اکاؤنٹ پر بیک اپ لیا تھا۔</string>
+    <string name="audit_logging_summary">‏ہمارے پروڈکٹس کو بہتر بنانے اور اپنے آلہ کے تحفظ میں مدد کرنے کیلئے آلہ کا ایونٹ اور تشخیصی معلومات Google کو خود کار طور پر بھیجیں۔</string>
+    <string name="no_back_msg">پچھلے مرحلے پر واپس نہیں جا سکتے۔</string>
+    <string name="setup_wizard_title">سیٹ اپ ویزرڈ</string>
+    <string name="setup_wizard_services_activity_title">‏Google سروسز</string>
+    <string name="setup_wizard_services_description">‏یہ سروسز Google سے آپ کیلئے کام کراتی ہیں اور آپ انہیں کسی بھی وقت آن یا آف کر سکتے ہیں۔ ڈیٹا کا استعمال Google کی <annotation id="google_privacy">رازداری کی پالیسی</annotation> کے مطابق کیا جائے گا۔</string>
+    <string name="setup_wizard_services_backup_restore_heading">بیک اپ لیں اور بحال کریں</string>
+    <string name="setup_wizard_services_location_heading">مقام</string>
+    <string name="setup_wizard_services_communication_heading">مواصلت</string>
+    <string name="setup_wizard_services_backup">‏اپنے Google اکاؤنٹ کا استعمال کر کے <b>اپنے فون کی ایپس، ایپ ڈیٹا، ترتیبات ذاتی لغات اور Wi‑Fi پاس ورڈز کا بیک اپ لیں</b> تاکہ آپ آسانی سے بعد میں بحالی کر سکیں۔ <annotation id="backup_details">مزید جانیں</annotation></string>
+    <string name="setup_wizard_services_backup_restore">‏اپنے Google اکاؤنٹ کا استعمال کر کے <b>اپنی ایپس، ایپ ڈیٹا، ترتیبات ذاتی لغات اور Wi‑Fi پاس ورڈز کا بیک اپ لیں</b> تاکہ آپ آسانی سے بعد میں بحالی کر سکیں۔</string>
+    <string name="setup_wizard_services_backup_restore_footnote">‏ڈیٹا میں ایپس، ایپ کی ترتیبات، سسٹم کی ترتیبات اور Wi‑Fi پاس ورڈز شامل ہوتے ہیں۔</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">‏جب آپ خود کار بیک اپ آن کرتے ہیں تو آپ کے آلہ کا ڈیٹا وقفہ وقفہ پر آپ کے Google اکاؤنٹ میں محفوظ کیا جاتا ہے۔ بیک اپس میں آپ کی ایپ کے ڈیٹا فولڈرز میں موجود معلومات، جیسے کہ ترجیحات، ترتیبات، پیغامات، تصاویر اور دیگر فائلیں شامل ہو سکتی ہیں۔</string>
+    <string name="setup_wizard_services_location_sharing">‏مقام کا تعین کرنے میں ایپس کی مدد کرنے کیلئے <b>Google کی مقام کی سروس استعمال کریں</b>۔ اس کا مطلب ہے مقام کا گمنام ڈیٹا Google کو بھیجنا، اس وقت بھی جب کوئی ایپس نہ چل رہی ہوں۔ <annotation id="location_details">مزید جانیں</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">‏آپ کے آلہ کے مقام کا تیزی اور مزید درستگی کے ساتھ اندازہ لگانے میں مدد کرنے کیلئے Google کی مقام کی سروس Wi‑Fi اور سیلولر نیٹ ورکس جیسے ذرائع کا استعمال کرتی ہے۔ جب آپ Google کی مقام کی سروسز آن کرتے ہیں تو مقام کی معلومات فراہم کرنے کیلئے آپ کا آلہ ایسی وضع میں چلا جاتا ہے جو Wi‑Fi اور سیلولر نیٹ ورکس استعمال کرتی ہے۔ آپ صرف GPS استعمال کرنے والی ایک وضع، جسے کبھی کبھی صرف آلہ وضع کہا جاتا ہے، منتخب کر کے اسے مقام کی ترتیبات میں آف کر سکتے ہیں۔</string>
+    <string name="setup_wizard_services_location_wifi_scan">‏Wi‑Fi آف ہونے پر بھی ایپس اور سروسز کو Wi‑Fi نیٹ ورکس کو اسکین کرنے کی اجازت دے کر<b>مقام کی سروسز کو بہتر بنانے میں مدد کریں</b>۔</string>
+    <string name="setup_wizard_services_location_footnote">‏Google کی مقام کی سروس مزید درست طریقے اور تیزی کے ساتھ مقام کا تعین کرنے کیلئے Wi‑Fi اور دیگر سگنلز استعمال کرتی ہے، اکثر GPS کی نسبت کم پاور کے استعمال کے ساتھ۔ کچھ ڈیٹا کو آپ کے آلہ پر اسٹور کیا جا سکتا ہے۔ ڈیٹا کو اس وقت بھی جمع کیا جا سکتا ہے جب کوئی ایپس نہ چل رہی ہوں۔</string>
+    <string name="setup_wizard_services_play">‏Google Play کی جانب سے خبروں اور پیشکشوں کے ساتھ <b>مجھے اپ ٹو ڈیٹ رکھیں</b>۔</string>
+    <string name="setup_wizard_services_usage_reporting">‏Google کو خود کار طور پر ڈائیگناسٹک اور استعمال کا ڈیٹا بھیج کر <b>اپنے Android تجربہ کو بہتر بنانے میں مدد کریں</b>۔ اس معلومات کا استعمال آپ کی شناخت کیلئے نہیں کیا جائے گا اور یہ بیٹری کی میعاد، ایپ کی کارکردگی اور Google کی نئی خصوصیات جیسی چیزوں پر کام کرنے والی ٹیموں کی مدد کرتی ہے۔ <annotation id="usage_reporting_details">مزید جانیں</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"‏یہ آپ کے آلہ اور آپ کے اس کو استعمال کرنے کا طریقہ، جیسے بیٹری کی سطح، آپ اپنی ایپس کو کتنی بار استعمال کرتے ہیں، آپ کے نیٹ ورک کنکشنز کے معیار اور دورانیہ (مثلاً سیل، Wi-Fi اور بلوٹوتھ)، اور جب چیزیں اس طریقے سے کام نہ کر رہی ہوں جس طریقے سے انہیں کرنا چاہیے تو کریش رپورٹوں کے بارے میں عمومی معلومات ہوتی ہے۔ اسے ہر کسی کیلئے Google کے پروڈکٹس اور سروسز کو بہتر بنانے کیلئے استعمال کیا جائے گا اور آپ کے Google اکاؤنٹ سے وابستہ نہیں کیا جائے گا۔ کچھ مجموعی معلومات سے پارٹنرز، جیسے Android ڈیولپرز، کو اپنے پروڈکٹس کو بہتر بنانے میں بھی مدد ملے گی۔
+
+آپ کسی بھی وقت Google ترتیبات ایپ میں اسے آن یا آف کر سکتے ہیں۔ اس سے سسٹم اپ ڈیٹس اور سیکیورٹی جیسی لازمی سروسز حاصل کرنے کیلئے درکار معلومات بھیجنے کی آپ کے آلہ کی اہلیت پر اثر نہیں پڑتا ہے۔"</string>
+    <string name="setup_wizard_services_agreement">‏یہ فون Google، آپ کے کیریئر اور آپ کے آلہ کے مینوفیکچرر سے اپ ڈیٹس اور ایپس بھی موصول اور انسٹال کر سکتا ہے۔ اگر آپ جاری رکھتے ہیں تو کچھ ایپس کو ڈاؤن لوڈ اور انسٹال کیا جا سکتا ہے، اور آپ کسی بھی وقت انہیں ہٹا سکتے ہیں۔</string>
+</resources>

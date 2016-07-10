@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">"Bu hesab tətbiqlər çatışmadığı üçün istifadə oluna bilməz: ^1.  üçün domen administratoru ilə əlaqə saxlayın və ya başqa hesabdan istifadə edərək daxil olun."</item>
+        <item quantity="one">"Bu hesab tətbiq çatışmadığı üçün istifadə oluna bilməz: ^1.  üçün domen administratoru ilə əlaqə saxlayın və ya başqa hesabdan istifadə edərək daxil olun."</item>
+    </plurals>
+</resources>

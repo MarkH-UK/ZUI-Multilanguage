@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="y">Ralat perkhidmatan Google Play</string>
+    <string name="z">Perkhidmatan Google Play perlu dikemas kini utk menggunakan aplikasi.</string>
+    <string name="a0">%1$s memerlukan kemas kini apl Android Wear.</string>
+    <string name="a1">Perkhidmatan Google Play perlu didayakan untuk menggunakan aplikasi.</string>
+    <string name="a2">Diminta oleh %1$s</string>
+    <string name="a3">Dapatkan perkhidmatan Google Play</string>
+    <string name="a4">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada telefon anda.</string>
+    <string name="a5">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada telefon anda.</string>
+    <string name="a6">Dapatkan perkhidmatan Google Play</string>
+    <string name="a7">Dayakan perkhidmatan Google Play</string>
+    <string name="a8">%1$s tidak akan berfungsi kecuali anda mendayakan perkhidmatan Google Play.</string>
+    <string name="a9">Dayakan perkhidmatan Google Play</string>
+    <string name="a_">Kemas kini perkhidmatan Google Play</string>
+    <string name="aa">Kemas kini Android Wear</string>
+    <string name="ab">%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.</string>
+    <string name="ac">%1$s tidak akan berfungsi melainkan anda mengemas kini apl Android Wear.</string>
+    <string name="ad">Perkhidmatan Google Play sdg dikemaskini</string>
+    <string name="ae">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemas kini.</string>
+    <string name="af">Ralat Rangkaian</string>
+    <string name="ag">Sambungan data diperlukan untuk menyambung ke perkhidmatan Google Play.</string>
+    <string name="ah">Akaun Tidak Sah</string>
+    <string name="ai">Akaun yang dinyatakan tidak wujud pada peranti ini. Sila pilih akaun yang lain.</string>
+    <string name="aj">Isu tidak diketahui dengan perkhidmatan Google Play.</string>
+    <string name="ak">Perkhidmatan Google Play</string>
+    <string name="al">%1$s bergantung pada perkhidmatan Google Play, yang tidak disokong oleh peranti anda. Hubungi pengeluar untuk mendapatkan bantuan.</string>
+    <string name="am">Kemas kini</string>
+    <string name="an">Log masuk</string>
+    <string name="ao">Log masuk dengan Google</string>
+    <string name="ap">Buka pada telefon</string>
+    <string name="aq">%1$s memerlukan satu atau lebih perkhidmatan Google Play yang tidak tersedia pada masa ini. Sila hubungi pembangun untuk mendapatkan bantuan.</string>
+    <string name="ar">Gagal melog masuk</string>
+    <string name="as">Ralat melog masuk ke akaun yang dinyatakan. Sila pilih akaun yang berbeza.</string>
+</resources>

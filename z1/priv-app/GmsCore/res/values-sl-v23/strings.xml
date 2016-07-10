@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"To so splošni podatki o tej napravi in tem, kako se uporablja, na primer raven napolnjenosti akumulatorja, kako pogosto so uporabljene aplikacije, kakovost in trajanje omrežnih povezav (na primer povezav z mobilnim omrežjem, omrežjem Wi-Fi in povezav Bluetooth) ter poročila o zrušitvah, ko ne gre vse po načrtu. Uporabljeni so za izboljšanje Googlovih izdelkov in storitev za vse in ne bodo povezani z otrokovim Google Računom. Nekateri združeni podatki tudi pomagajo partnerjem, na primer razvijalcem za Android, izboljšati svoje aplikacije in izdelke.
+
+To lahko kadar koli vklopite ali izklopite v »Nastavitve > Google«. To ne vpliva na to, ali lahko naprava pošilja potrebne podatke za prejemanje ključnih storitev, na primer sistemskih posodobitev in varnosti."</string>
+    <string name="auth_setup_wizard_services_backup"><b>V Google Drive samodejno varnostno kopirajte podatke</b> (na primer gesla za Wi-Fi in zgodovino klicev) in podatke aplikacij (na primer nastavitve in datoteke, ki jih shranjujejo aplikacije). <annotation id="backup_details">Več o tem</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Ko vklopite samodejno varnostno kopiranje, se podatki naprave in aplikacij redno shranjujejo v Google Drive v mapo, ki ni v skupni rabi. Podatki aplikacij so lahko kateri koli podatki, ki jih je shranila aplikacija (glede na nastavitve razvijalca), vključno z morebitnimi občutljivimi podatki, kot so stiki, sporočila in fotografije.
+
+Varnostno kopirani podatki se ne bodo šteli v vašo omejitev prostora za shranjevanje. Velike datoteke ali datoteke, ki so jih razvijalci izključili iz storitve, ne bodo varnostno kopirane."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Izboljšajte natančnost lokacijskih podatkov</b>, tako da aplikacijam in storitvam omogočite iskanje omrežij Wi-Fi in naprav Bluetooth, tudi ko sta povezavi Wi-Fi in Bluetooth izklopljeni.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"To so splošni podatki o vaši napravi in tem, kako jo uporabljate, na primer raven napolnjenosti akumulatorja, kako pogosto uporabljate aplikacije, kakovost in trajanje omrežnih povezav (na primer povezav z mobilnim omrežjem, omrežjem Wi-Fi in povezav Bluetooth) ter poročila o zrušitvah, ko ne gre vse po načrtu. Uporabljeni so za izboljšanje Googlovih izdelkov in storitev za vse in ne bodo povezani z vašim Google Računom. Nekateri združeni podatki tudi pomagajo partnerjem, na primer razvijalcem za Android, izboljšati svoje aplikacije in izdelke.
+
+To lahko kadar koli vklopite ali izklopite v »Nastavitve > Google«. To ne vpliva na to, ali lahko vaša naprava pošilja potrebne podatke za prejemanje ključnih storitev, na primer sistemskih posodobitev in varnosti."</string>
+</resources>

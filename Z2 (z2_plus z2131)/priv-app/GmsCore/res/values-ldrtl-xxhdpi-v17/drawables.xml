@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="appinvite_account_selector">false</item>
+    <item type="drawable" name="gf_menu_send">false</item>
+    <item type="drawable" name="profile_ic_previous_white_24">false</item>
+    <item type="drawable" name="plus_iconic_ic_send_darkgrey_32">false</item>
+</resources>

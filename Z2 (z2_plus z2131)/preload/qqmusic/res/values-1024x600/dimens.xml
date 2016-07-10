@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="album_margin">40.0dip</dimen>
+    <dimen name="album_padding">10.0dip</dimen>
+    <dimen name="lly_goto_login_marginTop">120.0dip</dimen>
+    <dimen name="my_music_view_account_bg_cover_hieght">-80.0dip</dimen>
+    <dimen name="my_music_view_username_margin_top">12.0dip</dimen>
+    <dimen name="player_album_height">600.0px</dimen>
+    <dimen name="send_song_detail_marginTop1">18.0dip</dimen>
+    <dimen name="send_song_detail_marginTop2">7.0dip</dimen>
+    <dimen name="send_song_detail_marginTop3">20.0dip</dimen>
+    <dimen name="send_song_detail_marginTop4">10.0dip</dimen>
+    <dimen name="send_song_detail_topview_margin_top">80.0dip</dimen>
+    <dimen name="widget_icon_height">43.0dip</dimen>
+    <dimen name="widget_icon_width">43.0dip</dimen>
+    <dimen name="player_album_radius">400.0px</dimen>
+    <dimen name="widget_ctrl_panel_height">60.0dip</dimen>
+    <dimen name="widget_height">96.0dip</dimen>
+    <dimen name="widget_large_icon_height">46.0dip</dimen>
+    <dimen name="widget_large_icon_width">46.0dip</dimen>
+    <dimen name="widget_width">350.0dip</dimen>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#ffff0000</color>
+    <color name="green">#ff00ff00</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="button_selected">#ff40bf45</color>
+    <color name="button_unselected">#ff666666</color>
+    <color name="split_line_upper_part">#ffe3e3e3</color>
+    <color name="split_line_half_bottom">#fff6f6f6</color>
+    <color name="button_list_split_line">#ffd6d6d6</color>
+    <color name="item_split_line">#ffeaeaea</color>
+    <color name="item_text">#ff333333</color>
+    <color name="item_lit_text">#ffb2b2b2</color>
+    <color name="list_background">#ffededed</color>
+    <color name="list_item_onclicked">#ffededed</color>
+    <color name="category_text">#ff999999</color>
+    <color name="dialog_other_part">#ff000000</color>
+    <color name="dialog_button">#ffffffff</color>
+    <color name="dialog_button_onclicked">#fff3f3f3</color>
+    <color name="dialog_button_text">#ff333333</color>
+    <color name="dialog_button_upper_split_line">#ffe0e0e0</color>
+    <color name="item_unclickable">#ffcccccc</color>
+    <color name="bar_background">#fff0f0f0</color>
+    <color name="app_background">#fff0f0f0</color>
+    <color name="hor_line">#ffd5eaf3</color>
+    <color name="list_item">#fffafafa</color>
+    <color name="list_item_press">#00000000</color>
+    <color name="list_item_null">#ffededed</color>
+    <color name="item_bcg">#fffafafa</color>
+    <color name="item_font">#ff333333</color>
+    <color name="app_title">#ff323232</color>
+    <color name="status_bar_icon_color">#ff000000</color>
+    <color name="empty_text">#ffb2b2b2</color>
+</resources>

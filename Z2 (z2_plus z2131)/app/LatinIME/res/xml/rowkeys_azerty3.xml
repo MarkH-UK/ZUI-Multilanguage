@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <Key latin:moreKeys="!text/morekeys_w" latin:keySpec="w" />
+    <Key latin:keySpec="x" />
+    <Key latin:moreKeys="!text/morekeys_c" latin:keySpec="c" />
+    <Key latin:moreKeys="!text/morekeys_v" latin:keySpec="v" />
+    <Key latin:keySpec="b" />
+    <Key latin:moreKeys="!text/morekeys_n" latin:keySpec="n" />
+    <switch>
+        <case latin:keyboardLayoutSetElement="alphabetManualShifted|alphabetShiftLockShifted">
+            <Key latin:keySpec="\?" />
+        </case>
+        <default>
+            <Key latin:moreKeys="!text/morekeys_single_quote" latin:keySpec="'" />
+        </default>
+    </switch>
+</merge>

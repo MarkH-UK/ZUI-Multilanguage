@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Quán bar</item>
+        <item>Quán cà phê</item>
+        <item>Trạm xăng</item>
+        <item>Rạp chiếu phim</item>
+        <item>Nhà trọ</item>
+        <item>Hộp đêm</item>
+        <item>Viện bảo tàng</item>
+        <item>Nhà hàng</item>
+        <item>Trung tâm mua sắm</item>
+        <item>Cửa hàng</item>
+        <item>Cửa hàng rau hoặc siêu thị</item>
+        <item>Khác</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>kém</item>
+        <item>khá</item>
+        <item>tốt</item>
+        <item>mạnh</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Bản phát hành</item>
+        <item>Nhà phát triển</item>
+        <item>Bán lẻ</item>
+        <item>Bản trình diễn</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Điện thoại và ô tô đang chạy phần mềm không tương thích. Để biết chi tiết, hãy truy cập &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
+        <item>Ô tô đã quảng cáo bộ cấu hình âm thanh và/hoặc video không đúng.</item>
+        <item>"Kết nối USB hiện không hoạt động bình thường. Những điều cần thử: 
+
+• Hãy đảm bảo rằng cáp vừa khít trên cả hai đầu. 
+•Hãy chắc chắn rằng bạn có cáp USB dữ liệu. 
+•Hãy đảm bảo rằng ngày và giờ được đặt chính xác cho cả ô tô và điện thoại của bạn."</item>
+        <item>Ô tô đã ngừng chạy Android Auto.</item>
+        <item>Phiên Android Auto đã dừng theo yêu cầu.</item>
+        <item>Phần mềm của ô tô có thể lỗi thời. Để biết chi tiết và được hỗ trợ, hãy liên hệ với nhà sản xuất.</item>
+        <item>Phần mềm của ô tô không vượt qua các kiểm tra bảo mật của Android Auto. Để biết chi tiết và được hỗ trợ, hãy liên hệ với nhà sản xuất.</item>
+        <item>Phần mềm của ô tô không vượt qua các kiểm tra bảo mật của Android Auto. Hãy đảm bảo rằng ngày và giờ của xe được đặt chính xác và Android Auto đã được cập nhật.</item>
+        <item>Tác vụ đã hết thời gian chờ. Bạn nên tải báo cáo lỗi và gửi phản hồi.</item>
+        <item>Có vẻ như bạn chưa cài đặt trình khởi chạy, điện thoại của bạn đã được thiết lập chính xác chưa?</item>
+        <item>Đường ống đồ họa vừa ngừng hoạt động. Bạn nên tải báo cáo lỗi và gửi phản hồi.</item>
+        <item>Ô tô không phản hồi thông báo từ điện thoại. Có thể ô tô đang ở trạng thái không đúng.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Sân bay</item>
+        <item>ATM</item>
+        <item>Ngân hàng</item>
+        <item>Quán bar</item>
+        <item>Bến xe buýt</item>
+        <item>Quán cà phê</item>
+        <item>Khu vực cắm trại</item>
+        <item>Nghĩa trang</item>
+        <item>Nhà thờ</item>
+        <item>Tòa thị chính</item>
+        <item>Cơ sở</item>
+        <item>Trạm xăng</item>
+        <item>Cửa hàng rau hoặc siêu thị</item>
+        <item>Đền thờ Hindu</item>
+        <item>Bệnh viện</item>
+        <item>Thư viện</item>
+        <item>Nhà trọ</item>
+        <item>Nhà thờ hồi giáo</item>
+        <item>Rạp chiếu phim</item>
+        <item>Viện bảo tàng</item>
+        <item>Công viên</item>
+        <item>Bãi đỗ xe</item>
+        <item>Nơi thờ cúng</item>
+        <item>Đồn cảnh sát</item>
+        <item>Bưu điện</item>
+        <item>Nhà hàng</item>
+        <item>Trường học</item>
+        <item>Cửa hàng</item>
+        <item>Ga tàu điện ngầm</item>
+        <item>Giáo đường Do Thái</item>
+        <item>Nhà ga</item>
+        <item>Trạm chuyển tuyến</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Tháng Một</item>
+        <item>Tháng Hai</item>
+        <item>Tháng Ba</item>
+        <item>Tháng Tư</item>
+        <item>Tháng Năm</item>
+        <item>Tháng Sáu</item>
+        <item>Tháng Bảy</item>
+        <item>Tháng Tám</item>
+        <item>Tháng Chín</item>
+        <item>Tháng Mười</item>
+        <item>Tháng Mười Một</item>
+        <item>Tháng Mười Hai</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Dừng chia sẻ</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>Vô thời hạn</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Ngừng chia sẻ</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Chọn một câu hỏi bảo mật</item>
+        <item>Số điện thoại đầu tiên?</item>
+        <item>Tên người bạn thân nhất thời thơ ấu?</item>
+        <item>Tên giáo viên đầu tiên?</item>
+        <item>Tên người quản lý của công việc đầu tiên?</item>
+        <item>Số đăng ký xe?</item>
+    </string-array>
+</resources>

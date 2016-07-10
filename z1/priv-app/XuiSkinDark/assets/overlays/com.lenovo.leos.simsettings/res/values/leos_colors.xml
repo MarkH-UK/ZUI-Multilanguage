@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="category">#999999</color>
+    <color name="net_type">#ff747474</color>
+    <color name="card_dialog_summary">#ff9b9b9b</color>
+    <color name="gray_category">#fff8f8f8</color>
+    <color name="gray_space">#f7eeef</color>
+    <color name="sub_title_font_color">#8c8c8c</color>
+
+    <color name="preference_normal_font">#8c8c8c</color>
+    <color name="preference_small_font">#5c5c5c</color>
+
+    <color name="notification_bg_color">#ff131419</color>
+    <color name="card_not_ready">#4a4a4a</color>
+    <color name="card_ready">#8c8c8c</color>
+
+    <color name="background_light">#000000</color>
+    <color name="gray">#0d0d0d</color>
+    <color name="dialog_normal">#000000</color>
+    <color name="dialog_press">#0d0d0d</color>
+
+    <color name="cancel_color">#8c8c8c</color>
+    <color name="split_color">#151515</color>
+</resources>

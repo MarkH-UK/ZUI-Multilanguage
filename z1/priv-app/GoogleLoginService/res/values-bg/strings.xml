@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Грешка в услугите за Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Приложение изисква инсталирането на услугите за Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Приложение изисква актуализирането на услугите за Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Приложение изисква актуализиране на Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Приложение изисква активирането на услугите за Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Заявено от %1$s</string>
+    <string name="common_google_play_services_install_title">Изтегляне на услугите за Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Това приложение няма да се изпълнява без услугите за Google Play, които липсват в телефона ви.</string>
+    <string name="common_google_play_services_install_text_tablet">Това приложение няма да се изпълнява без услугите за Google Play, които липсват в таблета ви.</string>
+    <string name="common_google_play_services_install_button">Услуги за Google Play: Изтегл.</string>
+    <string name="common_google_play_services_enable_title">Активиране на услугите за Google Play</string>
+    <string name="common_google_play_services_enable_text">Това приложение няма да работи, освен ако не активирате услугите за Google Play.</string>
+    <string name="common_google_play_services_enable_button">Услуги за Google Play: Актив.</string>
+    <string name="common_google_play_services_update_title">Актуализиране на услугите за Google Play</string>
+    <string name="common_android_wear_update_title">Актуализиране на Android Wear</string>
+    <string name="common_google_play_services_update_text">Това приложение няма да се изпълнява, освен ако не актуализирате услугите за Google Play.</string>
+    <string name="common_android_wear_update_text">Това приложение няма да стартира, освен ако не актуализирате Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Грешка в мрежата</string>
+    <string name="common_google_play_services_network_error_text">За свързване с услугите за Google Play се изисква връзка за данни.</string>
+    <string name="common_google_play_services_invalid_account_title">Невалиден профил</string>
+    <string name="common_google_play_services_invalid_account_text">Посоченият профил не съществува на това устройство. Моля, изберете друг.</string>
+    <string name="common_google_play_services_unknown_issue">Неизвестен проблем с услугите за Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Услуги за Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Услугите за Google Play, на които разчитат някои от приложенията ви, не се поддържат от устройството ви. Моля, свържете се с производителя за помощ.</string>
+    <string name="common_google_play_services_update_button">Актуализиране</string>
+    <string name="common_signin_button_text">Вход</string>
+    <string name="common_signin_button_text_long">Вход с Google</string>
+    <string name="common_open_on_phone">Отваряне в телефона</string>
+    <string name="setup_wizard_next_button_label">Напред</string>
+    <string name="setup_wizard_back_button_label">Назад</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Пропускане</string>
+    <string name="down_button_label">Още</string>
+    <string name="cancel_button_label">Отказ</string>
+    <string name="try_again_button_label">Опитайте отново</string>
+    <string name="close_button_label">Затваряне</string>
+    <string name="url_load_unsuccessful_message">Устройството ви с Android не е свързано с услуга за данни. За да видите тази информация сега, посетете %s с уеб браузър.</string>
+    <string name="sign_in_agreement">С влизането си приемате <annotation id="tos">Общите условия</annotation> и <annotation id="google_privacy">Декларацията за поверителност</annotation> на Google и <annotation id="play_tos">Общите условия на Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">Допълнителна декларация за поверителност</string>
+    <string name="google_terms_of_service_title">Общи условия на Google</string>
+    <string name="google_privacy_policy_title">Декларация за поверителност на Google</string>
+    <string name="google_plus_privacy_policy_title">Поверителност на Google Plus</string>
+    <string name="google_play_tos_title">Общи условия на Google Play</string>
+    <string name="chrome_tos_title">Общи условия на Chrome</string>
+    <string name="chrome_privacy_title">Съобщение за поверителност на Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Устройството ви с Android не е свързано с Wi-Fi мрежа. За да видите тази информация сега, посетете %s с уеб браузър.</string>
+    <string name="services_activity_title">Услуги на Google</string>
+    <string name="services_backup_heading">Резервно копие</string>
+    <string name="services_location_heading">Местоположение</string>
+    <string name="services_security_heading">Сигурност</string>
+    <string name="services_personalization_heading">Персонализиране</string>
+    <string name="services_communication_heading">Комуникация</string>
+    <string name="security_verify_apps_summary">Разрешаване на Google да проверява всички инсталирани приложения за потенциално опасно поведение, което може да засегне сигурността на устройството или данните ви.</string>
+    <string name="name_title">Вашето име</string>
+    <string name="name_text">Името ви се използва за персонализиране на телефона ви и услугите, които ползвате в Google.</string>
+    <string name="first_name">Собствено</string>
+    <string name="last_name">Фамилно</string>
+    <string name="cant_be_blank">Полето трябва да се попълни.</string>
+    <string name="sharedUserLabel">Услугите на Google</string>
+    <string name="app_label">Мениджър на профили</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Вход</string>
+    <string name="create_button_label">Направете си профил</string>
+    <string name="not_now_button_label">Не сега</string>
+    <string name="new_button_label">Нов</string>
+    <string name="existing_button_label">Съществуващ</string>
+    <string name="done">OK</string>
+    <string name="edit_text_help">Докоснете което и да е било текстово поле, за да започнете да пишете</string>
+    <string name="add_a_google_account">Добавяне на профил в Google</string>
+    <string name="captcha_title">Трябва да направите автоматизирания тест за разграничаване на компютри от хора CAPTCHA</string>
+    <string name="show_error_title">Грешка</string>
+    <string name="server_error">Възникна проблем при комуникация със сървърите на Google.</string>
+    <string name="server_error_help">Опитайте отново по-късно.</string>
+    <string name="network_unreliable">Не може да се установи надеждна връзка със сървъра.</string>
+    <string name="network_unreliable_help">Това може да е временен проблем или устройството ви с Android може да не е обезпечено за услуги с данни. Ако проблемът продължи, обадете се на отдела за поддръжка на клиенти.</string>
+    <string name="network_unreliable_help_wifi_only">Това може да е временен проблем. Опитайте отново или се свържете с друга Wi-Fi мрежа.</string>
+    <string name="invalid_login_character">Невалиден знак. Позволени са само 0-9, а-я, А-Я и точки.</string>
+    <string name="invalid_password_character">Невалиден знак в паролата.</string>
+    <string name="calendar">Google Календар</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Полето трябва да се попълни.</string>
+    <string name="plus_query_title">Надстройване до Google+</string>
+    <string name="plus_query_text">Google+ прави споделянето в мрежата да прилича повече на това в реалния живот.</string>
+    <string name="circles_subtitle">Поток с нещата, които ви вълнуват</string>
+    <string name="circles_text">Свържете се с близки приятели и разгледайте общите си интереси.</string>
+    <string name="uploads_subtitle">Авт. създ. на резервно копие на снимките</string>
+    <string name="uploads_text">С безплатното и частно хранилище създавайте резервно копие на снимките още докато ги правите.</string>
+    <string name="huddle_subtitle">Видеообаждане и съобщения</string>
+    <string name="huddle_text">Изпращайте съобщения и снимки и участвайте в безплатни групови видеообаждания с Hangouts.</string>
+    <string name="plus_declined_button_label">Не сега</string>
+    <string name="plus_accepted_button_label">Първи стъпки</string>
+    <string name="plus_name_check_title">Осъществява се връзка с Google+...</string>
+    <string name="plus_name_check_text">Това може да отнеме няколко минути.</string>
+    <string name="plus_faq_title">Добре дошли в Google+!</string>
+    <string name="plus_faq_text" formatted="false">"В Google+ ще имате обществен потребителски профил, който да помогне на приятелите ви да ви намерят онлайн. Всеки, който знае имейл адреса ви, може да го намери и разгледа.
+
+Можете да използвате бутоните +1 в мрежата, за да препоръчвате неща на света. Вашият потребителски профил и +1 ще се показват обществено в търсенето, рекламите и мрежата.
+
+Засега потребителският ви профил ще показва само името ви (%s %s). Можете да добавите снимка, биография и други подробности по-късно, когато започнете да използвате Google+."</string>
+    <string name="dasher_warning">Администраторът на %s притежава и управлява всичките ви данни в Google+ и може да изтрие или да промени потребителския ви профил по всяко време без вашето разрешение.</string>
+    <string name="profile_info_title">Вашият потребителски профил</string>
+    <string name="profile_text">Предоставете някои основни данни за потребителския си профил. Можете да добавите снимка и други подробности по-късно, когато започнете да използвате Google+.</string>
+    <string name="occupation">Професия</string>
+    <string name="current_city">Настоящ град</string>
+    <string name="picassa_info_title">Picasa и Google+</string>
+    <string name="picassa_info_text" formatted="false">Снимките и видеоклиповете ви в Picasa Уеб Албуми ще са налице в Google+, а коментарите ви ще бъдат от %s %s вместо от %s. Когато споделяте снимки в услугата, получателите могат да ги споделят повторно с всички. Настройките за видимост на албумите ви няма да се променят и можете да ги ограничите по всяко време, за да не могат да бъдат свободно споделени повторно.</string>
+    <string name="name_title_plus">Името ви в Google+</string>
+    <string name="name_title_local">Този телефон принадлежи на...</string>
+    <string name="name_text_local">Телефонът използва името ви, за да персонализира някои приложения.</string>
+    <string name="name_progress_title">Една секунда…</string>
+    <string name="bad_name_title">Това име ли да се използва?</string>
+    <string name="invalid_name_title">Това име не може да се използва</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Ако искате това да е името ви в Google+, ще е необходимо екипът ни да го прегледа. Ако то нарушава нашите правила за имената, потребителският ви профил може да бъде спрян. Това ще ограничи възможността ви да използвате продукти на Google, за които се изисва активен потребителски профил.
+
+"<annotation id="learn_more">Научете повече</annotation></string>
+    <string name="invalid_name_text">Не можете да използвате това име с Google+, защото съдържа невалидни знаци.</string>
+    <string name="invalid_nickname_text">Не можете да използвате това име с Google+, защото съдържа невалидни знаци. Опитвате се да ползвате псевдоним, предишно име или титла? Можете да ги добавите към потребителския си профил, след като се присъедините.</string>
+    <string name="invalid_other_text">Това име не може да бъде използвано с Google+.</string>
+    <string name="bad_name_agree_text">Разбирам и искам да използвам това име.</string>
+    <string name="bad_name_decline_button_label">Актуализиране на името</string>
+    <string name="bad_name_agree_button_label">Изпращане на името за преглед</string>
+    <string name="bad_name_skip_button_label">Пропускане на Google+</string>
+    <string name="photo_title">Вашата снимка</string>
+    <string name="photo_text">Тази снимка ще се използва в данните за контакт. Можете да я промените по-късно в приложението Хора.</string>
+    <string name="photo_text_es">Направете снимка, която приятелите ви ще виждат в Google+. Можете да изберете нова по-късно.</string>
+    <string name="photo_button_label">Правене на снимка</string>
+    <string name="retake_photo_button_label">Повторно снимане</string>
+    <string name="photo_failure">Камерата не можа да бъде стартирана.</string>
+    <string name="crop_failure">Снимката не можа да бъде подрязана.</string>
+    <string name="photo_description">Вашата снимка</string>
+    <string name="communicating_message">Телефонът ви се свързва с Google, за да запази информация в профила ви. Това може да отнеме до 5 минути.</string>
+    <string name="creating_account_title">Профилът се запазва...</string>
+    <string name="checking_username_message">"Телефонът ви се свързва с Google, за да провери дали желаното от вас потребителско име е налице.
+
+Това може да отнеме няколко минути."</string>
+    <string name="plus_failure_title">Присъединете се към Google+ по-късно</string>
+    <string name="plus_failure_new_account_text">Профилът ви в Google е създаден, но заявката ви за присъединяване към Google+ не се осъществи. Опитайте отново по-късно от независимо кой уеб браузър на адрес plus.google.com.</string>
+    <string name="plus_failure_text">Заявката ви за присъединяване към Google+ не се осъществи. Опитайте отново по-късно от уеб браузър на адрес plus.google.com.</string>
+    <string name="provisioned_login_title">Въведете парола</string>
+    <string name="provisioned_welcome">Здравейте, %s!</string>
+    <string name="provisioned_welcome_2">"Въведете паролата си за:
+%s"</string>
+    <string name="provisioned_incorrect_login">Не сте %s?</string>
+    <string name="login_title">Въведете имейл адрес и парола</string>
+    <string name="login_task_title">Влизате в профила</string>
+    <string name="password">Парола</string>
+    <string name="restore_wifi">Възстановяване и свързване с известни Wi‑Fi мрежи.</string>
+    <string name="sign_in_agreement_multi_user">С влизането си приемате <annotation id="tos">Общите условия</annotation> и <annotation id="google_privacy">Декларацията за поверителност</annotation> на Google и <annotation id="play_tos">Общите условия на Google Play</annotation>". 
+
+Не забравяйте: Всеки друг потребител може да приема от ваше име актуализирани разрешения за приложения. Както с всеки компютър трябва да споделяте този таблет само с хора, на които имате доверие."</string>
+    <string name="sign_in_agreement_with_chrome">С влизането си приемате <annotation id="tos">Общите условия</annotation> и <annotation id="google_privacy">Декларацията за поверителност</annotation> на Google, <annotation id="chrome_tos">Общите условия</annotation> и <annotation id="chrome_privacy">Съобщението за поверителност</annotation> на Chrome и <annotation id="play_tos">Общите условия</annotation> на Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">С влизането си приемате <annotation id="tos">Общите условия</annotation> и <annotation id="google_privacy">Декларацията за поверителност</annotation> на Google, <annotation id="chrome_tos">Общите условия</annotation> и <annotation id="chrome_privacy">Съобщението за поверителност</annotation> на Chrome и <annotation id="play_tos">Общите условия</annotation>" на Google Play. 
+
+Не забравяйте: Всеки друг потребител може да приема от ваше име актуализирани разрешения за приложения. Както с всеки компютър трябва да споделяте този таблет само с хора, на които имате доверие."</string>
+    <string name="create_prompt">" Нямате профил в Google? "<annotation id="create_account">Създайте си още сега</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Влезте с профила си в Google:</string>
+    <string name="invalid_username">Въведеният от вас текст не е валидно потребителско име.</string>
+    <string name="captcha_instructions">Тук въведете текста, който виждате:</string>
+    <string name="create_google_account">Избор на потребителско име</string>
+    <string name="create_google_account_text">Профилът ви в Google включва Gmail – електронната поща от Google. Тя работи на всяко устройство, блокира нежеланите съобщения и прави още много други неща.</string>
+    <string name="account_already_has_gmail">Профилът вече има Gmail.</string>
+    <string name="error_account_disabled">"Този профил е деактивиран. 
+
+(За подробности посетете https://google.com/accounts от уеб браузър.)"</string>
+    <string name="no_network">Нямате връзка с мрежатa.</string>
+    <string name="no_network_help">Това може да е временен проблем или устройството ви с Android може да не е обезпечено за услуги с данни. Опитайте отново, когато имате връзка към мобилна мрежа, или се свържете с Wi-Fi мрежа.</string>
+    <string name="no_network_help_wifi_only">Това може да е временен проблем. Опитайте отново или се свържете с друга Wi-Fi мрежа.</string>
+    <string name="error_login_failed">"Потребителското име и паролата ви не са идентични. Опитайте отново.
+
+За да възстановите информацията за профила си, отворете google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Този профил не е потвърден. Проверете имейла си и отворете посочената връзка, за да го потвърдите. 
+
+(За да възстановите информацията за профила си, посетете http://www.google.com/accounts/recovery от компютъра си.)"</string>
+    <string name="exit_menu_item">Изход от влизането в браузъра</string>
+    <string name="creating_profile">Потребителският ви профил се създава…</string>
+    <string name="checking_account">Наличността се проверява...</string>
+    <string name="is_not_available">Потребителското име <b>^1</b> е заето.</string>
+    <string name="suggestions_hint">Докоснете за предложения</string>
+    <string name="suggest_username_next_button_label">Промяна на потребителското име</string>
+    <string name="hint_size">" "<b>^1</b> съдържа по-малко от 6 или повече от 30 знака.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> не съдържа никакви букви.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" може да съдържа само
+букви, цифри и точки."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> не използва Gmail.</string>
+    <string name="sign_in_browser">Вход в браузъра</string>
+    <string name="alternatives_list_title">Предложени потребителски имена</string>
+    <string name="password_title">Създаване на парола</string>
+    <string name="choose_a_password">Парола</string>
+    <string name="confirm_password">Въведете отново паролата</string>
+    <string name="too_short">Твърде кратка</string>
+    <string name="security_questions_title">Защитни въпроси</string>
+    <string name="answer">" "<b>Отговор</b></string>
+    <string name="password_mismatch">Паролите не са идентични. Опитайте отново.</string>
+    <string name="eight_chars_min">най-малко 8 знака</string>
+    <string name="verify_your_profile">Потвърдете потребителския си профил</string>
+    <string name="error_not_logged_in">Потребителят не е в профила си.</string>
+    <string name="error_username_unavailable">Потребителското име е заето.</string>
+    <string name="error_bad_password">Паролата е прекалено лесна или съдържа невалидни знаци. Опитайте отново.</string>
+    <string name="error_bad_username">Невалидно потребителско име.</string>
+    <string name="existing_account_error_title">Профилът вече съществува</string>
+    <string name="existing_account_error_text">Вече съществува профил „^1“ на това устройство с Android.</string>
+    <string name="submission_title">Съжаляваме...</string>
+    <string name="submission_error_text">Възникна грешка. Опитайте отново.</string>
+    <string name="sync_intro_title">Синхронизиране на профила</string>
+    <string name="account_tos_title">Завършване на профила</string>
+    <string name="account_tos_plus_title">Присъединяване към Google+: Завършване</string>
+    <string name="i_accept">Приемам</string>
+    <string name="i_decline">Без създаване на профил</string>
+    <string name="allow_personalized_content">Разрешавам на Google да използва информацията ми, за да персонализира съдържание и реклами в уебсайтове, които не са на Google.</string>
+    <string name="enable_web_history">Включване на Посетени сайтове</string>
+    <string name="learn_more"><annotation id="learn_more">Научете повече</annotation></string>
+    <string name="account_creation_tos">С продължаването си приемате <annotation id="tos">Общите условия</annotation> и <annotation id="google_privacy">Декларацията за поверителност</annotation> на Google и <annotation id="play_tos">Общите условия на Google Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">С продължаването си приемате <annotation id="tos">Общите условия</annotation> и <annotation id="google_privacy">Декларацията за поверителност</annotation> на Google, <annotation id="chrome_tos">Общите условия</annotation> и <annotation id="chrome_privacy">Съобщението за поверителност</annotation> на Chrome и <annotation id="play_tos">Общите условия</annotation> на Google Play.</string>
+    <string name="gender_prompt">Пол</string>
+    <string name="gender_hint">Пол</string>
+    <string name="account_pre_intro_title">Имате ли профил в Google?</string>
+    <string name="account_pre_intro_default_message">"Имате ли профил в Google?
+
+Ако използвате Gmail или Google Apps, отговорете с „Да“."</string>
+    <string name="account_pre_intro_yes">Да</string>
+    <string name="account_pre_intro_no">Не</string>
+    <string name="account_intro_title">Профил в Google</string>
+    <string name="account_intro_required_title">Предоставено от Google</string>
+    <string name="account_intro_recommended_title">Нека да е в Google</string>
+    <string name="account_intro_default_message">Никога не губете нещата си отново. Профилът в Google съхранява всичко в безопасност.</string>
+    <string name="account_intro_simple_message">Искате ли да добавите съществуващ профил или да си създадете нов?</string>
+    <string name="account_intro_learn_more">Научете повече</string>
+    <string name="learn_more_title">Научете повече</string>
+    <string name="learn_more_account_intro">"Профилът в Google ви позволява:
+
+"<li><ul>да виждате и организирате цялата си информация, включително историята на търсенията си, от всяко място;</ul></li>"
+
+"<li><ul>автоматично да създавате резервно копие на данните си, като имейли, контакти, музика и снимки;</ul></li>"
+
+"<li><ul>да използвате лесно услугите на Google навсякъде, включително Контакти, Календар, Карти и др.</ul></li></string>
+    <string name="learn_more_account_intro_title">Всичко за Google Профили</string>
+    <string name="learn_more_bad_name">Google+ изисква от вас да използвате обичайното си име. Потребителският ви профил трябва да представя един човек, а не фирма, организация или семейство, и трябва да включва вашето собствено и фамилно име на един език, без професионални титли или ненужни препинателни знаци. След регистрацията можете да поставите псевдонимите или другите имена, с които ви наричат, в полето „Други имена“ в потребителския си профил.</string>
+    <string name="learn_more_bad_name_title">Всичко за правилата за имена</string>
+    <string name="wait_for_device_country_title">Настройка на профила</string>
+    <string name="wait_for_device_country_msg">Събира се информация за телефона ви. Това може да отнеме до 30 секунди.</string>
+    <string name="recovery_title">Възстановяване на парола за Google</string>
+    <string name="recovery_wait_title">Устан. се връзка с Google...</string>
+    <string name="cannot_talk_to_server_msg">Устройството не можа да установи връзка с Google.</string>
+    <string name="recovery_skip_label">Пропускане</string>
+    <string name="recovery_retry_label">Нов опит</string>
+    <string name="recovery_message_set">"Ако някога забравите паролата си, ще ви е необходим начин за възстановяването й.
+
+Google предоставя опции за това чрез SMS или алтернативен имейл адрес.
+
+Тази стъпка се препоръчва настоятелно. "<annotation id="help_url">Научете повече</annotation></string>
+    <string name="recovery_message_verify">"Паролите се забравят лесно.
+
+Потвърдете телефонния си номер или резервния си имейл адрес сега. Това ви помага да възстановите достъпа до съдържанието си в Google и Google Play. "<annotation id="help_url">Научете повече</annotation></string>
+    <string name="recovery_yes_button_label">Настройка на опциите за възстановяване</string>
+    <string name="recovery_yes_button_label_verify">Опции за възстановяване: Потвърждаване</string>
+    <string name="recovery_later_button_label">Не сега</string>
+    <string name="recovery_input_screen_message">Тази информация за възстановяване се отнася за %s.</string>
+    <string name="secondary_email_hint">Резервен имейл адрес</string>
+    <string name="secondary_email_invalid">Невалиден имейл адрес</string>
+    <string name="secondary_email_same_as_primary">Не може да е като осн. имейл</string>
+    <string name="phone_number_hint">Телефонен номер</string>
+    <string name="phone_number_invalid_character">Невалидни знаци в телефонния номер</string>
+    <string name="phone_number_invalid">Невалиден телефонен номер</string>
+    <string name="country_invalid">Тази държава не е разрешена</string>
+    <string name="recovery_server_error">Грешка при връзката със сървъра. Опитайте отново след известно време.</string>
+    <string name="account_recovery_info">Ако загубите паролата си, можете да отговорите на защитен въпрос и да получите връзка за задаване на нова парола, изпратена по имейл на друг адрес.</string>
+    <string name="secondary_email_label">Имейл адрес за възстановяване</string>
+    <string name="invalid_email">"Въведеният от вас имейл адрес не е валиден.
+ Например: joe@example.com"</string>
+    <string name="invalid_email_primary">Адресът за възстановяване не може да бъде същият като този, който създавате.</string>
+    <string name="backup_consent_message">"Използвайте профила си в Google, за да създадете резервно копие на своите приложения, настройки (например отметки и пароли за Wi-Fi) и други данни. Ако сте направили резервно копие на профила си, можете да го възстановите сега на този телефон.
+
+Можете да промените настройките си за резервни копия по всяко време от „Настройки“."</string>
+    <string name="backup_consent_message_no_restore">"Използвайте профила си в Google, за да създадете резервно копие на своите приложения, настройки (например отметки и пароли за Wi-Fi) и други данни.
+
+Можете да промените настройките си за резервни копия по всяко време от „Настройки“."</string>
+    <string name="restoring_title">Възстановява се...</string>
+    <string name="restoring_message">Телефонът ви се свързва с Google, за да възстанови профила ви. Това може да отнеме известно време.</string>
+    <string name="gls_notification_login_error">Докоснете, за да влезете в профила си.</string>
+    <string name="gls_ui_add_account_title">Настройка на профила</string>
+    <string name="gls_ui_activity_title">Вход</string>
+    <string name="gls_ui_activity_title_browser_signin">Вход</string>
+    <string name="gls_ui_activity_title_checking_in">Подготвя се...</string>
+    <string name="gls_ui_activity_authenticating">Удостоверява се...</string>
+    <string name="gls_dmagent_activity_activate_message">" Домейнът ви изисква управление на мобилните устройства. Активирайте приложението от Google Приложения за правила за устройства, за да наложите правилата за сигурност, изисквани от профила  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Активиране</string>
+    <string name="gls_dmagent_activity_download_message">" Домейнът ви изисква управление на мобилните устройства. Инсталирайте приложението от Google Приложения за правила за устройства, за да наложите правилата за сигурност, изисквани от профила  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">Изтегляне</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Въвели сте неправилна парола или профилът ви е променен. Въведете отново паролата си.</string>
+    <string name="permlab_googleAuthPassword">достъп до пароли за профили в Google</string>
+    <string name="permdesc_googleAuthPassword">Разрешава на приложенията директен достъп до паролите за настроен/и от вас профил/и в Google.</string>
+    <string name="permlab_googleMailSwitch">избор на логото на Gmail или Google Mail</string>
+    <string name="permdesc_googleMailSwitch">Разрешава на приложенията да превключват между марката „Gmail“ и „Google Mail“.</string>
+    <string name="sync_item_title">Синхронизиране на %s</string>
+    <string name="grant_credentials_permission_message_footer">Искат разрешение да:</string>
+    <string name="grant_credentials_permission_message_app">Тези приложения искат достъп до профила ви в Google отсега нататък:</string>
+    <string name="grant_permissions_header_text">Заявка за разрешение</string>
+    <string name="allow">Разрешаване на достъпа</string>
+    <string name="deny">Не, благодаря</string>
+    <string name="permission_request_notification_with_subtitle">"Иска се разрешение
+за профила %s"</string>
+    <string name="notification_title">Грешка при влизането за %1$s</string>
+    <string name="account_setup_title">Профил в Google</string>
+    <string name="login_activity_title">Вход</string>
+    <string name="relogin_activity_title">Въведете отново паролата</string>
+    <string name="show_error_activity_title">Не можах да вляза в профила си</string>
+    <string name="login_activity_task_title">Влизате в профила си...</string>
+    <string name="login_activity_task_msg">Това може да отнеме няколко минути.</string>
+    <string name="prepare_account_setup_task_title">Настройката на профила се подготвя…</string>
+    <string name="prepare_account_setup_task_msg">Това може да отнеме няколко минути.</string>
+    <string name="sync_intro_activity_title">Синхронизирайте профила си</string>
+    <string name="username">Имейл</string>
+    <string name="error_invalid_second_factor">Използвайте парола за конкретно приложение вместо обичайната за профила си.</string>
+    <string name="error_needs_browser">За достъп до профила си трябва да влезете в мрежата. Докоснете „Напред“, за да стартирате влизането в браузъра.</string>
+    <string name="google_play_opt_in">Дръжте ме в течение с новини и оферти от Google Play.</string>
+    <string name="google_settings_header_title">Поверителност</string>
+    <string name="maps_settings_title">Карти и Latitude</string>
+    <string name="location_settings_title">Местоположение</string>
+    <string name="search_settings_title">Търсене</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Реклами</string>
+    <string name="location_network_based">Услуга на Google за местопол.</string>
+    <string name="location_neighborhood_level">Разрешаване на изпращането на анонимни данни за местоп. до Google. Приложенията с разрешение да използват данни от изт. като Wi-Fi и моб. мрежи за определ. на прибл. ви местоп.</string>
+    <string name="use_location_title">Местопол. и търсене с Google</string>
+    <string name="use_location_summary">Разрешавам на Google да използва мест. ми за подобряване на резултатите от търсенето и др. услуги</string>
+    <string name="backup_consent_yes_agree">Използване на профила ви в Google за създаване на резервни копия на вашите приложения, настройки (например отметки и пароли за Wi-Fi) и други данни.</string>
+    <string name="restore_consent_yes_agree">Осъществяване на достъп от този телефон до приложенията, настройките и другите данни, за които сте създали резервно копие в профила си в Google.</string>
+    <string name="audit_logging_summary">Автоматично изпращане до Google на диагностична и информация за събитията на устройството с цел защитата му и подобряване на продуктите ни.</string>
+    <string name="no_back_msg">Не можете да се върнете към предишната стъпка.</string>
+    <string name="setup_wizard_title">Съветник за инсталиране</string>
+    <string name="setup_wizard_services_activity_title">Услуги на Google</string>
+    <string name="setup_wizard_services_description">Посредством тези услуги Google работи за вас и можете да ги включите или изключите по всяко време. Данните ще се използват в съответствие с <annotation id="google_privacy">Декларацията ни за поверителност</annotation>.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Резервни копия и възстановяване</string>
+    <string name="setup_wizard_services_location_heading">Местоположение</string>
+    <string name="setup_wizard_services_communication_heading">Комуникация</string>
+    <string name="setup_wizard_services_backup"><b>Създайте резервно копие на приложенията, данните от тях, настройките, личните речници и паролите за Wi‑Fi на телефона си</b> посредством профила си в Google, за да можете лесно да ги възстановите по-късно. <annotation id="backup_details">Научете повече</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Създайте резервно копие на приложенията, данните от тях, настройките, личните речници и паролите за Wi‑Fi</b> посредством профила си в Google, за да можете лесно да ги възстановите по-късно.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Данните включват приложения, настройки за приложения, системни настройки и пароли за Wi‑Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Когато включите автоматичното създаване на резервно копие, данните от устройството ви периодично се запазват в профила ви в Google. Тези копия може да включват информацията в папките за данни от приложенията, като предпочитания, настройки, съобщения, снимки и други файлове.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Използвайте услугата на Google за местоположението</b>, за да помогнете на приложенията да го определят по-добре. Това означава, че ще ни се изпращат анонимни данни за него дори когато няма работещи приложения. <annotation id="location_details">Научете повече</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Услугата на Google за местоположението използва източници като Wi‑Fi и клетъчни мрежи с цел определяне на това на устройството ви по-бързо и по-точно. Когато включите тези услуги, устройството ви влиза в режим, който ползва Wi‑Fi и клетъчни мрежи, за да предостави информация за местоположението. Можете да изключите това от съответните настройки, като изберете режим, който използва само GPS, понякога наричан „Само чрез устройството“.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Помогнете за подобряването на услугите за местоположението</b>, като разрешите на приложенията и услугите да сканират за Wi‑Fi мрежи дори когато Wi‑Fi е изключен.</string>
+    <string name="setup_wizard_services_location_footnote">Услугата на Google за местоположение използва Wi‑Fi и други сигнали, за да го определи по-точно и по-бързо, често с по-малка консумация на енергия в сравнение с GPS. Възможно е някои данни да се съхраняват на устройството ви. Събирането на информация ще се извършва дори когато не се изпълняват приложения.</string>
+    <string name="setup_wizard_services_play"><b>Дръжте ме в течение</b> с новини и оферти от Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Помогнете за подобряването на практическата си работа с Android</b>, като автоматично ни изпращате данни за диагностиката и употребата. Тази информация няма да се използва за идентифицирането ви, а ще послужи на екипите, които работят по неща като живота на батерията, ефективността на приложенията и новите функции на Google. <annotation id="usage_reporting_details">Научете повече</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Това е обща информация за устройството ви и начина, по който го ползвате, като например нивото на батерията, колко често взаимодействате с приложенията си, качеството и продължителността на мрежовите ви връзки (мобилни, с Wi-Fi и през Bluetooth), както и сигнали за сривове, когато нещата не работят както трябва. Данните ще се използват за всеобщо подобряване на продуктите и услугите ни и няма да са свързани с профила ви в Google. Част от обобщената информация ще помогне и на партньорите ни, например програмисти под Android, да усъвършенстват собствените си приложения и продукти.
+
+Можете да включите или изключите функцията по всяко време от Настройки за Google. Това не засяга възможността на устройството ви да изпраща информацията, която му е необходима за получаване на основни услуги, като системни актуализации и защитни настройки."</string>
+    <string name="setup_wizard_services_agreement">Този телефон може също да получава и инсталира актуализации и приложения от Google, оператора ви и производителя си. Възможно е някои приложения да бъдат изтеглени и инсталирани, ако продължите, но можете да ги премахнете по всяко време.</string>
+</resources>

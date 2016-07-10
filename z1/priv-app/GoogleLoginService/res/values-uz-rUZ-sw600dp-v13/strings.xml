@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_text">Ismingiz planshet va Google xizmatlarini o‘zingizga moslashtirish uchun ishlatiladi.</string>
+    <string name="name_title_local">Ushbu planshet egasi:</string>
+    <string name="name_text_local">Planshet ba’zi ilovalarni o‘zingizga moslashtirish uchun ismingizdan foydalanadi.</string>
+    <string name="communicating_message">Planshetingiz ma’lumotlarni hisobingizga saqlash uchun Google bilan bog‘lanmoqda. Bu 5 daqiqagacha vaqt olishi mumkin.</string>
+    <string name="checking_username_message">"Planshetingiz siz xohlagan nom bo‘sh ekanligini tekshirish uchun Google bilan bog‘lanmoqda.
+
+Bu bir necha daqiqa vaqt olishi mumkin."</string>
+    <string name="wait_for_device_country_msg">Planshetingiz haqidagi ma’lumotlar to‘planmoqda. Bu 30 daqiqagacha vaqt olishi mumkin.</string>
+    <string name="backup_consent_message">"Ilovalar, sozlamalar (masalan, xatcho‘plar va Wi-Fi parollari) va boshqa ma’lumotlaringiz nusxasini zaxiralash uchun Google hisobingizdan foydalaning. Agar hisobingizni oldin zaxiralagan bo‘lsangiz, uni hozir ushbu planshetga tiklashingiz mumkin.
+
+Zaxiralash sozlamalarini xohlagan vaqtda Sozlamalar menyusidan o‘zgartirishingiz mumkin."</string>
+    <string name="backup_consent_message_no_restore">"Ilovalar, sozlamalar (masalan, xatcho‘plar va Wi-Fi parollari) va boshqa ma’lumotlaringiz nusxasini zaxiralash uchun Google hisobingizdan foydalaning.
+
+Zaxiralash sozlamalarini xohlagan vaqtda Sozlamalar menyusidan o‘zgartirishingiz mumkin."</string>
+    <string name="restoring_message">Planshetingiz hisobingizni tiklash uchun Google bilan bog‘lanmoqda. Bu 5 daqiqagacha vaqt olishi mumkin.</string>
+    <string name="restore_consent_yes_agree">Google hisobingizga avval zaxiralab qo‘ygan ilovalar, sozlamalar va boshqa ma’lumotlarni ushbu planshetga qayta tiklang.</string>
+</resources>

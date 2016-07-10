@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/call_setting_sim_app"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.newcontact.contacts_settings.XPreference android:title="@string/call_setting_sim_app_card_1" android:key="call_setting_preference_sim_app_card_1" />
+    <com.android.newcontact.contacts_settings.XPreference android:title="@string/call_setting_sim_app_card_2" android:key="call_setting_preference_sim_app_card_2" />
+    <PreferenceCategory />
+</PreferenceScreen>

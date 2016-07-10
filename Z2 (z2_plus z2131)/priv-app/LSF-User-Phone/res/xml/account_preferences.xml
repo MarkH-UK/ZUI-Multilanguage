@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/account_settings" />
+    <PreferenceScreen android:layout="@layout/account_preference" android:title="@string/account_settings" android:key="account_settings" android:summary="@string/account_settings_summary">
+        <intent android:targetPackage="com.lenovo.lsf" android:action="android.intent.action.MYACCOUNT" android:targetClass="com.lenovo.lsf.lenovoid.ui.AccountInfoActivity" />
+    </PreferenceScreen>
+    <PreferenceScreen android:layout="@layout/account_preference" android:title="@string/com_lenovo_lsf_barcode_auth" android:key="account_qrcode" android:summary="@string/com_lenovo_lsf_barcode_auth_summary">
+        <intent android:targetPackage="com.lenovo.lsf" android:action="com.lenovo.lsf.account.QRCODE" android:targetClass="com.lenovo.lsf.account.qrcode.ui.CaptureActivity" />
+    </PreferenceScreen>
+</PreferenceScreen>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>බීමහල</item>
+        <item>අවන්හල</item>
+        <item>ඉන්ධන පිරවුම් හල</item>
+        <item>චිත්‍රපට ශාලාව</item>
+        <item>නවාතැන</item>
+        <item>රාත්‍රී සමාජ ශාලාව</item>
+        <item>කෞතුකාගාරය</item>
+        <item>අවන්හල</item>
+        <item>වෙළඳ මධ්‍යස්ථානය</item>
+        <item>වෙළෙඳසැල</item>
+        <item>"සිල්ලර වෙළඳසැල හෝ  සුපිරි වෙළඳසැල"</item>
+        <item>වෙනත්</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>දුර්වල</item>
+        <item>සතුටුදායක</item>
+        <item>හොඳ</item>
+        <item>ප්‍රබල</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>බ්ලූටූත්</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>මුදා හැරීම</item>
+        <item>සංවර්ධක</item>
+        <item>සිල්ලර</item>
+        <item>ආදර්ශනය</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>දුරකථනයේ සහ මෝටර් රථයේ නොගැළපෙන මෘදුකාංග ධාවනය වෙමින් ඇත. විස්තර සඳහා, &lt;a href="android.com/auto">android.com/auto&lt;/a> වෙත පිවිසෙන්න</item>
+        <item>ශ්‍රව්‍ය සහ/හෝ වීඩියෝ වින්‍යාස කිරීම් වැරදි බව මෝටර් රථය ප්‍රචාරණය කර ඇත.</item>
+        <item>"USB සම්බන්ධතාව නිසි පරිදි ක්‍රියා නොකරයි. කළ යුතු දේ: 
+
+• කේබලය අන්ත දෙකින්ම නිවැරදිව සවිවන බව සහතික කර ගන්න. 
+•ඔබට දත්ත USB කේබලයක් ඇති බව සහතික කර ගන්න. 
+•මෝටර් රථය සහ ඔබේ දුරකථනය යන දෙකෙහිම දිනය සහ වේලාව නිවැරදිව සකසා ඇති බව සහතික කර ගන්න."</item>
+        <item>මෝටර් රථය Android Auto ධාවනය කිරීම නවත්වා ඇත.</item>
+        <item>ඉල්ලූ පරිදි, Android Auto සැසිය නවත්වන ලදී.</item>
+        <item>මෙම මෝටර් රථයේ මෘදුකාංගය යල් පැන ඇත. විස්තර සහ සහාය සඳහා, නිෂ්පාදක අමතන්න.</item>
+        <item>ඔබේ මෝටර් රථයේ මෘදුකාංගය Android Auto ආරක්ෂක පරීක්ෂා කිරීම් සමත් නොවීය. විස්තර සහ සහාය සඳහා, නිෂ්පාදක අමතන්න.</item>
+        <item>ඔබේ මෝටර් රථයේ මෘදුකාංගය Android Auto ආරක්ෂක පරීක්ෂා කිරීම් සමත් නොවීය. මෝටර් රථයේ දිනය සහ වේලාව නිවැරදිව සකසා ඇති බව, සහ Android Auto යාවත්කාලීන කර ඇති බව සහතික කර ගන්න.</item>
+        <item>ක්‍රියාවක කාලය නිමා විය. ඔබ දෝෂ වාර්තාවක් ගෙන ප්‍රතිපෝෂණ ගොනු කළ යුතුය.</item>
+        <item>දියත්කරණය ස්ථාපනය කර නැති බව පෙනේ, ඔබගේ දුරකථනය නිවැරදිව ස්ථාපනය කර තිබේද?</item>
+        <item>ග්‍රැෆික් නල මාර්ගය මේ දැන් අවසන් විය. ඔබ දෝෂ වාර්තාවක් ගෙන ප්‍රතිපෝෂණ ගොනු කළ යුතුය.</item>
+        <item>දුරකථනය වෙතින් වන පණිවිඩවලට මෝටර් රථය ප්‍රතිචාර නොදක්වයි. මෝටර් රථය වැරදි තත්ත්වයක තිබෙනවා විය හැකිය.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>ගුවන් තොටුපොළ</item>
+        <item>ATM</item>
+        <item>බැංකුව</item>
+        <item>බීමහල</item>
+        <item>බස් නැවතුම්පොළ</item>
+        <item>අවන්හල</item>
+        <item>කඳවුරු බිම</item>
+        <item>කනත්ත</item>
+        <item>දේවස්ථානය</item>
+        <item>නගර ශාලාව</item>
+        <item>ආයතනය</item>
+        <item>ඉන්ධන පිරවුම් හල</item>
+        <item>සිල්ලර වෙළඳසැල හෝ සුපිරි වෙළඳසැල</item>
+        <item>හින්දු කෝවිල</item>
+        <item>රෝහල</item>
+        <item>පුස්තකාලය</item>
+        <item>නවාතැන</item>
+        <item>පල්ලිය</item>
+        <item>චිත්‍රපට ශාලාව</item>
+        <item>කෞතුකාගාරය</item>
+        <item>උද්‍යානය</item>
+        <item>නැවතුම්</item>
+        <item>ආගමික ස්ථාන</item>
+        <item>පොලිස් ස්ථානය</item>
+        <item>තැපැල් කාර්යාලය</item>
+        <item>අවන්හල</item>
+        <item>පාසල</item>
+        <item>වෙළෙඳසැල</item>
+        <item>උමං දුම්රිය මාර්ග නැවතුම්පොළ</item>
+        <item>සිනගෝගය</item>
+        <item>දුම්රිය ස්ථානය</item>
+        <item>මාර්ගස්ථ පොළ</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>ජනවාරි</item>
+        <item>පෙබරවාරි</item>
+        <item>මාර්තු</item>
+        <item>අප්‍රේල්</item>
+        <item>මැයි</item>
+        <item>ජූනි</item>
+        <item>ජූලි</item>
+        <item>අගෝස්තු</item>
+        <item>සැප්තැම්බර්</item>
+        <item>ඔක්තෝබර්</item>
+        <item>නොවැම්බර්</item>
+        <item>දෙසැම්බර්</item>
+    </string-array>
+</resources>

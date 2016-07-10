@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AuthConsentActionButton" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/auth_action_button_text_color</item>
+        <item name="android:background">@drawable/common_auth_btn_material</item>
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Button" parent="@style/Base.TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/abc_text_size_button_material</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="ChromeSync.Dialog.Button" parent="@style/ChromeSync.Dialog.Button.Base">
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="CredentialsTypographyButton" parent="@style/CredentialsTypographyBase">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="Games.Activity.Light.Dialog" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="listPreferredItemPaddingLeft">16.0dip</item>
+        <item name="listPreferredItemPaddingRight">16.0dip</item>
+    </style>
+    <style name="Platform.AppCompat" parent="@style/Platform.V14.AppCompat" />
+    <style name="Platform.AppCompat.Light" parent="@style/Platform.V14.AppCompat.Light" />
+    <style name="SmartDevice.Widget.ProgressBar.Large" parent="@android:style/Widget.Holo.ProgressBar.Large" />
+    <style name="SmartDevice.Widget.ProgressBar.Large.Inverse" parent="@android:style/Widget.Holo.Light.ProgressBar.Large.Inverse" />
+    <style name="SmartDevice.Widget.ProgressBar.Small" parent="@android:style/Widget.Holo.ProgressBar.Small" />
+    <style name="SmartDevice.Widget.ProgressBar.Small.Inverse" parent="@android:style/Widget.Holo.Light.ProgressBar.Small.Inverse" />
+    <style name="TextAppearance.StatusBar.EventContent" parent="@android:style/TextAppearance.StatusBar.EventContent" />
+    <style name="TextAppearance.StatusBar.EventContent.Info" parent="@style/TextAppearance.StatusBar.EventContent" />
+    <style name="TextAppearance.StatusBar.EventContent.Line2" parent="@style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textSize">@dimen/notification_subtext_size</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Time" parent="@style/TextAppearance.StatusBar.EventContent" />
+    <style name="TextAppearance.StatusBar.EventContent.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title" />
+    <style name="UdcTextAppearanceButton" parent="@style/UdcTextAppearanceMedium">
+        <item name="android:textSize">@dimen/udc_text_size_button</item>
+        <item name="android:textColor">@color/udc_button_cancel</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="common.Activity.Light.Dialog" parent="@android:style/Theme.Holo.Light.Dialog.MinWidth" />
+    <style name="common.Widget.Base.Button.Auth" parent="@style/Widget.AppCompat.Button">
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="drive_Button" parent="@style/drive_Button_Platform">
+        <item name="android:textSize">@dimen/drive_ButtonBar_TextSize</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="gh_ActivityStyle" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowBackground">@color/gh_help_console_background</item>
+        <item name="gh_selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="textAppearanceSearchResultTitle">@style/gh_textAppearanceSearchResultTitleLight</item>
+    </style>
+    <style name="gh_ActivityStyleWithDarkActionBar" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/gh_help_console_background</item>
+        <item name="gh_selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="textAppearanceSearchResultTitle">@style/gh_textAppearanceSearchResultTitleLight</item>
+    </style>
+    <style name="gh_ActivityStyleWithLightHeaderBackground" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowBackground">@color/gh_header_background_light</item>
+        <item name="gh_selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="textAppearanceSearchResultTitle">@style/gh_textAppearanceSearchResultTitleLight</item>
+    </style>
+    <style name="gh_appCopyrightStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/gh_black_opacity_80_percent</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="gh_appTitleStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/gh_black_opacity_80_percent</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="gh_appVersionStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/gh_black_opacity_60_percent</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="gh_searchViewAutoCompleteTextViewStyleLight" parent="@android:style/Widget.AutoCompleteTextView">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/gh_black_opacity_87_percent</item>
+        <item name="android:textColorHint">@color/gh_black_opacity_30_percent</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">@null</item>
+        <item name="android:minWidth">@dimen/abc_search_view_text_min_width</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/gh_popup_background_material_light</item>
+        <item name="android:imeOptions">actionSearch|flagNoExtractUi</item>
+    </style>
+    <style name="mdm_AllCaps">
+        <item name="android:textAllCaps">@bool/mdm_use_all_caps</item>
+    </style>
+    <style name="mdm_EmergencyCall" parent="@android:style/Widget.Holo.Button.Borderless.Small">
+        <item name="android:textAllCaps">@bool/mdm_use_all_caps</item>
+    </style>
+    <style name="plus_AppsButton" parent="@android:style/Widget.Holo.Light.Button" />
+    <style name="Platform.V14.AppCompat" parent="@style/Platform.V11.AppCompat">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="Platform.V14.AppCompat.Light" parent="@style/Platform.V11.AppCompat.Light">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="common.Widget.Snackbar.Button" parent="@android:style/Widget.Holo.Button.Borderless">
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>

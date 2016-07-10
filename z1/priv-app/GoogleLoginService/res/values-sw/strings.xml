@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Hitilafu kwenye huduma za Google Play</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Programu inahitaji usakinishaji wa huduma za Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Programu inahitaji toleo jipya la huduma za Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Programu inahitaji sasisho kwa programu ya Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Programu inahitaji huduma za Google Play ili iwashwe.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Imeombwa na %1$s</string>
+    <string name="common_google_play_services_install_title">Pata huduma za Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Programu hii haiwezi kuendeshwa bila huduma za Google Play, ambazo hazipo kwenye simu yako.</string>
+    <string name="common_google_play_services_install_text_tablet">Programu hii haiwezi kufanya kazi bila huduma za Google Play, ambazo hazipatikani kwenye kompyuta kibao yako.</string>
+    <string name="common_google_play_services_install_button">Pata huduma za Google Play</string>
+    <string name="common_google_play_services_enable_title">Wezesha huduma za Google Play</string>
+    <string name="common_google_play_services_enable_text">Programu hii haitafanya kazi mpaka utakapowezesha huduma za Google Play.</string>
+    <string name="common_google_play_services_enable_button">Wezesha huduma za Google Play</string>
+    <string name="common_google_play_services_update_title">Sasisha huduma za Google Play</string>
+    <string name="common_android_wear_update_title">Sasisha Android Wear</string>
+    <string name="common_google_play_services_update_text">Programu hii haiwezi kuendeshwa mpaka utakaposasisha huduma za Google Play.</string>
+    <string name="common_android_wear_update_text">Programu hii haitaendeshwa usiposasisha programu ya Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Hitilafu ya Mtandao</string>
+    <string name="common_google_play_services_network_error_text">Muunganisho wa data unahitajika ili kuunganisha kwenye huduma za Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Akaunti Batili</string>
+    <string name="common_google_play_services_invalid_account_text">Akaunti iliyobainishwa haipo kwenye kifaa hiki. Tafadhali chagua akaunti tofauti.</string>
+    <string name="common_google_play_services_unknown_issue">Suala lisilojulikana na huduma za Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Huduma za Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Huduma za Google Play, ambazo baadhi ya programu zako zinategemea, si linganifu na kifaa chako. Tafadhali wasiliana na mtengenezaji kwa usaidizi.</string>
+    <string name="common_google_play_services_update_button">Sasisha</string>
+    <string name="common_signin_button_text">Ingia</string>
+    <string name="common_signin_button_text_long">Ingia ukitumia Google</string>
+    <string name="common_open_on_phone">Fungua kwenye simu</string>
+    <string name="setup_wizard_next_button_label">Inayofuata</string>
+    <string name="setup_wizard_back_button_label">Nyuma</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Ruka</string>
+    <string name="down_button_label">Zaidi</string>
+    <string name="cancel_button_label">Ghairi</string>
+    <string name="try_again_button_label">Jaribu tena</string>
+    <string name="close_button_label">Funga</string>
+    <string name="url_load_unsuccessful_message">Kifaa chako cha Android hakijaunganishwa kwenye huduma ya data. Ili kuona maelezo haya sasa, tembelea %s na kivinjari cha wavuti.</string>
+    <string name="sign_in_agreement">Kwa kuingia, unakubaliana na <annotation id="tos">Mashari ya Huduma</annotation>, <annotation id="google_privacy">Sera ya Faragha</annotation> ya Google, na <annotation id="play_tos">Masharti ya Huduma ya Google Play</annotation>.</string>
+    <string name="android_privacy_policy_title">Sera ya Ziada ya Faragha</string>
+    <string name="google_terms_of_service_title">Sheria na Masharti ya Google</string>
+    <string name="google_privacy_policy_title">Sera ya Google ya Faragha</string>
+    <string name="google_plus_privacy_policy_title">Sera ya Faragha ya Google Plus</string>
+    <string name="google_play_tos_title">Sheria na Masharti ya Google Play</string>
+    <string name="chrome_tos_title">Sheria na Masharti ya Chrome</string>
+    <string name="chrome_privacy_title">Ilani ya Faragha ya Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Kifaa chako cha Android hakijaunganishwa kwenye mtandao wa Wi-Fi. Ili kuona maelezo haya sasa, tembelea %s kwa kivinjari cha wavuti.</string>
+    <string name="services_activity_title">Huduma za Google</string>
+    <string name="services_backup_heading">Hifadhi rudufu</string>
+    <string name="services_location_heading">Eneo</string>
+    <string name="services_security_heading">Usalama</string>
+    <string name="services_personalization_heading">Ugeuzaji kukufaa</string>
+    <string name="services_communication_heading">Mawasiliano</string>
+    <string name="security_verify_apps_summary">Ruhusu Google ikague programu zote zilizosakinishwa kwa tabia hatari zinazoweza kupatikana ambazo zinaweza kuathiri usalama wa kifaa au data yako.</string>
+    <string name="name_title">Jina lako</string>
+    <string name="name_text">Jina lako hutumiwa ili kubinafsisha simu yako na huduma za Google.</string>
+    <string name="first_name">La kwanza</string>
+    <string name="last_name">La mwisho</string>
+    <string name="cant_be_blank">Uga hauwezi kuwa tupu.</string>
+    <string name="sharedUserLabel">Huduma za Google</string>
+    <string name="app_label">Google Account Manager</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Ingia</string>
+    <string name="create_button_label">Pata akaunti</string>
+    <string name="not_now_button_label">Sio sasa</string>
+    <string name="new_button_label">Mpya</string>
+    <string name="existing_button_label">Zilizopo</string>
+    <string name="done">Sawa</string>
+    <string name="edit_text_help">Guza kisanduku chochote cha maandishi ili kuanza uchapishaji</string>
+    <string name="add_a_google_account">Ongeza Akaunti ya Google</string>
+    <string name="captcha_title">Unahitajika Kuingiza CAPTCHA</string>
+    <string name="show_error_title">Hitilafu</string>
+    <string name="server_error">Kulikuwa na tatizo la kuwasiliana na seva za Google.</string>
+    <string name="server_error_help">Jaribu tena baadaye.</string>
+    <string name="network_unreliable">Haiwezi kupata muunganisho thabiti kwa seva.</string>
+    <string name="network_unreliable_help">Huenda hii ikawa tatizo la muda au huenda kifaa chako cha Android hakijawezeshwa huduma za data. Ikiendelea, pigia simu Huduma kwa Wateja.</string>
+    <string name="network_unreliable_help_wifi_only">Hii inaweza kuwa hitilafu ya muda. Jaribu tena au unganisha kwenye mtandao mwingine wa Wi-Fi.</string>
+    <string name="invalid_login_character">Herufi hii si sahihi. Ni 0-9, a-z, A-Z, na vitone pekee vinavyoruhusiwa.</string>
+    <string name="invalid_password_character">Herufi ya nenosiri si sahihi.</string>
+    <string name="calendar">Kalenda ya Google</string>
+    <string name="talk">Mazungumzo ya Google</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Uga hauwezi kuwa tupu.</string>
+    <string name="plus_query_title">Jiunge na Google+</string>
+    <string name="plus_query_text">Google+ hufanya kushiriki kwenye wavuti kuwe kama kushiriki katika hali halisi.</string>
+    <string name="circles_subtitle">Mtiririko wa mambo ambayo unafanya</string>
+    <string name="circles_text">Wasiliana na marafiki wa karibu na ugundue mambo ambayo wanawavutia nyote.</string>
+    <string name="uploads_subtitle">Nakala rudufu za picha kiotomatiki</string>
+    <string name="uploads_text">Hifadhi nakala za picha kadri unavyozipiga, kwenye hifadhi isiyolipishwa na ya faragha.</string>
+    <string name="huddle_subtitle">Hangout ya video na ujumbe</string>
+    <string name="huddle_text">Furahia kutuma ujumbe, picha na simu za video za kikundi bila malipo ukiwa na Hangouts.</string>
+    <string name="plus_declined_button_label">Si sasa</string>
+    <string name="plus_accepted_button_label">Anza</string>
+    <string name="plus_name_check_title">Inawasiliana na Google+...</string>
+    <string name="plus_name_check_text">Huenda ikachukua dakika kadhaa.</string>
+    <string name="plus_faq_title">Karibu Google+!</string>
+    <string name="plus_faq_text" formatted="false">"Kwa Google+, utakuwa na wasifu unaoonekana hadharani wa kuwasaidia marafiki wako kukupata katika mtandao. Mtu yeyote anayejua anwani yako ya barua pepe anaweza kukupata na kutazama wasifu wako. 
+
+Unaweza kutumia vitufe vya +1 kote kwenye wavuti ili kupendekeza vitu kwa ulimwengu. Wasifu wako na +1 zitaonekana hadharani katika utafutaji, kwenye matangazo na kote kwenye wavuti. 
+
+Kwa sasa, wasifu wako utaonyesha jina lako (%s%s). Unaweza kuongeza picha, wasifu, na maelezo mengine baadaye wakati unapoanza kutumia Google+."</string>
+    <string name="profile_info_title">Wasifu wako</string>
+    <string name="profile_text">Toa baadhi ya maelezo ya msingi ya wasifu wako. Unaweza kuongeza picha na maelezo mengine baadaye unapoanza kutumia Google+.</string>
+    <string name="occupation">Kazi</string>
+    <string name="current_city">Mji wa sasa</string>
+    <string name="picassa_info_title">Picasa na Google+</string>
+    <string name="picassa_info_text" formatted="false">Picha na video zako zilizo kwenye Albamu za Mtandao wa Picasa zitapatikana kwenye Google+ na maoni yako yataonekana kwa mfumo wa %s %s badala ya%s . Unapowashirikisha wengine picha zako kwenye Google+, walengwa wanaweza kumshirikisha yeyote mwingine. Mipangilio ya mwonekano wa albamu yako haitabadilika, na kwa wakati wo wote ule unaweza kuzuia kushirikisha wengine.</string>
+    <string name="name_title_plus">Jina lako la Google+</string>
+    <string name="name_title_local">Simu hii ni ya...</string>
+    <string name="name_text_local">Simu hutumia jina lako kubinafsisha baadhi ya programu.</string>
+    <string name="name_progress_title">Subiri kidogo...</string>
+    <string name="bad_name_title">Tumia jina hili?</string>
+    <string name="invalid_name_title">Haiwezi kutumia jina hili</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Kama unataka hili liwe jina lako la Google+, timu yetu itahitaji kulikagua. Kama linakiuka Sera yetu ya Majina, huenda matumizi ya wasifu wako yakasimamishwa kwa muda. Hii inaweza kupunguza uwezo wako wa kutumia bidhaa za Google ambazo zinahitaji wasifu unaotumika. 
+
+ "<annotation id="learn_more">Pata maelezo zaidi</annotation></string>
+    <string name="invalid_name_text">Huwezi kutumia jina hili na Google+ kwa sababu lina vibambo batili.</string>
+    <string name="invalid_nickname_text">Huwezi kutumia jina hili na Google+ kwa sababu lina vibambo batili. Unajaribu kutumia jina la utani, jina la awali, au cheo? Unaweza kuziongeza kwenye maelezo yako mafupi baada ya kujiunga.</string>
+    <string name="invalid_other_text">Jina hili haliwezi kutumiwa na Google+.</string>
+    <string name="bad_name_agree_text">Ninaelewa na ninataka kutumia jina hili.</string>
+    <string name="bad_name_decline_button_label">Sasisha jina</string>
+    <string name="bad_name_agree_button_label">Wasilisha jina kwa ajili ya mapitio</string>
+    <string name="bad_name_skip_button_label">Ruka Google+</string>
+    <string name="photo_title">Picha yako</string>
+    <string name="photo_text">Picha hii itatumika katika rekodi yako ya wasiliani. Unaweza kuibadilisha baadaye katika programu ya People.</string>
+    <string name="photo_text_es">Piga picha ambayo marafiki wako wataona kwenye Google+. Unaweza kuchagua picha mpya baadaye.</string>
+    <string name="photo_button_label">Piga picha</string>
+    <string name="retake_photo_button_label">Piga picha tena</string>
+    <string name="photo_failure">Haikuweza kuzindua kamera.</string>
+    <string name="crop_failure">Haikuweza kupogoa picha.</string>
+    <string name="photo_description">Picha yako</string>
+    <string name="communicating_message">Simu yako inawasiliana na Google ili kuhifadhi taarifa kwenye akaunti yako. Hatua hii inaweza kuchukua hadi dakika tano.</string>
+    <string name="creating_account_title">Inahifadhi akaunti…</string>
+    <string name="checking_username_message">"Simu yako inawasiliana na Google ili kuona ikiwa jina la mtumiaji linalohitajika linapatikana.
+
+Hatua hii inaweza kuchukua dakika kadhaa."</string>
+    <string name="plus_failure_title">Jiunge na Google+ baadaye</string>
+    <string name="plus_failure_new_account_text">Akaunti yako ya Google imeundwa, lakini ombi lako la kujiunga na Google+ halikufaulu. Jaribu tena baadaye kwa kutumia kivinjari chochote katika plus.google.com</string>
+    <string name="plus_failure_text">Ombi lako la kujiunga na Google+ halikufanikiwa. Jaribu tena baadaye kwa kutumia kivinjari chochote kwenye plus.google.com.</string>
+    <string name="provisioned_login_title">Weka nenosiri</string>
+    <string name="provisioned_welcome">Jambo,%s!</string>
+    <string name="provisioned_welcome_2">"Weka nenosiri lako la: 
+%%s"</string>
+    <string name="provisioned_incorrect_login">Sio %s?</string>
+    <string name="login_title">Charaza Barua pepe na Nenosiri</string>
+    <string name="login_task_title">Unaingia</string>
+    <string name="password">Nenosiri</string>
+    <string name="restore_wifi">Rejesha na uunganishe kwenye mitandao ya Wi-Fi inayojulikana.</string>
+    <string name="sign_in_agreement_multi_user">Kwa kuingia, unakubali kutii Sheria na Masharti ya <annotation id="tos">Google</annotation>, <annotation id="google_privacy">Sera ya Faragha</annotation>, na <annotation id="play_tos">Sheria na Masharti ya Google Play</annotation>". 
+
+Kumbuka: Mtumiaji mwingine yeyote anaweza kukubali vibali vilivyosasishwa vya programu kwa niaba yako. Kama ilivyo kwenye kompyuta yoyote, unafaa tu kushiriki kompyuta kibao hii na watu unaowaamini."</string>
+    <string name="sign_in_agreement_with_chrome">Kwa kuingia, unakubaliana na <annotation id="tos">Sheria na Masharti</annotation> na <annotation id="google_privacy">Sera ya Faragha</annotation> ya Google, <annotation id="chrome_tos">Sheria na Masharti</annotation> na <annotation id="chrome_privacy">Ilani ya Faragha</annotation> ya Chrome, na <annotation id="play_tos"> Sheria na Masharti</annotation> ya Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">"Kwa kuingia, unakubaliana na  Sheria na Masharti ya "<annotation id="tos">Google</annotation> na <annotation id="google_privacy">Sera ya Faragha</annotation>, Sheria na Masharti ya <annotation id="chrome_tos">Chrome</annotation> na <annotation id="chrome_privacy">Ilani ya Faragha</annotation>, na Sheria na Masharti ya <annotation id="play_tos">Google Play</annotation>". 
+
+Kumbuka: Mtumiaji mwingine yeyote anaweza kukubali vibali vilivyosasishwa vya programu kwa niaba yako. Kama ilivyo kwenye kompyuta yoyote, unafaa tu kushiriki kompyuta kibao hii na watu unaowaamini."</string>
+    <string name="create_prompt">" Huna akaunti ya Google? "<annotation id="create_account"> Fungua akaunti sasa</annotation></string>
+    <string name="sign_in_with_google_account_short">" Ingia ndani kwa kutumia Akaunti yako ya Google"</string>
+    <string name="invalid_username">Maandishi uliyoweka si jina sahihi la mtumiaji.</string>
+    <string name="captcha_instructions">Charaza maandishi unayoyaona hapa:</string>
+    <string name="create_google_account">Chagua jina la mtumiaji</string>
+    <string name="create_google_account_text">Akaunti yako ya Google huja ikiwa na Gmail, barua pepe kutoka Google. Barua pepe hii hufanya kazi kwenye kifaa chochote, huzuia barua taka, na mengine.</string>
+    <string name="account_already_has_gmail">Akaunti tayari ina Gmail</string>
+    <string name="error_account_disabled">"Akaunti hii imezimwa. 
+
+ (Kwa maelezo zaidi, tembelea https://google.com/accounts ukitumia kivinjari cha wavuti.)"</string>
+    <string name="no_network">Huna muunganisho wa mtandao.</string>
+    <string name="no_network_help">Hili linaweza kuwa tatizo la muda au huenda kifaa chako cha Android hakijawezeshwa huduma za data. Jaribu tena wakati umeunganishwa kwa mtandao wa simu ya mkononi, au unganisha kwenye mtandao wa Wi-Fi.</string>
+    <string name="no_network_help_wifi_only">Hii inaweza kuwa hitilafu ya muda. Jaribu tena au unganisha kwa mtandao mwingine wa Wi-Fi.</string>
+    <string name="error_login_failed">"Jina lako la mtumiaji na nenosiri haziambatani. Jaribu tena.
+
+Ili kurejesha maelezo ya akaunti yako, nenda google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Akaunti hii haijathibitishwa. Kagua barua pepe yako na ufuate kiungo kilichojumuishwa ili kuthibitisha akaunti hii.
+
+(Ili kuokoa maelezo ya akaunti yako, nenda kwa http://www.google.com/accounts/recovery katika kompyuta yako.)"</string>
+    <string name="exit_menu_item">Ondoka katika kuingia kupitia kivinjari</string>
+    <string name="creating_profile">Inabuni wasifu wako...</string>
+    <string name="checking_account">Inakagua upatikanaji...</string>
+    <string name="is_not_available">Jina la mtumiaji <b>^1</b> tayari linatumika.</string>
+    <string name="suggestions_hint">Gusa ili kupata mapendekezo</string>
+    <string name="suggest_username_next_button_label">Badilisha jina la mtumiaji</string>
+    <string name="hint_size">" "<b>^1</b> ina chini ya vibambo 6 au zaidi ya 30.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> haina herufi zozote.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" inawezakuwa tu na herufi,
+nambari, na nukta."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> haitumii Gmail.</string>
+    <string name="sign_in_browser">Ingia kwenye Kivinjari</string>
+    <string name="alternatives_list_title">Majina ya watumiaji yanayopendekezwa</string>
+    <string name="password_title">Tunga nenosiri</string>
+    <string name="choose_a_password">Nenosiri</string>
+    <string name="confirm_password">Charaza upya nenosiri</string>
+    <string name="too_short">" Fupi sana"</string>
+    <string name="security_questions_title">Maswali ya usalama</string>
+    <string name="answer">" "<b>Jibu</b></string>
+    <string name="password_mismatch">Manenosiri hayakulingana. Jaribu tena.</string>
+    <string name="eight_chars_min">Herufi zisiwe chini ya 8</string>
+    <string name="verify_your_profile">Thibitisha wasifu wako</string>
+    <string name="error_not_logged_in">Mtumiaji hajaingia.</string>
+    <string name="error_username_unavailable">Jina hili la mtumiaji tayari linatumika.</string>
+    <string name="error_bad_password">Nenosiri ni dhaifu mno au linajumuisha herufi batili. Jaribu tena.</string>
+    <string name="error_bad_username">Jina la mtumiaji ambalo si sahihi.</string>
+    <string name="existing_account_error_title">Akaunti tayari ipo</string>
+    <string name="existing_account_error_text">Tayari kuna akaunti ya ^1 kwenye kifaa hiki cha Android.</string>
+    <string name="submission_title">Samahani...</string>
+    <string name="submission_error_text">Kulikuwa na hitilafu. Jaribu tena.</string>
+    <string name="sync_intro_title">Usawazishaji Akaunti</string>
+    <string name="account_tos_title">Akaunti ya kumalizia</string>
+    <string name="account_tos_plus_title">maliza kujiunga na Google+</string>
+    <string name="i_accept">Ninakubali.</string>
+    <string name="i_decline">Usifungue akaunti</string>
+    <string name="allow_personalized_content">Ruhusu Google kutumia taarifa yako ili kubinafsisha maudhui na matangazo kwenye mtandao usio wa Google.</string>
+    <string name="enable_web_history">Washa historia ya wavuti</string>
+    <string name="learn_more"><annotation id="learn_more"> Pata maelezo zaidi </annotation></string>
+    <string name="account_creation_tos">Kwa kuendelea, unakubali <annotation id="tos">Sheria na Masharti</annotation>, <annotation id="google_privacy">Sera ya Faragha</annotation> ya Google, na <annotation id="play_tos">Sheria na Masharti</annotation> ya Google Play.</string>
+    <string name="account_creation_tos_with_chrome">Kwa kuendela, unakubali <annotation id="tos">Sheria na Masharti</annotation> na <annotation id="google_privacy">Sera ya Faragha</annotation> ya Google, <annotation id="chrome_tos">Sheria na Masharti</annotation> na <annotation id="chrome_privacy">Notisi ya Faragha</annotation>" ya Chrome, na  "<annotation id="play_tos">Sheria na Masharti</annotation> ya Google Play.</string>
+    <string name="gender_prompt">Jinsia</string>
+    <string name="gender_hint">Jinsia</string>
+    <string name="account_pre_intro_title">Una akaunti ya Google?</string>
+    <string name="account_pre_intro_default_message">"Je, una Akaunti ya Google?
+
+Kama unatumia Gmail au Google Apps, jibu Ndiyo."</string>
+    <string name="account_pre_intro_yes">Ndiyo</string>
+    <string name="account_pre_intro_no">Hapana</string>
+    <string name="account_intro_title">Akaunti ya Google</string>
+    <string name="account_intro_required_title">Imetiwa nguvu na Google</string>
+    <string name="account_intro_recommended_title">Tumia Google</string>
+    <string name="account_intro_default_message">Usipoteze vitu vyako tena. Akaunti ya Google huweka kila kitu salama.</string>
+    <string name="account_intro_simple_message">ungependa kuongeza akaunti iliyopo au kufungua nyingine mpya?</string>
+    <string name="account_intro_learn_more">Pata maelezo zaidi</string>
+    <string name="learn_more_title">Pata maelezo zaidi</string>
+    <string name="learn_more_account_intro">"Akaunti ya  Google hukuwezesha:
+
+"<li><ul>Kuona na kupanga maelezo yako—pamoja na historia yako ya utafutaji—kutoka mahali popote.</ul></li>"
+
+"<li><ul>Kuhifadhi nakala rudufu ya data yako kiotomatiki, kama barua pepe, anwani, muziki na picha.</ul></li>"
+
+"<li><ul>Tumia huduma za Google kwa urahisi kutoka mahali popote—pamoja na Anwani, kalenda, ramani, na zaidi.</ul></li></string>
+    <string name="learn_more_account_intro_title">Kuhusu Akaunti za Google</string>
+    <string name="learn_more_bad_name">Google+ inakuhitaji utumie jina lako la kawaida. Wasifu wako unapaswa kumwakilisha mtu mmoja-sio biashara, shirika au familia-na unapaswa kujumuisha jina lako la kwanza na la mwisho katika lugha moja bila kuonyesha vyeo vya kitaaluma au alama za maandishi zisizo muhimu. Baada ya kufungua akaunti yako, unaweza kuingiza majina yako mengine au ya utani ambayo unahusishwa nayo katika sehemu ya Majina Mengine katika wasifu wako.</string>
+    <string name="learn_more_bad_name_title">Kuhusu Sera ya Majina</string>
+    <string name="wait_for_device_country_title">Usanidi wa akaunti</string>
+    <string name="wait_for_device_country_msg">Kukusanya maelezo kuhusu simu yako. Hatua hii inaweza kuchukua hadi sekunde 30.</string>
+    <string name="recovery_title">Urejeshaji nenosiri wa Google</string>
+    <string name="recovery_wait_title">Inawasiliana na Google...</string>
+    <string name="cannot_talk_to_server_msg">Kifaa hakikuweza kufikia Google.</string>
+    <string name="recovery_skip_label">Ruka</string>
+    <string name="recovery_retry_label">Jaribu Tena</string>
+    <string name="recovery_message_set">"Iwapo utasahau nenosiri lako, utataka njia ya kulirejesha.
+
+Google inatoa chaguo za kurejesha nenosiri lako kupitia SMS au anwani mbadala ya barua pepe.
+
+Hatua hii inapendekezwa sana. "<annotation id="help_url">Pata maelezo zaidi</annotation></string>
+    <string name="recovery_message_verify">"Manenosiri ni rahisi kusahau.
+
+Thibitisha nambari yako ya simu au anwani mbadala ya barua pepe sasa. Huku kunakusaidia kurejesha ufikiaji wa Maudhui yako kwenye Google na Google Play. "<annotation id="help_url">Pata maelezo zaidi</annotation></string>
+    <string name="recovery_yes_button_label">Sanidi chaguo za urejeshaji</string>
+    <string name="recovery_yes_button_label_verify">Thibitisha chaguo za urejeshaji</string>
+    <string name="recovery_later_button_label">Siyo sasa</string>
+    <string name="recovery_input_screen_message">Maelezo haya ya urejeshaji yanatumika kwenye %s.</string>
+    <string name="secondary_email_hint">Barua pepe mbadala</string>
+    <string name="secondary_email_invalid">Anwani ya barua pepe si sahihi</string>
+    <string name="secondary_email_same_as_primary">Haiwezi kuwa sawa na anwani ya msingi</string>
+    <string name="phone_number_hint">Nambari ya simu</string>
+    <string name="phone_number_invalid_character">Nambari ya simu ina herufi isiyo sahihi</string>
+    <string name="phone_number_invalid">Nambari ya simu si sahihi</string>
+    <string name="country_invalid">Nchi hii hairuhusiwi</string>
+    <string name="recovery_server_error">Hitilafu wakati wa kuzungumza na seva. Tafadhali jaribu tena baada ya muda mfupi.</string>
+    <string name="account_recovery_info">Ikiwa utapoteza neno lako la siri, unaweza kujibu swali la usalama na linki ya kuseti upya ikatumwa kwenye anwani yako nyingine ya barua pepe.</string>
+    <string name="secondary_email_label">Anwani ya barua pepe ya kurejesha akaunti</string>
+    <string name="invalid_email">"Anwani ya barua pepe uliyoweka si sahihi.
+ Mfano: joe@example.com"</string>
+    <string name="invalid_email_primary">Anwani ya barua pepe ya kurejesha akaunti haiwezi kuwa sawa na ya akaunti unayofungua.</string>
+    <string name="backup_consent_message">"Tumia akaunti yako ya Google ya kuhifadhi nakala rudufu za programu zako, mipangilio (kama vile alamisho na manenosiri ya Wi-Fi), na data nyingine. Ikiwa awali ulikuwa umehifadhi nakala rudufu kwenye akaunti yako, unaweza kuzirejesha kwenye simu hii sasa. 
+
+Unaweza kubadilisha mipangilio yako ya kuhifadhi nakala rudufu wakati wowote katika Mipangilio."</string>
+    <string name="backup_consent_message_no_restore">"Tumia akaunti yako ya Google kuhifadhi nakala rudufu za programu zako, mipangilio yako (kama vile alamisho na manenosiri ya Wi-Fi), na data nyingine.
+
+Unaweza kubadilisha mipangilio yako ya kuhifadhi nakala rudufu wakati wowote katika Mipangilio."</string>
+    <string name="restoring_title">Inarejesha...</string>
+    <string name="restoring_message">Simu yako inawasiliana na Google ili kurejesha akaunti yako. Hatua hii inaweza kuchukua muda.</string>
+    <string name="gls_notification_login_error">Gusa ili kuingia kwenye akaunti yako.</string>
+    <string name="gls_ui_add_account_title">Weka akaunti</string>
+    <string name="gls_ui_activity_title">Ingia</string>
+    <string name="gls_ui_activity_title_browser_signin">Ingia</string>
+    <string name="gls_ui_activity_title_checking_in">Inaandaa...</string>
+    <string name="gls_ui_activity_authenticating">Inathibitisha...</string>
+    <string name="gls_dmagent_activity_activate_message">" Kikoa chako kinahitaji udhibiti wa kifaa cha mkononi. Washa programu ya \"Sera ya Kifaa ya Google Apps\" ili utekeleze sera za usalama zinazohitajika na akaunti ya  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Washa</string>
+    <string name="gls_dmagent_activity_download_message">" Kikoa chako kinahitaji udhibiti wa kifaa cha mkononi. Sakinisha programu ya \"Sera ya Kifaa ya Google Apps\" ili utekeleze sera za usalama zinazohitajika na akaunti ya  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">Pakua</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Ulicharaza nenosiri lisilokuwa sahihi au akaunti yako imebadilika. Charaza upya nenosiri lako.</string>
+    <string name="permlab_googleAuthPassword">fikia kwa nenosiri la akaunti za Google</string>
+    <string name="permdesc_googleAuthPassword">Huruhusu programu kufikia moja kwa moja manenosiri ya akaunti za Google ulizosanidi.</string>
+    <string name="permlab_googleMailSwitch">chagua bidhaa ya Gmail au Google Mail</string>
+    <string name="permdesc_googleMailSwitch">Huruhusu programu kubadilisha jina lililoonyeshwa kati ya chapa ya \"Gmail\" na \"Google Mail\".</string>
+    <string name="sync_item_title">Sawazisha %s</string>
+    <string name="grant_credentials_permission_message_footer">Wanaomba ruhusa ya:</string>
+    <string name="grant_credentials_permission_message_app">Programu hizi zinataka kufikia akaunti yako ya Google kuanzia sasa:</string>
+    <string name="grant_permissions_header_text">Ombi la kibali</string>
+    <string name="allow">Ruhusu kufikia</string>
+    <string name="deny">La shukrani</string>
+    <string name="permission_request_notification_with_subtitle">"Idhini imeombwa
+kwa akaunti%s"</string>
+    <string name="notification_title">Hitilafu ya kuingia ya %1$s</string>
+    <string name="account_setup_title">Akaunti ya Google</string>
+    <string name="login_activity_title">Ingia</string>
+    <string name="relogin_activity_title">Charaza upya nenosiri</string>
+    <string name="show_error_activity_title">Haikuweza kuingia</string>
+    <string name="login_activity_task_title">Inaingia…</string>
+    <string name="login_activity_task_msg">Hatua hii inaweza kuchukua dakika kadhaa.</string>
+    <string name="prepare_account_setup_task_title">Inaandaa kuanzisha akaunti...</string>
+    <string name="prepare_account_setup_task_msg">Hatua hii inaweza kuchukua dakika kadhaa.</string>
+    <string name="sync_intro_activity_title">Sawazisha akaunti yako</string>
+    <string name="username">Barua pepe</string>
+    <string name="error_invalid_second_factor">Tumia nenosiri mahususi la programu badala ya nenosiri la akaunti yako ya kawaida.</string>
+    <string name="error_needs_browser">Ili ufikie akaunti yako, sharti uingie kwenye wavuti. Gusa Inayofuata ili uingie kupitia Kivinjari.</string>
+    <string name="google_play_opt_in">Nijulishe kuhusu taarifa na ofa mpya kutoka Google Play.</string>
+    <string name="google_settings_header_title">Faragha</string>
+    <string name="maps_settings_title">Ramani &amp; Latitude</string>
+    <string name="location_settings_title">Eneo</string>
+    <string name="search_settings_title">Tafuta</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Matangazo</string>
+    <string name="location_network_based">Huduma ya Google ya kutambua eneo</string>
+    <string name="location_neighborhood_level">Ruhusu data ya eneo isiyokutambulisha itumwe kwa Google. Ruhusu pia programu zilizoruhusiwa kutumia data kutoka vyanzo kama vile Wi-Fi na mitandao ya vifaa vya mkononi ili kukadiria mahali ulipo.</string>
+    <string name="use_location_title">Eneo na utafutaji wa Google</string>
+    <string name="use_location_summary">Ruhusu Google itumie eneo lako kuboresha matokeo ya utafutaji na huduma zingine</string>
+    <string name="backup_consent_yes_agree">Tumia Akaunti yako ya Google kuhifadhi nakala rudufu za programu zako, mipangilio (kama vile alamisho na manenosiri ya Wi-Fi), na data nyingine.</string>
+    <string name="restore_consent_yes_agree">Leta programu, mipangilio, na data nyingine kwenye simu hii ambayo ulihifadhi nakala rudufu hapo awali hadi kwenye Akaunti yako ya Google.</string>
+    <string name="audit_logging_summary">Tuma matukio ya kifaa na maelezo ya utatuaji kiotomatiki kwenye Google ili kusaidia kuboresha bidhaa zetu na kulinda kifaa chako.</string>
+    <string name="no_back_msg">Haiwezi kurudi kwenye hatua ya awali.</string>
+    <string name="setup_wizard_title">Utaratibu Uliofupishwa wa Kusanidi</string>
+    <string name="setup_wizard_services_activity_title">Huduma za Google</string>
+    <string name="setup_wizard_services_description">Huduma hizi hufanya Google ikufanyie kazi, na unaweza kuziwasha au kuzizima wakati wowote. Data itatumika kulingana na <annotation id="google_privacy">Sera ya Faragha</annotation> ya Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Hifadhi nakala na urejeshe</string>
+    <string name="setup_wizard_services_location_heading">Mahali</string>
+    <string name="setup_wizard_services_communication_heading">Mawasiliano</string>
+    <string name="setup_wizard_services_backup"><b>Hifadhi nakala rudufu za simu yako za programu, data ya programu, mipangilio, kamusi za binafsi na manenosiri ya Wi-Fi</b>"  kwa kutumia Akaunti yako ya Google ili uweze kurejesha kwa urahisi baadaye. "<annotation id="backup_details">Pata maelezo zaidi</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Hifadhi nakala rudufu za programu zako, data ya programu, mipangilio, kamusi za binafsi na manenosiri ya Wi-Fi</b> kwa kutumia Akaunti yako ya Google ili uweze kurejesha kwa urahisi baadaye.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Data hujumuisha programu, mipangilio ya programu, mipangilio ya mfumo, na manenosiri ya Wi-Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Unapowasha uhifadhi otomatiki wa nakala rudufu, data ya kifaa chako huhifadhiwa mara kwa mara kwenye Akaunti yako ya Google. Nakala rudufu zinaweza kujumuisha maelezo katika folda za data za programu yako, kama vile mapendeleo, mipangilio, ujumbe, picha, na faili nyinginezo.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Tumia huduma ya Google ya utambuzi wa eneo</b> ili usaidie programu kutambua ulipo. Hii inamaanisha kutuma data ya eneo kwa Google bila kukutambulisha, hata wakati hakuna programu zinazofanya kazi. <annotation id="location_details">Pata maelezo zaidi</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Huduma ya Google ya utambuzi wa eneo hutumia vyanzo kama Wi-Fi na mitandao ya simu za mkononi ili kusaidia kukisia mahali kifaa chako kilipo kwa haraka na kwa usahihi zaidi. Unapowasha huduma za utambuzi wa eneo za Google, kifaa chako huingia katika hali ambayo hutumia Wi-Fi na mitandao ya simu za mkononi kutoa taarifa za mahali. Unaweza kuzima hii kwenye mipangilio ya mahali kwa kuchagua hali ambayo hutumia GPRS pekee, ambayo wakati mwingine huitwa hali ya Kifaa tu.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Saidia kuboresha huduma za utambuzi wa eneo</b> kwa kuruhusu programu na huduma ziangalie mitandao hata wakati Wi-Fi imezimwa.</string>
+    <string name="setup_wizard_services_location_footnote">Huduma ya Google ya kutambua eneo hutumia Wi-Fi na mawimbi mengine kugundua eneo kwa usahihi na kwa haraka zaidi, mara nyingi ikitumia kiasi kidogo cha nishati ikilinganishwa na GPS. Baadhi ya data inaweza kuwa imehifadhiwa kwenye kifaa chako. Data inaweza kukusanywa hata wakati hakuna programu zinazotumika.</string>
+    <string name="setup_wizard_services_play"><b>Nipe taarifa za punde zaidi</b> kuhusu habari na ofa kutoka Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Saidia kuboresha Android yako</b> kwa kuitumia Google data ya uchunguzi na matumizi moja kwa moja. Maelezo haya hayatatumika kukutambua na husaidia timu zinazofanyia kazi masuala kama muda wa matumizi ya betri, ubora wa programu na vipengele vipya vya Google.<annotation id="usage_reporting_details">Pata maelezo zaidi</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Haya ni maelezo ya jumla kuhusu kifaa chako na namna unavyokitumia, kama vile kiwango cha betri,huwa unatumia programu zako mara ngapi, ubora na muda wa miunganisho yako ya mtandao (kama ya simu za mkononi, Wi-Fi, na Bluetooth), na ripoti za kushindwa kufanya kazi ikiwa mambo hayafanyiki inavyopaswa. Yatatumika kuboresha bidhaa na huduma za Google kwa kila mtu, na hayatahusishwa na Akaunti yako ya Google. Baadhi ya maelezo yaliyojumuishwa yatawasaidia washirika, kama vile wasanidi programu wa Android, kutengeneza programu zao na bidhaa vyema pia.
+
+Unaweza kuwasha au kuzima kipengele hiki wakati wowote kwenye programu ya Mipangilio ya Google. Hii haiathiri uwezo wa kifaa chako wa kutuma maelezo kinachohitaji ili kipokee huduma muhimu kama vile sasisho za mfumo na usalama."</string>
+    <string name="setup_wizard_services_agreement">Simu hii pia inaweza kupokea na kusanikisha sasisho na programu kutoka Google, mtoa huduma, na mtengenezaji wa simu yako. Baadhi ya programu zinaweza kupakuliwa na kusanikishwa ikiwa utaendelea, na unaweza kuziondoa wakati wowote.</string>
+</resources>

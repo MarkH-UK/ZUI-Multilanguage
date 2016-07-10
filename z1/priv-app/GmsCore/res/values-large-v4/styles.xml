@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="@style/Base.Theme.AppCompat.Dialog.FixedSize" />
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="@style/Base.Theme.AppCompat.Light.Dialog.FixedSize" />
+    <style name="Theme_Wallet.DialogWhenLarge" parent="@style/Theme_Wallet">
+        <item name="layoutWalletButtonBar">@layout/wallet_view_button_bar</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme_Wallet_Light.DialogWhenLarge" parent="@style/Theme_Wallet_Light">
+        <item name="layoutWalletButtonBar">@layout/wallet_view_button_bar</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="TpPinPad">
+        <item name="android:layout_width">360.0dip</item>
+    </style>
+</resources>

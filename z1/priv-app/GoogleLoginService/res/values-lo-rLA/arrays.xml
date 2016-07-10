@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>ເລືອກຄຳຖາມຄວາມປອດໄພ</item>
+        <item>ເລກໝາຍໂທລະສັບເລກໝາຍທຳອິດ?</item>
+        <item>ຊື່ໝູ່ທີ່ດີທີ່ສຸດໃນໄວເດັກ?</item>
+        <item>ຊື່ຄູຜູ່ທຳອິດ?</item>
+        <item>ຊື່ຫົວໜ້າໃນບ່ອນເຮັດວຽກບ່ອນທໍາອິດ?</item>
+        <item>ເລກທະບຽນຍານພາຫະນະ?</item>
+    </string-array>
+    <string-array name="passwordStrength">
+        <item>ງ່າຍໂພດ</item>
+        <item>ປານກາງ</item>
+        <item>ດີ</item>
+        <item>ດີເລີດ</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>ຊາຍ</item>
+        <item>ຍິງ</item>
+        <item>ອື່ນໆ</item>
+    </string-array>
+</resources>

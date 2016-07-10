@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_solid">#ffededed</color>
+    <color name="notification_bg_color">#ff000000</color>
+    <color name="disabled_color">#ffcccccc</color>
+    <color name="canelbtn">#ff999999</color>
+    <color name="completebtn">#ff1499f7</color>
+    <color name="preference_normal_font">#ff333333</color>
+    <color name="preference_small_font">#ffb2b2b2</color>
+    <color name="split_color">#ffeaeaea</color>
+    <color name="list_item_normal_backgound_color">#fffafafa</color>
+    <color name="list_item_pressed_backgound_color">#fff1f1f1</color>
+    <color name="list_item_first_head_text_color">#ff333333</color>
+    <color name="list_item_second_head_text_color">#ffb2b2b2</color>
+    <color name="main_title_color">#ff323232</color>
+    <color name="context_background">#ffeaeaea</color>
+    <color name="btn_enable_color">#ff1499f7</color>
+    <color name="btn_disable_color">#661499f7</color>
+</resources>

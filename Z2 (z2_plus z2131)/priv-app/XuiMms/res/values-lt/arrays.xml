@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>jokios temos</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sek.</item>
+        <item>2 sek.</item>
+        <item>3 sek.</item>
+        <item>4 sek.</item>
+        <item>5 sek.</item>
+        <item>6 sek.</item>
+        <item>7 sek.</item>
+        <item>8 sek.</item>
+        <item>9 sek.</item>
+        <item>10 sek.</item>
+        <item>Kitas</item>
+    </string-array>
+</resources>

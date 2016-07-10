@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kavárna</item>
+        <item>Čerpací stanice</item>
+        <item>Kino</item>
+        <item>Ubytování</item>
+        <item>Noční klub</item>
+        <item>Muzeum</item>
+        <item>Restaurace</item>
+        <item>Nákupní centrum</item>
+        <item>Prodejna</item>
+        <item>Potraviny či supermarket</item>
+        <item>Jiné</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>Slabé</item>
+        <item>Uspokojivé</item>
+        <item>Dobré</item>
+        <item>Silné</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Vydání</item>
+        <item>Vývojář</item>
+        <item>Maloobchod</item>
+        <item>Ukázka</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>V telefonu a autě je spuštěn nekompatibilní software. Podrobnosti naleznete na adrese &lt;a href="android.com/auto">android.com/auto&lt;/a>.</item>
+        <item>Auto navrhlo nesprávnou sadu konfigurací zvuku nebo videa.</item>
+        <item>"Připojení USB nefunguje správně. Další postup:
+
+• Zkontrolujte, zda je kabel na obou stranách zapojen správně.
+• Zkontrolujte, zda se jedná o datový kabel USB.
+• Zkontrolujte, zda je v autě i v telefonu správně nastaveno datum a čas."</item>
+        <item>Aplikace Android Auto v autě přestala fungovat.</item>
+        <item>Relace aplikace Android Auto byla na žádost ukončena.</item>
+        <item>Software auta je pravděpodobně zastaralý. Další podrobnosti a podporu vám poskytne výrobce.</item>
+        <item>Software auta neprošel bezpečnostními kontrolami aplikace Android Auto. Další podrobnosti a podporu vám poskytne výrobce.</item>
+        <item>Software auta neprošel bezpečnostními kontrolami aplikace Android Auto. Zkontrolujte, zda je v autě správně nastaveno datum a čas a zda je aplikace Android Auto aktualizovaná.</item>
+        <item>Časový limit akce vypršel. Doporučujeme vám použít hlášení o chybách a odeslat zpětnou vazbu.</item>
+        <item>Zdá se, že nemáte nainstalovanou aplikaci Launcher. Je váš telefon nastaven správně?</item>
+        <item>Ovladač grafiky právě selhal. Doporučujeme vám použít hlášení o chybách a odeslat zpětnou vazbu.</item>
+        <item>Auto nereaguje na zprávy z telefonu. Je možné, že autu není dobře.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Letiště</item>
+        <item>Bankomat</item>
+        <item>Banka</item>
+        <item>Bar</item>
+        <item>Autobusová zastávka</item>
+        <item>Kavárna</item>
+        <item>Kemp</item>
+        <item>Hřbitov</item>
+        <item>Kostel</item>
+        <item>Radnice</item>
+        <item>Podnik</item>
+        <item>Čerpací stanice</item>
+        <item>Potraviny či supermarket</item>
+        <item>Hinduistický chrám</item>
+        <item>Nemocnice</item>
+        <item>Knihovna</item>
+        <item>Ubytování</item>
+        <item>Mešita</item>
+        <item>Kino</item>
+        <item>Muzeum</item>
+        <item>Park</item>
+        <item>Parkoviště</item>
+        <item>Modlitební místo</item>
+        <item>Policejní stanice</item>
+        <item>Pošta</item>
+        <item>Restaurace</item>
+        <item>Škola</item>
+        <item>Prodejna</item>
+        <item>Stanice metra</item>
+        <item>Synagoga</item>
+        <item>Vlakové nádraží</item>
+        <item>Stanice veřejné dopravy</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>leden</item>
+        <item>únor</item>
+        <item>březen</item>
+        <item>duben</item>
+        <item>květen</item>
+        <item>červen</item>
+        <item>červenec</item>
+        <item>srpen</item>
+        <item>září</item>
+        <item>říjen</item>
+        <item>listopad</item>
+        <item>prosinec</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Ukončit sdílení</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>Bez časového omezení</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Ukončit sdílení</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Zvolte bezpečností otázku</item>
+        <item>První telefonní číslo?</item>
+        <item>Jméno nejlepšího kamaráda z dětství?</item>
+        <item>Jméno prvního učitele?</item>
+        <item>Jméno šéfa v první práci?</item>
+        <item>SPZ auta?</item>
+    </string-array>
+</resources>

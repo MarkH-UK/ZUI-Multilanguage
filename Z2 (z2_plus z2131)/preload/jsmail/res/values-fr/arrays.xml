@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Répondre</item>
+        <item>Répondre à tous</item>
+        <item>Transférer</item>
+    </string-array>
+    <string-array name="email_item_txt_line_size">
+        <item>Une ligne</item>
+        <item>Deux lignes</item>
+        <item>Trois lignes</item>
+        <item>Quatre lignes</item>
+        <item>Cinq lignes</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Minuscule</item>
+        <item>Petite</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Très grande</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Récent</item>
+        <item>Format</item>
+        <item>Nom</item>
+        <item>De</item>
+        <item>Date</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Système</item>
+        <item>Messages rapides</item>
+        <item>Tous les dossiers</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Conversation suivante</item>
+        <item>Conversation précédente</item>
+        <item>Liste des conversations</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Afficher les éléments archivés seulement</item>
+        <item>Afficher les éléments supprimés seulement</item>
+        <item>Afficher les éléments archivés et les éléments supprimés</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Afficher la conversation suivante après la suppression</item>
+        <item>Afficher la conversation précédente après la suppression</item>
+        <item>Afficher la liste des conversations après la suppression</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Afficher les éléments archivés seulement</item>
+        <item>Afficher les éléments supprimés seulement</item>
+        <item>Afficher les éléments archivés et les éléments supprimés</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresse :</item>
+        <item>Tél. :</item>
+        <item>Nom :</item>
+        <item>E-mail :</item>
+        <item>Mobile :</item>
+        <item>WeChat :</item>
+        <item>Fax :</item>
+        <item>Code postal :</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Merci,</item>
+        <item>Meilleures salutations</item>
+        <item>Envoyé de mon</item>
+        <item>E-mail initial</item>
+        <item>Envoyé de mon</item>
+        <item>Envoyé de</item>
+        <item>De</item>
+        <item>Cet e-mail</item>
+        <item>Clause d’exclusion de responsabilité</item>
+        <item>Clause d’exclusion de responsabilité pour les e-mails</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>La synchronisation est terminée</item>
+        <item>Erreur de connexion réseau</item>
+        <item>Échec de la connexion</item>
+        <item>Erreur de connexion sécurisée</item>
+        <item>Échec de la synchronisation</item>
+        <item>Erreur du serveur</item>
+    </string-array>
+</resources>

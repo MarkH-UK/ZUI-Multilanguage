@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionbar_unread_top">13.0dip</dimen>
+    <dimen name="folder_list_item_start_margin">20.0dip</dimen>
+    <dimen name="ic_menu_height_diff">1.5dip</dimen>
+    <dimen name="user_guide_page7_bottom">315.0dip</dimen>
+    <dimen name="account_pop_height">3.0dip</dimen>
+    <dimen name="account_pop_item_height">5.0dip</dimen>
+    <dimen name="folder_list_menu_start_margin">14.0dip</dimen>
+</resources>

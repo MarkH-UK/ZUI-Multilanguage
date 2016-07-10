@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Taberna</item>
+        <item>Kafetegia</item>
+        <item>Gasolindegia</item>
+        <item>Zinema</item>
+        <item>Ostatua</item>
+        <item>Diskoteka</item>
+        <item>Museoa</item>
+        <item>Jatetxea</item>
+        <item>Merkataritza-gunea</item>
+        <item>Denda</item>
+        <item>Janari-denda edo supermerkatua</item>
+        <item>Bestelakoak</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ahula</item>
+        <item>nahikoa</item>
+        <item>ona</item>
+        <item>sendoa</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="car_app_mode_labels">
+        <item>Argitaratze modua</item>
+        <item>Garatzaile modua</item>
+        <item>Txikizkariak</item>
+        <item>Demoa</item>
+    </string-array>
+    <string-array name="car_error_user_friendly">
+        <item>Telefonoak eta autoak software bateraezinak darabiltzate. Xehetasunak ikusteko, zoaz &lt;a href="android.com/auto">android.com/auto&lt;/a> helbidera</item>
+        <item>Audio- edota bideo-konfigurazioa desegokia dela ohartarazi du autoak.</item>
+        <item>"USB konexioa ez dabil behar bezala. Probatu hauek: 
+
+• Ziurtatu kablea behar bezala sartzen dela bi muturretan. 
+• Ziurtatu datuetarako USB kablea duzula. 
+• Ziurtatu autoaren eta telefonoaren data eta ordua behar bezala ezarri direla."</item>
+        <item>Autoak Android Auto abiarazteari utzi dio.</item>
+        <item>Android Auto saioa eten egin da, zuk eskatu bezala.</item>
+        <item>Baliteke autoaren softwarea zaharkituta egotea. Xehetasunak ikusteko, jarri fabrikatzailearekin harremanetan.</item>
+        <item>Autoaren softwareak ez ditu gainditu Android Auto aplikazioaren segurtasun-egiaztapenak. Xehetasunak ikusteko, jarri fabrikatzailearekin harremanetan.</item>
+        <item>Autoaren softwareak ez ditu gainditu Android Auto aplikazioaren segurtasun-egiaztapenak. Ziurtatu autoaren data eta ordua behar bezala ezarri direla eta Android Auto eguneratuta dagoela.</item>
+        <item>Ekintzak denbora-muga gainditu du. Eman arazoaren berri akatsen txostenaren bidez.</item>
+        <item>Dirudienez, ez duzu abiarazlerik instalatuta. Telefonoa behar bezala konfiguratuta dago?</item>
+        <item>Kanal grafikoa eten egin da. Eman arazoaren berri akatsen txostenaren bidez.</item>
+        <item>Autoak ez die telefonoaren mezuei erantzuten. Baliteke arazoa autoarena izatea.</item>
+    </string-array>
+    <string-array name="category_descriptions">
+        <item>Aireportua</item>
+        <item>Kutxazain automatikoa</item>
+        <item>Bankua</item>
+        <item>Taberna</item>
+        <item>Autobus-geltokia</item>
+        <item>Kafetegia</item>
+        <item>Kanpina</item>
+        <item>Hilerria</item>
+        <item>Eliza</item>
+        <item>Udaletxea</item>
+        <item>Establezimendua</item>
+        <item>Gasolindegia</item>
+        <item>Janari-denda edo supermerkatua</item>
+        <item>Tenplu hindua</item>
+        <item>Ospitalea</item>
+        <item>Liburutegia</item>
+        <item>Ostatua</item>
+        <item>Meskita</item>
+        <item>Zinema</item>
+        <item>Museoa</item>
+        <item>Parkea</item>
+        <item>Aparkalekua</item>
+        <item>Gurtza-tokia</item>
+        <item>Komisaria</item>
+        <item>Postetxea</item>
+        <item>Jatetxea</item>
+        <item>Eskola</item>
+        <item>Denda</item>
+        <item>Metro-geltokia</item>
+        <item>Sinagoga</item>
+        <item>Tren-geltokia</item>
+        <item>Geltokia</item>
+    </string-array>
+    <string-array name="drive_fast_scroll_time_grouper_in_month">
+        <item>Urtarrila</item>
+        <item>Otsaila</item>
+        <item>Martxoa</item>
+        <item>Apirila</item>
+        <item>Maiatza</item>
+        <item>Ekaina</item>
+        <item>Uztaila</item>
+        <item>Abuztua</item>
+        <item>Iraila</item>
+        <item>Urria</item>
+        <item>Azaroa</item>
+        <item>Abendua</item>
+    </string-array>
+    <string-array name="location_sharing_edit_share_duration_array">
+        <item>Utzi partekatzeari</item>
+        <item>15 minutu</item>
+        <item>30 minutu</item>
+        <item>Ordubete</item>
+        <item>Mugarik gabe</item>
+    </string-array>
+    <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Utzi partekatzeari</item>
+        <item>15 minutu</item>
+        <item>30 minutu</item>
+        <item>1 ordu</item>
+    </string-array>
+    <string-array name="location_sharing_minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+</resources>

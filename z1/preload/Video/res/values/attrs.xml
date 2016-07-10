@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ratio" format="float" />
+    <attr name="edge_width" format="dimension" />
+    <attr name="edge_color" format="color" />
+    <attr name="edge_overlay" format="boolean" />
+    <attr name="vpiLinePageIndicatorStyle" format="reference" />
+    <attr name="vpiTitlePageIndicatorStyle" format="reference" />
+    <attr name="vpiTabPageIndicatorStyle" format="reference" />
+    <attr name="bigTabPageIndicatorStyle" format="reference" />
+    <attr name="player_episode_tab_style" format="reference" />
+    <attr name="centered" format="boolean" />
+    <attr name="selectedColor" format="color" />
+    <attr name="strokeWidth" format="dimension" />
+    <attr name="unselectedColor" format="color" />
+    <attr name="lineWidth" format="dimension" />
+    <attr name="gapWidth" format="dimension" />
+    <attr name="clipPadding" format="dimension" />
+    <attr name="footerColor" format="color" />
+    <attr name="footerLineHeight" format="dimension" />
+    <attr name="footerIndicatorStyle">
+        <enum name="none" value="0" />
+        <enum name="triangle" value="1" />
+        <enum name="underline" value="2" />
+    </attr>
+    <attr name="footerIndicatorHeight" format="dimension" />
+    <attr name="footerIndicatorUnderlinePadding" format="dimension" />
+    <attr name="footerPadding" format="dimension" />
+    <attr name="linePosition">
+        <enum name="bottom" value="0" />
+        <enum name="top" value="1" />
+    </attr>
+    <attr name="selectedBold" format="boolean" />
+    <attr name="titlePadding" format="dimension" />
+    <attr name="topPadding" format="dimension" />
+    <attr name="hldividerWidth" format="dimension" />
+    <attr name="ptrRefreshableViewBackground" format="reference|color" />
+    <attr name="ptrHeaderBackground" format="reference|color" />
+    <attr name="ptrHeaderTextColor" format="reference|color" />
+    <attr name="ptrHeaderSubTextColor" format="reference|color" />
+    <attr name="ptrMode">
+        <flag name="disabled" value="0x00000000" />
+        <flag name="pullFromStart" value="0x00000001" />
+        <flag name="pullFromEnd" value="0x00000002" />
+        <flag name="both" value="0x00000003" />
+        <flag name="manualOnly" value="0x00000004" />
+        <flag name="pullDownFromTop" value="0x00000001" />
+        <flag name="pullUpFromBottom" value="0x00000002" />
+    </attr>
+    <attr name="ptrShowIndicator" format="reference|boolean" />
+    <attr name="ptrDrawable" format="reference" />
+    <attr name="ptrDrawableStart" format="reference" />
+    <attr name="ptrDrawableEnd" format="reference" />
+    <attr name="ptrOverScroll" format="reference|boolean" />
+    <attr name="ptrHeaderTextAppearance" format="reference" />
+    <attr name="ptrSubHeaderTextAppearance" format="reference" />
+    <attr name="ptrAnimationStyle">
+        <flag name="rotate" value="0x00000000" />
+        <flag name="flip" value="0x00000001" />
+    </attr>
+    <attr name="ptrScrollingWhileRefreshingEnabled" format="reference|boolean" />
+    <attr name="ptrListViewExtrasEnabled" format="reference|boolean" />
+    <attr name="ptrRotateDrawableWhilePulling" format="reference|boolean" />
+    <attr name="ptrAdapterViewBackground" format="reference|color" />
+    <attr name="ptrDrawableTop" format="reference" />
+    <attr name="ptrDrawableBottom" format="reference" />
+    <attr name="galleryStyle" format="reference" />
+    <attr name="spinnerStyle" format="reference" />
+    <attr name="gravity">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="top" value="0x00000030" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="fill_vertical" value="0x00000070" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="fill_horizontal" value="0x00000007" />
+        <flag name="center" value="0x00000011" />
+        <flag name="fill" value="0x00000077" />
+        <flag name="clip_vertical" value="0x00000080" />
+        <flag name="clip_horizontal" value="0x00000008" />
+    </attr>
+    <attr name="entries" format="reference" />
+    <attr name="animationDuration" format="integer" min="0" />
+    <attr name="spacing" format="dimension" />
+    <attr name="unselectedAlpha" format="float" />
+    <attr name="adtype">
+        <enum name="TEXT" value="0" />
+        <enum name="BANNER" value="1" />
+        <enum name="FULLSCREEN" value="2" />
+        <enum name="VIDEO" value="3" />
+        <enum name="HTML5" value="4" />
+        <enum name="IMAGE_TEXT" value="5" />
+        <enum name="MIXED_TEXT" value="6" />
+    </attr>
+    <attr name="adSize">
+        <enum name="Default" value="1" />
+        <enum name="BANNER_120_20" value="2" />
+        <enum name="BANNER_168_28" value="3" />
+        <enum name="BANNER_216_36" value="4" />
+        <enum name="BANNER_240_40" value="5" />
+        <enum name="BANNER_300_50" value="6" />
+        <enum name="BANNER_360_60" value="7" />
+        <enum name="BANNER_480_80" value="8" />
+        <enum name="BANNER_320_38" value="9" />
+        <enum name="BANNER_480_57" value="10" />
+        <enum name="BANNER_640_76" value="11" />
+        <enum name="BANNER_800_95" value="12" />
+        <enum name="BANNER_320_48" value="13" />
+        <enum name="BANNER_480_72" value="15" />
+        <enum name="BANNER_640_96" value="16" />
+        <enum name="BANNER_800_120" value="17" />
+        <enum name="BANNER_80_320" value="18" />
+        <enum name="BANNER_90_360" value="19" />
+        <enum name="BANNER_120_480" value="20" />
+        <enum name="BANNER_160_640" value="21" />
+        <enum name="FULLSCREEN_240_320" value="22" />
+        <enum name="FULLSCREEN_480_640" value="23" />
+        <enum name="FULLSCREEN_320_480" value="24" />
+        <enum name="FULLSCREEN_480_720" value="25" />
+        <enum name="FULLSCREEN_480_800" value="26" />
+        <enum name="FULLSCREEN_320_320" value="27" />
+        <enum name="FULLSCREEN_480_480" value="28" />
+        <enum name="FULLSCREEN_640_640" value="29" />
+        <enum name="IMAGETEXT_45_45" value="30" />
+        <enum name="IMAGETEXT_60_60" value="31" />
+        <enum name="IMAGETEXT_76_76" value="32" />
+    </attr>
+    <attr name="refreshInterval" format="integer" />
+    <attr name="adspaceid" format="string" />
+    <attr name="fontSize" format="integer" />
+    <attr name="fontColor" format="string" />
+    <attr name="fontBackgroundColor" format="string" />
+    <attr name="debug" format="boolean" />
+    <attr name="appid" format="string" />
+    <attr name="secretkey" format="string" />
+    <attr name="has_header" format="boolean" />
+    <attr name="has_footer" format="boolean" />
+    <attr name="corner_radius" format="dimension" />
+    <attr name="border_width" format="dimension" />
+    <attr name="border_color" format="color" />
+    <attr name="mutate_background" format="boolean" />
+    <attr name="oval" format="boolean" />
+    <attr name="circle" format="boolean" />
+    <attr name="p_title_qiyi_logo" format="reference" />
+    <attr name="p_navi_cate_bg" format="reference" />
+    <attr name="p_navi_my_bg" format="reference" />
+    <attr name="p_navi_off_bg" format="reference" />
+    <attr name="p_navi_recom_bg" format="reference" />
+    <attr name="p_navi_top_bg" format="reference" />
+    <attr name="p_navi_vip_bg" format="reference" />
+    <attr name="pstsIndicatorColor" format="color" />
+    <attr name="pstsUnderlineColor" format="color" />
+    <attr name="pstsDividerColor" format="color" />
+    <attr name="pstsIndicatorHeight" format="dimension" />
+    <attr name="pstsUnderlineHeight" format="dimension" />
+    <attr name="pstsDividerPadding" format="dimension" />
+    <attr name="pstsTabPaddingLeftRight" format="dimension" />
+    <attr name="pstsScrollOffset" format="dimension" />
+    <attr name="pstsTabBackground" format="reference" />
+    <attr name="pstsShouldExpand" format="boolean" />
+    <attr name="pstsTextAllCaps" format="boolean" />
+    <attr name="pstsScrollToCenter" format="boolean" />
+    <attr name="gif" format="reference" />
+    <attr name="paused" format="boolean" />
+    <attr name="gifViewStyle" format="reference" />
+</resources>

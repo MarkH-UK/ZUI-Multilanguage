@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"This is general information about this device and how it’s used, such as battery level, how often apps are used, the quality and duration of network connections (like cell, Wi‑Fi, and Bluetooth), and crash reports when things aren’t working the way they should. It will be used to improve Google’s products and services for everyone, and won’t be associated with your child’s Google Account. Some aggregated information will help partners, such as Android developers, make their apps and products better, too.
+
+You can turn this on or off at any time in Settings > Google. This doesn’t affect this device’s ability to send the information it needs to receive essential services such as system updates and security."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Automatically back up device data</b> (such as Wi-Fi passwords and call history) and app data (such as settings and files stored by apps) to Google Drive. <annotation id="backup_details">Learn more</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"When you turn on automatic backup, device and app data is periodically saved to a private folder in Google Drive. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages, and photos.
+
+Backup data will not count towards your Drive storage quota. Large files, or files developers have chosen to exclude from the service will not be backed up."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Improve location accuracy</b> by allowing apps and services to scan for Wi‑Fi networks and Bluetooth devices, even when Wi‑Fi and Bluetooth are off.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"This is general information about your device and how you use it, such as battery level, how often you use your apps, the quality and duration of your network connections (like cell, Wi‑Fi, and Bluetooth), and crash reports when things aren’t working the way they should. It will be used to improve Google’s products and services for everyone, and won’t be associated with your Google Account. Some aggregated information will help partners, such as Android developers, make their apps and products better, too.
+
+You can turn this on or off at any time in Settings > Google. This doesn’t affect your device’s ability to send the information it needs to receive essential services such as system updates and security."</string>
+</resources>

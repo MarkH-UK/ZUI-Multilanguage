@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="customTextLeft" format="reference|string" />
+    <attr name="customTextRight" format="reference|string" />
+    <attr name="customTextRightColor" format="reference|string" />
+    <attr name="customRightDrawable" format="reference|integer" />
+    <attr name="customRightDrawableHint" format="boolean" />
+    <attr name="customRightDrawablePadding" format="reference|integer" />
+    <attr name="leftTitleText" format="reference|string" />
+    <attr name="leftContentText" format="reference|string" />
+    <attr name="contentViewVisible" format="boolean" />
+    <attr name="isChecked" format="boolean" />
+    <attr name="border_width" format="dimension" />
+    <attr name="border_color" format="color" />
+    <attr name="listMaxHeight" format="dimension" />
+    <attr name="targetDrawables" format="reference" />
+    <attr name="targetDescriptions" format="reference" />
+    <attr name="handleDrawable" format="reference" />
+    <attr name="outerRadius" format="dimension" />
+    <attr name="vibrationDuration" format="integer" />
+    <attr name="gravity">
+        <flag name="top" value="0x00000030" />
+        <flag name="bottom" value="0x00000050" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="fill_vertical" value="0x00000070" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="fill_horizontal" value="0x00000007" />
+        <flag name="center" value="0x00000011" />
+        <flag name="fill" value="0x00000077" />
+        <flag name="clip_vertical" value="0x00000080" />
+        <flag name="clip_horizontal" value="0x00000008" />
+    </attr>
+    <attr name="textAppearanceSwitch" format="reference" />
+    <attr name="isExpanded" format="boolean" />
+    <attr name="stickyListHeadersListViewStyle" format="reference" />
+    <attr name="hasStickyHeaders" format="boolean" />
+    <attr name="isDrawingListUnderStickyHeader" format="boolean" />
+    <attr name="numberPickerStyle" format="reference" />
+    <attr name="solidColor" format="reference|color" />
+    <attr name="selectionDivider" format="reference" />
+    <attr name="selectionDividerHeight" format="dimension" />
+    <attr name="selectionDividersDistance" format="dimension" />
+    <attr name="internalMinHeight" format="dimension" />
+    <attr name="internalMaxHeight" format="dimension" />
+    <attr name="internalMinWidth" format="dimension" />
+    <attr name="internalMaxWidth" format="dimension" />
+    <attr name="internalLayout" format="reference" />
+    <attr name="virtualButtonPressedDrawable" format="reference" />
+</resources>

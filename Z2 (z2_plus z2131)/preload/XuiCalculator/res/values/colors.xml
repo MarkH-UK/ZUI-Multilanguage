@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="display_background_color">#ff272727</color>
+    <color name="display_formula_text_color">#ffffffff</color>
+    <color name="display_result_text_color">#ff888888</color>
+    <color name="display_deg_text_color">#ffdfdfdf</color>
+    <color name="pad_button_text_color">#ff555555</color>
+    <color name="pad_background_color">#ffc2c2c2</color>
+    <color name="pad_button_numeric_background_color_n">#fffafafa</color>
+    <color name="pad_button_numeric_background_color_p">#ffdedede</color>
+    <color name="pad_button_numeric_text_color">#ff555555</color>
+    <color name="pad_button_operator_background_color_n">#ffeaeaea</color>
+    <color name="pad_button_operator_background_color_p">#ffdedede</color>
+    <color name="pad_button_operator_text_color_n">#ff555555</color>
+    <color name="pad_button_operator_text_color_p">#fffd8300</color>
+    <color name="pad_button_equal_text_color_n">#ffffffff</color>
+    <color name="switch_text_color_n">#ff717171</color>
+    <color name="switch_text_color_p">#66717171</color>
+</resources>

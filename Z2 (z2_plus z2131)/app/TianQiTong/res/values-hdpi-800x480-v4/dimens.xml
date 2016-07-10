@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_splash_logo_padding_bottom">26.0dip</dimen>
+    <dimen name="main_splash_logo_padding_left">74.0dip</dimen>
+    <dimen name="main_splash_slogan_padding_bottom">80.0dip</dimen>
+    <dimen name="main_splash_slogan_padding_left">37.5dip</dimen>
+</resources>

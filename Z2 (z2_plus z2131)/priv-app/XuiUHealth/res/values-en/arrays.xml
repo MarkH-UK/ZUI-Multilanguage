@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datePickerXWeek">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="exercise_array">
+        <item>Walk</item>
+        <item>Run</item>
+        <item>Bike</item>
+        <item>Climb Stairs</item>
+        <item>Run Indoors</item>
+        <item>Spining</item>
+        <item>Rope Skipping</item>
+        <item>Plank</item>
+        <item>Yoga</item>
+        <item>Dance</item>
+        <item>Aerobics</item>
+        <item>Swim</item>
+        <item>Table Tennis</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Football</item>
+        <item>Tennis</item>
+        <item>Volleyball</item>
+        <item>Skating</item>
+        <item>Skiing</item>
+    </string-array>
+    <string-array name="exercise_array_healthy_list">
+        <item>Walk</item>
+        <item>Run</item>
+        <item>Bike</item>
+        <item>Climb Stairs</item>
+        <item>Run Indoors</item>
+        <item>Spining</item>
+        <item>Rope Skipping</item>
+        <item>Plank</item>
+        <item>Yoga</item>
+        <item>Dance</item>
+        <item>Aerobics</item>
+        <item>Swim</item>
+        <item>Table Tennis</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Football</item>
+        <item>Tennis</item>
+        <item>Volleyball</item>
+        <item>Skating</item>
+        <item>Skiing</item>
+        <item>Vehicle</item>
+    </string-array>
+    <string-array name="gender_lables">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+    <string-array name="guest_info_more_array">
+        <item>Visitors to modify data</item>
+        <item>Delete the visitor</item>
+    </string-array>
+    <string-array name="health_array">
+        <item>Heart Rate</item>
+        <item>SpO2</item>
+        <item>Weight</item>
+        <item>Blood Pressure</item>
+    </string-array>
+    <string-array name="health_array_other">
+        <item>Heart Rate</item>
+        <item>Oxygen Saturation</item>
+        <item>Weight</item>
+        <item>Blood Pressure</item>
+        <item>Heart Rate and Oxygen Saturation</item>
+    </string-array>
+    <string-array name="heart_rate_type">
+        <item>Standstill</item>
+        <item>Active</item>
+    </string-array>
+    <string-array name="pace_speed_5">
+        <item>Unhurried</item>
+        <item>Leisurely</item>
+        <item>Not nervous</item>
+    </string-array>
+    <string-array name="pace_speed_6">
+        <item>Snail-paced</item>
+        <item>Slow pace</item>
+        <item>Slow pace</item>
+    </string-array>
+    <string-array name="products">
+        <item>ZUK</item>
+        <item>Jabra PULSE</item>
+    </string-array>
+    <string-array name="skin_lables">
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="step_count_to_food">
+        <item>≈An egg</item>
+        <item>≈5 candys</item>
+        <item>≈A carton of milk</item>
+        <item>≈A can of coke</item>
+        <item>≈ A bowl of rice</item>
+        <item>≈Half a piece of cream cakes</item>
+        <item>≈An ice cream</item>
+        <item>≈Half of the hamburger</item>
+        <item>≈Half bag of potato chips</item>
+        <item>≈2 can of coke</item>
+        <item>≈2 slices of bread</item>
+        <item>≈2 bowl of rice</item>
+        <item>≈A bowl of noodles</item>
+        <item>≈A piece of cream cakes</item>
+        <item>≈3 roast chicken wings</item>
+        <item>≈2 ice cream</item>
+        <item>≈A piece of pizza</item>
+        <item>≈A hamburger</item>
+    </string-array>
+    <string-array name="trend_day_by_hour">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text">"Þetta eru almennar upplýsingar um þetta tæki og hvernig það er notað, svo sem stöðu rafhlöðu, hversu oft forrit eru notuð, gæði og tímalengd nettenginga (s.s. við farsímakerfi, Wi-Fi og Bluetooth) og hrunskýrslur þegar eitthvað bjátar á. Þær verða notaðar til að bæta vörur og þjónustu Google fyrir alla og verða ekki tengdar við Google reikning barnsins þíns. Sumar uppsafnaðar upplýsingar munu einnig hjálpa samstarfsaðilum okkar, svo sem þróunaraðilum Android, að gera forrit sín og vörur betri.
+
+Þú getur kveikt eða slökkt á þessu hvenær sem er í stillingaforriti Google. Þetta hefur ekki áhrif á getu þessa tækis til að senda upplýsingar sem það þarf til að fá nauðsynlega þjónustu á borð við kerfisuppfærslur og öryggiseiginleika."</string>
+    <string name="auth_setup_wizard_services_backup"><b>Taktu sjálfkrafa afrit af gögnum tækisins</b> (s.s. Wi-Fi aðgangsorðum og símtalaferli) og forritsgögnum (s.s. stillingum og skrám sem forrit vista) og vistaðu á Google Drive. <annotation id="backup_details">Frekari upplýsingar</annotation></string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Þegar þú kveikir á sjálfvirkri afritun eru gögn tækisins og forrita reglulega vistuð í lokaða möppu á Google Drive. Forritsgögn geta verið öll gögn sem forrit hefur vistað (fer eftir stillingum þróunaraðilans), þ.m.t. hugsanlega viðkvæm gögn á borð við tengiliði þína, skilaboð og myndir.
+
+Afritunargögn nota ekki geymslukvótann þinn á Drive. Stórar skrár eða skrár sem þróunaraðilar hafa valið að hafa ekki með í þjónustunni eru ekki afritaðar."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Auktu staðsetningarnákvæmni</b> með því að leyfa forritum og þjónustu að leita að Wi-Fi netum og Bluetooth-tækjum, jafnvel þegar slökkt er á Wi-Fi og Bluetooth.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_dialog_text">"Þetta eru almennar upplýsingar um tækið þitt og hvernig þú notar það, svo sem stöðu rafhlöðu, hversu oft þú notar forritin þín, gæði og tímalengd nettenginga (s.s. við farsímakerfi, Wi-Fi og Bluetooth) og hrunskýrslur þegar eitthvað bjátar á. Þær verða notaðar til að bæta vörur og þjónustu Google fyrir alla og verða ekki tengdar við Google reikninginn þinn. Sumar uppsafnaðar upplýsingar munu einnig hjálpa samstarfsaðilum okkar, svo sem þróunaraðilum Android, að gera forrit sín og vörur betri.
+
+Þú getur kveikt eða slökkt á þessu hvenær sem er undir Stillingar > Google. Þetta hefur ekki áhrif á getu tækisins til að senda upplýsingar sem það þarf til að fá nauðsynlega þjónustu á borð við kerfisuppfærslur og öryggiseiginleika."</string>
+</resources>

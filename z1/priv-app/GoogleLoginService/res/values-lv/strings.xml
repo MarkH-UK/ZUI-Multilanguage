@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play pakalpojumu kļūda</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Lai lietojumprogramma darbotos, jāinstalē Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Lai lietojumprogramma darbotos, jāatjaunina Google Play pakalpojumi.</string>
+    <string name="common_android_wear_notification_needs_update_text">Lai nodrošinātu kādas lietojumprogrammas darbību, jāatjaunina lietotne Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Lai lietojumprogramma darbotos, jāiespējo Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Pieprasījums no lietotnes %1$s</string>
+    <string name="common_google_play_services_install_title">Google Play pakalpojumu iegūšana</string>
+    <string name="common_google_play_services_install_text_phone">Lai šī lietotne darbotos, tālrunī ir jāinstalē Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_install_text_tablet">Lai šī lietotne darbotos, planšetdatorā ir jāinstalē Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_install_button">Iegūt Google Play pakalpojumus</string>
+    <string name="common_google_play_services_enable_title">Google Play pakalpojumu iespējošana</string>
+    <string name="common_google_play_services_enable_text">Lai šī lietotne darbotos, iespējojiet Google Play pakalpojumus.</string>
+    <string name="common_google_play_services_enable_button">Iespējot Google Play pakalpojumus</string>
+    <string name="common_google_play_services_update_title">Google Play pakalpojumu atjaunināšana</string>
+    <string name="common_android_wear_update_title">Android Wear atjaunināšana</string>
+    <string name="common_google_play_services_update_text">Lai šī lietotne darbotos, atjauniniet Google Play pakalpojumus.</string>
+    <string name="common_android_wear_update_text">Šī lietotne nedarbosies, ja neatjaunināsiet lietotni Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">Tīkla kļūda</string>
+    <string name="common_google_play_services_network_error_text">Lai izveidotu savienojumu ar Google Play pakalpojumiem, ir nepieciešams datu savienojums.</string>
+    <string name="common_google_play_services_invalid_account_title">Nederīgs konts</string>
+    <string name="common_google_play_services_invalid_account_text">Norādītais konts šajā ierīcē nepastāv. Lūdzu, izvēlieties citu kontu.</string>
+    <string name="common_google_play_services_unknown_issue">Nezināma problēma ar Google Play pakalpojumiem.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play pakalpojumi</string>
+    <string name="common_google_play_services_unsupported_text">Jūsu ierīce neatbalsta Google Play pakalpojumus, kuri nepieciešami dažu jūsu lietojumprogrammu darbībai. Lūdzu, sazinieties ar ražotāju, lai saņemtu palīdzību.</string>
+    <string name="common_google_play_services_update_button">Atjaunināt</string>
+    <string name="common_signin_button_text">Pierakst.</string>
+    <string name="common_signin_button_text_long">Pierakstīties Google</string>
+    <string name="common_open_on_phone">Atvērt tālrunī</string>
+    <string name="setup_wizard_next_button_label">Tālāk</string>
+    <string name="setup_wizard_back_button_label">Atpakaļ</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">Izlaist</string>
+    <string name="down_button_label">Vairāk</string>
+    <string name="cancel_button_label">Atcelt</string>
+    <string name="try_again_button_label">Mēģināt vēlreiz</string>
+    <string name="close_button_label">Aizvērt</string>
+    <string name="url_load_unsuccessful_message">Android ierīce nav pievienota datu pakalpojumam. Lai skatītu šo informāciju tūlīt, tīmekļa pārlūkprogrammā atveriet vietni %s.</string>
+    <string name="sign_in_agreement">Pierakstoties jūs piekrītat Google <annotation id="tos">pakalpojumu sniegšanas noteikumiem</annotation>, <annotation id="google_privacy">konfidencialitātes politikai</annotation> un <annotation id="play_tos">Google Play pakalpojumu sniegšanas noteikumiem</annotation>.</string>
+    <string name="android_privacy_policy_title">Papildu konfidencialitātes politika</string>
+    <string name="google_terms_of_service_title">Google pakalpojumu sniegšanas noteikumi</string>
+    <string name="google_privacy_policy_title">Google konfidencialitātes politika</string>
+    <string name="google_plus_privacy_policy_title">Google Plus konfidencialitātes politika</string>
+    <string name="google_play_tos_title">Google Play pak. snieg. noteikumi</string>
+    <string name="chrome_tos_title">Chrome pakalpojumu sniegšanas noteikumi</string>
+    <string name="chrome_privacy_title">Chrome konfidencialitātes paziņojums</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android ierīce nav savienota ar Wi-Fi tīklu. Lai skatītu šo informāciju tūlīt, tīmekļa pārlūkprogrammā apmeklējiet vietni %s.</string>
+    <string name="services_activity_title">Google pakalpojumi</string>
+    <string name="services_backup_heading">Dublēšana</string>
+    <string name="services_location_heading">Atrašanās vieta</string>
+    <string name="services_security_heading">Drošība</string>
+    <string name="services_personalization_heading">Personalizēšana</string>
+    <string name="services_communication_heading">Saziņa</string>
+    <string name="security_verify_apps_summary">Ļaujiet uzņēmumam Google visās instalētajās lietotnēs pārbaudīt potenciāli kaitīgas darbības, kas var ietekmēt ierīces vai datu drošību.</string>
+    <string name="name_title">Jūsu vārds</string>
+    <string name="name_text">Jūsu vārds tiek izmantots, lai personalizētu tālruni un Google pakalpojumus.</string>
+    <string name="first_name">Vārds</string>
+    <string name="last_name">Uzvārds</string>
+    <string name="cant_be_blank">Lauks nedrīkst būt tukšs.</string>
+    <string name="sharedUserLabel">Google pakalpojumi</string>
+    <string name="app_label">Google konta pārzinis</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">Pierakstīties</string>
+    <string name="create_button_label">Izveidot kontu</string>
+    <string name="not_now_button_label">Ne tagad</string>
+    <string name="new_button_label">Jauns</string>
+    <string name="existing_button_label">Esošais</string>
+    <string name="done">Labi</string>
+    <string name="edit_text_help">Pieskarieties jebkuram tekstlodziņam, lai sāktu datu ievadi.</string>
+    <string name="add_a_google_account">Google konta pievienošana</string>
+    <string name="captcha_title">Jāievada CAPTCHA.</string>
+    <string name="show_error_title">Kļūda</string>
+    <string name="server_error">Radās problēma, sazinoties ar Google serveriem.</string>
+    <string name="server_error_help">Vēlāk mēģiniet vēlreiz.</string>
+    <string name="network_unreliable">Nevar izveidot uzticamu savienojumu ar serveri.</string>
+    <string name="network_unreliable_help">Iespējams, šī ir īslaicīga problēma, vai arī jūsu Android ierīcē nav atbalstīta datu pakalpojumu izmantošana. Ja šī problēma joprojām pastāv, zvaniet klientu atbalsta dienestam.</string>
+    <string name="network_unreliable_help_wifi_only">Iespējams, šī ir īslaicīga problēma. Mēģiniet vēlreiz vai izveidojiet savienojumu ar citu Wi-Fi tīklu.</string>
+    <string name="invalid_login_character">Rakstzīme nav derīga. Drīkst izmantot tikai ciparus 0–9, burtus a–z un A–Z, kā arī punktus.</string>
+    <string name="invalid_password_character">Paroles rakstzīme nav derīga.</string>
+    <string name="calendar">Google kalendārs</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">Lauks nedrīkst būt tukšs.</string>
+    <string name="plus_query_title">Jaunināšana uz pakalpojumu Google+</string>
+    <string name="plus_query_text">Pakalpojumā Google+ informācijas apmaiņa tīmeklī līdzinās informācijas apmaiņai reālajā dzīvē.</string>
+    <string name="circles_subtitle">Jūs interesējošā satura straume</string>
+    <string name="circles_text">Sazinieties ar tuviem draugiem un izpētiet kopīgās intereses.</string>
+    <string name="uploads_subtitle">Automātiska fotoattēlu dublēšana</string>
+    <string name="uploads_text">Uzņemiet un dublējiet fotoattēlus, izmantojot bezmaksas privāto krātuvi.</string>
+    <string name="huddle_subtitle">Videozvani un ziņojumapmaiņa</string>
+    <string name="huddle_text">Rakstiet īsziņas, sūtiet un saņemiet fotoattēlus, kā arī piedalieties bezmaksas videozvanos, izmantojot funkciju Hangouts.</string>
+    <string name="plus_declined_button_label">Ne tagad</string>
+    <string name="plus_accepted_button_label">Sākt darbu</string>
+    <string name="plus_name_check_title">Notiek sazināšanās ar pakalpojumu Google+...</string>
+    <string name="plus_name_check_text">Tas var ilgt dažas minūtes.</string>
+    <string name="plus_faq_title">Laipni lūdzam pakalpojumā Google+!</string>
+    <string name="plus_faq_text" formatted="false">"Pakalpojumā Google+ jums būs publisks profils, lai draugiem būtu vieglāk jūs atrast tiešsaistē. Ikviens, kam ir zināma jūsu e-pasta adrese, var atrast un skatīt jūsu profilu.
+
+Varat izmantot pogas +1 tīmeklī, lai ieteiktu saturu lietotājiem visā pasaulē. Jūsu profils un atzīmes +1 būs publiski redzamas meklēšanas rezultātos, reklāmās un visā tīmeklī.
+
+Pašlaik jūsu profilā tiks rādīts tikai jūsu vārds un uzvārds (%s %s). Kad sāksiet lietot pakalpojumu Google+, varēsiet pievienot fotoattēlu, biogrāfiju un citu informāciju."</string>
+    <string name="dasher_warning">Domēna %S administratoram pieder visi jūsu dati pakalpojumā Google+, un viņš tos pārvalda, kā arī var dzēst vai mainīt jūsu profilu jebkurā laikā bez jūsu atļaujas.</string>
+    <string name="profile_info_title">Jūsu profils</string>
+    <string name="profile_text">Sniedziet pamatinformāciju, ko iekļaut jūsu profilā. Fotoattēlu un citus datus varat pievienot vēlāk, kad sāksiet lietot pakalpojumu Google+.</string>
+    <string name="occupation">Profesija</string>
+    <string name="current_city">Pašreizējā pilsēta</string>
+    <string name="picassa_info_title">Picasa un Google+</string>
+    <string name="picassa_info_text" formatted="false">Jūsu fotoattēli un videoklipi no Picasa tīmekļa albumiem būs pieejami pakalpojumā Google+, un jūsu komentāri tiks publicēti ar vārdu un uzvārdu (%s %s), nevis ar lietotājvārdu (%s). Kad kopīgojat fotoattēlus pakalpojumā Google+, saņēmēji var tos atkārtoti kopīgot ar citām personām. Jūsu albuma redzamības iestatījumi nemainīsies, un varat jebkurā brīdī ierobežot piekļuvi fotoattēliem un videoklipiem, lai tos nevarētu brīvi kopīgot atkārtoti.</string>
+    <string name="name_title_plus">Jūsu vārds pakalpojumā Google+</string>
+    <string name="name_title_local">Šī tālruņa īpašnieks ir...</string>
+    <string name="name_text_local">Tālrunī tiek izmantots jūsu vārds, lai personalizētu dažas lietotnes.</string>
+    <string name="name_progress_title">Lūdzu, uzgaidiet…</string>
+    <string name="bad_name_title">Vai izmantot šo vārdu?</string>
+    <string name="invalid_name_title">Nevar izmantot šo vārdu.</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"Ja vēlaties izmantot šo vārdu kā savu Google+ vārdu, mūsu komandai tas būs jāpārskata. Ja ar šo vārdu tiek pārkāpta mūsu vārdu politika, jūsu profila darbība var tikt apturēta. Tādējādi var tikt ierobežotas jūsu iespējas izmantot Google produktus, kuriem nepieciešams aktīvs profils.
+
+"<annotation id="learn_more">Uzziniet vairāk.</annotation></string>
+    <string name="invalid_name_text">Šo vārdu nevar izmantot pakalpojumā Google+, jo tajā ir nederīgas rakstzīmes.</string>
+    <string name="invalid_nickname_text">Šo vārdu nevar izmantot pakalpojumā Google+, jo tajā ir nederīgas rakstzīmes. Vai jūs mēģināt izmantot segvārdu, iepriekšējo uzvārdu vai titulu? Tos varēsiet pievienot savam profilam pēc reģistrēšanās.</string>
+    <string name="invalid_other_text">Šo vārdu nevar izmantot pakalpojumā Google+.</string>
+    <string name="bad_name_agree_text">Es saprotu noteikumus un vēlos izmantot šo vārdu.</string>
+    <string name="bad_name_decline_button_label">Atjaunināt vārdu</string>
+    <string name="bad_name_agree_button_label">Iesniegt vārdu pārskatīšanai</string>
+    <string name="bad_name_skip_button_label">Izlaist Google+ aktivizāciju</string>
+    <string name="photo_title">Jūsu fotoattēls</string>
+    <string name="photo_text">Šis fotoattēls tiks izmantots jūsu kontaktpersonu ierakstā. Vēlāk varēsiet to mainīt lietotnē Personas.</string>
+    <string name="photo_text_es">Uzņemiet fotoattēlu, kuru jūsu draugi varēs skatīt pakalpojumā Google+. Vēlāk varat izvēlēties citu attēlu.</string>
+    <string name="photo_button_label">Fotografēt</string>
+    <string name="retake_photo_button_label">Fotografēt vēlreiz</string>
+    <string name="photo_failure">Nevarēja palaist kameru.</string>
+    <string name="crop_failure">Nevarēja apgriezt fotoattēlu.</string>
+    <string name="photo_description">Jūsu fotoattēls</string>
+    <string name="communicating_message">No tālruņa notiek saziņa ar Google, lai saglabātu informāciju jūsu kontā. Tas var ilgt līdz 5 minūtēm.</string>
+    <string name="creating_account_title">Notiek konta saglabāšana...</string>
+    <string name="checking_username_message">"Tālrunī tiek veikta saziņa ar Google, lai pārbaudītu, vai ir pieejams vēlamais lietotājvārds.
+
+Šis process var ilgt dažas minūtes."</string>
+    <string name="plus_failure_title">Vēlāk pievienoties pakalpojumam Google+</string>
+    <string name="plus_failure_new_account_text">Jūsu Google konts ir izveidots, taču neizdevās nosūtīt pieprasījumu pievienoties pakalpojumam Google+. Vēlāk mēģiniet vēlreiz, vietnē plus.google.com izmantojot jebkuru tīmekļa pārlūkprogrammu.</string>
+    <string name="plus_failure_text">Neizdevās nosūtīt jūsu pieprasījumu pievienoties pakalpojumam Google+. Vēlāk mēģiniet vēlreiz, vietnē plus.google.com izmantojot jebkuru tīmekļa pārlūkprogrammu.</string>
+    <string name="provisioned_login_title">Ievadiet paroli.</string>
+    <string name="provisioned_welcome">Sveicināti, %s!</string>
+    <string name="provisioned_welcome_2">"Ievadiet paroli adresei
+%s."</string>
+    <string name="provisioned_incorrect_login">Vai neesat lietotājs %s?</string>
+    <string name="login_title">E-pasta adreses un paroles ierakstīšana</string>
+    <string name="login_task_title">Notiek pierakstīšanās</string>
+    <string name="password">Parole</string>
+    <string name="restore_wifi">Atjaunot un izveidot savienojumu ar zināmiem Wi-Fi tīkliem.</string>
+    <string name="sign_in_agreement_multi_user">Pierakstoties jūs piekrītat Google <annotation id="tos">pakalpojumu sniegšanas noteikumiem</annotation>, <annotation id="google_privacy">konfidencialitātes politikai</annotation> un vietnes <annotation id="play_tos">Google Play pakalpojumu sniegšanas noteikumiem{</annotation>". 
+
+Atcerieties! Jebkurš cits lietotājs var piekrist lietotņu atļauju atjauninājumiem jūsu vārdā. Tāpat kā citus datorus, šo planšetdatoru koplietojiet tikai ar personām, kurām uzticaties."</string>
+    <string name="sign_in_agreement_with_chrome">Pierakstoties jūs piekrītat Google <annotation id="tos">pakalpojumu sniegšanas noteikumiem</annotation> un <annotation id="google_privacy">konfidencialitātes politikai</annotation>, Chrome <annotation id="chrome_tos">pakalpojumu sniegšanas noteikumiem</annotation> un <annotation id="chrome_privacy">konfidencialitātes paziņojumam</annotation>, kā arī Google Play <annotation id="play_tos">pakalpojumu sniegšanas noteikumiem</annotation>.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Pierakstoties jūs piekrītat Google <annotation id="tos">pakalpojumu sniegšanas noteikumiem</annotation> un <annotation id="google_privacy">konfidencialitātes politikai</annotation>, pārlūka Chrome <annotation id="chrome_tos">pakalpojumu sniegšanas noteikumiem</annotation> un <annotation id="chrome_privacy">konfidencialitātes paziņojumam</annotation>, kā arī vietnes Google Play <annotation id="play_tos">pakalpojumu sniegšanas noteikumiem</annotation>".
+
+Atcerieties! Jebkurš cits lietotājs var piekrist lietotņu atļauju atjauninājumiem jūsu vārdā. Tāpat kā citus datorus, šo planšetdatoru koplietojiet tikai ar personām, kurām uzticaties."</string>
+    <string name="create_prompt">" Vai jums nav Google konta? "<annotation id="create_account">Izveidojiet kontu tūlīt</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Pierakstieties savā Google kontā:</string>
+    <string name="invalid_username">Ierakstītais teksts nav derīgs lietotājvārds.</string>
+    <string name="captcha_instructions">Ierakstiet redzamo tekstu šeit:</string>
+    <string name="create_google_account">Lietotājvārda izvēle</string>
+    <string name="create_google_account_text">Jūsu Google konts ir savienots ar Google e-pasta pakalpojumu Gmail. Tas darbojas jebkurā ierīcē, bloķē mēstules un veic citas darbības.</string>
+    <string name="account_already_has_gmail">Kontam jau ir pakalpojums Gmail.</string>
+    <string name="error_account_disabled">"Šis konts ir atspējots. 
+
+(Lai iegūtu detalizētu informāciju, tīmekļa pārlūkprogrammā apmeklējiet vietni http://google.com/accounts.)"</string>
+    <string name="no_network">Nav tīkla savienojuma.</string>
+    <string name="no_network_help">Iespējams, šī ir īslaicīga problēma, vai arī jūsu Android ierīcē nav atbalstīta datu pakalpojumu izmantošana. Mēģiniet vēlreiz, kad būsiet izveidojis savienojumu ar mobilo tīklu, vai izveidojiet savienojumu ar Wi-Fi tīklu.</string>
+    <string name="no_network_help_wifi_only">Iespējams, šī ir īslaicīga problēma. Mēģiniet vēlreiz vai izveidojiet savienojumu ar citu Wi-Fi tīklu.</string>
+    <string name="error_login_failed">"Jūsu lietotājvārds un parole neatbilst. Mēģiniet vēlreiz.
+
+Lai atkoptu konta informāciju, apmeklējiet vietni google.lv/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Šis konts nav verificēts. Pārbaudiet e-pastu un atveriet norādīto saiti, lai verificētu kontu.
+
+(Lai atgūtu konta informāciju, apmeklējiet vietni http://www.google.com/accounts/recovery/?hl=lv, izmantojot datoru.)"</string>
+    <string name="exit_menu_item">Iziet no pierakstīšanās pārlūkprogrammā</string>
+    <string name="creating_profile">Notiek profila izveide…</string>
+    <string name="checking_account">Notiek pieejamības pārbaude...</string>
+    <string name="is_not_available">Lietotājvārds <b>^1</b> nav pieejams.</string>
+    <string name="suggestions_hint">Pieskarieties, lai skatītu ieteikumus.</string>
+    <string name="suggest_username_next_button_label">Mainīt lietotājvārdu</string>
+    <string name="hint_size">" "<b>^1</b> ietver mazāk par 6 vai vairāk par 30 rakstzīmēm.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> neietver burtus.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" drīkst ietvert tikai burtus,
+ciparus un punktus."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> neizmanto pakalpojumu Gmail.</string>
+    <string name="sign_in_browser">Pierakstīties pārlūkprogrammā</string>
+    <string name="alternatives_list_title">Ieteiktie lietotājvārdi</string>
+    <string name="password_title">Paroles izveide</string>
+    <string name="choose_a_password">Parole</string>
+    <string name="confirm_password">Vēlreiz ierakstiet paroli</string>
+    <string name="too_short">Pārāk īsa</string>
+    <string name="security_questions_title">Drošības jautājumi</string>
+    <string name="answer">" "<b>Atbildēt</b></string>
+    <string name="password_mismatch">Tika norādītas neatbilstošas paroles. Mēģiniet vēlreiz.</string>
+    <string name="eight_chars_min">Vismaz 8 rakstzīmes</string>
+    <string name="verify_your_profile">Profila apstiprināšana</string>
+    <string name="error_not_logged_in">Lietotājs nav pierakstījies.</string>
+    <string name="error_username_unavailable">Lietotājvārds nav pieejams.</string>
+    <string name="error_bad_password">Parole ir pārāk nedroša vai ietver nederīgas rakstzīmes. Mēģiniet vēlreiz.</string>
+    <string name="error_bad_username">Lietotājvārds nav derīgs.</string>
+    <string name="existing_account_error_title">Konts jau pastāv</string>
+    <string name="existing_account_error_text">Šajā Android ierīcē jau pastāv konts ^1.</string>
+    <string name="submission_title">Atvainojiet...</string>
+    <string name="submission_error_text">Radās kļūda. Mēģiniet vēlreiz.</string>
+    <string name="sync_intro_title">Kontu sinhronizācija</string>
+    <string name="account_tos_title">Konta izveides pabeigšana</string>
+    <string name="account_tos_plus_title">Pievienošanās pakalp. Google+ pabeigšana</string>
+    <string name="i_accept">Es piekrītu</string>
+    <string name="i_decline">Neveidot kontu</string>
+    <string name="allow_personalized_content">Atļaut uzņēmumam Google izmantot jūsu informāciju, lai personalizētu saturu un reklāmas ar Google nesaistītās vietnēs.</string>
+    <string name="enable_web_history">Ieslēgt tīmekļa vēsturi</string>
+    <string name="learn_more"><annotation id="learn_more">Uzziniet vairāk.</annotation></string>
+    <string name="account_creation_tos">Turpinot jūs piekrītat Google <annotation id="tos">pakalpojumu sniegšanas noteikumiem</annotation>, <annotation id="google_privacy">konfidencialitātes politikai</annotation> un <annotation id="play_tos">Google Play pakalpojumu sniegšanas noteikumiem</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Pierakstoties jūs piekrītat Google <annotation id="tos">pakalpojumu sniegšanas noteikumiem</annotation> un <annotation id="google_privacy">konfidencialitātes politikai</annotation>, Chrome <annotation id="chrome_tos">pakalpojumu sniegšanas noteikumiem</annotation> un <annotation id="chrome_privacy">konfidencialitātes paziņojumam</annotation>, kā arī Google Play <annotation id="play_tos">pakalpojumu sniegšanas noteikumiem</annotation>.</string>
+    <string name="gender_prompt">Dzimums</string>
+    <string name="gender_hint">Dzimums</string>
+    <string name="account_pre_intro_title">Vai izmantojat pakalpojumu Google?</string>
+    <string name="account_pre_intro_default_message">"Vai jums ir Google konts?
+
+Ja izmantojat pakalpojumu Gmail vai Google Apps, atbildiet ar “Jā”."</string>
+    <string name="account_pre_intro_yes">Jā</string>
+    <string name="account_pre_intro_no">Nē</string>
+    <string name="account_intro_title">Google konts</string>
+    <string name="account_intro_required_title">Darbību nodrošina Google</string>
+    <string name="account_intro_recommended_title">Google konta iestatīšana</string>
+    <string name="account_intro_default_message">Nekad vairs nezaudējiet savus objektus. Google kontā viss tiek saglabāts.</string>
+    <string name="account_intro_simple_message">Vai vēlaties pievienot esošu kontu vai izveidot jaunu?</string>
+    <string name="account_intro_learn_more">Uzzināt vairāk</string>
+    <string name="learn_more_title">Uzziniet vairāk</string>
+    <string name="learn_more_account_intro">"Izmantojot Google kontu, varat:
+
+"<li><ul>skatīt un kārtot visu savu informāciju, tostarp meklēšanas vēsturi, atrodoties jebkurā vietā pasaulē;</ul></li>"
+
+"<li><ul>automātiski dublēt datus, piemēram, e-pasta ziņojumus, kontaktpersonas, mūziku un attēlus;</ul></li>"
+
+"<li><ul>ērti izmantot Google pakalpojumus, piemēram, Kontaktpersonas, Kalendāru, Maps un citus pakalpojumus, atrodoties jebkurā vietā pasaulē.</ul></li></string>
+    <string name="learn_more_account_intro_title">Par Google kontiem</string>
+    <string name="learn_more_bad_name">Pakalpojumā Google+ jums ir jāizmanto savs īstais vārds. Jūsu profilam ir jāpārstāv viena persona, nevis uzņēmums, organizācija vai ģimene, un tajā ir jābūt iekļautam jūsu vārdam un uzvārdam vienā valodā bez profesiju nosaukumiem vai nevajadzīgām pieturzīmēm. Pēc reģistrēšanās sava profila laukā Citi vārdi varat pievienot segvārdus vai citus nosaukumus, ar kuriem esat saistīts.</string>
+    <string name="learn_more_bad_name_title">Par vārdu politiku</string>
+    <string name="wait_for_device_country_title">Konta iestatīšana</string>
+    <string name="wait_for_device_country_msg">Notiek informācijas apkopošana par jūsu tālruni. Šis process var ilgt līdz 30 sekundēm.</string>
+    <string name="recovery_title">Google paroles atkopšana</string>
+    <string name="recovery_wait_title">Sazināšanās ar Google...</string>
+    <string name="cannot_talk_to_server_msg">Ierīce nevarēja izveidot savienojumu ar Google serveri.</string>
+    <string name="recovery_skip_label">Izlaist</string>
+    <string name="recovery_retry_label">Mēģināt vēlreiz</string>
+    <string name="recovery_message_set">"Ja kādreiz aizmirsīsiet savu paroli, vēlēsieties to atgūt.
+
+Google nodrošina paroles atgūšanas iespējas, izmantojot īsziņu vai alternatīvo e-pasta adresi.
+
+Ļoti ieteicams veikt šo darbību. "<annotation id="help_url">Uzziniet vairāk</annotation>.</string>
+    <string name="recovery_message_verify">"Paroles var viegli aizmirst.
+
+Apstipriniet savu tālruņa numuru vai rezerves e-pasta adresi tūlīt. Tādējādi nepieciešamības gadījumā varēsiet atgūt piekļuvi savam Google un Google Play saturam. "<annotation id="help_url">Uzziniet vairāk</annotation>.</string>
+    <string name="recovery_yes_button_label">Iestatīt atkopšanas opcijas</string>
+    <string name="recovery_yes_button_label_verify">Apstiprināt atkopšanas opcijas</string>
+    <string name="recovery_later_button_label">Vēlāk</string>
+    <string name="recovery_input_screen_message">Šī atkopšanas informācija attiecas uz lietojumprogrammu %s.</string>
+    <string name="secondary_email_hint">Rezerves e-pasta adrese</string>
+    <string name="secondary_email_invalid">Nederīga e-pasta adrese</string>
+    <string name="secondary_email_same_as_primary">Jāatšķiras no pr. e-pasta adr.</string>
+    <string name="phone_number_hint">Tālruņa numurs</string>
+    <string name="phone_number_invalid_character">Tālruņa numurā ir nederīgas rakstzīmes.</string>
+    <string name="phone_number_invalid">Tālruņa numurs nav derīgs.</string>
+    <string name="country_invalid">Šī valsts nav atļauta.</string>
+    <string name="recovery_server_error">Sazinoties ar serveri, radās kļūda. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
+    <string name="account_recovery_info">Ja aizmirsīsiet savu paroli, varēsiet atbildēt uz drošības jautājumu un atiestatīšanas saite tiks nosūtīta uz citu e-pasta adresi.</string>
+    <string name="secondary_email_label">Atkopšanas e-pasta adrese</string>
+    <string name="invalid_email">"Ierakstītā e-pasta adrese nav derīga.
+Piemērs: janis@example.com."</string>
+    <string name="invalid_email_primary">Atkopšanas adrese nevar būt tāda pati kā tā, kuru izveidojat.</string>
+    <string name="backup_consent_message">"Izmantojiet Google kontu, lai dublētu lietotnes, iestatījumus (piemēram, grāmatzīmes un Wi-Fi paroles) un citus datus. Ja iepriekš esat izveidojis konta dublējumu, tagad varat to atjaunot šajā tālrunī.
+
+Dublēšanas iestatījumus jebkurā laikā varat mainīt sadaļā Iestatījumi."</string>
+    <string name="backup_consent_message_no_restore">"Izmantojiet Google kontu, lai dublētu lietotnes, iestatījumus (piemēram, grāmatzīmes un Wi-Fi paroles) un citus datus.
+
+Dublēšanas iestatījumus jebkurā laikā varat mainīt sadaļā Iestatījumi."</string>
+    <string name="restoring_title">Notiek atjaunošana...</string>
+    <string name="restoring_message">Notiek tālruņa saziņa ar Google serveriem, lai atjaunotu jūsu kontu. Process var ilgt kādu brīdi.</string>
+    <string name="gls_notification_login_error">Pieskarieties, lai pierakstītos kontā.</string>
+    <string name="gls_ui_add_account_title">Konta iestatīšana</string>
+    <string name="gls_ui_activity_title">Pierakstīties</string>
+    <string name="gls_ui_activity_title_browser_signin">Pierakstīties</string>
+    <string name="gls_ui_activity_title_checking_in">Notiek sagatavošana...</string>
+    <string name="gls_ui_activity_authenticating">Notiek autentificēšana...</string>
+    <string name="gls_dmagent_activity_activate_message">" Jūsu domēnam ir nepieciešama mobilās ierīces pārvaldība. Aktivizējiet lietotni Google Apps ierīces politika, lai ieviestu drošības politikas, kas nepieciešamas kontam  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_activate_retry_button">Aktivizēt</string>
+    <string name="gls_dmagent_activity_download_message">" Jūsu domēnam ir nepieciešama mobilās ierīces pārvaldība. Instalējiet lietotni Google Apps ierīces politika, lai ieviestu drošības politikas, kas nepieciešamas kontam  "<b>^1</b> .</string>
+    <string name="gls_dmagent_activity_download_retry_button">Lejupielādēt</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">Jūs ievadījāt nepareizu paroli, vai arī jūsu konts ir mainījies. Ievadiet paroli atkārtoti.</string>
+    <string name="permlab_googleAuthPassword">piekļūt Google kontu parolēm</string>
+    <string name="permdesc_googleAuthPassword">Ļauj lietotnēm tieši piekļūt iestatītā(-o) Google konta(-u) parolei(-ēm).</string>
+    <string name="permlab_googleMailSwitch">atlasīt Gmail vai Google Mail zīmolradi</string>
+    <string name="permdesc_googleMailSwitch">Ļauj lietotnēm attēloto nosaukumu pārslēgt no zīmola Gmail uz zīmolu Google Mail un otrādi.</string>
+    <string name="sync_item_title">Sinhronizācija: %s</string>
+    <string name="grant_credentials_permission_message_footer">Tiek pieprasīta šāda atļauja:</string>
+    <string name="grant_credentials_permission_message_app">Turpmāk šīm lietotnēm būs nepieciešama piekļuve jūsu Google kontam:</string>
+    <string name="grant_permissions_header_text">Atļaujas pieprasījums</string>
+    <string name="allow">Piekļuves sniegšana</string>
+    <string name="deny">Nē, paldies</string>
+    <string name="permission_request_notification_with_subtitle">"Atļauja kontam %s
+ir pieprasīta."</string>
+    <string name="notification_title">Pierakstīšanās kļūda kontā %1$s</string>
+    <string name="account_setup_title">Google konts</string>
+    <string name="login_activity_title">Pierakstīšanās</string>
+    <string name="relogin_activity_title">Atkārtota paroles ierakstīšana</string>
+    <string name="show_error_activity_title">Nevarēja pierakstīties</string>
+    <string name="login_activity_task_title">Notiek pierakstīšanās...</string>
+    <string name="login_activity_task_msg">Tas var ilgt dažas minūtes.</string>
+    <string name="prepare_account_setup_task_title">Notiek sagatavošanās konta izveidei…</string>
+    <string name="prepare_account_setup_task_msg">Tas var ilgt dažas minūtes.</string>
+    <string name="sync_intro_activity_title">Konta sinhronizēšana</string>
+    <string name="username">E-pasts</string>
+    <string name="error_invalid_second_factor">Izmantojiet lietotnes paroli, nevis parasto konta paroli.</string>
+    <string name="error_needs_browser">Lai piekļūtu kontam, jums ir jāpierakstās tīmeklī. Pieskarieties opcijai Tālāk, lai pierakstītos pārlūkprogrammā.</string>
+    <string name="google_play_opt_in">Informējiet mani par Google Play jaunumiem un piedāvājumiem.</string>
+    <string name="google_settings_header_title">Konfidencialitāte</string>
+    <string name="maps_settings_title">Maps un Latitude</string>
+    <string name="location_settings_title">Atrašanās vieta</string>
+    <string name="search_settings_title">Meklēšana</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">Reklāmas</string>
+    <string name="location_network_based">Google atrašanās vietas pak.</string>
+    <string name="location_neighborhood_level">Ļaut nosūt. Google serv. anon. datus par vietu. Ļaut liet. izm. datus no Wi-Fi un mob. tīkliem, lai noteiktu aptuv. vietu.</string>
+    <string name="use_location_title">Atraš. vieta un Google meklēš.</string>
+    <string name="use_location_summary">Atļaut Google izmantot vietas datus, lai uzlabotu meklēšanas rezultātus un citus pakalpojumus</string>
+    <string name="backup_consent_yes_agree">Izmantojiet savu Google kontu, lai dublētu lietotnes, iestatījumus (piemēram, grāmatzīmes un Wi-Fi paroles) un citus datus.</string>
+    <string name="restore_consent_yes_agree">Pārvietojiet uz šo tālruni lietotnes, iestatījumus un citus datus, kurus iepriekš dublējāt savā Google kontā.</string>
+    <string name="audit_logging_summary">Automātiski sūtiet Google serveriem ierīces notikumu informāciju un diagnostikas datus, lai palīdzētu uzlabot mūsu produktus un aizsargāt ierīci.</string>
+    <string name="no_back_msg">Nevar atgriezties pie iepriekšējās darbības.</string>
+    <string name="setup_wizard_title">Iestatīšanas vednis</string>
+    <string name="setup_wizard_services_activity_title">Google pakalpojumi</string>
+    <string name="setup_wizard_services_description">Šie ir Google nodrošināti pakalpojumi, un jūs tos varat ieslēgt vai izslēgt jebkurā laikā. Dati tiks izmantoti saskaņā ar Google <annotation id="google_privacy">konfidencialitātes politiku</annotation>.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Dublēšana un atjaunošana</string>
+    <string name="setup_wizard_services_location_heading">Atrašanās vieta</string>
+    <string name="setup_wizard_services_communication_heading">Saziņa</string>
+    <string name="setup_wizard_services_backup"><b>Dublējiet sava tālruņa lietotnes, lietotņu datus, iestatījumus, personīgās vārdnīcas un Wi‑Fi paroles</b>, izmantojot savu Google kontu, lai vēlāk varētu vienkārši atjaunot savu informāciju. <annotation id="backup_details">Uzziniet vairāk</annotation>.</string>
+    <string name="setup_wizard_services_backup_restore"><b>Dublējiet savas lietotnes, lietotņu datus, iestatījumus, personīgās vārdnīcas un Wi‑Fi paroles</b>, izmantojot savu Google kontu, lai vēlāk varētu vienkārši atjaunot savu informāciju.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Dati ietver lietotnes, lietotņu iestatījumus, sistēmas iestatījumus un Wi‑Fi paroles.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Ieslēdzot automātisko dublēšanu, ierīces dati tiek periodiski saglabāti jūsu Google kontā. Varat dublēt lietotnes datu mapēs ietverto informāciju, piemēram, preferences, iestatījumus, ziņojumus, fotoattēlus un citus failus.</string>
+    <string name="setup_wizard_services_location_sharing">Lai lietotnes varētu noteikt atrašanās vietu, <b>izmantojiet Google atrašanās vietas pakalpojumu</b>. Tas nozīmē, ka uzņēmumam Google tiks sūtīti anonīmi dati par atrašanās vietu pat tad, ja nedarbosies neviena lietotne. <annotation id="location_details">Uzziniet vairāk</annotation>.</string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google atrašanās vietas pakalpojums izmanto tādus avotus kā Wi‑Fi un mobilo sakaru tīkli, lai palīdzētu ātrāk un precīzāk noteikt jūsu ierīces atrašanās vietu. Ieslēdzot Google atrašanās vietas pakalpojumus, jūsu ierīcē sāk darboties režīms, kurš izmanto Wi‑Fi un mobilo sakaru tīklus, lai sniegtu informāciju par atrašanās vietu. Šo funkciju varat izslēgt atrašanās vietas iestatījumos — izvēloties režīmu, kas izmanto tikai GPS sistēmu (dažkārt tas tiek saukts par režīmu Tikai ierīcē).</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Palīdziet uzlabot atrašanās vietas pakalpojumus</b>, ļaujot lietotnēm un pakalpojumiem meklēt Wi‑Fi tīklus pat tad, ja Wi‑Fi savienojums ir izslēgts.</string>
+    <string name="setup_wizard_services_location_footnote">Google atrašanās vietas noteikšanas pakalpojumam tiek izmantoti Wi‑Fi un citi signāli, lai precīzāk un ātrāk noteiktu atrašanās vietu. Bieži vien šie signāli patērē mazāk ierīces enerģijas nekā GPS signāli. Jūsu ierīcē var tikt glabāta noteikta daļa datu. Dati var tikt apkopoti pat tad, ja netiek izmantota neviena lietotne.</string>
+    <string name="setup_wizard_services_play"><b>Informēt mani</b> par Google Play jaunumiem un piedāvājumiem.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Uzlabojiet Android lietošanas pieredzi</b>, automātiski nosūtot diagnostikas un lietojuma datus uzņēmumam Google. Šī informācija netiks izmantota jūsu identificēšanai, taču noderēs komandām, kuras atbild, piemēram, par akumulatora darbības laiku, lietotnes veiktspēju un jaunajām Google funkcijām. <annotation id="usage_reporting_details">Uzziniet vairāk</annotation>.</string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Šī ir vispārēja informācija par jūsu ierīci un tās lietošanu, piemēram, akumulatora jauda līmenis, lietotņu izmantošanas biežums, tīkla savienojumu (piemēram, Wi‑Fi un Bluetooth) kvalitāte un ilgums un avāriju pārskati, kad ierīcē radušies traucējumi. Šī informācija tiks izmantota, lai uzlabotu ikviena pieredzi darbā ar Google produktiem un pakalpojumiem, un tā netiks saistīta ar jūsu Google kontu. Daļa no apkopotās informācijas palīdzēs veidot labākas lietotnes un produktus arī partneriem, piemēram, Android izstrādātājiem.
+
+Šo funkciju varat ieslēgt vai izslēgt jebkurā laikā Google iestatījumu lietotnē. Tas neietekmēs jūsu ierīces spēju nosūtīt informāciju, kas nepieciešama, lai saņemtu vajadzīgos pakalpojumus, piemēram, sistēmas atjauninājumus un drošību."</string>
+    <string name="setup_wizard_services_agreement">Šajā tālrunī var arī tikt saņemti un instalēti atjauninājumi un lietotnes no uzņēmuma Google, jūsu mobilo sakaru operatora un tālruņa ražotāja. Ja turpināsiet, varēsiet lejupielādēt un instalēt dažas lietotnes, kā arī varēsiet tās noņemt jebkurā laikā.</string>
+</resources>

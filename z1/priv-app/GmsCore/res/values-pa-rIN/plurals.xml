@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="appinvite_message_over_limit">
+        <item quantity="other">%1$d ਸੀਮਾ ਤੋਂ ਵੱਧ ਅੱਖਰ</item>
+        <item quantity="one">%1$d ਸੀਮਾ ਤੋਂ ਵੱਧ ਅੱਖਰ</item>
+    </plurals>
+    <plurals name="appinvite_message_within_limit">
+        <item quantity="other">%1$d ਅੱਖਰ ਬਾਕੀ</item>
+        <item quantity="one">%1$d ਅੱਖਰ ਬਾਕੀ</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google ਖਾਤੇ</item>
+        <item quantity="one">%d Google ਖਾਤੇ</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">ਇਹ ਡਿਵਾਈਸ ਤੁਹਾਡੇ Google ਖਾਤੇ ਅਤੇ ਇਸਦੇ ਡਾਟਾ ਨਾਲ ਇੱਕ ^1 ਸੈਟ ਅਪ ਕਰਨ ਲਈ ਵਰਤੀ ਗਈ ਸੀ</item>
+        <item quantity="one">ਇਹ ਡਿਵਾਈਸ ਤੁਹਾਡੇ Google ਖਾਤੇ ਅਤੇ ਇਸਦੇ ਡਾਟਾ ਨਾਲ ਇੱਕ ^1 ਸੈਟ ਅਪ ਕਰਨ ਲਈ ਵਰਤੀ ਗਈ ਸੀ</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_hour">
+        <item quantity="other">%d ਘੰਟੇ</item>
+        <item quantity="one">%d ਘੰਟੇ</item>
+    </plurals>
+    <plurals name="auth_trust_agent_inactivity_notification_minute">
+        <item quantity="other">%d ਮਿੰਟ</item>
+        <item quantity="one">%d ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="fm_invitations_text_retry_error">
+        <item quantity="other">ਇਹ ਸੱਦਿਆਂ ਨੂੰ ਗਲਤੀ ਕਰਕੇ ਨਹੀਂ ਭੇਜਿਆ ਗਿਆ</item>
+        <item quantity="one">ਇਹ ਸੱਦੇ ਨੂੰ ਗਲਤੀ ਕਰਕੇ ਨਹੀਂ ਭੇਜਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="fm_invitations_text_skip_failures">
+        <item quantity="other">ਇਹ ਸੱਦਿਆਂ ਨੂੰ ਹੁਣ ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ। ਤੁਸੀਂ ਉਹਨਾਂ ਨੂੰ Google Play > ਮੇਰਾ ਖਾਤਾ ਰਾਹੀਂ ਦੁਬਾਰਾ ਭੇਜ ਸਕਦੇ ਹੋ।</item>
+        <item quantity="one">ਇਹ ਸੱਦੇ ਨੂੰ ਹੁਣ ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ। ਤੁਸੀਂ ਇਸ ਨੂੰ Google Play > ਮੇਰਾ ਖਾਤਾ ਰਾਹੀਂ ਦੁਬਾਰਾ ਭੇਜ ਸਕਦੇ ਹੋ।</item>
+    </plurals>
+    <plurals name="fm_invite_button_secondary_text">
+        <item quantity="other">%d ਸੱਦੇ ਬਾਕੀ ਹਨ</item>
+        <item quantity="one">%d ਸੱਦਾ ਬਾਕੀ ਹੈ</item>
+    </plurals>
+    <plurals name="gh_chat_new_messages_notification">
+        <item quantity="other">%1$d ਨਵੇਂ ਸੁਨੇਹੇ</item>
+        <item quantity="one">%1$d ਨਵੇਂ ਸੁਨੇਹੇ</item>
+    </plurals>
+    <plurals name="gh_hangout_q_position">
+        <item quantity="other">%1$d ਲੋਕ ਤੁਹਾਡੇ ਅੱਗੇ ਹਨ</item>
+        <item quantity="one">%1$d ਲੋਕ ਤੁਹਾਡੇ ਅੱਗੇ ਹਨ</item>
+    </plurals>
+    <plurals name="nearby_notification_content">
+        <item quantity="other">%1$s ਅਤੇ %2$d ਹੋਰ ਐਪਸ ਵੱਲੋਂ</item>
+        <item quantity="one">%1$s ਅਤੇ %2$d ਹੋਰ ਐਪਸ ਵੱਲੋਂ</item>
+    </plurals>
+    <plurals name="profile_total_followers_count">
+        <item quantity="other">%1$,d ਫਾੱਲੋਅਰਸ</item>
+        <item quantity="one">%1$,d ਫਾੱਲੋਅਰ</item>
+    </plurals>
+    <plurals name="profile_total_views_count">
+        <item quantity="other">%1$,d ਦ੍ਰਿਸ਼</item>
+        <item quantity="one">%1$,d ਦ੍ਰਿਸ਼</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">ਤੁਹਾਡੇ Google ਖਾਤੇ ਅਤੇ ਡਾਟਾ ਕਾਪੀ ਕਰ ਰਿਹਾ ਹੈ…</item>
+        <item quantity="one">ਤੁਹਾਡੇ Google ਖਾਤੇ ਅਤੇ ਡਾਟਾ ਕਾਪੀ ਕਰ ਰਿਹਾ ਹੈ…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">ਇਹ ਡਿਵਾਈਸ ਤੁਹਾਡੇ Google ਖਾਤੇ ਅਤੇ ਡਾਟਾ ਨਾਲ ਇੱਕ ^1 ਸੈਟ ਅਪ ਕਰਨ ਲਈ ਵਰਤੀ ਗਈ ਸੀ</item>
+        <item quantity="one">ਇਹ ਡਿਵਾਈਸ ਤੁਹਾਡੇ Google ਖਾਤੇ ਅਤੇ ਡਾਟਾ ਨਾਲ ਇੱਕ ^1 ਸੈਟ ਅਪ ਕਰਨ ਲਈ ਵਰਤੀ ਗਈ ਸੀ</item>
+    </plurals>
+</resources>

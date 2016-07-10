@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="@string/phonecity_show_city_on" android:key="pref_show_phonecity" />
+    <Preference android:title="@string/phonecity_custom" android:key="pref_custom_phonecity" />
+</PreferenceScreen>

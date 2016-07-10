@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" Le akhawunti ayikwazi ukusetshenziswa ngoba ishoda ngezinhlelo zokusebenza: ^1. Xhumana nomqondisi wesizinda nge-"&lt;b>^2&lt;/b>" noma ngena ngemvume usebenzisa enye i-akhawunti. "</item>
+        <item quantity="one">" Le akhawunti ayikwazi ukusetshenziswa ngoba ishoda ngezinhlelo zokusebenza: ^1. Xhumana nomqondisi wesizinda nge-"&lt;b>^2&lt;/b>" noma ngena ngemvume usebenzisa enye i-akhawunti. "</item>
+    </plurals>
+</resources>

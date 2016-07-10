@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="UdcTextAppearance" parent="@android:style/TextAppearance.Holo">
+        <item name="android:textSize">@dimen/udc_text_size_body</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColorLink">@color/udc_g_blue_600</item>
+    </style>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <include latin:keyboardLayout="@xml/key_styles_common" />
+    <Row>
+        <switch>
+            <case latin:isSplitLayout="true">
+                <include latin:keyWidth="7.0000052%p" latin:keyboardLayout="@xml/rowkeys_qwerty1_left5" />
+                <Spacer latin:keyWidth="20.000004%p" />
+                <include latin:keyWidth="7.0000052%p" latin:keyboardLayout="@xml/rowkeys_qwerty1_right5" />
+                <Key latin:keyStyle="deleteKeyStyle" latin:keyWidth="10.000002%p" />
+            </case>
+            <default>
+                <include latin:keyWidth="9.000004%p" latin:keyboardLayout="@xml/rowkeys_qwerty1" />
+                <Key latin:keyStyle="deleteKeyStyle" latin:keyWidth="fillRight" />
+            </default>
+        </switch>
+    </Row>
+    <Row>
+        <switch>
+            <case latin:isSplitLayout="true">
+                <include latin:keyWidth="7.0000052%p" latin:keyXPos="3.9999962%p" latin:keyboardLayout="@xml/rowkeys_qwerty2_left5" />
+                <Spacer latin:keyWidth="23.000002%p" />
+                <include latin:keyWidth="7.0000052%p" latin:keyboardLayout="@xml/rowkeys_qwerty2_right4" />
+                <Key latin:keyStyle="enterKeyStyle" latin:keyWidth="10.000002%p" />
+            </case>
+            <default>
+                <include latin:keyWidth="9.000004%p" latin:keyXPos="4.4999957%p" latin:keyboardLayout="@xml/rowkeys_qwerty2" />
+                <Key latin:keyStyle="enterKeyStyle" latin:keyWidth="fillRight" />
+            </default>
+        </switch>
+    </Row>
+    <Row>
+        <switch>
+            <case latin:isSplitLayout="true">
+                <Key latin:keyStyle="shiftKeyStyle" latin:keyWidth="10.000002%p" />
+                <include latin:keyWidth="7.0000052%p" latin:keyboardLayout="@xml/rowkeys_qwerty3_left4" />
+                <Spacer latin:keyWidth="16.999996%p" />
+                <include latin:keyWidth="7.0000052%p" latin:keyboardLayout="@xml/rowkeys_qwerty3_right3" />
+                <include latin:keyWidth="7.0000052%p" latin:keyboardLayout="@xml/keys_exclamation_question" />
+                <Key latin:keyStyle="shiftKeyStyle" latin:keyWidth="10.000002%p" />
+            </case>
+            <default>
+                <Key latin:keyStyle="shiftKeyStyle" latin:keyWidth="10.000002%p" />
+                <include latin:keyWidth="9.000004%p" latin:keyboardLayout="@xml/rowkeys_qwerty3" />
+                <include latin:keyWidth="9.000004%p" latin:keyboardLayout="@xml/keys_exclamation_question" />
+                <Key latin:keyStyle="shiftKeyStyle" latin:keyWidth="fillRight" />
+            </default>
+        </switch>
+    </Row>
+    <include latin:keyboardLayout="@xml/row_qwerty4" />
+</merge>

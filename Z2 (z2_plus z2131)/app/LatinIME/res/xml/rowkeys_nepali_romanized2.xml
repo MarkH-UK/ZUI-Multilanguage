@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <switch>
+        <case latin:keyboardLayoutSetElement="alphabetManualShifted|alphabetShiftLocked|alphabetShiftLockShifted">
+            <Key latin:keySpec="आ" />
+            <Key latin:keySpec="श" />
+            <Key latin:keySpec="ध" />
+            <Key latin:keySpec="ऊ" />
+            <Key latin:keySpec="घ" />
+            <Key latin:keySpec="अ" />
+            <Key latin:keySpec="झ" />
+            <Key latin:keySpec="ख" />
+            <Key latin:keySpec="॥" />
+            <Key latin:keySpec="ऐ" />
+            <include latin:keyboardLayout="@xml/keystyle_devanagari_sign_visarga" />
+            <Key latin:keyStyle="baseKeyDevanagariSignVisarga" />
+        </case>
+        <default>
+            <include latin:keyboardLayout="@xml/keystyle_devanagari_vowel_sign_aa" />
+            <Key latin:keyStyle="baseKeyDevanagariVowelSignAa" />
+            <Key latin:keySpec="स" />
+            <Key latin:keySpec="द" />
+            <Key latin:keySpec="उ" />
+            <Key latin:keySpec="ग" />
+            <Key latin:keySpec="ह" />
+            <Key latin:keySpec="ज" />
+            <Key latin:keySpec="क" />
+            <Key latin:keySpec="ल" />
+            <Key latin:keySpec="ए" />
+            <Key latin:keySpec="ॐ" />
+        </default>
+    </switch>
+</merge>

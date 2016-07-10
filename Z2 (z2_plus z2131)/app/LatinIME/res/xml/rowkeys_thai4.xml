@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
+    <switch>
+        <case latin:keyboardLayoutSetElement="alphabetManualShifted|alphabetShiftLocked|alphabetShiftLockShifted">
+            <Key latin:keySpec="(" latin:keyLabelFlags="fontDefault" />
+            <Key latin:keySpec=")" latin:keyLabelFlags="fontDefault" />
+            <Key latin:keySpec="ฉ" />
+            <Key latin:keySpec="ฮ" />
+            <Key latin:keySpec=" ฺ|ฺ" latin:keyLabelFlags="followKeyLetterRatio" />
+            <Key latin:keySpec=" ์|์" latin:keyLabelFlags="followKeyLetterRatio" />
+            <Key latin:keySpec="\?" latin:keyLabelFlags="fontDefault" />
+            <Key latin:keySpec="ฒ" />
+            <Key latin:keySpec="ฬ" />
+            <Key latin:keySpec="ฦ" />
+        </case>
+        <default>
+            <Key latin:keySpec="ผ" />
+            <Key latin:keySpec="ป" />
+            <Key latin:keySpec="แ" />
+            <Key latin:keySpec="อ" />
+            <Key latin:keySpec=" ิ|ิ" latin:keyLabelFlags="followKeyLetterRatio" />
+            <Key latin:keySpec=" ื|ื" latin:keyLabelFlags="followKeyLetterRatio" />
+            <Key latin:keySpec="ท" />
+            <Key latin:keySpec="ม" />
+            <Key latin:keySpec="ใ" />
+            <Key latin:keySpec="ฝ" />
+        </default>
+    </switch>
+</merge>

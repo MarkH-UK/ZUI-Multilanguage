@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play సేవల లోపం</string>
+    <string name="common_google_play_services_notification_needs_installation_title">ఒక అనువర్తనానికి Google Play సేవల యొక్క ఇన్‌స్టాలేషన్ అవసరం.</string>
+    <string name="common_google_play_services_notification_needs_update_title">ఒక అనువర్తనానికి Google Play సేవలు నవీకరించబడటం అవసరం.</string>
+    <string name="common_android_wear_notification_needs_update_text">ఒక అనువర్తనానికి Android Wear అనువర్తనాన్ని నవీకరించడం అవసరం.</string>
+    <string name="common_google_play_services_needs_enabling_title">ఒక అనువర్తనానికి Google Play సేవలు ప్రారంభించబడాలి.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s ద్వారా అభ్యర్థించబడింది</string>
+    <string name="common_google_play_services_install_title">Google Play సేవలను పొందండి</string>
+    <string name="common_google_play_services_install_text_phone">ఈ అనువర్తనం Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు మీ ఫోన్‌లో లేవు.</string>
+    <string name="common_google_play_services_install_text_tablet">ఈ అనువర్తనం Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు మీ టాబ్లెట్‌లో లేవు.</string>
+    <string name="common_google_play_services_install_button">Google Play సేవలను పొందండి</string>
+    <string name="common_google_play_services_enable_title">Google Play సేవలను ప్రారంభించు</string>
+    <string name="common_google_play_services_enable_text">మీరు Google Play సేవలను ప్రారంభిస్తే మినహా ఈ అనువర్తనం పని చేయదు.</string>
+    <string name="common_google_play_services_enable_button">Google Play సేవలను ప్రారంభించు</string>
+    <string name="common_google_play_services_update_title">Google Play సేవలను నవీకరించండి</string>
+    <string name="common_android_wear_update_title">Android Wearని నవీకరించండి</string>
+    <string name="common_google_play_services_update_text">మీరు Google Play సేవలను నవీకరిస్తే మినహా ఈ అనువర్తనం అమలు కాదు.</string>
+    <string name="common_android_wear_update_text">మీరు Android Wear అనువర్తనాన్ని నవీకరించకపోతే ఈ అనువర్తనం అమలు కాదు.</string>
+    <string name="common_google_play_services_network_error_title">నెట్‌వర్క్ లోపం</string>
+    <string name="common_google_play_services_network_error_text">Google Play సేవలకు కనెక్ట్ చేయడానికి డేటా కనెక్షన్ అవసరం.</string>
+    <string name="common_google_play_services_invalid_account_title">చెల్లని ఖాతా</string>
+    <string name="common_google_play_services_invalid_account_text">పేర్కొన్న ఖాతా ఈ పరికరంలో లేదు. దయచేసి వేరొక ఖాతాను ఎంచుకోండి.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play సేవలతో తెలియని సమస్య.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play సేవలు</string>
+    <string name="common_google_play_services_unsupported_text">మీ అనువర్తనాల్లో కొన్ని ఆధారపడే Google Play సేవలకు మీ పరికరంలో మద్దతు లేదు. దయచేసి సహాయం కోసం తయారీదారును సంప్రదించండి.</string>
+    <string name="common_google_play_services_update_button">నవీకరించు</string>
+    <string name="common_signin_button_text">సైన్ ఇన్ చేయి</string>
+    <string name="common_signin_button_text_long">Googleతో సైన్ ఇన్ చేయి</string>
+    <string name="common_open_on_phone">ఫోన్‌లో తెరవండి</string>
+    <string name="setup_wizard_next_button_label">తదుపరి</string>
+    <string name="setup_wizard_back_button_label">వెనుకకు</string>
+    <string name="default_device_name">Android</string>
+    <string name="skip_button_label">దాటవేయి</string>
+    <string name="down_button_label">మరింత</string>
+    <string name="cancel_button_label">రద్దు చేయి</string>
+    <string name="try_again_button_label">మళ్లీ ప్రయత్నించు</string>
+    <string name="close_button_label">మూసివేయి</string>
+    <string name="url_load_unsuccessful_message">మీ Android పరికరం డేటా సేవకు కనెక్ట్ చేయబడలేదు. ఈ సమాచారాన్ని ఇప్పుడే వీక్షించడానికి, వెబ్ బ్రౌజర్‌లో %sను సందర్శించండి.</string>
+    <string name="sign_in_agreement">మీరు సైన్ ఇన్ చేయడం ద్వారా Google <annotation id="tos">సేవా నిబంధనలు</annotation>, <annotation id="google_privacy">గోప్యతా విధానం</annotation> మరియు <annotation id="play_tos">Google Play సేవా నిబంధనల</annotation>కు అంగీకరిస్తున్నారు.</string>
+    <string name="android_privacy_policy_title">అదనపు గోప్యతా విధానం</string>
+    <string name="google_terms_of_service_title">Google సేవా నిబంధనలు</string>
+    <string name="google_privacy_policy_title">Google గోప్యతా విధానం</string>
+    <string name="google_plus_privacy_policy_title">Google Plus గోప్యతా విధానం</string>
+    <string name="google_play_tos_title">Google Play సేవా నిబంధనలు</string>
+    <string name="chrome_tos_title">Chrome సేవా నిబంధనలు</string>
+    <string name="chrome_privacy_title">Chrome గోప్యతా నోటీసు</string>
+    <string name="url_load_unsuccessful_message_wifi_only">మీ Android పరికరం Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయబడలేదు. ఈ సమాచారాన్ని ఇప్పుడే వీక్షించడానికి, వెబ్ బ్రౌజర్‌తో %sని సందర్శించండి.</string>
+    <string name="services_activity_title">Google సేవలు</string>
+    <string name="services_backup_heading">బ్యాకప్ చేయండి</string>
+    <string name="services_location_heading">స్థానం</string>
+    <string name="services_security_heading">భద్రత</string>
+    <string name="services_personalization_heading">వ్యక్తిగతీకరణ</string>
+    <string name="services_communication_heading">కమ్యూనికేషన్</string>
+    <string name="security_verify_apps_summary">మీ పరికరం లేదా డేటా యొక్క భద్రతను ప్రభావితం చేసే సంభావ్య హానికరమైన ప్రవర్తనను గుర్తించడం కోసం అన్ని ఇన్‌స్టాల్ చేయబడిన అనువర్తనాలను తనిఖీ చేయడానికి Googleని అనుమతించండి.</string>
+    <string name="name_title">మీ పేరు</string>
+    <string name="name_text">మీ ఫోన్‌ను మరియు Google సేవలను వ్యక్తిగతీకరించడానికి మీ పేరు ఉపయోగించబడుతుంది.</string>
+    <string name="first_name">ఇంటి పేరు</string>
+    <string name="last_name">చివరి పేరు</string>
+    <string name="cant_be_blank">ఫీల్డ్ ఖాళీగా ఉండరాదు.</string>
+    <string name="sharedUserLabel">Google సేవలు</string>
+    <string name="app_label">Google ఖాతా నిర్వాహికి</string>
+    <string name="gls_label">Google</string>
+    <string name="sign_in_button_label">సైన్ ఇన్ చేయి</string>
+    <string name="create_button_label">ఖాతాను పొందండి</string>
+    <string name="not_now_button_label">ఇప్పుడు కాదు</string>
+    <string name="new_button_label">కొత్తది</string>
+    <string name="existing_button_label">ప్రస్తుతం ఉన్నది</string>
+    <string name="done">సరే</string>
+    <string name="edit_text_help">టైప్ చేయడం ప్రారంభించడానికి ఏదైనా వచన పెట్టెను తాకండి</string>
+    <string name="add_a_google_account">Google ఖాతాను జోడించండి</string>
+    <string name="captcha_title">CAPTCHAను నమోదు చేయాలి</string>
+    <string name="show_error_title">లోపం</string>
+    <string name="server_error">Google సర్వర్‌లతో కమ్యూనికేట్ చేయడంలో సమస్య ఏర్పడింది.</string>
+    <string name="server_error_help">తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="network_unreliable">సర్వర్‌కు విశ్వసనీయ కనెక్షన్‌ను ఏర్పాటు చేయడం సాధ్యపడలేదు.</string>
+    <string name="network_unreliable_help">ఇది తాత్కాలిక సమస్య కావచ్చు లేదా మీ Android పరికరం డేటా సేవలను కలిగి ఉండకపోవచ్చు. ఇది ఇలాగే కొనసాగితే, కస్టమర్ కేర్‌కు కాల్ చేయండి.</string>
+    <string name="network_unreliable_help_wifi_only">ఇది తాత్కాలిక సమస్య కావచ్చు. మళ్లీ ప్రయత్నించండి లేదా మరో Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయండి.</string>
+    <string name="invalid_login_character">అక్షరం చెల్లదు. 0-9, a-z, A-Z మరియు చుక్కలు మాత్రమే అనుమతించబడతాయి.</string>
+    <string name="invalid_password_character">పాస్‌వర్డ్ అక్షరం చెల్లదు.</string>
+    <string name="calendar">Google క్యాలెండర్</string>
+    <string name="talk">Google Talk</string>
+    <string name="email">Google Mail</string>
+    <string name="field_cant_be_blank">ఫీల్డ్ ఖాళీగా ఉండరాదు.</string>
+    <string name="plus_query_title">Google+కు అప్‌గ్రేడ్ చేయండి</string>
+    <string name="plus_query_text">Google+ వెబ్‌లో భాగస్వామ్యం చేయడాన్ని దాదాపు నిజ జీవిత భాగస్వామ్యం అంత ఉత్తమంగా మారుస్తుంది.</string>
+    <string name="circles_subtitle">మీకు ఆసక్తి గల అంశాల విభాగం</string>
+    <string name="circles_text">సన్నిహితంగా ఉండే స్నేహితులతో కనెక్ట్ అవ్వండి మరియు ఉమ్మడి ఆసక్తులను విశ్లేషించండి.</string>
+    <string name="uploads_subtitle">స్వయంచాలక ఫోటో బ్యాకప్</string>
+    <string name="uploads_text">ఉచిత మరియు ప్రైవేట్ నిల్వతో, ఫోటోలను మీరు తీసిన వెంటనే బ్యాకప్ చేయండి.</string>
+    <string name="huddle_subtitle">వాయిస్ కాలింగ్ &amp; సందేశం</string>
+    <string name="huddle_text">Hangoutsతో వచనం పంపండి, ఫోటోలు మరియు ఉచిత సమూహ వీడియో కాల్‌లను ఆస్వాదించండి.</string>
+    <string name="plus_declined_button_label">ఇప్పుడు కాదు</string>
+    <string name="plus_accepted_button_label">ప్రారంభించు</string>
+    <string name="plus_name_check_title">Google+ని సంప్రదిస్తోంది…</string>
+    <string name="plus_name_check_text">దీనికి కొన్ని నిమిషాలు పట్టవచ్చు.</string>
+    <string name="plus_faq_title">Google+కు స్వాగతం!</string>
+    <string name="plus_faq_text" formatted="false">"Google+లో, మీ స్నేహితులు మిమ్మల్ని ఆన్‌లైన్‌లో కనుగొనడంలో సహాయపడటానికి మీకు పబ్లిక్ ప్రొఫైల్ ఉంటుంది. మీ ఇమెయిల్ చిరునామా తెలిసిన ఎవరైనా మీ ప్రొఫైల్‌ను కనుగొనగలరు మరియు వీక్షించగలరు.
+
+మీరు ప్రపంచానికి విషయాలను సిఫార్సు చేయడానికి వెబ్ వ్యాప్తంగా +1 బటన్‌లను ఉపయోగించవచ్చు. మీ ప్రొఫైల్ మరియు +1లు శోధనలో, ప్రకటనల్లో మరియు వెబ్‌లో పబ్లిక్‌గా కనిపిస్తాయి.
+
+ప్రస్తుతానికి, మీ ప్రొఫైల్ మీ పేరుని మాత్రమే చూపుతుంది (%s %s). మీరు Google+ని ఉపయోగించడం ప్రారంభించేటప్పుడు ఫోటో, స్వీయచరిత్ర మరియు ఇతర వివరాలను జోడించవచ్చు."</string>
+    <string name="dasher_warning">Google+లో ఉన్న మీ మొత్తం డేటా %sలోని నిర్వాహకుని స్వంతం, అంతేకాక వారే దాన్ని నిర్వహిస్తారు మరియు మీ అనుమతి లేకుండానే ఏ సమయంలోనైనా మీ ప్రొఫైల్‌ను తొలగించగలరు లేదా సవరించగలరు.</string>
+    <string name="profile_info_title">మీ ప్రొఫైల్</string>
+    <string name="profile_text">మీ ప్రొఫైల్ కోసం కొంత ప్రాథమిక సమాచారాన్ని అందించండి. మీరు Google+ను ఉపయోగించడం ప్రారంభించేటప్పుడు ఫోటోను మరియు ఇతర వివరాలను జోడించవచ్చు.</string>
+    <string name="occupation">వృత్తి</string>
+    <string name="current_city">ప్రస్తుత నగరం</string>
+    <string name="picassa_info_title">Picasa మరియు Google+</string>
+    <string name="picassa_info_text" formatted="false">Picasa వెబ్ ఆల్బమ్‌ల్లోని మీ ఫోటోలు మరియు వీడియోలు Google+లో అందుబాటులో ఉంటాయి మరియు మీ వ్యాఖ్యలు %sకి బదులుగా %s %s ద్వారా సూచించబడతాయి. మీరు Google+లో ఫోటోలను భాగస్వామ్యం చేసినప్పుడు, స్వీకర్తలు వాటిని మరెవరితోనైనా పునఃభాగస్వామ్యం చేయవచ్చు. మీ ఆల్బమ్ యొక్క దృశ్యమానత సెట్టింగ్‌లు మార్చబడవు మరియు మీరు వాటిని ఎప్పుడైనా పరిమితం చేయవచ్చు అందువలన వాటిని స్వేచ్ఛగా పునఃభాగస్వామ్యం చేయడం సాధ్యపడదు.</string>
+    <string name="name_title_plus">మీ Google+ పేరు</string>
+    <string name="name_title_local">ఈ ఫోన్ వీరికి చెందినది…</string>
+    <string name="name_text_local">ఫోన్ కొన్ని అనువర్తనాలను వ్యక్తిగతీకరించడానికి మీ పేరుని ఉపయోగిస్తుంది.</string>
+    <string name="name_progress_title">ఒక క్షణం వేచి ఉండండి…</string>
+    <string name="bad_name_title">ఈ పేరుని ఉపయోగించాలా?</string>
+    <string name="invalid_name_title">ఈ పేరుని ఉపయోగించడం కుదరదు</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"మీరు దీన్ని మీ Google+ పేరుగా చేయాలనుకుంటే, మా బృందం దీన్ని సమీక్షించాలి. ఇది మా పేర్ల విధానాన్ని ఉల్లంఘిస్తే, మీ ప్రొఫైల్ తాత్కాలికంగా నిలిపివేయబడుతుంది. దీని వలన సక్రియ ప్రొఫైల్‌ అవసరమయ్యే Google ఉత్పత్తులను ఉపయోగించడానికి లేకుండా మీ సామర్థ్యం పరిమితం చేయబడుతుంది.
+
+"<annotation id="learn_more">మరింత తెలుసుకోండి</annotation></string>
+    <string name="invalid_name_text">ఈ పేరు చెల్లని అక్షరాలను కలిగి ఉన్నందున మీరు Google+లో దీన్ని ఉపయోగించలేరు.</string>
+    <string name="invalid_nickname_text">ఈ పేరు చెల్లని అక్షరాలను కలిగి ఉన్నందున మీరు Google+లో దీన్ని ఉపయోగించలేరు. మారుపేరు, మునుపటి పేరు లేదా శీర్షికను ఉపయోగించడానికి ప్రయత్నిస్తున్నారా? మీరు చేరిన తర్వాత వాటిని మీ ప్రొఫైల్‌కు జోడించవచ్చు.</string>
+    <string name="invalid_other_text">ఈ పేరుని Google+లో ఉపయోగించడం సాధ్యపడదు.</string>
+    <string name="bad_name_agree_text">నేను అర్థం చేసుకున్నాను, ఈ పేరుని ఉపయోగించాలనుకుంటున్నాను.</string>
+    <string name="bad_name_decline_button_label">పేరుని నవీకరించు</string>
+    <string name="bad_name_agree_button_label">సమీక్ష కోసం పేరుని సమర్పించు</string>
+    <string name="bad_name_skip_button_label">Google+ను దాటవేయి</string>
+    <string name="photo_title">మీ ఫోటో</string>
+    <string name="photo_text">ఈ ఫోటో మీ పరిచయ రికార్డ్‌లో ఉపయోగించబడుతుంది. మీరు వ్యక్తులు అనువర్తనం‌లో దీన్ని తర్వాత మార్చవచ్చు.</string>
+    <string name="photo_text_es">మీ స్నేహితులు Google+లో చూడటానికి ఫోటోను తీయండి. మీరు తర్వాత కొత్త చిత్రాన్ని ఎంచుకోవచ్చు.</string>
+    <string name="photo_button_label">ఫోటో తీయి</string>
+    <string name="retake_photo_button_label">ఫోటోను మళ్లీ తీయి</string>
+    <string name="photo_failure">కెమెరాను ప్రారంభించడం సాధ్యపడలేదు.</string>
+    <string name="crop_failure">ఫోటోను కత్తిరించడం సాధ్యపడలేదు.</string>
+    <string name="photo_description">మీ ఫోటో</string>
+    <string name="communicating_message">మీ ఖాతాకు సమాచారాన్ని సేవ్ చేయడానికి మీ ఫోన్ Googleని సంప్రదిస్తోంది. దీనికి గరిష్టంగా 5 నిమిషాలు పట్టవచ్చు.</string>
+    <string name="creating_account_title">ఖాతాను సేవ్ చేస్తోంది…</string>
+    <string name="checking_username_message">"మీకు కావలసిన వినియోగదారు పేరు అందుబాటులో ఉందో లేదో చూడటానికి మీ ఫోన్ Googleని సంప్రదిస్తోంది.
+
+దీనికి రెండు నిమిషాలు పట్టవచ్చు."</string>
+    <string name="plus_failure_title">తర్వాత Google+లో చేరండి</string>
+    <string name="plus_failure_new_account_text">మీ Google ఖాతా రూపొందించబడింది, కానీ Google+లో చేరాలని మీరు చేసిన అభ్యర్థన సఫలం కాలేదు. ఏదైనా వెబ్ బ్రౌజర్ నుండి plus.google.comలో తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="plus_failure_text">Google+లో చేరాలని మీరు చేసిన అభ్యర్థన సఫలం కాలేదు. ఏదైనా వెబ్ బ్రౌజర్ నుండి plus.google.comలో తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="provisioned_login_title">పాస్‌వర్డ్‌ను నమోదు చేయండి.</string>
+    <string name="provisioned_welcome">హాయ్, %s!</string>
+    <string name="provisioned_welcome_2">"దీని కోసం మీ పాస్‌వర్డ్‌ను నమోదు చేయండి:
+%s"</string>
+    <string name="provisioned_incorrect_login">%s కాదా?</string>
+    <string name="login_title">ఇమెయిల్ మరియు పాస్‌వర్డ్‌ను టైప్ చేయండి</string>
+    <string name="login_task_title">సైన్ ఇన్ చేస్తోంది</string>
+    <string name="password">పాస్‌వర్డ్</string>
+    <string name="restore_wifi">తెలిసిన Wi‑Fi నెట్‌వర్క్‌ను పునరుద్ధరించి, దానికి కనెక్ట్ చేయి.</string>
+    <string name="sign_in_agreement_multi_user">మీరు సైన్ ఇన్ చేయడం ద్వారా Google <annotation id="tos">సేవా నిబంధనలు</annotation>, <annotation id="google_privacy">గోప్యతా విధానం</annotation> మరియు <annotation id="play_tos">Google Play సేవా నిబంధనల</annotation>"కు అంగీకరిస్తున్నారు. 
+
+గుర్తుంచుకోండి: మరే ఇతర వినియోగదారు అయినా మీ తరపున నవీకరించబడిన అనువర్తనం అనుమతులను ఆమోదించవచ్చు. కనుక మీరు కంప్యూటర్‌ను ఎలాగైతే మీరు విశ్వసించే వ్యక్తులతో మాత్రమే భాగస్వామ్యం చేస్తారో అదే విధంగా ఈ టాబ్లెట్ విషయంలో సైతం అనుసరించండి."</string>
+    <string name="sign_in_agreement_with_chrome">మీరు సైన్ ఇన్ చేయడం ద్వారా Google <annotation id="tos">సేవా నిబంధనలు</annotation> మరియు <annotation id="google_privacy">గోప్యతా విధానం</annotation>, Chrome <annotation id="chrome_tos">సేవా నిబంధనలు</annotation> మరియు <annotation id="chrome_privacy">గోప్యతా నోటీసు</annotation> మరియు Google Play <annotation id="play_tos">సేవా నిబంధనల</annotation>కు అంగీకరిస్తున్నారు.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">మీరు సైన్ ఇన్ చేయడం ద్వారా Google <annotation id="tos">సేవా నిబంధనలు</annotation> మరియు <annotation id="google_privacy">గోప్యతా విధానం</annotation>, Chrome <annotation id="chrome_tos">సేవా నిబంధనలు</annotation> మరియు <annotation id="chrome_privacy">గోప్యతా నోటీసు</annotation> మరియు Google Play <annotation id="play_tos">సేవా నిబంధనల</annotation>"కు అంగీకరిస్తున్నారు. 
+
+గుర్తుంచుకోండి: మరే ఇతర వినియోగదారు అయినా మీ తరపున నవీకరించబడిన అనువర్తనం అనుమతులను అంగీకరించవచ్చు. కనుక మీరు కంప్యూటర్‌ను ఎలాగైతే మీరు విశ్వసించే వ్యక్తులతో మాత్రమే భాగస్వామ్యం చేస్తారో అదే విధంగా ఈ టాబ్లెట్ విషయంలో సైతం అనుసరించండి."</string>
+    <string name="create_prompt">" Google ఖాతాను కలిగి లేరా? "<annotation id="create_account">ఇప్పుడే ఖాతాను సృష్టించండి</annotation> .</string>
+    <string name="sign_in_with_google_account_short">మీ Google ఖాతాతో సైన్ ఇన్ చేయండి:</string>
+    <string name="invalid_username">మీరు టైప్ చేసిన వచనం చెల్లుబాటు అయ్యే వినియోగదారు పేరు కాదు.</string>
+    <string name="captcha_instructions">మీరు ఇక్కడ చూసే వచనాన్ని టైప్ చేయండి:</string>
+    <string name="create_google_account">వినియోగదారు పేరుని ఎంచుకోండి</string>
+    <string name="create_google_account_text">మీ Google ఖాతా Google ఆధారిత ఇమెయిల్ Gmailతో కలిపి అందించబడుతుంది. ఇది ఏ పరికరంలోనైనా పని చేస్తుంది, స్పామ్‌ను బ్లాక్ చేస్తుంది మరియు మరిన్ని చేస్తుంది.</string>
+    <string name="account_already_has_gmail">ఖాతా ఇప్పటికే Gmailను కలిగి ఉంది.</string>
+    <string name="error_account_disabled">"ఈ ఖాతా నిలిపివేయబడింది. 
+
+(వివరాల కోసం, వెబ్ బ్రౌజర్‌లో https://google.com/accountsని సందర్శించండి.)"</string>
+    <string name="no_network">మీకు నెట్‌వర్క్ కనెక్షన్ లేదు.</string>
+    <string name="no_network_help">ఇది తాత్కాలిక సమస్య కావచ్చు లేదా మీ Android పరికరం డేటా సేవలను కలిగి ఉండకపోవచ్చు. మొబైల్ నెట్‌వర్క్‌కు కనెక్ట్ చేసినప్పుడు మళ్లీ ప్రయత్నించండి లేదా Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయండి.</string>
+    <string name="no_network_help_wifi_only">ఇది తాత్కాలిక సమస్య కావచ్చు. మళ్లీ ప్రయత్నించండి లేదా మరో Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయండి.</string>
+    <string name="error_login_failed">"మీ వినియోగదారు పేరు మరియు పాస్‌వర్డ్ సరిపోలలేదు. మళ్లీ ప్రయత్నించండి.
+
+మీ ఖాతా సమాచారాన్ని తిరిగి పొందడానికి, google.com/accounts/recovery/కి వెళ్లండి."</string>
+    <string name="error_account_not_verified">"ఈ ఖాతా ధృవీకరించబడలేదు. మీ ఇమెయిల్‌ను తనిఖీ చేసి, దానిలో చేర్చిన లింక్‌ను అనుసరించి ఈ ఖాతాను ధృవీకరించండి. 
+
+(మీ ఖాతా సమాచారాన్ని తిరిగి పొందడానికి, మీ కంప్యూటర్‌లో http://www.google.com/accounts/recoveryకి వెళ్లండి.)"</string>
+    <string name="exit_menu_item">బ్రౌజర్ సైన్-ఇన్ నుండి నిష్క్రమించు</string>
+    <string name="creating_profile">మీ ప్రొఫైల్‌ను సృష్టిస్తోంది…</string>
+    <string name="checking_account">లభ్యతను తనిఖీ చేస్తోంది…</string>
+    <string name="is_not_available"><b>^1</b> అనే వినియోగదారు పేరు అందుబాటులో లేదు.</string>
+    <string name="suggestions_hint">సూచనల కోసం తాకండి</string>
+    <string name="suggest_username_next_button_label">వినియోగదారు పేరుని మార్చు</string>
+    <string name="hint_size">" "<b>^1</b> 6 కంటే తక్కువ లేదా 30 కంటే ఎక్కువ అక్షరాలను కలిగి ఉంది.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> అక్షరాలు ఏవీ కలిగి లేదు.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" అక్షరాలను,
+సంఖ్యలను మరియు చుక్కలను మాత్రమే కలిగి ఉండగలదు."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> Gmailను ఉపయోగించదు.</string>
+    <string name="sign_in_browser">బ్రౌజర్ సైన్-ఇన్</string>
+    <string name="alternatives_list_title">సూచిత వినియోగదారు పేర్లు</string>
+    <string name="password_title">పాస్‌వర్డ్‌ను రూపొందించండి</string>
+    <string name="choose_a_password">పాస్‌వర్డ్</string>
+    <string name="confirm_password">పాస్‌వర్డ్‌ను మళ్లీ టైప్ చేయండి</string>
+    <string name="too_short">చాలా చిన్నది</string>
+    <string name="security_questions_title">భద్రతా ప్రశ్నలు</string>
+    <string name="answer">" "<b>సమాధానం</b></string>
+    <string name="password_mismatch">పాస్‌వర్డ్‌లు సరిపోలలేదు. మళ్లీ ప్రయత్నించండి.</string>
+    <string name="eight_chars_min">కనిష్టంగా 8 అక్షరాలు</string>
+    <string name="verify_your_profile">మీ ప్రొఫైల్‌ను ధృవీకరించండి</string>
+    <string name="error_not_logged_in">వినియోగదారు సైన్ ఇన్ చేయలేదు.</string>
+    <string name="error_username_unavailable">వినియోగదారు పేరు అందుబాటులో లేదు.</string>
+    <string name="error_bad_password">పాస్‌వర్డ్ చాలా బలహీనంగా ఉంది లేదా చెల్లని అక్షరాలను కలిగి ఉంది. మళ్లీ ప్రయత్నించండి.</string>
+    <string name="error_bad_username">వినియోగదారు పేరు చెల్లదు.</string>
+    <string name="existing_account_error_title">ఖాతా ఇప్పటికే ఉంది</string>
+    <string name="existing_account_error_text">ఈ Android పరికరంలో ఇప్పటికే ^1 ఖాతా ఉంది.</string>
+    <string name="submission_title">క్షమించండి…</string>
+    <string name="submission_error_text">లోపం ఏర్పడింది. మళ్లీ ప్రయత్నించండి.</string>
+    <string name="sync_intro_title">ఖాతా సమకాలీకరణ</string>
+    <string name="account_tos_title">ఖాతాను పూర్తి చేయండి</string>
+    <string name="account_tos_plus_title">Google+లో చేరడం పూర్తి చేయండి</string>
+    <string name="i_accept">నేను అంగీకరిస్తున్నాను</string>
+    <string name="i_decline">ఖాతాను రూపొందించవద్దు</string>
+    <string name="allow_personalized_content">Google యేతర వెబ్ సైట్‌ల్లో కంటెంట్ మరియు ప్రకటనలను వ్యక్తిగతీకరించడం కోసం మీ సమాచారాన్ని ఉపయోగించడానికి Googleను అనుమతించండి.</string>
+    <string name="enable_web_history">వెబ్ చరిత్రను ప్రారంభించు</string>
+    <string name="learn_more"><annotation id="learn_more">మరింత తెలుసుకోండి</annotation></string>
+    <string name="account_creation_tos">మీరు కొనసాగడం ద్వారా Google <annotation id="tos">సేవా నిబంధనలు</annotation>, <annotation id="google_privacy">గోప్యతా విధానం</annotation> మరియు <annotation id="play_tos">Google Play సేవా నిబంధనల</annotation>కు అంగీకరిస్తున్నారు.</string>
+    <string name="account_creation_tos_with_chrome">మీరు కొనసాగడం ద్వారా Google <annotation id="tos">సేవా నిబంధనలు</annotation> మరియు <annotation id="google_privacy">గోప్యతా విధానం</annotation>, Chrome <annotation id="chrome_tos">సేవా నిబంధనలు</annotation> మరియు <annotation id="chrome_privacy">గోప్యతా నోటీసు</annotation> మరియు Google Play <annotation id="play_tos">సేవా నిబంధనల</annotation>కు అంగీకరిస్తున్నారు.</string>
+    <string name="gender_prompt">లింగం</string>
+    <string name="gender_hint">లింగం</string>
+    <string name="account_pre_intro_title">Googleని కలిగి ఉన్నారా?</string>
+    <string name="account_pre_intro_default_message">"మీకు Google ఖాతా ఉందా?
+
+మీరు Gmail లేదా Google అనువర్తనాలను ఉపయోగిస్తుంటే, అవును అని సమాధానం ఇవ్వండి."</string>
+    <string name="account_pre_intro_yes">అవును</string>
+    <string name="account_pre_intro_no">కాదు</string>
+    <string name="account_intro_title">Google ఖాతా</string>
+    <string name="account_intro_required_title">Google ఆధారితం</string>
+    <string name="account_intro_recommended_title">దీన్ని Googleగా చేయండి</string>
+    <string name="account_intro_default_message">మీ అంశాలను మళ్లీ ఎప్పటికీ కోల్పోవద్దు. ఒక Google ఖాతా అన్నింటినీ సురక్షితంగా ఉంచుతుంది.</string>
+    <string name="account_intro_simple_message">మీరు ఇప్పటికే ఉన్న ఖాతాను జోడించాలనుకుంటున్నారా లేదా కొత్తదాన్ని రూపొందించాలనుకుంటున్నారా?</string>
+    <string name="account_intro_learn_more">మరింత తెలుసుకోండి</string>
+    <string name="learn_more_title">మరింత తెలుసుకోండి</string>
+    <string name="learn_more_account_intro">"Google ఖాతా వీటిని చేయడానికి మిమ్మల్ని అనుమతిస్తుంది:
+
+"<li><ul>మీ శోధన చరిత్రతో సహా మీ మొత్తం సమాచారాన్ని ఎక్కడి నుండైనా చూడటానికి మరియు నిర్వహించడానికి.</ul></li>"
+
+"<li><ul>మీ డేటాను అనగా ఇమెయిల్, పరిచయాలు, సంగీతం మరియు చిత్రాలు వంటి వాటిని స్వయంచాలకంగా బ్యాకప్ చేయడానికి.</ul></li>" 
+
+"<li><ul>పరిచయాలు, క్యాలెండర్, మ్యాప్స్ మరియు మరిన్నింటితో సహా ఏ Google సేవలను అయినా ఎక్కడి నుండైనా సులభంగా ఉపయోగించడానికి.</ul></li></string>
+    <string name="learn_more_account_intro_title">Google ఖాతాల పరిచయం</string>
+    <string name="learn_more_bad_name">Google+ మీ సాధారణ పేరుని ఉపయోగించమని మిమ్మల్ని కోరుతోంది. మీ ప్రొఫైల్ ఒక వ్యక్తిని సూచించేదిగా ఉండాలి కానీ వ్యాపారం, సంస్థ లేదా కుటుంబ సభ్యులను సూచించేది కాకూడదు అలాగే వృత్తి సంబంధమైన బిరుదులు లేదా అనవసరమైన విరామచిహ్నాలు లేకుండా ఒకే భాషలో మీ మొదటి మరియు చివరి పేరుని పేర్కొనాలి. సైన్అప్ చేసిన తర్వాత, మీరు మీ ప్రొఫైల్‌లోని ఇతర పేర్లు ఫీల్డ్‌లో మీకు సంబంధించిన మారుపేర్లను లేదా ఇతర పేర్లను పేర్కొనవచ్చు.</string>
+    <string name="learn_more_bad_name_title">పేర్ల విధానం గురించి</string>
+    <string name="wait_for_device_country_title">ఖాతా సెటప్</string>
+    <string name="wait_for_device_country_msg">మీ ఫోన్‌ గురించి సమాచారాన్ని సేకరిస్తోంది. దీనికి గరిష్టంగా 30 సెకన్లు పట్టవచ్చు.</string>
+    <string name="recovery_title">Google పాస్‌వర్డ్ పునరుద్ధరణ</string>
+    <string name="recovery_wait_title">Googleని సంప్రదిస్తోంది...</string>
+    <string name="cannot_talk_to_server_msg">పరికరం Googleని సంప్రదించలేకపోయింది.</string>
+    <string name="recovery_skip_label">దాటవేయి</string>
+    <string name="recovery_retry_label">మళ్లీ ప్రయత్నించు</string>
+    <string name="recovery_message_set">"మీరు మీ పాస్‌వర్డ్‌ను ఎప్పుడైనా మర్చిపోతే, దాన్ని పునరుద్ధరించుకోవడానికి మీకొక మార్గం కావాలి.
+
+మీ పాస్‌వర్డ్‌ను SMS లేదా ప్రత్యామ్నాయ ఇమెయిల్ చిరునామా ద్వారా తిరిగి పొందడానికి Google ఎంపికలను అందిస్తుంది.
+
+ఈ దశను గట్టిగా సిఫార్సు చేయడమైనది. "<annotation id="help_url">మరింత తెలుసుకోండి</annotation></string>
+    <string name="recovery_message_verify">"పాస్‌వర్డ్‌లను సులభంగా మర్చిపోతుంటారు.
+
+ఇప్పుడే మీ ఫోన్ నంబర్‌ను లేదా బ్యాకప్ ఇమెయిల్ చిరునామాను నిర్ధారించండి. Google మరియు Google Playలో మీ కంటెంట్‌కు ప్రాప్యతను తిరిగి పొందే క్రమంలో ఇది మీకు సహాయపడుతుంది. "<annotation id="help_url">మరింత తెలుసుకోండి</annotation></string>
+    <string name="recovery_yes_button_label">పునరుద్ధరణ ఎంపికలను సెటప్ చేయి</string>
+    <string name="recovery_yes_button_label_verify">పునరుద్ధరణ ఎంపికలను నిర్ధారించు</string>
+    <string name="recovery_later_button_label">ఇప్పుడు కాదు</string>
+    <string name="recovery_input_screen_message">ఈ పునరుద్ధరణ సమాచారం %sకి వర్తిస్తుంది.</string>
+    <string name="secondary_email_hint">బ్యాకప్ ఇమెయిల్</string>
+    <string name="secondary_email_invalid">ఇమెయిల్ చిరునామా చెల్లదు</string>
+    <string name="secondary_email_same_as_primary">ప్రాథమిక ఇమెయిల్‌నే ఉపయోగించరాదు</string>
+    <string name="phone_number_hint">ఫోన్ నంబర్</string>
+    <string name="phone_number_invalid_character">ఫోన్ నంబర్‌లోని అక్షరాలు చెల్లవు</string>
+    <string name="phone_number_invalid">ఫోన్ నంబర్ చెల్లదు</string>
+    <string name="country_invalid">ఈ దేశంలో అనుమతించబడదు</string>
+    <string name="recovery_server_error">సర్వర్‌ను సంప్రదించడంలో లోపం. దయచేసి కొంత సమయం తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="account_recovery_info">మీరు ఎప్పుడైనా మీ పాస్‌వర్డ్‌ను కోల్పోతే, భద్రతా ప్రశ్నకు సమాధానం ఇచ్చి వేరే చిరునామాకు రీసెట్ లింక్ ఇమెయిల్ చేయబడేలా చేయవచ్చు.</string>
+    <string name="secondary_email_label">పునరుద్ధరణ ఇమెయిల్ చిరునామా</string>
+    <string name="invalid_email">"మీరు టైప్ చేసిన ఇమెయిల్ చిరునామా చెల్లదు.
+ ఉదాహరణ: joe@example.com"</string>
+    <string name="invalid_email_primary">పునరుద్ధరణ చిరునామాగా మీరు రూపొందించే దాన్ని పేర్కొనకూడదు.</string>
+    <string name="backup_consent_message">"మీ అనువర్తనాలను, సెట్టింగ్‌లను (బుక్‌మార్క్‌లు మరియు Wi-Fi పాస్‌వర్డ్‌లు వంటివి) మరియు ఇతర డేటాను బ్యాకప్ చేయడానికి మీ Google ఖాతాను ఉపయోగించండి. మీరు మీ ఖాతాను మునుపు బ్యాకప్ చేసి ఉంటే, ఇప్పుడే దాన్ని ఈ ఫోన్‌లోకి పునరుద్ధరించవచ్చు.
+
+మీరు ఎప్పుడైనా సెట్టింగ్‌ల్లో మీ బ్యాకప్ సెట్టింగ్‌లను మార్చవచ్చు."</string>
+    <string name="backup_consent_message_no_restore">"మీ అనువర్తనాలను, సెట్టింగ్‌లను (బుక్‌మార్క్‌లు మరియు Wi-Fi పాస్‌వర్డ్‌లు వంటివి) మరియు ఇతర డేటాను బ్యాకప్ చేయడానికి మీ Google ఖాతాను ఉపయోగించండి.
+
+మీరు ఎప్పుడైనా సెట్టింగ్‌ల్లో మీ బ్యాకప్ సెట్టింగ్‌లను మార్చవచ్చు."</string>
+    <string name="restoring_title">పునరుద్ధరిస్తోంది…</string>
+    <string name="restoring_message">మీ ఫోన్ మీ ఖాతాను పునరుద్ధరించడానికి Googleని సంప్రదిస్తోంది. దీనికి కొంత సమయం పట్టవచ్చు.</string>
+    <string name="gls_notification_login_error">మీ ఖాతాకు సైన్ ఇన్ చేయడానికి తాకండి.</string>
+    <string name="gls_ui_add_account_title">ఖాతా సెటప్</string>
+    <string name="gls_ui_activity_title">సైన్ ఇన్ చేయి</string>
+    <string name="gls_ui_activity_title_browser_signin">సైన్ ఇన్ చేయి</string>
+    <string name="gls_ui_activity_title_checking_in">సన్నద్ధమవుతోంది…</string>
+    <string name="gls_ui_activity_authenticating">ప్రామాణీకరిస్తోంది…</string>
+    <string name="gls_dmagent_activity_activate_message">" మీ డొమైన్‌కి మొబైల్ పరికర నిర్వహణ అవసరం.  "<b>^1</b> ఖాతాకి అవసరమైన భద్రతా విధానాలను అమలు చేయడానికి \"Google అనువర్తనాల పరికర విధానం\" అనువర్తనాన్ని సక్రియం చేయండి.</string>
+    <string name="gls_dmagent_activity_activate_retry_button">సక్రియం చేయి</string>
+    <string name="gls_dmagent_activity_download_message">" మీ డొమైన్‌కి మొబైల్ పరికర నిర్వహణ అవసరం.  "<b>^1</b> ఖాతాకి అవసరమైన భద్రతా విధానాలను అమలు చేయడానికి \"Google అనువర్తనాల పరికర విధానం\" అనువర్తనాన్ని ఇన్‌స్టాల్ చేయండి.</string>
+    <string name="gls_dmagent_activity_download_retry_button">డౌన్‌లోడ్ చేయి</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">మీరు చెల్లని పాస్‌వర్డ్‌ను టైప్ చేసారు లేదా మీ ఖాతా మారిపోయింది. మీ పాస్‌వర్డ్‌ను మళ్లీ టైప్ చేయండి.</string>
+    <string name="permlab_googleAuthPassword">Google ఖాతాల యొక్క పాస్‌వర్డ్‌లకు ప్రాప్యత</string>
+    <string name="permdesc_googleAuthPassword">మీరు సెటప్ చేసిన Google ఖాతా(ల) యొక్క పాస్‌వర్డ్‌లను ప్రత్యక్ష ప్రాప్యత చేయడానికి అనువర్తనాలను అనుమతిస్తుంది.</string>
+    <string name="permlab_googleMailSwitch">Gmail లేదా Google Mail బ్రాండింగ్‌ను ఎంచుకోండి</string>
+    <string name="permdesc_googleMailSwitch">ప్రదర్శిత పేరుని \"Gmail\" మరియు \"Google Mail\" బ్రాండింగ్ మధ్య మార్చడానికి అనువర్తనాలను అనుమతిస్తుంది.</string>
+    <string name="sync_item_title">%sను సమకాలీకరించు</string>
+    <string name="grant_credentials_permission_message_footer">వారు వీటికి అనుమతిని అభ్యర్థిస్తున్నారు:</string>
+    <string name="grant_credentials_permission_message_app">ఈ అనువర్తనాలు ఇప్పటి నుండి మీ Google ఖాతాకి ప్రాప్యత కోరుతున్నాయి:</string>
+    <string name="grant_permissions_header_text">అనుమతి అభ్యర్థన</string>
+    <string name="allow">ప్రాప్యతను అనుమతించండి</string>
+    <string name="deny">వద్దు, ధన్యవాదాలు</string>
+    <string name="permission_request_notification_with_subtitle">"%s ఖాతా కోసం
+అనుమతి అభ్యర్థించబడింది"</string>
+    <string name="notification_title">%1$sకు సైన్-ఇన్ లోపం</string>
+    <string name="account_setup_title">Google ఖాతా</string>
+    <string name="login_activity_title">సైన్ ఇన్ చేయండి</string>
+    <string name="relogin_activity_title">పాస్‌వర్డ్‌ను మళ్లీ టైప్ చేయండి</string>
+    <string name="show_error_activity_title">సైన్ ఇన్ చేయడం సాధ్యపడలేదు</string>
+    <string name="login_activity_task_title">సైన్ ఇన్ చేస్తోంది…</string>
+    <string name="login_activity_task_msg">దీనికి కొన్ని నిమిషాలు పట్టవచ్చు.</string>
+    <string name="prepare_account_setup_task_title">ఖాతా సెటప్‌ను సిద్ధం చేస్తోంది…</string>
+    <string name="prepare_account_setup_task_msg">దీనికి కొన్ని నిమిషాలు పట్టవచ్చు.</string>
+    <string name="sync_intro_activity_title">మీ ఖాతాను సమకాలీకరించండి</string>
+    <string name="username">ఇమెయిల్</string>
+    <string name="error_invalid_second_factor">మీ సాధారణ ఖాతా పాస్‌వర్డ్‌కు బదులుగా అనువర్తన-నిర్దిష్ట పాస్‌వర్డ్‌ను ఉపయోగించండి.</string>
+    <string name="error_needs_browser">మీ ఖాతాను ప్రాప్యత చేయడానికి, మీరు తప్పనిసరిగా వెబ్‌లో సైన్ ఇన్ చేయాలి. బ్రౌజర్ సైన్-ఇన్‌ను ప్రారంభించడానికి తదుపరి తాకండి.</string>
+    <string name="google_play_opt_in">Google Playలోని వార్తలు మరియు ఆఫర్‌ల గురించి నాకు తాజా విషయాలు తెలియజేయి.</string>
+    <string name="google_settings_header_title">గోప్యత</string>
+    <string name="maps_settings_title">మ్యాప్‌లు &amp; అక్షాంశం</string>
+    <string name="location_settings_title">స్థానం</string>
+    <string name="search_settings_title">శోధన</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">ప్రకటనలు</string>
+    <string name="location_network_based">Google యొక్క స్థాన సేవ</string>
+    <string name="location_neighborhood_level">Googleకి అనామక స్థాన డేటాను పంపడానికి అనుమతించండి. అలాగే ఆమోదిత అనువర్తనాలు మీ సుమారు స్థానాన్ని నిశ్చయించడం కోసం Wi-Fi మరియు మొబైల్ నెట్‌వర్క్‌ల వంటి మూలాధారాల నుండి డేటాను ఉపయోగించడానికి అనుమతించండి.</string>
+    <string name="use_location_title">స్థానం &amp; Google శోధన</string>
+    <string name="use_location_summary">శోధన ఫలితాలను మరియు ఇతర సేవలను మెరుగుపరచడం కోసం మీ స్థానాన్ని ఉపయోగించడానికి Googleని అనుమతించండి</string>
+    <string name="backup_consent_yes_agree">మీ అనువర్తనాలు, సెట్టింగ్‌లు (బుక్‌మార్క్‌లు మరియు Wi-Fi పాస్‌వర్డ్‌లు వంటివి) మరియు ఇతర డేటాను బ్యాకప్ చేయడానికి మీ Google ఖాతాను ఉపయోగించండి.</string>
+    <string name="restore_consent_yes_agree">మీరు మునుపు మీ Google ఖాతాలో బ్యాకప్ చేసిన అనువర్తనాలు, సెట్టింగ్‌లు మరియు ఇతర డేటాను ఈ ఫోన్‌లోకి తీసుకురండి.</string>
+    <string name="audit_logging_summary">మా ఉత్పత్తులను మెరుగుపరచడంలో మరియు మీ పరికరాన్ని రక్షించడంలో సహాయపడటానికి పరికర ఈవెంట్ మరియు విశ్లేషణ సమాచారాన్ని స్వయంచాలకంగా Googleకు పంపండి.</string>
+    <string name="no_back_msg">మునుపటి దశకు తిరిగి వెళ్లలేరు.</string>
+    <string name="setup_wizard_title">సెటప్ విజార్డ్</string>
+    <string name="setup_wizard_services_activity_title">Google సేవలు</string>
+    <string name="setup_wizard_services_description">ఈ సేవలు Google మీ కోసం పని చేసేలా చేస్తాయి మరియు మీరు వాటిని ఎప్పుడైనా ఆన్ చేయవచ్చు లేదా ఆఫ్ చేయవచ్చు. డేటా Google <annotation id="google_privacy">గోప్యతా విధానం</annotation>కి అనుగుణంగా ఉపయోగించబడుతుంది.</string>
+    <string name="setup_wizard_services_backup_restore_heading">బ్యాకప్ చేయండి &amp; పునరుద్ధరించండి</string>
+    <string name="setup_wizard_services_location_heading">స్థానం</string>
+    <string name="setup_wizard_services_communication_heading">కమ్యూనికేషన్</string>
+    <string name="setup_wizard_services_backup">మీ Google ఖాతాను ఉపయోగించి <b>మీ ఫోన్ అనువర్తనాలు, అనువర్తన డేటా, సెట్టింగ్‌లు, వ్యక్తిగత నిఘంటువులు మరియు Wi‑Fi పాస్‌వర్డ్‌లను బ్యాకప్ చేయండి</b> తద్వారా మీరు వాటిని తర్వాత ఎప్పుడైనా సులభంగా పునరుద్ధరించగలరు. <annotation id="backup_details">మరింత తెలుసుకోండి</annotation></string>
+    <string name="setup_wizard_services_backup_restore">మీ Google ఖాతాను ఉపయోగించి <b>మీ అనువర్తనాలు, అనువర్తన డేటా, సెట్టింగ్‌లు, వ్యక్తిగత నిఘంటువులు మరియు Wi‑Fi పాస్‌వర్డ్‌లను బ్యాకప్ చేయండి</b> తద్వారా మీరు వాటిని తర్వాత ఎప్పుడైనా సులభంగా పునరుద్ధరించగలరు.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">డేటాలో అనువర్తనాలు, అనువర్తన సెట్టింగ్‌లు, సిస్టమ్ సెట్టింగ్‌లు మరియు Wi‑Fi పాస్‌వర్డ్‌లు ఉంటాయి.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">మీరు స్వయంచాలక బ్యాకప్‌ను ఆన్ చేసినప్పుడు, మీ పరికర డేటా కాలానుగుణంగా మీ Google ఖాతాకు సేవ్ చేయబడుతుంది. బ్యాకప్‌లు మీ అనువర్తన డేటా ఫోల్డర్‌ల్లో ప్రాధాన్యతలు, సెట్టింగ్‌లు, సందేశాలు, ఫోటోలు మరియు ఇతర ఫైల్‌ల వంటి సమాచారాన్ని కలిగి ఉండవచ్చు.</string>
+    <string name="setup_wizard_services_location_sharing">స్థానాన్ని గుర్తించడంలో అనువర్తనాలకు సహాయపడటానికి <b>Google స్థాన సేవను ఉపయోగించండి</b>. అలా ఉపయోగిస్తే అనువర్తనాలు ఏవీ అమలులో లేనప్పటికీ Googleకి అనామక స్థాన డేటా పంపబడుతుంది. <annotation id="location_details">మరింత తెలుసుకోండి</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google స్థాన సేవ మీ పరికరం స్థానాన్ని వేగంగా మరియు మరింత ఖచ్చితంగా అంచనా వేయడంలో సహాయపడటానికి Wi‑Fi మరియు సెల్యులార్ నెట్‌వర్క్‌ల వంటి మూలాధారాలను ఉపయోగిస్తుంది. మీరు Google స్థాన సేవలను ఆన్ చేసినప్పుడు, మీ పరికరం స్థాన సమాచారాన్ని అందించడానికి Wi‑Fi మరియు సెల్యులార్ నెట్‌వర్క్‌లను ఉపయోగించే మోడ్‌లోకి ప్రవేశిస్తుంది. మీరు GPS మాత్రమే వినియోగ మోడ్‌ను ఎంచుకోవడం ద్వారా స్థాన సెట్టింగ్‌ల్లో దీన్ని ఆఫ్ చేయవచ్చు, ఈ మోడ్ కొన్నింటిలో పరికరం మాత్రమే మోడ్ అని పేర్కొనబడుతుంది.</string>
+    <string name="setup_wizard_services_location_wifi_scan">Wi‑Fi ఆఫ్‌లో ఉన్నప్పటికీ Wi‑Fi నెట్‌వర్క్‌ల కోసం స్కాన్ చేసేలా అనువర్తనాలు మరియు సేవలను అనుమతించడం ద్వారా <b>స్థాన సేవలను మెరుగుపరచడంలో సహాయపడండి</b>.</string>
+    <string name="setup_wizard_services_location_footnote">Google స్థాన సేవ తరచుగా GPS కంటే తక్కువ శక్తి వినియోగంతో మరింత ఖచ్చితంగా మరియు శీఘ్రంగా స్థానాన్ని గుర్తించడానికి Wi‑Fi మరియు ఇతర సిగ్నల్‌లను ఉపయోగిస్తుంది. మీ పరికరంలో కొంత డేటా నిల్వ చేయబడవచ్చు. అనువర్తనాలు ఏవీ అమలు కానప్పుడు కూడా డేటా సేకరించబడవచ్చు.</string>
+    <string name="setup_wizard_services_play">Google Playలోని వార్తలు మరియు ఆఫర్‌ల గురించి <b>నాకు తాజా విషయాలు తెలియజేయి</b>.</string>
+    <string name="setup_wizard_services_usage_reporting">విశ్లేషణ మరియు వినియోగ డేటాను Googleకి స్వయంచాలకంగా పంపడం ద్వారా <b>మీ Android అనుభవాన్ని మెరుగుపరచడంలో సహాయపడండి</b>. ఈ సమాచారం మిమ్మల్ని వ్యక్తిగతంగా గుర్తించడానికి ఉపయోగించబడదు, అయితే బ్యాటరీ సామర్థ్యం, అనువర్తనం పనితీరు మరియు కొత్త Google లక్షణాల వంటి విషయాలపై పనిచేసే బృందాలకు ఇది ఉపయోగకరంగా ఉంటుంది. <annotation id="usage_reporting_details">మరింత తెలుసుకోండి</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"ఇది మీ పరికరం గురించి మరియు మీరు దీన్ని ఎలా ఉపయోగిస్తారనే దాని గురించి వివరించే సాధారణ సమాచారం, ఇందులో బ్యాటరీ సామర్థ్యం, మీరు మీ అనువర్తనాలను ఎంత తరచుగా ఉపయోగిస్తారు, మీ నెట్‌వర్క్ కనెక్షన్‌ల నాణ్యత మరియు వ్యవధి (సెల్, Wi‑Fi మరియు బ్లూటూత్ వంటివి) మరియు ఏవైనా అవి పని చేయాల్సిన రీతిలో సక్రమంగా పని చేయనప్పుడు సంబంధిత క్రాష్ నివేదికలు వంటి సమాచారం ఉంటుంది. ఇది Google ఉత్పత్తులు మరియు సేవలను అందరికీ ఉపయోగపడేలా మెరుగుపరచడానికి వినియోగించబడుతుంది, ఈ మార్పు కేవలం మీ Google ఖాతాకే పరిమితం కాబోదు. కొంత సమగ్ర సమాచారం Android డెవలపర్‌ల వంటి భాగస్వాములకు కూడా వారి అనువర్తనాలను మరియు ఉత్పత్తులను మెరుగుపరచడంలో సహాయపడుతుంది.
+
+మీరు Google సెట్టింగ్‌ల అనువర్తనంలో దీన్ని ఎప్పుడైనా ఆన్ చేయవచ్చు లేదా ఆఫ్ చేయవచ్చు. సిస్టమ్ నవీకరణలు మరియు భద్రత వంటి ఆవశ్యక సేవలను స్వీకరించేందుకు అవసరమైన సమాచారాన్ని పంపగల మీ పరికర సామర్థ్యాన్ని ఇది ఎంతమాత్రమూ ప్రభావితం చేయదు."</string>
+    <string name="setup_wizard_services_agreement">అలాగే ఈ ఫోన్ Google, మీ క్యారియర్ మరియు మీ ఫోన్ తయారీదారు నుండి నవీకరణలు మరియు అనువర్తనాలను స్వీకరించి, ఇన్‌స్టాల్ చేయవచ్చు. మీరు కొనసాగిస్తే కొన్ని అనువర్తనాలు డౌన్‌లోడ్ అయ్యి, ఇన్‌స్టాల్ కావచ్చు, అయితే మీరు వాటిని ఎప్పుడైనా తీసివేయగలరు.</string>
+</resources>

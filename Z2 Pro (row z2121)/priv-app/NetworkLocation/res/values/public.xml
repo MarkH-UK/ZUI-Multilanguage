@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="checkbox_bg" id="0x7f020001" />
+    <public type="drawable" name="ic_launcher" id="0x7f020003" />
+    <public type="drawable" name="ic_notification" id="0x7f020004" />
+    <public type="drawable" name="checkbox" id="0x7f020000" />
+    <public type="drawable" name="checkbox_pressed" id="0x7f020002" />
+    <public type="string" name="app_label" id="0x7f030000" />
+    <public type="string" name="location_warning_title" id="0x7f030001" />
+    <public type="string" name="location_warning_message" id="0x7f030002" />
+    <public type="string" name="agree" id="0x7f030003" />
+    <public type="string" name="disagree" id="0x7f030004" />
+    <public type="string" name="location_warning_do_not_show_again" id="0x7f030005" />
+    <public type="string" name="wifi_scan_always" id="0x7f030006" />
+    <public type="string" name="wifi_scan_tips" id="0x7f030007" />
+    <public type="string" name="persmission_notification_title" id="0x7f030008" />
+    <public type="string" name="persmission_notification_text" id="0x7f030009" />
+    <public type="string" name="persmission_message" id="0x7f03000a" />
+    <public type="string" name="persmission_message2" id="0x7f03000b" />
+    <public type="string" name="persmission_message3" id="0x7f03000c" />
+    <public type="string" name="persmission_message4" id="0x7f03000d" />
+    <public type="string" name="persmission_message5" id="0x7f03000e" />
+    <public type="string" name="persmission_message6" id="0x7f03000f" />
+    <public type="string" name="persmission_message7" id="0x7f030010" />
+    <public type="string" name="persmission_message8" id="0x7f030011" />
+    <public type="string" name="persmission_ok" id="0x7f030012" />
+    <public type="string" name="persmission_close" id="0x7f030013" />
+    <public type="string" name="persmission_settings" id="0x7f030014" />
+    <public type="style" name="AlertThemeSelector" id="0x7f040000" />
+    <public type="style" name="common.TextAppearance.Base.DialogView" id="0x7f040001" />
+    <public type="style" name="common.TextAppearance.DialogView" id="0x7f040002" />
+    <public type="layout" name="content" id="0x7f050000" />
+    <public type="anim" name="dialog_exit" id="0x7f060000" />
+    <public type="interpolator" name="decelerate_cubic" id="0x7f070000" />
+    <public type="interpolator" name="decelerate_quint" id="0x7f070001" />
+    <public type="dimen" name="location_dialog_checkbox_padding" id="0x7f080000" />
+    <public type="id" name="wifiPanel" id="0x7f090000" />
+    <public type="id" name="wifiCheck" id="0x7f090001" />
+</resources>

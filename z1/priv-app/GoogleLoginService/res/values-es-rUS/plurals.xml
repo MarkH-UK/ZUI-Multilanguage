@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" No se puede utilizar esta cuenta porque faltan las siguientes aplicaciones: ^1. Comunícate con el administrador de dominio de "&lt;b>^2&lt;/b>" o accede con otra cuenta. "</item>
+        <item quantity="one">" No se puede utilizar esta cuenta porque falta la aplicación: ^1. Comunícate con el administrador de dominio de "&lt;b>^2&lt;/b>" o accede con otra cuenta. "</item>
+    </plurals>
+</resources>

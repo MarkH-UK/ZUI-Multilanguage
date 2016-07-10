@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="install_recommend_button">#00000000</item>
+    <item type="drawable" name="install_recommend_button_click">#0f191919</item>
+</resources>

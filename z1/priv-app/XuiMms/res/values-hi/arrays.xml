@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>कोई विषय नहीं</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 सेकंड</item>
+        <item>2 सेकंड</item>
+        <item>3 सेकंड</item>
+        <item>4 सेकंड</item>
+        <item>5 सेकंड</item>
+        <item>6 सेकंड</item>
+        <item>7 सेकंड</item>
+        <item>8 सेकंड</item>
+        <item>9 सेकंड</item>
+        <item>10 सेकंड</item>
+        <item>अन्य</item>
+    </string-array>
+</resources>

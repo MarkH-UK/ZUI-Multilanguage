@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.settings.RadioPreference android:title="@string/wifi_display_message_accept" android:key="wifi_display_accept" />
+    <com.android.settings.RadioPreference android:title="@string/wifi_display_message_reject" android:key="wifi_display_reject" />
+</PreferenceScreen>

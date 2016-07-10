@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="resolver_activity_background_xui">#fffafafa</color>
+    <color name="resolver_activity_title_text_xui">#ff191919</color>
+    <color name="resolver_activity_cancel_btn_text_xui">#ff333333</color>
+    <color name="resolver_activity_item_text_xui">#ff999999</color>
+    <color name="resolver_activity_background_xui_light">#fffafafa</color>
+    <color name="resolver_activity_title_text_xui_light">#ff191919</color>
+    <color name="resolver_activity_cancel_btn_text_xui_light">#ff333333</color>
+    <color name="resolver_activity_item_text_xui_light">#ff999999</color>
+    <color name="circle_page_background_color">#fffafafa</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="white">@android:color/white</color>
+    <color name="btn_text_color_default_xui">@android:color/btn_text_color_default_xui</color>
+    <color name="btn_text_color_default_xui_light">@android:color/btn_text_color_default_xui_light</color>
+</resources>

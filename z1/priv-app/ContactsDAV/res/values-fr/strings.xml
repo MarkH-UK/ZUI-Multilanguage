@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactsDAV</string>
+    <string name="help">Aide</string>
+    <string name="login_auth_preemptive">"Authentification préventive (recommandé, mais incompatible avec l'authentification Digest)"</string>
+    <string name="login_base_url">URL racine (les collections seront autodétectées):</string>
+    <string name="login_email_address">E-mail :</string>
+    <string name="login_email_description">"Entrez votre adresse email. Le domaine sera utilisé pour l'auto-détection des services."</string>
+    <string name="login_http_warning">"Si vous n'utilisez pas de chiffrement (HTTPS), d'autres personnes peuvent facilement intercepter vos informations de connexion, contacts et événements."</string>
+    <string name="login_password">Mot de passe :</string>
+    <string name="login_type_email">Connexion avec une adresse email</string>
+    <string name="login_type_email_description">La configuration sera déduite automatiquement à partir du domaine: Exemple : mon_compte@icloud.com</string>
+    <string name="login_type_url">"Connexion avec une URL et un nom d'utilisateur"</string>
+    <string name="login_type_url_description">"La configuration du service sera déduite automatique en utilisant l'URL et le nom de l'utilisateur fournis. (Utilisé le plus souvent pour les serveurs personnels.)"</string>
+    <string name="login_user_name">"Nom d'utilisateur :"</string>
+    <string name="main_manage_accounts">Gérer les comptes synchronisés</string>
+    <string name="next">Suivant</string>
+    <string name="setup_account_details">Détails du compte</string>
+    <string name="setup_account_name">Nom du compte :</string>
+    <string name="setup_account_name_hint">Mon compte CalDAV/CardDAV</string>
+    <string name="setup_add_account">Ajouter un compte</string>
+    <string name="setup_address_books">"Carnets d'adresses"</string>
+    <string name="setup_calendars">Agendas</string>
+    <string name="setup_querying_server">Interroge le serveur. Patientez svp.</string>
+    <string name="setup_read_only">lecture seule</string>
+    <string name="setup_select_address_book">"Choisissez un carnet d'adresses à synchroniser (toucher à nouveau pour désélectionner) :"</string>
+    <string name="setup_select_calendars">Choisissez vos agendas à synchroniser :</string>
+    <string name="setup_what_to_sync">Quelles collections doivent être synchronisées ?</string>
+    <string name="settings_authentication">Authentification</string>
+    <string name="settings_enter_password">Saisissez votre mot de passe :</string>
+    <string name="settings_enter_username">"Saisissez votre nom d'utilisateur :"</string>
+    <string name="settings_no_accounts">Aucun compte DAVDroid trouvé</string>
+    <string name="settings_password">Mot de passe</string>
+    <string name="settings_password_summary">Mettre à jour le mot de passe</string>
+    <string name="settings_preemptive">Authentification préventive</string>
+    <string name="settings_preemptive_off">"Le nom d'utilisateur et le mot de passe sont envoyés à la demande du serveur."</string>
+    <string name="settings_preemptive_on">"Le nom d'utilisateur et le mot de passe sont envoyés avec chaque requête (recommandé)"</string>
+    <string name="settings_sync">Synchronisation</string>
+    <string name="settings_sync_interval_calendars">Interval de synchronisation des agendas</string>
+    <string name="settings_sync_interval_contacts">"Interval de synchronisation des carnets d'adresses"</string>
+    <string name="settings_sync_interval_tasks">Interval de synchronisation des tâches</string>
+    <string name="settings_sync_summary_manually">A la demande</string>
+    <string name="settings_sync_summary_not_available">Indisponible</string>
+    <string name="settings_sync_summary_periodically">Toutes les %d minutes et immédiatement après un changement local</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_username">"Nom d'utilisateur"</string>
+    <string name="setup_install_apps_info">"Sans application tierce, Android ne supporte pas les listes de tâches (par opposition aux carnets d'adresses et les agendas)."</string>
+    <string name="setup_install_tasks_app_html">"&lt;p>DAVDroid est capable de synchroniser des tâches avec &lt;a href=\"market://details?id=org.dmfs.tasks\">l'application Tasks&lt;/a> de Marten Gajda.&lt;/p> &lt;p>À cause d'un &lt;a href=\"https://code.google.com/p/android/issues/detail?id=25906\">bug Android&lt;/a>, &lt;b>l'application Tasks doit être installé avant DAVDroid&lt;/b>, sinon DAVDroid ne peut obtenir les permissions nécessaires à la synchronisation.&lt;/p> &lt;p>Si vous désirez synchroniser vos tâches :&lt;/p> &lt;p>1. Installez l'application Tasks&lt;br /> 2. Installez à nouveau DAVDroid. (Attention: la désinstallation supprime les comptes configurés ainsi que les modifications non synchronisées).&lt;br /> 3. Configurez votre compte.&lt;/p>"</string>
+    <string name="setup_select_task_lists">Choisir les listes de tâches à synchroniser :</string>
+    <string name="setup_task_lists">Listes de tâches</string>
+    <string name="skip">Passer</string>
+    <string name="debug_info_title">Infos de débogage</string>
+    <string name="main_how_to_setup_html">"&lt;p>&lt;b>Comment configurer ?&lt;/b>&lt;/p> &lt;p>L'objectif de DAVdroid est de supporter tous les services CalDAV/CardDAV respectant les standards. Pour consulter la liste des services testés et l'information relative à leur paramétrage, accompagnées de quelques informations à propos de TLS et des certificats, vous pouvez consulter notre &lt;a href=\"https://davdroid.bitfire.at/configuration?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity\">page de configuration&lt;/a>.&lt;/p>"</string>
+    <string name="main_license_html">"&lt;p>&lt;b>License&lt;/b>&lt;/p> &lt;p>Copyright © 2013 – 2015 Ricki Hirner, Bernhard Stockmann (&lt;a href=\"https://www.bitfire.at\">bitfire web engineering&lt;/a>). Tous droits réservés. Ceci programme et tout ce qui l'accompagne sont distribués sous la licence GNU Public v3.0 qui est incluse dans la distribution, et est disponible sur &lt;a href=\"http://www.gnu.org/licenses/gpl.html\">http://www.gnu.org/licenses/gpl.html&lt;/a>. Google Play, Samsung Store ou Amazon Appstore peuvent imposer d'autres conditions d'utilisation, ces conditions respectives s'appliquant uniquement aux versions téléchargées par le biais de leurs services.&lt;/p>"</string>
+    <string name="main_open_source_disclaimer_html">"&lt;p>&lt;b>Open source&lt;/b>&lt;/p> &lt;p>Dès le commencement, DAVdroid a été conçu comme un projet open source. Il est toujours possible de compiler l'application par vous même et de l'utiliser librement et sans aucune obligation. Le &lt;a href=\"https://davdroid.bitfire.at/source?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity\">code source est disponible&lt;/a>, et vous pouvez &lt;a href=\"https://f-droid.org/app/at.bitfire.davdroid\">télécharger l'application sur F-Droid&lt;/a>.&lt;/p>&lt;/p>"</string>
+    <string name="main_play_workaround_html">"&lt;p>Merci d'avoir acheté DAVdroid sur Google Play, de cette manière vous aidez le projet. Malheureusement, il y a deux bugs sur Google Play qui vous concernent peut-être. Cliquez sur le lien pour avoir plus de détails.&lt;/p> &lt;p>&lt;a href=\"https://davdroid.bitfire.at/faq/entry/account-gone-after-reboot\">1. Les comptes peuvent disparaitre après un redémarrage&lt;/a> : affecte Android 4.1, 4.2 avec certains appareils (la plupart des Samsung par exemple), et peut être plus. Les versions plus récentes d'Android fonctionnent bien.&lt;br/> &lt;a href=\"https://davdroid.bitfire.at/faq/entry/account-gone-after-updating\">2. Les comptes peuvent disparaitre après une mise à jour de DAVdroid&lt;/a> : affecte quelques appareils sous Android 4.4.2 (constaté sur Nexus et Moto G), et peut être plus. Les versions plus récentes d'Android fonctionnent bien.&lt;/p> &lt;p>&lt;strong>Si vous avez ce genre de problèmes, merci &lt;a href=\"market://details?id=at.bitfire.davdroid.jbworkaround\">d'installer l'application DAVdroid JB Workaround&lt;/a>.&lt;/strong>&lt;/p>"</string>
+    <string name="main_show_debug_info">Afficher les infos de débogage</string>
+    <string name="main_support_html">"&lt;p>&lt;b>Support&lt;/b>&lt;/p> &lt;p>&lt;b>En cas de problème, consultez en premier lieu la &lt;a href=\"https://davdroid.bitfire.at/faq?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity\">FAQ (foire aux questions)&lt;/a>. Pour demander une assistance ou discuter à propos d'un sujet relatif à DAVdroid, jetez un œil aux &lt;a href=\"https://davdroid.bitfire.at/forums?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity\">forums DAVdroid&lt;/a>.&lt;/b> Merci de ne pas faire de chantage à la mauvaise évaluation sur les magasins (c'est futile et décourageant).&lt;/p>"</string>
+    <string name="main_translation_info">Les traductions dans les langues autres que Anglais et Allemand ont été effectuées par de nombreuses personnes dont les noms sont mentionnés dans la version de leur langue respective.</string>
+    <string name="main_used_libraries_heading">DAVdroid utilise ces librairies (classées par ordre alphabétique) :</string>
+    <string name="main_welcome">Bienvenue sur DAVdroid/%s!</string>
+    <string name="main_what_is_davdroid_html">"&lt;p>DAVdroid est un adaptateur de synchronisation CalDAV/CardDAV pour Android 4+. Pour l'utiliser, il suffit d'ajouter un compte DAVdroid pour votre serveur CalDAV/CardDAV et ainsi vos contacts, événements et taches seront synchronisés dans les deux sens.&lt;/p> &lt;p>Pour avoir plus d'informations, merci de consulter &lt;a href=\"https://davdroid.bitfire.at/?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity\">le site de DAVdroid&lt;/a>. DAVdroid respecte votre vie privée, vous pouvez consulter &lt;a href=\"https://davdroid.bitfire.at/privacy?pk_campaign=davdroid-app&amp;amp;pk_kwd=main-activity\">la charte du respect de la vie privée&lt;/a>.&lt;/p>"</string>
+    <string name="mtm_accept_cert">Accepter les certificats inconnus ?</string>
+    <string name="mtm_accept_servername">Accepter le nom de serveur qui ne concorde pas ?</string>
+    <string name="mtm_cert_details">Détails du certificat :</string>
+    <string name="mtm_cert_expired">Le certificat a expiré.</string>
+    <string name="mtm_connect_anyway">Voulez-vous vous connecter quand même ?</string>
+    <string name="mtm_decision_abort">Annuler</string>
+    <string name="mtm_decision_always">Toujours</string>
+    <string name="mtm_decision_once">Une seule fois</string>
+    <string name="mtm_hostname_mismatch">"Le serveur n'a pas pu s'authentifier comme « %s ». Le certificat est valide uniquement pour :"</string>
+    <string name="mtm_notification">Vérification du certificat</string>
+    <string name="mtm_trust_anchor">Le certificat du serveur n’est pas signé par une Autorité de Certification reconnue.</string>
+    <string name="please_wait">Veuillez patienter</string>
+    <string name="send">Envoyer</string>
+    <string name="settings_android_update_description">"Les mises à jour d'Android peuvent avoir un impact sur le fonctionnement de DAVdroid. Si vous rencontrez des problèmes, veuillez supprimer vos comptes DAVdroid et les ajouter à nouveau."</string>
+    <string name="settings_android_update_title">"Mise à jour de la version d'Android"</string>
+    <string name="settings_debug">Débogage</string>
+    <string name="settings_log_to_external_file">Journaliser dans un fichier extérieur</string>
+    <string name="settings_log_to_external_file_confirmation">"Les journaux enregistrés dans des fichiers extérieurs contiennent des données privées et sont potentiellement accessibles par d'autres applications. Arrêtez le stockage extérieur des journaux et supprimez les fichiers après utilisation."</string>
+    <string name="settings_log_to_external_file_no_external_storage">"Le stockage externe n'est pas disponible."</string>
+    <string name="settings_log_to_external_file_off">Les journaux sont écrits sur ADB</string>
+    <string name="settings_log_to_external_file_on">Les journaux sont écrits sur %s (si possible)</string>
+    <string name="settings_log_verbose">Journalisation détaillée</string>
+    <string name="settings_log_verbose_off">Enregistrer uniquement les informations de synchronisation</string>
+    <string name="settings_log_verbose_on">Enregistrer les informations de synchronisation et le trafic réseau</string>
+    <string name="settings_security_warning">Risque de sécurité potentiel !</string>
+    <string name="settings_version_update_description">"Les paramètres de l'applications ont été mis à jour. Si vous rencontrez des problèmes, veuillez désinstaller DAVdroid et l'installer à nouveau."</string>
+    <string name="settings_version_update_title">Les paramètres ont été mis à jour</string>
+    <string name="setup_account_name_info">Utilisez votre adresse email comme nom de compte car Android utilisera ce nom en tant que champ ORGANISATEUR pour les évènements que vous créerez. Vous ne pouvez pas avoir deux comptes avec le même nom.</string>
+    <string name="setup_no_collections_found">"Aucun carnet d'adresse ou calendrier trouvé."</string>
+    <string name="setup_resource_detection">Détection des ressources</string>
+    <string name="setup_view_logs">Voir les journaux</string>
+    <string name="sync_error">Erreur durant %s</string>
+    <string name="sync_error_calendar">Échec de la synchronisation du calendrier (%s)</string>
+    <string name="sync_error_contacts">"Échec de la synchronisation du carnet d'adresse (%s)"</string>
+    <string name="sync_error_http_dav">Erreur de serveur durant %s</string>
+    <string name="sync_error_local_storage">Erreur de base de donnée durant %s</string>
+    <string name="sync_error_tasks">Échec de la synchronisation (%s)</string>
+    <string name="sync_error_unauthorized">"Nom d'utilisateur ou mot de passe erroné"</string>
+</resources>
