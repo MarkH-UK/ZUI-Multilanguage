@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="newsetting_window_icon_width">22.0dip</dimen>
-    <dimen name="new_setting_moveapp_layout_height">52.0dip</dimen>
-    <dimen name="new_setting_btnmenu_height">52.0dip</dimen>
-</resources>

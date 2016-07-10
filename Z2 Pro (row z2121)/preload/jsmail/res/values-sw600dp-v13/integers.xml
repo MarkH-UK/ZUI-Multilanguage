@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="account_spinner_window_size">5</integer>
-    <integer name="conversation_desired_font_size_px">16</integer>
-    <integer name="conversation_header_mode">1</integer>
-    <integer name="use_tablet_ui">1</integer>
-</resources>
