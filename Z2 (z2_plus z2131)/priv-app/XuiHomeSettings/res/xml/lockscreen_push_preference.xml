@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:fitsSystemWindows="true" android:key="lockscreen"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <SwitchPreference android:title="@string/daily_one_wallpaper" android:key="pref_enable_pushwallpaper" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
-    <SwitchPreference android:title="@string/allow_download" android:key="pref_enable_3gor4g" android:dependency="pref_enable_pushwallpaper" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
-    <PreferenceCategory android:state_expanded="true" android:key="high_priority_explain" android:summary="@string/every_day_set_one_wallpaper" />
-    <SwitchPreference android:title="@string/allow_high_definition_wallpaper" android:key="pref_enable_hdwallpaper" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
-    <PreferenceCategory android:state_expanded="true" android:key="high_priority_explain" android:summary="@string/set_high_definition_wallpaper" />
-</PreferenceScreen>

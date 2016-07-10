@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="layout_run_duration_distance_height">236.0dip</dimen>
-    <dimen name="share_control_layout_height">63.0dip</dimen>
-    <dimen name="share_map_bg_height">428.59375dip</dimen>
-    <dimen name="share_map_height">428.0dip</dimen>
-    <dimen name="negative_screen_circle_progress_group_margin_top">20.0dip</dimen>
-</resources>

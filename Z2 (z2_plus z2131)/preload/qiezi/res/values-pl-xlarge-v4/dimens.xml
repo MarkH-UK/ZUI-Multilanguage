@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="content_album_select_width">120.0dip</dimen>
-    <dimen name="content_title_bar_tab_width">180.0dip</dimen>
-</resources>

@@ -232,7 +232,6 @@ Try again in %d seconds."</string>
     <string name="widget_text_weixin_circle">WeChat Moments</string>
     <string name="widget_text_addshortcut">Add Shortcut</string>
     <string name="widget_text_adddesktopshotcut">Add Desktop</string>
-    <string name="widget_text_protectedeyesmode">Night Color</string>
     <string name="control_center_prompt_airplane_on">Airplane is on</string>
     <string name="control_center_prompt_simcard_out">No simcard</string>
     <string name="control_center_prompt_mute_vibrate_on">Vibrate is on, while mute is on</string>

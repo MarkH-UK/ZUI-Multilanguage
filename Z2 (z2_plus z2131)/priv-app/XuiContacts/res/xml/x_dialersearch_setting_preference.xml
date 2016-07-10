@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <SwitchPreference android:title="@string/wechat_contact" android:key="pref_dial_search" />
-    <PreferenceCategory />
-</PreferenceScreen>

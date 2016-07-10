@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<searchable android:label="@string/universal_app_name" android:hint="@string/search_hint" android:searchSuggestAuthority="com.lenovo.leos.appstore.QsbSuggestionProvider" android:searchSuggestSelection=" ?" android:searchSuggestThreshold="1" android:includeInGlobalSearch="true" android:searchSettingsDescription="@string/quicksearchbox_description"
-  xmlns:android="http://schemas.android.com/apk/res/android" />

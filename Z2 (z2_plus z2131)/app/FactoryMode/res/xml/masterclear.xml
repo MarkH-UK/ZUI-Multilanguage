@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:title="@string/app_name" android:key="parent"
-  xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:OffLineLog="http://schemas.android.com/apk/res/com.android.MasterClear">
-    <PreferenceScreen android:title="@string/master_clear_title" android:key="master_clear_key" android:summary="@string/master_clear_summary" />
-</PreferenceScreen>

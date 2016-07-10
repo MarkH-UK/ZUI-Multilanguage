@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:key="app_notification_setting"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <SwitchPreference android:title="@string/enable_notification_title" android:key="pref_enable_notification" android:defaultValue="true" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
-    <SwitchPreference android:title="@string/lockscreen_show_notification_switch" android:key="pref_lockscreen_show_notification" android:dependency="pref_enable_notification" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
-    <SwitchPreference android:title="@string/notification_high_priority_title" android:key="pref_notification_high_priority" android:dependency="pref_enable_notification" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
-    <PreferenceCategory android:key="high_priority_explain" android:summary="@string/high_priority_explain_text" />
-</PreferenceScreen>

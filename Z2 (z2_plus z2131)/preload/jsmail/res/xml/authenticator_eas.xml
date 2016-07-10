@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<account-authenticator android:label="@string/settings_account_exchange_label" android:icon="@drawable/ic_exchange" android:accountType="@string/account_manager_type_exchange" android:smallIcon="@drawable/stat_notify_email" android:accountPreferences="@xml/account_preferences"
-  xmlns:android="http://schemas.android.com/apk/res/android" />

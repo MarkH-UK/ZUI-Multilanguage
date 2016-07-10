@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:key="pref_gesture_screen"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ListPreference android:entries="@array/pref_gesture_choices" android:id="@id/pref_key_scroll_up_guesture_setting" android:layout="@layout/custom_preference1" android:title="@string/scroll_up_gesture_setting" android:key="pref_scroll_up_guesture" android:widgetLayout="@layout/sec_pref_widget_more1" android:defaultValue="@string/pref_scroll_up_guesture_default" android:entryValues="@array/pref_gesture_values" />
-    <ListPreference android:entries="@array/pref_gesture_choices" android:id="@id/pref_key_scroll_down_guesture_setting" android:layout="@layout/custom_preference1" android:title="@string/scroll_down_gesture_setting" android:key="pref_scroll_down_guesture" android:widgetLayout="@layout/sec_pref_widget_more1" android:defaultValue="@string/pref_scroll_down_guesture_default" android:entryValues="@array/pref_gesture_values" />
-    <ListPreference android:entries="@array/pref_gesture_choices" android:id="@id/pref_double_click_guesture_setting" android:layout="@layout/custom_preference1" android:title="@string/double_click_gesture_setting" android:key="pref_double_click_guesture" android:widgetLayout="@layout/sec_pref_widget_more1" android:defaultValue="@string/pref_double_click_guesture_default" android:entryValues="@array/pref_gesture_values" />
-</PreferenceScreen>

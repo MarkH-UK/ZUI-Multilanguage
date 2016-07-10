@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="config_fastAnimTime">50</integer>
-    <integer name="config_longAnimTime">300</integer>
-    <integer name="config_mediumAnimTime">150</integer>
-    <integer name="config_shortAnimTime">100</integer>
-    <integer name="danmu_msg_max_length">30</integer>
-</resources>

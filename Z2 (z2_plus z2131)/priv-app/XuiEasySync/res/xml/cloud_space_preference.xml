@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:lenovo="http://schemas.android.com/apk/res-auto">
-    <com.lenovo.xuieasysync.main.view.SyncPreference android:layout="@layout/preference_label" android:title="@string/space_all" android:key="all_space" />
-    <com.lenovo.xuieasysync.main.view.SyncPreference android:layout="@layout/preference_label" android:title="@string/space_remain" android:key="remain_space" />
-    <com.lenovo.xuieasysync.main.view.SyncPreference android:layout="@layout/preference_label" android:title="@string/space_used" android:key="used_space" android:widgetLayout="@layout/preference_widget_forward" lenovo:showDivider="false" />
-</PreferenceScreen>

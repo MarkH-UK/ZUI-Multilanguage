@@ -26,5 +26,4 @@
     <string name="def_enable_accessibility_services" />
     <string name="app_label">Settings Storage</string>
     <string name="def_home_button_long_press_behavior">unuse</string>
-    <string name="def_home_button_long_touch_behavior">unuse</string>
 </resources>

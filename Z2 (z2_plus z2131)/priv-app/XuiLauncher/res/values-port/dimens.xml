@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="theme_local_grid_column_width">200.0dip</dimen>
-    <dimen name="wallpaper_local_grid_column_width">200.0dip</dimen>
-    <dimen name="workspace_page_spacing">-1.0dip</dimen>
-</resources>

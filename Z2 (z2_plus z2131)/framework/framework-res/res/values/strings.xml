@@ -1531,6 +1531,11 @@ Battery saver turns off automatically when your device is charging."</string>
     <string name="low_memory_notification_fixed">Space less than %dMB</string>
     <string name="low_memory_notification_summary">Clean and free up more space</string>
     <string name="low_memory_notification_summary_impact_system_functions">Some system functions may not work</string>
+    <string name="usb_default_notification_title">Connected to PC</string>
+    <string name="usb_ptp_notification_summary">Access photos by PC</string>
+    <string name="usb_mtp_notification_summary">Access files by PC</string>
+    <string name="usb_notification_file_name">File</string>
+    <string name="usb_notification_photo_name">Photo</string>
     <string name="config_abootDataPackageName">com.zui.ota</string>
     <string name="xui_system_security_alert">System Security Warning</string>
     <string name="xui_slow_down_alert">Your phone has a Security Center that provides comprehensive anti-harassment, anti-virus, junk-removal and other security and performance-optimizing features. Reinstalling \"%1$s\" can affect the systems performance, increase power consumption, and increase the risks of security and privacy breaches. You are strongly advised against installing \"%2$s\".</string>
@@ -1557,6 +1562,8 @@ Battery saver turns off automatically when your device is charging."</string>
     <string name="time_picker_dialog_x_noon">noon</string>
     <string name="date_picker_dialog_x_title">%4$s, %2$s %3$s, %1$s</string>
     <string name="date_time_picker_dialog_x_title">Select Time</string>
+    <string name="time_picker_dialog_x_before_dawn">morning</string>
+    <string name="time_picker_dialog_x_night">night</string>
     <string name="otg_notification_title">USB storage device connected by OTG</string>
     <string name="otg_notification_summary">Click to unmount</string>
     <string name="otg_notification_access_file">Click to access files</string>
@@ -1579,9 +1586,4 @@ Battery saver turns off automatically when your device is charging."</string>
     <string name="ext_media_nofs_notification_message">SD card is blank or has unsupported filesystem</string>
     <string name="ext_media_safe_unmount_notification_message">You can safely remove SD card</string>
     <string name="zen_mode_default_nights_name">Night</string>
-    <string name="usb_default_notification_title">Connected to PC</string>
-    <string name="usb_ptp_notification_summary">Access photos by PC</string>
-    <string name="usb_mtp_notification_summary">Access files by PC</string>
-    <string name="usb_notification_file_name">File</string>
-    <string name="usb_notification_photo_name">Photo</string>
 </resources>

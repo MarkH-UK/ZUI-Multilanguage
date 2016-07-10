@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<account-authenticator android:label="@string/icloud_account_name" android:icon="@drawable/ic_icloud_account" android:accountType="@string/icloud_account_type" android:smallIcon="@drawable/ic_icloud_account" android:accountPreferences="@xml/sync_prefs_icloud"
-  xmlns:android="http://schemas.android.com/apk/res/android" />

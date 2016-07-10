@@ -1366,6 +1366,11 @@
     <string name="low_memory_notification_fixed">存储空间不足%dMB</string>
     <string name="low_memory_notification_summary">建议立即清理</string>
     <string name="low_memory_notification_summary_impact_system_functions">可能会影响手机使用</string>
+    <string name="usb_default_notification_title">已连接到电脑</string>
+    <string name="usb_ptp_notification_summary">可通过电脑查看手机照片</string>
+    <string name="usb_mtp_notification_summary">可通过电脑访问手机文件</string>
+    <string name="usb_notification_file_name">传文件</string>
+    <string name="usb_notification_photo_name">看照片</string>
     <string name="xui_system_security_alert">系统安全警告</string>
     <string name="xui_slow_down_alert">手机已有安全中心，提供全面的防骚扰、防病毒、垃圾清理等安全和性能优化功能。再安装“%1$s”，容易影响系统性能，增加电量消耗，增加安全和隐私风险。因此强烈建议你，不要安装“%2$s”。</string>
     <string name="xui_alert_again_msg">你确认可以承受由此带来的系统性能风险、电量消耗风险、安全和隐私风险吗？</string>
@@ -1391,6 +1396,8 @@
     <string name="time_picker_dialog_x_noon">中午</string>
     <string name="date_picker_dialog_x_title">%1$s年%2$s月%3$s日 %4$s</string>
     <string name="date_time_picker_dialog_x_title">选择起始时间</string>
+    <string name="time_picker_dialog_x_before_dawn">凌晨</string>
+    <string name="time_picker_dialog_x_night">晚上</string>
     <string name="otg_notification_title">OTG已成功连接USB存储设备</string>
     <string name="otg_notification_summary">点击此处可卸载</string>
     <string name="otg_notification_access_file">点击此处查看设备中的文件</string>
@@ -1413,11 +1420,6 @@
     <string name="ext_media_nofs_notification_message">SD卡中没有任何文件或使用了不支持的文件系统</string>
     <string name="ext_media_safe_unmount_notification_message">您现在可以安全移除SD卡</string>
     <string name="zen_mode_default_nights_name">夜间</string>
-    <string name="usb_default_notification_title">已连接到电脑</string>
-    <string name="usb_ptp_notification_summary">可通过电脑查看手机照片</string>
-    <string name="usb_mtp_notification_summary">可通过电脑访问手机文件</string>
-    <string name="usb_notification_file_name">传文件</string>
-    <string name="usb_notification_photo_name">看照片</string>
     <string name="other_permissions">其他权限</string>
     <string name="permission_remember_choice">永远记住</string>
     <string name="permission_title">权限</string>

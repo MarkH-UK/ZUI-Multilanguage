@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="wallpaper_preview_size">240.0dip</dimen>
-    <dimen name="wallpaper_thumbnail_size">48.0dip</dimen>
-    <dimen name="boot_animation_preview_width">80.0dip</dimen>
-    <dimen name="boot_animation_preview_height">142.0dip</dimen>
-    <dimen name="status_bar_battery_height">16.0dip</dimen>
-    <dimen name="status_bar_battery_width">10.5dip</dimen>
-</resources>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <Preference android:title="@string/xui_simmessage_one" android:key="mms_system_managesim1" android:widgetLayout="@layout/preference_widget_forward" />
-    <Preference android:title="@string/xui_simmessage_two" android:key="mms_system_managesim2" android:widgetLayout="@layout/preference_widget_forward" />
-</PreferenceScreen>

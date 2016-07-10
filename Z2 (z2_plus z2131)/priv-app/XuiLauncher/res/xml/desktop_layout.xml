@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:key="pref_desktoplayout_screen"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <SwitchPreference android:layout="@layout/custom_preference" android:title="@string/hide_status_title" android:key="pref_hide_status" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
-</PreferenceScreen>

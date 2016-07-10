@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <Preference android:title="@string/auth_trust_agent_trusted_devices_add_device_bluetooth_option" android:key="auth_trust_agent_pref_trusted_devices_select_bluetooth_key" />
-    <Preference android:title="@string/auth_trust_agent_trusted_devices_add_device_nfc_option" android:key="auth_trust_agent_pref_trusted_devices_select_nfc_key" />
-</PreferenceScreen>

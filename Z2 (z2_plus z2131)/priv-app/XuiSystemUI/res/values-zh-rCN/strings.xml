@@ -161,7 +161,6 @@
     <string name="widget_text_weixin_scanner">微信扫一扫</string>
     <string name="widget_text_weixin_circle">微信朋友圈</string>
     <string name="widget_text_addshortcut">添加快捷方式</string>
-    <string name="widget_text_protectedeyesmode">护眼</string>
     <string name="control_center_prompt_airplane_on">飞行模式已打开，移动数据不可用</string>
     <string name="control_center_prompt_simcard_out">未插入SIM卡，移动数据不可用</string>
     <string name="control_center_prompt_mute_vibrate_on">静音时，振动已开启</string>

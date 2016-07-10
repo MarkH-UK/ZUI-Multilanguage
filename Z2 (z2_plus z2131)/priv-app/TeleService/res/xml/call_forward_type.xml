@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <Preference android:title="@string/labelCFVoice" android:key="button_cf_key_voice" />
-    <Preference android:title="@string/labelCFVideo" android:key="button_cf_key_video" />
-</PreferenceScreen>

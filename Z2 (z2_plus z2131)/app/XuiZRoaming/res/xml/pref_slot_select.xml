@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:LongSummaryPreferenceCategory="http://schemas.android.com/apk/res-auto">
-    <CheckBoxPreference android:layout="@layout/solt_select_pref" android:key="slot1" />
-    <CheckBoxPreference android:layout="@layout/solt_select_pref" android:key="slot2" />
-    <com.redteamobile.roaming.activites.LongSummaryPreferenceCategory android:summary="@string/select_sim_bottom" LongSummaryPreferenceCategory:maxlines="4" />
-</PreferenceScreen>

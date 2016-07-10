@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<appwidget-provider android:minWidth="390.0dip" android:minHeight="146.0dip" android:updatePeriodMillis="0" android:initialLayout="@layout/loading_appwidget_5x2" android:configure="sina.mobile.tianqitong.appwidget.WidgetConfigure" android:previewImage="@drawable/widget_5x2_preview"
-  xmlns:android="http://schemas.android.com/apk/res/android" />

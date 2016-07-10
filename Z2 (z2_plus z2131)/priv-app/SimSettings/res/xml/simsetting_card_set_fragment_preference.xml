@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.zui.simsettings.preference.ImagePreference android:persistent="false" android:title="@string/card_call_default" android:key="card_call_pre" />
-    <com.zui.simsettings.preference.ImagePreference android:persistent="false" android:title="@string/card_sms_default" android:key="card_sms_pre" />
-    <com.zui.simsettings.preference.ImagePreference android:persistent="false" android:title="@string/card_data_default" android:key="card_data_pre" />
-    <com.zui.simsettings.preference.ImagePreference android:persistent="false" android:title="@string/message_push_service" android:key="card_network_pre" />
-</PreferenceScreen>

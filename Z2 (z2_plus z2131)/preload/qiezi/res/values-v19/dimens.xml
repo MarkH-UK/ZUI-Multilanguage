@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="anyshare_system_statusbar_height">24.0dip</dimen>
-    <dimen name="anyshare_express_entry_header_height">212.0dip</dimen>
-    <dimen name="anyshare_clone_entry_header_height">239.0dip</dimen>
-</resources>

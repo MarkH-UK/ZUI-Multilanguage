@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:key="app_notification_setting"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <SwitchPreference android:title="@string/enable_charge_pulse_title" android:key="pref_enable_charge_pulse" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
-    <SwitchPreference android:title="@string/enable_notification_pulse_title" android:key="pref_enable_notification_pulse" android:defaultValue="false" android:switchTextOn="@string/pref_switchwidget_text" android:switchTextOff="@string/pref_switchwidget_text" />
-</PreferenceScreen>

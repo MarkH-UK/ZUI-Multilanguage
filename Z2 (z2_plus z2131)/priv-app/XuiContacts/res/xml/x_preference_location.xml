@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <SwitchPreference android:persistent="false" android:title="@string/location_display_toggle" android:key="prf_location_toggle" />
-    <com.android.newcontact.contacts_settings.XPreference android:title="@string/location_custom" android:key="custom_location" />
-</PreferenceScreen>

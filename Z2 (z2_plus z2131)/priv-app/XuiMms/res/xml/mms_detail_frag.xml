@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <SwitchPreference android:title="@string/mms_delivery_report" android:key="detail_switch_delivery" />
-    <SwitchPreference android:title="@string/notification_auto_download" android:key="detail_switch_autodownload" />
-    <SwitchPreference android:title="@string/notification_roaming_download" android:key="detail_switch_roamingdown" />
-</PreferenceScreen>

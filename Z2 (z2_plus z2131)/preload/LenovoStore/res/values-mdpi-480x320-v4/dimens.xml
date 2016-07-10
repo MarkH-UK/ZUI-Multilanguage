@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="app_detail_block_summary_rlayout_minwidth">90.0dip</dimen>
-    <dimen name="newsetting_window_icon_width">20.0dip</dimen>
-    <dimen name="new_setting_moveapp_layout_height">40.0dip</dimen>
-    <dimen name="new_setting_btnmenu_height">40.0dip</dimen>
-    <dimen name="new_setting_btnmenu_page_margin_top">12.0dip</dimen>
-    <dimen name="new_setting_btnmenu_page_internal_margin">18.0dip</dimen>
-</resources>

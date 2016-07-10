@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:layout_width="fill_parent" android:layout_height="fill_parent" android:key="auth_trust_agent_trusted_bluetooth_choose_list_key"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <Preference android:id="@id/auth_trustagent_preference_bluetooth_scanning_progress" android:layout="@layout/auth_trustagent_bluetooth_scanning_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" />
-</PreferenceScreen>

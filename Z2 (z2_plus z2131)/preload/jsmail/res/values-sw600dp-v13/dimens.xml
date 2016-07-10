@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="app_update_dialog_content_max_height">300.0dip</dimen>
-    <dimen name="dialog_divild_width_dp">2.0dip</dimen>
-    <dimen name="dialog_margin_screen_dp">100.0dip</dimen>
-</resources>

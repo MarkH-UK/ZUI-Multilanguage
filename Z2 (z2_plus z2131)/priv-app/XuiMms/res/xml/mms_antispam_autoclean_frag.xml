@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <SwitchPreference android:title="@string/antispam_autoclean_lin" android:key="anti_autoclean_switch" />
-    <Preference android:layout="@layout/preference_label" android:title="@string/antispam_autoclean_period" android:key="anti_autoclean_period" android:summary="@string/antispam_autoclean_period_mounth" android:widgetLayout="@layout/preference_widget_forward" />
-    <PreferenceCategory android:title="@string/antispam_autoclean_tips" />
-</PreferenceScreen>

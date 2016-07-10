@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<account-authenticator android:label="@string/auth_gls_label" android:icon="@drawable/auth_ic_google_account" android:accountType="com.google" android:smallIcon="@drawable/auth_ic_google_account_small" android:accountPreferences="@xml/auth_account_preferences" android:customTokens="true"
-  xmlns:android="http://schemas.android.com/apk/res/android" />

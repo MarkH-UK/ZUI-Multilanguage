@@ -230,9 +230,10 @@
     <string name="custom_end_date">自定义结束时间</string>
     <string name="notify_time_in_a_day">提醒时间</string>
     <string name="notify_time_selection_value" />
-    <string name="birthday_postfix">的公历生日</string>
-    <string name="birthday_postfix_lunar">的农历生日</string>
-    <string name="birthday_postfix_lunar_leapmonth">的农历闰月生日</string>
+    <string name="birthday_postfix">公历生日</string>
+    <string name="birthday_postfix_has_age">%1$d周岁公历生日</string>
+    <string name="birthday_postfix_lunar">%1$d周岁农历生日</string>
+    <string name="birthday_postfix_lunar_leapmonth">%1$d周岁农历闰月生日</string>
     <string name="notify_settings">提醒设置</string>
     <string name="not_allday_notify_time_setting">非全天事件提醒时间</string>
     <string name="allday_notify_time_setting">全天事件提醒时间</string>

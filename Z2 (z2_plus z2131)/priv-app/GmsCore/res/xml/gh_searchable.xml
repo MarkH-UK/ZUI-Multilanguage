@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<searchable android:label="@string/gh_menu_help" android:voiceSearchMode="launchRecognizer|showVoiceSearchButton" android:voiceLanguageModel="web_search" android:searchSuggestThreshold="1"
-  xmlns:android="http://schemas.android.com/apk/res/android" />

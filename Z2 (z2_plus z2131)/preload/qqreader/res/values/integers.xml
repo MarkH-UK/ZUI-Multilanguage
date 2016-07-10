@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="feed_bookauthor_maxems">6</integer>
-    <integer name="read_gene_ratio">10</integer>
-    <integer name="app_update">0</integer>
-    <integer name="app_wall">0</integer>
-    <integer name="query_dialog">0</integer>
-    <integer name="xg_push">0</integer>
-</resources>

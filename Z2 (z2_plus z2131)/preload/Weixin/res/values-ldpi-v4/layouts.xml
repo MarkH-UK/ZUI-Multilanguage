@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item type="layout" name="q4">r/k/q4.xml</item>
-    <item type="layout" name="q5">r/k/q5.xml</item>
-    <item type="layout" name="q6">r/k/q6.xml</item>
-    <item type="layout" name="s6">r/k/s6.xml</item>
-    <item type="layout" name="afo">r/k/afo.xml</item>
-    <item type="layout" name="afp">r/k/afp.xml</item>
-</resources>

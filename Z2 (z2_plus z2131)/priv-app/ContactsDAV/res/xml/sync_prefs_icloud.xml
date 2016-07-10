@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <PreferenceScreen android:title="@string/settings_title" android:widgetLayout="@layout/preference_widget_forward">
-        <intent android:targetPackage="com.zui.davdroid" android:action="davdroid.intent.action.ACCOUNT_SETTINGS" android:data="@string/icloud_account_type" android:targetClass="at.bitfire.davdroid.ui.settings.AccountActivity" />
-    </PreferenceScreen>
-</PreferenceScreen>

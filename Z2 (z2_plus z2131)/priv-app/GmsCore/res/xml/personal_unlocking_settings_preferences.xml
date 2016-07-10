@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <Preference android:icon="@drawable/quantum_ic_devices_other_black_24" android:title="@string/auth_trust_agent_pref_trusted_devices_title" android:key="auth_trust_agent_pref_trusted_devices_key" android:summary="@string/auth_trust_agent_pref_trusted_devices_default_summary" />
-    <Preference android:icon="@drawable/auth_ic_place_black_24dp" android:title="@string/auth_trust_agent_pref_trusted_places_title" android:key="auth_trust_agent_pref_trusted_places_key" android:summary="@string/auth_trust_agent_pref_trusted_places_default_summary" />
-    <Preference android:icon="@drawable/auth_ic_scope_icon_facl" android:title="@string/auth_trust_agent_pref_face_unlock_title" android:key="auth_trust_agent_pref_face_unlock_key" android:summary="@string/auth_trust_agent_pref_face_unlock_disabled_summary" />
-    <Preference android:icon="@drawable/quantum_ic_mic_black_24" android:title="@string/auth_trust_agent_pref_voice_unlock_title" android:key="auth_trust_agent_pref_voice_unlock_key" android:summary="@string/auth_trust_agent_pref_voice_unlock_disabled_summary" />
-    <Preference android:icon="@drawable/auth_fitness_icn_scope_activity" android:title="@string/auth_trust_agent_pref_activity_recognition_unlock_title" android:key="auth_trust_agent_pref_activity_recognition_unlock_key" />
-</PreferenceScreen>
