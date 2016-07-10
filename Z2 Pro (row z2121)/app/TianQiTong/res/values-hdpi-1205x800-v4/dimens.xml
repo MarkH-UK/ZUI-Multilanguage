@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="forecast_minicard_divline_leftright_space">15.0dip</dimen>
-    <dimen name="settings_city_drag_height">190.0dip</dimen>
-    <dimen name="forecast_bottom_tab_height">52.0dip</dimen>
-    <dimen name="me_margin_bottom">73.0dip</dimen>
-</resources>
