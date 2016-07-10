@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="v2_ipv6_not_supported_text_appearance_title" parent="@style/v2_font_roboto_light">
-        <item name="android:textSize">20.0sp</item>
-        <item name="android:textColor">@android:color/black</item>
-    </style>
-</resources>
