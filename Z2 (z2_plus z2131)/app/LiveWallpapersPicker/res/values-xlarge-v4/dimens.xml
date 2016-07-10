@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="live_wallpaper_preview_button_width">200.0dip</dimen>
-    <dimen name="live_wallpaper_grid_item_width">224.0dip</dimen>
-    <dimen name="live_wallpaper_grid_item_height">192.0dip</dimen>
-</resources>

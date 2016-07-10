@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<wallpaper android:description="@string/wallpaper_clock_desc" android:settingsActivity="com.android.wallpaper.polarclock.PolarClockSettings" android:thumbnail="@drawable/polarclock_thumb" android:author="@string/wallpaper_clock_author"
-  xmlns:android="http://schemas.android.com/apk/res/android" />

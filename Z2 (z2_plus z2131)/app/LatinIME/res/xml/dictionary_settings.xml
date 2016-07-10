@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen android:title="@string/dictionary_settings_title" android:summary="@string/dictionary_settings_summary"
-  xmlns:android="http://schemas.android.com/apk/res/android" />

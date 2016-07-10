@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ga_sampleFrequency">100</string>
-    <boolean name="ga_anonymizeIp">true</boolean>
-    <boolean name="ga_reportUncaughtExceptions">true</boolean>
-    <bool name="ga_autoActivityTracking">false</bool>
-    <string name="ga_trackingId">UA-60139364-1</string>
-</resources>

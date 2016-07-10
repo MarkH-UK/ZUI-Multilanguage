@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merge
-  xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
-    <include latin:keyboardLayout="@xml/rowkeys_qwertz3" />
-    <Key latin:keySpec="đ" />
-    <Key latin:keySpec="ž" />
-</merge>
