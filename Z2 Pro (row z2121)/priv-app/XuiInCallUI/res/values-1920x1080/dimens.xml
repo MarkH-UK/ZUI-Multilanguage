@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="answer_view_message_hungup_bottom">27.0dip</dimen>
-    <dimen name="answer_view_has_navigationbar_bottom">0.0dip</dimen>
-    <dimen name="call_button_has_navigationbar_bottom">0.0dip</dimen>
-</resources>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="dialog_divider_height">2.0px</dimen>
-    <dimen name="dialog_divider_width">2.0px</dimen>
-    <dimen name="buttom_green_split_line_height">2.0px</dimen>
-</resources>
