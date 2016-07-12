@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactsDAV</string>
+    <string name="help">Допомога</string>
+    <string name="login_auth_preemptive">Випереджаюча автентифікація (рекомендовано, але несумісно із Digest auth)</string>
+    <string name="login_base_url">Базовий URL (колекції будуть визначені автоматично):</string>
+    <string name="login_email_address">Електронна адреса:</string>
+    <string name="login_email_description">"Будь ласка, введіть вашу електронну адресу. Її доменне ім'я буде використане для автовизначення налаштувань сервісу."</string>
+    <string name="login_http_warning">Якщо Ви не використовуєте шифрування (HTTPS), інші люди можуть легко перехопити Ваші дані авторизації, контакти та події.</string>
+    <string name="login_password">Пароль:</string>
+    <string name="login_type_email">Увійти за допомогою електронної пошти</string>
+    <string name="login_type_email_description">Налаштування сервісу буде автоматично визначене з доменного імені. Наприклад: myaccount@icloud.com</string>
+    <string name="login_type_url">Увійти за допомогою URL та імені користувача</string>
+    <string name="login_type_url_description">Налаштування сервісу буде автоматично визначене із наданого URL та імені користувача. Здебільшого, використовується для самостійно налаштованих сервісів.</string>
+    <string name="login_user_name">"Ім'я користувача:"</string>
+    <string name="main_manage_accounts">Керувати синхронізацією облікових записів</string>
+    <string name="next">Далі</string>
+    <string name="setup_account_details">Подробиці облікового запису</string>
+    <string name="setup_account_name">"Ім'я облікового запису:"</string>
+    <string name="setup_account_name_hint">Мій обліковий запис CalDAV/CardDAV</string>
+    <string name="setup_add_account">Додати обліковий запис</string>
+    <string name="setup_address_books">Адресні книги</string>
+    <string name="setup_calendars">Календарі</string>
+    <string name="setup_querying_server">Опитуємо сервер. Будь ласка, зачекайте…</string>
+    <string name="setup_read_only">лише читання</string>
+    <string name="setup_select_address_book">Оберіть одну адресну книгу (повторне виділення скасовує вибір) для синхронізації:</string>
+    <string name="setup_select_calendars">Оберіть календарі для синхронізації:</string>
+    <string name="setup_what_to_sync">Які колекції повинні бути синхронізовані?</string>
+    <string name="settings_authentication">Автентифікація</string>
+    <string name="settings_enter_password">Введіть Ваш пароль:</string>
+    <string name="settings_enter_username">"Введіть ім'я користувача:"</string>
+    <string name="settings_no_accounts">Не знайдено облікових записів DAVdroid</string>
+    <string name="settings_password">Пароль</string>
+    <string name="settings_password_summary">Оновити пароль, згідно налаштувань Вашого сервера.</string>
+    <string name="settings_preemptive">Випереджаюча автентифікація</string>
+    <string name="settings_preemptive_off">Дані автентифікації будуть надіслані після відповідного запиту сервера</string>
+    <string name="settings_preemptive_on">Дані автентифікації будуть надсилатися із кожним запитом (рекомендовано)</string>
+    <string name="settings_sync">Синхронізація</string>
+    <string name="settings_sync_interval_calendars">Інтервал синхронізації календарів</string>
+    <string name="settings_sync_interval_contacts">Інтервал синхронізації контактів</string>
+    <string name="settings_sync_interval_tasks">Інтервал синхронізації завдань</string>
+    <string name="settings_sync_summary_manually">Лише вручну</string>
+    <string name="settings_sync_summary_not_available">Не доступно</string>
+    <string name="settings_sync_summary_periodically">Кожних %d хвилин, а також негайно при внесенні локальних змін</string>
+    <string name="settings_title">Налаштування</string>
+    <string name="settings_username">"Ім'я користувача"</string>
+    <string name="setup_install_apps_info">Система Android самостійно не підтримує списки завдань (на відміну від контактів та календарів).</string>
+    <string name="setup_install_tasks_app_html">&lt;p>DAVdroid може синхронізувати завдання із &lt;a href=\"market://details?id=org.dmfs.tasks\">додатком Tasks&lt;/a> (від Marten Gajda).&lt;/p> &lt;p>Через &lt;a href=\"https://code.google.com/p/android/issues/detail?id=25906\">особливість системи Android&lt;/a>, &lt;b>додаток Tasks повинен бути встановлений перед встановленням DAVdroid&lt;/b> (інакше, DAVdroid не зможе отримати дозволи на доступ до списків завдань).&lt;/p> &lt;p>Якщо Ви бажаєте, щоб завдання синхронізувалися:&lt;/p> &lt;p>1. Встановіть додаток Tasks.&lt;br/> 2. Перевстановіть DAVdroid (для отримання доступу до завдань). Не видаляйте DAVdroid - це знищить Ваші облікові записи DAVdroid та несинхронізовані дані.&lt;br/> 3. Повторно додайте обліковий запис DAVdroid.&lt;/p> &lt;p>Якщо синхронізація завдань не потрібна, можете пропустити цей крок.&lt;/p></string>
+    <string name="setup_select_task_lists">Оберіть списки завдань для синхронізації:</string>
+    <string name="setup_task_lists">Списки завдань</string>
+    <string name="skip">Пропустити</string>
+</resources>

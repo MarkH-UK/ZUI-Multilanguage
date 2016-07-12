@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Встановити як місто за замовчуванням</item>
+        <item>Видалити це місто</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>За замовчуванням</item>
+        <item>Поворот</item>
+        <item>Бульдозер</item>
+        <item>Вітряк</item>
+        <item>Куб</item>
+        <item>Синусоїда</item>
+        <item>Циліндр</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Немає</item>
+        <item>Відкрити меню робочого столу</item>
+        <item>Показати нещодавні програми</item>
+        <item>Відкрити панель сповіщень</item>
+        <item>Знайти піктограму</item>
+        <item>Блокування екрану</item>
+    </string-array>
+    <string-array name="pref_text_color_choices">
+        <item>Передбачений дизайном теми</item>
+        <item>Чорний</item>
+        <item>Білий</item>
+    </string-array>
+</resources>

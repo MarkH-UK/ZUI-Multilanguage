@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_list_sort_type_entries">
+        <item>@string/net_netfilter_sort_name</item>
+        <item>@string/net_netfilter_sort_flow</item>
+    </string-array>
+    <string-array name="traffic_month_sheet_date">
+        <item>1st Day</item>
+        <item>2nd Day</item>
+        <item>3rd Day</item>
+        <item>4th Day</item>
+        <item>5th Day</item>
+        <item>6th Day</item>
+        <item>7th Day</item>
+        <item>8th Day</item>
+        <item>9th Day</item>
+        <item>10th Day</item>
+        <item>11th Day</item>
+        <item>12th Day</item>
+        <item>13th Day</item>
+        <item>14th Day</item>
+        <item>15th Day</item>
+        <item>16th Day</item>
+        <item>17th Day</item>
+        <item>18th Day</item>
+        <item>19th Day</item>
+        <item>20th Day</item>
+        <item>21st Day</item>
+        <item>22nd Day</item>
+        <item>23rd Day</item>
+        <item>24th Day</item>
+        <item>25th Day</item>
+        <item>26th Day</item>
+        <item>27th Day</item>
+        <item>28th Day</item>
+        <item>29th Day</item>
+        <item>30th Day</item>
+        <item>31st Day</item>
+    </string-array>
+    <string-array name="traffic_correct_cycle_time">
+        <item>Daily</item>
+        <item>Every three days</item>
+        <item>Weekly</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="datetime_unit_name">
+        <item>Day</item>
+        <item>hour(s)</item>
+        <item>minute(s)</item>
+        <item>second(s)</item>
+    </string-array>
+    <string-array name="traffic_notice_month_percents">
+        <item>80%</item>
+        <item>90%</item>
+        <item>95%</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="correct_result">
+        <item> calibrated successfully</item>
+        <item>Invalid slot</item>
+        <item>Query callback has not been set</item>
+        <item>The last query for this card has not been completed</item>
+        <item>Designated province has not been set</item>
+        <item>Operator information has not been set</item>
+        <item>Verification code has not been set</item>
+        <item>Verification code has been changed</item>
+        <item>Invalid verification code</item>
+        <item>Network error</item>
+        <item>Server error</item>
+        <item>Failed to receive SMS</item>
+        <item>Failed to send SMS</item>
+        <item>Operator busy</item>
+        <item>SIM card not ready</item>
+        <item>Unknown error</item>
+        <item>Failed to guess the operator</item>
+    </string-array>
+    <string-array name="sim_name">
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="operator_name">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item></item>
+    </string-array>
+    <string-array name="traffic_auto_correct_time">
+        <item>One day</item>
+        <item>Three days</item>
+        <item>Seven days</item>
+        <item>Close automatic calibration</item>
+    </string-array>
+    <string-array name="traffic_provinces_code">
+        <item>10</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>311</item>
+        <item>371</item>
+        <item>351</item>
+        <item>531</item>
+        <item>471</item>
+        <item>24</item>
+        <item>431</item>
+        <item>451</item>
+        <item>25</item>
+        <item>571</item>
+        <item>551</item>
+        <item>591</item>
+        <item>791</item>
+        <item>27</item>
+        <item>731</item>
+        <item>20</item>
+        <item>771</item>
+        <item>898</item>
+        <item>28</item>
+        <item>851</item>
+        <item>891</item>
+        <item>871</item>
+        <item>29</item>
+        <item>931</item>
+        <item>971</item>
+        <item>951</item>
+        <item>991</item>
+    </string-array>
+    <string-array name="traffic_provinces">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Tianjing</item>
+        <item>Chongqing</item>
+        <item>Hebei</item>
+        <item>Henan</item>
+        <item>Shanxi</item>
+        <item>Shandong</item>
+        <item>Inner Mongoria</item>
+        <item>Liaoning</item>
+        <item>Jilin</item>
+        <item>Heilongjiang</item>
+        <item>Jiangsu</item>
+        <item>Zhejiang</item>
+        <item>Anhui</item>
+        <item>Fujian</item>
+        <item>Jiangxi</item>
+        <item>Hubei</item>
+        <item>Hunan</item>
+        <item>Guangdong</item>
+        <item>Guangxi</item>
+        <item>Hainan</item>
+        <item>Sichuan</item>
+        <item>Guizhou</item>
+        <item>Tibet</item>
+        <item>Yunnan</item>
+        <item>Shanxi</item>
+        <item>Gansu</item>
+        <item>Qinghai</item>
+        <item>Ningxia</item>
+        <item>Xinjiang</item>
+    </string-array>
+    <string-array name="traffic_provinces_cn">
+        <item>北京</item>
+        <item>上海</item>
+        <item>天津</item>
+        <item>重庆</item>
+        <item>河北</item>
+        <item>河南</item>
+        <item>山西</item>
+        <item>山东</item>
+        <item>内蒙古</item>
+        <item>辽宁</item>
+        <item>吉林</item>
+        <item>黑龙江</item>
+        <item>江苏</item>
+        <item>浙江</item>
+        <item>安徽</item>
+        <item>福建</item>
+        <item>江西</item>
+        <item>湖北</item>
+        <item>湖南</item>
+        <item>广东</item>
+        <item>广西</item>
+        <item>海南</item>
+        <item>四川</item>
+        <item>贵州</item>
+        <item>西藏</item>
+        <item>云南</item>
+        <item>陕西</item>
+        <item>甘肃</item>
+        <item>青海</item>
+        <item>宁夏</item>
+        <item>新疆</item>
+    </string-array>
+    <string-array name="month_remaining1_bt">
+        <item>Ok</item>
+        <item>Enter Data Package Management</item>
+    </string-array>
+    <string-array name="month_remaining2_bt">
+        <item>Continue to connect to the network</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="month_remaining3_bt">
+        <item>Continue to connect to the network</item>
+        <item>Cancel</item>
+    </string-array>
+</resources>

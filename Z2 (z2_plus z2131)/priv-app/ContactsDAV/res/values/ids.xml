@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="text_report">false</item>
+    <item type="id" name="forward">false</item>
+    <item type="id" name="account_fragment">false</item>
+    <item type="id" name="settings_scope">false</item>
+    <item type="id" name="right_pane">false</item>
+    <item type="id" name="login_icloud">false</item>
+    <item type="id" name="apple_id">false</item>
+    <item type="id" name="icloud_password">false</item>
+    <item type="id" name="show_password">false</item>
+    <item type="id" name="login_url">false</item>
+    <item type="id" name="login_host_path">false</item>
+    <item type="id" name="userName">false</item>
+    <item type="id" name="password">false</item>
+    <item type="id" name="description">false</item>
+    <item type="id" name="login">false</item>
+    <item type="id" name="help">false</item>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>پیش فرض</item>
+        <item>چرخش</item>
+        <item>ترس و وحشت</item>
+        <item>آسیاب بادی</item>
+        <item>مکعب</item>
+        <item>موج سینوس</item>
+        <item>استوانه</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>هیچکدام</item>
+        <item>باز کردن منوی دسک تاپ</item>
+        <item>نمایش برنامه هایی که اخیراً استفاده شده است</item>
+        <item>باز کردن نوار اعلان</item>
+        <item>نماد یافتن</item>
+        <item>صفحه قفل</item>
+    </string-array>
+    <string-array name="pref_text_color_choices">
+        <item>طراحی طرح زمینه</item>
+        <item>سیاه</item>
+        <item>سفید</item>
+    </string-array>
+</resources>

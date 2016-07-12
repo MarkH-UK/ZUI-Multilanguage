@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_status_bar">#ff000000</color>
+    <color name="color_option_menu_text">#ff1499f7</color>
+    <color name="color_option_menu_text_pressed">#991499f7</color>
+    <color name="color_primary_button_text">#ffffffff</color>
+    <color name="color_primary_button_text_disable">#99ffffff</color>
+</resources>

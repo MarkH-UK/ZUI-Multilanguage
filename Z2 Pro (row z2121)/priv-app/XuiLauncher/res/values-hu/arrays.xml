@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Beállítás alapértelmezett városként</item>
+        <item>Város törlése</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Alap animáció</item>
+        <item>Forgatás</item>
+        <item>Bulldózer</item>
+        <item>Szélmalom</item>
+        <item>Kocka</item>
+        <item>Szinuszhullám</item>
+        <item>Henger</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Egyik sem</item>
+        <item>Asztali menü megnyitása</item>
+        <item>Legutóbb használt alkalmazások megjelenítése</item>
+        <item>Értesítési sáv megnyitása</item>
+        <item>Ikon keresése</item>
+        <item>Zárolási képernyő</item>
+    </string-array>
+    <string-array name="pref_text_color_choices">
+        <item>Betűtípus</item>
+        <item>Fekete</item>
+        <item>Fehér</item>
+    </string-array>
+</resources>

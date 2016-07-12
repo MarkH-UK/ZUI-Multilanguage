@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Setare ca oraş implicit</item>
+        <item>Ştergere oraş</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Implicită</item>
+        <item>Rotire</item>
+        <item>Forţare</item>
+        <item>Moară de vânt</item>
+        <item>Cub</item>
+        <item>Val sinusoidal</item>
+        <item>Cilindru</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Niciunul</item>
+        <item>Deschidere meniu desktop</item>
+        <item>Afişare aplicaţii recent utilizate</item>
+        <item>Deschidere bară de notificări</item>
+        <item>Pictograma Găsire</item>
+        <item>Ecran de blocare</item>
+    </string-array>
+    <string-array name="pref_text_color_choices">
+        <item>Designul temei</item>
+        <item>Negru</item>
+        <item>Alb</item>
+    </string-array>
+</resources>

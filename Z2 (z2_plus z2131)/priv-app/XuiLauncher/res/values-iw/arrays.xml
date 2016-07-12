@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>הגדרה כעיר ברירת מחדל</item>
+        <item>מחיקת עיר זו</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>אנימציה ברירת מחדל</item>
+        <item>סיבוב</item>
+        <item>דחיסה</item>
+        <item>תחנת רוח</item>
+        <item>קוביה</item>
+        <item>גל סינוס</item>
+        <item>גליל</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>ללא</item>
+        <item>פתיחת תפריט שולחן העבודה</item>
+        <item>הצגת יישומים שנעשה בהם שימוש לאחרונה</item>
+        <item>פתיחת שורת ההודעות</item>
+        <item>סמל חיפוש</item>
+        <item>מסך נעילה</item>
+    </string-array>
+</resources>

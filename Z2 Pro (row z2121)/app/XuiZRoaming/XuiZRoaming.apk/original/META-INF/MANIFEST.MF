@@ -1,0 +1,1085 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/layout/activity_settings.xml
+SHA-256-Digest: yF0pxch2eskw7/vDQdRUvrwn0FUKFUZ1jdY1DBQK378=
+SHA1-Digest: fwx0EhyYgC6bdjiq1gWsW2tdiKE=
+
+Name: res/drawable-xxxhdpi-v4/croatia.jpg
+SHA-256-Digest: J3J9wpzMN+b74QmW+YoqFD4Cs4dDTNYO8F+M7cBLmyA=
+SHA1-Digest: LhU8LiTzh4HKrtTAAk8A5vo9dYQ=
+
+Name: res/drawable/red_button.xml
+SHA-256-Digest: 0E4/T1hbbIEuMGUEEQywru+UjntyhAceWiRD5PJiF4M=
+SHA1-Digest: 2bzCBDCfkbSaRPoRii4ONAPW6S4=
+
+Name: res/color/red_button_text.xml
+SHA-256-Digest: AR17D+tkv3/dLyF2X0UQ14kr+bxSGTk8Cj2W9NbV11A=
+SHA1-Digest: H+Pubig6TFaybbwgRd8YC8oLdQI=
+
+Name: res/drawable/tab_home.xml
+SHA-256-Digest: cHMeLMRR4Yy0cwQqRjbuUAVGfFk84bxbWu36/SakGbA=
+SHA1-Digest: DhKOXzVWooQ0H5yDdDgdeNwuB2Q=
+
+Name: res/drawable/input_field_bg.xml
+SHA-256-Digest: DsJ2TmxRiViUjfcX+Mv5uvbZHOoZRD5eeuCFe4eDa9g=
+SHA1-Digest: 7vs3Ujh+sJ0rRAjsp5LF+rqf0CY=
+
+Name: res/xml/pref_setting.xml
+SHA-256-Digest: Lp9XYQSR4iQqv/baQoxjJZ1ppnTfCD5vMq5Aj8+P6/M=
+SHA1-Digest: boG/uPbKLWEtTShPc+soei0kQAI=
+
+Name: res/layout/header_viewpager.xml
+SHA-256-Digest: RMTe4Me/M5cAPWk0KiGCHWqBp6BluMcTZn6Q7jSnhCw=
+SHA1-Digest: gjTWBMqbyuDi5iNGzRWJHZOq8K4=
+
+Name: res/drawable-xxhdpi-v4/color_progress.png
+SHA-256-Digest: xESNh+X3/6DCIrInCZ/suzU5RNz+n26I+6R5MJzklTw=
+SHA1-Digest: GzwtUlVpf8kfbqrNUHL2rF2//o4=
+
+Name: res/xml/pref_purchase.xml
+SHA-256-Digest: 5IvDcSyf7mgP4hn0n9+0rWTcwK3GL2ooeJSkX9zubQQ=
+SHA1-Digest: effPvNqzP+kZEZIXsPHWfT59sQI=
+
+Name: res/layout/preference_arrow.xml
+SHA-256-Digest: 0DZuVA8+4tRo9VTDwr/Yxyfx+l2h6pPkUWgjSKhWs5k=
+SHA1-Digest: 7NMm4jA1eAwaAV0WUhW4WKK+Q/w=
+
+Name: res/drawable-xxxhdpi-v4/singapore.jpg
+SHA-256-Digest: v/5lQ01DGXhM3oAxhOUtvxiS4EjAcia4mx07ZPuUVtQ=
+SHA1-Digest: 5adVQaoVTb0mcWCf41Lr7gKCxsU=
+
+Name: res/layout/select_slot_view.xml
+SHA-256-Digest: eNhCjvKWiT6JTbo19JB87Tnx7FoNBsGhyf7llkE3j/0=
+SHA1-Digest: Onxjt6J48r1Xc+MsKbt1Gq+w/uQ=
+
+Name: res/layout/preference_checkbox.xml
+SHA-256-Digest: dm9+4rBsbQ3SwW3f2qyE7WJ4gon+RX3KA96bzxlPkIk=
+SHA1-Digest: 3/QQzEEB2CA+QArhnZKI7RX7lUo=
+
+Name: res/drawable-xhdpi-v4/days_sel_normal.png
+SHA-256-Digest: h0YAeR/t1Ii3An5woiCxoMEeucB9Fz1kk5PBkDSwsq8=
+SHA1-Digest: Wjl37GAu+Eq2lKeJDKDOrjNu/qc=
+
+Name: res/drawable-xxxhdpi-v4/estoniaflag.png
+SHA-256-Digest: 2DK0xQmFSlsJWab31VGM/kF6Wk4Cby1Db7fVUwSJhDY=
+SHA1-Digest: 1NsD9ssUXMq2ZiMwPqwztjepsIM=
+
+Name: res/drawable-xxxhdpi-v4/spainflag.png
+SHA-256-Digest: A2GeOFBweeZgTGaM1yC3Ol+DIcBge4Hg4lZ++TgzcSY=
+SHA1-Digest: JWwzyBQu16hA8ig1pyTNrOFeyHY=
+
+Name: res/drawable-xxxhdpi-v4/taiwanflag.png
+SHA-256-Digest: fX+eKRzZjDHlttElKWgdYq0ArD0oeP2h1S/8Bi+vRBY=
+SHA1-Digest: HH4qtNnGI20UF3t0yOKvPZwfQxM=
+
+Name: res/drawable-xxxhdpi-v4/america.jpg
+SHA-256-Digest: hCPbPwj/RB2xA2uZ6yJJNHDQEHVZCH/bZxD5ZwKXf6c=
+SHA1-Digest: lf4TknRqSrgYLoIUkdx+BoKPx3k=
+
+Name: res/drawable-xxxhdpi-v4/hongkong.jpg
+SHA-256-Digest: Xenpbf4dVvZUoTEbNuNh7N1aD2LYuXxvS75RD93QrrQ=
+SHA1-Digest: +EEycntl/v5IFlTqpco5Jj4qG9w=
+
+Name: res/drawable-xxxhdpi-v4/succ_icon.png
+SHA-256-Digest: hhewDdl3A7VgLib999Ma941cdTfnx3pzZhlAl5xuhtA=
+SHA1-Digest: d8CYNbGOxBMvGHnXBvDMD4TJCQU=
+
+Name: res/drawable-xxxhdpi-v4/italia.jpg
+SHA-256-Digest: EBD02YB7MxJf4YVO5MbURz/DTJ0S+53Okurw0F9lLU0=
+SHA1-Digest: lJ5fRoKu8cKaY9JwApo+6P5UmRM=
+
+Name: res/drawable-xxxhdpi-v4/newzealand.jpg
+SHA-256-Digest: KwoYXE+pbdU9PDaqGbyQEeAohhIBKuXsS2ctUFbcesk=
+SHA1-Digest: 24co5jasvw9SlCKmqcdRHS7cw44=
+
+Name: res/layout/header_viewpager_item.xml
+SHA-256-Digest: PX9fr9hVG1nAdbG6e3YpkbGqcZZXSQBqaq0ZZMoPkXc=
+SHA1-Digest: IkKk2d401cluI6Wdrl+4O72iNlU=
+
+Name: res/layout/section_dummy.xml
+SHA-256-Digest: IXjzbGwWfU4QgsoWwthN4fFjIMR31/goojfNKsLGyWo=
+SHA1-Digest: CoyH5Xgp/Q8uVLLoCHTguY3JU7Q=
+
+Name: res/drawable-xxxhdpi-v4/norwayflag.png
+SHA-256-Digest: ks9eOFXo96C86JkCCdlyN11f6zyBjZrwgkupLTNmzvc=
+SHA1-Digest: JGyIJJB5FAg3qW903SzEW1s1nO4=
+
+Name: res/layout/dataplan_list_item.xml
+SHA-256-Digest: T3HHCh6uWhfsyEqeUATj/xW9HBv0I9Iroc8ogkNPi8c=
+SHA1-Digest: clSjVWBMTAbnGjFpGCeGIrViXsI=
+
+Name: res/drawable-xxxhdpi-v4/germanyflag.png
+SHA-256-Digest: pV2XKaGOs/xdjN/o2YxWJED86AaUF9R/CZD6VMo3eQg=
+SHA1-Digest: ocNwCFSUISIo7HQp747t/q1exK0=
+
+Name: res/drawable-xxxhdpi-v4/sweden.jpg
+SHA-256-Digest: 4dfr2tb5kWbkznphpptOYn8ABFjTjdtCIxPyBa6JDPY=
+SHA1-Digest: 7amxWtMcjBADE94w+WbJxNBSpsY=
+
+Name: res/drawable/dialog_bg.xml
+SHA-256-Digest: Fg8CP4MuBcoeK2FHBJZRUvuhGzQUX3agVx2vXDfsDxU=
+SHA1-Digest: wKJEFlgl2uuy1bNKKwiFMlK2Yco=
+
+Name: res/layout/brand_footer.xml
+SHA-256-Digest: e6kUYWqFEEbNblm+ysxOIwU6BpD5lsar/ewP38qqVy4=
+SHA1-Digest: IzmGiIaTyJ90ESIhecHJtFewFDQ=
+
+Name: res/drawable-xxxhdpi-v4/usncanada.jpg
+SHA-256-Digest: aouAr6zV0LhpCap4cvkPYCv64Wm3aF+RbB0REwzQ27E=
+SHA1-Digest: C/WN2wM0kYyOVEf19g91mkvkZYk=
+
+Name: res/layout/preference.xml
+SHA-256-Digest: qo28DCamRslSfggLLKqrAHfLebL4hoDmZaiadTAWTK0=
+SHA1-Digest: b3FULTf8XjbTxAgbEhOY7DcyFDc=
+
+Name: res/drawable-xxxhdpi-v4/maltaflag.png
+SHA-256-Digest: Xur/s9JvkMrRYpkyQKiiTNkNh8Qg312H7m7sS4qYCkM=
+SHA1-Digest: TXBYmZ4W8M5xCMoGAJRn69Gi5QA=
+
+Name: res/drawable-xhdpi-v4/wechat_pay_disabled.png
+SHA-256-Digest: jmA8AQN7AMXdsEsWL4vHF5sL9pYccWD1+x9st8UZPpY=
+SHA1-Digest: CjTyiTcrJ+c56LKfrpFUvv6T8b8=
+
+Name: res/layout/fragment_list.xml
+SHA-256-Digest: 1SDnE6C9ujJd8gLZfWryX76X52DIX/1p3UQD1Kfg88k=
+SHA1-Digest: kYDjy+R1XK/yEccHZCUDlvJaVc4=
+
+Name: res/layout/activity_choose_day.xml
+SHA-256-Digest: vbtq/sYJ5OUsqXgY/2YudyiSadkOaMmJ79wN/RtVCmc=
+SHA1-Digest: PlnYu9bVnxbD4cQvbGOemqRM1Y8=
+
+Name: res/drawable-xxxhdpi-v4/lithuania.jpg
+SHA-256-Digest: cfRy6/F149z4BH/NzPMlbRkCw+ak/Ic9n18N/i2yY+A=
+SHA1-Digest: 3vwuQkt66Jw9EjjQRkNoucWjH9Y=
+
+Name: res/drawable/setting_row_bg.xml
+SHA-256-Digest: e82KROzOd+BJzG2afQh/QfUppA0PCqBzzQUZDbc4VfE=
+SHA1-Digest: V+1E3l4NLZVTfTkkSqPHRXDABPk=
+
+Name: res/drawable-xxxhdpi-v4/portugalflag.png
+SHA-256-Digest: g0Fz8CRGBX+YOCmlbmtJOEQjK0RLElFfypmSEbsBi1E=
+SHA1-Digest: 62WHqSGyo06JEHkinrHhvcT74P8=
+
+Name: res/drawable-xhdpi-v4/update_progress_bg.9.png
+SHA-256-Digest: tQXmLJpQltRJt7ZcrFedLv+Cf6Vfx4gDCSZtdpFW0lg=
+SHA1-Digest: xmFLUZMN3pKaukMmSZOIv34g9ds=
+
+Name: res/drawable-xxxhdpi-v4/kazakhstanflag.png
+SHA-256-Digest: fAyWg12/qEqOpu5ZdG/QVKri2/AUT9tql4Ce6F64mGM=
+SHA1-Digest: uShMTwlo8O/8gImXlS7z2jz7YH0=
+
+Name: res/drawable/progress_bg.xml
+SHA-256-Digest: VQxO2wle6kJ9EVH2ft7DR+1CZojfTi3hL0LnTQNJhIQ=
+SHA1-Digest: hN1YEblmliUj1zS3h23inC9L3BA=
+
+Name: res/color/gray_button.xml
+SHA-256-Digest: Bspm1J7ygI8q/oO6uKBbH+m8uiPmelOpsIjQtdtHjMs=
+SHA1-Digest: mGI/apKlpoBhbUawM+jAutAo5Xo=
+
+Name: res/drawable-xxxhdpi-v4/czechrepublicflag.png
+SHA-256-Digest: MYxJs3YM85tWOnplzDgVnA5mx27xVkZ7qSLnHQj9ApQ=
+SHA1-Digest: q2PK7ADyqbRveZ+Bee1uooJSrFs=
+
+Name: res/drawable-xxxhdpi-v4/norway.jpg
+SHA-256-Digest: Jb1IFeYiHUTzUjGJEyVZgV/yUajWTSGy+4D8F8b8tlU=
+SHA1-Digest: VsU113M886h1E6HB9CWQ2KsDTXY=
+
+Name: res/drawable/white_panel_bg.xml
+SHA-256-Digest: wSiLIrnuDBkjSJYUGrqhwSvvarUM1Br9AmyvsXyIAKM=
+SHA1-Digest: 2KNojMx2JeWOh8O7W3bMLCuio5U=
+
+Name: res/drawable-xxxhdpi-v4/austriaflag.png
+SHA-256-Digest: zF3XfPdpOoxw749fz7ZZa9MRbSsqEsAvWPMVm8+x/k8=
+SHA1-Digest: qqVByNyF0q33tt1k93sqk2qYSlA=
+
+Name: res/drawable-xxxhdpi-v4/redtea_branding.png
+SHA-256-Digest: kWEAOFfA5hcdKcyIYcZ0LpeB2KmHZxNiReZpVfdf0d0=
+SHA1-Digest: WyHQ6HLdmespqtX8dkNT9Z2fLjM=
+
+Name: res/drawable-xhdpi-v4/push.png
+SHA-256-Digest: 0n6jYp0x0WYD6Q1bwS7/GUIm/eq7vwLgyqAEaGN7gOA=
+SHA1-Digest: QEWrTPtvlg9CjlmlHvaOzcvmdsQ=
+
+Name: res/drawable-xhdpi-v4/back_white_pressed.png
+SHA-256-Digest: zfhxvV9tK62MqcrAJi+OzjOa2ryLwgK4l+ZIw1YuwbI=
+SHA1-Digest: 82LMIecSwrAJtkjdYd7rgyaIqJs=
+
+Name: res/drawable-xhdpi-v4/red_back_normal.9.png
+SHA-256-Digest: T/CMA2CwQmxS24BVS4RLiMbV1idnSR7Ul8Y8rrj2SG0=
+SHA1-Digest: 7rRc8CL7wR3WNyEPYQC9vKgARRs=
+
+Name: res/drawable/dialog_background.xml
+SHA-256-Digest: 4qi3LThfSSJPQ7Eo7I3FLM/bXlEM7DZGa1I0NGMPqs0=
+SHA1-Digest: uE3suptBAdDijfyt2EA32n/5q2A=
+
+Name: res/drawable-xxxhdpi-v4/iceland.jpg
+SHA-256-Digest: rTKMc58QLAX1j3kEaxUlVyXvWXDDrPbojnSH+P7zmdY=
+SHA1-Digest: DK/3RTjYCKobD1KIWH5BdfV9fgI=
+
+Name: res/drawable-xxhdpi-v4/large_logo.png
+SHA-256-Digest: 7cFdvGAy1YSEwsxJk67vqK16hq/ym5sEqSZAnqoCqg0=
+SHA1-Digest: 5NWCDzXCD6yiWeXCjMkvK2CWAYE=
+
+Name: res/drawable-xxxhdpi-v4/malta.jpg
+SHA-256-Digest: ac6tXUG92P8fd6BoRn/EkCj3GEDGWksQ5kSh4hPYqr0=
+SHA1-Digest: 1Lb3vhZtrcL4syoW2At3gDt2zak=
+
+Name: res/drawable-xxxhdpi-v4/waiting.png
+SHA-256-Digest: ew+He0iXBUGyunZCRiGeMpu+K8/QVlDM6GPHoGLa5SU=
+SHA1-Digest: zt0oUdpdCK/jhmHid51NQ5S+aJo=
+
+Name: res/layout/activity_creditcard.xml
+SHA-256-Digest: fZMZHah3rbjwRYFwh+/LyjpjObntcnCr0iMBnOhWcGo=
+SHA1-Digest: XBpBvkilohbss99a25lS1tGcU3g=
+
+Name: res/drawable-xhdpi-v4/close_pressed.png
+SHA-256-Digest: hjJlm90QA4kIGDMaW3rPMP6XyjRsA/gyPEgMInwvyWU=
+SHA1-Digest: LGWqvQDVjKhIQa2eXaDtiSlBuEo=
+
+Name: res/drawable-xxhdpi-v4/notification_app_icon_pull_down.png
+SHA-256-Digest: rJWMkg20aMdETL5TTyoZ2QZETWJaWMnsl053RtViTew=
+SHA1-Digest: 65r+Bjpv+YRN3nfIHAk3zUnySak=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: k18lziuAAK8T60LodTOGw8iZnxsxQvoskLh9SR2H/pw=
+SHA1-Digest: vEJQmmpB644P+w+fxj08kXPpnwU=
+
+Name: res/layout/pay_list_item.xml
+SHA-256-Digest: fVZ6O8LB9xvvhvfNp45bPFfGvmnCEKy4OPKnn2mV6ls=
+SHA1-Digest: 0uoK8aTe6O4Hz+ucpr7gVgiLdq8=
+
+Name: res/layout/activity_user_attention.xml
+SHA-256-Digest: MeqaN2nF8y6bTGAWoNawcn+VuyssTA+I5PnJ1NtimAc=
+SHA1-Digest: xOP3GXW5Os98pF08r7SXBnMXjHk=
+
+Name: res/color/blue_button.xml
+SHA-256-Digest: c1kj4tC+ORQhZeHr6YdZs2pELqFIws0ev6T7JGhq0Y8=
+SHA1-Digest: BVdX37VVfsNX1zqHqSlhrBgf+H4=
+
+Name: res/drawable-xxxhdpi-v4/inservice_icon.png
+SHA-256-Digest: x8hiKT/o94wywc48T39NP+O4TMyzOvMRXg85ldo2cZA=
+SHA1-Digest: gvM5/GF7LzBJFJpgyiopoqtLQZY=
+
+Name: res/drawable-xhdpi-v4/dialog_normalbtn_normal.9.png
+SHA-256-Digest: IQjZuiWoWCw7dRhw/tPrM+awCbVjmx4I6mJZLS3FWyY=
+SHA1-Digest: FhS5c+a03xcej8tUc0YBk+rCHzQ=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: jjZ5VgJx8PZSGxWRGFUb75X+Oe5yPXTMZWmu7NBzZ7A=
+SHA1-Digest: 8lbdhDg9P5WqIg4f1u7cvLsxnZM=
+
+Name: res/layout/purchase_list_item.xml
+SHA-256-Digest: Zf9z6PDDY+Bd8NsLDleT0IyvICSD32AkwQ1MVTW1ngo=
+SHA1-Digest: MJhRcXDzigVzS7xDzZh0iwcI8os=
+
+Name: res/drawable-xxxhdpi-v4/germany.jpg
+SHA-256-Digest: /U2WqV4zzk8B/7xYEYQsr/eEDWkMoB2HQ1MsK0kalA4=
+SHA1-Digest: oAn9xyXeJ8bQ7xiQmJctHNwvswg=
+
+Name: res/drawable-xxxhdpi-v4/korea.jpg
+SHA-256-Digest: wfXXe6Oog2B0QkiXfKW7f2LKvGVZQBeNpAciLjOEZio=
+SHA1-Digest: wytEpvYXnsnxhTcPsnU9IeGjaeE=
+
+Name: res/drawable/dialog_normalbtn_selector.xml
+SHA-256-Digest: RQMMj/2Eum5RkLMskklvTXlJmY2iNOcxd8BLw98NzaM=
+SHA1-Digest: 7hjoLIaCfnWLetfj/kgpw6FtsJ0=
+
+Name: res/drawable-xxxhdpi-v4/austriliaflag.png
+SHA-256-Digest: M33xMMsxDNzNXSghUCXSLOCZ3n0vDVHYlKeemy4I6Z0=
+SHA1-Digest: UTeyoiHArFdbpw61FlvEUTTeaYA=
+
+Name: res/drawable-xxxhdpi-v4/poland.jpg
+SHA-256-Digest: bd5+Ygvq4JGsEovkCyvRd1kC7iSmRnt7npnRQeZQVaM=
+SHA1-Digest: 9jugumsPO7kkzxZOPg5wMcfZ4n4=
+
+Name: res/drawable/progress_small.xml
+SHA-256-Digest: R0djNwkLbXSNwRYkVUXrXWuzgluky1iZAxNrk6HAnNw=
+SHA1-Digest: 4NBIzlcjveNNfLRD6YWkIRojhPc=
+
+Name: res/layout/header_image_item.xml
+SHA-256-Digest: HEvOgsqj0mU+e+Jj7qzWU/quP7HQBpx1MpNosSlI52M=
+SHA1-Digest: Rik50DVM4kZ0/5/jmA8FtvHIho4=
+
+Name: res/drawable-xxxhdpi-v4/japanflag.png
+SHA-256-Digest: uFPZm/s/pvEj8v3jhnp6vFOjYwUoUazucePY1Kd9xdc=
+SHA1-Digest: H2E5VmEb495hkSN3KSJd2JXmIgE=
+
+Name: res/drawable-xxhdpi-v4/com_lenovo_lsf_zuk.png
+SHA-256-Digest: kvTpv3o73o3iAUNIUhZS8tu2j+Rrb5ky2BjU4txvMVY=
+SHA1-Digest: l3zXJBIag+lfVohlf2qhVyI/Wag=
+
+Name: res/layout/getui_notification.xml
+SHA-256-Digest: u5On/vH82AmzMBpVeLM/DfWMDQF7siBk5CoMfHqivBY=
+SHA1-Digest: 3/cnMknq5f8dBohz6XVnIMGMw+Q=
+
+Name: res/drawable-xxxhdpi-v4/china.jpg
+SHA-256-Digest: J3vtk9TL4M9ghCVES7XAUAzFLbV4bAMaBavIgecI8Dg=
+SHA1-Digest: 9vXF5VOd4GnRFzSfaWJi5JVJIds=
+
+Name: res/drawable/radius_start_roming_bg.xml
+SHA-256-Digest: ZtdY+MDdlZysl+FuloyLRb/S63A4rcUeUl13cziaiSA=
+SHA1-Digest: WH1UqzkyDYzG9nMqd6ZYYXQrmls=
+
+Name: res/drawable-xxxhdpi-v4/macau.jpg
+SHA-256-Digest: N6dG2JAdu3zvAyfITNHayQ4AhoW4KY1NcVil9rftkJk=
+SHA1-Digest: GRU3FkXqgDrIDaEGf8mM1nKouD4=
+
+Name: res/layout/location_grid_item.xml
+SHA-256-Digest: w5DZjQNYd37bS6dqlbHdAAVG4c+G+UU0IYxf6BCDjgQ=
+SHA1-Digest: ZoicSIw97AFGkl2vpapehZdkKJE=
+
+Name: res/drawable-xxxhdpi-v4/montenegroflag.png
+SHA-256-Digest: F9NC1Tm1oC/cSxNpv4TTmROOFunhAqDIxV39r4Lgu4M=
+SHA1-Digest: zgJc46PIDxs3U1buuTu3o9+l0nw=
+
+Name: res/drawable-xxxhdpi-v4/usncanadaflag.png
+SHA-256-Digest: ygRgLOcXQ33kl7ORpQuBnAI1jFckSnIdT7NFY7yCKPs=
+SHA1-Digest: TSqOBQtj5qcPJWuBXAJ8k1CgRR0=
+
+Name: res/drawable-xxxhdpi-v4/cb_checked.png
+SHA-256-Digest: lHG+92vr8SMmjELeX8qMT5BjNOef6j1dIq+bTbcczbw=
+SHA1-Digest: MbIO93C6FgdHOkG3vwJFZZ1iKvw=
+
+Name: res/drawable-xxxhdpi-v4/france.jpg
+SHA-256-Digest: c097cVM/qEcqilI/QvJYXd4LBTq5DD2JJyfoQa3/XDc=
+SHA1-Digest: wcP1sk2rebChJ2GeHmhuTe9e6s8=
+
+Name: res/drawable-xxxhdpi-v4/spain.jpg
+SHA-256-Digest: +yJfqR2DjFzq6GOXtZFpq1QUajIZjJEofgs5171YylU=
+SHA1-Digest: Sno3u7jgVa5byOxPFeujo0/5sG8=
+
+Name: res/drawable/white_bg.xml
+SHA-256-Digest: klEEgq1DOzzMdZER53t/zahRbSLvId+3VRYJp+4z5Io=
+SHA1-Digest: NVEtLkgt0brdFca0vAqovGKFuP4=
+
+Name: res/drawable-xxxhdpi-v4/malaysia.jpg
+SHA-256-Digest: WPfCU2u/oTBjR9O94gmy+gd0XtiuCcpH+cgqJaXl+3Y=
+SHA1-Digest: v+NKqD/Zom33HbUi26n//LklRco=
+
+Name: res/drawable/round_red_background.xml
+SHA-256-Digest: 7Uif6ndRD5l5wfg3ZyYbUAckMSZ9hZKMo8RZAUp8JOw=
+SHA1-Digest: Xuizau3nBmPoeca6L1uL2wCjhcU=
+
+Name: res/drawable-xxxhdpi-v4/kazakhstan.jpg
+SHA-256-Digest: uNlDALP1IBlZ5xBlcjOwLWytAAZvO8QafPVHSUrQs4E=
+SHA1-Digest: ThtBjtvHs1Q0T4JeRPn/l6P/tSQ=
+
+Name: res/layout/item_choose_day.xml
+SHA-256-Digest: ETFnhvlzj1a9lB6G1vmT1pbWISdkYM8kCvQBGKWzUPI=
+SHA1-Digest: V2OWdcoycF05AtRH/MjjpwPHzJU=
+
+Name: res/layout/activity_generic_question.xml
+SHA-256-Digest: WwfJ31e4wRsnpMyvpZ5WTbUsbkEBMeZC6a6njqFO4yY=
+SHA1-Digest: wj9/CI0m+l/IgrWvlnLu3cihjEE=
+
+Name: res/layout/activity_about_iroming.xml
+SHA-256-Digest: Qirr7+ljnRwRRmfUG/pUQ4/RbEwEnQYCBKTuOo/QE0c=
+SHA1-Digest: bx6TuBECh2xJfIin5D2ZbsbNGEE=
+
+Name: res/drawable-xxxhdpi-v4/slovakiaflag.png
+SHA-256-Digest: 0Qfsc6gegjvnxY2JMf4rHeEW0WWjHF45V3pmFr2vRb0=
+SHA1-Digest: Oys45iYag+HZ7eo+eB353cDDhKQ=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA-256-Digest: roDLmErFxgwnwOUwSo73XdFhAkcvwEhaWso3Bvtd2Ow=
+SHA1-Digest: 7Ft/Rirt+l/JRX2KjDREScdbCZk=
+
+Name: res/drawable-xxxhdpi-v4/belgium.jpg
+SHA-256-Digest: Rn0tmLAEbcNtak/8DVfH9NRRRdBMvwINxCvMdt/uOyo=
+SHA1-Digest: A7RHBmJLC63k42cqxQYFY7aAnk4=
+
+Name: res/drawable-xxxhdpi-v4/luxembourg.jpg
+SHA-256-Digest: akv9GNaLbaSnEjJAUiYk5opew7YynCVkwhUzj8URGJ8=
+SHA1-Digest: aiED9Sw1GhQaAUy+ovxLmqHV6nk=
+
+Name: res/drawable-xxhdpi-v4/button_normal.9.png
+SHA-256-Digest: t9/tgArpvQSa0Fles1OQQvoKR84usACV1xPodrEYlS0=
+SHA1-Digest: vfJuAla+f6sERyLuVaA4w59QJlY=
+
+Name: res/color/red_button.xml
+SHA-256-Digest: S5mLNGL1uXYTwkOEGETw/RgOQoNErNiiOzn1XbhXrUU=
+SHA1-Digest: tsSDR5LQw2+oo4c5HXZ1AhRpd1g=
+
+Name: res/drawable-xhdpi-v4/it_process.png
+SHA-256-Digest: ni1S3CdNIQ2WCE6RjIDZZRRsrGRF+Aj7vTXLOIluPsU=
+SHA1-Digest: JsT0qJE6NiLNrJZ9NhcVRt/qkQI=
+
+Name: res/drawable-xxxhdpi-v4/switzerlandflag.png
+SHA-256-Digest: wxrbnBrOewKy59wLXyAcs3kdoYjWm3m65f01HN+H7Gc=
+SHA1-Digest: KBlLzLGHjLdPLidC8+8isgpokO0=
+
+Name: res/drawable-xhdpi-v4/it_approved.png
+SHA-256-Digest: oHC7xNQdK9owmDYF9hnjGNTDAd3/dVPbNwQlISY66m8=
+SHA1-Digest: LojiCZQ1/Buo0GTZbDKha1IpFSg=
+
+Name: res/drawable-xxxhdpi-v4/indonesia.jpg
+SHA-256-Digest: 3TtdBuqtANmpKKeQl0MJYKHK/jbt0R0xI2TxmWeqP1Q=
+SHA1-Digest: VysPSDYgLg+nrm8ahfLUThX650k=
+
+Name: res/drawable-xxxhdpi-v4/turkey.jpg
+SHA-256-Digest: 14cUQHFEf3Ao5y2vNvoiH3D3hz6DHdkJGYXEryWWlkA=
+SHA1-Digest: LkFHMcK4cwBgFsFmu6uTBrXRnKg=
+
+Name: res/drawable-xxxhdpi-v4/bulgariaflag.png
+SHA-256-Digest: 6iZ7SA/S4pJo1uC+ASKzpLDxB/DtcigAM1Zzdu4ytLM=
+SHA1-Digest: 6WdYeHpAJDIydG1FqoKC/xW87/4=
+
+Name: res/layout/fragment_profile.xml
+SHA-256-Digest: kJUfFH0jLiTqSszknubVGe/Z5ArcTolb+WCpHurpFFs=
+SHA1-Digest: 4l8KCmy3DFd87kQkoa4KGFBQ7po=
+
+Name: res/drawable-xxxhdpi-v4/denmarkflag.png
+SHA-256-Digest: O9T7243YLkm/xDpzHvHcHSLan8BymWRKsU4aKKheEoc=
+SHA1-Digest: 63fwrXoCh87dLDbmxwVsQz7nLyY=
+
+Name: res/drawable-xxxhdpi-v4/arrive_icon.png
+SHA-256-Digest: d6xBSeVuG+EqRmD6mUlyLI7wGvxYMqXEe9qi1peT9+8=
+SHA1-Digest: /6e5ztjQQd2w7JxOk1D4iz9TkCQ=
+
+Name: res/drawable-xxxhdpi-v4/turkeyflag.png
+SHA-256-Digest: F03lM+aZyd42AE0/dxqOwpDA3hZZdMmtk4VADZjAWO8=
+SHA1-Digest: GVX/kHOaUefG1WEKyVQrTXdCr3I=
+
+Name: res/drawable-xxxhdpi-v4/estonia.jpg
+SHA-256-Digest: 7fl6aQSXDD9HTI1JUWhgcWmHydesT9tECVqShWobp+Q=
+SHA1-Digest: R4Dk7EagdswBy3pwdumFZkMC15I=
+
+Name: res/drawable-xxxhdpi-v4/irelandflag.png
+SHA-256-Digest: JalCupXEiyVDX3aXkoOGA+2foTLN5MxBUQl5Gh/LM1E=
+SHA1-Digest: nGGJXxzPkNdSb1F07Vhy+cvwz4g=
+
+Name: res/drawable-xxhdpi-v4/zuk.png
+SHA-256-Digest: i8kx7oitct6KULJczer6maTL7VJXy+uvX1rGzNj/PpI=
+SHA1-Digest: Ez2uW5p8DwKEflkWLB74m4mDQng=
+
+Name: res/drawable-xxxhdpi-v4/americaflag.png
+SHA-256-Digest: KRxWTufOOtYCI7wQ/cgXgSZW3A3duPG5qevfMnEj80E=
+SHA1-Digest: oLtyLED0PwcWjXcl762Gqp8X878=
+
+Name: res/drawable-xxxhdpi-v4/ukraine.jpg
+SHA-256-Digest: 5G9UdROJvjthMherEfCjuBvgCk2cJl1ZgIoRbuZHn2M=
+SHA1-Digest: jUZYVRxhZlU69GzguATrip/qr60=
+
+Name: res/drawable-xxhdpi-v4/tab_order_normal.png
+SHA-256-Digest: NrKzc2HFtrQZl3b7ghjHurxpUXPQQy/ZG+DhhG1284k=
+SHA1-Digest: pa6/u35cH9O3tPuLKGbIyd5DYeQ=
+
+Name: res/drawable-xhdpi-v4/it_denied.png
+SHA-256-Digest: zynAMujR89XuEWz6eb1piJSgd5xlEhB2d/5dtwOfKKU=
+SHA1-Digest: 9ZL3NWLm3p/H4TSdisypASzYf/E=
+
+Name: res/layout/purchased_empty.xml
+SHA-256-Digest: +VNI4MrWwlHBlArJHzb1mWiYdbFLBoZcApZT7s/ESOY=
+SHA1-Digest: e9jbY1pMdu+ouCJCqCP4HtM7kKQ=
+
+Name: res/drawable-xxxhdpi-v4/canadaflag.png
+SHA-256-Digest: t3aN+U0rbs/SnsIy78rmsHxYTp3mKojae2enROmfxVs=
+SHA1-Digest: 8x/LY91J9vGAC15mYzWcvMB8mSs=
+
+Name: res/drawable-xxxhdpi-v4/switzerland.jpg
+SHA-256-Digest: XsxbwwEVylHXmsW/i66LWxn9UmzcH3rfZuM5zSgjO7g=
+SHA1-Digest: yei6AJkQVTOWqDyFI+3BVDhh79E=
+
+Name: res/drawable-xxxhdpi-v4/latviaflag.png
+SHA-256-Digest: S6D7wjPpnXZmGH6Fr+Au8/iePjIaIJREAUkEzbQu8Yk=
+SHA1-Digest: DiW564HLYXSiOdvVqQjKFkLSma8=
+
+Name: res/drawable-xxxhdpi-v4/uk.jpg
+SHA-256-Digest: Ce4OFXXXV23e8WOiXSU917Hi03cXKw+pDCX6aVjMTwY=
+SHA1-Digest: ViiJGKGktElps5gbUGxqFEr3xYM=
+
+Name: res/drawable-xxhdpi-v4/grey_progress.png
+SHA-256-Digest: 5ZZDDI8CPi0HvnYAabKlI2SjKP7UNzRZDWv/xWysM7o=
+SHA1-Digest: STSaGfn0tEnhRKVgiga5+gOQMso=
+
+Name: res/drawable-xxxhdpi-v4/lithuaniaflag.png
+SHA-256-Digest: BuTKGQjXPnWIUHfcgbJwqw/O6Oeem5hRTQnEHL6Y3i4=
+SHA1-Digest: t7Me1DaJF/khlA0+dAuwa6Jjnq0=
+
+Name: res/drawable-xxxhdpi-v4/australia.jpg
+SHA-256-Digest: q7Y97L83ZVWVCndPMuFipou2MF151BOOmEBt6UYmoRk=
+SHA1-Digest: CQ/ZD49yQ5R24vksJWQtvwtO2tk=
+
+Name: res/drawable-xhdpi-v4/creditcard.png
+SHA-256-Digest: nGl4AKXjjfL1P0rTok4MfKpW7edSd5E0Nsj8ZgVD4+s=
+SHA1-Digest: 4W3BMqBvenbg6t+8EbnombL2N4U=
+
+Name: res/drawable-xxhdpi-v4/notification_app_icon_status_bar_white.pn
+ g
+SHA-256-Digest: LooQ0NxVjmBDNH36FMr5pg8Uw/yErLytQtmN0RSbCJI=
+SHA1-Digest: Mte4mTj0uX5l6goX1kqxkOc4h8U=
+
+Name: res/drawable/round_white_bg.xml
+SHA-256-Digest: RUcQYa2kGCauyYmef0zDcl3DVLRnweQlN5axaDMBZQE=
+SHA1-Digest: Pp3ZMLy9xQL2FhQKypyIAdKWdEo=
+
+Name: res/menu/menu_setting.xml
+SHA-256-Digest: /j5a7Z4VLtZmfZY2DOZeICGTAMP40ON353BNfZJ4nfw=
+SHA1-Digest: jmiAQvZV4D7nlF2OcvsMj2DYrYQ=
+
+Name: res/drawable-xxxhdpi-v4/romania.jpg
+SHA-256-Digest: jSQu+ldU1OEy5OQbYWWKujxbRdXvKIiJFRN8VPvxFdI=
+SHA1-Digest: 3BdiqtRip7oTzKPmZAH91DKG7io=
+
+Name: res/xml/pref_payment.xml
+SHA-256-Digest: Jpj7U7o3At7lBiTjHjs49X6YTnoI73DkkiDY7LumNsc=
+SHA1-Digest: Zs5ImQrdVBjEOCZCeDA1DLakwlQ=
+
+Name: res/drawable-xxxhdpi-v4/croatiaflag.png
+SHA-256-Digest: jC6meM5ZRIvwdDAzxSCyUVDFojJT3qRdJzEzpkyph/A=
+SHA1-Digest: 94jzjmFdNx2ScFPOY8H7BMnapM0=
+
+Name: res/drawable-xxxhdpi-v4/hknmacau.jpg
+SHA-256-Digest: bR1F4JP6JAGZoRQaoA+EY0JgsK5T/Tjfu/Aog13bcow=
+SHA1-Digest: Grb5qm7deNEUYRvBQYib6+3qKO0=
+
+Name: res/drawable-xhdpi-v4/branding_redtea.png
+SHA-256-Digest: P7ZX4jIOlse6IeAZpikEpw7fYuIMkyx2y1VQn+6HnFM=
+SHA1-Digest: zFdq/uzjLJwjZ9aQIJH3hzfWTBo=
+
+Name: res/drawable-xxxhdpi-v4/belgiumflag.png
+SHA-256-Digest: p3ZTtkiklA8ExVdqXpcKnIw3Z+mVaxwm1RtJYqK4cIs=
+SHA1-Digest: KmBJg7pHeMvFGBb/SQ6efr1EgEY=
+
+Name: res/drawable-xhdpi-v4/sim_with_shadow.png
+SHA-256-Digest: XKyQYeu/PrffbZUQKB2wUloEb8Rbjmv44F6FUlTVN04=
+SHA1-Digest: uzN05XVH28kTA9y4LHh3gbkHJos=
+
+Name: res/drawable-xxxhdpi-v4/romaniaflag.png
+SHA-256-Digest: h4yvzYUQNdoXb+0CfdUgHlYCHf5AtCoqHvEgiU1imNY=
+SHA1-Digest: 1SCp37+ZKRe6Y8A8Y1JLgh1oPF4=
+
+Name: res/drawable-xxxhdpi-v4/cyprus.jpg
+SHA-256-Digest: QA/bs5ExzQNSgFKL938VFRhJZRjXPQSrkkfFy/3eRGo=
+SHA1-Digest: o5noF7QlAc0DE1wWj0R9kIdnFgI=
+
+Name: res/drawable-xxxhdpi-v4/icelandflag.png
+SHA-256-Digest: gNz4gJtQImXdQXYiwh7QZ7qzfR0dg3hxZmBHccXkGgY=
+SHA1-Digest: p7Uma206unLMEj5JPPUZBwpGgZs=
+
+Name: res/drawable-xxxhdpi-v4/greeceflag.png
+SHA-256-Digest: Js2AXjZYNsYMc3I9ShHBN6W51h1IL91I/NR2EolXHSE=
+SHA1-Digest: eF1iK/XlyOfRvm0ge8Hu5KMl96k=
+
+Name: res/drawable-xxhdpi-v4/empty_order.png
+SHA-256-Digest: tbDW0DJkreHgSz3jBPzOFTLbG8jEixY0A/PjAurJvJE=
+SHA1-Digest: 3z3iUC46aj7aIckyMlSpqrn55MY=
+
+Name: res/drawable-xxxhdpi-v4/hknmacauflag.png
+SHA-256-Digest: qUxLvHR7aX2dvRA9s9vr9OXfYMFNqPRAtoocNN0c4xk=
+SHA1-Digest: uRLk22ejAzxXnRfIK9OOR18Og8s=
+
+Name: res/drawable-xxxhdpi-v4/luxembourgflag.png
+SHA-256-Digest: zasF2NGiIwxuCj5APfQeYzr2BD9O5Z+ybOEUITV7V6M=
+SHA1-Digest: PVu4ZGBA8JLR9LnqiLi6Dm7Vipc=
+
+Name: res/drawable-xhdpi-v4/bottom_image_semi_transparent.png
+SHA-256-Digest: P5OQX/uolRKPxOOoDVCNUJJaEUzqumNoOOzmCe3oxtY=
+SHA1-Digest: KsI6jvgm0QRZvxJoHih1zfBkIRc=
+
+Name: res/drawable-xhdpi-v4/alipay.png
+SHA-256-Digest: T4eEKeLyQYXcwiOrAn90RdrQ546rcr5Tks9cAN9WgYo=
+SHA1-Digest: 5pUDh9HtpibzJaWuVZMrA/HLTEE=
+
+Name: res/drawable-xxxhdpi-v4/default_cover.png
+SHA-256-Digest: xgWtKfS96Pa9SFQHquG9ignl4U80neg9YL3k1WqabZ8=
+SHA1-Digest: 3uCFI73Us7JrLw+j5x+X1XXlW74=
+
+Name: res/drawable-xxxhdpi-v4/israel.jpg
+SHA-256-Digest: wrsbiJjsKgkZnUAXdUon5EPPrkVsDayUr3RNGbJq4lw=
+SHA1-Digest: Q7P6ZBbKsm1TuII9d2WwnB5y4C4=
+
+Name: res/drawable-xhdpi-v4/opening_diag.png
+SHA-256-Digest: 0TP4DHUfFx1uHtVEQ1CJqWa143lDSIOx+n9F9OtVmyE=
+SHA1-Digest: pLg+w3jWIGelP1RoAip/j9ZtZno=
+
+Name: res/drawable-xxhdpi-v4/button_ds.9.png
+SHA-256-Digest: UjqywTN9PIdvwi3L3Vo2G1gNld7yUfWmjl8pBWfFzcY=
+SHA1-Digest: 7zoLPLfONVPcRp1cMGuGwsM5/I8=
+
+Name: META-INF/services/javax.annotation.processing.Processor
+SHA-256-Digest: o1Km2HdRMOSc0Y8GVIRlr9xSIbGnR5ha9VeO3di8zL0=
+SHA1-Digest: 3rXvDkoLav51VuVUa2C9yRIh9Vo=
+
+Name: res/drawable/progress_horizontal.xml
+SHA-256-Digest: 5W+HfenR2ZbKnDtg8Cjb/rF0fuKMGVq2o/afxrQJbWo=
+SHA1-Digest: TTi8JVLwMWz9vYAxUC5ieNqlIrI=
+
+Name: res/drawable-xxxhdpi-v4/canada.jpg
+SHA-256-Digest: 0mZwfHSs8b+qrkgsjE7IkMygxqpiOHB2h5VacxnAJQI=
+SHA1-Digest: g9aIKp4RzYr88gTllIFuRmWAd/I=
+
+Name: res/drawable-xxxhdpi-v4/japan.jpg
+SHA-256-Digest: 02WgdX1M0VhztwPOZJ3CNu72QyrpQGyOT5Vsew2iCE4=
+SHA1-Digest: 37yIPYpJ8r+VqlAPt7RNiKAieBU=
+
+Name: res/drawable-xxxhdpi-v4/buy_left.png
+SHA-256-Digest: DMh10L7YVLrHn4T1QND7y2FYQjGQrzr9CvvZsCH/43Q=
+SHA1-Digest: CIMomAboP3rqo0fX1aXbTA/YzPI=
+
+Name: res/drawable-xxxhdpi-v4/location_discount.png
+SHA-256-Digest: 48docVXFQaVxHHRwCH0nxChQaSzX7FDlw5WfwJb+YlQ=
+SHA1-Digest: o0+6Q+4LBYXhaao+MHFY1JL40uY=
+
+Name: res/drawable-xxxhdpi-v4/bulgaria.jpg
+SHA-256-Digest: g+nHKJamCdL4QdZ2+/n3/q4YwQgABE2Dz53Fb6SfkXk=
+SHA1-Digest: xhTHbSx8gC0z5Ulp8nDRNsPrMbE=
+
+Name: res/drawable-xhdpi-v4/demo.png
+SHA-256-Digest: 0n6jYp0x0WYD6Q1bwS7/GUIm/eq7vwLgyqAEaGN7gOA=
+SHA1-Digest: QEWrTPtvlg9CjlmlHvaOzcvmdsQ=
+
+Name: res/drawable-xxxhdpi-v4/israelflag.png
+SHA-256-Digest: ++Ra4jw4efva25xvpo1Alz6E39VgC2CL4Uf031kNje0=
+SHA1-Digest: 52SKoXNARhi7ot1ZvKaSZrVsBD8=
+
+Name: res/anim/fade_out.xml
+SHA-256-Digest: QxBX4OuiMkpqKOqD8mfOWdAgzw2r0W2xYWv20q3pnlg=
+SHA1-Digest: DQHW4Rz33BNBA53BcBiBxVx3XPY=
+
+Name: res/drawable-xxhdpi-v4/button_down.9.png
+SHA-256-Digest: RMKdlPtccC1gNM/p3TuyiE2+Gqt7id+66ts0ju6Le88=
+SHA1-Digest: GzVc9lavSPA0SLuwNqW5Udxpngo=
+
+Name: assets/locations
+SHA-256-Digest: 4pisnJqtIvkQvLhntCUnl3aAM9Bk5JPyGmn3PmF+BmE=
+SHA1-Digest: Fhu/ADsKsRgBf8KA+BLf/pzRga8=
+
+Name: res/color/tab_text.xml
+SHA-256-Digest: ex6t4T2sCN61cGxRxufTxF2gKXaQ/o6L9B3uoTzIpr4=
+SHA1-Digest: TVZROAFTZIQiktCyKvwZVKQY5tY=
+
+Name: res/drawable-xxxhdpi-v4/loc_brand.png
+SHA-256-Digest: P7ZX4jIOlse6IeAZpikEpw7fYuIMkyx2y1VQn+6HnFM=
+SHA1-Digest: zFdq/uzjLJwjZ9aQIJH3hzfWTBo=
+
+Name: res/drawable-xhdpi-v4/alipay_disabled.png
+SHA-256-Digest: msbY/RgCB1x9tPZeq22o27LpNFsO4mZ2z/11IUpvZms=
+SHA1-Digest: ym7PfAGgmz/2I7jVfGD1sbEuuGk=
+
+Name: res/drawable-xxxhdpi-v4/franceflag.png
+SHA-256-Digest: Lw5eFUYGrnxxA4UAonRHct31fI+GkR0UfH2BMP7FRpE=
+SHA1-Digest: R6HsINjqgVZ/axTv7ILp3kiXnyw=
+
+Name: res/drawable/radius_bg.xml
+SHA-256-Digest: U0Wc6f7C7ziW0hj43Rd7okm/aLQb8poWRhqxebWDgc8=
+SHA1-Digest: VVyF/w5Ry/trASvpdSXhyBD7OCY=
+
+Name: res/layout/dataplan_list_3item.xml
+SHA-256-Digest: hZqksAwZq04gqrZAFnf4P2d2SZ7zqaenvLqthqXWHIs=
+SHA1-Digest: hisk0RK09NBeeA1xRGrp1ISS1n4=
+
+Name: res/drawable-xxxhdpi-v4/hungaryflag.png
+SHA-256-Digest: hLFWxqsduvLMeOAn8h3DgvdTSQwXeC5E3Tcr1sCHJyw=
+SHA1-Digest: izetSntwbcsRzeWB4EJ8lWlW/Ho=
+
+Name: res/drawable/notification_icon.xml
+SHA-256-Digest: /Ui9pQi82JarktlBuE8ZRGw8dO8Gm+RNIv8NzAyS/ws=
+SHA1-Digest: h+KeYX8f8VQC3kHp3PdwkZcLITQ=
+
+Name: res/drawable-xhdpi-v4/days_sel_pressed.png
+SHA-256-Digest: XnYjp19evJ1bcDft54jvRuIoEe7/a0GIvnP/TrQqHhE=
+SHA1-Digest: 1OtcTLG2zm6ybgFXQdoIx46nJVE=
+
+Name: res/layout/activity_order_detail.xml
+SHA-256-Digest: VeLxW9CCE58PMSJwgIn0uGL65SFwPhYoP8kQb5tyXMk=
+SHA1-Digest: +zK9Th4ca/i7luc/g6d4MW6L/r0=
+
+Name: resources.arsc
+SHA-256-Digest: Ml95eCmtzsYYn5kDW/vwBSmuxm5D0KN5eH285lDoLH4=
+SHA1-Digest: BMYxZCnL5PzGVtpZGtPZ9G8MqPQ=
+
+Name: res/drawable-xxhdpi-v4/small_logo.png
+SHA-256-Digest: yC8oAffzUcmxzU54kn7WJIJF/taidT7qS8P+//S+sQ0=
+SHA1-Digest: vP227x20Xwbw0SW+Qpjvujn3rAE=
+
+Name: res/drawable-xhdpi-v4/close_normal.png
+SHA-256-Digest: WogYQJpztT8WNZ9Fb+/lywwDdR7IxttHEo/Ca7miND0=
+SHA1-Digest: UHe1K5zsJYRicPOGqvJMwkoozJo=
+
+Name: res/drawable-xxxhdpi-v4/ukflag.png
+SHA-256-Digest: pAjjz/2skpsjh+E7Q6CNuT4oPfEF38vfqsRv9czVUEI=
+SHA1-Digest: NeJNqMhcQ7QPZRjlSki8d2qq9iM=
+
+Name: res/drawable-xxxhdpi-v4/slovenia.jpg
+SHA-256-Digest: hES3wEfWdQY+Cyc8ByvKzxJvuJkgA1Wm136cIh/hFoA=
+SHA1-Digest: ty0w//BX310QGrIX8mHUVNZCXw0=
+
+Name: res/drawable/btn_large_round.xml
+SHA-256-Digest: B0mYslcu/M8PvBlC4k1+6S8rxM+mSzbPwWBQkB1VknE=
+SHA1-Digest: K55vIvtu6+/u1t68wBy3K3cbz4I=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: uZVqoFb9T6D5itI02VNqQTsKmge37x6sDaLV8nCzk5k=
+SHA1-Digest: 2El9/LogQFTRH0ZYeFKPqnlDTk4=
+
+Name: res/drawable-xxxhdpi-v4/finlandflag.png
+SHA-256-Digest: sPyOdmw7YkNJLGtzONJ10+drWnG0BGypSz71WYZQWIQ=
+SHA1-Digest: ayqmh9BST3ZNUrJOZjuP1mLHbhs=
+
+Name: res/drawable-xxxhdpi-v4/macauflag.png
+SHA-256-Digest: j8WeB2tbydJ/wITM8l47IN943wfEKpq3xfnGkKjIhXU=
+SHA1-Digest: zC+3WkmMdaZ6O9xpjPmqn+snXaw=
+
+Name: res/drawable-xxxhdpi-v4/hollandflag.png
+SHA-256-Digest: 4i+majCikwdHCiZEcwfT+hrixYi7oVib5SxOw0czBmk=
+SHA1-Digest: GNcrtQLuOLvpv1zjourbMRvpl8U=
+
+Name: res/drawable-xxxhdpi-v4/newzealandflag.png
+SHA-256-Digest: 2qzae+dpWw/ixk3ihVaLue482R4lCAXe7KppJMAnfL0=
+SHA1-Digest: /viu7LjGdyGsS/zg84eJSB8FtYI=
+
+Name: res/drawable-xxxhdpi-v4/buy_now.png
+SHA-256-Digest: 82SdCgSt0uFDvRAZ1rhmD1Gq6Yy5asUeEaQVIyJ9yGc=
+SHA1-Digest: GORvuoqGbL7V8fVgtxluzl+fAXQ=
+
+Name: res/drawable-xhdpi-v4/dialog_foucsbtn_press.9.png
+SHA-256-Digest: Jc1PQX/648PMWJeUZSawi2rRD2rTATpcy+IiwQshNMU=
+SHA1-Digest: n4fNBVMgbOK6g/LmwDzoBz+b7nM=
+
+Name: res/drawable-xhdpi-v4/promotion_gift.png
+SHA-256-Digest: NNfzFdD95LG4N1UXCtl3S75AohvaoT3bohulAtgdL8A=
+SHA1-Digest: 9J6JVzyyoxAEa59iC5hpbroxaVw=
+
+Name: res/drawable-xxxhdpi-v4/thailandflag.png
+SHA-256-Digest: /3OD5VThLzc5LAYwwIv24Xsux28XUEy7LSYFwE4Rhws=
+SHA1-Digest: 2j/z+Xi+jkTVnzduyDNymeCxTLc=
+
+Name: res/drawable-xxhdpi-v4/after_pay.png
+SHA-256-Digest: sd33TcJCd3LyaXEpW8FD5U4JTfU66EWNb1H5em5y4i0=
+SHA1-Digest: yJ3ZPNXvGy4V4SrLPhV1NaPNP+U=
+
+Name: res/drawable-xxxhdpi-v4/italiaflag.png
+SHA-256-Digest: s4jyv3EKOZsI6FpmVsdwOMfYLvwFrU3hAQGQEAejva8=
+SHA1-Digest: oj4b5GqTzQNr2iS0lB8JSMQQUjM=
+
+Name: res/layout/activity_select_slot.xml
+SHA-256-Digest: hIstaJ6SUszG7ZwWdvJCN2C+Zxz1aree6eg4rx7BcBU=
+SHA1-Digest: R+IE5c6oXN41sKqhgMCO9UesnBE=
+
+Name: res/drawable-xhdpi-v4/back_normal.png
+SHA-256-Digest: 3cKs2f2nhL6gQL4hPgXOzWc5W9v/Mdz4CyaoHxkZEQo=
+SHA1-Digest: WZItT2JoqrbpQuIHk46yQaZwXgM=
+
+Name: res/drawable-xxxhdpi-v4/holland.jpg
+SHA-256-Digest: XiBkYFRXiQFw1lIYuB0rN9mvvbfSSd96IVVPu4iWP6o=
+SHA1-Digest: 7Tzk721XiqA/xrOcIa5T9mNJW5s=
+
+Name: res/layout/section_header.xml
+SHA-256-Digest: RomYdWZPz2f21HpOS9560ILqhZAqDezQWbAnwDXkfPM=
+SHA1-Digest: NjaX4gqJs03sawX11AAX8000VKI=
+
+Name: res/drawable-xxxhdpi-v4/cb_unchecked.png
+SHA-256-Digest: 7xLzLgdRK+O+C3yFIErryxg1ZVj2i/OJgObV7GGhk9w=
+SHA1-Digest: 3yZCSxzd+blsDhvQNi6ouMiVfb0=
+
+Name: res/drawable-xxxhdpi-v4/europe36countries.jpg
+SHA-256-Digest: ySWITiu44FFX6Z8wWs4AshzpPlSzpi62+xkCW9W/tsk=
+SHA1-Digest: VZYSbu9lBoz30IZ+FhO05RJ423s=
+
+Name: res/layout/activity_payment.xml
+SHA-256-Digest: /TYeGyNK8U/BrYFu9ywdEt5DPA6LJr9HYx1Wh/MiwEI=
+SHA1-Digest: cGxGFSjAs6ykaMVNjxKQz0Mo6u0=
+
+Name: res/drawable-xxxhdpi-v4/austria.jpg
+SHA-256-Digest: vDdvWFvXmmmOCr0LOhdtJqWLKWSPm4HaLzShJcjG1y0=
+SHA1-Digest: J3O6+HEtP/r80XBwX2bFFVaST4E=
+
+Name: res/drawable/close.xml
+SHA-256-Digest: isGNwwOMTD7ZMXNdkQQ7ZdVZTFzEPmgoMBpORGtk/cU=
+SHA1-Digest: q6PGdq0pjMUQmhvNvu8N54howSE=
+
+Name: res/menu/menu_submit.xml
+SHA-256-Digest: Rdp9kcncqmzVP7xzdk1WzfWrAVk7njoogu4T/fAknxE=
+SHA1-Digest: ydc9cGjrGlTikdFF+KeE1puDgX4=
+
+Name: res/drawable-xxxhdpi-v4/taiwan.jpg
+SHA-256-Digest: Qi8FC+wP4Kaf7V8yipWzk7zTyJ3OrmYICj4z3a3YxE0=
+SHA1-Digest: UKHinwkvA6Yr+woWetqjjb1ah3c=
+
+Name: res/layout/activity_location_detail.xml
+SHA-256-Digest: 3RHgag2HWHcEjIfSpWw/NzjT8VzTBQ+czeINYTYuQys=
+SHA1-Digest: 4XGyKallgLBH2nH/JA+CFYmbCBg=
+
+Name: res/drawable-xxxhdpi-v4/indonesiaflag.png
+SHA-256-Digest: ZXl7UevMsk7qvTrzbSlinjPwd+lPMdrfQjxwWHZfaLs=
+SHA1-Digest: grX1QklMcFoiH+cCcgdzQaW1Lq4=
+
+Name: res/color/white_bg.xml
+SHA-256-Digest: nsej08aOABp1KaR8TdldENp8o9ax445P+G2a0SWKR4I=
+SHA1-Digest: LMDP44KO/PF4Ko8eg4VrDPmZwYE=
+
+Name: res/drawable-xhdpi-v4/red_back_pressed.9.png
+SHA-256-Digest: KlayboY3JWpLSCwgQ24SjU+scatoDbLSGzhPKRGQy4c=
+SHA1-Digest: 5vhLtpsRWcRfyhvsZ/ElnsgAjUQ=
+
+Name: res/layout/dataplan_detail.xml
+SHA-256-Digest: dG/iaJKSVlvR+SassTH9OEqgRXcCKqvsRq3lzlmyiL4=
+SHA1-Digest: yBO7u5DAvkCKCQNy3f+RT58bZ/s=
+
+Name: res/drawable-xxxhdpi-v4/portugal.jpg
+SHA-256-Digest: sFoz4vtt6sWJ64gXy4BPdSCroYKGdvGyFiUVxwPvnUQ=
+SHA1-Digest: Zpg2mxN6F+/kt4uXyFO+Wk07Tjk=
+
+Name: res/drawable-xxxhdpi-v4/russiaflag.png
+SHA-256-Digest: nkQUQ2OP8ZPL8ckFz+03+xqq967ndymvRwVwGwKsIbI=
+SHA1-Digest: 1+bks+qKmco1NzOdUIqg3O440vc=
+
+Name: res/drawable-xxxhdpi-v4/malasyiaflag.png
+SHA-256-Digest: i70OY9qHBLwSvVYYYn8Hl5XPhVb6u5EAOrYDSboMvj4=
+SHA1-Digest: qRjkcmqm3/Dk2bmFTy4mrPmoz/c=
+
+Name: res/drawable-xxhdpi-v4/tab_home_normal.png
+SHA-256-Digest: Oq/bYlG5b+JWMkg5ZqdeQW1b9q4GvjQ89/HXDPtsHJg=
+SHA1-Digest: 1kDRmM3Ws6Ww76dLtfFodaAnDPc=
+
+Name: res/drawable-xxxhdpi-v4/koreaflag.png
+SHA-256-Digest: kGGR6kmhDLwARqu1pKLEHamU2NxeZ2u70s1b0/A67YU=
+SHA1-Digest: 28tEAYxNA26jdxtbIVEtC9HKaX4=
+
+Name: res/drawable-xxxhdpi-v4/hungary.jpg
+SHA-256-Digest: sVJ8y4Ia7wMcsAawmJmug4/8WDXHtp5WnxZPQFj92u0=
+SHA1-Digest: OzVbDWlqWiYy+6T5rfJG35byvxc=
+
+Name: res/drawable-xxxhdpi-v4/cyprusflag.png
+SHA-256-Digest: 2Cp0QBLVkHeiYD76ZzmgApoTA0qL+q8axnzffNlrGBk=
+SHA1-Digest: HXZElxkqwkYdHUfxxZI228/v2JQ=
+
+Name: res/layout/dataplan_online_item.xml
+SHA-256-Digest: BrD4Vr29eZx6Gsbe626cihNi5ANJS2D/o4ykVK7N/nQ=
+SHA1-Digest: /UCYQC93uo//QvHIieryCCMl3bo=
+
+Name: res/layout/activity_problem_submit.xml
+SHA-256-Digest: TQOy1merryLfL8qvEcLjYVxYxHttKDNxPoj/uc+NftA=
+SHA1-Digest: BI/alQetETFUGavxlxFkbAt5pkE=
+
+Name: res/drawable-xxhdpi-v4/setting_normal.png
+SHA-256-Digest: p0Hs8HgPLNkSfqfQCcq+Wk/mvHyN9KDG6mzJPGhtLi8=
+SHA1-Digest: kU/MkNjtb6E/LtvyI0MXhP3ijSk=
+
+Name: res/drawable-xxhdpi-v4/notification_app_icon_status_bar_black.pn
+ g
+SHA-256-Digest: 417lf5RY86YkVIXkyNK17dJModD8QlnBoS340tsM3IQ=
+SHA1-Digest: /mV4SUMFaiGBjwySkFqpyvmAwfc=
+
+Name: res/drawable-xxxhdpi-v4/ukraineflag.png
+SHA-256-Digest: bKudpL0vKEHTJl6AXnedvlnbPq8IMK7GGhX43QWQDvA=
+SHA1-Digest: QeRK4mfyeuGcj+HmIDM3bv1RiTo=
+
+Name: res/drawable/round_corner_2dp.xml
+SHA-256-Digest: RXjjZi8eYEJVxpROW8LPSQR13HdGi4vy5uZLj5oUPI0=
+SHA1-Digest: iFM0rlzwWB4ucAwrz1NB7xjsnCw=
+
+Name: res/drawable-xxxhdpi-v4/logo_iroaming.png
+SHA-256-Digest: ixI6wRrRDE28Xpr+ahMd9+0Uc/oAYoh1QwKoQF4yA00=
+SHA1-Digest: pNtgV+id78zoaz0Sqb5lyzXYfoU=
+
+Name: res/drawable-xxhdpi-v4/tab_home_pressed.png
+SHA-256-Digest: l+UDdcnso37dfM/dJ4rTthpT4rIL0fGpfvzM5/KBY9A=
+SHA1-Digest: 8iGw06yobx0ea5aVr7txVAY7XwE=
+
+Name: res/drawable-xxxhdpi-v4/czechrepublic.jpg
+SHA-256-Digest: oHPB1/mhrIqUVCWvBACjgjou90NSYkNs4j+DMZKAZbE=
+SHA1-Digest: j54gsWbTr6kpVFMut+g2xf1SaKw=
+
+Name: res/anim/afterpay_fade_out.xml
+SHA-256-Digest: iIqSjhux5EKl9ToPUvjEXj4qB3IJ/rXHsnVEutAj1Bw=
+SHA1-Digest: 5RpIBWZzr7xVBskekco7kmbqfEE=
+
+Name: res/drawable-xxxhdpi-v4/repurchase.png
+SHA-256-Digest: 6BYBFZDzG5R17IrJx2udoRUZlKxRZITdejEQjZbdULA=
+SHA1-Digest: QuTVMXcdjJJTIpZGOtfN9H5BKKw=
+
+Name: res/drawable-xhdpi-v4/back_white_normal.png
+SHA-256-Digest: p12KQTRL+zeVX9e+u4W9Jl3d6fiIiizgBXjz8CKZeLo=
+SHA1-Digest: uQiLp61Y7WakzVVg7yJvoDFfMmM=
+
+Name: res/xml/pref_slot_select.xml
+SHA-256-Digest: EkVGzFL2fvvVjW4sLjAFAHarStmw+4hp/xEcsOLbKnI=
+SHA1-Digest: MhO7cnjgSg5YLAViEgPMwQDJFl0=
+
+Name: res/drawable/white_round_panel_bg.xml
+SHA-256-Digest: x+hQLua3UsKn0n3xiZ7BN3Eggu4odLOEGaaLZZDLuRk=
+SHA1-Digest: QEREnIB8nuaHURJ84erJfD0ToO0=
+
+Name: res/drawable-xhdpi-v4/dialog_foucsbtn_normal.9.png
+SHA-256-Digest: AOSD5YPgdVi2NjbLrfueaFELPiz7ZuiSB54OMo8H96M=
+SHA1-Digest: jGZAOAdKPVHjIt/R9etceO9BcVY=
+
+Name: res/layout/pager_banner.xml
+SHA-256-Digest: vgbt2ejSy09P5jUkLZd3f0gTaYzc6bwdAjJdpTISLAo=
+SHA1-Digest: yzvn65yL6bgPlsyecn1DWOPXHb0=
+
+Name: res/layout/activity_afterpay.xml
+SHA-256-Digest: kgFj+6PMZIpsPAVK51unda0eFwh68aOraB0yHtAiOTA=
+SHA1-Digest: GJfcsao4NqK6f/2IXvbopikDQCQ=
+
+Name: res/drawable-xhdpi-v4/identifier.png
+SHA-256-Digest: d+QMkyNDF5aRP4APjtAHg8V6XdvuUaYj796M8GBl3ws=
+SHA1-Digest: 7Qy+ifEYNMa+kj6yl01Q4qO/iHc=
+
+Name: res/drawable-xxxhdpi-v4/greece.jpg
+SHA-256-Digest: ugZjrIXRSIoHPHWvgJoMMYbx1SJ7zg3nC/aTE6Iz0D8=
+SHA1-Digest: g4CP0P83rFAiTDRPBaEO64GIXNQ=
+
+Name: res/drawable/list_item_selector.xml
+SHA-256-Digest: L6kBWxaPXnU/97PzEQmU6b1ZvvrvqkLAxjBtRD2FSQ8=
+SHA1-Digest: 0YA2SHTnlqB3XWFgnLdxaoSXafA=
+
+Name: res/drawable-xhdpi-v4/dialog_normalbtn_click.9.png
+SHA-256-Digest: jUdtHKfiQFV35f4lJeUAubGPy2bL47/KjbPypWxcM4A=
+SHA1-Digest: 02mUa9/oFTqsqpqhc9D6DqHj2E4=
+
+Name: res/drawable-xhdpi-v4/default_flag.png
+SHA-256-Digest: f32biln2T7/i1uY3RX5Y2MK3ZhibFN6H5ge3iZBs340=
+SHA1-Digest: p2XQHESw+Ff/E9b0sDnNCnHLbyQ=
+
+Name: res/drawable-xhdpi-v4/update_progress.9.png
+SHA-256-Digest: c9Fi4EaYR8wc+blMLuLrNpIqj7vEpJHUUcJRVOslwtc=
+SHA1-Digest: iYx99vhHg4YQGT/amIy0owFSomQ=
+
+Name: res/drawable-xxxhdpi-v4/russia.jpg
+SHA-256-Digest: PWAyINrBc55QDx4zbZjBCVLXlzINWcCYUNXfA0PccUo=
+SHA1-Digest: FwS28HOu23KNjG21fM2iSaZRWF8=
+
+Name: res/drawable-xxxhdpi-v4/slovakia.jpg
+SHA-256-Digest: QQ0ZX+ANpFvwUeTIrX15FE7Pe8kznwsaQeZsL+sFKeI=
+SHA1-Digest: TmyL2uVo5yKdERfFMP6iD/YgK0I=
+
+Name: res/drawable-xxxhdpi-v4/enable.png
+SHA-256-Digest: bnaNi5cRnbeXzOxE5lApnPrDrs67WAmzCw47T+KAN6Q=
+SHA1-Digest: fHr71l+k1pDyE8kSqAGrCzLUGo8=
+
+Name: res/drawable-xxhdpi-v4/zroaming.png
+SHA-256-Digest: MhkZqp3ItFfWnadPhYa0xHb5A4abWluRVKThQ6CQ/ec=
+SHA1-Digest: 3ulrPfwcQ3cC5hXFwS/06l6ZnP8=
+
+Name: res/drawable-xxxhdpi-v4/thailand.jpg
+SHA-256-Digest: F825ClZaOkV6tGWepZk8hZ66cdldhSx9gCaYiac1xsg=
+SHA1-Digest: kt3y2gXnKEnwqIEFSfW29RenxKM=
+
+Name: res/drawable/tab_order.xml
+SHA-256-Digest: K4HSl2/vNN5xztcwKdvahoA6Z1BEhyrlUJbM4PCRP24=
+SHA1-Digest: ZA7GGzs53utG0KTWvwMq9NSbK5g=
+
+Name: res/drawable-xxxhdpi-v4/europe36countriesflag.png
+SHA-256-Digest: LTlZaHn5A4tF8I/pg+BQNhZSpI/wDwiYVNjjqknrGaM=
+SHA1-Digest: 54XMuF1sdSR3IX1xg0qsMNxyrvg=
+
+Name: res/drawable-xxxhdpi-v4/latvia.jpg
+SHA-256-Digest: lOUGCW8Dc5oQV5Fk6r+6JAE0ETHeNCBB1PKoP03eWUE=
+SHA1-Digest: /hrg/khnfZWECoV1/IACrLTMSe8=
+
+Name: res/drawable-xxxhdpi-v4/ireland.jpg
+SHA-256-Digest: T84OhnF6D7BBet9BliMjv7GUqqPy6J1Whf8ApFaSO3w=
+SHA1-Digest: Wo5giTwcK64CirmOMZ4Av4ftjc8=
+
+Name: res/drawable/btn_foucs_selector.xml
+SHA-256-Digest: RgNqYeX9f2fPcu9iTvr88Z8UUj/nU7KI6QzKL2ABdPU=
+SHA1-Digest: OQIa3YPwalNgqmBMp1jiacCuEdc=
+
+Name: res/drawable-xxxhdpi-v4/swedenflag.png
+SHA-256-Digest: YKNrYdYLuaoxJh5n18VA7prugraf+iIRFuj7XiTZQNc=
+SHA1-Digest: z4Z5ZpMHhqrawmLbQaF8q2F2xJQ=
+
+Name: res/drawable-xxxhdpi-v4/polandflag.png
+SHA-256-Digest: DUi7RDIy81RqrZEiRAAWGBJcVEctJ6fY9cUozHA/BXA=
+SHA1-Digest: RcqLyz6b8NYjv+xkpQTNP8OHiK0=
+
+Name: res/layout/solt_select_pref.xml
+SHA-256-Digest: 7Tx6XqiOYI4K2LVdOVsrqPcqEff7hRJJlfGQyr4C3GA=
+SHA1-Digest: 15CCq1wLXP6Aoj0NoHwqge+9fac=
+
+Name: res/drawable-xhdpi-v4/wechat_pay.png
+SHA-256-Digest: c4RP+YDiu7rMDcFHsjiZ6VyLMya07sTU3vw2fUpN4NY=
+SHA1-Digest: FijHWhudNpyuOa7DN6K1LtWEUEs=
+
+Name: res/drawable-xxhdpi-v4/right_arrow.png
+SHA-256-Digest: su625TuQ5xPPgyo/mkE9H/gHsxYEysT9FnFSpiJiVzQ=
+SHA1-Digest: yAbmw+nKsWAghP9fx0FOfbcRSbw=
+
+Name: res/drawable-xxxhdpi-v4/singaporeflag.png
+SHA-256-Digest: bmo9Vc43TE0JUf3C7kkSEyzQYD8jTwN2CLRHvbyjx3s=
+SHA1-Digest: DirSCz0ShvdmMxIFlARPTQ1xP6U=
+
+Name: res/drawable-xhdpi-v4/back_pressed.png
+SHA-256-Digest: PgUxK/U9pKei7keaH+i+k5Vp3/1RLFKKJogx73EbhwQ=
+SHA1-Digest: I+WKSMCEnDKUnSKJ0qusiZTpma0=
+
+Name: res/drawable-xxxhdpi-v4/finland.jpg
+SHA-256-Digest: qefloyF6NasblJ64rWI8TcvA6BZx4X1e9rcVQSIFTkA=
+SHA1-Digest: 0EJ3XzayYLwnw9/hjmQtv21u25w=
+
+Name: res/anim/afterpay_fade_in.xml
+SHA-256-Digest: OrR8dOGu7scm3UoXcFMqEVMdNYKeFuGdoeh7mdiQPG8=
+SHA1-Digest: lUHwbKb2DuNrKXRgfUODFMQoWFo=
+
+Name: res/layout/header.xml
+SHA-256-Digest: r3dc1u9hRjxaYswPrH2pp/LydafNyj1wAvoE+GuxBkc=
+SHA1-Digest: Pe43JUSAK8JK5sSdB9fuN5Ww1x0=
+
+Name: res/drawable-xxxhdpi-v4/sloveniaflag.png
+SHA-256-Digest: cCDglEJdxDyK3keqCkUKWSFR03WC9sFZWSEhAkBBHoI=
+SHA1-Digest: HouZyytiFIzZMI1wDK17HHwZmbY=
+
+Name: res/drawable-xxxhdpi-v4/chinaflag.png
+SHA-256-Digest: clSVt2iFp+tCkea1w5168LO8pUPEq4Roeu+TIrqEIUY=
+SHA1-Digest: BQ3TUA2yNWY3MHPQ3/ykc2HzDPQ=
+
+Name: res/drawable-xhdpi-v4/camera.png
+SHA-256-Digest: FIY7bf13EHTEk/3Ak5AmC/FVG7AFWNRY/SwvZAe8Erk=
+SHA1-Digest: FriP5qk5EReQzgZd5PO3I2ETg2Y=
+
+Name: res/drawable-xxhdpi-v4/tab_order_pressed.png
+SHA-256-Digest: lPYUYKIeBECcLVE8rLMMVAhjlixxZRngCYf5YNEvXIU=
+SHA1-Digest: JopMQnjHHqF8LMHtHRHJHut9SgY=
+
+Name: res/layout/fragment_order.xml
+SHA-256-Digest: TE8yqNRX9IZ5N/Tb4venh6jqInXwgYd+gkyEeD9wU7Q=
+SHA1-Digest: 5x0vOQgNhry0R4QdXykNebUAFW0=
+
+Name: res/drawable/gray_button.xml
+SHA-256-Digest: HB7urcJFem5MofKGAZ1JhG2LQXYHIjFsgjHgs96vbGM=
+SHA1-Digest: u9wuCLz2pJAOrs6bs7ULqSuylP4=
+
+Name: res/drawable/btn_setting.xml
+SHA-256-Digest: VZfNhf4PuPrPiYp0h/N+GLFUBcfjWZjNHe/lz5ELU0c=
+SHA1-Digest: CN941JGbba2kzmtmKi8kXpwdyU4=
+
+Name: res/drawable/back.xml
+SHA-256-Digest: Y53EGiEAXT96JHkTmkMY+MqKc0Eg4ZSJlXNsIADeYNg=
+SHA1-Digest: uVCRMCbZQB1LrTBJk2dhEZkjubs=
+
+Name: res/drawable/checkbox_icon.xml
+SHA-256-Digest: 6ckBxEMHWMOc2kzrGgAba/8Zr7BnHBXAm2hd2CYhg6w=
+SHA1-Digest: mQ7gIOGspzq84lvxz3WBHCV8E88=
+
+Name: res/drawable-xxxhdpi-v4/hongkongflag.png
+SHA-256-Digest: Jom81VcSMjJT6y6D7RfHZz5pLbl2uJYWa/jySeeLBcY=
+SHA1-Digest: JG0FVf5Lf60rWcfJdALOl2PNYrw=
+
+Name: res/drawable-xhdpi-v4/camera_white.png
+SHA-256-Digest: H3oVJJlmBIYidoQsYxISC60hW8Mn4udZyMLcv01hNnc=
+SHA1-Digest: jbV+TvRwiCC845l3oed6mDkphl4=
+
+Name: res/drawable-xxhdpi-v4/setting_pressed.png
+SHA-256-Digest: 0OrNxPcJfNFUWKOoqpuWQyK4ZvQYd4+itp4qc28iUAs=
+SHA1-Digest: Efwqqj2fbn771Bo8ORQLAitI0qQ=
+
+Name: res/drawable-xxxhdpi-v4/denmark.jpg
+SHA-256-Digest: 0FVFdQoBDNu6J8w+iYjmGMH8GMPA7VNCR4q8A31vwyE=
+SHA1-Digest: vEh/XoUblVRfI53raznvIzk5/rc=
+
+Name: res/layout/activity_purchase_detail.xml
+SHA-256-Digest: IbniTY76JUwdw6CU9XTCv+5Sqo77C1rwvYcJuHP4wCU=
+SHA1-Digest: ooa7BPST0Q9jc0vIAoL5p6VXQ6Q=
+
+Name: res/anim/fade_in.xml
+SHA-256-Digest: eeIEWnZ4ds/S0z5eiQfw9V9Do2RGqBVn9zjwK6qMXHo=
+SHA1-Digest: NQgqt1p+OYY8+t+fEvh/L7XztwY=
+
+Name: res/drawable-xxxhdpi-v4/montenegro.jpg
+SHA-256-Digest: rawOoPpdbtwVxyNpU539S6CD9xwF14y08fxrsU6d+nY=
+SHA1-Digest: UW6WNKymyfmRT4DwWuqeCIodGzA=
+

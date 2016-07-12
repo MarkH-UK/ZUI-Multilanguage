@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.zui.zroaming" platformBuildVersionCode="23" platformBuildVersionName="6.0-2438415">
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_UPDATES"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="com.redteamobile.virtual.permission.USE_SOFTSIM"/>
+    <uses-permission android:name="getui.permission.GetuiService.com.zui.zroaming"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <permission android:name="getui.permission.GetuiService.com.zui.zroaming" android:protectionLevel="normal"/>
+    <application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:name="com.zui.zroaming.App" android:supportsRtl="true" android:theme="@style/AppTheme">
+        <activity android:configChanges="mcc|mnc|orientation|screenSize" android:exported="true" android:label="@string/app_name" android:launchMode="singleTop" android:name="com.zui.zroaming.MainActivity">
+            <intent-filter>
+                <action android:name="com.android.iroaming.action.OPEN_APP"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="mcc|mnc|orientation|screenSize" android:name="com.redteamobile.roaming.activites.LocationDetailActivity"/>
+        <activity android:configChanges="mcc|mnc|orientation|screenSize" android:name="com.redteamobile.roaming.activites.OrderDetailActivity"/>
+        <activity android:name="com.redteamobile.roaming.activites.SettingsActivity"/>
+        <activity android:name="com.redteamobile.roaming.activites.PurchaseDetailActivity"/>
+        <activity android:name="com.redteamobile.roaming.activites.PaymentActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.redteamobile.roaming.activites.ChooseDaysActivity"/>
+        <activity android:name="com.redteamobile.roaming.activites.AfterPayActivity"/>
+        <activity android:name="com.redteamobile.roaming.activites.GenericQuestionActivity"/>
+        <activity android:name="com.redteamobile.roaming.activites.SelectSlotActivity"/>
+        <activity android:name="com.redteamobile.roaming.activites.CreditcardPayActivity"/>
+        <activity android:name="com.redteamobile.roaming.activites.ProblemSubmitActivity" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="keyboardHidden|navigation|orientation|screenSize" android:exported="false" android:name="com.alipay.sdk.app.H5PayActivity" android:screenOrientation="behind" android:theme="@style/AppTheme2" android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity android:configChanges="keyboardHidden|navigation|orientation" android:exported="false" android:name="com.alipay.sdk.auth.AuthActivity" android:screenOrientation="behind"/>
+        <activity android:exported="true" android:label="@string/app_name" android:launchMode="singleTop" android:name="com.zui.zroaming.wxapi.WXEntryActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="wx6166c7cb712dfd32"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:launchMode="singleTop" android:name="com.zui.zroaming.wxapi.WXPayEntryActivity" android:screenOrientation="portrait"/>
+        <receiver android:name="com.redteamobile.roaming.receiver.MccChangeReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.USER_COUNTRY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.redteamobile.roaming.service.NotificationTimerService"/>
+        <receiver android:name="com.redteamobile.roaming.receiver.JumpOrderReceiver">
+            <intent-filter>
+                <action android:name="redtea.main_jump_order"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

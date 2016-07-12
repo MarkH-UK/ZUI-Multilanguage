@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Ustaw jako miejscowość domyślną</item>
+        <item>Usuń tę miejscowość</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Domyślna animacja</item>
+        <item>Obróć</item>
+        <item>Spychacz</item>
+        <item>Wiatrak</item>
+        <item>Sześcian</item>
+        <item>Sinusoida</item>
+        <item>Walec</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Brak</item>
+        <item>Otwórz menu na pulpicie</item>
+        <item>Pokaż ostatnio używane aplikacje</item>
+        <item>Otwórz pasek powiadomień</item>
+        <item>Ikona Znajdź</item>
+        <item>Zablokuj ekran</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>기본 도시로 설정</item>
+        <item>이 도시 삭제</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>기본 애니메이션</item>
+        <item>회전</item>
+        <item>불도저</item>
+        <item>윈드밀</item>
+        <item>큐브</item>
+        <item>사인파</item>
+        <item>실린더</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>없음</item>
+        <item>바탕 화면 메뉴 열기</item>
+        <item>최근 사용한 앱 표시</item>
+        <item>알림 바 열기</item>
+        <item>찾기 아이콘</item>
+        <item>화면 잠금</item>
+    </string-array>
+</resources>

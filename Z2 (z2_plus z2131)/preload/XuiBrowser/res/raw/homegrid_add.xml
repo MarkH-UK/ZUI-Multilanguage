@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <page>
+        <item
+            icon_id="10001"
+            icon_property="0x00000003"
+            icon_type="1"
+            src="@drawable/home_icon_navi"
+            title="网址导航"
+            type="2"
+            url="http://hao.lenovo.com/new/?lefr=lebrowser"
+            color="10"/>
+        <item
+            icon_id="10111"
+            icon_property="0x0000001f"
+            icon_type="1"
+            src="@drawable/home_icon_rss"
+            title="新闻头条"
+            type="2"
+            url="rss://"
+            color="1"/>
+        <item
+            icon_id="10108"
+            icon_property="0x00000003"
+            icon_type="1"
+            src="@drawable/home_icon_lestore"
+            title="装机必备"
+            type="2"
+            url="http://app.mb.lenovomm.com"
+            color="4"/>
+         <item
+            icon_id="10003"
+            icon_property="0x00000003"
+            icon_type="1"
+            src="@drawable/home_icon_weather"
+            title="天气"
+            type="2"
+            url="http://tq.m.idea123.cn/"
+            color="5"/>        
+        <!-- <item
+            icon_id="10116"
+            icon_property="0x00000003"
+            icon_type="1"
+            src="@drawable/home_icon_game"
+            title="游戏中心"
+            type="2"
+            url="http://lc.juhuiwan.com.cn"
+            color="3"/>       
+        <item
+            icon_id="10007"
+            icon_property="0x0000000f"
+            icon_type="1"
+            src="@drawable/home_icon_qrcode"
+            title="二维码"
+            type="2"
+            url="scanner://"
+            color="6"/>
+             --> 
+        <item
+            icon_id="10002"
+            icon_property="0x00000003"
+            icon_type="1"
+            src="@drawable/home_icon_baidu"
+            title="百度"
+            type="2"
+            url="http://m.baidu.com/?from=1001163f"
+            color="7"/>
+        <item
+            icon_id="10005"
+            icon_type="1"
+            src="@drawable/home_icon_book"
+            title="看小说"
+            type="2"
+            url="http://k.sogou.com"
+            color="9"/>
+         <item
+            icon_id="10109"
+            icon_type="1"
+            src="@drawable/home_icon_qiubai"
+            title="糗事百科"
+            type="2"
+            url="http://m.qiushibaike.com/?lefr=lebrowser"
+            color="3"/>
+         <item
+            icon_id="10110"
+            icon_type="1"
+            src="@drawable/home_icon_video"
+            title="热门影视"
+            type="2"
+            url="http://m.tv.sohu.com"
+            color="6"/>
+        <!-- <item
+            icon_id="10009"
+            icon_type="1"
+            src="@drawable/home_icon_weibo"
+            title="新浪微博"
+            type="2"
+            url="http://m.weibo.cn/?wm=5091_0018"
+            color="3"/> -->
+        <item
+            icon_id="10010"
+            icon_type="0"
+            src="@drawable/home_icon_itaobao"
+            title="爱淘宝"
+            type="2"
+            url="http://ai.m.taobao.com?pid=mm_109498014_9222652_31126119"
+            color="2"/>
+        <item
+            icon_id="8998"
+            icon_type="1"
+            src="@drawable/home_icon_zuk"
+            title="ZUK官网"
+            type="2"
+            url="http://m.zuk.com/lcbrower/p2.html"
+            color="2"/>
+        <!--
+        <item
+            icon_id="10113"
+            icon_property="0x00000003"
+            icon_type="1"
+            src="@drawable/home_icon_liteapp"
+            title="轻应用"
+            type="2"
+            url="http://mb.lenovomm.com/liteapp/lite.php"
+            color="4"/>     
+            -->
+    </page>
+</root>
+<!--
+     此配置文件注释，只能加，不能减
+	icon_id：图标唯一标识
+		客户端图标唯一标识
+		0		<	icon_id <	10000		文件夹
+		10000	<	icon_id <	1000000		图标
+		服务器图标唯一标识
+		1000000	<	icon_id	<	int			服务器自定义
+			
+	icon_type：升级类型{默认0}
+		0			如果之前版本已经出现过则不添加，否则这个版本要添加
+		1			不管之前版本有没有出现过，这个版本都要有
+		
+	icon_property：属性{默认0}
+		0			默认：	长按弹框可修改、删除
+		0x01		屏蔽修改功能
+		0x02		屏蔽删除功能
+		0x04		屏蔽新窗口打开功能
+		0x08		屏蔽后台打开功能		
+		0x10                            屏蔽生成轻应用 	
+-->
+
+
+<!--
+<item icon_id="10001" icon_type="1" icon_property="1" type="1" title="网址导航" url="http://hao.lenovo.com/?lefr=lebrowser" src="@drawable/home_icon_navi" color="0xfffe9d2b"/>
+<item icon_id="10002" icon_type="1" icon_property="1" type="1" title="百度" url="http://hao.lenovo.com/api/url.php?p=index&amp;a=http%3A%2F%2Fm.baidu.com%2F%3Ffrom%3D1505j" src="@drawable/home_icon_baidu" color="0xff446afe"/>
+<item icon_id="10003" icon_type="1" icon_property="1" type="1" title="天气" url="http://3g.hao123.com/a/tianqi?z=2" src="" color="0xff22aeff"/>
+<item icon_id="10005" icon_type="1" type="1" title="看小说" url="http://hao.lenovo.com/api/url.php?p=index&amp;a=http%3A%2F%2Fwap.hongxiu.com%2F%3Fsiteid%3D12" src="@drawable/home_icon_book" color="0xff58c57c"/>
+<item icon_id="10004" icon_type="1" type="1" title="热门新闻" url="http://3g.163.com/touch/" src="@drawable/home_icon_news" color="0xff7c66cc"/>
+<item icon_id="10007" icon_type="1" icon_property="1" type="1" title="二维码" url="scanner://" src="@drawable/home_icon_qrcode" color="0xff446afe"/>
+<item icon_id="10009" icon_type="1" type="1" title="新浪微博" url="http://m.weibo.cn/?wm=5091_0018" src="@drawable/home_icon_weibo" color="0xfffdc722"/>
+<item icon_id="10006" icon_type="1" type="1" title="美丽说" url="http://m.meilishuo.com/" src="@drawable/home_icon_meilishuo" color="0xfffd6c9c"/>
+<item icon_id="10010" icon_type="1" type="1" title="淘宝" url="http://hao.lenovo.com/zt_gouwu.php" src="@drawable/home_icon_taobao" color="0xffff7624"/>
+<item icon_id="10108" icon_type="1" icon_property="1" type="1" title="软件游戏" url="http://3g.lenovomm.com/w3g/app.html?cnum=17182" src="@drawable/home_icon_zhuangjibibei" color="0xff11c037"/>
+<item icon_id="10109" icon_type="1" type="1" title="糗事百科" url="http://m.qiushibaike.com/?lefr=lebrowser" src="@drawable/home_icon_qiubai" color="0xfffdc722"/>
+<item icon_id="10110" icon_type="1" type="1" title="视频" url="http://m.youku.com" src="@drawable/home_icon_video" color="0xff7c66cc"/>
+<item icon_id="10111" icon_type="1" type="1" title="RSS" url="http://iphone.myzaker.com/zaker/apps_telecom.php?m=ynd486NH978k2&for=LenovoMB" src="@drawable/home_icon_rss" color="0xff7c66cc">
+<item
+     icon_id="10112"
+     icon_type="1"
+     src="@drawable/home_icon_train"
+     title="抢火车票"
+     type="1"
+     url="http://app.fishlee.net/12306/login.html"
+     color="0xffff0000"/>
+     <item
+            icon_id="10005"
+            icon_type="1"
+            src="@drawable/home_icon_book"
+            title="看小说"
+            type="1"
+            url="http://m.qidian.com/default.aspx?f=lenovo2"
+            color="4"/>
+            
+             <item
+            icon_id="10108"
+            icon_property="0x00000003"
+            icon_type="1"
+            src="@drawable/home_icon_zhuangjibibei"
+            title="软件游戏"
+            type="2"
+            url="http://3g.lenovomm.com/w3g/app.html?cnum=17182"
+            color="5"/>
+
+-->

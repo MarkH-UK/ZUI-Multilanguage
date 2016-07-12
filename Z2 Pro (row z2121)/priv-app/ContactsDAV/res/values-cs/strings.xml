@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactsDAV</string>
+    <string name="help">Pomoc</string>
+    <string name="login_auth_preemptive">Preemptivní ověření (doporučeno, ale není kompatibilní s Digest ověřením)</string>
+    <string name="login_base_url">Kořenová URL (sbírky budou detekovány automaticky):</string>
+    <string name="login_email_address">Email:</string>
+    <string name="login_email_description">Vložte prosím svou emailovou adresu. Její doménová adresa bude použita pro automatické zjištění nastavení služby.</string>
+    <string name="login_http_warning">Pokud nepoužijete šifrované připojení (HTTPS), ostatní budou moci lehce získat vaše přihlašovací údaje, kontakty a události.</string>
+    <string name="login_password">Heslo:</string>
+    <string name="login_type_email">Přihlášení s emailovou adresou</string>
+    <string name="login_type_email_description">Detaily účtu budou automaticky rozpoznány podle doménového jména. Příklad: mujucet@icloud.com</string>
+    <string name="login_type_url">Přihlášení s URL a uživatelským jménem</string>
+    <string name="login_type_url_description">Detaily účtu budou automaticky rozpoznány podle URL a uživatelského jména. Nejčastější volba pro vlastní servery.</string>
+    <string name="login_user_name">Uživatelské jméno:</string>
+    <string name="main_manage_accounts">Spravovat synchronizované účty</string>
+    <string name="next">Další</string>
+    <string name="setup_account_details">Detaily účtu</string>
+    <string name="setup_account_name">Jméno účtu:</string>
+    <string name="setup_account_name_hint">Můj CalDAV/CardDAV účet</string>
+    <string name="setup_add_account">Přidat účet</string>
+    <string name="setup_address_books">Adresáře</string>
+    <string name="setup_calendars">Kalendáře</string>
+    <string name="setup_querying_server">Dotazování serveru. Chvíli strpení…</string>
+    <string name="setup_read_only">pouze pro čtení</string>
+    <string name="setup_select_address_book">Vybrat nejvýše jeden adresář (opakovaně tapnout pro odebrání):</string>
+    <string name="setup_select_calendars">Vybrat kalendáře pro synchronizování:</string>
+    <string name="setup_what_to_sync">Které sbírky mají být synchronizovány?</string>
+    <string name="settings_authentication">Ověření</string>
+    <string name="settings_enter_password">Vložit své heslo:</string>
+    <string name="settings_enter_username">Zadat uživatelské jméno</string>
+    <string name="settings_no_accounts">Nebyl nalezen účet DAVdroid</string>
+    <string name="settings_password">Heslo</string>
+    <string name="settings_password_summary">Aktualizovat heslo dle svého serveru.</string>
+    <string name="settings_preemptive">Preemptivní ověření</string>
+    <string name="settings_preemptive_off">Přihlašovací údaje jsou zasílány po vyžádání serverem</string>
+    <string name="settings_preemptive_on">Přihlašovací údaje jsou zasílány s každým požadavkem (doporučeno)</string>
+    <string name="settings_sync">Synchronizace</string>
+    <string name="settings_sync_interval_calendars">Interval synchronizace kalendáře</string>
+    <string name="settings_sync_interval_contacts">Interval synchronizace kontaktů</string>
+    <string name="settings_sync_interval_tasks">Interval synchronizace úkolů</string>
+    <string name="settings_sync_summary_manually">Pouze manuálně</string>
+    <string name="settings_sync_summary_not_available">Nedostupný</string>
+    <string name="settings_sync_summary_periodically">Každých %d minut a ihned při lokálních změnách</string>
+    <string name="settings_title">Nastavení</string>
+    <string name="settings_username">Uživatelské jméno</string>
+    <string name="setup_install_apps_info">Android ve výchozím nastavení nepodporuje seznamy úkolů (narozdíl od konktů a kalendářů).</string>
+    <string name="setup_install_tasks_app_html">&lt;p>DAVdroid umožňuje synchronizaci úkolů s aplikací &lt;a href=\"market://details?id=org.dmfs.tasks\">Tasks app&lt;/a> (by Marten Gajda).&lt;/p> &lt;p>Kvůli chybě v &lt;a href=\"https://code.google.com/p/android/issues/detail?id=25906\">Androidu&lt;/a>, aplikace &lt;b>Tasks app musí být nainstalována před aplikací DAVdroid&lt;/b> (jinak DAVdroid neobdrží práva pro přístup k aplikaci pro úkoly).&lt;/p> &lt;p>Pokud chcete synchronizovat úkoly:&lt;/p> &lt;p>1. nainstalujte aplikaci Tasks app.&lt;br/> 2. přeinstalujte DAVdroid (aby obdržel přístup k úkolům). Odinstalování aplikace DAVdroid smaže vaše DAVdroid účty a nesesynchronizovaná data.&lt;br/> 3. znovu přidejte své DAVdroid účty.&lt;/p> &lt;p>Nebo můžete tyto kroky přeskočit.&lt;/p></string>
+    <string name="setup_select_task_lists">Vybrat seznamy úkolů pro synchronizování:</string>
+    <string name="setup_task_lists">Seznamy úkolů</string>
+    <string name="skip">Přeskočit</string>
+</resources>

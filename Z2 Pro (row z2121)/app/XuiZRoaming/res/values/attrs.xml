@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ci_radius" format="dimension" />
+    <attr name="ci_margin" format="dimension" />
+    <attr name="ci_background" format="integer|color" />
+    <attr name="ci_selected_background" format="integer|color" />
+    <attr name="ci_gravity">
+        <enum name="center" value="1" />
+        <enum name="left" value="0" />
+        <enum name="right" value="2" />
+    </attr>
+    <attr name="ci_mode">
+        <enum name="inside" value="0" />
+        <enum name="outside" value="1" />
+        <enum name="solo" value="2" />
+    </attr>
+    <attr name="maxlines" format="integer" />
+    <attr name="layoutManager" format="string" />
+    <attr name="spanCount" format="integer" />
+    <attr name="reverseLayout" format="boolean" />
+    <attr name="stackFromEnd" format="boolean" />
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Predefinir cidade</item>
+        <item>Eliminar esta cidade</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Animação predefinida</item>
+        <item>Rodar</item>
+        <item>Apertar</item>
+        <item>Moinho de vento</item>
+        <item>Cubo</item>
+        <item>Ondas sinusoidais</item>
+        <item>Cilindro</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Nenhum</item>
+        <item>Abrir menu de ambiente de trabalho</item>
+        <item>Mostrar aplicações recentemente utilizadas</item>
+        <item>Abrir barra de notificação</item>
+        <item>Ícone Localizar</item>
+        <item>Ecrã de bloqueio</item>
+    </string-array>
+</resources>

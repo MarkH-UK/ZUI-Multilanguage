@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Määra vaikelinnaks</item>
+        <item>Kustuta see linn</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Vaikeanimatsioon</item>
+        <item>Pööramine</item>
+        <item>Silumine</item>
+        <item>Tuuleveski</item>
+        <item>Kuubik</item>
+        <item>Siinuslaine</item>
+        <item>Silinder</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Puudub</item>
+        <item>Ava töölauamenüü</item>
+        <item>Kuva hiljuti kasutatud rakendused</item>
+        <item>Ava teatiste riba</item>
+        <item>Otsingu ikoon</item>
+        <item>Lukustuskuva</item>
+    </string-array>
+</resources>

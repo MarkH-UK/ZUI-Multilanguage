@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emails">
+        <item>\@163.com</item>
+        <item>\@126.com</item>
+        <item>\@hotmail.com</item>
+        <item>\@gmail.com</item>
+        <item>\@sina.com</item>
+        <item>\@sohu.com</item>
+        <item>\@qq.com</item>
+        <item>\@yeah.net</item>
+        <item>\@live.cn</item>
+        <item>\@tom.com</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Задаване като град по подразбиране</item>
+        <item>Изтриване на този град</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Анимация по подразбиране</item>
+        <item>Завъртане</item>
+        <item>Булдозер</item>
+        <item>Вятърна мелница</item>
+        <item>Куб</item>
+        <item>Синусоида</item>
+        <item>Цилиндър</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Няма</item>
+        <item>Отваряне на менюто на работния плот</item>
+        <item>Показване на последно използваните приложения</item>
+        <item>Отваряне на лентата за известяване</item>
+        <item>Откриване на икона</item>
+        <item>Екран при заключване</item>
+    </string-array>
+    <string-array name="pref_text_color_choices">
+        <item>Според темата</item>
+        <item>Черен</item>
+        <item>Бял</item>
+    </string-array>
+</resources>

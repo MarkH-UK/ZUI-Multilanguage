@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="login_url_scheme">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+    <string-array name="settings_sync_interval_names">
+        <item>Solo manualmente</item>
+        <item>Cada 5 minutos</item>
+        <item>Cada 10 minutos</item>
+        <item>Cada 15 minutos</item>
+        <item>Cada hora</item>
+        <item>Cada 2 horas</item>
+        <item>Cada 4 horas</item>
+        <item>Una vez al día</item>
+    </string-array>
+    <string-array name="settings_sync_interval_seconds">
+        <item>-1</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+        <item>3600</item>
+        <item>7200</item>
+        <item>14400</item>
+        <item>86400</item>
+    </string-array>
+    <string-array name="sync_error_phases">
+        <item>preparar sincronización</item>
+        <item>consultar capacidades</item>
+        <item>procesar entradas borradas localmente</item>
+        <item>preparar entradas creadas/modificadas</item>
+        <item>cargar entradas creadas/modificadas</item>
+        <item>comprobar estado de sincronización</item>
+        <item>listar entradas locales</item>
+        <item>listar entradas remotas</item>
+        <item>comparar entradas locaesl/remotas</item>
+        <item>descargar entradas remotas</item>
+        <item>guardar estado de sincronización</item>
+    </string-array>
+</resources>

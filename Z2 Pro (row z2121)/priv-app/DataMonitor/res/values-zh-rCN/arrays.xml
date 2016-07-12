@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_month_sheet_date">
+        <item>1日</item>
+        <item>2日</item>
+        <item>3日</item>
+        <item>4日</item>
+        <item>5日</item>
+        <item>6日</item>
+        <item>7日</item>
+        <item>8日</item>
+        <item>9日</item>
+        <item>10日</item>
+        <item>11日</item>
+        <item>12日</item>
+        <item>13日</item>
+        <item>14日</item>
+        <item>15日</item>
+        <item>16日</item>
+        <item>17日</item>
+        <item>18日</item>
+        <item>19日</item>
+        <item>20日</item>
+        <item>21日</item>
+        <item>22日</item>
+        <item>23日</item>
+        <item>24日</item>
+        <item>25日</item>
+        <item>26日</item>
+        <item>27日</item>
+        <item>28日</item>
+        <item>29日</item>
+        <item>30日</item>
+        <item>31日</item>
+    </string-array>
+    <string-array name="traffic_correct_cycle_time">
+        <item>每天</item>
+        <item>每三天</item>
+        <item>每周</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="datetime_unit_name">
+        <item>天</item>
+        <item>小时</item>
+        <item>分钟</item>
+        <item>秒</item>
+    </string-array>
+    <string-array name="traffic_notice_month_percents">
+        <item>80%</item>
+        <item>90%</item>
+        <item>95%</item>
+        <item>关闭提醒</item>
+    </string-array>
+    <string-array name="correct_result">
+        <item>流量校准成功</item>
+        <item>无效的Slot</item>
+        <item>未设置查询回调</item>
+        <item>此卡上次查询尚未结束</item>
+        <item>未设置所属省</item>
+        <item>未设置运营商品牌</item>
+        <item>未设置查询码</item>
+        <item>查询码发生变化</item>
+        <item>查询码不正确</item>
+        <item>网络错误</item>
+        <item>服务器错误</item>
+        <item>接收短信失败</item>
+        <item>发送短信失败</item>
+        <item>运营商繁忙</item>
+        <item>SIM卡未就绪</item>
+        <item>未知错误</item>
+        <item>猜测运营商失败</item>
+    </string-array>
+    <string-array name="sim_name">
+        <item>卡1</item>
+        <item>卡2</item>
+    </string-array>
+    <string-array name="operator_name">
+        <item>中国移动</item>
+        <item>中国联通</item>
+        <item>中国电信</item>
+        <item></item>
+    </string-array>
+    <string-array name="traffic_auto_correct_time">
+        <item>1天</item>
+        <item>3天</item>
+        <item>7天</item>
+        <item>关闭自动校准</item>
+    </string-array>
+    <string-array name="traffic_provinces">
+        <item>北京</item>
+        <item>上海</item>
+        <item>天津</item>
+        <item>重庆</item>
+        <item>河北</item>
+        <item>河南</item>
+        <item>山西</item>
+        <item>山东</item>
+        <item>内蒙古</item>
+        <item>辽宁</item>
+        <item>吉林</item>
+        <item>黑龙江</item>
+        <item>江苏</item>
+        <item>浙江</item>
+        <item>安徽</item>
+        <item>福建</item>
+        <item>江西</item>
+        <item>湖北</item>
+        <item>湖南</item>
+        <item>广东</item>
+        <item>广西</item>
+        <item>海南</item>
+        <item>四川</item>
+        <item>贵州</item>
+        <item>西藏</item>
+        <item>云南</item>
+        <item>陕西</item>
+        <item>甘肃</item>
+        <item>青海</item>
+        <item>宁夏</item>
+        <item>新疆</item>
+    </string-array>
+    <string-array name="month_remaining1_bt">
+        <item>确定</item>
+        <item>进入套餐管理</item>
+    </string-array>
+    <string-array name="month_remaining2_bt">
+        <item>继续连接网络</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="month_remaining3_bt">
+        <item>继续连接网络</item>
+        <item>取消</item>
+    </string-array>
+</resources>

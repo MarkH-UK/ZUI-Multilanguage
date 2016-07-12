@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="login_url_scheme">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+    <string-array name="settings_sync_interval_names">
+        <item>手動同步</item>
+        <item>每 5 分鐘</item>
+        <item>每 10 分鐘</item>
+        <item>每 15 分鐘</item>
+        <item>每 1 小時</item>
+        <item>每 2 小時</item>
+        <item>每 4 小時</item>
+        <item>每 24 小時</item>
+    </string-array>
+    <string-array name="settings_sync_interval_seconds">
+        <item>-1</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+        <item>3600</item>
+        <item>7200</item>
+        <item>14400</item>
+        <item>86400</item>
+    </string-array>
+    <string-array name="sync_error_phases">
+        <item>準備同步</item>
+        <item>要求功能清單</item>
+        <item>處理本機刪除項目</item>
+        <item>準備建立/修改項目</item>
+        <item>上傳建立/修改項目</item>
+        <item>檢查同步狀態</item>
+        <item>檢查本機資料</item>
+        <item>檢查遠端資料</item>
+        <item>比較本機和遠端資料</item>
+        <item>下載遠端資料</item>
+        <item>儲存同步狀態</item>
+    </string-array>
+</resources>

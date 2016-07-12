@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Iestatīt kā noklusējuma pilsētu</item>
+        <item>Dzēst šo pilsētu</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Noklusējuma animācija</item>
+        <item>Pagriešana</item>
+        <item>Noslaucīšana</item>
+        <item>Vējdzirnavas</item>
+        <item>Kubs</item>
+        <item>Sinusoīda</item>
+        <item>Cilindrs</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Nav</item>
+        <item>Atvērt darbvirsmas izvēlni</item>
+        <item>Rādīt nesen lietotās programmas</item>
+        <item>Atvērt paziņojumu joslu</item>
+        <item>Atrast ikonu</item>
+        <item>Bloķēt ekrānu</item>
+    </string-array>
+</resources>

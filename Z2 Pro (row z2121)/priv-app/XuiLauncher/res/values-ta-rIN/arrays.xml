@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>இயல்புநிலை</item>
+        <item>சுழற்று</item>
+        <item>புல்டோஸ்</item>
+        <item>விண்ட்மில்</item>
+        <item>கனசதுரம்</item>
+        <item>சைன் வேவ்</item>
+        <item>உருளை</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>எதுவுமில்லை</item>
+        <item>டெஸ்க்டாப் மெனுவைத் திற</item>
+        <item>சமீபத்தில் பயன்படுத்திய செயலிகளை காட்டு</item>
+        <item>அறிவிக்கைப் பட்டியைத் திற</item>
+        <item>ஐகானைக் கண்டுபிடி</item>
+        <item>லாக் ஸ்கிரீன்</item>
+    </string-array>
+    <string-array name="pref_leftfunction_choices">
+        <item>எதுவுமில்லை</item>
+        <item>t9 தேடல்</item>
+        <item>வலை செயலிகள்</item>
+        <item>விட்ஜெட்கள்</item>
+    </string-array>
+    <string-array name="pref_leftfunction_choices_values">
+        <item>எதுவுமில்லை</item>
+        <item>t9 தேடல்</item>
+        <item>வலை செயலிகள்</item>
+        <item>விட்ஜெட்கள்</item>
+    </string-array>
+    <string-array name="pref_select_desktop_layout_choices">
+        <item>4x5</item>
+        <item>4x4</item>
+    </string-array>
+</resources>

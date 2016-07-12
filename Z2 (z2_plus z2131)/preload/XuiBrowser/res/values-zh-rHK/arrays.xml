@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bookmarks_title">
+        <item>百度</item>
+        <item>新浪</item>
+        <item>網易</item>
+        <item>新浪微博</item>
+        <item>開心網</item>
+        <item>人人網</item>
+    </string-array>
+    <string-array name="bookmarks_url">
+        <item>http://m.baidu.com/</item>
+        <item>http://sina.cn/</item>
+        <item>http://3g.163.com/</item>
+        <item>http://m.weibo.cn/</item>
+        <item>http://m.kaixin001.com/</item>
+        <item>http://3g.renren.com/</item>
+    </string-array>
+</resources>

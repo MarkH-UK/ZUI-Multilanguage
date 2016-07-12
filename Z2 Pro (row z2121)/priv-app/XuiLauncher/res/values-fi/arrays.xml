@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Määritä oletuskaupungiksi</item>
+        <item>Poista kaupunki</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Oletusanimaatio</item>
+        <item>Kierto</item>
+        <item>Puskutraktori</item>
+        <item>Tuulimylly</item>
+        <item>Kuutio</item>
+        <item>Siniaalto</item>
+        <item>Sylinteri</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Ei mitään</item>
+        <item>Avaa työpöydän valikko</item>
+        <item>Näytä viimeksi käytetyt sovellukset</item>
+        <item>Avaa ilmoituspalkki</item>
+        <item>Etsi-kuvake</item>
+        <item>Lukitusnäyttö</item>
+    </string-array>
+</resources>

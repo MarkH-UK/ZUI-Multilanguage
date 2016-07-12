@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<page version="3">
+		<item icon_id="10001" icon_type="11" icon_property="1"/>
+		<item icon_id="10002" icon_type="11" icon_property="1"/>
+		<item icon_id="10003" icon_type="11" icon_property="1"/>
+		<item icon_id="10007" icon_type="11" icon_property="1" src="@drawable/home_icon_qrcode" color="0xff22aeff"/>
+		<item icon_id="10108" icon_type="11" icon_property="1"/>
+	</page>
+	<page version="4">
+		<item icon_id="10001" icon_type="11" url="http://hao.lenovo.com/?lefr=lebrowser"/>
+		<item icon_id="10005" icon_type="11" url="http://m.qidian.com/default.aspx?f=lenovo2"/>
+	</page>
+	<page version="5">
+		<item icon_id="10001" icon_type="11" icon_property="0x00000003"/>
+		<item icon_id="10002" icon_type="11" icon_property="0x00000003"/>
+		<item icon_id="10003" icon_type="11" icon_property="0x00000003" src="@drawable/home_icon_weather"/>
+		<item icon_id="10108" icon_type="11" icon_property="0x00000003"/>
+		<item icon_id="10111" icon_type="11" icon_property="0x0000000f"/>
+		<item icon_id="10004" icon_type="10" />
+	</page>
+	<page version="7">
+		<item icon_id="10002" icon_type="11" url="http://m.baidu.com/"/>
+	</page>
+	<page version="8">
+		<item icon_id="10007" icon_type="11" icon_property="0x0000000f"/>
+	</page>
+	<page version="10">
+		<item icon_id="10001" icon_type="11" color="4"/>
+		<item icon_id="10002" icon_type="11" color="6"/>
+		<item icon_id="10003" icon_type="11" color="6"/>
+		<item icon_id="10007" icon_type="11" color="5"/>
+		<item icon_id="10111" icon_type="11" color="1"/>
+		<item icon_id="10005" icon_type="11" color="4"/>
+		<item icon_id="10009" icon_type="11" color="3"/>
+		<item icon_id="10108" icon_type="11" color="5"/>
+		<item icon_id="10010" icon_type="11" color="2"/>
+		<item icon_id="10110" icon_type="11" color="6"/>
+		<item icon_id="10109" icon_type="11" color="2"/>
+	</page>
+	<page version="11">
+		<item icon_id="10005" icon_type="11" url="http://k.sogou.com"/>
+		<item icon_id="10110" icon_type="11" title="热门影视" url="http://m.tv.sohu.com"/>
+	</page>
+	<page version="12">
+		<item icon_id="10001" icon_type="11" type="2"/>
+		<item icon_id="10002" icon_type="11" type="2"/>
+		<item icon_id="10003" icon_type="11" type="2"/>
+		<item icon_id="10007" icon_type="11" type="2"/>
+		<item icon_id="10111" icon_type="11" type="2"/>
+		<item icon_id="10005" icon_type="11" type="2"/>
+		<item icon_id="10009" icon_type="11" type="2"/>
+		<item icon_id="10108" icon_type="11" type="2"/>
+		<item icon_id="10010" icon_type="11" type="2"/>
+		<item icon_id="10110" icon_type="11" type="2"/>
+		<item icon_id="10109" icon_type="11" type="2"/>
+	</page>
+	<page version="13">
+		<item icon_id="10108" icon_type="11" title="装机必备" url="http://app.lenovo.com/t3g/?cnum=17182"/>
+	</page>
+	<page version="14" >
+	    <item
+            icon_id="10002"
+            icon_type="11"
+            url="http://m.baidu.com/?from=1001163f"/>
+	    <item
+	        icon_id="10108"
+	        icon_type="11"
+	        src="@drawable/home_icon_lestore"
+	        title="装机必备"
+	        url="http://app.lenovo.com/t3g/?cnum=17182"
+	        color="4"/>
+	    <item
+            icon_id="10010"
+            icon_type="11"
+            src="@drawable/home_icon_itaobao"
+            title="爱淘宝"
+            url="http://ai.m.taobao.com/vip?pid=mm_31205575_3470400_11300831"/>
+	</page>
+	<page version="15">
+	    <item
+            icon_id="10001" 
+            icon_type="11"           
+            title="网址导航"            
+            url="http://hao.lenovo.com/new/?lefr=lebrowser"/>
+	    <item
+	        icon_id="10002"
+	        icon_type="11"
+	        color="5"/>
+	    <item
+            icon_id="10005"
+            icon_type="11"            
+            color="6"/>
+         <item
+            icon_id="10109"
+            icon_type="11"
+            color="3"/>
+         <item
+            icon_id="10110"
+            icon_type="11"            
+            color="7"/>
+	    <item
+	        icon_id="10007"
+	        icon_type="10"/>
+	    <item
+	        icon_id="10113"
+	        icon_type="10"/>	    
+	</page>
+	<page version="17">
+	    <item
+	        icon_id="11111"
+	        icon_type="11"
+	        color="4"
+	        url="http://m.so.com/?src=lm&amp;ls=m35c7a32574"/>
+	</page>
+	<page version="18">
+	    <item
+	        icon_id="11111"
+	        icon_type="11"
+	        color="4"
+	        url="http://m.so.com/?src=lm&amp;ls=m35c7a32574"/>
+	</page>
+	<page version="19">
+	    <item
+	        icon_id="11111"
+	        icon_type="11"
+	        color="4"
+	        url="http://m.so.com/?src=lm&amp;ls=m35c7a32574"
+	        title="360搜索"/>
+	</page>
+	<page version="25">
+	    <item
+	        icon_id="10001"
+	        icon_type="11"
+	        color="10"/>
+	    <item
+	        icon_id="10111"
+	        icon_type="11"
+	        color="1"/>
+	    <item
+	        icon_id="10108"
+	        icon_type="11"
+	        color="4"/>
+	    <item
+	        icon_id="10003"
+	        icon_type="11"
+	        color="5"/>
+	    <item
+	        icon_id="10002"
+	        icon_type="11"
+	        color="7"/>
+	    <item
+	        icon_id="10005"
+	        icon_type="11"
+	        color="9"/>
+	    <item
+	        icon_id="10109"
+	        icon_type="11"
+	        color="3"/>
+	    <item
+	        icon_id="10110"
+	        icon_type="11"
+	        color="6"/>
+	    <item
+	        icon_id="11111"
+	        icon_type="11"
+	        color="4"/>
+	</page>
+	<page version="26">
+	    <item
+	        icon_id="10003"
+	        icon_type="11"
+	        url="http://tq.m.idea123.cn/"
+		/>
+	</page>
+	<page version="28">
+	    <item
+	        icon_id="11111"
+	        icon_type="10"
+		/>
+	</page>
+</root>
+
+<!-- 
+	public static final int TRANSPARENT = 0;
+	public static final int RED = 1;
+	public static final int ORANGE = 2;
+	public static final int YELLOW = 3;
+	public static final int GREEN = 4;
+	public static final int CYAN = 5;
+	public static final int BLUE = 6;
+	public static final int VIOLET = 7;
+ -->
+<!-- 此配置文件，只能加，不能减
+	icon_id：图标唯一标识
+		客户端图标唯一标识
+		0		<	icon_id <	10000		文件夹
+		10000	<	icon_id <	1000000		图标
+		服务器图标唯一标识
+		1000000	<	icon_id	<	int			服务器自定义
+	新增的icon从100100开始，新增的文件夹从100开始
+		
+	icon_type：升级类型
+		10			删除该icon，如果已经没有该icon，则 不用删除
+		11			修改icon的基本信息，如果没有该icon，则不做处理
+		12			放入历史图标
+-->

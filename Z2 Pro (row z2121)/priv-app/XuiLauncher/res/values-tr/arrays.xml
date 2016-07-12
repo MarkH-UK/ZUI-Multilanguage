@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Varsayılan şehir yap</item>
+        <item>Bu şehri sil</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Varsayılan</item>
+        <item>Döndür</item>
+        <item>Yık</item>
+        <item>Değirmen</item>
+        <item>Küp</item>
+        <item>Sinüs Dalgası</item>
+        <item>Silindir</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Hiçbiri</item>
+        <item>Launcher menüsünü göster</item>
+        <item>Son kullanılan uygulamaları göster</item>
+        <item>Bildirim çubuğunu göster</item>
+        <item>Simgeyi bul</item>
+        <item>Ekranı kilitle</item>
+    </string-array>
+    <string-array name="pref_text_color_choices">
+        <item>Tema dezaynı</item>
+        <item>Siyah</item>
+        <item>Beyaz</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_slide_effect_choices">
+        <item>Podrazumevana animacija</item>
+        <item>Rotiraj</item>
+        <item>Buldožer</item>
+        <item>Vetrenjača</item>
+        <item>Kocka</item>
+        <item>Sinusoid</item>
+        <item>Cilindar</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Ne postoji</item>
+        <item>Otvori meni radne površine</item>
+        <item>Prikaži nedavno korišćene aplikacije</item>
+        <item>Otvori traku sa obaveštenjima</item>
+        <item>Nađi ikonu</item>
+        <item>Zaključaj ekran</item>
+    </string-array>
+</resources>
