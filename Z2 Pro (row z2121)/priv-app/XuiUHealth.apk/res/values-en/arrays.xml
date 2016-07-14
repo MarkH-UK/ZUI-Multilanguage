@@ -17,7 +17,7 @@
         <item>Indoor run</item>
         <item>Spinning</item>
         <item>Skipping</item>
-        <item>平板支撑</item>
+        <item>Planks</item>
         <item>Yoga</item>
         <item>Dancing</item>
         <item>Aerobics</item>
@@ -39,7 +39,7 @@
         <item>Indoor run</item>
         <item>Spinning</item>
         <item>Skipping</item>
-        <item>平板支撑</item>
+        <item>Planks</item>
         <item>Yoga</item>
         <item>Dancing</item>
         <item>Aerobics</item>
@@ -64,7 +64,7 @@
     </string-array>
     <string-array name="health_array">
         <item>Heart rate</item>
-        <item>Blood oxygen</item>
+        <item>SpO2</item>
         <item>Weight</item>
         <item>Blood pressure</item>
     </string-array>
@@ -73,21 +73,21 @@
         <item>Blood oxygen</item>
         <item>Weight</item>
         <item>Blood pressure</item>
-        <item>Heart rate, blood oxygen</item>
+        <item>Heart rate + SpO2</item>
     </string-array>
     <string-array name="heart_rate_type">
         <item>Resting</item>
         <item>Active</item>
     </string-array>
     <string-array name="pace_speed_5">
-        <item>不疾不徐</item>
-        <item>不慌不忙</item>
-        <item>不紧不慢</item>
+        <item>Slow pace</item>
+        <item>Casual pace</item>
+        <item>Slow walking pace</item>
     </string-array>
     <string-array name="pace_speed_6">
         <item>Slow paced</item>
-        <item>Slowly</item>
-        <item>施施而行</item>
+        <item>Casually</item>
+        <item>Slowly walking pace</item>
     </string-array>
     <string-array name="products">
         <item>ZUK</item>
@@ -99,24 +99,24 @@
         <item>Other</item>
     </string-array>
     <string-array name="step_count_to_food">
-        <item>≈1 Egg</item>
-        <item>≈5 Pieces of toffee</item>
-        <item>≈1 Pint of milk</item>
-        <item>≈1 Fizzy drink</item>
-        <item>≈1 Bowl of rice</item>
-        <item>≈ Half a cake</item>
-        <item>≈1 Ice cream</item>
-        <item>≈ Half a burger</item>
-        <item>≈ Half a packet of crisps</item>
-        <item>≈2 Fizzy drinks</item>
-        <item>≈2 Slices of bread</item>
-        <item>≈2 Bowl of rice</item>
-        <item>≈1 Bowl of noodles</item>
-        <item>≈1 Cake</item>
-        <item>≈3 Chicken wings</item>
-        <item>≈2 Ice creams</item>
-        <item>≈1 Pizza</item>
-        <item>≈1 Burger</item>
+        <item>= 1 Egg</item>
+        <item>= 5 Pieces of toffee</item>
+        <item>= 1 Pint of milk</item>
+        <item>= 1 Fizzy drink</item>
+        <item>= 1 Bowl of rice</item>
+        <item>= Half a cake</item>
+        <item>= 1 Ice cream</item>
+        <item>= Half a burger</item>
+        <item>= Half a packet of crisps</item>
+        <item>= 2 Fizzy drinks</item>
+        <item>= 2 Slices of bread</item>
+        <item>= 2 Bowl of rice</item>
+        <item>= 1 Bowl of noodles</item>
+        <item>= 1 Cake</item>
+        <item>= 3 Chicken wings</item>
+        <item>= 2 Ice creams</item>
+        <item>= 1 Pizza</item>
+        <item>= 1 Burger</item>
     </string-array>
     <string-array name="trend_day_by_hour">
         <item>0</item>
