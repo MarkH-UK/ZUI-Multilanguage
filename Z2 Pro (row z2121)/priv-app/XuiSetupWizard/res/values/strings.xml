@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Settings Wizard</string>
+    <string name="app_name">Setup wizard</string>
     <string name="title_complete">Welcome</string>
     <string name="xui_show_tv">I accept the %1$s and %2$s</string>
-    <string name="user_agreement">User Agreement</string>
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="quick_settings">Quick Settings</string>
-    <string name="skip_setupwizard">Let ZUK!</string>
+    <string name="user_agreement">User agreement</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="quick_settings">Quick settings</string>
+    <string name="skip_setupwizard">Skip setup wizard</string>
     <string name="skip_btn">Skip</string>
     <string name="continue_btn">Next</string>
-    <string name="title_mobiledata">Cellular Data</string>
+    <string name="title_mobiledata">Mobile data</string>
     <string name="title_fingerprinter">Fingerprint</string>
-    <string name="fingerprint_explain">Using fingerprints instead of a password to unlock</string>
-    <string name="add_fingerprint">Add a Fingerprint</string>
-    <string name="setupwizard_finish">You are ready to ZUK</string>
-    <string name="start_to_use">Let ZUK!</string>
-    <string name="fingerprint_already_added">You have added a fingerprint</string>
+    <string name="fingerprint_explain">Use fingerprint instead of password to unlock</string>
+    <string name="add_fingerprint">Add fingerprint</string>
+    <string name="setupwizard_finish">Start using ZUI</string>
+    <string name="start_to_use">Get started</string>
+    <string name="fingerprint_already_added">Fingerprint already added</string>
     <string name="next_step">Next</string>
 </resources>
