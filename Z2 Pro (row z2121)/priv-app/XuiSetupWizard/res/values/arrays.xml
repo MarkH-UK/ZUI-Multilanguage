@@ -4,10 +4,20 @@
         <item>zh_CN</item>
         <item>zh_TW</item>
         <item>en_GB</item>
+        <item>it_IT</item>
+        <item>fr_FR</item>
+        <item>de_DE</item>
+        <item>es_ES</item>
+        <item>pl_PL</item>
     </string-array>
     <string-array name="special_locale_names">
-        <item>中文简体</item>
-        <item>中文繁體</item>
+        <item>Chinese simplified</item>
+        <item>Chinese traditional</item>
         <item>English</item>
+        <item>Italian</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Spanish</item>
+        <item>Polish</item>
     </string-array>
 </resources>
