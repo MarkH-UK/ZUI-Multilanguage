@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">User Experience</string>
+    <string name="app_name">User experience</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="file_boot_mode">/sys/class/BOOT/BOOT/boot/boot_mode</string>
     <string name="build_file_path">/system/build.prop</string>
     <string name="btn_cancel">Cancel</string>
     <string name="btn_agree">OK</string>
-    <string name="ue_title">User Experience Improvement Plan</string>
-    <string name="uepromotion_protocol">"\u0009Thank you for selecting Lenovo mobile devices! Before using the User experience improvement plan function of Lenovo mobile devices, you must read the following terms carefully:
- \u0009We will provide the mobile communication network/Internet based online data center related services in accordance with this user experience improvement plan (this plan). In this plan, all the information, functions, contents, software, hardware or services provided directly by us are collectively referred to as Services.The plan is signed by you and Beijing Legend Tiaopin Technology Co., Ltd. (hereinafter referred to as we or our company). Depending on the context, in this plan, we may sometimes include our suppliers, service providers, customers or employees. Any reference to you shall mean any entity or individual who agrees to join or use this service.
+    <string name="ue_title">User experience feedback</string>
+    <string name="uepromotion_protocol">"\u0009Thank you for selecting ZUK and ZUI! Before using the User experience feedback function of ZUI, you must read the following terms carefully:
+ \u0009We will provide mobile communication network/Internet based online data center related services in accordance with this user experience feedback plan (this plan). In this plan, all the information, functions, contents, software, hardware or services provided directly by us are collectively referred to as Services. The plan is signed by you and Beijing Legend Tiaopin Technology Co., Ltd. (hereinafter referred to as we or our company). Depending on the context, in this plan, we may sometimes include our suppliers, service providers, customers or employees. Any reference to you shall mean any entity or individual who agrees to join or use this service.
  1. \u0009Service definition and description
  User experience improvement plan is a service function we proposed for Lenovo mobile devices, which is designed to enhance the products or services and improve the user experience. After enabling the User experience improvement plan function in your mobile device, you can have the priority to experience the new services of User experience improvement plan while using the original functions of your mobile devices: 
  
